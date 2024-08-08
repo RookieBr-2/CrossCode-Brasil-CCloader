@@ -1195,7 +1195,7 @@
                 {
                   "message": {
                     "": "Welcome to our humble garden, \\v[lore.title.seeker].\\. I appreciate your interest in our work, but you should visit \\c[3]\\v[lore.title.seeker]-Central\\c[0] first.",
-                    "en_US": "Bem-vindo ao nosso humilde jardim, \\v[lore.title.seeker].\\. Agradeço seu interesse em nosso trabalho, mas você deve visitar \\c[3]\\v[lore.title.seeker] Hub\\c[0] primeiro.",
+                    "en_US": "Bem-vinda ao nosso humilde jardim, \\v[lore.title.seeker].\\. Agradeço seu interesse em nosso trabalho, mas você deve visitar a \\c[3]Central de Missões\\c[0] primeiro.",
                     "de_DE": "Willkommen in unserem bescheidenen Garten, Seeker.\\. Dein Pflichtbewusstsein ehrt dich, aber du solltest erst zum \\c[3]Seeker Hub\\c[0] gehen.",
                     "fr_FR": "fr_FR",
                     "langUid": 5,
@@ -1214,7 +1214,7 @@
                 {
                   "message": {
                     "": "On the ground floor is an introduction into the different branches of the great tree that is human civilization.",
-                    "en_US": "No andar térreo há uma introdução aos diferentes ramos da grande árvore que é a civilização humana.",
+                    "en_US": "No primeiro andar há uma introdução aos diferentes ramos da grande árvore que é a civilização humana.",
                     "de_DE": "Im Erdgeschoss gibt es eine Einweisung in die verschiedenen Zweige des Gro\u00dfen Stammbaums - unserer menschlichen Zivilisation.",
                     "fr_FR": "fr_FR",
                     "langUid": 427,
@@ -1233,7 +1233,7 @@
                 {
                   "message": {
                     "": "It is mandatory for receiving assignments from us or any other branch in \\v[area.rookie-harbor.name].",
-                    "en_US": "É obrigatório para receber atribuições de nós ou de qualquer outra filial no \\v[area.rookie-harbor.name].",
+                    "en_US": "É um processo obrigatório para obter tarefas nossas ou de qualquer outra facção no \\v[area.rookie-harbor.name].",
                     "de_DE": "Sie ist die Voraussetzung daf\u00fcr, um bei uns oder anderen Zweigen in Rookie Harbor Aufgaben zu bekommen.",
                     "fr_FR": "fr_FR",
                     "langUid": 428,
@@ -1395,7 +1395,7 @@
                     {
                       "message": {
                         "": "Use \\c[3]your instincts as a \\v[lore.title.seeker]\\c[0] to find the afflicted trees and treat them with the extract.",
-                        "en_US": "Use os \\c[3]seus instintos como \\v[lore.title.seeker]\\c[0] para encontrar as árvores doentes e tratá-las com o extrato.",
+                        "en_US": "Use os \\c[3]seus instintos de \\v[lore.title.seeker]\\c[0] para encontrar as árvores doentes e tratá-las com o extrato.",
                         "de_DE": "Folge \\c[3]deinem Seeker-Instinkt\\c[0], um die befallenen B\u00e4ume zu finden und zu behandeln.",
                         "fr_FR": "fr_FR",
                         "langUid": 260,
@@ -1579,7 +1579,7 @@
                 {
                   "message": {
                     "": "Ah, you are done. Wonderful!\\. Your effort should have quelled the threat to \\v[area.autumn-area.name].",
-                    "en_US": "Ah, você conseguiu. Maravilhoso!\\. Seu esforço deve ter diminuído a ameaça no \\v[area.autumn-area.name].",
+                    "en_US": "Ah, você conseguiu!\\. Seu esforço deve ter diminuído a ameaça no \\v[area.autumn-area.name].",
                     "de_DE": "Ah, du bist fertig! Wunderbar!\\. Dank deiner Bem\u00fchungen sollte die Gefahr nun gebannt sein.",
                     "fr_FR": "fr_FR",
                     "langUid": 250,
@@ -1598,7 +1598,7 @@
                 {
                   "message": {
                     "": "You have our deepest thanks.\\. May we continue to preserve the harmony on this world together.",
-                    "en_US": "Você tem nossos mais sinceros agradecimentos.\\. Que possamos continuar a preservar a harmonia neste mundo juntos.",
+                    "en_US": "Estamos profundamente gratos.\\. Vamos continuar juntos na missão de preservar a harmonia neste mundo.",
                     "de_DE": "Wir danken dir von ganzem Herzen!\\. Auf dass wir auch in Zukunft gemeinsam die Harmonie auf dieser Welt bewahren m\u00f6gen.",
                     "fr_FR": "fr_FR",
                     "langUid": 264,
@@ -2171,7 +2171,7 @@
                 {
                   "message": {
                     "": "You have our deepest thanks.\\. May we continue to preserve the harmony on this world together.",
-                    "en_US": "Você tem nossos mais sinceros agradecimentos.\\. Que possamos continuar a preservar a harmonia neste mundo juntos.",
+                    "en_US": "Estamos profundamente gratos.\\. Vamos continuar juntos na missão de preservar a harmonia neste mundo.",
                     "de_DE": "Wir danken dir von ganzem Herzen!\\. Auf dass wir auch in Zukunft gemeinsam die Harmonie auf dieser Welt bewahren m\u00f6gen.",
                     "fr_FR": "fr_FR",
                     "langUid": 272,
@@ -3223,7 +3223,7 @@
                 {
                   "message": {
                     "": "Ah, you are done. Wonderful!\\. Your effort should have quenched the threat to \\v[area.autumn-area.name].",
-                    "en_US": "Ah, você conseguiu. Maravilhoso!\\. Seu esforço deve ter diminuído a ameaça no \\v[area.autumn-area.name].",
+                    "en_US": "Ah, você conseguiu!\\. Seu esforço deve ter diminuído a ameaça no \\v[area.autumn-area.name].",
                     "de_DE": "Ah, du hast es geschafft! Wunderbar!\\. Dank deiner Bem\u00fchungen sollte die Gefahr in Autumn's Rise nun gebannt sein.",
                     "fr_FR": "fr_FR",
                     "langUid": 460,
@@ -3242,7 +3242,7 @@
                 {
                   "message": {
                     "": "You have our deepest thanks.\\. May we continue to preserve the harmony on this world together.",
-                    "en_US": "Você tem nossos mais sinceros agradecimentos.\\. Que possamos continuar a preservar a harmonia neste mundo juntos.",
+                    "en_US": "Estamos profundamente gratos. Vamos continuar juntos na missão de preservar a harmonia neste mundo.",
                     "de_DE": "Wir danken dir von ganzem Herzen!\\. Auf dass wir auch in Zukunft gemeinsam die Harmonie auf dieser Welt bewahren m\u00f6gen.",
                     "fr_FR": "fr_FR",
                     "langUid": 461,
@@ -3388,7 +3388,7 @@
                 {
                   "message": {
                     "": "Welcome to our gardens, \\v[lore.title.seeker]. I am Manzana, the Chief Woodkeeper of this branch.",
-                    "en_US": "Bem-vinda aos nossos jardins, \\v[lore.title.seeker]. Eu sou Manzana, o chefe dos lenhadores deste ramo.",
+                    "en_US": "Bem-vinda aos nossos jardins, \\v[lore.title.seeker]. Eu sou Manzana, o chefe dos lenhadores desta região.",
                     "de_DE": "Willkommen in unserem Garten, Seeker. Ich bin Manzana, der Chefbaumh\u00fcter der hiesigen Zweigstelle.",
                     "fr_FR": "fr_FR",
                     "langUid": 248,
@@ -3569,7 +3569,7 @@
                     {
                       "message": {
                         "": "Use \\c[3]your instincts as a \\v[lore.title.seeker]\\c[0] to find the afflicted trees and treat them with the extract.",
-                        "en_US": "Use \\c[3]seus instintos como \\v[lore.title.seeker]\\c[0] para encontrar as árvores afetadas e tratá-las com a seiva.",
+                        "en_US": "Use \\c[3]seus instintos de \\v[lore.title.seeker]\\c[0] para encontrar as árvores afetadas e tratá-las com a seiva.",
                         "de_DE": "Folge \\c[3]deinem Seeker-Instinkt\\c[0], um die befallenen B\u00e4ume zu finden und zu behandeln.",
                         "fr_FR": "fr_FR",
                         "langUid": 423,

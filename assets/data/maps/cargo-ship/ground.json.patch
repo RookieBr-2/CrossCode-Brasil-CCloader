@@ -891,7 +891,7 @@
               {
                 "message": {
                   "": "Maybe some day I'll finally be able to play CrossWorlds as well.\\. And then, who knows, we might just meet again!",
-                  "en_US": "Talvez algum dia eu finalmente consiga jogar CrossWorlds também.\\. E então, quem sabe, talvez possamos nos encontrar novamente!",
+                  "en_US": "Um dia, se eu conseguir jogar CrossWorlds,\\. talvez a gente se esbarre de novo!",
                   "de_DE": "Vielleicht werde ich eines Tages auch CrossWorlds spielen k\u00f6nnen.\\. Und wer wei\u00df, vielleicht treffen wir uns dann wieder!",
                   "zh_CN": "\u4e5f\u8bb8\u5c06\u6765\u6709\u5929\u6211\u4e5f\u80fd\u591f\u73a9\u4e0a\u8fdc\u661f\u4e16\u754c\u3002\\.\u8bf4\u4e0d\u5b9a\uff0c\u54b1\u4fe9\u8fd8\u80fd\u89c1\u4e0a\u9762\u5462\uff01",
                   "ja_JP": "\u3044\u3064\u304b\u3001\u4ffa\u306b\u3082\u30af\u30ed\u30b9\u30ef\u30fc\u30eb\u30c9\u3092\u904a\u3079\u308b\u65e5\u304c\u6765\u308b\u306f\u305a\u3055\u3002\\.\u305d\u306e\u6642\u306f\u3001\u307e\u305f\u541b\u3068\u4f1a\u3048\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u306a\uff01",
@@ -1049,7 +1049,7 @@
               {
                 "message": {
                   "": "Well, admittedly CrossWorlds is pretty amazing.",
-                  "en_US": "Bem, eu devo admitir CrossWorlds é bem incrivel",
+                  "en_US": "Bem, eu devo admitir CrossWorlds é bem incrivel.",
                   "de_DE": "Aber ich muss schon zugeben, CrossWorlds ist ziemlich beeindruckend.",
                   "zh_CN": "\u65e0\u53ef\u5426\u8ba4\uff0c\u8fdc\u661f\u4e16\u754c\u786e\u5b9e\u592a\u795e\u5947\u4e86\u3002",
                   "ja_JP": "\u307e\u3042\u5b9f\u969b\u3001\u30af\u30ed\u30b9\u30ef\u30fc\u30eb\u30c9\u304c\u3059\u3054\u3044\u306e\u306f\u672c\u5f53\u3060\u3068\n\u601d\u3046\u3051\u3069\u3002",
@@ -1265,7 +1265,7 @@
           {
             "message": {
               "": "And she's a Spheromancer class!\\. How awesome is that?",
-              "en_US": "E sua classe é Esferomante!\\. Quão incrivel é isso?",
+              "en_US": "E sua classe é Esferomante!\\. Incrível, não é?",
               "de_DE": "Und sie ist ein Spheromancer!\\. Wie geil ist das denn?",
               "zh_CN": "\u800c\u4e14\u5979\u662f\u540d\u6c14\u5706\u4f7f\u8005\uff01\\.\u5389\u5bb3\u54e6\u3002",
               "ja_JP": "\u3057\u304b\u3082\u30b9\u30d5\u30a3\u30ed\u30de\u30f3\u30b5\u30fc\u3060\uff01\n\\.\u30e1\u30c1\u30e3\u30af\u30c1\u30e3\u3059\u3054\u3044\u3058\u3083\u306a\u3044\u304b\uff01",
@@ -1380,7 +1380,7 @@
             "message": {
               "de_DE": "Ja ja, ich wei\u00df.\\. Ich sollte hier endlich mal aufr\u00e4umen.",
               "": "Yeah... I know.\\. I'm supposed to clean that up.",
-              "en_US": "Sim, eu sei...\\. Eu devo limpar isso.",
+              "en_US": "Sim, eu sei...\\. Eu tinha que limpar isso.",
               "langUid": 24,
               "fr_FR": "",
               "zh_CN": "\u662f\u7684\u2026\u6211\u77e5\u9053\u3002\\.\u672c\u6765\u662f\u8be5\u6211\u5904\u7406\u7684\u3002",
@@ -1396,7 +1396,7 @@
             "message": {
               "de_DE": "Jetzt k\u00fcmmere ich mich aber erstmal um den Avatar.",
               "": "But right now I have to take care of the avatar, y'know?",
-              "en_US": "Mas agora eu tenho que cuidar do avatar, sabe?",
+              "en_US": "Mas agora eu tenho que cuidar do avatar, entende?",
               "langUid": 25,
               "fr_FR": "",
               "zh_CN": "\u4e0d\u8fc7\u73b0\u5728\uff0c\u6211\u8fd8\u5f97\u7167\u987e\u8fd9\u4f4d\u865a\u62df\u4eba\u7269\uff0c\u4f60\u4eec\u61c2\u5427\uff1f",
@@ -1623,7 +1623,7 @@
           {
             "message": {
               "": "A Spheromancer\\.! So awesome!",
-              "en_US": "Uma Esferomante\\.! Irado!",
+              "en_US": "Uma Esferomante!\\. Irado!",
               "de_DE": "Ein Spheromancer!\\. Der Wahnsinn!",
               "zh_CN": "\u6c14\u5706\u4f7f\u8005\\.! \u592a\u5389\u5bb3\u4e86\uff01",
               "ja_JP": "\u30b9\u30d5\u30a3\u30ed\u30de\u30f3\u30b5\u30fc\u304b\uff01\\.\u3059\u3054\u3044\u306a\u3042\uff01",
@@ -1836,7 +1836,7 @@
           {
             "message": {
               "": "Woot!\\. She talked to me!",
-              "en_US": "Uow!\\. Ela falou comigo!",
+              "en_US": "Uau!\\. Ela falou comigo!",
               "de_DE": "Woaaah!\\. Sie spricht! Mit mir!",
               "zh_CN": "\u54c7\u585e\uff01\\.\u5979\u8ddf\u6211\u8bf4\u8bdd\u4e86\uff01",
               "ja_JP": "\u3046\u304a\u304a\uff01\\.\u8a71\u3057\u304b\u3051\u3066\u304d\u305f\uff01",
@@ -1900,7 +1900,7 @@
           {
             "message": {
               "": "She told us that you could take care of all these boxes here.",
-              "en_US": "Ela nos disse que você poderia cuidar de todas essas caixas aqui.",
+              "en_US": "Ela falou que você poderia dar conta de todas essas caixas aqui.",
               "de_DE": "Sie hat gesagt, dass du dich um die ganzen Kisten hier k\u00fcmmern k\u00f6nntest.",
               "zh_CN": "\u5979\u8ddf\u6211\u4eec\u8bf4\u4f60\u53ef\u4ee5\u89e3\u51b3\u6389\u8fd9\u4e9b\u7bb1\u5b50\u3002",
               "ja_JP": "\u3042\u306a\u305f\u306a\u3089\u3001\u3053\u306e\u90e8\u5c4b\u306b\u3042\u308b\u7bb1\u3092\u4f55\u3068\u304b\u3067\u304d\u308b\u3063\u3066\u8a00\u3063\u3066\u305f\u3002",
@@ -1918,7 +1918,7 @@
           {
             "message": {
               "": "I mean, really, can you believe that woman?\\. Now she's loading off her work on our guests.",
-              "en_US": "Quero dizer, fala sério, você pode acreditar naquela mulher?\\. Agora ela está deixando seu trabalho para nossos convidados.",
+              "en_US": "Sério, dá pra acreditar?\\. Agora ela está jogando o trabalho para a nossa convidada.",
               "de_DE": "Also wirklich, ist das denn zu glauben?\\. Jetzt schiebt sie ihre Arbeit schon auf unsere G\u00e4ste ab.",
               "zh_CN": "\u96be\u4ee5\u7f6e\u4fe1\u5bf9\u5427\uff1f\\.\u5979\u5c45\u7136\u628a\u5de5\u4f5c\u63a8\u5378\u7ed9\u6211\u4eec\u7684\u5ba2\u4eba\u3002",
               "ja_JP": "\u3067\u3082\u3001\u672c\u5f53\u306b\u3042\u306e\u4eba\u3092\u4fe1\u3058\u3066\u3044\u3044\u306e\u304b\u3057\u3089\uff1f\\.\u81ea\u5206\u306e\u4ed5\u4e8b\u3092\u304a\u5ba2\u3055\u3093\u306b\u62bc\u3057\u4ed8\u3051\u308b\u306a\u3093\u3066\u3002",
@@ -1936,7 +1936,7 @@
           {
             "message": {
               "": "Well, she has a point.",
-              "en_US": "Bem, ela tem um ponto.",
+              "en_US": "Bem, ela tem razão.",
               "de_DE": "Nun, da hat sie nicht unrecht.",
               "zh_CN": "\u4e0d\u8fc7\u5979\u8bf4\u7684\u8bdd\u4e5f\u6709\u70b9\u9053\u7406\u3002",
               "ja_JP": "\u3067\u3082\u3001\u9069\u6750\u9069\u6240\u3058\u3083\u306a\u3044\u304b\uff1f",
@@ -1954,7 +1954,7 @@
           {
             "message": {
               "": "It's easy to destroy these boxes with your avatar weapons, right?",
-              "en_US": "É fácil destruir essas caixas com suas armas de avatar, certo?",
+              "en_US": "É fácil destruir essas caixas com suas armas de avatar, não é?",
               "de_DE": "F\u00fcr Sie ist es wahrscheinlich ein Klacks, die Kisten mit Ihren Avatarwaffen zu zerst\u00f6ren, stimmt's?",
               "zh_CN": "\u7528\u4f60\u7684\u865a\u62df\u6b66\u5668\u5e94\u8be5\u5f88\u5bb9\u6613\u6467\u6bc1\u8fd9\u4e9b\u7bb1\u5b50\uff0c\u5bf9\u5427\uff1f",
               "ja_JP": "\u30a2\u30d0\u30bf\u30fc\u306e\u6b66\u5668\u306a\u3089\u3001\u3042\u306e\u7bb1\u3092\u7c21\u5358\u306b\u58ca\u305b\u308b\u3088\u306a\uff1f",
@@ -2006,7 +2006,7 @@
           {
             "message": {
               "": "Well...\\. no pressure, you know.\\. You are our guest after all.\\. But you'd help us out a lot.",
-              "en_US": "Bem...\\. sem pressão, você sabe.\\. Afinal, você é nossa convidada.\\. Mas você nos ajudaria muito.",
+              "en_US": "Olha...\\. sem pressão, ok?\\. Afinal, você é nossa convidada.\\. Mas seria ótimo se pudesse dar uma força.",
               "de_DE": "Aber...\\. \u00fcbernimm dich nicht.\\. Du bist nach wie vor unser Gast.\\. Du w\u00fcrdest uns damit aber wirklich sehr helfen.",
               "zh_CN": "\u55ef\u2026\\.\u522b\u6709\u538b\u529b\u3002\\.\u6bd5\u7adf\u4f60\u662f\u6211\u4eec\u7684\u5ba2\u4eba\u3002\\.\u4e0d\u8fc7\u8981\u662f\u613f\u610f\u7684\u8bdd\u90a3\u771f\u662f\u5e2e\u4e86\u5927\u5fd9\u4e86\u3002",
               "ja_JP": "\u3048\u30fc\u3068...\\.\u7121\u7406\u306b\u3084\u3089\u306a\u304f\u3066\u3044\u3044\u306e\u3088\u3002\\.\u3042\u306a\u305f\u306f\u304a\u5ba2\u3055\u3093\u306a\u3093\u3060\u304b\u3089\u3002\\.\u3067\u3082\u3084\u3063\u3066\u304f\u308c\u308b\u3068\u52a9\u304b\u308b\u308f\u3002",
@@ -2189,7 +2189,7 @@
           {
             "message": {
               "": "Woohoo!\\. This is amazing!",
-              "en_US": "Uoou!\\. Isso é incrivel!",
+              "en_US": "Uaau!\\. Isso é incrivel!",
               "de_DE": "Boah!\\. Unglaublich! ",
               "zh_CN": "\u5594\u5662\uff01\\.\u592a\u795e\u5947\u4e86\uff01",
               "ja_JP": "\u304a\u304a\u304a\uff01\\.\u30db\u30f3\u30c8\u3001\u3059\u3054\u3044\u306a\uff01",
@@ -2206,7 +2206,7 @@
           {
             "message": {
               "": "Well, it certainly works!",
-              "en_US": "Bem, certamente funciona!",
+              "en_US": "Bom, parece que funciona mesmo!",
               "de_DE": "Das fluppt ja wie am Schn\u00fcrchen!",
               "zh_CN": "\u55ef\uff0c\u786e\u5b9e\u5389\u5bb3\uff01",
               "ja_JP": "\u3053\u308c\u306a\u3089\u3044\u3051\u305d\u3046\u306d\uff01",
@@ -2295,7 +2295,7 @@
           {
             "message": {
               "": "All cleared!\\. Truly amazing!",
-              "en_US": "Tudo limpo!\\. Realmente incrivel!",
+              "en_US": "Tudo limpo!\\. Que incrivel!",
               "de_DE": "Alle erledigt!\\. Wirklich beeindruckend!",
               "zh_CN": "\u90fd\u6e05\u7406\u5b8c\u4e86\uff01\\.\u771f\u7684\u592a\u795e\u5947\u4e86\uff01",
               "ja_JP": "\u7bb1\u304c\u7247\u4ed8\u3044\u305f\uff01\\.\u6700\u9ad8\u3060\u3088\uff01",
@@ -2374,7 +2374,7 @@
           {
             "message": {
               "": "I didn't see any balls.\\. Only those boxes disappearing for whatever reason.",
-              "en_US": "Eu não vi nenhuma esfera.\\. Apenas aquelas caixas desaparecendo por algum motivo.",
+              "en_US": "Eu não vi nenhuma esfera.\\. Só vi as caixas sumindo do nada.",
               "de_DE": "Ich habe keine B\u00e4lle gesehen.\\. Nur wie diese Kisten aus irgendeinem Grund verschwunden sind.",
               "zh_CN": "\u6211\u6ca1\u770b\u5230\u4ec0\u4e48\u7403\u554a\u3002\\.\u6211\u53ea\u770b\u5230\u8fd9\u4e9b\u7bb1\u5b50\u4e0d\u77e5\u600e\u4e48\u5c31\u6d88\u5931\u4e86\u3002",
               "ja_JP": "\u30dc\u30fc\u30eb\u306a\u3093\u3066\u898b\u3048\u306a\u304b\u3063\u305f\u3002\\.\u79c1\u306b\u898b\u3048\u305f\u306e\u306f\u3001\n\u7bb1\u304c\u6b21\u3005\u306b\u6d88\u3048\u3066\u3044\u304f\u69d8\u5b50\u3060\u3051\u3088\u3002",
@@ -2436,7 +2436,7 @@
           {
             "message": {
               "": "The balls and their impact are all like... virtual and stuff.",
-              "en_US": "As esferas e seu impacto são tipo... virtuais, algo assim.",
+              "en_US": "As esferas e seu impacto são... virtuais, algo assim.",
               "de_DE": "Die B\u00e4lle und ihre Durchschlagskraft sind halt... virtuell und so.",
               "zh_CN": "\u90a3\u4e9b\u7403\u548c\u5b83\u4eec\u7684\u51b2\u51fb\u529b\u90fd\u662f\u4e9b\u2026\u865a\u62df\u4e4b\u7c7b\u7684\u4e1c\u897f\u3002",
               "ja_JP": "\u30dc\u30fc\u30eb\u3068\u305d\u306e\u885d\u6483\u306f...\u3044\u308f\u3086\u308b\u30d0\u30fc\u30c1\u30e3\u30eb\u7684\u306a\n\u3082\u306e\u306a\u3093\u3060\u3002",
@@ -2472,7 +2472,7 @@
           {
             "message": {
               "": "Goofy? You know nothing about style, lady!",
-              "en_US": "Brega? Você não sabe nada sobre estilo, senhorita!",
+              "en_US": "Brega? Você não sabe nada sobre estilo, colega!",
               "de_DE": "Albern? Fr\u00e4ulein, du hast keine Ahnung von gutem Stil!",
               "zh_CN": "\u50bb\u516e\u516e\uff1f\u8fd9\u53eb\u65f6\u5c1a\u3002\u6211\u770b\u4f60\u662f\u5b8c\u5168\u4e0d\u61c2\u54e6\uff01",
               "ja_JP": "\u30d8\u30f3\u30c6\u30b3\u3060\u3063\u3066\uff1f\u3053\u308c\u306e\u3088\u3055\u304c\u308f\u304b\u3089\u306a\u3044\u306e\u304b\u3001\n\u541b\u3063\u3066\u3084\u3064\u306f\uff01",

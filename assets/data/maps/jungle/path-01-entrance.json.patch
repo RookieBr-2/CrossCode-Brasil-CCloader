@@ -14235,7 +14235,7 @@
             "entity": { "global": true, "name": "groupD2" },
             "text": {
               "": "Did you notice too how during the quest they refered to the hologram frobbit as a rodent?",
-              "en_US": "Você também notou como durante a missão eles se referiam ao holograma do coelho como um roedor?",
+              "en_US": "Você também notou como durante a missão eles se referiam ao holograma do coelhapo como um roedor?",
               "langUid": 767,
               "ko_KR": "\uc774 \ud018\uc2a4\ud2b8\uc5d0\uc11c \ud640\ub85c\uadf8\ub7a8 \ud504\ub85c\ube57\uc744 \uc124\uce58\ub958\ub85c \ucde8\uae09\ud558\ub294 \uac70 \ub108\ub3c4 \uc54c\uace0 \uc788\uc5c8\uc5b4?<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u4f60\u6709\u6ce8\u610f\u5230\u5728\u4efb\u52a1\u91cc\u4ed6\u4eec\u7ba1\u90a3\u4e2a\u86d9\u5154\u5e7b\u8c61\u53eb\u556e\u9f7f\u7c7b\u5417\uff1f<<A<<[CHANGED 2019/01/10]",
@@ -14274,7 +14274,7 @@
             "entity": { "global": true, "name": "groupD1" },
             "text": {
               "": "Well, technically a frobbit is half frog and half rabbit, so...",
-              "en_US": "Bem, tecnicamente um Sapelho é meio sapo e meio coelho, então...",
+              "en_US": "Bem, tecnicamente um Coelhapo é meio coelho e meio sapo, então...",
               "langUid": 770,
               "ko_KR": "\ubb50, \uc5c4\ubc00\ud788 \ub9d0\ud558\uc790\uba74 \ud504\ub85c\ube57\uc740 \ubc18 \uac1c\uad6c\ub9ac \ubc18 \ud1a0\ub07c\uc774\uae34 \ud558\uc9c0\ub9cc...<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u4e25\u683c\u6765\u8bf4\u86d9\u5154\u662f\u4e00\u534a\u9752\u86d9\u4e00\u534a\u5154\u5b50\uff0c\u6240\u4ee5...<<A<<[CHANGED 2019/01/10]",

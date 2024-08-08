@@ -1561,7 +1561,7 @@
                     }, {
                         "message": {
                             "": "As a humble part of our endeavor here I am trying my best to aid Seekers.",
-                            "en_US": "Apesar de sermos humildes, estou dando o meu melhor para ajudar os Seekers.",
+                            "en_US": "Estou fazendo o meu melhor para ajudar os os Seekers.",
                             "de_DE": "Als bescheidener Teil unser aller Bestreben hier versuche ich mein Bestes, den Seekern zu helfen.",
                             "fr_FR": "fr_FR",
                             "langUid": 10,
@@ -1687,7 +1687,7 @@
                         }, {
                             "message": {
                                 "": "Oh, okay!\\. No Problem Ms. \\v[lore.title.seeker].\\. Please come back if you changed your mind.",
-                                "en_US": "Oh, tudo bem!\\. Sem problemas, Mr. \\v[lore.title.seeker].\\. Por favor, volte se você mudou de ideia.",
+                                "en_US": "Ah, tudo bem!\\. Sem problemas, Srta. \\v[lore.title.seeker].\\. Por favor, volte se você mudar de ideia.",
                                 "de_DE": "Oh, na ja!\\. Kein Problem.\\. Besuchen Sie mich einfach wieder, wenn Sie es sich anders \u00fcberlegt haben.",
                                 "fr_FR": "fr_FR",
                                 "zh_CN": "\u54e6\uff0c\u597d\u7684\uff01\u6ca1\u95ee\u9898\uff0c\\v[lore.title.seeker]\\\u5c0f\u59d0\u3002\u5982\u679c\u4f60\u6539\u53d8\u4e3b\u610f\u7684\u8bdd\uff0c\u8bf7\u56de\u6765\u627e\u6211\u3002",
@@ -2014,7 +2014,7 @@
                         }, {
                             "message": {
                                 "": "Oh, okay!\\. No Problem Ms. \\v[lore.title.seeker].\\. Please come back if you changed your mind.",
-                                "en_US": "Oh, tudo bem!\\. Sem problemas, Mr. \\v[lore.title.seeker].\\. Por favor, volte se você mudou de ideia.",
+                                "en_US": "Ah, tudo bem!\\. Sem problemas, Srta. \\v[lore.title.seeker].\\. Por favor, volte se você mudar de ideia.",
                                 "de_DE": "Oh, na ja!\\. Kein Problem.\\. Kommen Sie einfach wieder, wenn Sie die Quest doch machen wollen.",
                                 "fr_FR": "fr_FR",
                                 "zh_CN": "\u54e6\uff0c\u597d\u7684\uff01\u6ca1\u95ee\u9898\uff0c\\v[lore.title.seeker]\u5c0f\u59d0\u3002\u5982\u679c\u4f60\u6539\u53d8\u4e3b\u610f\u7684\u8bdd\uff0c\u8bf7\u56de\u6765\u627e\u6211\u3002",
@@ -2663,7 +2663,7 @@
                 }, {
                     "text": {
                         "": "When you're out of combat you'll enter the \\c[3]cooldown phase\\c[3].",
-                        "en_US": "Quando você estiver fora de combate, você entrará na \\c[3]fase de resfriamento\\c[3].",
+                        "en_US": "Quando você estiver fora de combate, você entrará na \\c[3]fase de resfriamento\\c[0].",
                         "de_DE": "Wenn du nicht im Kampf bist, beginnt die \\c[3]Cooldown-Phase\\c[0].",
                         "fr_FR": "fr_FR",
                         "langUid": 202,

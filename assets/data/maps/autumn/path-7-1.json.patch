@@ -10196,7 +10196,7 @@
               {
                 "message": {
                   "": "Halfway through! I'll go to the end and wait for you.",
-                  "en_US": "Ja foi metade! Vou ir até o final e espero por você.",
+                  "en_US": "Metade já foi! Vou seguir até o final e espero por você.",
                   "de_DE": "Auf halbem Weg! Ich gehe zum Ende und warte auf dich.",
                   "fr_FR": "fr_FR",
                   "langUid": 20,
@@ -10385,7 +10385,7 @@
                 {
                   "message": {
                     "": "I'm kinda tired and you just came along. So\\..\\..\\.. Wanna try it out?",
-                    "en_US": "Estou meio cansado e você simplesmente apareceu. Então\\..\\..\\.. Quer tentar?",
+                    "en_US": "Estou um pouco cansado e você apareceu do nada. Então\\..\\..\\.. Quer tentar?",
                     "de_DE": "Ich bin etwas m\u00fcde und du kamst gerade vorbei. Also\\..\\..\\.. Willst du es probieren?",
                     "fr_FR": "fr_FR",
                     "langUid": 7,
@@ -10420,7 +10420,7 @@
                 {
                   "message": {
                     "": "Nice! Good to see some enthusiasm!",
-                    "en_US": "Legal! É bom ver algum entusiasmo!",
+                    "en_US": "Legal! É bom ver que você está animada!",
                     "de_DE": "Sehr sch\u00f6n! Den Enthusiasmus lob' ich mir!",
                     "fr_FR": "fr_FR",
                     "langUid": 9,
@@ -10439,7 +10439,7 @@
                 {
                   "message": {
                     "": "Alright, get this. You will start right next to me.",
-                    "en_US": "Tudo bem, Observe. Você vai começar bem ao meu lado.",
+                    "en_US": "Tudo bem, preste atenção. Você vai começar bem ao meu lado.",
                     "de_DE": "Also gut, nimm das. Du wirst direkt neben mir starten.",
                     "fr_FR": "fr_FR",
                     "langUid": 10,
@@ -10680,7 +10680,7 @@
                 {
                   "message": {
                     "": "Yeah, I know. But it's more fun that way right?",
-                    "en_US": "Sim, eu sei. Mas é mais divertido assim, certo?",
+                    "en_US": "Sim, eu sei. Mas isso torna tudo mais divertido, não acha?",
                     "de_DE": "Ja, ich wei\u00df, aber so macht es mehr Spa\u00df, oder?",
                     "fr_FR": "fr_FR",
                     "langUid": 16,
@@ -10699,7 +10699,7 @@
                 {
                   "message": {
                     "": "Well, at least if you like running.",
-                    "en_US": "Bem, pelo menos se você gostar de pular.",
+                    "en_US": "Bem, pelo menos se você gosta de pular.",
                     "de_DE": "Na ja, zumindest, wenn du gerne rennst.",
                     "fr_FR": "fr_FR",
                     "langUid": 17,
@@ -10883,7 +10883,7 @@
                     {
                       "message": {
                         "": "Awesome! As I said, just start by stepping on the first marker here!",
-                        "en_US": "Impressionante! Como eu disse, comece pisando no primeiro marcador aqui!",
+                        "en_US": "Show! Como eu disse, comece pisando no primeiro marcador aqui!",
                         "de_DE": "Gro\u00dfartig! Wie schon gesagt, fang einfach an, indem du auf den ersten Marker hier trittst.",
                         "fr_FR": "fr_FR",
                         "langUid": 21,

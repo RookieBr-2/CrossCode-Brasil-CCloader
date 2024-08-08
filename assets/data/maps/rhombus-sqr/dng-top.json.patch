@@ -2887,7 +2887,7 @@
               {
                 "message": {
                   "": "This is \\c[3]Rhombus Square\\c[0].",
-                  "en_US": "Esse é a \\c[3]Praça Losango\\c[0].",
+                  "en_US": "Essa é a \\c[3]Praça Losango\\c[0].",
                   "de_DE": "Also... Dies ist \\c[3]Rhombus Square\\c[0].",
                   "fr_FR": "fr_FR",
                   "langUid": 9,
@@ -2960,7 +2960,7 @@
               {
                 "message": {
                   "": "I placed you right in front of the last part.",
-                  "en_US": "Eu coloquei você em frente da última etapa.",
+                  "en_US": "Eu coloquei você antes da última etapa.",
                   "de_DE": "Du stehst nun direkt vor der letzten Etappe.",
                   "fr_FR": "fr_FR",
                   "langUid": 12,
@@ -2976,7 +2976,7 @@
               {
                 "message": {
                   "": "It is important that we do this part the official way to avoid suspicion.",
-                  "en_US": "É importante que faça essa parte de maneira oficial para não levantar suspeitas.",
+                  "en_US": "É importante que faça essa parte para não levantar suspeitas.",
                   "de_DE": "Es ist wichtig, dass wir ab hier den offiziellen Weg gehen, um keinen Verdacht zu erregen.",
                   "fr_FR": "fr_FR",
                   "langUid": 13,
@@ -3667,7 +3667,7 @@
             "entity": { "global": true, "name": "pentaComforting" },
             "text": {
               "": "It's all just a game, there's no danger, y'know?",
-              "en_US": "É tudo um jogo, não tem perigo, sabe?",
+              "en_US": "É só um jogo, não tem perigo.",
               "de_DE": "Das hier ist nur ein Spiel, also ist die Gefahr auch nicht real.",
               "fr_FR": "fr_FR",
               "langUid": 31,
@@ -3695,7 +3695,7 @@
             "entity": { "global": true, "name": "hexaScared" },
             "text": {
               "": "Just give me some time, ok?",
-              "en_US": "Me dê um tempo, ok?",
+              "en_US": "Me dá um tempo, ok?",
               "de_DE": "Gib mir einfach ein paar Minuten, ok?",
               "fr_FR": "fr_FR",
               "langUid": 33,
@@ -5002,7 +5002,7 @@
             "entity": { "global": true, "name": "advisor" },
             "text": {
               "": "Make use of all the skills you learned in the previous stages!",
-              "en_US": "Use todas as habilidades que você aprendeu nas etapas anteriores!",
+              "en_US": "Usem todas as habilidades que vocês aprenderam nas etapas anteriores!",
               "de_DE": "Macht euch alles Gelernte aus den vorherigen Abschnitten zunutze!",
               "fr_FR": "fr_FR",
               "langUid": 78,
@@ -5016,7 +5016,7 @@
             "entity": { "global": true, "name": "advisor" },
             "text": {
               "": "Expect your skillset to be further expanded over the course of the final stage.",
-              "en_US": "Espere que seu conjunto de habilidades seja expandido ainda mais ao longo da etapa final.",
+              "en_US": "Suas habilidades serão expandidas ao longo da etapa final.",
               "de_DE": "Eure F\u00e4higkeiten werden sich im Laufe dieses Abschnitts noch weiter verfeinern.",
               "fr_FR": "fr_FR",
               "langUid": 80,
@@ -5030,7 +5030,7 @@
             "entity": { "global": true, "name": "advisor" },
             "text": {
               "": "As a reward for passing Newcomer's Bridge you will be granted access to the mainland.",
-              "en_US": "Como recompensa por passar pela Ponte dos Iniciantes, você ganhará acesso ao continente principal.",
+              "en_US": "Como recompensa por passar pela Ponte dos Iniciantes, vocês vão ganhar acesso ao continente principal.",
               "de_DE": "Als Belohnung f\u00fcr das Bestehen der Neulingsbr\u00fccke wird euch der Zutritt zum Festland gew\u00e4hrt.",
               "fr_FR": "fr_FR",
               "langUid": 79,

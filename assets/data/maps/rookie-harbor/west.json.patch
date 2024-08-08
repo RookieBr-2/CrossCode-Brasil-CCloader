@@ -5294,7 +5294,7 @@
             },
             "text": {
               "": "Man, there are markets literally everywhere in this town.",
-              "en_US": "Cara, existem mercados literalmente por toda parte nesta cidade.",
+              "en_US": "Cara, existem mercados por toda parte nesta cidade.",
               "de_DE": "Mensch, der Markt ist wirklich \u00fcberall in dieser Stadt.",
               "fr_FR": "fr_FR",
               "langUid": 1,
@@ -5396,7 +5396,7 @@
             },
             "text": {
               "": "... Now I really feel like bashing some hedgehags.",
-              "en_US": "... Agora estou com vontade de bater em alguns ouriços.",
+              "en_US": "... Agora estou com vontade de bater em alguns ouriçados.",
               "de_DE": "... Jetzt w\u00fcrd' ich am liebsten ein paar Ig\u00f6ll wegklatschen.",
               "fr_FR": "fr_FR",
               "langUid": 185,
@@ -5716,7 +5716,7 @@
               {
                 "message": {
                   "": "I'm afraid this resting spot is for one person only.",
-                  "en_US": "Receio que este local de descanso seja apenas para uma pessoa.",
+                  "en_US": "Desculpe, mas este local de descanso é só para uma pessoa.",
                   "de_DE": "Ich bef\u00fcrchte, dass dieser Sitzplatz nur f\u00fcr eine Person reicht.",
                   "fr_FR": "fr_FR",
                   "langUid": 2,
@@ -6739,7 +6739,7 @@
                   {
                     "message": {
                       "": "Oh! You're that girl I helped with the chest in the marketplace!",
-                      "en_US": "Oh! Você é aquela garota que ajudei com o baú no centro comercial!",
+                      "en_US": "Ah! Você é aquela garota que ajudei com o baú no centro comercial!",
                       "de_DE": "Oh! Du bist doch das M\u00e4dchen, dem ich grad mit der Kiste auf dem Marktplatz geholfen habe!",
                       "fr_FR": "fr_FR",
                       "langUid": 222,
@@ -6836,7 +6836,7 @@
                       {
                         "message": {
                           "": "Alright alright, you win... \\. \\. this time.",
-                          "en_US": "Certo, você venceu ... desta vez.",
+                          "en_US": "Ok, você se safou... \\. \\. dessa vez.",
                           "de_DE": "Naaa~ gut. Ich glaub' dir...\\.\\. Diesmal.",
                           "fr_FR": "fr_FR",
                           "langUid": 227,
@@ -6901,7 +6901,7 @@
                       {
                         "message": {
                           "": "I knew it. You were slacking off again.",
-                          "en_US": "Eu sabia. Você estava descansando denovo.",
+                          "en_US": "Eu sabia. Você estava descansando de novo.",
                           "de_DE": "Ich wusste es. Du hast wieder gefaulenzt.<<A<<[CHANGED 2021/05/22]",
                           "fr_FR": "fr_FR",
                           "langUid": 230,
@@ -6920,7 +6920,7 @@
                       {
                         "message": {
                           "": "Aw, come on. Why would you do that? I wasn't slacking off, promise!",
-                          "en_US": "Ah, vamos. Por que você faria isso? Eu não estava relaxando, prometo!",
+                          "en_US": "Ah, qual é. Por que você fez isso? Eu não estava relaxando, juro!",
                           "de_DE": "Maaann ey, warum hackst du immer so auf mir rum? Ich hab nich' gefaulenzt, ehrlich nich'!",
                           "fr_FR": "fr_FR",
                           "langUid": 231,
@@ -8073,7 +8073,7 @@
           {
             "message": {
               "": "Finally, this is the \\c[3]western\\c[0] part of the town.",
-              "en_US": "Finalmente, esta é a parte \\c[3]oeste\\c[0] da cidade.",
+              "en_US": "E finalmente, esta é a parte \\c[3]oeste\\c[0] da cidade.",
               "de_DE": "Und als Letztes haben wir hier den \\c[3]westlichen\\c[0] Teil der Stadt.",
               "fr_FR": "fr_FR",
               "langUid": 298,
@@ -8092,7 +8092,7 @@
           {
             "message": {
               "": "In this shop here you can buy \\c[3]consumable items\\c[0].",
-              "en_US": "Nesta loja aqui você pode comprar \\c[3]itens consumiveis\\c[0].",
+              "en_US": "Nessa loja aqui você pode comprar \\c[3]itens consumiveis\\c[0].",
               "de_DE": "In diesem Laden hier k\u00f6nnt ihr \\c[3]Verbrauchsitems\\c[0] kaufen.",
               "fr_FR": "fr_FR",
               "langUid": 299,
@@ -8137,7 +8137,7 @@
           {
             "message": {
               "": "Further down you'll find an armory with basic \\c[3]equipment\\c[0].",
-              "en_US": "Mais abaixo, você encontrará uma loja de armas com \\c[3]equipamentos\\c[0] básicos.",
+              "en_US": "Lá em abaixo, você encontrará uma loja de armas com \\c[3]equipamentos\\c[0] básicos.",
               "de_DE": "Am Ende dieses Weges findet ihr ein Waffenladen mit einfacher \\c[3]Ausr\u00fcstung\\c[0].",
               "fr_FR": "fr_FR",
               "langUid": 300,
@@ -8182,7 +8182,7 @@
           {
             "message": {
               "": "And when you continue to the west from here you'll enter \\c[3]Autumn's Rise\\c[0].",
-              "en_US": "E quando você continuar para o oeste daqui, você entrará no \\c[3]Nascer do Outono\\c[0].",
+              "en_US": "E quando você for para a saída oeste, você entrará no \\c[3]Nascer do Outono\\c[0].",
               "de_DE": "Und wenn ihr von hier aus weiter nach Westen geht, werdet ihr \\c[3]Autumn's Rise\\c[0] erreichen.",
               "fr_FR": "fr_FR",
               "langUid": 301,
@@ -8201,7 +8201,7 @@
           {
             "message": {
               "": "You'll find a lot of enemies along the way.",
-              "en_US": "Você encontrará muitos inimigos ao longo do caminho.",
+              "en_US": "Você encontrará muitos inimigos por lá.",
               "de_DE": "Dort werdet ihr auf viele Gegner treffen.",
               "fr_FR": "fr_FR",
               "langUid": 302,
@@ -8220,7 +8220,7 @@
           {
             "message": {
               "": "Be careful not to take on too many \\c[3]Hedgehags\\c[0] at once, or those guys will eat you for breakfast!",
-              "en_US": "Tenha cuidado para não juntar muitos \\c[3]Ouriços\\c[0] de uma vez, ou eles vão comer você no café da manhã!",
+              "en_US": "Tenha cuidado para não irritar muitos \\c[3]Ouriçados\\c[0] de uma vez, ou eles vão comer você no café da manhã!",
               "de_DE": "Passt nur auf, dass ihr euch nicht mit zu vielen \\c[3]Ig\u00f6lln\\c[0] auf einmal anlegt, sonst wischen die Jungs mit euch nachher den Boden auf!",
               "fr_FR": "fr_FR",
               "langUid": 303,
@@ -8239,7 +8239,7 @@
           {
             "message": {
               "": "Anyway, just follow that way to get to \\c[3]Bergen\\c[0].",
-              "en_US": "De qualquer forma, basta seguir esse caminho para chegar em \\c[3]Bergen\\c[0].",
+              "en_US": "Enfim, depois do Nascer do Outono você vai chegar em \\c[3]Bergen\\c[0].",
               "de_DE": "Jedenfalls m\u00fcsst ihr diesem Weg folgen, wenn ihr nach \\c[3]Bergen\\c[0] wollt.",
               "fr_FR": "fr_FR",
               "langUid": 285,
@@ -8308,7 +8308,7 @@
           {
             "message": {
               "": " By the way, do you two want to form a party?",
-              "en_US": " A propósito, vocês duas querem formar um grupo?",
+              "en_US": " A propósito, vocês duas vão formar um grupo?",
               "de_DE": "\u00dcbrigens, wollt ihr beide eine Party erstellen?",
               "fr_FR": "fr_FR",
               "langUid": 304,
@@ -8422,7 +8422,7 @@
           {
             "message": {
               "": "Trust me, it's not that fun to travel around with a high-level friend.",
-              "en_US": "Acredite em mim, não é tão divertido viajar com um amigo de nível alto.",
+              "en_US": "Acredite em mim, não é divertido viajar com um amigo de nível alto.",
               "de_DE": "Glaub mir: Es macht wenig Spa\u00df, mit einem High Level-Chara unterwegs zu sein.",
               "fr_FR": "fr_FR",
               "langUid": 310,
@@ -8593,7 +8593,7 @@
               {
                 "message": {
                   "": "You could watch us take on those Hedgehags!",
-                  "en_US": "Você poderia assistir a gente enfrentando aqueles Ouriços!",
+                  "en_US": "Você poderia assistir a gente enfrentando aqueles Ouriçados!",
                   "de_DE": "Du k\u00f6nntest uns zuschauen, wie wir diese Ig\u00f6ll verm\u00f6beln!",
                   "fr_FR": "fr_FR",
                   "langUid": 265,
@@ -8612,7 +8612,7 @@
               {
                 "message": {
                   "": "Japp.\\. That totally sounds like a lot of fun, doesn't it?",
-                  "en_US": "Japp.\\. Isso parece muito divertido, não é?",
+                  "en_US": "Japp.\\. Isso serio muito divertido...",
                   "de_DE": "Jepp.\\. Glaube ich gern, dass euch das Spa\u00df machen w\u00fcrde.",
                   "fr_FR": "fr_FR",
                   "langUid": 266,
@@ -8631,7 +8631,7 @@
               {
                 "message": {
                   "": "No really, I have to head back to the guild.",
-                  "en_US": "Não, mas é serio eu realmente tenho que voltar para a guilda.",
+                  "en_US": "Mas eu tenho que voltar para a guilda imediatamente.",
                   "de_DE": "Aber ne, im Ernst, ich muss zur\u00fcck zur Gilde.",
                   "fr_FR": "fr_FR",
                   "langUid": 267,
@@ -8709,7 +8709,7 @@
           {
             "message": {
               "": "Oh, please don't be that way.",
-              "en_US": "Ah, por favor, não seja assim",
+              "en_US": "Ah, por favor, não diga isso.",
               "de_DE": "Ach komm schon, jetzt sei nicht so.",
               "fr_FR": "fr_FR",
               "langUid": 272,
@@ -9212,7 +9212,7 @@
           {
             "message": {
               "": "Alright, party time!",
-              "en_US": "Tudo bem, hora do grupo!",
+              "en_US": "Beleza, hora de formar o grupo!",
               "de_DE": "So! Jetzt geht die Party los!",
               "fr_FR": "fr_FR",
               "langUid": 283,
@@ -10560,7 +10560,7 @@
                 {
                   "message": {
                     "": "Howdy, partner!\\. You sure look like a healthy gal who can appreciate a nice piece of meat.",
-                    "en_US": "Olá, parceira!\\. Você com certeza se parece com uma garota saudável capaz de apreciar um bom pedaço de carne. ",
+                    "en_US": "Olá, parceira!\\. Você parece ser uma garota saudável que aprecia um bom pedaço de carne.",
                     "de_DE": "Howdy, Partner!\\. Du schaust aus wie ein gesundes M\u00e4del, das ein gutes St\u00fcck Fleisch zu sch\u00e4tzen wei\u00df!",
                     "fr_FR": "fr_FR",
                     "langUid": 392,
@@ -10624,7 +10624,7 @@
                 {
                   "message": {
                     "": "Haha, I always sniff out good taste.\\. It's, like, my special talent.",
-                    "en_US": "Haha, eu sempre farejo o bom gosto.\\. É, tipo... meu talento especial.",
+                    "en_US": "Ah! Eu sabia!\\. Tenho um talento especial para identificar pessoas de bom gosto.",
                     "de_DE": "Ha! Wusste ich's doch!\\. Ich habe ein N\u00e4schen daf\u00fcr, Leute mit gutem Geschmack zu wittern.",
                     "fr_FR": "fr_FR",
                     "langUid": 432,
@@ -10643,7 +10643,7 @@
                 {
                   "message": {
                     "": "The name is Selena Teak and I have grand plans:\\. To create the perfect steaks for everyone to enjoy!",
-                    "en_US": "O nome é Selena Teak e tenho grandes planos:\\. Criar os bifes perfeitos para todos os gostos!",
+                    "en_US": "O nome é Selena Teak e tenho um grande plano:\\. Criar os bifes perfeitos para todos os gostos!",
                     "de_DE": "Mein Name ist Selena Teak und ich habe gro\u00dfe Pl\u00e4ne:\\. Ich will die perfekten Steaks f\u00fcr jeden Geschmack kreieren!",
                     "fr_FR": "fr_FR",
                     "langUid": 433,
@@ -10744,7 +10744,7 @@
                     {
                       "message": {
                         "": "Girl, you are the best!\\. It will be amazing, you won't regret it!",
-                        "en_US": "Garota, você é a melhor!\\. Será incrível, você não vai se arrepender!",
+                        "en_US": "Você é fantástica, garota!\\. Vai ser incrível, prometo que não vai se arrepender!",
                         "de_DE": "Mensch, klasse! Du bist ein Engel!\\. Es wird ph\u00e4nomenal, sag' ich dir! Du wirst es nicht bereuen!",
                         "fr_FR": "fr_FR",
                         "langUid": 438,
@@ -10782,7 +10782,7 @@
                     {
                       "message": {
                         "": "Though I heard that you gotta have, like, \\c[3]a good Rank\\c[0] to get some meat from them.\\. Whatever that means.",
-                        "en_US": "Embora eu tenha ouvido dizer que você precisa ter, tipo \\c[3]um bom Rank\\c[0] para conseguir um pouco de carne com eles.\\. Tanto faz o que isso signifique.",
+                        "en_US": "Pelo que ouvi, é necessário ter \\c[3]um bom Rank\\c[0] para conseguir carne com eles.\\. Não faço ideia do que isso realmente signifique.",
                         "de_DE": "Wobei ich geh\u00f6rt habe, dass man wohl \\c[3]einen guten Rang\\c[0] braucht, um etwas Fleisch von ihnen zu bekommen.\\. Was auch immer das hei\u00dft.",
                         "fr_FR": "fr_FR",
                         "langUid": 440,
@@ -10839,7 +10839,7 @@
                     {
                       "message": {
                         "": "I don't know much about all the trees here but... best bring me some \\c[3]very light\\c[0] and also \\c[3]some sharp\\c[0] wood.",
-                        "en_US": "Não sei muito sobre todas as árvores aqui, mas... melhor me trazer um pouco de madeira \\c[3]bem leve\\c[0] e também alguma madeira um \\c[3]pouco afiada\\c[0].",
+                        "en_US": "Não conheço todas as árvores daqui, mas traga um pouco de madeira \\c[3]bem leve\\c[0] e também alguma madeira \\c[3]pouco afiada\\c[0].",
                         "de_DE": "Ich wei\u00df nicht viel \u00fcber die B\u00e4ume hier, aber am besten bringst du mir erst einmal \\c[3]sehr leichtes\\c[0] und auch \\c[3]spitzes\\c[0] Holz.",
                         "fr_FR": "fr_FR",
                         "langUid": 443,
@@ -13692,7 +13692,7 @@
               {
                 "message": {
                   "": "Zat is zickening me!\\. Zickening!",
-                  "en_US": "Zat está me irritando!\\. Irritando!",
+                  "en_US": "Isso está me irritando!\\. Irritando!",
                   "langUid": 563,
                   "zh_CN": "\u54b1\u662f\u7a9d\u5fc3!\\. \u7a9d\u5fc3!<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\uc815\ub9d0 \uc9c0\uae0b\uc9c0\uae0b\ud558\uad70!\\. \uc9c0\uae0b\uc9c0\uae0b\ud574!<<A<<[CHANGED 2019/04/16]",
@@ -13710,7 +13710,7 @@
               {
                 "message": {
                   "": "Heda, Zivilian!",
-                  "en_US": "Heda, Zivil!",
+                  "en_US": "Ei, você aí, civil!",
                   "langUid": 564,
                   "zh_CN": "\u529b\u54c8\uff0c\u7cfb\u6c11\uff01<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\uc5b4\uc774, \uac70\uae30 \uc2dc\ubbfc!<<A<<[CHANGED 2019/04/16]",
@@ -13746,7 +13746,7 @@
               {
                 "message": {
                   "": "Go she to Zergeant Brassler and tell him that she cannot accebt his authority as ein policeman!",
-                  "en_US": "Vá até o Sargento Brassler e diga a ele que ela não pode aceitar sua autoridade como policial!",
+                  "en_US": "Vá até o Sargento Brassler e diga a ele que eu não posso aceitar sua autoridade como policial!",
                   "langUid": 566,
                   "zh_CN": "\u66f2\u627e\u5e03\u62c9\u585e\u5c14\u4ef2\u5c09\uff0c\u544a\u8bc9\u4ed6\u5979\u535c\u63a5\u53d7\u4ed6\u7684\u6307\u6325\uff01<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\ube0c\ub798\uc2ac\ub7ec \uacbd\uc0ac\uc5d0\uac8c \uac00\uc11c \uacbd\ucc30\ub85c\uc11c\uc758 \uadf8\uc758 \uad8c\uc704\ub97c \uc778\uc815\ud558\uc9c0 \ubabb\ud558\uaca0\ub2e4\uace0 \uc804\ud574!<<A<<[CHANGED 2019/04/16]",
@@ -13764,7 +13764,7 @@
               {
                 "message": {
                   "": "Because he is missing ein correct coattail!\\. Jawohl!",
-                  "en_US": "Porque ele está esquecendo o uniforme correto!\\. Jawohl!",
+                  "en_US": "Pois ele está esquecendo o uniforme correto!\\. Sim, senhor!",
                   "langUid": 567,
                   "zh_CN": "\u56e0\u4e3a\u4ed6\u540e\u6446\u8239\u9519\u4e86\uff01\\.\u603c\uff01<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\ucf54\ud2b8 \uc790\ub77d\uc774 \uc5c6\uc73c\ub2c8\uae4c!\\. \uc554, \uadf8\ub807\uace0 \ub9d0\uace0!<<A<<[CHANGED 2019/04/16]",
@@ -13782,7 +13782,7 @@
               {
                 "message": {
                   "": "He won't lissen to me, alzough the perfectly correct distance of my bottom puttons \nclearly displays my knolletsch of zee matter.",
-                  "en_US": "Ele não vai me ouvir, embora a distância perfeitamente correta dos meus botões do casaco \nexibe claramente minha questão de knolletsch.",
+                  "en_US": "Ele não vai me ouvir, mesmo que a distância perfeitamente correta dos meus botões do casaco mostre claramente o meu conhecimento.",
                   "langUid": 568,
                   "zh_CN": "\u4ed6\u535c\u633a\u7a9d\u7684\uff0c\u4f46\u662f\u7a9d\u7684\u6263\u5b50\u7cfb\u6cd5\u660e\u660e\u662f\u603c\u7684\u3002<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\ub0b4 \ub2e8\ucd94 \uac70\ub9ac\uac00 \uc77c\uc815\ud55c \uac78 \ubcf4\uba74 \ub0b4\uac00 \uc5bc\ub9c8\ub098 \ubc15\uc2dd\ud55c\uc9c0 \uc54c \ud150\ub370\ub3c4 \ub0b4 \uc598\uae30\ub97c \uc804\ud600 \ub4e3\uc9c0\ub97c \uc54a\uc544.<<A<<[CHANGED 2019/04/16]",
@@ -13836,7 +13836,7 @@
               {
                 "message": {
                   "": "Waa?\\. \"Hi\", she zays?",
-                  "en_US": "Que?\\. \"Oi\", ela disse?",
+                  "en_US": "Que?\\. Você disse \"Oi\"?",
                   "langUid": 571,
                   "zh_CN": "\u54c8?\\.\u5854\u8272\"\u4f60\u597d\"?<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\ubb50\uc5b4?\\. \ubc29\uae08 \"\uc548\ub155\"\uc774\ub77c\uace0 \ud55c \uac70\uc57c?<<A<<[CHANGED 2019/04/16]",
@@ -13870,7 +13870,7 @@
               {
                 "message": {
                   "": "Zat is \"JAWOHL, CAPTAIN\", is zat!",
-                  "en_US": "Zat é \"JAWOHL, CAPITÃO\", é zat!",
+                  "en_US": "Você deve dizer \"SIM, CAPITÃO\"!",
                   "langUid": 572,
                   "zh_CN": "\u674e\u8981\u8272\"\u4f3c\uff0c\u603c\u957f\"\uff01<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\"\ub124, \ub300\uc7a5\ub2d8\"\uc774\ub77c\uace0 \ub300\ub2f5\ud574\uc57c\uc9c0!<<A<<[CHANGED 2019/04/16]",
@@ -13906,7 +13906,7 @@
               {
                 "message": {
                   "": "How dares she to address me!",
-                  "en_US": "Como ela se atreve a se dirigir a mim dessa forma!",
+                  "en_US": "Como se atreve a se dirigir a mim dessa forma!",
                   "langUid": 574,
                   "zh_CN": "\u5979\u4e95\u76d6\u6298\u78e8\u6559\u6211\uff01<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\uac10\ud788 \ub0b4\uac8c \uadf8\ub807\uac8c \ub300\ub2f5\ud558\ub2e4\ub2c8!<<A<<[CHANGED 2019/04/16]",
@@ -13924,7 +13924,7 @@
               {
                 "message": {
                   "": "Zinks she that she is the Kaiser of Preussen becourse she has not only wann, but two spikes on her head?",
-                  "en_US": "Ela pensa que é o Kaiser de Prússia porque tem duas pontas na cabeça?",
+                  "en_US": "Você pensa que é o Kaiser de Prússia porque tem duas pontas na cabeça?",
                   "langUid": 575,
                   "zh_CN": "\u5854\u4ee5\u4e3a\u5979\u8111\u888b\u4f24\u6709\u4eae\u6839\u523a\u513f\u8d70\u635e\u4e0d\u8d77\u4e86\uff1f<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\uba38\ub9ac \uc704\uc5d0 \ud55c \uac1c\ub3c4 \uc544\ub2cc \ub450 \uac1c\uc758 \ubfd4\uc774 \ub2ec\ub824 \uc788\ub2e4\uace0 \ud504\ub85c\uc774\uc13c\uc758 \ud669\uc81c\ub77c\ub3c4 \ub41c\ub2e4\uace0 \uc0dd\uac01\ud558\ub294 \uac74\uac00?<<A<<[CHANGED 2019/04/16]",

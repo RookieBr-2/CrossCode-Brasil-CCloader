@@ -350,7 +350,7 @@
               {
                 "message": {
                   "": "Nice seeing you around, rookie. We have no need of your assistance just now though.",
-                  "en_US": "Que bom em ver você por aí, novata. Não precisamos de sua ajuda por agora.",
+                  "en_US": "Que bom ver você por aqui, novata. No momento, não precisamos da sua ajuda.",
                   "de_DE": "Sch\u00f6n, dass du mal vorbeischaust, Rekrut. Im Moment brauchen wir deine Hilfe aber nicht.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u65b0\u4eba\uff0c\u89c1\u5230\u4f60\u5f88\u9ad8\u5174\u3002\u4e0d\u8fc7\u773c\u4e0b\u6211\u4eec\u4e0d\u9700\u8981\u4f60\u7684\u5e2e\u52a9\u3002",
@@ -2858,7 +2858,7 @@
                 {
                   "message": {
                     "": "Got some time off from solving ancient mysteries, do you?",
-                    "en_US": "Você tirou algum tempo para solucionar mistérios antigos, não é?",
+                    "en_US": "Você está disponível para ajudar a solucionar crimes?",
                     "de_DE": "Dann wurde dir wohl etwas Freizeit vom L\u00fcften uralter Geheimnisse verg\u00f6nnt, hm?",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u80fd\u4ece\u63ed\u5f00\u53e4\u8001\u795e\u79d8\u7684\u4efb\u52a1\u4e2d\u62bd\u70b9\u65f6\u95f4\u51fa\u6765\u5417\uff1f",
@@ -2893,7 +2893,7 @@
                 {
                   "message": {
                     "": "Well, we could also use some help here in the city.",
-                    "en_US": "Bem, também precisamos de alguma ajuda aqui na cidade.",
+                    "en_US": "Bem, precisamos de ajuda aqui na cidade.",
                     "de_DE": "Wir k\u00f6nnten hier in der Stadt n\u00e4mlich auch ein wenig Hilfe gebrauchen.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u55ef\uff0c\u6211\u4eec\u5728\u8fd9\u5ea7\u57ce\u5e02\u91cc\u4e5f\u9700\u8981\u4e00\u4e9b\u5e2e\u52a9\u3002",

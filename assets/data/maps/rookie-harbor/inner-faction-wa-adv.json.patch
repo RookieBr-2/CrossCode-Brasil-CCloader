@@ -194,7 +194,7 @@
               {
                 "message": {
                   "": "Hey, girl, welcome to the cozy adventurers hangout of the \\c[3]Falldivers\\c[0].",
-                  "en_US": "Ei, garota, bem-vinda ao aconchegante ponto de encontro dos aventureiros dos \\c[3]Mergulhadores\\c[0].",
+                  "en_US": "Ei, garota, bem-vinda ao aconchegante ponto de encontro dos \\c[3]Mergulhadores\\c[0].",
                   "de_DE": "Hey, M\u00e4del! Willkommen in der gem\u00fctlichen Abenteurerbude der \\c[3]Herbsttaucher\\c[0]!",
                   "zh_CN": "\u563f\uff0c\u59d1\u5a18\uff0c\u6b22\u8fce\u6765\u5230\\c[3]\u6f5c\u79cb\u4e61\\c[0]\u8212\u9002\u7684\u5192\u9669\u8005\u4e4b\u5bb6\u3002",
                   "langUid": 1,
@@ -212,7 +212,7 @@
               {
                 "message": {
                   "": "Just go to our lounge if you wanna chill and share stories with other kindred spirits.",
-                  "en_US": "Basta ir ao nosso lounge se quiser relaxar e compartilhar histórias com outras almas gêmeas.",
+                  "en_US": "Sinta-se à vontade para se deitar em um sofá e conversar com os outros aventureiros.",
                   "de_DE": "Kannst dich gerne da dr\u00fcben auf 'ne Couch fl\u00e4zen und dich mit den anderen Abenteurern unterhalten.",
                   "zh_CN": "\u5982\u679c\u4f60\u60f3\u8ddf\u5176\u4ed6\u5fd7\u540c\u9053\u5408\u7684\u4eba\u5206\u4eab\u6545\u4e8b\u6216\u662f\u5c0f\u61a9\u4e00\u4e0b\u7684\u8bdd\uff0c\u5c31\u6765\u6211\u4eec\u7684\u4f11\u606f\u5ba4\u5427\u3002",
                   "langUid": 255,
@@ -230,7 +230,7 @@
               {
                 "message": {
                   "": "\\c[3]Forerunner Elenya\\c[0] should also be there, if you're searching for whomever calls the shots right now.",
-                  "en_US": "A \\c[3]Precursora Elenya\\c[0] também deve estar lá, caso você esteja procurando por quem manda no pedaço.",
+                  "en_US": "A \\c[3]Pioneira Elenya\\c[0] está por aqui, caso você esteja procurando por quem manda no pedaço.",
                   "de_DE": "\\c[3]Chefpionier Elenya\\c[0] sollte auch dort sein, falls du den suchst, der hier das Sagen hat.",
                   "zh_CN": "\u5982\u679c\u4f60\u6b63\u5728\u627e\u8d1f\u8d23\u4eba\u7684\u8bdd\uff0c\\c[3]\u5148\u9a71\u827e\u4f26\u4e9a\\c[0]\u5e94\u8be5\u4e5f\u5728\u90a3\u91cc\u3002<<A<<[CHANGED 2018/01/06]",
                   "langUid": 256,
@@ -1520,7 +1520,7 @@
         "analyzable": {
           "text": {
             "": "Forerunner Elenya",
-            "en_US": "Precursora Elenya",
+            "en_US": "Pioneira Elenya",
             "de_DE": "Chefpionier Elenya",
             "fr_FR": "fr_FR",
             "langUid": 247,
@@ -1571,7 +1571,7 @@
               {
                 "message": {
                   "": "Sorry sweetie, got nothing for you right now.\\. Unless you're just here for the pleasure of my company, of course.",
-                  "en_US": "Desculpe querida, não tenho nada para você agora.\\. A menos que você esteja aqui apenas agradar minha empresa, é claro.",
+                  "en_US": "Sinto muito, linda, estou sem nada para oferecer agora.\\. A não ser que você esteja aqui só para desfrutar da minha encantadora presença.",
                   "de_DE": "Tut mir leid, S\u00fc\u00dfe, hab grad nix f\u00fcr dich.\\. Au\u00dfer dem Vergn\u00fcgen meiner Gesellschaft, nat\u00fcrlich.",
                   "fr_FR": "fr_FR",
                   "langUid": 281,
@@ -1640,7 +1640,7 @@
                 {
                   "message": {
                     "": "Hey there \\v[lore.title.seeker].\\. We love fresh company around here, but you gotta visit \\c[3]\\v[lore.title.seeker]-Central\\c[0] before joining the action.",
-                    "en_US": "Olá \\v[lore.title.seeker].\\. Amamos companhia fresca por aqui, mas você tem que visitar \\c[3]\\v[lore.title.seeker] Hub\\c[0] antes de entrar em ação.",
+                    "en_US": "Olá \\v[lore.title.seeker].\\. É ótimo ver gente nova por aqui, mas você tem que visitar a \\c[3]Central de Missões\\c[0] antes de entrar em ação.",
                     "de_DE": "Hey, ein neues Gesicht! Sch\u00f6n, dass du hier bist. Bevor du allerdings hier mitmischen kannst, solltest du den \\c[3]Seeker Hub\\c[0] besuchen.",
                     "fr_FR": "fr_FR",
                     "langUid": 253,
@@ -1659,7 +1659,7 @@
                 {
                   "message": {
                     "": "We can only hand you assignments once you took that faction-briefing on the ground floor.",
-                    "en_US": "Só podemos entregar as tarefas a você depois que você fizer a introdução da facção no piso térreo.",
+                    "en_US": "As tarefas só podem ser entregues a você depois da introdução sobre as facções.",
                     "de_DE": "Wir k\u00f6nnen dir n\u00e4mlich erst dann Aufgaben geben, wenn du die Fraktionseinweisung im Erdgeschoss erhalten hast.",
                     "fr_FR": "fr_FR",
                     "langUid": 257,
@@ -1678,7 +1678,7 @@
                 {
                   "message": {
                     "": "Annoying, but even we gotta follow some of those pesky rules around here, y'know?",
-                    "en_US": "Irritante, mas até mesmo nós temos que seguir algumas dessas regras irritantes por aqui, sabe?",
+                    "en_US": "É chato, mas até a gente tem que seguir algumas regras irritantes.",
                     "de_DE": "Ja, nervig, ich wei\u00df. Aber selbst wir m\u00fcssen uns an ein paar l\u00e4stige Regeln halten.",
                     "fr_FR": "fr_FR",
                     "langUid": 313,
@@ -1796,7 +1796,7 @@
                     {
                       "message": {
                         "": "Just remember to mind \\c[3]your instincts as a \\v[lore.title.seeker]\\c[0] and you'll be back here enjoying my company in no time.",
-                        "en_US": "Apenas lembre-se de usar \\c[3]seus instintos como um \\v[lore.title.seeker]\\c[0] e você estará de volta aqui desfrutando da minha companhia em pouco tempo.",
+                        "en_US": "Confie em \\c[3]seus instintos de \\v[lore.title.seeker]\\c[0] e logo você estará de volta para curtir a minha companhia.",
                         "de_DE": "Folge einfach deinem \\c[3]Seeker-Instinkt\\c[0] und du wirst im Handumdrehen wieder gem\u00fctlich mit mir hier plaudern k\u00f6nnen.",
                         "fr_FR": "fr_FR",
                         "langUid": 264,
@@ -1961,7 +1961,7 @@
                 {
                   "message": {
                     "": "Welcome back.\\. I see retrieving the data went off without a hitch?",
-                    "en_US": "Bem vinda de volta.\\. Então a recuperação dos dados ocorreu sem problemas?",
+                    "en_US": "Oi linda.\\. A recuperação dos dados foi tranquila?",
                     "de_DE": "Willkommen zur\u00fcck!\\. Wie ich sehe, hast du die Daten ohne Schwierigkeiten wiedergefunden?",
                     "fr_FR": "fr_FR",
                     "langUid": 250,
@@ -2034,7 +2034,7 @@
                 {
                   "message": {
                     "": "Anyway, take this reward.\\. I hope to see you around for future endeavors or quality time.",
-                    "en_US": "Enfim, aceite esta recompensa.\\. Até a próxima vez, espero. Ou você pode passar por aqui para jogar conversa fora.",
+                    "en_US": "Enfim, aceite esta recompensa.\\. Até a próxima, ou venha por aqui para bater um papo.",
                     "de_DE": "Na ja, hier ist jedenfalls deine Belohnung.\\. Bis zum n\u00e4chsten Mal, hoffe ich. Oder du kommst einfach so mal zum Quatschen vorbei.",
                     "fr_FR": "fr_FR",
                     "langUid": 269,
@@ -2114,7 +2114,7 @@
                 {
                   "message": {
                     "": "Hi Sweetie, you arrived at just the right moment!",
-                    "en_US": "Oi querida, você chegou no momento certo!",
+                    "en_US": "Oi linda, você chegou no momento certo!",
                     "de_DE": "Hey, S\u00fc\u00dfe, du kommst gerade recht!",
                     "fr_FR": "fr_FR",
                     "langUid": 252,
@@ -2595,7 +2595,7 @@
                 {
                   "message": {
                     "": "Welcome back.\\. From his bragging, it seems like you and Tucos had quite the adventure.",
-                    "en_US": "Bem-vinda de volta.\\. Parece que Tucos e você tiveram uma aventura e tanto.",
+                    "en_US": "Oi linda.\\. Parece que Tucos e você tiveram uma aventura e tanto.",
                     "de_DE": "Willkommen zur\u00fcck!\\. Seiner Prahlerei nach zu urteilen, habt ihr beide wohl ein kleines Abenteuer erlebt?",
                     "fr_FR": "fr_FR",
                     "langUid": 276,
@@ -3541,7 +3541,7 @@
               {
                 "message": {
                   "": "Sorry sweetie, got nothing for you right now. Unless you're just here for the pleasure of my company, of course.",
-                  "en_US": "Desculpe querida, não tenho nenhuma missão para você neste momento. A menos que você esteja aqui apenas pelo prazer de minha companhia, é claro.",
+                  "en_US": "Sinto muito, linda, estou sem nada para oferecer agora. A não ser que você esteja aqui só para desfrutar da minha encantadora presença.",
                   "de_DE": "Tut mir leid, S\u00fc\u00dfe, hab grad nix f\u00fcr dich.\\. Au\u00dfer dem Vergn\u00fcgen meiner Gesellschaft, nat\u00fcrlich.",
                   "fr_FR": "fr_FR",
                   "langUid": 306,
@@ -3610,7 +3610,7 @@
                 {
                   "message": {
                     "": "Heya \\v[lore.title.seeker].\\. Nice meeting some valiant fresh blood around here.",
-                    "en_US": "Ei \\v[lore.title.seeker].\\. Prazer em conhecer uma pessoa valente como você por aqui.",
+                    "en_US": "Olá \\v[lore.title.seeker].\\. Bom ver alguém valente como você por aqui.",
                     "de_DE": "Heya, Seeker.\\. Neue Leute sind bei uns immer willkommen, vor allem mit so k\u00fchner Ausstrahlung!",
                     "fr_FR": "fr_FR",
                     "langUid": 307,
@@ -3645,7 +3645,7 @@
                 {
                   "message": {
                     "": "I would love to do some bonding with a fellow explorer, but right now there's a problem with one of our jobs.",
-                    "en_US": "Eu adoraria ter uma conversa com uma colega exploradora, mas agora há um problema com um de nossos trabalhos.",
+                    "en_US": "Eu adoraria conversar com uma colega exploradora, mas estamos enfrentando um problema em um dos nossos trabalhos.",
                     "de_DE": "Ich w\u00fcrd' ja gerne ein wenig mit dir plaudern, aber im Moment gibt es ein Problem mit einem unserer Jobs.",
                     "fr_FR": "fr_FR",
                     "langUid": 259,
@@ -3668,7 +3668,7 @@
                 {
                   "message": {
                     "": "Tucos had just finished a detailed geographical survey that's supposed to serve as the basis for future expeditions.",
-                    "en_US": "Tucos tinha acabado de fazer um levantamento geográfico detalhado que deveria servir de base para futuras expedições.",
+                    "en_US": "Tucos acabou de fazer um levantamento geográfico caprichado para usar nas futuras expedições.",
                     "de_DE": "Tucos hatte gerade eine umfassende Vermessungsaktion abgeschlossen, die eigentlich unsere Basis f\u00fcr zuk\u00fcnftige Expeditionen sein sollte.",
                     "fr_FR": "fr_FR",
                     "langUid": 260,
@@ -3706,7 +3706,7 @@
                 {
                   "message": {
                     "": "So, since you're here, could you help us out with that?\\. A \\v[lore.title.seeker] should be more than qualified for that kinda task.",
-                    "en_US": "Então, já que você está aqui, você poderia nos ajudar com isso?\\. Uma \\v[lore.title.seeker] deve ser mais do que qualificada para esse tipo de tarefa.",
+                    "en_US": "Então, já que você está aqui, você poderia nos ajudar com isso?\\. Uma \\v[lore.title.seeker] deve ser perfeita para esse tipo de tarefa.",
                     "de_DE": "Da du gerade hier bist - k\u00f6nntest du uns aus der Patsche helfen? Ein Seeker w\u00e4re f\u00fcr diese Art von Aufgabe mehr als qualifiziert.",
                     "fr_FR": "fr_FR",
                     "langUid": 262,
@@ -3747,7 +3747,7 @@
                     {
                       "message": {
                         "": "Awesome!\\. I'll transmit you the alleged location of the whole debacle so you should be able to track the thing down.",
-                        "en_US": "Impressionante!\\. Vou transmitir a você a suposta localização de todo o desastre, então você deve ser capaz de rastrear a coisa.",
+                        "en_US": "Ótimo!\\. Vou te enviar a localização do desastre, e você deve conseguir rastrear tudo.",
                         "de_DE": "Bombig!\\. Ich leite dir die Koordinaten weiter, damit du wei\u00dft, wo du ansetzen musst, um das Debakel zu bereinigen.",
                         "fr_FR": "fr_FR",
                         "langUid": 309,
@@ -3766,7 +3766,7 @@
                     {
                       "message": {
                         "": "Just remember to mind \\c[3]your instincts as a \\v[lore.title.seeker]\\c[0] and you'll be back here enjoying my company in no time.",
-                        "en_US": "Apenas lembre-se de usar \\c[3]seus instintos como um \\v[lore.title.seeker]\\c[0] e você estará de volta aqui desfrutando da minha companhia em pouco tempo.",
+                        "en_US": "Confie em \\c[3]seus instintos de \\v[lore.title.seeker]\\c[0] e logo você estará de volta para curtir a minha companhia.",
                         "de_DE": "Folge einfach deinem \\c[3]Seeker-Instinkt\\c[0] und du wirst im Handumdrehen wieder gem\u00fctlich mit mir hier plaudern k\u00f6nnen.",
                         "fr_FR": "fr_FR",
                         "langUid": 310,

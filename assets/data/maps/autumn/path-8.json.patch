@@ -5578,7 +5578,7 @@
           {
             "message": {
               "": "They got some mighty strange doohickeys inside, don'tcher think?",
-              "en_US": "Elas tem umas coisas estranhas dentro, você não acha?",
+              "en_US": "Elas tem umas coisas estranhas dentro, você viu?",
               "de_DE": "Die lasse ganz sch\u00f6n seltsames Zeug fallen, wa?",
               "fr_FR": "fr_FR",
               "langUid": 157,
@@ -5669,7 +5669,7 @@
           {
             "message": {
               "": "Ah've takin' a notion ta findin' an' analyzin' as many as ah can. ",
-              "en_US": "Eu venho tentando encontrar e analisar o maximo possível.",
+              "en_US": "Estou tentando encontrar e analisar o maior número possível de plantas.",
               "de_DE": "Isch habbet mia zum Aufg\u00e4ble jemacht, so viel fia di Analyse wie nur m\u00f6chlich zu finden.",
               "fr_FR": "fr_FR",
               "langUid": 186,
@@ -5726,7 +5726,7 @@
           {
             "message": {
               "": "Ah can only collec' what they bring me.",
-              "en_US": "Só posso coletar o que eles me trazem",
+              "en_US": "Só posso coletar o que eles me trazem.",
               "de_DE": "Un isch kann nuar sammel, was die mi bringe.",
               "fr_FR": "fr_FR",
               "langUid": 163,
@@ -5972,7 +5972,7 @@
               {
                 "message": {
                   "": "Jes' keep hittin' them plants an' analyze 'em by gettin' them doohickeys. ",
-                  "en_US": "Tudo o que você precisa fazer, é continuar quebrando essas plantas e analisar os itens delas,",
+                  "en_US": "Tudo o que você precisa fazer, é continuar quebrando essas plantas e analisar os itens delas.",
                   "de_DE": "All's was de tun muscht, is de Gew\u00e4ggse ordentlisch kloppe. Und se analysiere, wenn 'de dere Zeusch einsammel tust.",
                   "fr_FR": "fr_FR",
                   "langUid": 177,
@@ -6029,7 +6029,7 @@
               {
                 "message": {
                   "": "Jes' keep hittin' them plants fer me, a'right?",
-                  "en_US": "Continue batendo nessas plantas para mim, certo?",
+                  "en_US": "Continue batendo nessas plantas para mim, combinado?",
                   "de_DE": "Hau nur flei\u00dfsch auf de Planze f\u00fcr mich, tuscht des, ja?",
                   "fr_FR": "fr_FR",
                   "langUid": 180,
@@ -6083,7 +6083,7 @@
               {
                 "message": {
                   "": "Might even meetcher again along the way. ",
-                  "en_US": "Quem sabes nós não nos encontramos novamente ao longo do caminho.",
+                  "en_US": "Quem sabe a gente não se encontra de novo pelo caminho, né?",
                   "de_DE": "M\u00f6glisch, dass me uns wieda sehe, wa?",
                   "fr_FR": "fr_FR",
                   "langUid": 184,
@@ -6165,7 +6165,7 @@
               {
                 "message": {
                   "": "Well bless yer heart, girl, y'all come back if y'ever change yer mind.",
-                  "en_US": "Tudo bem, isso não é um problema. Se mudar de ideia, você pode voltar, certo?",
+                  "en_US": "Não tem problema. Se você mudar de ideia, é só voltar, certo?",
                   "de_DE": "Oh, keine Sorge, M\u00e4del, desch is kei Problem. Wenn de' dei' Meinung \u00e4nderscht, kannst wieda komme, wa?",
                   "fr_FR": "fr_FR",
                   "langUid": 174,

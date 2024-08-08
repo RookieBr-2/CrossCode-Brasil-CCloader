@@ -8086,7 +8086,7 @@
               {
                 "message": {
                   "": "Come back later, yeah?!\\. It will be amazing, just you watch!",
-                  "en_US": "Volte mais tarde, ok?! \\. Vai ser incrivel, basta você vir ver!",
+                  "en_US": "Volte mais tarde, ok?!\\. Vai ser incrivel, você vai ver!",
                   "de_DE": "Komm bitte sp\u00e4ter wieder, ja?!\\. Es wird gro\u00dfartig, wirst schon sehen!",
                   "fr_FR": "fr_FR",
                   "langUid": 401,
@@ -8621,7 +8621,7 @@
                   {
                     "message": {
                       "": "Oh well... it means I opened this treasure chest myself before.",
-                      "en_US": "Bem... significa que eu mesmo abri este baú de tesouro antes.",
+                      "en_US": "Bem... eu já tinha aberto esse baú antes.",
                       "de_DE": "Nun ja... Das hei\u00dft, dass ich diese Truhe selbst schon ge\u00f6ffnet habe.",
                       "fr_FR": "fr_FR",
                       "langUid": 30,
@@ -8659,7 +8659,7 @@
                   {
                     "message": {
                       "": "That's cool, right? No more annoying empty chests because some random player reached it before you!",
-                      "en_US": "Isso é legal, certo? Chega de baús vazios irritantes porque algum jogador aleatório os alcançou antes de você!",
+                      "en_US": "Isso é ótimo, não é? Agora você pode abrir baús sem medo de encontrar tudo vazio!",
                       "de_DE": "Ziemlich cool, was? Keine nervigen leeren Truhen mehr, weil irgendein anderer Spieler sie vor dir gepl\u00fcndert hat!",
                       "fr_FR": "fr_FR",
                       "langUid": 32,
@@ -8713,7 +8713,7 @@
                   {
                     "message": {
                       "": "Yeah.... anyway, gotta meet my friends at the entrance.",
-                      "en_US": "Sim... de qualquer forma, tenho que encontrar meus amigos na entrada.",
+                      "en_US": "Bom... agora tenho que encontrar meus amigos na entrada, até mais!",
                       "de_DE": "Muss jetzt aber leider gehen, meine Freunde warten am Eingang auf mich.",
                       "fr_FR": "fr_FR",
                       "langUid": 35,
@@ -8740,7 +8740,7 @@
                   {
                     "message": {
                       "": "Heh, you reached this spot. Not bad!",
-                      "en_US": "Heh, você alcançou este lugar. Nada mau!",
+                      "en_US": "Puxa, você conseguiu chegar até aqui. Nada mal!",
                       "de_DE": "Oha, du hast den Weg hierher gefunden. Nicht \u00fcbel!",
                       "fr_FR": "fr_FR",
                       "langUid": 36,
@@ -8759,7 +8759,7 @@
                   {
                     "message": {
                       "": "No reason to hold back. Go claim your prize!",
-                      "en_US": "Não há razão para se conter. Vá coletar o seu prémio!",
+                      "en_US": "O que está esperando? Pode pegar o seu prêmio!",
                       "de_DE": "Kein Grund zur Bescheidenheit. Schnapp dir deinen Preis!",
                       "fr_FR": "fr_FR",
                       "langUid": 37,
@@ -10479,7 +10479,7 @@
                 {
                   "message": {
                     "": "But, if you bring me some \\c[3]fresh ice from Bergen Trail\\c[0], I could quickly produce new ice cream.",
-                    "en_US": "Mas, se você me trazer \\c[3]gelo fresco da Trilha de Bergen\\c[0], Eu poderia produzir um novo sorvete rapidamente.",
+                    "en_US": "Mas, se você trouxer um pouco de \\c[3]gelo da Trilha de Bergen\\c[0], Eu poderia produzir mais sorvetes.",
                     "de_DE": "Aber: Wenn du mir ein bisschen \\c[3]Eis vom Bergen-Trail\\c[0] bringst, k\u00f6nnte ich schnell neues Eis machen.",
                     "fr_FR": "fr_FR",
                     "langUid": 75,
@@ -10498,7 +10498,7 @@
                 {
                   "message": {
                     "": "So... could you bring me some \\c[3]Bergen Ice\\c[0]? About \\c[3]5\\c[0] should suffice.",
-                    "en_US": "Então... você poderia me trazer algum \\c[3]Gelo de Bergen\\c[0]? Cerca de \\c[3]5\\c[0] deve bastar.",
+                    "en_US": "Então... você poderia coletar o \\c[3]Gelo de Bergen\\c[0]? Uns \\c[3]5\\c[0] devem bastar.",
                     "de_DE": "Also... K\u00f6nntest du mir etwas \\c[3]Bergen-Eis\\c[0] bringen? \\c[3]F\u00fcnf Portionen\\c[0] sollten reichen.",
                     "fr_FR": "fr_FR",
                     "langUid": 76,
@@ -10558,7 +10558,7 @@
                     {
                       "message": {
                         "": "You can find \\c[3]Bergen Ice\\c[0] in the snowy parts of \\c[3]Bergen Trail\\c[0].\\. Just continue to the west until you reach the mountain area.",
-                        "en_US": "Você pode encontrar \\c[3]Gelo de Bergen\\c[0] nas partes nevadas da trilha de Bergen. Continue para o oeste até chegar à área montanhosa. ",
+                        "en_US": "Você pode encontrar \\c[3]Gelo de Bergen\\c[0] nas partes nevadas da trilha de Bergen. Continue para o oeste até chegar na área montanhosa.",
                         "de_DE": "\\c[3]Bergen-Eis\\c[0] findest du in den Schneegebieten des \\c[3]Bergen-Trails\\c[0].\\. Geh einfach nach Westen, bis du die Berge erreichst.",
                         "fr_FR": "fr_FR",
                         "langUid": 79,
@@ -11110,7 +11110,7 @@
               {
                 "message": {
                   "": "It will open up to the public with the next content update!",
-                  "en_US": "Ele será aberto ao público com a próxima atualização!",
+                  "en_US": "Ela será aberta ao público com a próxima atualização!",
                   "de_DE": "Er wird mit dem n\u00e4chsten Update wieder freigegeben!",
                   "fr_FR": "fr_FR",
                   "langUid": 93,
@@ -11299,7 +11299,7 @@
             "entity": { "global": true, "name": "hexaPatch" },
             "text": {
               "": "I'm really looking forward to the next content patch.",
-              "en_US": "Estou realmente ansioso para a próxima atualização.",
+              "en_US": "Mal posso esperar pela próxima atualização.",
               "de_DE": "Ich freue mich schon auf den n\u00e4chsten Content-Patch.",
               "fr_FR": "fr_FR",
               "langUid": 18,
@@ -11313,7 +11313,7 @@
             "entity": { "global": true, "name": "hexaPatch" },
             "text": {
               "": "I heard rumors about a black market!",
-              "en_US": "Eu ouvi rumores sobre um mercado negro!",
+              "en_US": "Ouvi falar que um mercado negro pode ser adicionado em breve!",
               "de_DE": "Ich habe Ger\u00fcchte \u00fcber einen Schwarzmarkt geh\u00f6rt!",
               "fr_FR": "fr_FR",
               "langUid": 97,
@@ -11341,7 +11341,7 @@
             "entity": { "global": true, "name": "pentaPatch" },
             "text": {
               "": "By the way, does it make sense to call it a \"patch\"?",
-              "en_US": "A propósito, faz sentido chamá-la de \"atualização\"?",
+              "en_US": "Por falar nisso, faz sentido chamar isso de \"atualização\"?",
               "de_DE": "Wobei, macht das eigentlich noch Sinn, das als \"Patch\" zu bezeichnen?",
               "fr_FR": "fr_FR",
               "langUid": 99,
@@ -11355,7 +11355,7 @@
             "entity": { "global": true, "name": "pentaPatch" },
             "text": {
               "": "I mean it's not just code. They're doing actual construction work over there.",
-              "en_US": "Quer dizer, não é apenas código. Eles estão fazendo um trabalho de construção real lá.",
+              "en_US": "Na verdade, não é só código. Eles estão fazendo um trabalho de construção de verdade lá.",
               "de_DE": "Ich meine, es ist nicht einfach nur Code. Dort dr\u00fcben sind richtige Bauarbeiten im Gange.",
               "fr_FR": "fr_FR",
               "langUid": 100,
@@ -11369,7 +11369,7 @@
             "entity": { "global": true, "name": "hexaPatch" },
             "text": {
               "": "It's just a habit from old virtual MMOs. Don't overthink it.",
-              "en_US": "É apenas um hábito de antigos MMOs virtuais. Não pense demais.",
+              "en_US": "Isso é apenas algo típico de MMOs antigos. Não pense muito nisso.",
               "de_DE": "Alte Angewohnheit aus fr\u00fcheren MMOs, weiter nichts.",
               "fr_FR": "fr_FR",
               "langUid": 101,
@@ -11819,7 +11819,7 @@
                 {
                   "message": {
                     "": "Hmpf, didn't your father tell you not to startle people?",
-                    "en_US": "Hmpf, seu pai não lhe disse para não assustar as pessoas?",
+                    "en_US": "Hmpf, seu pai não te ensinou a não assustar as pessoas?",
                     "de_DE": "Hmpf, hat dein Vater dir nicht beigebracht, dass man Leute nicht anstarrt?",
                     "fr_FR": "fr_FR",
                     "langUid": 110,
@@ -11851,7 +11851,7 @@
                 {
                   "message": {
                     "": "Well... \\.\\. He clearly should have!",
-                    "en_US": "Bem... \\.\\. Ele claramente deveria ter dito!",
+                    "en_US": "Pois é... \\.\\. Ele deveria ter ensinado!",
                     "de_DE": "Tja...\\.\\. H\u00e4tte er mal besser!",
                     "fr_FR": "fr_FR",
                     "langUid": 112,
@@ -11915,7 +11915,7 @@
                 {
                   "message": {
                     "": "Now now, don't be sad, young lady. ",
-                    "en_US": "Ora, não fique triste, garota. ",
+                    "en_US": "Ora, não fique triste, garota.",
                     "de_DE": "Nah, nah, nicht traurig sein, junge Dame.",
                     "fr_FR": "fr_FR",
                     "langUid": 116,
@@ -11931,7 +11931,7 @@
                 {
                   "message": {
                     "": "At least you look like you are actually sorry.",
-                    "en_US": "Pelo menos você parece estar realmente arrependida.",
+                    "en_US": "Pelo menos você parece estar arrependida.",
                     "de_DE": "Immerhin siehst du so aus, als w\u00fcrde es dir ehrlich leid tun.",
                     "fr_FR": "fr_FR",
                     "langUid": 117,
@@ -12030,7 +12030,7 @@
                 {
                   "message": {
                     "": "I think I like your attitude. ",
-                    "en_US": "Eu acho que gosto da sua atitude. ",
+                    "en_US": "Acho que estou começando a gostar da sua atitude.",
                     "de_DE": "Mir gef\u00e4llt deine Einstellung.",
                     "fr_FR": "fr_FR",
                     "langUid": 123,
@@ -12147,7 +12147,7 @@
                     {
                       "message": {
                         "": "Very good. Someone told me it was hidden in \\c[3]\\v[area.autumn-area.name]\\c[0].",
-                        "en_US": "Muito bem. Alguém me disse que está escondido no \\c[3]\\v[area.autumn-area.name]\\c[0].",
+                        "en_US": "Perfeito. Ouvi dizer que está escondida no \\c[3]\\v[area.autumn-area.name]\\c[0].",
                         "de_DE": "Sehr gut. Jemand hat mir gesagt, dass er in \\c[3]Autumn's Rise\\c[0] versteckt sei.",
                         "fr_FR": "fr_FR",
                         "langUid": 129,
@@ -12166,7 +12166,7 @@
                     {
                       "message": {
                         "": "Apparently there is an area where you have to defeat lots of \\c[3]\\v[combat.name.hedgehog]s\\c[0] while it's raining.",
-                        "en_US": "Aparentemente, tem uma área onde você tem que derrotar muitos \\c[3]\\v[combat.name.hedgehog]s\\c[0] enquanto está chovendo.",
+                        "en_US": "Existe uma área onde você tem que derrotar muitos \\c[3]\\v[combat.name.hedgehog]s\\c[0] enquanto está chovendo.",
                         "de_DE": "Ich wei\u00df zuf\u00e4llig, dass es dort ein Gebiet gibt, wo man viele \\c[3]Ig\u00f6ll\\c[0] besiegen muss, w\u00e4hrend es regnet.",
                         "fr_FR": "fr_FR",
                         "langUid": 151,
@@ -12707,7 +12707,7 @@
               {
                 "message": {
                   "": "Welcome back young lady. Did you find the \\c[3]\\v[item.133.name]\\c[0] yet?",
-                  "en_US": "Bem-vinda de volta, garota. Você achou a \\c[3]\\v[item.133.name]\\c[0]?",
+                  "en_US": "Olá, garota. Você achou a \\c[3]\\v[item.133.name]\\c[0]?",
                   "de_DE": "Willkommen zur\u00fcck, junge Dame! Hast du den \\c[3]Kaputten F\u00e4ustling\\c[0] schon gefunden?",
                   "zh_CN": "\u6b22\u8fce\u56de\u6765\uff0c\u5c0f\u59d1\u5a18\u3002\u627e\u5230\\c[3]\\v[item.133.name]\\c[0]\u4e86\u5417\uff1f<<A<<[CHANGED 2018/08/28]",
                   "ja_JP": "\u304a\u304b\u3048\u308a\u3001\u304a\u5b22\u3055\u3093\u3002\\c[3]\\v[item.133.name]\\c[0]\u306f\u307e\u3060\u898b\u3064\u304b\u3089\u306a\u3044\u306e\u304b\u3044\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -12738,7 +12738,7 @@
               {
                 "message": {
                   "": "Oh, that's unfortunate. I do hope you find it.",
-                  "en_US": "Oh, isso é lamentável. Eu espero que você encontre.",
+                  "en_US": "Ah, isso é lamentável. Eu espero que você encontre.",
                   "de_DE": "Oh, schade. Ich hoffe, du findest ihn.",
                   "fr_FR": "fr_FR",
                   "langUid": 150,
@@ -12754,7 +12754,7 @@
               {
                 "message": {
                   "": "Some player told me it was hidden in \\c[3]\\v[area.autumn-area.name]\\c[0].",
-                  "en_US": "Algum jogador me disse que estava escondido no \\c[3]\\v[area.autumn-area.name]\\c[0].",
+                  "en_US": "Um jogador me disse que a manopla estava escondida no \\c[3]\\v[area.autumn-area.name]\\c[0].",
                   "de_DE": "Jemand hat mir gesagt, dass er in \\c[3]Autumn's Rise\\c[0] versteckt sei.",
                   "fr_FR": "fr_FR",
                   "langUid": 177,
@@ -12811,7 +12811,7 @@
                 {
                   "message": {
                     "": "Welcome back young lady. Did you find the \\c[3]\\v[item.133.name]\\c[0] yet?",
-                    "en_US": "Bem-vinda de volta, garota. Você achou a \\c[3]\\v[item.133.name]\\c[0]?",
+                    "en_US": "Olá, garota. Você achou a \\c[3]\\v[item.133.name]\\c[0]?",
                     "de_DE": "Willkommen zur\u00fcck, junge Dame! Hast du den \\c[3]Kaputten F\u00e4ustling\\c[0] schon gefunden?",
                     "zh_CN": "\u6b22\u8fce\u56de\u6765\uff0c\u5c0f\u59d1\u5a18\u3002\u627e\u5230\\c[3]\\v[item.133.name]\\c[0]\u4e86\u5417\uff1f<<A<<[CHANGED 2018/08/28]",
                     "ja_JP": "\u304a\u304b\u3048\u308a\u3001\u304a\u5b22\u3055\u3093\u3002\\c[3]\\v[item.133.name]\\c[0]\u306f\u307e\u3060\u898b\u3064\u304b\u3089\u306a\u3044\u306e\u304b\u3044\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -13187,7 +13187,7 @@
           {
             "message": {
               "": "That man just now... \\.\\.\\. He looked like he was wearing gear from each class.",
-              "en_US": "Aquele homem agora mesmo... \\.\\.\\. Ele parecia estar usando o equipamento de cada classe.",
+              "en_US": "Aquele homem agora mesmo... \\.\\.\\. Ele parecia estar usando equipamentos de todas as classes.",
               "de_DE": "Dieser Mann gerade...\\.\\.\\. Er sah aus, als w\u00fcrde er Ausr\u00fcstung von jeder Klasse tragen.",
               "fr_FR": "fr_FR",
               "langUid": 146,
@@ -14629,7 +14629,7 @@
           {
             "message": {
               "": "Those traders offer \\c[3]pretty good equipment\\c[3].",
-              "en_US": "Esses comerciantes oferecem \\c[3]equipamentos muito bons\\c[3].",
+              "en_US": "Esses comerciantes oferecem \\c[3]equipamentos muito bons\\c[0].",
               "de_DE": "Diese H\u00e4ndler haben \\c[3]richtig gute Ausr\u00fcstung\\c[0] im Angebot.",
               "fr_FR": "fr_FR",
               "langUid": 226,
@@ -14982,7 +14982,7 @@
           {
             "message": {
               "": "... Just like in many other places in town and elsewhere.",
-              "en_US": "... Assim como em muitos outros lugares da cidade e em outros lugares mundo afora.",
+              "en_US": "... Assim como em qualquer outro lugar da cidade e fora dela.",
               "de_DE": "... So wie \u00fcberall hier in der Stadt und dar\u00fcber hinaus.",
               "fr_FR": "fr_FR",
               "langUid": 234,
@@ -15109,7 +15109,7 @@
           {
             "message": {
               "": "Well like they say -\\. still waters run deep, right?",
-              "en_US": "É como dizem, \"Os quietos são os mais perigosos.\", certo?",
+              "en_US": "É como dizem, \"Os quietos são os mais perigosos.\", não é?",
               "de_DE": "Tja, wie sagt man?\\. Stille Wasser sind tief, was?",
               "fr_FR": "fr_FR",
               "langUid": 247,
@@ -15148,7 +15148,7 @@
               {
                 "message": {
                   "": "You are... \\c[1]level \\v[player.level]\\c[0]?",
-                  "en_US": "Você é.... \\c[1]level \\v[player.level]\\c[0]?",
+                  "en_US": "Você é.... \\c[1]nível \\v[player.level]\\c[0]?",
                   "de_DE": "Du hast... \\c[1]Level \\v[player.level]\\c[0]?",
                   "zh_CN": "\u4f60\u73b0\u5728\u662f...\\c[1]\\v[player.level]\u7ea7\\c[0]?<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u304a\u524d...\\c[1]\u30ec\u30d9\u30eb\\v[player.level]\\c[0]\u306a\u306e\u304b\uff1f<<A<<[CHANGED 2019/08/16]",
@@ -15181,7 +15181,7 @@
               {
                 "message": {
                   "": "Yeah...\\. her level is strange.",
-                  "en_US": "Sim...\\. o level dela é estranho.",
+                  "en_US": "Sim...\\. o nível dela é estranho.",
                   "de_DE": "Ja...\\. ihr hohes Level ist etwas seltsam.",
                   "zh_CN": "\u662f\u554a...\\.\u5979\u7684\u7b49\u7ea7\u6709\u70b9\u5947\u602a\u3002<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u305d\u3046\u3060\u3088...\\.\n\u5f7c\u5973\u306e\u30ec\u30d9\u30eb\u3001\u30d8\u30f3\u306a\u306e\u3002<<A<<[CHANGED 2019/08/16]",
@@ -15247,7 +15247,7 @@
               {
                 "message": {
                   "": "Gotta be honest, this sounds \\c[1]kinda fishy\\c[0].",
-                  "en_US": "Devo ser honesto, isso parece \\c[1]um pouco suspeito\\c[0].",
+                  "en_US": "Sinceramente, isso parece \\c[1]um pouco suspeito\\c[0].",
                   "de_DE": "Ich sag's mal frei heraus: Da scheint \\c[1]irgendwas faul zu sein\\c[0].",
                   "zh_CN": "\u8001\u5b9e\u8bf4\uff0c\u542c\u4e0a\u53bb\u6709\u4e9b\\c[1]\u53ef\u7591\\c[0]\u3002<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u6b63\u76f4\u8a00\u3063\u3066\u3001\u305d\u308c\u3063\u3066\n\\c[1]\u306a\u3093\u3060\u304b\u602a\u3057\u3044\\c[0]\u305e\u3002<<A<<[CHANGED 2019/08/16]",
@@ -15362,7 +15362,7 @@
           {
             "message": {
               "": "You'll have to enter the Quest Hub, anyway.",
-              "en_US": "Você terá que entrar na Central de Missões, de qualquer maneira.",
+              "en_US": "Vocês precisam ir na Central de Missões.",
               "de_DE": "Ihr m\u00fcsst so oder so ins \\c[3]Quest Hub\\c[0].",
               "fr_FR": "fr_FR",
               "langUid": 270,
@@ -15410,7 +15410,7 @@
           {
             "message": {
               "": "I suggest you go in right away and just get it over with.",
-              "en_US": "Eu sugiro que você vá imediatamente e acabe com isso.",
+              "en_US": "É melhor vocês irem logo.",
               "de_DE": "Ich schlage vor, ihr geht am besten gleich rein, damit ihr es hinter euch habt.",
               "fr_FR": "fr_FR",
               "langUid": 273,
@@ -15657,7 +15657,7 @@
           {
             "message": {
               "": "Well, now you should understand your task, being part of Track Walker and all.",
-              "en_US": "Bem, agora vocês devem entender suas tarefas, sendo parte dos Andarilhos e tudo mais.",
+              "en_US": "Então, agora vocês já devem entender suas tarefas como parte dos Andarilhos e tal.",
               "de_DE": "Gut, jetzt solltet ihr eure Aufgabe kennen, als Teil von Pfadl\u00e4ufer und dem ganzen Drumherum.",
               "fr_FR": "fr_FR",
               "langUid": 277,
@@ -15789,7 +15789,7 @@
           {
             "message": {
               "": "They're pretty unpopular.\\. Don't ask me why - they're fine balance wise.",
-              "en_US": "Eles não são muito populares\\. Não faço ideia do por quê, já que eles são bem balanceados.",
+              "en_US": "Eles não são muito populares.\\. Não faço ideia do por quê, já que eles são bem balanceados.",
               "de_DE": "Die sind ziemlich unbeliebt.\\. Frag mich nicht warum - obwohl sie ziemlich ausgewogen sind.",
               "fr_FR": "fr_FR",
               "langUid": 253,
@@ -15819,7 +15819,7 @@
           {
             "message": {
               "": "Japp!\\. And I couldn't imagine you in any other class.",
-              "en_US": "Japp!\\. E eu não poderia imaginar você em qualquer outra classe.",
+              "en_US": "Japp!\\. E eu não consigo imaginar você em nenhuma outra classe.",
               "de_DE": "Jepp!\\. Und ich kann mir dich in keiner anderen Klasse vorstellen.",
               "fr_FR": "fr_FR",
               "langUid": 255,
@@ -16076,7 +16076,7 @@
                 {
                   "message": {
                     "": "I just saw one committing theft at the stands but he was gone before I could catch him.",
-                    "en_US": "Acabei de ver um roubo em uma barraca, mas ele sumiu antes que eu pudesse pegá-lo.",
+                    "en_US": "Acabei de ver um roubo em uma barraca, mas o ladrão sumiu antes que eu pudesse pegá-lo.",
                     "de_DE": "Ich hatte eben einen Diebstahl an einem Stand beobachtet, aber der Dieb ist mir leider entwischt.",
                     "fr_FR": "fr_FR",
                     "langUid": 285,
@@ -16095,7 +16095,7 @@
                 {
                   "message": {
                     "": "I have to remain here and keep watch, so it's up to you to catch him, understand?",
-                    "en_US": "Tenho que ficar aqui e ficar de vigia, então cabe a você pegá-lo, entendeu?",
+                    "en_US": "Tenho que ficar aqui de vigia, então cabe a você pegá-lo, entendeu?",
                     "de_DE": "Ich muss hier bleiben und Wache halten, also liegt es an dir, ihn zu schnappen. Verstanden?",
                     "fr_FR": "fr_FR",
                     "langUid": 286,
@@ -16797,7 +16797,7 @@
                 {
                   "message": {
                     "": "Alright, it was only a matter of time.\\. But I just had to earn money somehow for...\\. for...\\. here let me show you...",
-                    "en_US": "Tudo bem, era apenas uma questão de tempo.\\. Mas eu só tinha que ganhar dinheiro de alguma forma para... \\.para...\\.Aqui, deixa eu te mostrar...",
+                    "en_US": "Tudo bem, era apenas uma questão de tempo.\\. Mas eu tinha que ganhar dinheiro de alguma forma para... \\.para...\\.Aqui, deixa eu te mostrar...",
                     "de_DE": "Tja, das war wohl nur eine Frage der Zeit.\\. Aber ich musste ja irgendwie Geld verdienen f\u00fcr...\\. f\u00fcr...\\. hier, warte, ich zeig dir, wof\u00fcr...",
                     "fr_FR": "fr_FR",
                     "langUid": 302,
@@ -17118,7 +17118,7 @@
                 {
                   "message": {
                     "": "Still not satisfied?\\. Well, he ran towards \\c[3]\\v[area.autumn-area.name]\\c[0] if you wanna whip him some more.",
-                    "en_US": "Ainda não está satisfeita?\\. Bem, ele correu para o \\c[3]\\v[area.autumn-area.name]\\c[0] se você quiser chicoteá-lo um pouco mais.",
+                    "en_US": "Ainda não está satisfeita?\\. O safado correu para o \\c[3]\\v[area.autumn-area.name]\\c[0].",
                     "de_DE": "Noch nicht zufrieden?\\. Also, er rannte in Richtung \\c[3]Autumn's Rise\\c[0], f\u00fcr den Fall, dass du noch nicht mit ihm fertig bist.",
                     "fr_FR": "fr_FR",
                     "langUid": 319,
@@ -17335,7 +17335,7 @@
               {
                 "message": {
                   "": "He was stinking of smoke and looked very suspicious, I tell you!",
-                  "en_US": "Ele estava fedendo a fumaça e parecia muito desconfiado, estou dizendo!",
+                  "en_US": "Ele estava fedendo a fumaça e parecia muito desconfiado!",
                   "de_DE": "Er stank furchtbar nach Rauch und sah sehr verd\u00e4chtig aus!",
                   "fr_FR": "fr_FR",
                   "langUid": 325,
@@ -17611,7 +17611,7 @@
               {
                 "message": {
                   "": "See? Look at that Seeker just staring at me, like I'm some decorative prop.",
-                  "en_US": "Viu? Olhe aquela Seeker apenas me encarando, como se eu fosse um acessório decorativo.",
+                  "en_US": "Viu? Aquela Seeker esté me encarando, como se eu fosse um item de museu.",
                   "de_DE": "Siehst du? Schau dir nur diesen Seeker an. Der starrt mich an, als w\u00e4re ich irgendein Umgebungsobjekt.",
                   "fr_FR": "fr_FR",
                   "langUid": 349,
@@ -17889,7 +17889,7 @@
               {
                 "message": {
                   "": "Please excuse me, I've got calls to do.",
-                  "en_US": "Por favor, com licença, tenho ligações para fazer.",
+                  "en_US": "Desculpe, mas preciso fazer umas ligações agora.",
                   "de_DE": "Bitte entschuldigen Sie mich, ich habe einige Anrufe zu t\u00e4tigen.",
                   "fr_FR": "fr_FR",
                   "langUid": 367,
@@ -17959,7 +17959,7 @@
                 {
                   "message": {
                     "": "Ah, good day.\\. I appreciate your desire to work for us, but you should get your official faction-briefing in \\c[3]\\v[lore.title.seeker]-Central\\c[0] first.",
-                    "en_US": "Ah, bom dia.\\. Agradeço seu desejo de trabalhar para nós, mas você deve obter as instruções oficiais da facção em \\c[3]\\v[lore.title.seeker] Hub\\c[0] primeiro.",
+                    "en_US": "Ah, bom dia.\\. Agradeço seu desejo de trabalhar para nós, mas você deve obter as instruções oficiais na \\c[3]Central de Missões\\c[0] primeiro.",
                     "de_DE": "Ah, guten Tag.\\. Ich wei\u00df Ihre Hilfsbereitschaft zu sch\u00e4tzen, aber Sie sollten erst Ihre offizielle Fraktionseinweisung abschlie\u00dfen.",
                     "fr_FR": "fr_FR",
                     "langUid": 14,
@@ -18050,7 +18050,7 @@
                 {
                   "message": {
                     "": "It is on the ground floor of this huge building here.",
-                    "en_US": "É no piso térreo deste enorme edifício aqui.",
+                    "en_US": "É no primeiro andar deste enorme edifício aqui.",
                     "de_DE": "Sie findet im Erdgeschoss dieses gro\u00dfen Geb\u00e4udes hier statt.",
                     "fr_FR": "fr_FR",
                     "langUid": 387,
@@ -18133,7 +18133,7 @@
                 {
                   "message": {
                     "": "Ah, it is you again.\\. Are you interested in assisting me now?",
-                    "en_US": "Ah, é você de novo.\\. Você está interessado em me ajudar agora?",
+                    "en_US": "Ah, é você de novo.\\. Você está interessada em me ajudar agora?",
                     "de_DE": "Ah! Da sind Sie wieder.\\. Wollen Sie mir nun helfen?",
                     "fr_FR": "fr_FR",
                     "langUid": 392,
@@ -18174,7 +18174,7 @@
                     {
                       "message": {
                         "": "It's a deal then.\\. My client requires \\c[3]two Fruit and Veggie Sets each\\c[0] and also a precious \\c[3]Spice Set\\c[0] to boot.",
-                        "en_US": "É um acordo então.\\. Meu cliente requer \\c[3]dois Pacotes de Frutas e Vegetais\\c[0] e também um precioso \\c[3]Pacote de Temperos\\c[0] para começar.",
+                        "en_US": "É um acordo então.\\. Minha cliente requer \\c[3]dois Pacotes de Frutas e Vegetais\\c[0] e também um precioso \\c[3]Pacote de Temperos\\c[0] para começar.",
                         "de_DE": "Dann sind wir uns einig.\\. Der Kunde ben\u00f6tigt \\c[3]je zwei Fr\u00fcchte- und Gem\u00fcsekisten\\c[0] und \\c[3]eine Gew\u00fcrzkiste\\c[0] von 1a-Qualit\u00e4t.",
                         "fr_FR": "fr_FR",
                         "langUid": 258,
@@ -18473,7 +18473,7 @@
                 {
                   "message": {
                     "": "I've already gotten the message from our satisfied customer.\\. Good job!",
-                    "en_US": "Eu já recebi a mensagem do nosso cliente satisfeito.\\. Bom trabalho!",
+                    "en_US": "Eu já recebi a mensagem da nossa cliente satisfeita.\\. Bom trabalho!",
                     "de_DE": "Ich habe bereits von unserem zufriedenen Kunden geh\u00f6rt.\\. Gute Arbeit!",
                     "fr_FR": "fr_FR",
                     "langUid": 397,
@@ -19690,7 +19690,7 @@
                 {
                   "message": {
                     "": "Now, as you might've already assumed, a man of my position is always busy brokering business agreements big and small.",
-                    "en_US": "Agora, como você já deve ter presumido, um homem na minha posição está sempre ocupado com acordos de negócios, grandes e pequenos.",
+                    "en_US": "Como você deve imaginar, alguém na minha posição está sempre ocupado com negócios, grandes e pequenos.",
                     "de_DE": "Wie Sie vielleicht schon vermutet haben, ist ein Mann in meiner Position st\u00e4ndig damit besch\u00e4ftigt, kleinere und gr\u00f6\u00dfere Gesch\u00e4ftsvertr\u00e4ge abzuschlie\u00dfen.",
                     "fr_FR": "fr_FR",
                     "langUid": 389,
@@ -19713,7 +19713,7 @@
                 {
                   "message": {
                     "": "Thus, there's always a need for helping hands willing to do some necessary legwork.\\. For a generous payment of course.",
-                    "en_US": "Portanto, existe sempre a necessidade de pessoas dispostas a fazer algum trabalho braçal necessário.\\. Por um pagamento generoso, é claro.",
+                    "en_US": "Por isso, sempre precisamos de pessoas dispostas a fazer trabalho trabalho braçal.\\. Com um pagamento generoso, é claro.",
                     "de_DE": "Das hei\u00dft, ich kann immer eine helfende Hand gebrauchen, die ein paar notwendige Botenaufgaben erledigt.\\. F\u00fcr einen gro\u00dfz\u00fcgigen Verdienst, versteht sich.",
                     "fr_FR": "fr_FR",
                     "langUid": 415,
@@ -19771,7 +19771,7 @@
                 {
                   "message": {
                     "": "It requires collecting raw materials in the wild, trading them for the required items here in the market and of course delivering them to my client.",
-                    "en_US": "Isso requer a coleta de matérias-primas na natureza, trocando-as pelos itens necessários aqui no mercado e, claro, entregando-as ao meu cliente.",
+                    "en_US": "A tarefa é coletar matérias-primas, trocar por itens aqui no mercado e, claro, entregar ao meu cliente.",
                     "de_DE": "Dazu m\u00fcssten Rohmaterialien in der Wildnis gesammelt werden, um die ben\u00f6tigten Zutaten hier auf dem Markt einzutauschen und anschlie\u00dfend dem Kunden zuzustellen.",
                     "fr_FR": "fr_FR",
                     "langUid": 416,
@@ -19869,7 +19869,7 @@
                     {
                       "message": {
                         "": "For the exchange, you will need raw trading materials from the various plants of \\v[area.autumn-area.name].",
-                        "en_US": "Para a troca, você precisará de matérias-primas de várias plantas do \\v[area.autumn-area.name].",
+                        "en_US": "Para fazer a troca, você precisará de matérias-primas de várias plantas do \\v[area.autumn-area.name].",
                         "de_DE": "Zum Handeln brauchen Sie aber Rohmaterialien, die Sie von diversen Pflanzen in Autumn's Rise bekommen.",
                         "fr_FR": "fr_FR",
                         "langUid": 420,
@@ -21246,7 +21246,7 @@
           {
             "message": {
               "": "You find it in \\c[3]Autumn's Fall\\c[0]. That's to the north of Rookie Harbor. Just take the exit in \\c[3]Rookie Harbor East\\c[3].",
-              "en_US": "Você encontra isso no \\c[3]Pôr do Outono\\c[0]. Que fica localizado ao norte do Porto do Novato. Basta pegar a saída no \\c[3]Leste do Porto do Novato\\c[3].",
+              "en_US": "Você encontra isso no \\c[3]Pôr do Outono\\c[0]. Que fica localizado ao norte do Porto do Novato. Basta pegar a saída no \\c[3]Leste do Porto do Novato\\c[0].",
               "de_DE": "Du findest sie in \\c[3]Autumn's Fall\\c[0]. Das liegt n\u00f6rdlich von Rookie Harbor. Nimm einfach den \\c[3]Ausgang \u00f6stlich von hier\\c[0].",
               "fr_FR": "fr_FR",
               "zh_CN": "\u5728\\c[3]\u843d\u79cb\u6797\u5730\\c[0]\u80fd\u627e\u5230\u3002\u5c31\u5728\\c[3]\u65b0\u624b\u6e2f\u4e1c\u8fb9\\c[3]\u3002",

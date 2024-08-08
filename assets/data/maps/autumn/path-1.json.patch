@@ -2794,7 +2794,7 @@
                     "message": {
                         "de_DE": "Du musst wissen, dass diese Klasse sehr schwer zu meistern ist, daher wurde sie recht unbeliebt.",
                         "": "You see, the class is very hard to master, so it became a bit unpopular, I would say.",
-                        "en_US": "Olha, é uma classe muito difícil de dominar, então se tornou um pouco impopular, eu diria.",
+                        "en_US": "Essa classe é complicada de aprender, por isso não é tão popular.",
                         "langUid": 3,
                         "fr_FR": "",
                         "zh_CN": "\u56e0\u4e3a\u8fd9\u4e2a\u804c\u4e1a\u975e\u5e38\u96be\u638c\u63e1\uff0c\u81ea\u7136\u5927\u591a\u6570\u73a9\u5bb6\u90fd\u653e\u5f03\u4e86\u3002",
@@ -2812,7 +2812,7 @@
                     "message": {
                         "de_DE": "Deswegen findet man mittlerweile nur noch eine Hand voll Leute, die sie spielen.",
                         "": "And nowadays, you only find a handful of people trying to play it.",
-                        "en_US": "E hoje em dia, você só encontra um punhado de pessoas tentando jogar com ela.",
+                        "en_US": "Hoje em dia, pouca gente joga com ela.",
                         "langUid": 4,
                         "fr_FR": "",
                         "zh_CN": "\u6240\u4ee5\u5230\u4eca\u5929\uff0c\u53ea\u6709\u5be5\u5be5\u51e0\u4e2a\u4eba\u4f1a\u73a9\u8fd9\u4e2a\u804c\u4e1a\u4e86\u3002<<A<<[CHANGED 2017/10/13]",
@@ -4805,7 +4805,7 @@
                     }, {
                         "message": {
                             "": "I... I am so sorry.\\. For real this time.",
-                            "en_US": "Eu...Eu sinto muito. \\. De verdade desta vez.",
+                            "en_US": "Eu... Eu sinto muito. \\. De verdade desta vez.",
                             "de_DE": "Tu... Tut mir echt leid!\\. Diesmal wirklich.",
                             "fr_FR": "fr_FR",
                             "langUid": 291,
@@ -4841,7 +4841,7 @@
                     }, {
                         "message": {
                             "": "I'm serious!\\. I'm out of smokebombs anyway, otherwise those damn \\v[combat.name.hedgehog]s never would've gotten me.",
-                            "en_US": "Estou falando sério!\\. Estou sem bombas de fumaça, se não, aqueles \\v[combat.name.hedgehog]s nunca teriam me pegado.",
+                            "en_US": "Estou falando sério!\\. Não tenho mais bombas de fumaça, se não, aqueles \\v[combat.name.hedgehog]s nunca teriam me pegado.",
                             "de_DE": "Ich mein's ernst!\\. Ich hab eh keine Rauchbomben mehr, ansonsten h\u00e4tten mich diese Ig\u00f6ll nie gekriegt.",
                             "fr_FR": "fr_FR",
                             "langUid": 336,
@@ -6625,7 +6625,7 @@
                             "accepted": [{
                                 "message": {
                                     "": "P-Please find out what you c-c-can and return to me!",
-                                    "en_US": "P-Por favor, descubra o que você p-pode e volte para cá!",
+                                    "en_US": "P-Por favor, descubra o que você p-puder e volte para cá!",
                                     "de_DE": "B-B-Bitte, tu was du kannst und komm dann zur\u00fcck zu mi-mi-mir.",
                                     "fr_FR": "fr_FR",
                                     "langUid": 383,
@@ -6974,7 +6974,7 @@
                     }, {
                         "message": {
                             "": "Were you able to f..find all the data I r-requested?",
-                            "en_US": "Você conseguiu e..encontrar todos os dados que e-eu solicitei?",
+                            "en_US": "Você conseguiu e-e-encontrar todos os dados que e-eu solicitei?",
                             "de_DE": "Ha-Ha-Hast du alles gefunden, w-w-was ich wollte?",
                             "fr_FR": "fr_FR",
                             "langUid": 397,
@@ -7028,7 +7028,7 @@
                     }, {
                         "message": {
                             "": "M-Marvelous!",
-                            "en_US": "M-Maravilhoso!",
+                            "en_US": "E-Excelente!",
                             "de_DE": "He-He-Hervorragend!",
                             "fr_FR": "fr_FR",
                             "langUid": 399,
@@ -7415,7 +7415,7 @@
                 }, {
                     "message": {
                         "": "Good S-Seeker, I'm in desperate n-need of help.",
-                        "en_US": "Bom, S-Seeker estou desesperadamente precisando de ajuda.",
+                        "en_US": "Bom, S-Seeker, eu realmente preciso muito da sua ajuda.",
                         "de_DE": "Lieber Seeker, ich b-b-brauche dringend Hilfe.",
                         "fr_FR": "fr_FR",
                         "langUid": 414,
@@ -7559,7 +7559,7 @@
                 }, {
                     "message": {
                         "": "I d-d-don't suppose y-you would like to h-h-h-help me?",
-                        "en_US": "S-s-suponho que g-gostaria de me a-a-a-ajudar?",
+                        "en_US": "V-v-você g-gostaria de me a-a-a-ajudar?",
                         "de_DE": "Ich nehme mal nicht an, d-d-dass du m-m-mir helfen willst, oder?",
                         "fr_FR": "fr_FR",
                         "langUid": 422,
@@ -7650,7 +7650,7 @@
                     }, {
                         "message": {
                             "": "O-Okay, l-l-let me introduce myself first.",
-                            "en_US": "B-bom, d-d-deixe-me apresentar primeiro.",
+                            "en_US": "B-b-bom, primeiro v-v-vou me apresentar.",
                             "de_DE": "G-G-Gut, ich stelle m-m-mich kurz vor.",
                             "fr_FR": "fr_FR",
                             "langUid": 426,
@@ -7814,7 +7814,7 @@
                     }, {
                         "message": {
                             "": "You see, I-I want to gather some d-data for \\c[3]Autumn's Rise\\c[0].",
-                            "en_US": "Veja, e-e-eu quero reunir alguns d-dados do \\c[3]Nascer do Outono\\c[0].",
+                            "en_US": "Ouça, e-e-eu quero reunir alguns d-dados do \\c[3]Nascer do Outono\\c[0].",
                             "de_DE": "Du mu-mu-musst wissen, ich sa-sa-sammle Daten \u00fc-\u00fc-\u00fcber \\c[3]Autumn's Rise\\c[0].",
                             "fr_FR": "fr_FR",
                             "langUid": 434,
@@ -7850,7 +7850,7 @@
                     }, {
                         "message": {
                             "": "The \\c[3]T-Track of the Ancients\\c[0] only allows \\c[3]Seekers\\c[0] to find c-certain things.",
-                            "en_US": "A \\c[3]T-Trilha dos Antigos\\c[0] só permite \\c[3]Seekers\\c[0] encontrem c-certas coisas.",
+                            "en_US": "A \\c[3]T-Trilha dos Antigos\\c[0] só permite que \\c[3]Seekers\\c[0] encontrem c-certas coisas.",
                             "de_DE": "Der \\c[3]Pf-Pf-Pfad der Ahnen\\c[0] erlaubt es nur \\c[3]Seekern\\c[0], b-b-bestimmte Dinge zu finden.",
                             "fr_FR": "fr_FR",
                             "langUid": 436,
@@ -7886,7 +7886,7 @@
                     }, {
                         "message": {
                             "": "I c-c-compiled a list of things I need.",
-                            "en_US": "Eu c-c-compilei uma lista das coisas de que preciso.",
+                            "en_US": "Eu f-f-fiz uma lista das coisas de que preciso.",
                             "de_DE": "Ich habe eine Li-Li-Liste zusammengestellt, mit Sachen, d-d-die ich brauche.",
                             "fr_FR": "fr_FR",
                             "langUid": 438,

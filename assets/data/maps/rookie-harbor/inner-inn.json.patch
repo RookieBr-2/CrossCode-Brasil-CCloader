@@ -455,7 +455,7 @@
             "entity": { "global": true, "name": "wat1" },
             "text": {
               "": "Always wondered what that is.",
-              "en_US": "Sempre me perguntei o que é isso.",
+              "en_US": "Sempre quis saber o que era aquilo.",
               "de_DE": "Hab mich schon gewundert, was das sein soll.",
               "fr_FR": "fr_FR",
               "langUid": 2,
@@ -469,7 +469,7 @@
             "entity": { "global": true, "name": "wat2" },
             "text": {
               "": "Oh, that's a Ball-Recharger! ",
-              "en_US": "Ah, isso é um Recarregador de Esferas!",
+              "en_US": "Ah, aquilo é um Recarregador de Esferas!",
               "de_DE": "Oh, das ist ein Ball-Auflader!",
               "fr_FR": "fr_FR",
               "langUid": 4,
@@ -553,7 +553,7 @@
             "entity": { "global": true, "name": "wat2" },
             "text": {
               "": "That's why they removed it, I guess. No one was happy.",
-              "en_US": "É por isso que o removeram, eu acho. Ninguém se importou.",
+              "en_US": "É por isso que removeram, eu acho. Ninguém se importou.",
               "de_DE": "Wahrscheinlich haben sie es deswegen wieder rausgenommen. Da ging der Spielspa\u00df wohl zu schnell fl\u00f6ten.",
               "fr_FR": "fr_FR",
               "langUid": 9,
@@ -567,7 +567,7 @@
             "entity": { "global": true, "name": "wat2" },
             "text": {
               "": "But they keep this asset in as a reminder of the old times.",
-              "en_US": "Mas eles mantêm esse ativo como uma lembrança dos velhos tempos.",
+              "en_US": "Mas eles guardaram aquele ali como uma lembrança dos velhos tempos.",
               "de_DE": "Aber sie haben dieses Schmuckst\u00fcck als Erinnerung an die alte Zeit behalten.",
               "fr_FR": "fr_FR",
               "langUid": 10,

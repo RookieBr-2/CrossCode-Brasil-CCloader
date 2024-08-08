@@ -535,7 +535,7 @@
                 {
                   "text": {
                     "": "Large parts of Humankind are organized into the \\c[3]4 big factions\\c[0].",
-                    "en_US": "Grandes partes da humanidade são organizadas em \\c[3]4 grandes facções\\c[0].",
+                    "en_US": "Grande parte da humanidade está organizada em \\c[3]4 grandes facções\\c[0].",
                     "de_DE": "Ein Gro\u00dfteil der Menschheit ist in \\c[3]vier gro\u00dfen Fraktionen\\c[0] organisiert.",
                     "fr_FR": "fr_FR",
                     "langUid": 424,
@@ -580,7 +580,7 @@
                 {
                   "text": {
                     "": "The \\c[3]Venture Alliance\\c[0] is mainly responsible for doing pioneer work by exploring and claiming new land, hunting and scavenging wildlife and mining natural resources.\nIt is represented in \\v[area.rookie-harbor.name] by the \\c[3]Falldivers\\c[0].",
-                    "en_US": "A \\c[3]Aliança Empreendedora\\c[0] é responsável principalmente por fazer um trabalho pioneiro, explorando e reivindicando novas terras, caçando e eliminando animais selvagens e minerando recursos naturais.\nÉ representada em \\v[area.rookie-harbor.name] pelos \\c[3]Mergulhadores\\c[0].",
+                    "en_US": "A \\c[3]Aliança Empreendedora\\c[0] faz o trabalho de explorar terras, caçar animais e minerar recursos. No \\v[area.rookie-harbor.name], quem representa eles são os \\c[3]Mergulhadores\\c[0].",
                     "de_DE": "Die \\c[3]Avantgarde-Allianz\\c[0] k\u00fcmmert sich in erster Linie um Pionierarbeiten. Sie erkunden und beanspruchen neue Gebiete, jagen und sammeln in der Wildnis und bauen Rohstoffe ab. \nIn Rookie Harbor wird diese Fraktion durch die \\c[3]Herbsttaucher\\c[0] vertreten.",
                     "fr_FR": "fr_FR",
                     "langUid": 427,
@@ -595,7 +595,7 @@
                 {
                   "text": {
                     "": "The \\c[3]Human Preservation Department\\c[0] is mainly responsible for the protection and discipline of the human settlements on \\v[lore.title.planet].\nIt is represented in \\v[area.rookie-harbor.name] by the \\c[3]Rookie Harbor Guard\\c[0].",
-                    "en_US": "O \\c[3]Departamento de Preservação Humana\\c[0] é o principal responsável pela proteção e disciplina dos povoados humanos em \\v[lore.title.planet].\nÉ representado no \\v[area.rookie-harbor.name] pela \\c[3]Guarda do Porto do Novato\\c[0].",
+                    "en_US": "O \\c[3]Departamento de Preservação Humana\\c[0] é o principal responsável pela proteção e ordem das colônias humanas em \\v[lore.title.planet].\nÉ representado no \\v[area.rookie-harbor.name] pela \\c[3]Guarda do Porto do Novato\\c[0].",
                     "de_DE": "Das \\c[3]Ministerium f\u00fcr B\u00fcrgerschutz\\c[0] ist haupts\u00e4chlich f\u00fcr die Sicherheit und Disziplin in den menschlichen Siedlungen auf Shadoon zust\u00e4ndig.\nIn Rookie Harbor wird diese Fraktion durch die hiesige \\c[3]Hafenwache\\c[0] vertreten.",
                     "fr_FR": "fr_FR",
                     "langUid": 428,
@@ -610,7 +610,7 @@
                 {
                   "text": {
                     "": "The \\c[3]Association of Human Advancement\\c[0] is mainly responsible for trade, manufacturing and scientific research.\nIt is represented in \\v[area.rookie-harbor.name] by the \\c[3]Coastal Trading Coalition\\c[0].",
-                    "en_US": "A \\c[3]Associação do Avanço Humano\\c[0] é principalmente responsável pelo comércio, fabricação e pesquisa cientifica.\nÉ representada no \\v[area.rookie-harbor.name] pela \\c[3]Aliança Comercial Costeira\\c[0].",
+                    "en_US": "A \\c[3]Associação do Avanço Humano\\c[0] cuida do comércio, da fabricação e da pesquisa científica.\nNo \\v[area.rookie-harbor.name] eles são representados pela \\c[3]Aliança Comercial Costeira\\c[0].",
                     "de_DE": "Die \\c[3]Gesellschaft f\u00fcr Zivilisationsentwicklung\\c[0] ist vor allem f\u00fcr Handel, Produktion und Forschung zust\u00e4ndig.\nIn Rookie Harbor wird diese Fraktion durch den \\c[3]K\u00fcsten-Handelsverband\\c[0] vertreten.",
                     "fr_FR": "fr_FR",
                     "langUid": 429,
@@ -625,7 +625,7 @@
                 {
                   "text": {
                     "": "The \\c[3]Amity of Balance\\c[0] is mainly responsible for farming, gathering and the research of native life and gaining an understanding of the inner workings of the \\v[lore.title.track-of-ancients].\nIt is represented in \\v[area.rookie-harbor.name] by the \\c[3]Fruits of Autumn\\c[0].",
-                    "en_US": "A \\c[3]Amizade do Equilíbrio\\c[0] é responsável principalmente pela agricultura, coleta e pesquisa da vida nativa e obter uma compreensão do funcionamento interno da \\v[lore.title.track-of-ancients].\nÉ representada no \\v[area.rookie-harbor.name] pelos \\c[3]Frutos do Outono\\c[0].",
+                    "en_US": "A \\c[3]Amizade do Equilíbrio\\c[0] se ocupa de agricultura, coleta e pesquisa da vida nativa, e também de entender a \\v[lore.title.track-of-ancients].\nÉ representada no \\v[area.rookie-harbor.name] pelos \\c[3]Frutos do Outono\\c[0].",
                     "de_DE": "Die \\c[3]Wiege der Balance\\c[0] k\u00fcmmert sich vorwiegend um Landwirtschaft und die Erforschung einheimischen Lebens und der inneren Mechanismen des Pfades der Ahnen.\nIn Rookie Harbor wird diese Fraktion durch die \\c[3]Fr\u00fcchte des Herbstes\\c[0] vertreten.",
                     "fr_FR": "fr_FR",
                     "langUid": 430,
@@ -640,7 +640,7 @@
                 {
                   "text": {
                     "": "While the factions are filled with highly resourceful experts of their field, they often need the support of the \\c[3]\\v[lore.title.seeker]s\\c[0] because of their special connection to the \\c[3]\\v[lore.title.track-of-ancients]\\c[0].",
-                    "en_US": "Embora as facções estejam repletas de especialistas altamente engenhosos em seu campo, muitas vezes precisam de apoio dos \\c[3]\\v[lore.title.seeker]s\\c[0] por causa de sua conexão especial com a \\c[3]\\v[lore.title.track-of-ancients]\\c[0].",
+                    "en_US": "Apesar de terem especialistas incríveis, as facções muitas vezes precisam dos \\c[3]\\v[lore.title.seeker]s\\c[0], pois eles têm uma conexão especial com a \\c[3]\\v[lore.title.track-of-ancients]\\c[0].",
                     "de_DE": "Obwohl die Fraktionen viele findige Experten in ihren Reihen haben, sind sie h\u00e4ufig auf die Unterst\u00fctzung der \\c[3]Seeker\\c[0] angewiesen - wegen ihrer besonderen Verbindung zum \\c[3]Pfad der Ahnen\\c[0].",
                     "fr_FR": "fr_FR",
                     "langUid": 432,
@@ -1389,7 +1389,7 @@
                 {
                   "message": {
                     "": "Thus you are now also qualified to use your abilities as a \\v[lore.title.seeker] to assist the \\c[3]4 factions\\c[0] in their duties.",
-                    "en_US": "Assim, agora você também está qualificada para usar suas habilidades como um \\v[lore.title.seeker] para ajudar as \\c[3]4 facções\\c[0] em seus deveres.",
+                    "en_US": "Agora você pode usar suas habilidades de \\v[lore.title.seeker] para ajudar as \\c[3]4 facções\c[0].",
                     "de_DE": "Damit bist du nun auch qualifiziert, deine F\u00e4higkeiten als Seeker bei den \\c[3]vier Fraktionen\\c[0] einzubringen und sie in ihren Pflichten zu unterst\u00fctzen.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u56e0\u6b64\uff0c\u4f60\u73b0\u5728\u4e5f\u6709\u8d44\u683c\u4f5c\u4e3a\u4e00\u540d\\v[lore.title.seeker]\u4f7f\u7528\u80fd\u529b\uff0c\u5e2e\u52a9\\c[3]\u56db\u5927\u6d3e\u7cfb\\c[0]\u5b8c\u6210\u4efb\u52a1\u3002<<A<<[CHANGED 2017/07/07]",
@@ -1427,7 +1427,7 @@
                 {
                   "message": {
                     "": "They are organizations that secure humanity's survival and prosperity through their special fields of expertise.",
-                    "en_US": "São as organizações que garantem a sobrevivência e a prosperidade da humanidade por meio de seus campos especiais de especialização",
+                    "en_US": "Essas organizações ajudam a humanidade a sobreviver e crescer com seu conhecimento em diferentes campos.",
                     "de_DE": "Das sind Organisationen, die den Fortbestand und Wohlstand der Menschheit durch ihre Expertisen auf verschiedenen Gebieten sichern.",
                     "fr_FR": "fr_FR",
                     "langUid": 391,
@@ -1561,7 +1561,7 @@
                 {
                   "message": {
                     "": "For now you should know that each faction has a subdivision in \\v[area.rookie-harbor.name], like in every settlement.",
-                    "en_US": "Por enquanto você deve saber que cada facção tem uma subdivisão no \\v[area.rookie-harbor.name], assim como em todos os povoados.",
+                    "en_US": "Cada facção tem uma subdivisão no \\v[area.rookie-harbor.name] e em outras colônias.",
                     "de_DE": "Vorab solltest du wissen, dass jede Fraktion eine lokale Vertretung in Rookie Harbor hat, wie auch in jeder anderen bewohnten Siedlung.",
                     "fr_FR": "fr_FR",
                     "langUid": 395,
@@ -1580,7 +1580,7 @@
                 {
                   "message": {
                     "": "To better understand our society and your place in it, you should get introduced to all of them.",
-                    "en_US": "Para entender melhor nossa sociedade e seu lugar nela, você deve ser apresentada a todos eles.",
+                    "en_US": "Para entender melhor nossa sociedade e seu papel nela, você deve conhecer todas as facções.",
                     "de_DE": "F\u00fcr ein besseres Verst\u00e4ndnis unserer Gesellschaft und deinen Platz in ihr, solltest du dich allen einmal vorstellen.",
                     "fr_FR": "fr_FR",
                     "langUid": 396,
@@ -1599,7 +1599,7 @@
                 {
                   "message": {
                     "": "For this purpose I will now issue an official assignment.\\. Please accept.",
-                    "en_US": "Para este propósito, irei agora emitir uma designação oficial.\\. Aceite por favor.",
+                    "en_US": "Por isso, vou emitir uma designação oficial agora.\\. Por favor, aceite.",
                     "de_DE": "Zu diesem Zweck werde ich dir nun einen offiziellen Auftrag erteilen.\\. Ich bitte dich, ihn anzunehmen.",
                     "fr_FR": "fr_FR",
                     "langUid": 400,
@@ -2080,7 +2080,7 @@
                 {
                   "message": {
                     "": "I hope you now understand how you can help humanity, besides solving the \\v[lore.title.track-of-ancients].",
-                    "en_US": "Espero que você entenda agora como pode ajudar a humanidade, além de resolver a \\v[lore.title.track-of-ancients].",
+                    "en_US": "Espero que você tenha visto como pode beneficiar a humanidade, além de completar a \\v[lore.title.track-of-ancients].",
                     "de_DE": "Ich hoffe, du verstehst jetzt, dass du der Menschheit nicht nur helfen kannst, indem du den Pfad der Ahnen beschreitest.",
                     "fr_FR": "fr_FR",
                     "langUid": 414,
@@ -3186,7 +3186,7 @@
                   {
                     "message": {
                       "": "If you want to know more about quests, I suggest you talk to my fellow advisors at the counter over there.",
-                      "en_US": "Se você quiser saber mais sobre missões, sugiro que fale com meus colegas orientadores no balcão de lá.",
+                      "en_US": "Se você quiser saber mais sobre missões, sugiro que fale com meus colegas orientadores naquele balcão.",
                       "langUid": 478,
                       "zh_CN": "\u8981\u662f\u60f3\u77e5\u9053\u66f4\u591a\u5173\u4e8e\u4efb\u52a1\u7684\u4fe1\u606f\u7684\u8bdd\uff0c\u4f60\u53ef\u4ee5\u53bb\u90a3\u8fb9\u67dc\u53f0\u54a8\u8be2\u3002<<A<<[CHANGED 2018/09/19]",
                       "ko_KR": "\ud018\uc2a4\ud2b8\uc5d0 \ub300\ud574 \ub354 \uc54c\uace0 \uc2f6\ub2e4\uba74, \uc800\ucabd\uc5d0 \uc788\ub294 \uc870\uc5b8\uc790\uc5d0\uac8c \ubb3c\uc5b4\ubcf4\ub294 \uac8c \uc88b\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4.<<A<<[CHANGED 2018/09/19]",
@@ -3580,7 +3580,7 @@
               {
                 "message": {
                   "": "He can teach you everything you need to know and more. Once you have mastered both the \\c[3]Heat\\c[0] and \\c[3]Cold\\c[0] elements, please find him in \\c[3]\\v[area.rookie-harbor.name] - Info Hub Dojo\\c[0]!",
-                  "en_US": "Ele pode ensinar tudo o que você precisa saber e muito mais. Depois de dominar os elementos \\c[3]Fogo\\c[0] e \\c[3]Gelo\\c[0], por favor encontre-o no \\c[3]Dojo da Central de Informações\\c[0]!",
+                  "en_US": "Ele pode ensinar tudo o que você precisa saber e muito mais. Depois de dominar os elementos \\c[3]Fogo\\c[0] e \\c[3]Gelo\\c[0], por favor encontre-o no \\c[3]Dojo do Centro de Informações\\c[0]!",
                   "de_DE": "Er lehrt dich alles, was du wissen musst - und noch mehr. Sobald du die Elemente \\c[3]Hitze\\c[0] und \\c[3]K\u00e4lte\\c[0] gemeistert hast, steht er dir im \\c[3]Dojo des Info-Hubs\\c[0] zur Verf\u00fcgung!<<A<<[CHANGED 2021/05/22]",
                   "zh_CN": "\u4ed6\u80fd\u6559\u4f1a\u4f60\u9700\u8981\u77e5\u9053\u7684\u4e00\u5207\u4e1c\u897f\u3002\u638c\u63e1\u4e86\u51b0\u548c\u706b\u4e24\u79cd\u5143\u7d20\u4e4b\u540e\uff0c\u8bf7\u518d\u53bb\\c[3]\u65b0\u624b\u6e2f - \u4fe1\u606f\u4e2d\u5fc3\u9053\u573a\\c[0]\u627e\u4ed6\u3002<<A<<[CHANGED 2021/05/22]",
                   "ja_JP": "\u5f7c\u306f\u3042\u306a\u305f\u306e\u77e5\u308b\u3079\u304d\u3053\u3068\u3092\u3059\u3079\u3066\n\u6559\u3048\u3066\u304f\u308c\u308b\u3067\u3057\u3087\u3046\u3002\u305d\u308c\u4ee5\u4e0a\u306e\u3053\u3068\u3082\u3002\n\\c[3]\u706b\u708e\\c[0]\u3068\\c[3]\u51b7\u6c17\\c[0]\u306e\u30a8\u30ec\u30e1\u30f3\u30c8\u3092\n\u4e21\u65b9\u7fd2\u5f97\u3057\u305f\u3089\u3001\\c[3]\\v[area.rookie-harbor.name]\u306e\n\u30a4\u30f3\u30d5\u30a9\u30cf\u30d6\u9053\u5834\\c[0]\u306b\u3044\u308b\u5f7c\u3068\n\u4f1a\u3063\u3066\u304f\u3060\u3055\u3044\u3002<<A<<[CHANGED 2021/05/22]",

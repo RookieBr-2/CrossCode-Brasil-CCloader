@@ -2030,7 +2030,7 @@
                   "Este menu lista todos os objetos ambientais destrutíveis encontrados em CrossWorlds. Use \\i[circle-right] e \\i[circle-left] para navegar entres as guias.",
                   "....",
                   "Cada objeto precisa primeiro ser analisado, o que é feito simplesmente destruindo-os e recolhendo os itens deixados.",
-                  "Uma vez que um objetivo estiver \\c[3]50% analisado \\c[0] você pode ver a localização do objeto e uma vez que \\c[3]analisado 100%, todos os itens que o objeto pode deixar são revelados\\c[0]."
+                  "Uma vez que um objetivo estiver \\c[3]50% analisado\\c[0] você pode ver a localização do objeto e uma vez que \\c[3]analisado 100%, todos os itens que o objeto pode deixar são revelados\\c[0]."
                 ]
               }
             ]

@@ -230,7 +230,7 @@
                 "message": {
                     "de_DE": "Wie w\u00e4r's damit:\\. Willkommen in CrossWorlds!",
                     "": "How about:\\. Welcome to CrossWorlds!",
-                    "en_US": "Que tal:\\. Bem-vindo ao CrossWorlds!",
+                    "en_US": "Que tal:\\. Bem-vinda ao CrossWorlds!",
                     "langUid": 2,
                     "fr_FR": "",
                     "zh_CN": "\u90a3\u4e48\uff1a\\.\u6b22\u8fce\u6765\u5230\u8fdc\u661f\u4e16\u754c\uff01",
@@ -391,7 +391,7 @@
                     "message": {
                         "de_DE": "Darunter versteht man Videospiele, die zeitgleich eine gro\u00dfe Anzahl von Spielern unterst\u00fctzen.",
                         "": "It is a term for video games that support a large number of players simultaneously.",
-                        "en_US": "É um termo para videogames que suportam um grande número de jogadores simultaneamente.",
+                        "en_US": "É um termo para jogos que suportam um grande número de jogadores simultaneamente.",
                         "langUid": 10,
                         "fr_FR": "",
                         "zh_CN": "\u8fd9\u662f\u4e2a\u80fd\u652f\u6301\u5927\u91cf\u73a9\u5bb6\u540c\u65f6\u5728\u7ebf\u7684\u7535\u5b50\u6e38\u620f\u3002<<A<<[CHANGED 2017/10/13]",
@@ -409,7 +409,7 @@
                     "message": {
                         "de_DE": "Normalerweise werden diese Spieler aus aller Welt durch eine virtuelle Umgebung miteinander verbunden.",
                         "": "Usually, all these players are connected to a virtual environment from all around the world.",
-                        "en_US": "Normalmente, todos esses jogadores estão conectados a um ambiente virtual por todo o mundo.",
+                        "en_US": "Normalmente, jogadores de várias partes do mundo se conectam através de um ambiente virtual.",
                         "langUid": 11,
                         "fr_FR": "",
                         "zh_CN": "\u901a\u5e38\u6765\u8bf4\uff0c\u4e16\u754c\u5404\u5730\u7684\u6240\u6709\u8fd9\u4e9b\u73a9\u5bb6\u4f1a\u88ab\u8fde\u63a5\u5230\u865a\u62df\u73af\u5883\u4e2d\u3002",
@@ -496,7 +496,7 @@
                 "message": {
                     "de_DE": "Alle Spieler sind durch spezielle Avatare mit dieser Welt verbunden.",
                     "": "All players are remotely connected to this world through special avatars.",
-                    "en_US": "Todos os jogadores estão remotamente conectados a este mundo através de avatares especiais.",
+                    "en_US": "Todos os jogadores se conectam a este mundo de forma remota, usando avatares especiais.",
                     "langUid": 16,
                     "fr_FR": "",
                     "zh_CN": "\u6240\u6709\u73a9\u5bb6\u901a\u8fc7\u7279\u6b8a\u7684\u865a\u62df\u4eba\u7269\u8fdc\u7a0b\u8fde\u63a5\u5230\u8fd9\u4e2a\u4e16\u754c\u3002",
@@ -514,7 +514,7 @@
                 "message": {
                     "de_DE": "Diese Avatare haben eine physische Gestalt und sind eng mit allen f\u00fcnf Sinnen des Spielers verbunden.",
                     "": "These avatars have a physical form and are tightly connected to all 5 senses of the player.",
-                    "en_US": "Esses avatares têm uma forma fisica e estão profundamente ligados a todos os 5 sentidos do jogador.",
+                    "en_US": "Esses avatares possuem uma forma física e estão completamente conectados a todos os cinco sentidos do jogador.",
                     "langUid": 17,
                     "fr_FR": "",
                     "zh_CN": "\u8fd9\u4e9b\u865a\u62df\u4eba\u7269\u62e5\u6709\u7269\u7406\u5f62\u6001\uff0c\u5e76\u4e14\u548c\u73a9\u5bb6\u7684\u4e94\u611f\u6709\u7740\u975e\u5e38\u7d27\u5bc6\u7684\u8054\u7cfb\u3002",
@@ -634,7 +634,7 @@
                 "message": {
                     "de_DE": "Das stimmt.\\. Dieses Frachtschiff geh\u00f6rt zum Wartungspersonal von CrossWorlds.",
                     "": "That is correct.\\. This cargo ship belongs to the maintenance staff of CrossWorlds.",
-                    "en_US": "Está correto.\\. Este navio de carga pertence à equipe de manutenção de CrossWorlds",
+                    "en_US": "Exatamente.\\. Este navio de carga pertence à equipe de manutenção de CrossWorlds",
                     "langUid": 23,
                     "fr_FR": "",
                     "zh_CN": "\u6ca1\u9519\u3002\\.\u8fd9\u8258\u8d27\u8239\u4e0a\u90fd\u662f\u8fdc\u661f\u4e16\u754c\u7684\u7ef4\u62a4\u4eba\u5458\u3002",
@@ -778,7 +778,7 @@
                 "message": {
                     "de_DE": "Genau! Und die Stadt da, die wie ein Glaspalast aussieht, is' dein Ziel!",
                     "": "Yeah, in fact you'll be going to that glass palace of a city over there!",
-                    "en_US": "Sim, na verdade você vai para aquele palácio de vidro em uma cidade ali!",
+                    "en_US": "Sim! E aquela cidade que parece um palácio de vidro é o seu destino!",
                     "langUid": 31,
                     "fr_FR": "",
                     "zh_CN": "\u6ca1\u9519\uff0c\u5b9e\u9645\u4e0a\u4f60\u5c06\u8981\u53bb\u7684\u662f\u90a3\u5ea7\u73bb\u7483\u5bab\u6bbf\u822c\u7684\u57ce\u5e02\uff01",
@@ -832,7 +832,7 @@
                 "message": {
                     "de_DE": "Das ist Rhombus Square. Dort starten alle Spieler.",
                     "": "That's Rhombus Square. It's where all players start.",
-                    "en_US": "Essa é a Rhombus Square. É onde todos os jogadores começam.",
+                    "en_US": "Essa é a Praça Losango. É onde todos os jogadores começam.",
                     "langUid": 32,
                     "fr_FR": "",
                     "zh_CN": "\u90a3\u91cc\u5c31\u662f\u7f57\u59c6\u5e03\u65af\u5e7f\u573a\u3002\u6240\u6709\u73a9\u5bb6\u5f00\u59cb\u7684\u5730\u65b9\u3002",

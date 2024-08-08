@@ -2925,7 +2925,7 @@
             "message": {
               "de_DE": "Ich bin Carla.\\. Sch\u00f6n, dich kennenzulernen!",
               "": "My name's Carla.\\. Nice to meet ya!",
-              "en_US": "Meu nome é Carla.\\. Prazer em conhecê-la!",
+              "en_US": "Meu nome é Carla.\\. Prazer em te conhecer!",
               "langUid": 63,
               "fr_FR": "",
               "zh_CN": "\u6211\u53eb\u5361\u62c9\u3002\\.\u5f88\u9ad8\u5174\u89c1\u5230\u4f60\uff01",
@@ -2980,7 +2980,7 @@
             "message": {
               "de_DE": "Es gibt Probleme mit ihrer Sprachsynchronisation.\\. Sie kann uns aber verstehen.",
               "": "Apparently there is an issue with her speech synchronization.\\. \nShe still understands us, though.",
-              "en_US": "Aparentemente, há um problema com a sincronização de voz dela. \\. \nEla ainda nos entende, apesar disso. ",
+              "en_US": "Aparentemente, há um problema com a sincronização de voz dela. \\. \nEla ainda nos entende, apesar disso.",
               "langUid": 66,
               "fr_FR": "",
               "zh_CN": "\u5979\u7684\u8bed\u97f3\u540c\u6b65\u51fa\u4e86\u95ee\u9898\u3002\\.\u4e0d\u8fc7\u5979\u80fd\u591f\u542c\u61c2\u6211\u4eec\u8bf4\u7684\u8bdd\u3002",
@@ -3035,7 +3035,7 @@
             "message": {
               "de_DE": "Egal!\\. Ich bin sicher, wir verstehen uns auch so irgendwie.\\. Wortlose Kommunikation und so.",
               "": "Anyway!\\. I'm sure we'll be able to understand each other somehow.\\. Non-verbal communication, ya know?",
-              "en_US": "De qualquer forma!!\\. Tenho certeza de que seremos capazes de nos entender de alguma forma.\\. Comunicação não verbal, sabe?",
+              "en_US": "Então,\\. acho que vamos conseguir nos entender.\\. Que tal usar comunicação não verbal?",
               "langUid": 69,
               "fr_FR": "",
               "zh_CN": "\u6ca1\u4e8b\u7684\uff01\\.\u6211\u76f8\u4fe1\u6211\u4eec\u80fd\u591f\u6c9f\u901a\u5f97\u4e86\u3002\\.\u975e\u8bed\u8a00\u5f0f\u4ea4\u6d41\uff0c\u4f60\u77e5\u9053\u5417\uff1f",
@@ -3067,7 +3067,7 @@
             "message": {
               "de_DE": "Genau so!",
               "": "Attagirl!",
-              "en_US": "Garota Esperta!",
+              "en_US": "É isso aí Garota!",
               "langUid": 71,
               "fr_FR": "",
               "zh_CN": "\u597d\u68d2\uff01",
@@ -3083,7 +3083,7 @@
             "message": {
               "de_DE": "Aber ich w\u00fcrd' schon gern deinen Namen wissen.",
               "": "Still, kinda would like to know your name.",
-              "en_US": "Mesmo assim, ainda gostaria de saber seu nome.",
+              "en_US": "Mesmo assim, eu queria saber o seu nome.",
               "langUid": 72,
               "fr_FR": "",
               "zh_CN": "\u4e0d\u8fc7\uff0c\u8fd8\u4e0d\u77e5\u9053\u4f60\u7684\u540d\u5b57\u5462\u3002",
@@ -3131,7 +3131,7 @@
             "message": {
               "de_DE": "Lea?\\. H\u00fcbscher Name.",
               "": "Lea?\\. Well ain't that sweet.",
-              "en_US": "Lea?\\. Bem, isso não é meigo.",
+              "en_US": "Lea?\\. Que nome fofo!",
               "langUid": 75,
               "fr_FR": "",
               "zh_CN": "\u8389\u4e9a\uff1f\\.\u8fd9\u540d\u5b57\u771f\u597d\u542c\uff01",
@@ -3163,7 +3163,7 @@
             "message": {
               "de_DE": "Also dann, Lea, kann's losgehen?",
               "": "Well then, Lea, ready to get up? ",
-              "en_US": "Pois bem, Lea, pronta para se levantar?",
+              "en_US": "Então Lea, pronta para se exercitar?",
               "langUid": 77,
               "fr_FR": "",
               "zh_CN": "\u90a3\u597d\uff0c\u8389\u4e9a\uff0c\u51c6\u5907\u597d\u5b66\u4e60\u4e86\u5417\uff1f",
@@ -3179,7 +3179,7 @@
             "message": {
               "de_DE": "Wir m\u00fcssen dich f\u00fcr das Bevorstehende in Form bringen.\\. Du wei\u00dft schon, B\u00e4lle werfen und so.",
               "": "We gotta get you ready for what's coming.\\. Ball throwing and the like, ya know?",
-              "en_US": "Temos que prepará-la para o que está por vir. \\. Arremesso de esferas e coisas do gênero, manja?",
+              "en_US": "Vamos fazer um treinamento de combate.\\. Arremesso de esferas e coisas do gênero, manja?",
               "langUid": 78,
               "fr_FR": "",
               "zh_CN": "\u6211\u4eec\u5fc5\u987b\u5f97\u8ba9\u4f60\u51c6\u5907\u597d\u8fce\u63a5\u63a5\u4e0b\u6765\u7684\u8bfe\u7a0b\u3002\\.\u63b7\u7403\u4e4b\u7c7b\u7684\u3002",
@@ -3448,7 +3448,7 @@
                 "message": {
                   "de_DE": "Hey, M\u00e4del! Trampel nich' einfach so auf meinem Zeug herum, okay?",
                   "": "Hey there, Girl! I'd appreciate if you wouldn't step on my stuff like that!",
-                  "en_US": "Olha garota! Eu apreciaria se você não pisasse em minhas coisas desse jeito! ",
+                  "en_US": "Ei garota! Eu ficaria grata se você não pisasse nas minhas coisas desse jeito!",
                   "langUid": 83,
                   "fr_FR": "",
                   "zh_CN": "\u563f\uff0c\u59d1\u5a18\uff01\u5982\u679c\u4f60\u522b\u90a3\u6837\u8e29\u6211\u7684\u4e1c\u897f\u7684\u8bdd\uff0c\u6211\u4f1a\u975e\u5e38\u611f\u8c22\uff01",
@@ -3693,7 +3693,7 @@
                 "message": {
                   "de_DE": "Biste so weit? Dann geh einfach durch die T\u00fcr.",
                   "": "Just leave through the door, when you're ready.",
-                  "en_US": "Apenas saia pela porta, quando estiver pronta.",
+                  "en_US": "Saia pela porta quando estiver pronta.",
                   "langUid": 84,
                   "fr_FR": "",
                   "zh_CN": "\u7b49\u4f60\u51c6\u5907\u597d\u4e4b\u540e\uff0c\u7a7f\u8fc7\u8fd9\u6247\u95e8\u5c31\u53ef\u4ee5\u4e86\u3002",
@@ -4176,7 +4176,7 @@
             "message": {
               "de_DE": "Da w\u00e4ren wir wieder.\\. Zeit f\u00fcr dich zu verschwinden.",
               "": "Here we are again.\\. Time for you to leave this party.",
-              "en_US": "Aqui estamos novamente.\\. É hora de você deixar esta festa.",
+              "en_US": "Aqui estamos novamente.\\. É hora de você sair da festa.",
               "langUid": 86,
               "fr_FR": "",
               "zh_CN": "\u6211\u4eec\u53c8\u6765\u8fd9\u91cc\u4e86\u3002\\.\u662f\u65f6\u5019\u6682\u65f6\u5206\u522b\u4e86\u3002",

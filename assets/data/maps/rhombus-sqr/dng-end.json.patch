@@ -3045,7 +3045,7 @@
           {
             "message": {
               "": "I wish we could already explore the city itself, but non~",
-              "en_US": "Eu gostaria que a gente já pudesse explorar a cidade em si, mas non.",
+              "en_US": "Eu queria que a gente pudesse explorar a cidade logo, mas non.",
               "de_DE": "Ich w\u00fcnschte, wir k\u00f6nnten schon die Stadt selbst erkunden, aber non~",
               "fr_FR": "fr_FR",
               "langUid": 27,
@@ -3109,7 +3109,7 @@
           {
             "message": {
               "": "You will only be able to enter Rhombus Square much later.",
-              "en_US": "Você só poderá entrar na Praça Losango mais tarde.",
+              "en_US": "A Praça Losango só fica acessível perto do fim do jogo.",
               "de_DE": "Du wirst Rhombus Square erst viel sp\u00e4ter betreten k\u00f6nnen.",
               "fr_FR": "fr_FR",
               "langUid": 31,
@@ -3314,7 +3314,7 @@
           {
             "message": {
               "": "You are at \\c[3]level \\v[player.level]\\c[0]!",
-              "en_US": "Você está no \\c[3]level \\v[player.level]\\c[0]!",
+              "en_US": "Você está no \\c[3]nível \\v[player.level]\\c[0]!",
               "de_DE": "Du hast bereits \\c[3]Level \\v[player.level]\\c[0]!",
               "zh_CN": "\u4f60\u5df2\u7ecf\\c[3]\\v[player.level]\u7ea7\\c[0]\u4e86\uff01<<A<<[CHANGED 2019/08/16]",
               "ja_JP": "\\c[3]\u30ec\u30d9\u30eb\\v[player.level]\\c[0]\u306b\u306a\u3063\u3066\u308b\u3058\u3083\u306a\u3044\u304b\uff01<<A<<[CHANGED 2019/08/16]",
@@ -3536,7 +3536,7 @@
           {
             "message": {
               "": "Monsieur, going straight for the accusations?",
-              "en_US": "Monsieur, indo direto para as acusações?",
+              "en_US": "Monsieur, acusando logo de cara?",
               "de_DE": "Mach mal halblang, Monsieur.",
               "fr_FR": "fr_FR",
               "langUid": 47,
@@ -4240,7 +4240,7 @@
           {
             "message": {
               "": "And now you're lecturing her?",
-              "en_US": "E agora você está dando uma aula para ela?",
+              "en_US": "E agora você está dando um sermão nela?",
               "de_DE": "Und jetzt h\u00e4ltst du ihr Vortr\u00e4ge?",
               "zh_CN": "\u6240\u4ee5\u4f60\u73b0\u5728\u662f\u5728\u6559\u8bad\u5979\uff1f",
               "ja_JP": "\u305d\u308c\u3067\u3001\u305d\u306e\u5b50\u306b\u304a\u8aac\u6559\u3057\u3066\u305f\u306e\u304b\uff1f",
@@ -4835,7 +4835,7 @@
               {
                 "message": {
                   "": "Young lady, I'll let you off this time.",
-                  "en_US": "Senhorita, vou deixá-la sair desta vez.",
+                  "en_US": "Senhorita, vou deixá-la escapar desta vez.",
                   "de_DE": "Junges Fr\u00e4ulein, diesmal werde ich dich laufen lassen.",
                   "fr_FR": "fr_FR",
                   "langUid": 71,
@@ -5406,7 +5406,7 @@
                   {
                     "message": {
                       "": "It is all because you collected those extra EXP from that \\c[3]crab boss\\c[0].",
-                      "en_US": "É tudo porque você coletou aqueles EXP extra daquele \\c[3]boss caranguejo\\c[0].",
+                      "en_US": "Deve ser porque você coletou EXP extra daquele \\c[3]boss caranguejo\\c[0].",
                       "de_DE": "Das liegt nur an den extra EXP, die du durch den \\c[3]Krabbenboss\\c[0] erhalten hast.",
                       "fr_FR": "fr_FR",
                       "langUid": 82,

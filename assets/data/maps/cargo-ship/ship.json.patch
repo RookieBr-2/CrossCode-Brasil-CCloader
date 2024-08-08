@@ -1315,7 +1315,7 @@
             "message": {
               "de_DE": "Willkommen an Bord der M.S. Solar!",
               "": "Welcome aboard the M.S. Solar!",
-              "en_US": "Bem-vindo a bordo do M.S. Solar!",
+              "en_US": "Bem-vinda a bordo do M.S. Solar!",
               "langUid": 2,
               "fr_FR": "",
               "zh_CN": "\u6b22\u8fce\u767b\u4e0aM.S.\u592a\u9633\u53f7\uff01",
@@ -1454,7 +1454,7 @@
             "message": {
               "de_DE": "Ziemlich beeindruckend der Kahn, was?",
               "": "Quite the ship, huh?",
-              "en_US": "Bem grande o navio, heim? ",
+              "en_US": "Bem grande o navio, não é? ",
               "langUid": 3,
               "fr_FR": "",
               "zh_CN": "\u8fd9\u8258\u8239\u5f88\u68d2\uff0c\u5bf9\u5427\uff1f",
@@ -1531,7 +1531,7 @@
             "message": {
               "de_DE": "Wir steuern n\u00e4mlich gerade auf Rhombus Square zu. Absolut sehenswert!",
               "": "We're currently steering towards Rhombus Square. That's something to look at!",
-              "en_US": "No momento, estamos nos dirigindo para a Praça Losango. Isso é algo para se admirar!",
+              "en_US": "No momento, estamos nos dirigindo para a Praça Losango. É um lugar incrível!",
               "langUid": 6,
               "fr_FR": "",
               "zh_CN": "\u6211\u4eec\u76ee\u524d\u6b63\u671d\u7740\u7f57\u59c6\u5e03\u65af\u5e7f\u573a\u822a\u884c\u3002\u90a3\u91cc\u624d\u58ee\u89c2\u5462\uff01",
@@ -1570,7 +1570,7 @@
             "message": {
               "de_DE": "Nun, warum gehen wir nicht zum Bug und erkl\u00e4ren Lea dort die Lage?",
               "": "Actually, why not go to the bow and explain the situation to Lea there?",
-              "en_US": "Na verdade, por que não ir até a proa e explicar a situação para Lea lá? ",
+              "en_US": "Na verdade, por que não ir até a proa e explicar a situação para Lea lá?",
               "langUid": 8,
               "fr_FR": "",
               "zh_CN": "\u8981\u6211\u8bf4\uff0c\u6211\u4eec\u5c31\u53bb\u8239\u5934\uff0c\u5728\u90a3\u91cc\u7ed9\u8389\u4e9a\u89e3\u91ca\u4e0b\u60c5\u51b5\u5462\uff1f",
@@ -1586,7 +1586,7 @@
             "message": {
               "de_DE": "Wenn sie Rhombus Square einmal sieht, wird sie wissen, was du meinst.",
               "": "Seeing Rhombus Square will make it easier for her to understand, correct?",
-              "en_US": "Vendo a Praça Losango tornará mais fácil para ela entender, correto?",
+              "en_US": "Ver a Praça Losango tornará mais fácil para ela entender, não acha?",
               "langUid": 9,
               "fr_FR": "",
               "zh_CN": "\u770b\u5230\u7f57\u59c6\u5e03\u65af\u5e7f\u573a\uff0c\u4f1a\u8ba9\u5979\u66f4\u5bb9\u6613\u7406\u89e3\uff0c\u5bf9\u5427\uff1f",
@@ -3804,7 +3804,7 @@
                 "message": {
                   "de_DE": "Na dann, willkommen auf der M.S. Solar!",
                   "": "Well then, welcome to the M.S. Solar!",
-                  "en_US": "Pois bem, bem-vindo ao M.S. Solar!",
+                  "en_US": "Pois bem, bem-vinda ao M.S. Solar!",
                   "langUid": 55,
                   "fr_FR": "",
                   "zh_CN": "\u55ef\uff0c\u6b22\u8fce\u6765\u5230M.S.\u592a\u9633\u53f7\uff01",
@@ -3823,7 +3823,7 @@
                 "message": {
                   "de_DE": "Wenn du dich etwas \u00fcber das Gel\u00e4nder lehnst, m\u00fcsstest du sogar den Namen des Schiffs sehen k\u00f6nnen.",
                   "": "If you lean over the railing a bit you might even see the name of the ship.",
-                  "en_US": "Se você se inclinar um pouco sobre o parapeito, poderá até ver o nome do navio.",
+                  "en_US": "Se você se inclinar um pouco sobre o parapeito, vai ver o nome do navio.",
                   "langUid": 56,
                   "fr_FR": "",
                   "zh_CN": "\u5982\u679c\u4f60\u7a0d\u5fae\u63a2\u51fa\u8eab\u5b50\u5230\u8fd9\u680f\u6746\u5916\u7684\u8bdd\uff0c\u6216\u8bb8\u5c31\u80fd\u770b\u89c1\u8fd9\u8258\u8239\u7684\u540d\u5b57\u3002",
@@ -5225,7 +5225,7 @@
                 "message": {
                   "de_DE": "Ich habe zwar geh\u00f6rt, dass Avatardesigns zum Extravaganten neigen, aber... so etwas?",
                   "": "I had heard that avatar designs tend to be flamboyant, but... really?",
-                  "en_US": "Eu tinha ouvido falar que os designs de avatar tendem a ser extravagantes, mas... sério?",
+                  "en_US": "Me falaram que os avatares tinham designs super extravagantes, mas... é sério isso?",
                   "langUid": 75,
                   "fr_FR": "",
                   "zh_CN": "\u6211\u542c\u8bf4\u865a\u62df\u4eba\u7269\u7684\u8bbe\u8ba1\u503e\u5411\u4e8e\u6d6e\u5938\u60f9\u773c\uff0c\u4e0d\u8fc7\u2026\u8fd9\u4e5f\u592a\u8fc7\u4e86\u5427\uff1f",
@@ -5244,7 +5244,7 @@
                 "message": {
                   "de_DE": "Und dazu diese H\u00f6rner!",
                   "": "And those horns, too.",
-                  "en_US": "E esses chifres também.",
+                  "en_US": "Olha esses chifres...",
                   "langUid": 76,
                   "fr_FR": "",
                   "zh_CN": "\u8fd8\u6709\u8fd9\u5bf9\u89d2\u4e5f\u4e00\u6837\u3002",
@@ -5301,7 +5301,7 @@
                 "message": {
                   "de_DE": "Jetzt frage ich mich, wer dir wohl diese Teile verpasst hat.",
                   "": "Now I have to wonder who put those things on you.",
-                  "en_US": "Agora eu preciso saber quem colocou essas coisas em você.",
+                  "en_US": "Queria saber quem colocou essas coisas em você.",
                   "langUid": 79,
                   "fr_FR": "",
                   "zh_CN": "\u73b0\u5728\uff0c\u6211\u4e0d\u5f97\u4e0d\u6000\u7591\u662f\u8c01\u628a\u8fd9\u4e1c\u897f\u52a0\u4e0a\u53bb\u7684\u4e86\u3002",
@@ -5779,7 +5779,7 @@
                 "message": {
                   "de_DE": "In meiner nerdigen Kellerkind-Fantasie habe ich nat\u00fcrlich was ganz anderes erwartet.\\. So 'ne richtige Kante halt.",
                   "": "I expected the embodiment of some gamer kiddie's wildest dreams.\\. Lots of beefcake and such. ",
-                  "en_US": "Eu esperava a personificação dos sonhos mais loucos de algum jogador infantil.\\. Muitos doces e tal.",
+                  "en_US": "Eu esperava a personificação dos sonhos mais loucos de algum nerd.\\. Um avatar musculoso e etc.",
                   "langUid": 84,
                   "fr_FR": "",
                   "zh_CN": "\u6211\u4ee5\u4e3a\u865a\u62df\u4eba\u7269\u90fd\u662f\u4e9b\u5c0f\u9b3c\u5934\u7684\u5e7b\u60f3\u4eba\u7269\u3002\\.\u808c\u8089\u7537\u4ec0\u4e48\u7684\u3002",
@@ -5798,7 +5798,7 @@
                 "message": {
                   "de_DE": "Und jetzt steht hier ein richtig s\u00fc\u00dfes M\u00e4del vor mir.",
                   "": "Yet, here we have such a cute girl.",
-                  "en_US": "No entanto, aqui temos uma garota tão bonita.",
+                  "en_US": "No entanto, aqui temos uma linda garota.",
                   "langUid": 85,
                   "fr_FR": "",
                   "zh_CN": "\u4e0d\u8fc7\uff0c\u770b\u770b\u8fd9\u4f4d\u53ef\u7231\u7684\u59d1\u5a18\u3002",
@@ -5851,7 +5851,7 @@
                 "message": {
                   "de_DE": "Zu schade, dass das in Wahrheit nichts \u00fcber das echte Aussehen des Spielers aussagt.",
                   "": "Too bad that doesn't really say anything about the player's actual appearance.",
-                  "en_US": "É uma pena que isso não diga nada sobre a aparência real do jogador.",
+                  "en_US": "É uma pena que isso não reflete a aparência real do jogador.",
                   "langUid": 87,
                   "fr_FR": "",
                   "zh_CN": "\u4e0d\u8fc7\u8c01\u77e5\u9053\u4f60\u771f\u957f\u4ec0\u4e48\u6837\u5462\u3002",
@@ -6651,7 +6651,7 @@
             "message": {
               "de_DE": "Der Bug is' dahinten.\\. Is' 'n St\u00fcck bis dahin.\\. Mir nach!",
               "": "Bow is this way.\\. It's a bit of a walk, though.\\. Just follow me.",
-              "en_US": "A proa é por aqui.\\. Contudo, a caminhada é um pouco longa.\\. Apenas me acompanhe.",
+              "en_US": "A proa fica por aqui.\\. Mas o caminho é um pouco longo.\\. É só me seguir.",
               "langUid": 90,
               "fr_FR": "",
               "zh_CN": "\u8239\u5934\u5c31\u5728\u524d\u9762\u3002\\.\u4e0d\u8fc7\u8981\u8d70\u4e00\u5c0f\u6bb5\u8def\u3002\\.\u8ddf\u7740\u6211\u5c31\u597d\u4e86\u3002<<A<<[CHANGED 2018/09/19]",
@@ -6708,7 +6708,7 @@
             "message": {
               "de_DE": "Carla, was sollten eigentlich diese ganzen zerst\u00f6rbaren Kisten in diesem Raum?",
               "": "Carla, what were all of those destructible boxes doing in that room anyway?",
-              "en_US": "Carla, o que todas aquelas caixas destrutiveis estavam fazendo naquela sala, afinal? ",
+              "en_US": "Carla, o que aquelas caixas estavam fazendo naquela sala, afinal? ",
               "langUid": 92,
               "fr_FR": "",
               "zh_CN": "\u5361\u62c9\uff0c\u90a3\u4e2a\u623f\u95f4\u91cc\u90a3\u4e9b\u53ef\u7834\u574f\u7684\u7bb1\u5b50\u662f\u505a\u4ec0\u4e48\u7528\u7684\uff1f",
@@ -6723,7 +6723,7 @@
             "message": {
               "de_DE": "Ach wei\u00dfte, ich hab'n bisschen an den Dingern ge\u00fcbt.",
               "": "I was just practicing how to use those things, y'know?",
-              "en_US": "Eu só estava praticando como usar essas coisas, sabe?",
+              "en_US": "Eu só estava testando umas coisas, sabe?",
               "langUid": 93,
               "fr_FR": "",
               "zh_CN": "\u6211\u53ea\u662f\u5728\u7ec3\u4e60\u5982\u4f55\u4f7f\u7528\u90a3\u4e9b\u4e1c\u897f\u800c\u5df2\uff0c\u77e5\u9053\u5417\uff1f",
@@ -6738,7 +6738,7 @@
             "message": {
               "de_DE": "H\u00e4tt' ich wohl irgendwo anders machen sollen.",
               "": "Probably should have done that somewhere else.",
-              "en_US": "Provavelmente deveria ter feito isso em outro lugar.",
+              "en_US": "Eu devia ter feito isso em outro lugar.",
               "langUid": 94,
               "fr_FR": "",
               "zh_CN": "\u672c\u6765\u5e94\u8be5\u53bb\u5176\u4ed6\u5730\u65b9\u7ec3\u4e60\u7684\u3002",
@@ -6970,7 +6970,7 @@
             "message": {
               "de_DE": "Jetzt haste schon etwas mehr Durchblick, was?",
               "": "Well, I guess this cleared up some things at least, right?",
-              "en_US": "Bem, acho que isso esclareceu algumas coisas pelo menos, certo?",
+              "en_US": "Acho que isso esclareceu algumas coisas pelo menos, certo?",
               "langUid": 96,
               "fr_FR": "",
               "zh_CN": "\u561b\uff0c\u8fd9\u6837\u4f60\u4e5f\u7b97\u662f\u5f97\u5230\u4e86\u4e9b\u7b54\u6848\u3002",
@@ -6986,7 +6986,7 @@
             "message": {
               "de_DE": "Gut, dann wird's jetzt Zeit, dass wir uns f\u00fcrs Erste trennen.",
               "": "Alright then, I think this is a good time to split.",
-              "en_US": "Tudo bem então, acho que é um bom momento para partir.",
+              "en_US": "Beleza, acho que é um bom momento para partir.",
               "langUid": 97,
               "fr_FR": "",
               "zh_CN": "\u90a3\u597d\u5427\uff0c\u6211\u60f3\u73b0\u5728\u662f\u65f6\u5019\u5206\u5f00\u4e86\u3002",
@@ -7002,7 +7002,7 @@
             "message": {
               "de_DE": "Ich muss n\u00e4mlich dem K\u00e4pt'n helfen, dein Kampftraining vorzubereiten.",
               "": "I'm gonna go talk to the captain and try to set up that combat lesson for you.",
-              "en_US": "Vou falar com o capitão e tentar preparar aquela lição de combate para você.",
+              "en_US": "Vou falar com o capitão e tentar arrumar aquela aula de combate pra você.",
               "langUid": 98,
               "fr_FR": "",
               "zh_CN": "\u6211\u8981\u53bb\u627e\u8239\u957f\u4e86\uff0c\u5e2e\u4ed6\u51c6\u5907\u4f60\u7684\u6218\u6597\u8bfe\u7a0b\u3002<<A<<[CHANGED 2018/09/19]",
@@ -7034,7 +7034,7 @@
             "message": {
               "de_DE": "Die Mannschaft wei\u00df Bescheid.\\. Is' dir aber wahrscheinlich schon aufgefallen, ne?",
               "": "The crew knows about ya.\\. I guess you already noticed that, right?",
-              "en_US": "A tripulação sabe sobre você.\\. Acho que você já percebeu isso, certo?",
+              "en_US": "A tripulação sabe sobre você.\\. Acho que você já percebeu isso, né?",
               "langUid": 100,
               "fr_FR": "",
               "zh_CN": "\u8239\u5458\u4eec\u90fd\u77e5\u9053\u4f60\u7684\u4e8b\u3002\\.\u6211\u60f3\u4f60\u5df2\u7ecf\u6ce8\u610f\u5230\u4e86\uff0c\u662f\u5427\uff1f",
@@ -7050,7 +7050,7 @@
             "message": {
               "de_DE": "Du findest mich sp\u00e4ter beim K\u00e4pt'n.",
               "": "You can meet me and the captain later.",
-              "en_US": "Você pode vir me encontrar junto do capitão mais tarde.",
+              "en_US": "Você pode me encontrar com o capitão mais tarde.",
               "langUid": 101,
               "fr_FR": "",
               "zh_CN": "\u7a0d\u540e\u4f60\u53ef\u4ee5\u6765\u627e\u6211\u548c\u8239\u957f\u3002",
@@ -7606,7 +7606,7 @@
                     "message": {
                       "de_DE": "Dann sag Bescheid, wenn du so weit bist.",
                       "": "Well then, tell me when ye are.",
-                      "en_US": "Pois bem, diga-me quando estiver.",
+                      "en_US": "Então me avise quando estiver pronta.",
                       "langUid": 122,
                       "fr_FR": "",
                       "zh_CN": "\u597d\u5427\uff0c\u51c6\u5907\u597d\u4e86\u518d\u544a\u8bc9\u6211\u3002",
@@ -8056,7 +8056,7 @@
             "message": {
               "de_DE": "Davon will ich mich selbst \u00fcberzeugen.",
               "": "Still, first I want ye to show me yer grip on aimin' and throwin'.",
-              "en_US": "Ainda assim, primeiro eu quero que você me mostre seu controle sobre mira e arremessos.",
+              "en_US": "Mesmo assim, eu quero que você me mostre seu controle sobre a mira e arremessos.",
               "langUid": 133,
               "fr_FR": "",
               "zh_CN": "\u4e0d\u8fc7\uff0c\u9996\u5148\u6211\u60f3\u8ba9\u4f60\u5c55\u793a\u4e0b\u5bf9\u4e8e\u7784\u51c6\u548c\u6295\u63b7\u7684\u638c\u63e1\u60c5\u51b5\u3002",
@@ -8535,7 +8535,7 @@
                 "message": {
                   "de_DE": "Wie ich sehe, beherrschst du die Grundlagen tats\u00e4chlich.",
                   "": "I see ye understand the basics well enough.",
-                  "en_US": "Eu vejo que você entendeu o básico bem o suficiente.",
+                  "en_US": "Eu vejo que você entendeu bem o básico.",
                   "langUid": 141,
                   "fr_FR": "",
                   "zh_CN": "\u770b\u6765\u4f60\u5bf9\u57fa\u7840\u77e5\u8bc6\u638c\u63e1\u5f97\u5f88\u5145\u5206\u4e86\u3002",
@@ -8590,7 +8590,7 @@
                         "message": {
                           "de_DE": "Aye, wie ich erwartet habe. Die H\u00e4lfte der B\u00e4lle gingen daneben.",
                           "": "Aye, just as I expected. Ye notice how half o' them balls missed the target?",
-                          "en_US": "Sim, exatamente como eu esperava. Você percebeu como metade das esferas errou o alvo?",
+                          "en_US": "Sim, como eu esperava. Metade das bolas não acertou o alvo.",
                           "langUid": 143,
                           "fr_FR": "",
                           "zh_CN": "\u55ef\uff0c\u5982\u6211\u6240\u6599\u3002\u4f60\u6ce8\u610f\u5230\u81ea\u5df1\u6709\u591a\u5c11\u9897\u7403\u6ca1\u51fb\u4e2d\u76ee\u6807\u5417\uff1f",
@@ -8838,7 +8838,7 @@
                     "message": {
                       "de_DE": "Verflucht nochmal...",
                       "": "Bloody darn hell...",
-                      "en_US": "Isso é perca de tempo...",
+                      "en_US": "Isso é perda de tempo...",
                       "langUid": 155,
                       "fr_FR": "",
                       "zh_CN": "\u771f\u89c1\u9b3c\u4e86\u2026",
@@ -9078,7 +9078,7 @@
                 "message": {
                   "de_DE": "Tatsache ist, dass sich nach einigen W\u00fcrfen deine Pr\u00e4zision verbessern wird. Genau so.",
                   "": "Now fact is, when ye be throwin' balls yer precision will improve over time, like this.",
-                  "en_US": "O fato é que, quando você está jogando as esferas, sua precisão vai melhorar com o tempo, assim.",
+                  "en_US": "Na verdade, sua precisão com as esferas vai melhorar com o tempo, enquanto você joga.",
                   "langUid": 160,
                   "fr_FR": "",
                   "zh_CN": "\u4e8b\u5b9e\u4e0a\uff0c\u5f53\u4f60\u63b7\u7403\u65f6\uff0c\u4f60\u7684\u7cbe\u51c6\u4f1a\u6162\u6162\u63d0\u9ad8\uff0c\u5c31\u50cf\u8fd9\u6837\u3002",
@@ -9175,7 +9175,7 @@
                 "message": {
                   "de_DE": "Du willst schneller pr\u00e4ziser werden?",
                   "": "Ye wanna be precise quicker?",
-                  "en_US": "Você precisa ser mais rápido?",
+                  "en_US": "Você quer ser mais rápida?",
                   "langUid": 162,
                   "fr_FR": "",
                   "zh_CN": "\u4f60\u60f3\u8981\u5c3d\u5feb\u63b7\u5f97\u7cbe\u51c6\u4e9b\u5417\uff1f",
@@ -9194,7 +9194,7 @@
                 "message": {
                   "de_DE": "Dann \\c[3]konzentrier dich auf das Ziel\\c[0] und \\c[3]h\u00f6r auf, mit den B\u00e4llen rumzufuchteln\\c[0]!",
                   "": "Then ye better \\c[3]keep the aim\\c[0] and \\c[3]stop the darn throwin'\\c[0]!",
-                  "en_US": "Então é melhor você \\c[3]manter a mira\\c[0] e \\c[3]parar com o maldito arremesso!\\c[0]!",
+                  "en_US": "Então é melhor você \\c[3]manter a mira\\c[0] e \\c[3]parar com o maldito arremesso\\c[0]!",
                   "langUid": 163,
                   "fr_FR": "",
                   "zh_CN": "\u90a3\u4f60\u9700\u8981\\c[3]\u4fdd\u6301\u7784\u51c6\\c[0]\uff0c\u5e76\u4e14\\c[3]\u4e0d\u80fd\u6295\u63b7\\c[0]\uff01",
@@ -9323,7 +9323,7 @@
                 "message": {
                   "de_DE": "Siehst du, wie du beim Werfen \\c[3]die Pr\u00e4zision beh\u00e4ltst\\c[0]?",
                   "": "See how ye \\c[3]keep your precision\\c[0] after throwin'?",
-                  "en_US": "Veja como você \\c[3]mantém sua precisão\\c[0] após o arremesso?",
+                  "en_US": "Viu como você \\c[3]mantém sua precisão\\c[0] após o arremesso?",
                   "langUid": 166,
                   "fr_FR": "",
                   "zh_CN": "\u770b\u5230\u6295\u63b7\u4e4b\u540e\u662f\u5982\u4f55\\c[3]\u4fdd\u6301\u7cbe\u51c6\\c[0]\u7684\u4e86\u5417\uff1f",
@@ -10005,7 +10005,7 @@
                     "message": {
                       "de_DE": "Als N\u00e4chstes \u00fcben wir das Dashen.",
                       "": "Next we'll be practicin' the dash.",
-                      "en_US": "Em seguida, estaremos praticando a esquiva.",
+                      "en_US": "Em seguida, vamos praticar a esquiva.",
                       "langUid": 181,
                       "fr_FR": "",
                       "zh_CN": "\u63a5\u4e0b\u6765\u6211\u4eec\u6765\u7ec3\u4e60\u51b2\u523a\u3002",
@@ -10392,7 +10392,7 @@
                 "message": {
                   "de_DE": "Du kannst nicht einfach so an den Geschossen vorbeispazieren. Dashe im richtigen Moment!",
                   "": "Don't ye even think about simply walkin' past them shots. Dash at the right moment!",
-                  "en_US": "Nem pense em simplesmente sair andando. Esquive no momento certo!",
+                  "en_US": "Nem pense em sair andando. Esquive no momento certo!",
                   "langUid": 190,
                   "fr_FR": "",
                   "zh_CN": "\u4f60\u96be\u9053\u4ee5\u4e3a\u7b80\u5355\u7684\u8d70\u51e0\u6b65\u5c31\u80fd\u907f\u5f00\u5b50\u5f39\u5417\u3002\u5728\u6b63\u786e\u7684\u65f6\u673a\u51b2\u523a\uff01",
@@ -11491,7 +11491,7 @@
                 "message": {
                   "de_DE": "Zum kr\u00f6nenden Abschluss wirst du noch einen richtigen Kampf gegen das Gesch\u00fctz f\u00fchren, wo du alles Gelernte direkt anwenden kannst.",
                   "": "Now, to round everythin' up, let's have a proper battle against the turret where ye can use everything ye've learned.",
-                  "en_US": "Agora, vamos praticar tudo, vamos ter uma batalha adequada contra a metralhadora, onde você vai poder usar tudo o que aprendeu.",
+                  "en_US": "Agora, é a hora da batalha contra a metralhadora, onde você pode usar tudo o que aprendeu.",
                   "langUid": 218,
                   "fr_FR": "",
                   "zh_CN": "\u90a3\u4e48\u8be5\u6d3b\u5b66\u6d3b\u7528\u4e86\uff0c\u8ddf\u8fd9\u70ae\u53f0\u597d\u597d\u6253\u4e00\u573a\uff0c\u5c06\u521a\u521a\u6240\u5b66\u7684\u90fd\u7528\u4e0a\u3002",
@@ -11714,7 +11714,7 @@
                 "message": {
                   "de_DE": "Au\u00dferdem kannst du zielen, w\u00e4hrend du verteidigst. Funktioniert blo\u00df langsamer als sonst.",
                   "": "And finally, ye can even aim durin' guard. It's slow but it works.",
-                  "en_US": "E, finalmente, você pode até mesmo mirar enquanto defende. É lento, mas funciona.",
+                  "en_US": "Também é possível mirar enquanto estiver defendendo. É lento, mas funciona.",
                   "langUid": 226,
                   "fr_FR": "",
                   "zh_CN": "\u4f60\u7ec8\u4e8e\u80fd\u591f\u5728\u9632\u5fa1\u7684\u540c\u65f6\u7784\u51c6\u4e86\u3002\u867d\u7136\u901f\u5ea6\u6162\u4e86\u70b9\uff0c\u4f46\u662f\u5f88\u7ba1\u7528\u3002",
@@ -11868,7 +11868,7 @@
                 "message": {
                   "de_DE": "Gut. Dann versuche jetzt, den Kugelhagel zu blocken.",
                   "": "Good. Now, it's about time ye try to block this swarm of balls, right?",
-                  "en_US": "Bom. Agora, é hora de você tentar bloquear essa rajada de esferas, certo?",
+                  "en_US": "Muito bem. Agora tente bloquear a rajada de balas.",
                   "langUid": 229,
                   "fr_FR": "",
                   "zh_CN": "\u5f88\u597d\u3002\u73b0\u5728\uff0c\u662f\u65f6\u5019\u6765\u8bd5\u8bd5\u9632\u5fa1\u8fd9\u4e00\u6ce2\u7403\u4e86\uff0c\u600e\u4e48\u6837\uff1f",
@@ -12133,7 +12133,7 @@
               {
                 "message": {
                   "": "Ms. Avatar! You totally rocked that crab! That was so awesome!",
-                  "en_US": "Srta. Avatar! Você destruiu totalmente aquele caranguejo! Isso foi tão incrivel!",
+                  "en_US": "Srta. Avatar! Você destruiu totalmente aquele caranguejo! Isso foi incrivel!",
                   "de_DE": "Fr\u00e4ulein Avatar! Der Krabbe haben Sie aber gezeigt, wo der Hammer h\u00e4ngt! Der Wahnsinn!",
                   "zh_CN": "\u865a\u62df\u5c0f\u59d0\uff01\u4f60\u5e72\u6389\u4e86\u90a3\u53ea\u5927\u8783\u87f9\uff01\u5389\u5bb3\u4e86\uff01",
                   "ja_JP": "\u30a2\u30d0\u30bf\u30fc\u3055\u3093\uff01\u30ab\u30cb\u3092\u5012\u3059\u3068\u3053\u308d\u3001\u898b\u3066\u305f\u305c\uff01\n\u8d85\u3059\u3054\u304b\u3063\u305f\u306a\uff01",
@@ -12204,7 +12204,7 @@
               {
                 "message": {
                   "": "Did you see how he just jumped up from the water?",
-                  "en_US": "Você viu como ele simplesmente saltou da água?",
+                  "en_US": "Você viu como ele saltou da água?",
                   "de_DE": "Haben Sie gesehen, wie der aus dem Wasser geschossen ist? Ssschummm!",
                   "zh_CN": "\u4f60\u521a\u770b\u5230\u4ed6\u662f\u600e\u4e48\u4ece\u6d77\u91cc\u8df3\u4e0a\u6765\u7684\u5417\uff1f",
                   "ja_JP": "\u3042\u3044\u3064\u304c\u6c34\u9762\u304b\u3089\u4e00\u6c17\u306b\u98db\u3073\u4e0a\u304c\u308b\u77ac\u9593\u3092\n\u898b\u305f\u304b\uff1f",
@@ -12238,7 +12238,7 @@
               {
                 "message": {
                   "": "Not to mention how he just dragged you through the air, telepathy style!",
-                  "en_US": "Sem mencionar como ele simplesmente arrastou você pelo ar, tipo telepatia!",
+                  "en_US": "Sem mencionar a forma como ele arrastou você pelo ar, parecia telepatia!",
                   "de_DE": "Und wie er Sie durch die Luft gezogen hat, voll telepathiem\u00e4\u00dfig! Fiiiuuu!",
                   "zh_CN": "\u8fd8\u6709\u4ed6\u521a\u624d\u5c06\u4f60\u62d6\u5230\u7a7a\u4e2d\uff0c\u7b80\u76f4\u50cf\u77ac\u79fb\u4e00\u6837\uff01",
                   "ja_JP": "\u541b\u3092\u8d85\u80fd\u529b\u304b\u4f55\u304b\u3067\u6301\u3061\u4e0a\u3052\u305f\u3084\u3064\u3001\n\u3042\u308c\u3082\u3069\u3046\u3084\u3063\u305f\u3093\u3060\u308d\u3046\u306a\uff01",
@@ -12282,7 +12282,7 @@
               {
                 "message": {
                   "": "Very smooth, fellow.",
-                  "en_US": "Ja basta, colega.",
+                  "en_US": "Ja chega, colega.",
                   "de_DE": "Sehr gef\u00fchlvoll, Kollege.",
                   "zh_CN": "\u4f60\u5f88\u4f1a\u8bf4\u8bdd\u561b\uff0c\u8001\u5144\u3002",
                   "ja_JP": "\u3088\u304f\u3044\u308d\u3044\u308d\u3068\u8a71\u305b\u308b\u308f\u306d\u3002",
@@ -17990,7 +17990,7 @@
             "message": {
               "de_DE": "Ausgerechnet jetzt...",
               "": "Bloody darn timing...",
-              "en_US": "Maldita falta de tempo...",
+              "en_US": "Maldição, justo agora...",
               "langUid": 247,
               "fr_FR": "",
               "zh_CN": "\u8fd8\u771f\u4f1a\u6311\u65f6\u5019\u2026",
@@ -18871,7 +18871,7 @@
                 "message": {
                   "de_DE": "T\u00f6richter Sterblicher. Du willst uns Befehle erteilen?",
                   "": "Foolish mortal, do you truly believe we will abide by your command?",
-                  "en_US": "Mortal tolo, você realmente acredita que cumpriremos seu comando?",
+                  "en_US": "Mortal tolo, você realmente acredita que vamos seguir suas ordens?",
                   "langUid": 261,
                   "fr_FR": "",
                   "zh_CN": "\u611a\u8822\u7684\u51e1\u4eba\uff0c\u4f60\u771f\u4ee5\u4e3a\u6211\u4eec\u4f1a\u542c\u4ece\u4f60\u7684\u6307\u6325\uff1f",
@@ -19721,7 +19721,7 @@
                 "message": {
                   "de_DE": "Ohhh! Es gibt aber einen vorz\u00fcglichen Weg, uns Gewissheit zu verschaffen!",
                   "": "Oh, but we most definitely have a way to be certain!",
-                  "en_US": "Mas, nós definitivamente temos uma maneira de garantir isso!",
+                  "en_US": "Mas, nós temos uma maneira de testar isso!",
                   "langUid": 274,
                   "fr_FR": "",
                   "zh_CN": "\u53ea\u6709\u4e00\u79cd\u65b9\u6cd5\u624d\u80fd\u5f04\u6e05\u695a\uff01",
@@ -20012,7 +20012,7 @@
               {
                 "message": {
                   "": "What exactly just happened?!",
-                  "en_US": "O que exatamente aconteceu?!",
+                  "en_US": "O que aconteceu exatamente?!",
                   "de_DE": "Was um alles in der Welt war das denn?!",
                   "zh_CN": "\u521a\u521a\u5230\u5e95\u53d1\u751f\u4e86\u4ec0\u4e48\uff1f\uff01",
                   "ja_JP": "\u3044\u3063\u305f\u3044\u4f55\u304c\u8d77\u304d\u3066\u308b\u306e\uff1f\uff01",
@@ -20030,7 +20030,7 @@
               {
                 "message": {
                   "": "I mean... seriously?\\. What's next?\\. Cyborg sea serpents?",
-                  "en_US": "Quero dizer... sério?\\. O que vem a seguir?\\. Serpentes marinhas cibernética?",
+                  "en_US": "Tipo... sério?\\. O que vem a seguir?\\. Serpentes marinhas cibernéticas?",
                   "de_DE": "Ich meine... hallo?\\. Was kommt als N\u00e4chstes?\\. Cyborg-Seeschlangen?",
                   "zh_CN": "\u6211\u662f\u8bf4\u2026\u6211\u53bb\uff1f\\.\u4e0b\u4e00\u4e2a\u4f1a\u8e66\u51fa\u6765\u4ec0\u4e48\uff1f\\.\u673a\u68b0\u6d77\u86c7\uff1f",
                   "ja_JP": "\u3068\u3044\u3046\u304b\u3053\u308c...\u30de\u30b8\u306a\u306e\uff1f\\.\u6b21\u306f\u4f55\u304c\u51fa\u3066\u304f\u308b\u306e\uff1f\n\\.\u30b5\u30a4\u30dc\u30fc\u30b0\u6d77\u86c7\u3068\u304b\uff1f",
@@ -20058,7 +20058,7 @@
               {
                 "message": {
                   "": "This is the best day, man!",
-                  "en_US": "Este é o melhor dia da minha vida, cara!",
+                  "en_US": "Esse é o melhor dia da minha vida, cara!",
                   "de_DE": "Oh Mann, das ist der beste Tag meines Lebens!",
                   "zh_CN": "\u4eca\u5929\u5b9e\u5728\u662f\u592a\u68d2\u4e86\uff0c\u4f19\u8ba1\uff01",
                   "ja_JP": "\u4eca\u65e5\u306f\u6700\u9ad8\u306e\u4e00\u65e5\u3060\u306a\uff01",
@@ -20847,7 +20847,7 @@
             "message": {
               "de_DE": "Was ist? Halten deine g\u00f6ttlichen Kr\u00e4fte nicht mal eine kleine Explosion aus?",
               "": "What's this? Yer divine powers can't handle a proper explosion? ",
-              "en_US": "O que é isso? Seus poderes divinos não conseguem lidar com uma explosão apropriada?",
+              "en_US": "O que é isso? Seus poderes divinos não conseguem lidar com uma explosão?",
               "langUid": 286,
               "fr_FR": "",
               "zh_CN": "\u600e\u4e48\u4e86\uff1f\u4f60\u7684\u795e\u529b\u6321\u4e0d\u4f4fRPG\uff1f",
@@ -20884,7 +20884,7 @@
             "message": {
               "de_DE": "Wie kannst du es wagen...\\. Das ist doch absurd!",
               "": "Why, you...\\. this is preposterous!",
-              "en_US": "Por que você...\\. isso é um absurdo!",
+              "en_US": "Como você ousa...\\. isso é um absurdo!",
               "langUid": 287,
               "fr_FR": "",
               "zh_CN": "\u4ec0\u4e48\uff0c\u4f60\u2026\\.\u8352\u8c2c\uff01",
@@ -22656,7 +22656,7 @@
           {
             "message": {
               "": "This is my ship. ",
-              "en_US": "Este é meu navio. ",
+              "en_US": "Este é meu navio.",
               "de_DE": "Das ist mein Schiff.",
               "fr_FR": "fr_FR",
               "langUid": 320,
@@ -22672,7 +22672,7 @@
           {
             "message": {
               "": "Dobbers like you messin' with my ship are on the bloody top of my list of concerns!",
-              "en_US": "Idiotas como você bagunçando pelo meu navio estão no topo da minha lista de preocupações!",
+              "en_US": "E quando idiotas como você bagunçam meu navio, isso passa a ser da minha conta, sim!",
               "de_DE": "Gr\u00fctzbeutel wie du, die \u00c4rger auf meinem Schiff machen, sind ganz oben auf der Liste meiner Belange!",
               "fr_FR": "fr_FR",
               "langUid": 321,
@@ -22688,7 +22688,7 @@
           {
             "message": {
               "": "I said it before, I'll say it again:",
-              "en_US": "Eu já disse antes, e vou dizer denovo:",
+              "en_US": "Eu já disse antes, e vou dizer de novo:",
               "de_DE": "Nochmal zum Mitschreiben f\u00fcr dich:",
               "fr_FR": "fr_FR",
               "langUid": 322,

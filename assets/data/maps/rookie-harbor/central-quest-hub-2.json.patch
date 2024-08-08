@@ -515,7 +515,7 @@
                 {
                   "text": {
                     "": "\\c[3]Circle: The Virtue of Balance. \\c[0]\nThis Virtue is not specifically associated with any elements and instead opts to balance each element.",
-                    "en_US": "\\c[3]Circulo: A Virtude do Equilibrio. \\c[0]\nEsta virtude não está especificamente associada a nenhum elemento e, em vez disso, opta por equilibrar cada elemento.",
+                    "en_US": "\\c[3]Circulo: A Virtude do Equilibrio. \\c[0]\nEssa virtude não está ligada a um elemento específico; em vez disso, ela equilibra todos os elementos.",
                     "de_DE": "\\c[3]Sph\u00e4re: Die Tugend der Balance.\\c[0]\nDiese Tugend geh\u00f6rt keinem Element an, stattdessen versucht sie eine Balance zwischen ihnen zu finden.",
                     "fr_FR": "fr_FR",
                     "langUid": 84,
@@ -667,7 +667,7 @@
                 {
                   "text": {
                     "": "While doing so, we also destroyed part of the Track of the Ancients. This activated the self-defense program of the self-sufficient system that keeps the Track intact.",
-                    "en_US": "Ao fazer isso, também destruimos parte da Trilha dos Antigos. Isso ativou o programa de autodefesa do sistema autossuficiente que mantém a pista intacta.",
+                    "en_US": "Ao fazer isso, parte da Trilha dos Antigos foi destruída e o sistema de autodefesa que protege a trilha foi ativado.",
                     "de_DE": "Dabei zerst\u00f6rten wir auch einen Teil des Pfades der Ahnen. Dies aktivierte den Verteidigungsmechanismus des autarken Systems, welches den Pfad intakt h\u00e4lt.",
                     "fr_FR": "fr_FR",
                     "langUid": 88,
@@ -682,7 +682,7 @@
                 {
                   "text": {
                     "": "After this it became almost impossible to harvest any more resources as the Track itself fought back. We became aware of the finesse with which this system was built.",
-                    "en_US": "Depois disso, tornou-se quase impossivel coletar mais recursos enquanto a própria Trilha atacava. Ficamos cientes da delicadeza com que esse sistema foi construido.",
+                    "en_US": "Depois disso, ficou quase impossível coletar mais recursos enquanto a própria Trilha estava atacando. Percebemos o quão delicado esse sistema é.",
                     "de_DE": "Danach war es nahezu unm\u00f6glich, weiterhin Rohstoffe abzubauen, da der Pfad sich dagegen wehrte. So wurde uns klar, mit welcher Finesse dieses System erbaut worden war.",
                     "fr_FR": "fr_FR",
                     "langUid": 89,
@@ -744,7 +744,7 @@
                 {
                   "text": {
                     "": "The Goal of Operation Track Walker is to \\c[3]research the Ancient Technology instead of destroying it\\c[0].",
-                    "en_US": "O objetivo da Operação Andarilho é \\c[3]pesquisar a Tecnologia dos Antigos em vez de destrui-la.\\c[0].",
+                    "en_US": "O objetivo da Operação Andarilho é \\c[3]estudar a Tecnologia dos Antigos em vez de destrui-la\\c[0].",
                     "de_DE": "Das Ziel von Operation Pfadl\u00e4ufer ist es, \\c[3]die Technologie der Ahnen zu untersuchen, anstatt sie zu zerst\u00f6ren\\c[0].",
                     "fr_FR": "fr_FR",
                     "langUid": 91,
@@ -759,7 +759,7 @@
                 {
                   "text": {
                     "": "We began to look for ways to be part of the Track itself, to have humans participate. To our surprise integrating ourselves into the system was easy.",
-                    "en_US": "Começamos a procurar maneiras de fazer parte da própria Trilha, de ter a participação humana. Para nossa surpresa, a integração no sistema foi fácil.",
+                    "en_US": "Buscamos maneiras de nos integrar à Trilha e permitir a participação humana. Para nossa surpresa, foi simples nos integrar ao sistema.",
                     "de_DE": "Wir suchten nach M\u00f6glichkeiten, als Menschen selbst Teil des Pfades zu werden. Zu unserer \u00dcberraschung verlief unsere Integration in das System erstaunlich einfach.",
                     "fr_FR": "fr_FR",
                     "langUid": 92,
@@ -774,7 +774,7 @@
                 {
                   "text": {
                     "": "We were even able to augment the Track to make it possible for humans, or \\c[3]Seekers\\c[0] as we now call them, to choose one of the five virtues and collect the four elements.",
-                    "en_US": "Fomos até capazes de aumentar a trilha para possibilitar aos humanos, ou \\c[3]Seekers\\c[0] como agora os chamamos, escolher uma das cinco virtudes e coletar os quatro elementos.",
+                    "en_US": "Além disso, fomos capazes de expandir a Trilha para que os humanos, agora chamados de \\c[3]Seekers\\c[0], pudessem escolher uma das cinco virtudes e coletar os quatro elementos.",
                     "de_DE": "Wir waren sogar in der Lage, den Pfad zu verbessern, um es Menschen, oder \\c[3]Seekern\\c[0], wie wir sie heute nennen, zu erm\u00f6glichen, eine der 5 Tugenden zu w\u00e4hlen und die 4 Elemente zu sammeln.",
                     "fr_FR": "fr_FR",
                     "langUid": 93,
@@ -837,7 +837,7 @@
                 {
                   "text": {
                     "": "What happens when all four elements are collected and brought to the center temple in Shadoon is still unknown to us.",
-                    "en_US": "O que acontece quando todos os quatro elementos são coletados e trazidos para o templo central em Shadoon ainda é desconhecido para nós.",
+                    "en_US": "Ainda não sabemos o que acontece quando todos os quatro elementos são coletados e levados para o templo central em Shadoon.",
                     "de_DE": "Was passiert, wenn man alle Elemente sammelt und zum zentralen Tempel Shadoons bringt, wissen wir noch nicht.",
                     "fr_FR": "fr_FR",
                     "langUid": 95,
@@ -867,7 +867,7 @@
                 {
                   "text": {
                     "": "All we can guess is that the Ancients left their vast knowledge base for their descendants to find, as some legends and artifacts we've uncovered seem to indicate.",
-                    "en_US": "Tudo o que podemos adivinhar é que os Antigos deixaram sua vasta base de conhecimento para seus descendentes encontrarem, como algumas lendas e artefatos para descobrimos seus segredos.",
+                    "en_US": "Acreditamos que os Antigos deixaram um enorme conhecimento para seus descendentes, como lendas e artefatos, para que pudéssemos descobrir seus segredos.",
                     "de_DE": "Wir gehen aber davon aus, dass die Ahnen ihr enormes Wissen f\u00fcr ihre Nachkommen zur\u00fccklie\u00dfen, da einige Legenden und Artefakte darauf hindeuten.",
                     "fr_FR": "fr_FR",
                     "langUid": 97,
@@ -918,7 +918,7 @@
                 {
                   "text": {
                     "": "Rhombus Square is the capital of humankind on Shadoon. Seekers start their journey in a custom course simulating challenges on the Ancient's Track.",
-                    "en_US": "A Praça Losango é a capital da humanidade em Shadoon. Os Seekers começam sua jornada em um curso personalizado que simula desafios na Trilha dos Antigos.",
+                    "en_US": "A Praça Losango é a capital da humanidade em Shadoon. Os Seekers começam sua jornada com um treinamento que simula os desafios da Trilha dos Antigos.",
                     "de_DE": "Rhombus Square ist die Hauptstadt der Menschen auf Shadoon. Seeker starten hier mit einem \u00dcbungskursus, der Herausforderungen auf dem Pfad der Ahnen simuliert.",
                     "fr_FR": "fr_FR",
                     "langUid": 99,
@@ -1012,7 +1012,7 @@
                 {
                   "text": {
                     "": "These elements are \\c[3]Heat\\c[0], \\c[3]Cold\\c[0], \\c[3]Shock\\c[0], and \\c[3]Wave\\c[0]. This enumeration also reflects the order in which the elements are usually collected. ",
-                    "en_US": "Esses elementos são \\c[3]Fogo\\c[0], \\c[3]Gelo\\c[0], \\c[3]Elétrico\\c[0], e \\c[3]Onda\\c[0]. Essa enumeração também reflete a ordem em que os elementos são geralmente coletados.",
+                    "en_US": "Esses elementos são \\c[3]Fogo\\c[0], \\c[3]Gelo\\c[0], \\c[3]Choque\\c[0], e \\c[3]Onda\\c[0]. Eles são coletados seguindo essa mesma sequência.",
                     "de_DE": "Die Elemente sind \\c[3]Hitze\\c[0], \\c[3]K\u00e4lte\\c[0], \\c[3]Schock\\c[0] und \\c[3]Welle\\c[0]. Diese Aufz\u00e4hlung ist gleichzeitig die Reihenfolge, in der die Elemente f\u00fcr gew\u00f6hnlich gesammelt werden.",
                     "fr_FR": "fr_FR",
                     "langUid": 80,
@@ -2065,7 +2065,7 @@
           {
             "message": {
               "": "Suddenly I was in the middle of space and this old geezer kept talking to me.",
-              "en_US": "De repente, eu estava no meio do espaço e esse velhote continuou falando comigo.",
+              "en_US": "De repente, eu estava no meio do espaço e um velho começou a falar comigo.",
               "de_DE": "Auf einmal war ich mitten im Weltall und dieser alte Knacker hat mit mir gesprochen.",
               "fr_FR": "fr_FR",
               "langUid": 5,
@@ -2081,7 +2081,7 @@
           {
             "message": {
               "": "Same for you?",
-              "en_US": "A mesma coisa pra você?",
+              "en_US": "Você também viu isso?",
               "de_DE": "War's bei dir auch so?",
               "fr_FR": "fr_FR",
               "langUid": 6,
@@ -2232,7 +2232,7 @@
           {
             "message": {
               "": "By the way, Lea.\\. I took the liberty of adding a few more entries to your \\c[3]encyclopedia\\c[0].",
-              "en_US": "A propósito, Lea.\\. tomei a liberdade de adicionar mais algumas entradas a sua \\c[3]enciclopédia\\c[0].",
+              "en_US": "A propósito, Lea.\\. tomei a liberdade de adicionar mais algumas entradas à sua \\c[3]enciclopédia\\c[0].",
               "de_DE": "\u00dcbrigens, Lea.\\. Ich habe mir erlaubt, deiner \\c[3]Enzyklop\u00e4die\\c[0] noch ein paar Eintr\u00e4ge hinzuzuf\u00fcgen.",
               "fr_FR": "fr_FR",
               "langUid": 101,
@@ -2264,7 +2264,7 @@
           {
             "message": {
               "": "And a few insights on the technology, of course.",
-              "en_US": "E algumas dicas sobre a tecnologia, é claro.",
+              "en_US": "E algumas explicações sobre a tecnologia de Crossworlds, é claro.",
               "de_DE": "Und nat\u00fcrlich ein paar Einblicke in die Technologie.",
               "fr_FR": "fr_FR",
               "langUid": 103,

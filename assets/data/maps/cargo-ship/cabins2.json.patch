@@ -1829,7 +1829,7 @@
                 "message": {
                   "de_DE": "Oh! Ich dachte, dieses Spiel wurde eingestellt!",
                   "": "Oh! I thought they canceled this game!",
-                  "en_US": "Oh! Achei que tivessem cancelado este jogo!",
+                  "en_US": "Ah! Achei que tivessem cancelado este jogo!",
                   "langUid": 12,
                   "fr_FR": "",
                   "zh_CN": "\u54e6\uff01\u6211\u4ee5\u4e3a\u4ed6\u4eec\u65e9\u5c31\u53d6\u6d88\u8fd9\u4e2a\u6e38\u620f\u4e86\u5462\uff01",
@@ -1886,7 +1886,7 @@
                 "message": {
                   "de_DE": "Das Spiel scheint ihn ziemlich zu fesseln.\\.\nWir lassen ihn lieber in Ruhe...",
                   "": "He seems pretty engaged with the game.\\.\nWe should just let him play...",
-                  "en_US": "Ele parece concentrado no jogo.\\.\nDeviamos apenas deixá-lo jogar...",
+                  "en_US": "Ele parece concentrado no jogo.\\.\nMelhor deixá-lo jogar sem perturbações.",
                   "langUid": 16,
                   "fr_FR": "",
                   "zh_CN": "\u770b\u6837\u5b50\u4ed6\u6b63\u5fd9\u7740\u6253\u6e38\u620f\u5462\u3002\\.\u6211\u4eec\u8fd8\u662f\u522b\u6253\u6270\u4ed6\u4e86\u2026",
@@ -2328,7 +2328,7 @@
                 "message": {
                   "de_DE": "Es ist eines der kleineren Schiffe der Solar-Klasse, aber es erf\u00fcllt seinen Zweck.",
                   "": "It's just one of the smaller ships of the Solar class but it does its job.",
-                  "en_US": "É apenas um dos navios menores da classe Solar, mas cumpre bem seu papel.",
+                  "en_US": "É um dos navios menores da classe Solar, mas cumpre bem seu papel.",
                   "langUid": 20,
                   "fr_FR": "",
                   "zh_CN": "\u867d\u7136\u8fd9\u8258\u8239\u53ea\u662f\u592a\u9633\u7ea7\u4e2d\u6bd4\u8f83\u5c0f\u7684\u4e00\u79cd\uff0c\u4e0d\u8fc7\u5b83\u7684\u6027\u80fd\u53ef\u6ca1\u8bdd\u8bf4\u3002",
@@ -2931,7 +2931,7 @@
                 "message": {
                   "de_DE": "Wie kann was sein?",
                   "": "Do what? ",
-                  "en_US": "Fez o que? ",
+                  "en_US": "Fiz o que?",
                   "langUid": 33,
                   "fr_FR": "",
                   "zh_CN": "\u505a\u5230\u4ec0\u4e48\uff1f",
@@ -2947,7 +2947,7 @@
                 "message": {
                   "de_DE": "Dass deine Kabine so aussieht.",
                   "": "This room.",
-                  "en_US": "Este quarto.",
+                  "en_US": "Esta \"decoração\".",
                   "langUid": 34,
                   "fr_FR": "",
                   "zh_CN": "\u8fd9\u4e2a\u623f\u95f4\u3002",
@@ -2998,7 +2998,7 @@
                 "message": {
                   "de_DE": "Ich frage mich, wie Jet diesen...\\! Raum \u00fcbersehen kann?",
                   "": "I mean, how did Jet not see this... \\! room?",
-                  "en_US": "Quero dizer, como Jet não viu esse... \\! quarto?",
+                  "en_US": "Quer dizer, como Jet não viu essa...\\! bagunça?",
                   "langUid": 37,
                   "fr_FR": "",
                   "zh_CN": "\u6211\u7684\u610f\u601d\u662f\uff0c\u6770\u7279\u600e\u4e48\u4f1a\u653e\u8fc7\u8fd9\u4e2a\u2026\\!\u623f\u95f4\u7684\uff1f",
@@ -3033,7 +3033,7 @@
                 "message": {
                   "de_DE": "Tja, das w\u00fcssteste gern, was? Ich werd dich aber noch 'n bisschen im Dunkeln tappen lassen.",
                   "": "Well, you'll have to wait for another time to hear my secrets I guess.",
-                  "en_US": "Bem, você terá que esperar outra hora para ouvir meus segredos, eu acho.",
+                  "en_US": "Bom, um dia eu vou contar meus segrados, eu acho.",
                   "langUid": 39,
                   "fr_FR": "",
                   "zh_CN": "\u55ef\uff0c\u8fd9\u4e8b\u7b49\u4ee5\u540e\u6709\u673a\u4f1a\u518d\u8bf4\u3002",
@@ -4120,7 +4120,7 @@
             "message": {
               "de_DE": "Wie macht sie das?",
               "": "How does Carla do it?",
-              "en_US": "Como Carla faz isso?",
+              "en_US": "Como a Carla consegue fazer aquela bagunça?",
               "langUid": 48,
               "fr_FR": "",
               "zh_CN": "\u5361\u62c9\u5230\u5e95\u600e\u4e48\u505a\u5230\u7684\uff1f",

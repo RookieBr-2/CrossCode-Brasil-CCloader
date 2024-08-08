@@ -474,7 +474,7 @@
               {
                 "message": {
                   "": "Also you can reset your skills using a \\c[3]\\v[item.428.name]\\c[0] using the \\c[3]Circuit Reset Terminal\\c[0] downstairs!",
-                  "en_US": "Além disso, você pode redefinir suas habilidades usando um \\c[3]\\v[item.428.name]\\c[0] usando o \\c[3]Terminal de Reinicialização do Circuito\\c[0] no andar de baixo!",
+                  "en_US": "Além disso, você pode redefinir suas habilidades usando um \\c[3]\\v[item.428.name]\\c[0] através do \\c[3]Terminal de Reinicialização do Circuito\\c[0] no andar de baixo!",
                   "de_DE": "Au\u00dferdem kannst du im 1. UG am \\c[3]Circuit-Reset-Automaten (CRA)\\c[0] ein Circuitbrett mit einem \\c[3]Circuit-Resetter\\c[0] resetten!",
                   "zh_CN": "\u4f60\u8fd8\u53ef\u4ee5\u901a\u8fc7\u5728\u697c\u4e0b\u7684\\c[3]\u7535\u8def\u91cd\u7f6e\u7ec8\u7aef\\c[0]\u4f7f\u7528\\c[3]\\v[item.428.name]\\c[0]\u6765\u91cd\u7f6e\u4f60\u7684\u6280\u80fd\u3002<<A<<[CHANGED 2017/12/12]",
                   "ja_JP": "\u305d\u308c\u3068\u3001\u4e0b\u306e\u968e\u306b\u3042\u308b\\c[3]\u30b5\u30fc\u30ad\u30c3\u30c8\u30ea\u30bb\u30c3\u30c8\u30bf\u30fc\u30df\u30ca\u30eb\\c[0]\u3067\u306f\\c[3]\\v[item.428.name]\\c[0]\u3067\u30b9\u30ad\u30eb\u3092\u30ea\u30bb\u30c3\u30c8\n\u3067\u304d\u307e\u3059\u3088\uff01<<A<<[CHANGED 2017/12/11]",
@@ -641,7 +641,7 @@
                   {
                     "message": {
                       "": "The art of combat was flowing through our lineage long before \\v[lore.title.seeker]s were even a mere thought.",
-                      "en_US": "A arte do combate estava fluindo através de nossa linhagem muito antes dos \\v[lore.title.seeker]s serem um mero pensamento.",
+                      "en_US": "A arte do combate fazia parte de nossa linhagem muito antes dos \\v[lore.title.seeker]s chegarem aqui.",
                       "de_DE": "Die Kampfkunst lag meiner Familie schon seit Generationen im Blut, als an Seeker noch gar nicht zu denken war.",
                       "zh_CN": "\u6218\u6280\u65e9\u5728\\v[lore.title.seeker]\u51fa\u73b0\u4e4b\u524d\u5c31\u5728\u6211\u4eec\u7684\u5bb6\u65cf\u4e4b\u4e2d\u6d41\u4f20\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 320,
@@ -759,7 +759,7 @@
                   {
                     "message": {
                       "": "You, Spheromancer, will execute a series of \\c[3]3 swings\\c[0] followed by a powerful \\c[3]spin attack\\c[0] of great range.",
-                      "en_US": "Você, Esferomante, irá executar uma série de \\c[3]3 ataques \\c[0]seguidos por um poderoso \\c[3]ataque giratório\\c[0] de maior alcance.",
+                      "en_US": "Você, irá executar uma série de \\c[3]3 ataques\\c[0] seguidos por um poderoso \\c[3]ataque giratório\\c[0] de maior alcance.",
                       "de_DE": "Du, Spheromancer, greifst mit einer Kombination aus \\c[3]drei Hieben\\c[0] und einer m\u00e4chtigen \\c[3]Wirbelattacke\\c[0] von gro\u00dfer Reichweite an.",
                       "zh_CN": "\u4f60\u4f5c\u4e3a\u6c14\u5706\u4f7f\u8005\uff0c\u4f1a\u4f7f\u7528\\c[3]\u4e09\u8fde\u6325\u51fb\\c[0]\u7136\u540e\u63a5\u4e0a\u4e00\u6b21\u5f3a\u529b\u7684\u5927\u8303\u56f4\\c[3]\u56de\u65cb\u65a9\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 333,
@@ -777,7 +777,7 @@
                   {
                     "message": {
                       "": "Though the last attack is rather slow, creating openings for counterattacks.",
-                      "en_US": "Embora o último ataque seja bastante lento, criando aberturas para contra-ataques.",
+                      "en_US": "Infelizmente, o último ataque é bem lento, o que dá ao inimigo uma chance de contra-atacar.",
                       "de_DE": "Leider ist letztere recht langsam, was dem Gegner die Gelegenheit f\u00fcr Konterangriffe gibt.",
                       "zh_CN": "\u4f46\u662f\u6700\u540e\u4e00\u6b21\u653b\u51fb\u901f\u5ea6\u8f83\u6162\uff0c\u5bb9\u6613\u8ba9\u654c\u4eba\u8d81\u865a\u800c\u5165\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 326,
@@ -795,7 +795,7 @@
                   {
                     "message": {
                       "": "Thus a wise fighter considers \\c[3]dashing\\c[0] out of a combo to continue attacking without delay.",
-                      "en_US": "Assim, um lutador sábio considera \\c[3]esquivar\\c[0] depois de um combo para continuar atacando sem parar.",
+                      "en_US": "Por isso, um lutador sábio vai \\c[3]esquivar\\c[0] depois de um combo para continuar atacando sem parar.",
                       "de_DE": "Ein weiser K\u00e4mpfer zieht es daher vor, aus einer Kombo heraus zu \\c[3]dashen\\c[0], um ohne Verz\u00f6gerung weiter angreifen zu k\u00f6nnen.",
                       "zh_CN": "\u56e0\u6b64\uff0c\u6709\u7ecf\u9a8c\u7684\u6218\u58eb\u4f1a\u9009\u62e9\u4f7f\u7528\\c[3]\u51b2\u523a\\c[0]\u6253\u65ad\u8fde\u51fb\u5e76\u518d\u6b21\u5f00\u59cb\u8fde\u51fb\u3002<<A<<[CHANGED 2018/10/04]",
                       "langUid": 327,
@@ -957,7 +957,7 @@
                   {
                     "message": {
                       "": "However, they cause strong \\c[3]knockback\\c[0], can sometimes \\c[3]break\\c[0] your foes and, when used with an element, even cause \\c[3]status conditions\\c[0]!",
-                      "en_US": "No entanto, eles causam um forte \\c[3]knockback\\c[0], e às vezes pode \\c[3]interromper\\c[0] seus inimigos e, quando usado com um elemento, até mesmo causar \\c[3]condições de status\\c[0]!",
+                      "en_US": "Por outro lado, eles causam um forte \\c[3]knockback\\c[0], podendo \\c[3]paralisar\\c[0] seus inimigos e, um tiro elemental, pode provocar \\c[3]condições de status\\c[0]!",
                       "de_DE": "Allerdings \\c[3]sto\u00dfen\\c[0] sie deine Feinde \\c[3]zur\u00fcck\\c[0] und \\c[3]brechen\\c[0] sie manchmal. Zudem verursachen sie in den Element-Modi sogar \\c[3]Statuseffekte\\c[0]!",
                       "zh_CN": "\u4f46\u662f\uff0c\u84c4\u529b\u98de\u5f39\u80fd\u591f\u9020\u6210\u5f3a\u529b\\c[3]\u51fb\u9000\\c[0]\uff0c\u5bf9\u654c\u4eba\u9020\u6210\\c[3]\u7834\u9632\\c[0]\uff0c\u5982\u679c\u4f7f\u7528\u5143\u7d20\u653b\u51fb\u7684\u8bdd\uff0c\u8fd8\u80fd\u9020\u6210\\c[3]\u72b6\u6001\u6548\u679c\\c[0]!<<A<<[CHANGED 2018/05/01]",
                       "ja_JP": "\u3067\u3082\u30c1\u30e3\u30fc\u30b8\u30b7\u30e7\u30c3\u30c8\u306b\u306f\n\u5f37\u3044\\c[3]\u30ce\u30c3\u30af\u30d0\u30c3\u30af\\c[0]\u304c\u3042\u308b\u3057\u3001\u6642\u306b\u306f\n\u6575\u3092\\c[3]\u30d6\u30ec\u30a4\u30af\u72b6\u614b\\c[0]\u306b\u3082\u3067\u304d\u308b\u306e\u3002\u305d\u308c\u306b\u3001\n\u30a8\u30ec\u30e1\u30f3\u30c8\u3092\u307e\u3068\u308f\u305b\u3066\u4f7f\u3048\u3070\n\\c[3]\u72b6\u614b\u7570\u5e38\\c[0]\u306b\u3055\u305b\u3089\u308c\u308b\u308f\uff01<<A<<[CHANGED 2018/05/01]",
@@ -975,7 +975,7 @@
                   {
                     "message": {
                       "": "Also charged shots will \\c[3]ricochet from solid objects\\c[0] thus allowing for attacks from surprising angles!",
-                      "en_US": "Tiros carregados também \\c[3]ricocheteiam em objetos sólidos\\c[0] permitindo, assim, ataques de ângulos inesperados!",
+                      "en_US": "Os tiros carregados podem \\c[3]ricochetear em objetos sólidos\\c[0], possibilitando ataques de ângulos surpreendentes!",
                       "de_DE": "Au\u00dferdem \\c[3]prallen geladene Sch\u00fcsse von festen Objekten ab\\c[0] und erlauben so Angriffe aus \u00fcberraschenden Winkeln!",
                       "zh_CN": "\u8fd8\u6709\uff0c\u84c4\u529b\u98de\u5f39\u53ef\u4ee5\\c[3]\u4e0e\u786c\u8d28\u7269\u4f53\u8fdb\u884c\u8df3\u5f39\\c[0]\u6765\u8fdb\u884c\u89d2\u5ea6\u51fa\u5176\u4e0d\u610f\u7684\u653b\u51fb\uff01<<A<<[CHANGED 2018/05/01]",
                       "ja_JP": "\u305d\u308c\u306b\u3001\u30c1\u30e3\u30fc\u30b8\u30b7\u30e7\u30c3\u30c8\u306f\\c[3]\u56fa\u3044\u3082\u306e\u306b\n\u5f53\u305f\u308b\u3068\u8df3\u306d\u8fd4\u308b\\c[0]\u304b\u3089\u3001\u6b7b\u89d2\u304b\u3089\n\u4e0d\u610f\u6253\u3061\u3059\u308b\u3053\u3068\u3082\u3067\u304d\u308b\u306e\u3088\uff01<<A<<[CHANGED 2018/05/01]",
@@ -993,7 +993,7 @@
                   {
                     "message": {
                       "": "You should know, however, that some enemies are \\c[3]resistant to ranged combat\\c[0].\\. Melee combat will have better results in those cases!",
-                      "en_US": "Você deve saber, no entanto, que alguns inimigos são \\c[3]resistentes ao combate à distância\\c[0].\\. O combate corpo a corpo terá melhores resultados nesses casos!",
+                      "en_US": "Mas saiba que alguns inimigos são \\c[3]resistentes a ataques à distância\\c[0].\\. Nesses casos, o combate corpo a corpo é mais efetivo!",
                       "de_DE": "Du solltest jedoch wissen, dass so manche Feinde \\c[3]gegen Angriffe aus der Ferne resistent sind\\c[0]. In diesem Fall w\u00e4re der Nahkampf die bessere Wahl!",
                       "zh_CN": "\u4f46\u662f\uff0c\u6709\u90e8\u5206\u654c\u4eba\\c[3]\u62b5\u6297\u8fdc\u7a0b\u653b\u51fb\\c[0]\u3002\\.\u8fd9\u79cd\u60c5\u51b5\u4e0b\uff0c\u7528\u8fd1\u6218\u653b\u51fb\u4f1a\u66f4\u52a0\u6709\u6548\uff01<<A<<[CHANGED 2018/05/01]",
                       "ja_JP": "\u305f\u3060\u3001\u77e5\u3063\u3066\u304a\u3044\u3066\u307b\u3057\u3044\u3093\u3060\u3051\u3069\u3001\n\u3042\u308b\u7a2e\u306e\u6575\u306f\\c[3]\u9577\u8ddd\u96e2\u653b\u6483\u3078\u306e\u8010\u6027\\c[0]\u3092\n\u6301\u3063\u3066\u308b\u306e\u3002\\.\u305d\u306e\u5834\u5408\u306f\u3001\u8fd1\u63a5\u653b\u6483\u3067\n\u6226\u3063\u305f\u307b\u3046\u304c\u3044\u3044\u3053\u3068\u3082\u3042\u308b\u308f\uff01<<A<<[CHANGED 2018/05/01]",
@@ -1047,7 +1047,7 @@
                   {
                     "message": {
                       "": "The dash is an essential technique in fights and allows you to traverse short distances at blinding speeds.",
-                      "en_US": "A esquiva é uma técnica essencial em lutas e permite percorrer distâncias curtas em velocidades assustadoras.",
+                      "en_US": "A Esquiva é uma habilidade importante nas lutas, permitindo que você percorra distâncias curtas com muita rapidez.",
                       "de_DE": "Der Dash ist eine wichtige Technik im Kampf, die es dir erlaubt, durch pfeilschnelles Vorpreschen kurze Distanzen zu \u00fcberbr\u00fccken.",
                       "zh_CN": "\u51b2\u523a\u662f\u6218\u6597\u7684\u6838\u5fc3\u6280\u5de7\uff0c\u53ef\u4ee5\u8ba9\u4f60\u4ee5\u8fc5\u96f7\u4e0d\u53ca\u63a9\u8033\u4e4b\u52bf\u8fdb\u884c\u77ed\u7a0b\u79fb\u52a8\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 329,
@@ -1065,7 +1065,7 @@
                   {
                     "message": {
                       "": "The speed alone allows for safer evasion, but it has another property: the mythical \\c[3]Flash Step\\c[0].",
-                      "en_US": "A velocidade por si só permite uma evasão mais segura, mas tem outra propriedade: a mitica \\c[3]Esquiva Veloz \\c[0].",
+                      "en_US": "A velocidade deste movimento não só permite uma evasão mais segura, mas também tem outra vantagem: a mítica \\c[3]Esquiva Veloz\\c[0].",
                       "de_DE": "Allein durch die Schnelligkeit weichst du Angriffen viel leichter aus. An dieser Stelle kommt der geheimnisvolle \\c[3]Blitzsprint\\c[0] ins Spiel.",
                       "zh_CN": "\u51b2\u523a\u672c\u8eab\u7684\u901f\u5ea6\u5c31\u5df2\u7ecf\u8db3\u4ee5\u907f\u5f00\u653b\u51fb\uff0c\u4f46\u662f\u51b2\u523a\u8fd8\u6709\u4e00\u4e2a\u795e\u79d8\u7684\u529f\u80fd\uff1a\\c[3]\u77ac\u6b65\\c[0]\u3002<<A<<[CHANGED 2018/05/01]",
                       "ja_JP": "\u305d\u306e\u30b9\u30d4\u30fc\u30c9\u3067\u5b89\u5168\u306b\u79fb\u52d5\u3059\u308b\u3053\u3068\u3082\n\u3067\u304d\u308b\u3051\u308c\u3069\u3001\u4ed6\u306b\u3082\u3067\u304d\u308b\u3053\u3068\u304c\u3042\u308b\u3002\n\u79d8\u5100\u3001\\c[3]\u30d5\u30e9\u30c3\u30b7\u30e5\u30b9\u30c6\u30c3\u30d7\\c[0]\u3092\u306d\u3002<<A<<[CHANGED 2018/05/01]",
@@ -1083,7 +1083,7 @@
                   {
                     "message": {
                       "": "A dashing fighter will be \\c[3]completely invincible for a fleeting moment\\c[0] and even \\c[3]phase through some objects\\c[0]!",
-                      "en_US": "Um lutador durante a esquiva será \\c[3]completamente invencivel por um breve momento\\c[0] e até mesmo pode \\c[3]atravessar alguns objetos\\c[0]!",
+                      "en_US": "Ao esquivar, o lutador fica \\c[3]invencível por um tempo\\c[0] e pode até \\c[3]atravessar alguns objetos\\c[0]!",
                       "de_DE": "Ein dashender K\u00e4mpfer ist f\u00fcr einen \\c[3]fl\u00fcchtigen Augenblick tats\u00e4chlich unverwundbar\\c[0] und kann sogar \\c[3]manche Objekte durchqueren\\c[0]!",
                       "zh_CN": "\u5728\u51b2\u523a\u7684\u4e00\u77ac\u95f4\uff0c\u6218\u58eb\u4eec\u662f\u5b8c\u5168\u65e0\u654c\u7684\uff0c\u751a\u81f3\u53ef\u4ee5\u7a7f\u8d8a\u4e00\u4e9b\u7269\u4f53\uff01<<A<<[CHANGED 2018/01/14]",
                       "ja_JP": "\u30c0\u30c3\u30b7\u30e5\u4e2d\u306e\u6226\u58eb\u306f\\c[3]\u305d\u306e\u77ac\u9593\u3060\u3051\u5b8c\u5168\u306b\u7121\u6575\\c[0]\u306b\n\u306a\u308a\u3001\u6642\u306b\u306f\\c[3]\u3042\u308b\u7a2e\u306e\u969c\u5bb3\u7269\u3055\u3048\u3059\u308a\u629c\u3051\u308b\\c[0]\u3053\u3068\u304c\n\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308b\u306e\uff01<<A<<[CHANGED 2018/01/14]",
@@ -1101,7 +1101,7 @@
                   {
                     "message": {
                       "": "That moment is short, but it can be prolonged by strengthening your \\c[3]Flash Step\\c[0] ability and \\c[3]Focus\\c[0].",
-                      "en_US": "Esse momento é curto, mas pode ser prolongado fortalecendo a sua habilidade \\c[3]Esquiva Veloz\\c[0] e \\c[3]Foco\\c[0].",
+                      "en_US": "Esse tempo é curto, mas pode durar mais se você fortalecer sua \\c[3]Esquiva Veloz\\c[0] e \\c[3]Foco\\c[0].",
                       "de_DE": "Der Augenblick ist kurz, kann aber verl\u00e4ngert werden, indem du den \\c[3]Blitzsprint\\c[0] und deinen \\c[3]Fokus\\c[0] ausbaust.",
                       "zh_CN": "\u8fd9\u4e2a\u6301\u7eed\u65f6\u95f4\u5f88\u77ed\uff0c\u4f46\u662f\u80fd\u901a\u8fc7\\c[3]\u77ac\u6b65\\c[0]\u6280\u80fd\u548c\\c[3]\u96c6\u4e2d\\c[0]\u5c5e\u6027\u6765\u5ef6\u957f\u3002<<A<<[CHANGED 2018/01/14]",
                       "ja_JP": "\u305d\u306e\u6642\u9593\u306f\u77ed\u3044\u3051\u308c\u3069\u3001\n\\c[3]\u30d5\u30e9\u30c3\u30b7\u30e5\u30b9\u30c6\u30c3\u30d7\\c[0]\u306e\u30a2\u30d3\u30ea\u30c6\u30a3\u3068\\c[3]\u96c6\u4e2d\\c[0]\u3092\n\u5f37\u5316\u3059\u308b\u3053\u3068\u3067\u4f38\u3070\u3059\u3053\u3068\u304c\u3067\u304d\u308b\u308f\u3002<<A<<[CHANGED 2018/01/14]",
@@ -1173,7 +1173,7 @@
                   {
                     "message": {
                       "": "When facing vicious attacks, raising your Guard is often the wisest course of action.",
-                      "en_US": "Ao enfrentar ataques violentos, elevar seu escudo costuma ser a decisão mais sábia.",
+                      "en_US": "Em meio a ataques violentos, erguer o escudo é geralmente a decisão mais prudente.",
                       "de_DE": "Wenn du heftigen Attacken ausgesetzt bist, ist es oft kl\u00fcger, sie zu blocken.",
                       "zh_CN": "\u5f53\u9762\u5bf9\u5404\u5f0f\u653b\u51fb\u65f6\uff0c\u901a\u5e38\u9632\u5fa1\u662f\u4f60\u6700\u597d\u7684\u9009\u62e9\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 334,
@@ -1227,7 +1227,7 @@
                   {
                     "message": {
                       "": "The efficiency and endurance of your shield depends on your \\c[3]Defense\\c[0] and the specialized \\c[3]Solid Guard\\c[0] modifier.",
-                      "en_US": "A eficiência e a resistência do seu escudo dependem da sua \\c[3]Defesa\\c[0] e a modificação \\c[3]Escudo Sólido\\c[0].",
+                      "en_US": "A eficiência e a resistência do seu escudo dependem da sua \\c[3]Defesa\\c[0] e o modificador \\c[3]Escudo Sólido\\c[0].",
                       "de_DE": "Entscheidend f\u00fcr die Effektivit\u00e4t und Z\u00e4higkeit deines Schildes sind deine \\c[3]Verteidigung\\c[0] und der \\c[3]Schildwall\\c[0]-Modifikator.",
                       "zh_CN": "\u76fe\u7684\u6548\u7387\u548c\u8010\u4e45\u53d6\u51b3\u4e8e\u4f60\u7684\\c[3]\u9632\u5fa1\\c[0]\u548c\\c[3]\u5f3a\u5316\u9632\u5fa1\\c[0]\u8fd9\u4e2a\u7279\u8d28\u3002<<A<<[CHANGED 2018/01/06]",
                       "langUid": 337,
@@ -1245,7 +1245,7 @@
                   {
                     "message": {
                       "": "However, if your guard is \\c[3]timed perfectly\\c[0], it will \\c[3]never break\\c[0] and \\c[3]negate all damage\\c[0].\\. This is the fabled \\c[3]Perfect Guard\\c[0]. ",
-                      "en_US": "No entanto, se a sua defesa for \\c[3]no momento certo\\c[0], seu escudo \\c[3]nunca vai quebrar\\c[0] e vai \\c[3]negar todos os danos\\c[0].\\. Esta é a lendária \\c[3]Defesa Perfeita\\c[0]. ",
+                      "en_US": "Se você defender na \\c[3]hora certa\\c[0], seu escudo \\c[3]não quebra\\c[0] e \\c[3]anula todo o dano\\c[0]. Esta é a lendária \\c[3]Defesa Perfeita\\c[0].",
                       "de_DE": "Blockst du jedoch \\c[3]im richtigen Moment\\c[0], wird der \\c[3]komplette Schaden negiert\\c[0] und dein Schild \\c[3]niemals brechen!\\c[0]\\. Der ber\u00fchmte \\c[3]Perfekte Block\\c[0].",
                       "zh_CN": "\u4f46\u662f\uff0c\u5982\u679c\u4f60\u4e3e\u76fe\u65f6\u673a\u6b63\u786e\u7684\u8bdd\uff0c\u5c06\u4f1a\u6321\u4f4f\u6240\u6709\u4f24\u5bb3\u5e76\u4e14\u7edd\u5bf9\u4e0d\u4f1a\u7834\u9632\u3002\\.\u8fd9\u4e2a\u6280\u5de7\u53eb\u505a\\c[3]\u5b8c\u7f8e\u9632\u5fa1\\c[0]\u3002<<A<<[CHANGED 2018/09/19]",
                       "ja_JP": "\u3067\u3082\u3001\u30ac\u30fc\u30c9\u306e\\c[3]\u30bf\u30a4\u30df\u30f3\u30b0\u304c\u5b8c\u74a7\\c[0]\u306a\u3089\u3001\n\u30b7\u30fc\u30eb\u30c9\u306f\\c[3]\u30d6\u30ec\u30a4\u30af\\c[0]\u3059\u308b\u3053\u3068\u3082\u306a\u3044\u3057\n\\c[3]\u30c0\u30e1\u30fc\u30b8\u3082\u7121\u52b9\u5316\\c[0]\u3055\u308c\u308b\u3002\n\\.\u3053\u308c\u304c\u304b\u306e\u6709\u540d\u306a\\c[3]\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u30ac\u30fc\u30c9\\c[0]\u3088\u3002<<A<<[CHANGED 2018/09/19]",
@@ -1263,7 +1263,7 @@
                   {
                     "message": {
                       "": "There are, however, some mighty attacks that mysteriously \\c[3]ignore\\c[0] a shield.\\. Be wary of those.",
-                      "en_US": "Existem, no entanto, alguns ataques poderosos que misteriosamente \\c[3]ignoram\\c[0] o escudo.\\. Seja cautelosa com esses.",
+                      "en_US": "Existem ataques poderosos que, de forma misteriosa, \\c[3]ignoram o escudo\\c[0]. Tome cuidado com eles.",
                       "de_DE": "Es gibt aber auch m\u00e4chtige Attacken, die auf mysteri\u00f6se Weise einen Schild \\c[3]ignorieren\\c[0].\\. Nimm dich vor ihnen in Acht.",
                       "zh_CN": "\u4e0d\u8fc7\u4e5f\u8981\u5c0f\u5fc3\uff0c\u67d0\u4e9b\u653b\u51fb\u80fd\u591f\\c[3]\u65e0\u89c6\\c[0]\u62a4\u76fe\u3002\\.\u8981\u5c0f\u5fc3\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 339,
@@ -1552,7 +1552,7 @@
                   {
                     "message": {
                       "": "No \"but\"s or \"if\"s or \"maybe\"s.\\. Your body is what keeps you alive so you must work for it, bro!",
-                      "en_US": "Sem \"mas\" ou \"se\" ou \"talvez\".\\. Seu corpo é o que te mantém vivo, então você deve trabalhar por ele, mano!",
+                      "en_US": "Sem 'mas', 'se' ou 'talvez'.\\. Seu corpo é que te mantém viva, então cuide bem dele, maninha!",
                       "de_DE": "Und kein \"Joa, mal gucken\", kein \"Vielleicht n\u00e4chstes Jahr\" - fang einfach an, Mann!\\. Dein K\u00f6rper ist derjenige, der dich am Leben h\u00e4lt, also musst du auch was f\u00fcr ihn tun, Jung!",
                       "zh_CN": "\u4e0d\u8981\u63a8\u8131\u3002\\.\u8eab\u4f53\u4e0d\u597d\u8ddf\u4e22\u547d\u662f\u4e00\u6837\u7684\uff0c\u5f97\u591a\u953b\u70bc\u554a\u8001\u5144\uff01<<A<<[CHANGED 2017/10/10]",
                       "langUid": 362,
@@ -1570,7 +1570,7 @@
                   {
                     "message": {
                       "": "And you must know how your body works, man.\\. I can explain, just hit me up.",
-                      "en_US": "E você deve saber como seu corpo funciona, cara.\\. Eu posso te explicar, basta me dar um toque.",
+                      "en_US": "E você deve saber como seu corpo funciona, maninha.\\. Eu posso te explicar, basta me dar um toque.",
                       "de_DE": "Und du musst wissen, wie er funktioniert.\\. Und ich wei\u00df, wie er funktioniert. Hau mich einfach drauf an, Mann.",
                       "zh_CN": "\u4e86\u89e3\u8eab\u4f53\u7684\u6bcf\u4e00\u90e8\u5206\u4e5f\u662f\u5f88\u91cd\u8981\u7684\u3002\\.\u6709\u95ee\u9898\u95ee\u6211\u5c31\u884c\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 364,
@@ -1590,7 +1590,7 @@
                   {
                     "message": {
                       "": "Bro, what do you need to know?",
-                      "en_US": "Eai mano, o que você precisa saber?",
+                      "en_US": "Eai maninha, o que você precisa saber?",
                       "de_DE": "Jung, was willst du wissen?",
                       "zh_CN": "\u8001\u5144\uff0c\u6709\u4ec0\u4e48\u60f3\u95ee\u7684\uff1f<<A<<[CHANGED 2017/10/10]",
                       "langUid": 363,
@@ -1619,7 +1619,7 @@
                   {
                     "message": {
                       "": "[nods stats question]",
-                      "en_US": "[acena para estatisticas]",
+                      "en_US": "[acena para atributos]",
                       "de_DE": "[nickt Statuswerte-Frage]",
                       "zh_CN": "[\u70b9\u5934\uff0c\u5c5e\u6027\u95ee\u9898]<<A<<[CHANGED 2017/10/10]",
                       "langUid": 343,
@@ -1634,7 +1634,7 @@
                   {
                     "message": {
                       "": "Bro, there's 4 basic stats in CrossWorlds:\n\\c[3]HP, Attack, Defense, Focus\\c[0].",
-                      "en_US": "Cara, tem 4 atributos básicos em CrossWorlds:\n\\c[3]PV, Ataque, Defesa, Foco\\c[0].",
+                      "en_US": "Cara, tem 4 atributos básicos em CrossWorlds:\n\\c[3]PV, Ataque, Defesa e Foco\\c[0].",
                       "de_DE": "Also, es gibt vier Basiswerte in CrossWorlds:\n\\c[3]HP\\c[0], \\c[3]Angriff\\c[0], \\c[3]Verteidigung\\c[0] und \\c[3]Fokus\\c[0].",
                       "zh_CN": "\u8fdc\u661f\u4e16\u754c\u4e2d\u6709\u56db\u79cd\u57fa\u7840\u5c5e\u6027\uff1a\\c[3]\u751f\u547d\u503c\u3001\u653b\u51fb\u3001\u9632\u5fa1\u548c\u4e13\u6ce8\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 372,
@@ -1706,7 +1706,7 @@
                   {
                     "message": {
                       "": "But bro, remember there's more factors that change the damage, like modifiers you get from your gear.",
-                      "en_US": "Mas cara, existem mais fatores que mudam o dano, como modificadores que você obtém de seu equipamento.",
+                      "en_US": "Além disso cara, há outros fatores que afetam o dano, como os modificadores que você consegue com o equipamento.",
                       "de_DE": "Aber Jung, es gibt so viel mehr Faktoren, die den Schaden beeinflussen. Zum Beispiel die Modifikatoren in deiner Ausr\u00fcstung.",
                       "zh_CN": "\u4f46\u662f\uff0c\u6700\u7ec8\u7684\u4f24\u5bb3\u4f1a\u6839\u636e\u653b\u51fb\u7c7b\u578b\u548c\u7279\u8d28\u7684\u4e0d\u540c\u800c\u6709\u6240\u5dee\u5f02\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 366,
@@ -1760,7 +1760,7 @@
                   {
                     "message": {
                       "": "And \\c[3]Focus\\c[0]... bro... dude... that's doing a lot of things, man.\\. Like \\c[3]how fast\\c[0] you increase those \\c[3]SP\\c[0].",
-                      "en_US": "E o \\c[3]Foco\\c[0]... maninha... cara... isso faz muitas coisas, cara.\\. Como mudar a \\c[3]velocidade\\c[0] que você regenera \\c[3]SP\\c[0].",
+                      "en_US": "E o \\c[3]Foco\\c[0]... maninha... cara... isso faz muitas coisas, cara.\\. Como mudar a \\c[3]velocidade\\c[0] que você regenera o \\c[3]SP\\c[0].",
                       "de_DE": "Und \\c[3]Fokus\\c[0]... Alter, Fokus hat's echt in sich. Der bestimmt zum Beispiel, \\c[3]wie schnell\\c[0] sich deine \\c[3]SP\\c[0] aufladen.",
                       "zh_CN": "\\c[3]\u4e13\u6ce8\\c[0]...\u5443...\u5f71\u54cd\u5f88\u591a\u3002\\.\u6bd4\u65b9\u8bf4\u4f60\\c[3]SP\\c[0]\u7684\\c[3]\u79ef\u6512\u901f\u5ea6\\c[0]\u3002<<A<<[CHANGED 2017/12/12]",
                       "langUid": 352,
@@ -1796,7 +1796,7 @@
                   {
                     "message": {
                       "": "Then there're those sick \\c[3]Status Conditions\\c[0], dude.\\. Again, high Focus makes you do more and take less!",
-                      "en_US": "Depois, tem aquelas \\c[3]Condições de Status\\c[0] insuportáveis, cara.\\. Novamente, muito Foco faz você aplicar mais status e receber menos!",
+                      "en_US": "Depois, tem aquelas \\c[3]Condições de Status\\c[0] insuportáveis, cara.\\. Muito Foco faz você aplicar mais status e receber menos!",
                       "de_DE": "Dann gibt's da noch diese ekelhaften \\c[3]negativen Statuseffekte\\c[0], Jung.\\. Auch hier erh\u00f6ht er die Erfolgsrate auf deiner Seite und senkt die des Gegners!",
                       "zh_CN": "\u4e13\u6ce8\u8fd8\u80fd\u5f71\u54cd\\c[3]\u5c5e\u6027\u72b6\u6001\\c[0]\u3002\\.\u9ad8\u4e13\u6ce8\u80fd\u8ba9\u4f60\u9020\u6210\u66f4\u591a\u5c5e\u6027\u72b6\u6001\uff0c\u540c\u65f6\u53d7\u5c5e\u6027\u72b6\u6001\u5f71\u54cd\u51cf\u5c11\uff01<<A<<[CHANGED 2018/01/14]",
                       "ja_JP": "\u3084\u3063\u304b\u3044\u306a\\c[3]\u72b6\u614b\u7570\u5e38\\c[0]\u3063\u3066\u306e\u3082\u3042\u308b\u3002\n\\.\u96c6\u4e2d\u304c\u9ad8\u3051\u308c\u3070\u3001\u76f8\u624b\u3092\n\u72b6\u614b\u7570\u5e38\u306b\u3057\u3084\u3059\u304f\u306a\u308b\u3057\u3001\n\u81ea\u5206\u306f\u306a\u308a\u306b\u304f\u304f\u306a\u308b\u305e\u3002<<A<<[CHANGED 2018/01/14]",
@@ -2019,7 +2019,7 @@
                   {
                     "label": {
                       "": "Explain stats",
-                      "en_US": "Explicar estatisticas",
+                      "en_US": "Explicar atributos",
                       "de_DE": "Erkl\u00e4re Stats",
                       "zh_CN": "\u89e3\u91ca\u5c5e\u6027<<A<<[CHANGED 2017/10/10]",
                       "langUid": 356,
@@ -2307,7 +2307,7 @@
                   {
                     "message": {
                       "": "You can get more CP by \\c[3]growing your level\\c[0] and from some \\c[3]special artifacts\\c[0] that sometimes get awarded to dutiful \\v[lore.title.seeker]s.",
-                      "en_US": "Você pode obter mais CP \\c[3]aumentando seu level\\c[0] e de alguns \\c[3]artefatos especiais\\c[0] que às vezes são concedidos aos atenciosos \\v[lore.title.seeker]s.",
+                      "en_US": "Você pode obter mais CP \\c[3]aumentando seu nível\\c[0] e através de alguns \\c[3]artefatos especiais\\c[0] que às vezes são concedidos aos \\v[lore.title.seeker]s.",
                       "de_DE": "Du erh\u00e4ltst mehr CP, \\c[3]je h\u00f6her dein Level ist\\c[0] und durch \\c[3]spezielle Artefakte\\c[0], mit denen manchmal pflichtbewusste Seeker belohnt werden.",
                       "zh_CN": "\u6bcf\u5f53\u4f60 \\c[3]\u7b49\u7ea7\u63d0\u5347\\c[0]\u65f6\u90fd\u4f1a\u83b7\u5f97CP\uff0c\u6709\u65f6\u5956\u52b1\u7ed9\\v[lore.title.seeker]\u7684\\c[3]\u7279\u6b8a\u7269\u54c1\\c[0]\u4e5f\u4f1a\u7ed9\u4e88CP\u3002<<A<<[CHANGED 2018/09/19]",
                       "langUid": 404,
@@ -2433,7 +2433,7 @@
                   {
                     "message": {
                       "": "See, as you grow as a \\v[lore.title.seeker] you will wield up to \\c[3]4 elements\\c[0] in addition to Neutral.",
-                      "en_US": "Veja, conforme você evolui como \\v[lore.title.seeker] você ira obter os \\c[3]4 elementos\\c[0] além de Neutro.",
+                      "en_US": "Conforme você evolui como \\v[lore.title.seeker] você ira obter os \\c[3]4 elementos\\c[0] além de Neutro.",
                       "de_DE": "W\u00e4hrend deiner Entwicklung als Seeker beherrschst du neben dem Neutral-Element bis zu \\c[3]4 Elemente\\c[0].",
                       "zh_CN": "\u5f53\u4f60\u7684\\v[lore.title.seeker]\u529b\u91cf\u6210\u957f\u65f6\uff0c\u9664\u4e86\u4e2d\u6027\u4f60\u8fd8\u5c06\u83b7\u5f97\\c[3]4\u79cd\u5143\u7d20\\c[0]\u3002<<A<<[CHANGED 2017/10/13]",
                       "langUid": 410,
@@ -2451,7 +2451,7 @@
                   {
                     "message": {
                       "": "Each of them have their own Circuit that \\c[3]only empowers you with the right Elemental Mode\\c[0].",
-                      "en_US": "Cada um deles tem seu próprio circuito que \\c[3]que tem habilidades exclusivas do Modo Elemental em questão\\c[0].",
+                      "en_US": "Cada um deles tem seu próprio circuito com \\c[3]habilidades exclusivas do Modo Elemental correspondente\\c[0].",
                       "de_DE": "Jedes Element hat seine eigenen Circuits, \\c[3]die nur dann aktiviert werden, wenn du in den entsprechenden Element-Modus wechselst\\c[0].",
                       "zh_CN": "\u6bcf\u79cd\u5143\u7d20\u90fd\u6709\u72ec\u7acb\u7684\u7535\u8def\uff0c\u5143\u7d20\u7535\u8def\u4e0a\u7684\u5c5e\u6027\u5f3a\u5316\\c[3]\u53ea\u5728\u4f60\u5904\u4e8e\u5bf9\u5e94\u7684\u5143\u7d20\u6a21\u5f0f\u60c5\u51b5\u4e0b\\c[0]\u624d\u4f1a\u751f\u6548\u3002<<A<<[CHANGED 2017/10/13]",
                       "langUid": 411,
@@ -2487,7 +2487,7 @@
                   {
                     "message": {
                       "": "Activated Nodes on the Neutral Circuit also empower elemental modes with \\c[3]50% of their values\\c[0].",
-                      "en_US": "Módulos ativados no circuito neutro também capacitam os modos elementais com \\c[3]50% de seus valores\\c[0].",
+                      "en_US": "Ativar módulos no circuito neutro dá um \\c[3]boost de 50%\\c[0] nos modos elementais.",
                       "de_DE": "Aktivierte Neutral-Circuits erh\u00f6hen n\u00e4mlich die Werte der entsprechenden Element-Circuits \\c[3]um 50%\\c[0].",
                       "zh_CN": "\u5728\u4e2d\u6027\u7535\u8def\u4e0a\u6fc0\u6d3b\u7684\u8282\u70b9\u5728\u5143\u7d20\u6a21\u5f0f\u4e0b\u4f1a\u63d0\u4f9b\\c[3]\u5176\u672c\u8eab50%\u7684\u6570\u503c\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 413,
@@ -2562,7 +2562,7 @@
                       {
                         "message": {
                           "": "The \\c[3]Iron Stance\\c[0] modifier lets you \\c[3]ignore the stun and knockback from attacks\\c[0].\\. So you can just keep on fighting!",
-                          "en_US": "O modificador \\c[3]Postura de Ferro\\c[0] permite que você \\c[3]ignore o atordoamento e knockback de ataques \\c[0].\\. Então você pode continuar lutando!",
+                          "en_US": "Com \\c[3]Postura de Ferro\\c[0], você \\c[3]não sente atordoamento nem knockback de ataques\\c[3]. Isso permite que você continue lutando sem problemas!",
                           "de_DE": "Der \\c[3]Felsenfest\\c[0]-Mod \\c[3]ignoriert den L\u00e4hmungs- und R\u00fccksto\u00df-Effekt\\c[0] des Gegners.\\. Du kannst also einfach weiterk\u00e4mpfen!",
                           "zh_CN": "\u7279\u8d28\\c[3]\u4e0d\u52a8\u5982\u5c71\\c[0]\u80fd\u8ba9\u4f60\\c[3]\u514d\u75ab\u6655\u7729\u548c\u51fb\u9000\u72b6\u6001\\c[0]\u3002\\.\u6ca1\u6709\u4ec0\u4e48\u80fd\u6253\u65ad\u4f60\u7684\u653b\u52bf\uff01<<A<<[CHANGED 2017/10/10]",
                           "langUid": 415,
@@ -2580,7 +2580,7 @@
                       {
                         "message": {
                           "": "Though you can only ignore attacks up to a certain \\c[3]limit\\c[0], depending on their \\c[3]damage\\c[0].",
-                          "en_US": "Embora você só possa ignorar os ataques até um certo \\c[3]limite\\c[0], dependendo do \\c[3]dano\\c[0].",
+                          "en_US": "Lembrando que há um \\c[3]limite\\c[0] para ignorar ataques, que depende do \\c[3]dano\\c[0] que você recebe.",
                           "de_DE": "Allerdings werden diese Effekte nur bis zu einer bestimmten \\c[3]Schadensgrenze\\c[0] ignoriert.",
                           "zh_CN": "\u4f46\u662f\u6b64\u6280\u80fd\u8fd8\u662f\u6709\u4e00\u5b9a\\c[3]\u9650\u5236\\c[0]\uff0c\u8ddf\u654c\u4eba\u7684\\c[3]\u4f24\u5bb3\\c[0]\u6709\u5173\u3002<<A<<[CHANGED 2017/10/10]",
                           "langUid": 416,
@@ -2598,7 +2598,7 @@
                       {
                         "message": {
                           "": "The \\c[3]maximum damage\\c[0] you can ignore is the \\c[3]Iron Stance percentage of the Max HP value\\c[0].",
-                          "en_US": "O \\c[3]máximo de dano\\c[0] que você pode ignorar com \\c[3]Postura de Ferro é uma porcentagem do PV Máximo\\c[0].",
+                          "en_US": "O \\c[3]máximo de dano\\c[0] que você pode ignorar com \\c[3]Postura de Ferro é baseado em uma porcentagem do seu PV Máximo\\c[3].",
                           "de_DE": "Der \\c[3]maximale Schaden\\c[0] wird dabei durch den \\c[3]Felsenfest-Prozentsatz deiner Max. HP\\c[0] bestimmt.",
                           "zh_CN": "\u514d\u75ab\u5f71\u54cd\u7684\\c[3]\u6700\u5927\u4f24\u5bb3\\c[0]\u7b49\u4e8e\\c[3]\u6700\u5927HP\u4e58\u4ee5\u4e0d\u52a8\u5982\u5c71\u6280\u80fd\u767e\u5206\u6bd4\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
                           "langUid": 417,
@@ -2706,7 +2706,7 @@
                       {
                         "message": {
                           "": "The Pin Body modifier \\c[3]reflects a certain amount of damage\\c[0] to attackers when \\c[3]blocking\\c[0] their attacks.",
-                          "en_US": "O modificador Escudo Pontudo \\c[3]reflete uma certa quantidade de dano\\c[0] aos atacantes quando \\c[3]defende\\c[0] seus ataques.",
+                          "en_US": "O modificador Escudo Pontudo \\c[3]reflete parte do dano\\c[0] de volta ao seu oponente, se você \\c[3]bloquear\\c[0] o ataque dele.",
                           "de_DE": "Der Dornenhaut-Mod \\c[3]wirft einen Teil des Schadens\\c[0] auf den Gegner zur\u00fcck, wenn du seinen Angriff \\c[3]blockst\\c[0].",
                           "zh_CN": "\u7279\u8d28\u8346\u68d8\u4e4b\u9b44\u80fd\u591f\u5c06\u4e00\u90e8\u5206\\c[3]\u9632\u5fa1\\c[0]\u65f6\u6240\u53d7\u5230\u7684\u4f24\u5bb3\\c[3]\u53cd\u5f39\u7ed9\u653b\u51fb\u8005\\c[0]\u3002<<A<<[CHANGED 2017/10/13]",
                           "langUid": 422,
@@ -2724,7 +2724,7 @@
                       {
                         "message": {
                           "": "The reflected damage depends on how much is \\c[3]absorbed by the shield and your overall defense value\\c[0].",
-                          "en_US": "O dano refletido depende de quanto é \\c[3]absorvido pelo escudo e do seu valor de defesa total\\c[0].",
+                          "en_US": "O dano refletido depende do dano \\c[3]absorvido pelo seu escudo e do seu valor de defesa\\c[0].",
                           "de_DE": "Der reflektierte Schaden h\u00e4ngt dabei vom \\c[3]absorbierten Schaden deines Schildes und deinem Verteidigungswert ab\\c[0].",
                           "zh_CN": "\u53cd\u5f39\u4f24\u5bb3\u91cf\u53d6\u51b3\u4e8e\\c[3]\u62a4\u76fe\u7684\u5438\u6536\u91cf\u4ee5\u53ca\u6574\u4f53\u9632\u5fa1\u503c\\c[0]\u3002<<A<<[CHANGED 2017/10/13]",
                           "langUid": 423,
@@ -2742,7 +2742,7 @@
                       {
                         "message": {
                           "": "While the attacker's defense reduces the damage as usual, the \\c[3]defense of the defender further increases it\\c[0].",
-                          "en_US": "Enquanto a defesa do atacante reduz o dano como de costume, a \\c[3]do defensor aumenta ainda mais\\c[0].",
+                          "en_US": "Enquanto a defesa do atacante reduz o dano refletido, a do \\c[3]defensor o aumenta ainda mais\\c[0].",
                           "de_DE": "Die Verteidigung des Gegners reduziert den reflektierten Schaden zwar, doch \\c[3]dein Verteidigungswert erh\u00f6ht den Schaden zus\u00e4tzlich\\c[0].",
                           "zh_CN": "\u867d\u7136\u653b\u51fb\u8005\u7684\u9632\u5fa1\u503c\u4f1a\u964d\u4f4e\u53cd\u5f39\u4f24\u5bb3\u91cf\uff0c\u4f46\u662f\\c[3]\u73a9\u5bb6\u7684\u9632\u5fa1\u503c\u4e5f\u4f1a\u4ee4\u5176\u63d0\u5347\\c[0]\u3002<<A<<[CHANGED 2018/01/06]",
                           "langUid": 424,
@@ -2760,7 +2760,7 @@
                       {
                         "message": {
                           "": "Thus it is a very useful ability for defensive fighters.\\. Just tank your enemies to death, mate!",
-                          "en_US": "Portanto, é uma habilidade muito útil para lutadores defensivos\\. Apenas resista ao seus inimigos até a morte, companheira!",
+                          "en_US": "Portanto, é uma habilidade ótima para quem é mais defensivo.\\. Resista bravamente aos seus inimigos, companheira!",
                           "de_DE": "Also ein \u00e4u\u00dferst praktischer Mod f\u00fcr Defensivk\u00e4mpfer.\\. Tanke deine Feinde einfach zu Tode, Kumpel!",
                           "zh_CN": "\u8fd9\u662f\u4e00\u4e2a\u5bf9\u504f\u5411\u9632\u5b88\u98ce\u683c\u6218\u58eb\u975e\u5e38\u6709\u5229\u7684\u6280\u80fd\u3002\\.\u5766\u5230\u5bf9\u9762\u6b7b\u7fd8\u7fd8\uff01<<A<<[CHANGED 2017/10/10]",
                           "langUid": 425,
@@ -2814,7 +2814,7 @@
                       {
                         "message": {
                           "": "The Assault modifier adds \\c[3]additional shockwaves\\c[0] to your melee attacks.",
-                          "en_US": "O modificador Investida adiciona \\c[3]ondas de choque\\c[0] para seus ataques corpo a corpo.",
+                          "en_US": "O modificador Investida adiciona \\c[3]ondas de choque\\c[0] extras aos seus ataques de combate corpo a corpo.",
                           "de_DE": "Der Ansturm-Mod verleiht deinen Nahkampfangriffen \\c[3]zus\u00e4tzlich Schockwellen\\c[0].",
                           "zh_CN": "\u7279\u8d28\u5f3a\u88ad\u4f1a\u4e3a\u4f60\u7684\u8fd1\u6218\u653b\u51fb\\c[3]\u589e\u52a0\u6570\u9053\u9707\u8361\u6ce2\\c[0]\u3002<<A<<[CHANGED 2017/10/13]",
                           "langUid": 437,
@@ -2832,7 +2832,7 @@
                       {
                         "message": {
                           "": "The total strength of all shockwaves is the modifier percentage of the normal strength.",
-                          "en_US": "O dano de todas as ondas de choque é baseado na porcentagem do ataque normal.",
+                          "en_US": "O dano das ondas de choque é uma porcentagem modificada do seu ataque normal.",
                           "de_DE": "Die Gesamtst\u00e4rke aller Schockwellen ist der Mod-Prozentsatz deiner normalen Angriffsst\u00e4rke.",
                           "zh_CN": "\u9707\u8361\u6ce2\u7684\u603b\u4f24\u5bb3\u7b49\u4e8e\u653b\u51fb\u529b\u4e58\u4ee5\u5f3a\u88ad\u6280\u80fd\u767e\u5206\u6bd4\u3002<<A<<[CHANGED 2017/10/10]",
                           "langUid": 438,
@@ -2994,7 +2994,7 @@
                       {
                         "message": {
                           "": "This explicitly affects enemies that have been \\c[3]broken in some way\\c[0].\\. Breaking works differently for every foe.",
-                          "en_US": "Isso afeta evidentemente os inimigos que foram \\c[3]atordoados de alguma forma\\c[0].\\. o atordoamento funciona de maneira diferente para cada inimigo.",
+                          "en_US": "Isso afeta os inimigos que foram \\c[3]atordoados de alguma forma\\c[0].\\. o atordoamento funciona de maneira diferente para cada inimigo.",
                           "de_DE": "Konkret betrifft das Gegner, die in irgendeiner Weise \\c[3]gebrochen\\c[0] wurden.\\. Brechen funktioniert bei jedem Gegner n\u00e4mlich unterschiedlich.",
                           "zh_CN": "\u8fd9\u53ea\u5bf9\u88ab\u5f31\u5316\u7684\u654c\u4eba\u751f\u6548\u3002\\.\u5f31\u5316\u6bcf\u4e2a\u654c\u4eba\u7684\u65b9\u5f0f\\c[3]\u90fd\u6709\u4e0d\u540c\\c[0]\u3002<<A<<[CHANGED 2017/10/13]",
                           "langUid": 445,
@@ -3084,7 +3084,7 @@
                       {
                         "message": {
                           "": "The modifier \\c[3]can stack for every dash you do\\c[0], so \\c[3]dashing 3 times with a 10% modifier increases your damage by 30%\\c[0]!",
-                          "en_US": "O modificador \\c[3]pode acumular para cada esquiva que você fizer\\c[0], então \\c[3]esquivando 3 vezes com o modificador em 10% aumenta seu dano em 30%\\c[0]!",
+                          "en_US": "O modificador \\c[3]pode acumular para cada esquiva que você fizer\\c[0], então \\c[3]esquivar 3 vezes com o modificador em 10% aumenta seu dano em 30%\\c[0]!",
                           "de_DE": "Der Mod \\c[3]akkumuliert sich mit jedem Dash\\c[0], daher w\u00fcrde \\c[3]3-faches Dashen mit einem Mod von 10% den Schaden um 30% erh\u00f6hen\\c[0]!",
                           "zh_CN": "\u8fd9\u4e2a\u7279\u8d28\u53ef\u4ee5\\c[3]\u5728\u6bcf\u6b21\u51b2\u523a\u540e\u53e0\u52a0\\c[0]\uff0c\u6240\u4ee5\\c[3]\u670910%\u7684\u65f6\u5019\u51b2\u523a3\u6b21\u5c31\u662f30%\u7684\u4f24\u5bb3\u52a0\u6210\\c[0]!<<A<<[CHANGED 2019/04/16]",
                           "ja_JP": "\u3053\u306e\u7279\u6b8a\u52b9\u679c\u306f\\c[3]\u30c0\u30c3\u30b7\u30e5\u3059\u308b\n\u3054\u3068\u306b\u4e0a\u4e57\u305b\\c[0]\u3055\u308c\u308b\u3002\u3060\u304b\u3089\\c[3]10\uff05\u306e\n\u88dc\u6b63\u3092\u3064\u3051\u30663\u56de\u30c0\u30c3\u30b7\u30e5\u3059\u308c\u3070\u3001\n\u30c0\u30e1\u30fc\u30b8\u306f30%\u3082\u5897\u52a0\u3059\u308b\\c[0]\u3093\u3060\uff01<<A<<[CHANGED 2019/04/16]",
@@ -3102,7 +3102,7 @@
                       {
                         "message": {
                           "": "The bonus will affect \\c[3]one action\\c[0], no matter if it's a normal attack or an entire combat art, as long as it's executed \\c[3]quickly after dashing\\c[0].",
-                          "en_US": "O bônus afetará apenas \\c[3]uma ação\\c[0], não importa se é um ataque normal ou uma habilidade de combate inteira, contanto que seja executado \\c[3]rapidamente depois de esquivar\\c[0].",
+                          "en_US": "O bônus se aplica a \\c[3]qualquer ação\\c[0], seja um ataque normal ou uma habilidade de combate completa, desde que seja executada imediatamente \\c[3]após uma esquiva\\c[0].",
                           "de_DE": "Der Bonus wirkt f\u00fcr \\c[3]genau eine Aktion\\c[0], egal ob normaler Angriff oder Kampfkunst, sofern diese \\c[3]direkt nach dem Dash\\c[0] ausgef\u00fchrt wird.",
                           "zh_CN": "\u6b64\u52a0\u6210\u53ea\u5f71\u54cd\\c[3]\u4e00\u6b21\u884c\u52a8\\c[0]\uff0c\u53ef\u4ee5\u662f\u4e00\u6b21\u666e\u901a\u653b\u51fb\u4e5f\u53ef\u4ee5\u662f\u4e00\u6574\u5957\u6218\u6280\uff0c\u53ea\u8981\u5728\\c[3]\u51b2\u523a\u540e\u9a6c\u4e0a\u91ca\u653e\\c[0]\u5c31\u7b97\uff01<<A<<[CHANGED 2019/04/16]",
                           "ja_JP": "\u3053\u306e\u30dc\u30fc\u30ca\u30b9\u306f\\c[3]1\u56de\u306e\u30a2\u30af\u30b7\u30e7\u30f3\\c[0]\u306b\u4ed8\u52a0\n\u3055\u308c\u308b\u3002\u901a\u5e38\u653b\u6483\u3060\u308d\u3046\u3068\u30b3\u30f3\u30d0\u30c3\u30c8\u30a2\u30fc\u30c4\n\u5168\u4f53\u3060\u308d\u3046\u3068\u3001\\c[3]\u30c0\u30c3\u30b7\u30e5\u306e\u76f4\u5f8c\\c[0]\u306b\n\u7e70\u308a\u51fa\u3057\u3055\u3048\u3059\u308c\u3070\u5f37\u5316\u3055\u308c\u308b\u305e\u3002<<A<<[CHANGED 2019/04/16]",
@@ -3510,7 +3510,7 @@
                   {
                     "message": {
                       "": "Oh, it is a \\v[lore.title.seeker].\\. Oh well, you might be worthy of my knowledge.",
-                      "en_US": "Ah, é um \\v[lore.title.seeker].\\. Bem, você pode ser digna de meu conhecimento.",
+                      "en_US": "Ah, é uma \\v[lore.title.seeker].\\. Bem, talvez você seja digna do meu conhecimento.",
                       "de_DE": "Oh, ein Seeker.\\. Na ja, vielleicht bist du meines Wissens ja w\u00fcrdig.",
                       "zh_CN": "\u54e6\uff0c\u662f\u4e00\u4f4d\\v[lore.title.seeker]\u554a\u3002\\.\u597d\u5427\uff0c\u4f60\u8fd8\u7b97\u914d\u5f97\u4e0a\u6211\u7684\u77e5\u8bc6\u3002<<A<<[CHANGED 2017/10/13]",
                       "langUid": 452,
@@ -3528,7 +3528,7 @@
                   {
                     "message": {
                       "": "You must know, I am the greatest expert of Elemental Science in all of Southern Rookie Harbor!",
-                      "en_US": "Você deve saber, eu sou a maior especialista em Ciência Elemental em todo o Sul do Porto do Novato",
+                      "en_US": "Só para você saber, eu sou a principal especialista em Ciência Elemental no Porto do Novato.",
                       "de_DE": "Du musst wissen, dass ich die f\u00fchrende Expertin auf dem Gebiet der Vier-Elemente-Lehre von ganz Rookie Harbor S\u00fcd bin!",
                       "zh_CN": "\u8981\u77e5\u9053\uff0c\u6211\u53ef\u662f\u6574\u4e2a\u65b0\u624b\u6e2f\u5357\u90e8\u6700\u5389\u5bb3\u7684\u5143\u7d20\u79d1\u5b66\u4e13\u5bb6\uff01<<A<<[CHANGED 2018/09/19]",
                       "langUid": 453,
@@ -3546,7 +3546,7 @@
                   {
                     "message": {
                       "": "So give me all your banal questions and let me enlighten you!",
-                      "en_US": "Então faça todas as suas perguntas banais e deixe-me esclarecê-la!",
+                      "en_US": "Sinta-se à vontade para perguntar o que quiser, e eu vou esclarecer tudo para você!",
                       "de_DE": "Stell mir also all deine banalen Fragen und lass mich dich erleuchten!",
                       "zh_CN": "\u63d0\u51fa\u4f60\u7684\u95ee\u9898\uff0c\u8ba9\u6211\u6765\u7ed9\u4f60\u89e3\u7b54\u5427\uff01<<A<<[CHANGED 2017/10/10]",
                       "langUid": 454,
@@ -3628,7 +3628,7 @@
                   {
                     "message": {
                       "": "By drawing upon the power of the Track, \\v[lore.title.seeker]s can extend their basic abilities with one of \\c[3]4 elements\\c[0].",
-                      "en_US": "Aproveitando o poder da Trilha, \\v[lore.title.seeker]s podem aprimorar suas habilidades básicas com um dos \\c[3]4 elementos\\c[0].",
+                      "en_US": "Com o poder da Trilha, os \\v[lore.title.seeker]s conseguem melhorar suas habilidades básicas usando um dos \\c[3]4 elementos\\c[0].",
                       "de_DE": "Indem Seeker aus der Kraft des Pfades sch\u00f6pfen, k\u00f6nnen sie ihre Grundf\u00e4higkeiten um eines der \\c[3]4 Elemente\\c[0] erweitern.",
                       "zh_CN": "\u901a\u8fc7\u6c72\u53d6\u5148\u7956\u4e4b\u8def\u7684\u529b\u91cf\uff0c\\v[lore.title.seeker]\u53ef\u4ee5\u5c06\u4ed6\u4eec\u7684\u57fa\u7840\u80fd\u529b\u878d\u5408\u5230\\c[3]\u56db\u79cd\u5143\u7d20\\c[0]\u5f53\u4e2d\u3002<<A<<[CHANGED 2018/01/06]",
                       "langUid": 458,
@@ -3646,7 +3646,7 @@
                   {
                     "message": {
                       "": "To actually do that, though, you will need to \\c[3]earn\\c[0] each Element in the \\c[3]Temples of the Track\\c[0].\\. Prove yourself worthy, so to speak.",
-                      "en_US": "Porém, atualmente para fazer isso, você precisará \\c[3]adquirir\\c[0] cada elemento nos \\c[3]Templos da Trilha\\c[0].\\. Prove-se digna deles, digamos assim.",
+                      "en_US": "Para isso, você vai ter que \\c[3]adquirir\\c[0] cada elemento nos \\c[3]Templos da Trilha\\c[0].",
                       "de_DE": "Das hei\u00dft, dass du dir jedes einzelne Element in einem der \\c[3]Tempel des Pfades\\c[0] erst \\c[3]verdienen\\c[0] musst.\\. Dich ihrer w\u00fcrdig erweisen, sozusagen.",
                       "zh_CN": "\u8981\u4f7f\u7528\u5143\u7d20\u80fd\u529b\uff0c\u9996\u5148\u4f60\u5f97\u901a\u8fc7\u5bf9\u5e94\u5143\u7d20\u7684\\c[3]\u795e\u5e99\u6311\u6218\\c[0]\u3002\\.\u4e5f\u5c31\u662f\u8bf4\uff0c\u8981\u5148\u8bc1\u660e\u4f60\u7684\u80fd\u529b\u3002<<A<<[CHANGED 2017/12/12]",
                       "langUid": 459,
@@ -3664,7 +3664,7 @@
                   {
                     "message": {
                       "": "Aside from being \\c[3]superior in raw power\\c[0] compared to Neutral, they can also deal \\c[3]additional damage\\c[0] to the right enemies.",
-                      "en_US": "Além de ser \\c[3]superior em poder bruto\\c[0] em comparação com o Neutro, eles também podem causar \\c[3]danos adicionais\\c[0] para os inimigos certos.",
+                      "en_US": "Esses elementos são \\c[3]mais fortes\\c[0] do que o elemento Neutro e também podem causam \\c[3]dano extra\\c[3] a inimigos específicos.",
                       "de_DE": "Abgesehen davon, dass sie an sich schon \\c[3]st\u00e4rker als das Neutral-Element sind\\c[0], k\u00f6nnen sie bestimmten Gegnern \\c[3]noch zus\u00e4tzlichen Schaden\\c[0] zuf\u00fcgen.",
                       "zh_CN": "\u5143\u7d20\u529b\u91cf\\c[3]\u4e0d\u4ec5\u6bd4\u4e2d\u6027\u66f4\u5f3a\\c[0]\uff0c\u8fd8\u80fd\u5bf9\u7279\u5b9a\u5c5e\u6027\u7684\u654c\u4eba\u9020\u6210\\c[3]\u989d\u5916\u4f24\u5bb3\\c[0]\u3002<<A<<[CHANGED 2018/09/19]",
                       "langUid": 460,
@@ -3682,7 +3682,7 @@
                   {
                     "message": {
                       "": "However, there's also the possibility of enemies being \\c[3]resistant\\c[0] to one Element or another, so don't turn your brain off!",
-                      "en_US": "No entanto, também existe a possibilidade de os inimigos serem \\c[3]resistentes\\c[0] a um elemento ou outro, então não desligue seu cérebro!",
+                      "en_US": "Mas cuidado, alguns inimigos podem ser \\c[3]resistentes\\c[0] a certos elementos, então não se distraia!",
                       "de_DE": "Andererseits gibt es Gegner, die \\c[3]resistent\\c[0] gegen\u00fcber dem einen oder anderen Element sind. St\u00fcrz dich also nicht kopflos ins Get\u00fcmmel!",
                       "zh_CN": "\u4f46\u662f\uff0c\u4e5f\u6709\u4e9b\u654c\u4eba\u5bf9\u7279\u5b9a\u5143\u7d20\u62e5\u6709\\c[3]\u6297\u6027\\c[0]\uff0c\u6240\u4ee5\u6253\u67b6\u65f6\u8981\u7528\u8111\u5b50\uff01<<A<<[CHANGED 2018/09/19]",
                       "langUid": 461,
@@ -3718,7 +3718,7 @@
                   {
                     "message": {
                       "": "Also you should know that Elemental Modes incur a \\c[3]natural resistance penalty of -50%\\c[0] to their \\c[3]counterpart\\c[0].",
-                      "en_US": "Além disso, você deve saber que os Modos Elementais incluem \\c[3]penalidade de resistência natural de -50%\\c[0] ao seu \\c[3]oposto\\c[0].",
+                      "en_US": "Outra coisa importante é que os Modos Elementais têm uma \\c[3]penalidade de resistência natural de -50%\\c[0] em relação ao elemneto \\c[3]oposto\\c[0].",
                       "de_DE": "Au\u00dferdem solltest du wissen, dass die Element-Modi einen \\c[3]nat\u00fcrlichen Schadensnachteil von -50%\\c[0] gegen\u00fcber ihrem \\c[3]Konterpart\\c[0] haben.",
                       "zh_CN": "\u8fd8\u6709\u4e00\u70b9\uff0c\u5143\u7d20\u6a21\u5f0f\u4f1a\u9020\u6210\\c[3]\u76f8\u514b\u5143\u7d20\u6297\u602750%\\c[0]\u7684\\c[3]\u51cf\u503c\\c[0]\u3002<<A<<[CHANGED 2018/09/19]",
                       "langUid": 522,
@@ -3791,7 +3791,7 @@
                   {
                     "message": {
                       "": "When using an element mode other than Neutral, your \\c[3]element load\\c[0] will increase.",
-                      "en_US": "Ao usar um modo de elemental diferente de Neutro, sua \\c[3]carga de elemento\\c[0] aumentará.",
+                      "en_US": "Ao usar um elemento diferente do Neutro, sua \\c[3]carga de elemento\\c[0] aumentará.",
                       "de_DE": "Wenn du in einem der 4 Element-Modi k\u00e4mpfst, erh\u00f6ht sich dadurch deine \\c[3]Elementladung\\c[0].",
                       "zh_CN": "\u5f53\u4f7f\u7528\u4e2d\u6027\u4ee5\u5916\u7684\u5143\u7d20\u6a21\u5f0f\u65f6\uff0c\u4f60\u7684\\c[3]\u5143\u7d20\u8d1f\u8377\\c[0]\u4f1a\u968f\u4e4b\u589e\u52a0\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 464,
@@ -3809,7 +3809,7 @@
                   {
                     "message": {
                       "": "This happens when you do any action during \\c[3]any\\c[0] element mode: throwing a ball, doing a slash, etc.",
-                      "en_US": "Isso acontece quando você faz qualquer ação durante \\c[3]qualquer\\c[0] modo elemental: jogar esferas, golpear, etc.",
+                      "en_US": "Isso se aplica a qualquer ação feita em \\c[3]qualquer\\c[0] modo elemental, como lançar esferas, atacar, e por aí vai.",
                       "de_DE": "Wenn du also zuschl\u00e4gst, einen Ball wirfst oder dergleichen, erh\u00f6ht sich die Elementladung in \\c[3]jedem\\c[0] Element-Modus ein St\u00fcck.",
                       "zh_CN": "\u8fd9\u4e3b\u8981\u53d1\u751f\u5728\\c[3]\u4efb\u610f\\c[0]\u5143\u7d20\u6a21\u5f0f\u671f\u95f4\u4e2d\u6240\u8fdb\u884c\u7684\u884c\u52a8\uff1a\u5982\u63b7\u7403\u3001\u6325\u780d\u7b49\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 465,
@@ -3845,7 +3845,7 @@
                   {
                     "message": {
                       "": "Just pay attention to your \\c[3]elemental display in the upper left corner\\c[0], if you want to know your Overload.",
-                      "en_US": "Apenas preste atenção ao seu \\c[3]visor elemental no canto superior esquerdo\\c[0], se você quiser saber sobre sua Sobrecarga.",
+                      "en_US": "Fique atenta ao \\c[3]visor elemental no canto superior esquerdo\\c[0] para checar a sua Sobrecarga.",
                       "de_DE": "Wenn du wissen willst, wie hoch der Ladezustand gerade ist, brauchst du nur auf die \\c[3]Elementanzeige oben links\\c[0] zu schauen.",
                       "zh_CN": "\u5982\u679c\u60f3\u8981\u77e5\u9053\u5143\u7d20\u8d1f\u8377\u7684\u5f53\u524d\u7b49\u7ea7\uff0c\u8bf7\u5728\u4f7f\u7528\u67d0\u79cd\u5143\u7d20\u6a21\u5f0f\u671f\u95f4\uff0c\u7559\u610f\u5de6\u4e0a\u89d2\u7684\u5143\u7d20\u56fe\u6807\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 467,
@@ -3863,7 +3863,7 @@
                   {
                     "message": {
                       "": "The icon will fill up in a \\c[3]yellow\\c[0] color.\\. Once it's filled, an \\c[3]Elemental Overload \\c[0]will happen and force you into Neutral.",
-                      "en_US": "O icone irá preencher com uma cor \\c[3]amarela\\c[0].\\. Uma vez preenchido, uma \\c[3]Sobrecarga Elemental \\c[0]acontecerá e forçará você a trocar para o neutro.",
+                      "en_US": "O visor será preenchido aos poucos com uma cor \\c[3]amarela\\c[0].\\. Assim que estiver completo, uma \\c[3]Sobrecarga Elemental\\c[0] vai ocorrer e você terá que mudar para o neutro.",
                       "de_DE": "Dort f\u00fcllt sich das Icon mit \\c[3]gelber\\c[0] Farbe. Wenn er voll ist, hast du eine \\c[3]Element\u00fcberladung\\c[0] provoziert, die dich zur\u00fcck in den Neutral-Modus zwingt.",
                       "zh_CN": "\u8fd9\u4e2a\u56fe\u6807\u4f1a\u586b\u5145\\c[3]\u9ec4\u8272\\c[0]\u3002\u4e00\u65e6\u586b\u6ee1\uff0c\u5c31\u4f1a\u89e6\u53d1\\c[3]\u5143\u7d20\u8fc7\u8f7d\\c[0]\uff0c\u5e76\u5f3a\u5236\u4f7f\u4f60\u9000\u56de\u4e2d\u6027\u6a21\u5f0f\u3002<<A<<[CHANGED 2017/10/10]",
                       "langUid": 468,
@@ -3899,7 +3899,7 @@
                   {
                     "message": {
                       "": "\\c[3]Using Neutral\\c[0], especially when attacking enemies, will cool down the Overload much more quickly.",
-                      "en_US": "\\c[3]Usando o modo Neutro\\c[0], especialmente atancando inimigos, diminuirá a sobrecarga muito mais rapidamente.",
+                      "en_US": "Atacar inimigos no \\c[3]modo Neutro\\c[0] faz com que a sobrecarga diminua muito mais rápido.",
                       "de_DE": "Die Elementladung sinkt im \\c[3]Neutral-Modus\\c[0] n\u00e4mlich besonders schnell, vor allem, wenn du weiter angreifst.",
                       "zh_CN": "\u8bb0\u4f4f\uff0c\u5728\\c[3]\u4e2d\u6027\u6a21\u5f0f\\c[0]\u653b\u51fb\u654c\u4eba\u80fd\u591f\u5feb\u901f\u7684\u51cf\u5c11\u5143\u7d20\u8d1f\u8377\u3002<<A<<[CHANGED 2018/09/19]",
                       "langUid": 470,
@@ -3953,7 +3953,7 @@
                   {
                     "message": {
                       "": "Ah, status conditions.\\. An immensely fascinating topic.\\. Some see it as the truly cultured way of fighting.",
-                      "en_US": "Ah, condições de status.\\. Um tema extremamente fascinante.\\. Alguns vêem isso como uma forma verdadeiramente culta de lutar.",
+                      "en_US": "Ah, condições de status.\\. Um tema realmente intrigante.\\. Muitos acreditam que é uma forma muito sofisticada de combate.",
                       "de_DE": "Ah, die Statuseffekte.\\. Ein ungemein faszinierendes Thema.\\. F\u00fcr manche die wirklich kultivierte Art zu k\u00e4mpfen.",
                       "zh_CN": "\u554a\uff0c\u5143\u7d20\u72b6\u6001\u3002\\.\u8fd9\u4e2a\u8bdd\u9898\u597d\u3002\\.\u6709\u4eba\u5c06\u5176\u770b\u4f5c\u6709\u98ce\u5ea6\u7684\u6218\u6597\u65b9\u6cd5\u3002<<A<<[CHANGED 2017/10/13]",
                       "langUid": 472,
@@ -3971,7 +3971,7 @@
                   {
                     "message": {
                       "": "In any case, each Element has an associated Condition that will weaken the victim in some way.",
-                      "en_US": "Em qualquer caso, cada Elemento tem uma Condição associada que enfraquecerá a vitima de alguma forma.",
+                      "en_US": "Cada Elemento tem uma Condição associada que enfraquece a vítima de alguma forma.",
                       "de_DE": "Aber ich schweife ab! Jedes Element hat einen zugeh\u00f6rigen Statuseffekt, der das Opfer in irgendeiner Weise schw\u00e4cht.",
                       "zh_CN": "\u6bcf\u79cd\u5143\u7d20\u90fd\u5bf9\u5e94\u7740\u4e00\u79cd\u5143\u7d20\u72b6\u6001\uff0c\u53ef\u4ee5\u7528\u5176\u6765\u524a\u5f31\u654c\u4eba\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u3068\u306b\u304b\u304f\u3001\u5404\u30a8\u30ec\u30e1\u30f3\u30c8\u306b\u306f\u7279\u5b9a\u306e\u30d0\u30c3\u30c9\u30b9\u30c6\u30fc\u30bf\u30b9\u304c\u3042\u3063\u3066\u3001\u6575\u3092\u5f31\u4f53\u5316\u3055\u305b\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u306e\u3002<<A<<[CHANGED 2019/04/16]",
@@ -3989,7 +3989,7 @@
                   {
                     "message": {
                       "": "\\c[3]Heat\\c[0] can cause \\c[3]Burn\\c[0], which causes \\c[3]damage over time\\c[0], depending on \\c[3]the victim's MaxHP\\c[0].",
-                      "en_US": "\\c[3]Fogo\\c[0] pode \\c[3]Incendiar\\c[0] inimigos, que causa \\c[3]dano ao longo do tempo\\c[0], dependendo \\c[3]do PV Máximo da vitima\\c[0].",
+                      "en_US": "\\c[3]Fogo\\c[0] pode \\c[3]Incendiar\\c[0] inimigos, causando \\c[3]dano ao longo do tempo\\c[0], dependendo \\c[3]do PV Máximo da vítima\\c[0].",
                       "de_DE": "\\c[3]Hitze\\c[0] kann \\c[3]Brand\\c[0] verursachen, ein \\c[3]kontinuierlicher HP-Verlust\\c[0], abh\u00e4ngig von den \\c[3]MaxHP des Opfers\\c[0].",
                       "zh_CN": "\\c[3]\u706b\\c[0]\u80fd\u9020\u6210\\c[3]\u707c\u70e7\\c[0]\u72b6\u6001\uff0c\u6548\u679c\u662f\\c[3]\u6301\u7eed\u4f24\u5bb3\\c[0]\uff0c\u4f24\u5bb3\u91cf\u53d6\u51b3\u4e8e\u654c\u4eba\\c[3]\u6700\u5927HP\\c[0]\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\\c[3]\u706b\u708e\u30e2\u30fc\u30c9\\c[0]\u306f\\c[3]\u708e\u4e0a\\c[0]\u72b6\u614b\u3092\u5f15\u304d\u8d77\u3053\u3057\u3066\u3001\n\\c[3]\u30bf\u30fc\u30b2\u30c3\u30c8\u306e\u6700\u5927HP\\c[0]\u306b\u5fdc\u3058\u3066\n\\c[3]\u6642\u9593\u7d4c\u904e\u3067\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\\c[0]\u306e\u3002<<A<<[CHANGED 2019/04/16]",
@@ -4007,7 +4007,7 @@
                   {
                     "message": {
                       "": "\\c[3]Cold\\c[0] can cause \\c[3]Chill\\c[0], \\c[3]slowing\\c[0] down the victim's movement and attacks.",
-                      "en_US": "\\c[3]Gelo\\c[0] pode \\c[3]Congelar\\c[0] o inimigo, \\c[3]desacelerando\\c[0] os movimentos e ataques da vitima",
+                      "en_US": "\\c[3]Gelo\\c[0] pode \\c[3]Congelar\\c[0] o inimigo, \\c[3]desacelerando\\c[0] os movimentos e ataques da vítima.",
                       "de_DE": "\\c[3]K\u00e4lte\\c[0] kann \\c[3]Frost\\c[0] verursachen, was die Beweglichkeit und die Angriffe des Gegners \\c[3]verlangsamt\\c[0].",
                       "zh_CN": "\\c[3]\u51b0\\c[0]\u80fd\u9020\u6210\\c[3]\u5bd2\u51b7\\c[0]\u72b6\u6001\uff0c\u4f7f\u654c\u4eba\u653b\u51fb\u901f\u5ea6\u548c\u79fb\u52a8\u901f\u5ea6\\c[3]\u4e0b\u964d\\c[0]\u3002<<A<<[CHANGED 2017/12/12]",
                       "langUid": 475,
@@ -4025,7 +4025,7 @@
                   {
                     "message": {
                       "": "\\c[3]Shock\\c[0] can cause \\c[3]Jolt\\c[0], which does some \\c[3]damage over time\\c[0] while also \\c[3]interrupting and stunning\\c[0] the enemy periodically.",
-                      "en_US": "\\c[3]Choque\\c[0] pode \\c[3]Eletrificar\\c[0] um inimigo, que causa \\c[3]dano ao longo do tempo\\c[0] enquanto também \\c[3]interrompe e atordoa\\c[0] o inimigo periodicamente.",
+                      "en_US": "\\c[3]Choque\\c[0] pode \\c[3]Eletrificar\\c[0] um inimigo, provocando \\c[3]dano contínuo\\c[0] enquanto \\c[3]paralisa e atordoa\\c[0] o inimigo periodicamente.",
                       "de_DE": "\\c[3]Schock\\c[0] kann \\c[3]Zittern\\c[0] verursachen, was zu \\c[3]zeitweisem HP-Verlust und L\u00e4hmung\\c[0] f\u00fchrt.",
                       "zh_CN": "\\c[3]\u7535\\c[0]\u80fd\u9020\u6210\\c[3]\u89e6\u7535\\c[0]\u72b6\u6001\uff0c\u9020\u6210\\c[3]\u6301\u7eed\u4f24\u5bb3\\c[0]\u5e76\u4e14\u77ed\u6682\u7684\\c[3]\u6253\u65ad\u548c\u7729\u6655\\c[0]\u654c\u4eba\u3002<<A<<[CHANGED 2018/09/19]",
                       "langUid": 476,
@@ -4043,7 +4043,7 @@
                   {
                     "message": {
                       "": "Keep in mind that \\c[3]Jolt damage\\c[0] depends on \\c[3]the victim's own attack power\\c[0], basically as if they were performing the attack on themself.",
-                      "en_US": "Tenha em mente que \\c[3]dano por eletricidade\\c[0] depende do \\c[3] poder de ataque da própria vitima\\c[0], basicamente como se estivessem realizando o ataque a si mesmos.",
+                      "en_US": "Tenha em mente que \\c[3]dano por eletricidade\\c[0] depende do \\c[3]poder de ataque da própria vítima\\c[0], basicamente como se estivessem realizando o ataque a si mesmos.",
                       "de_DE": "Der \\c[3]Schaden von Zittern\\c[0] ist dabei von \\c[3]der Angriffsst\u00e4rke des Opfers\\c[0] abh\u00e4ngig. Als ob es sich sozusagen selbst schlagen w\u00fcrde.",
                       "zh_CN": "\u6ce8\u610f\\c[3]\u89e6\u7535\u4f24\u5bb3\\c[0]\u53d6\u51b3\u4e8e\u654c\u4eba\u7684\\c[3]\u653b\u51fb\u529b\\c[0]\uff0c\u76f8\u5f53\u4e8e\u654c\u4eba\u5bf9\u81ea\u8eab\u53d1\u52a8\u4e86\u653b\u51fb\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\n\n\\c[3]\u611f\u96fb\u30c0\u30e1\u30fc\u30b8\\c[0]\u306f\\c[3]\u3042\u306a\u305f\u81ea\u8eab\u306e\u653b\u6483\u529b\\c[0]\u306b\n\u4f9d\u5b58\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u5fd8\u308c\u306a\u3044\u3067\u3002\n\u81ea\u5206\u3067\u81ea\u5206\u3092\u653b\u6483\u3057\u3066\u3044\u308b\u3088\u3046\u306a\u611f\u3058\u306d\u3002<<A<<[CHANGED 2019/04/16]",
@@ -4061,7 +4061,7 @@
                   {
                     "message": {
                       "": "\\c[3]Wave\\c[0] can cause \\c[3]Mark\\c[0], which will \\c[3]increase all ranged damage\\c[0] that the victim receives.",
-                      "en_US": "\\c[3]Onda\\c[0] poder deixar o inimigo \\c[3]Marcado\\c[0], o qual vai \\c[3]aumentar todos os danos à distância\\c[0] que a vitima recebe.",
+                      "en_US": "\\c[3]Onda\\c[0] poder deixar o inimigo \\c[3]Marcado\\c[0], o que vai \\c[3]aumentar todos os danos à distância\\c[3] que ele recebe.",
                       "de_DE": "\\c[3]Welle\\c[0] kann \\c[3]Markiert\\c[0] verursachen, wodurch das Opfer \\c[3]anf\u00e4llig gegen\u00fcber Distanzangriffen\\c[0] wird.",
                       "zh_CN": "\\c[3]\u6ce2\\c[0]\u80fd\u9020\u6210\\c[3]\u6807\u8bb0\\c[0]\u72b6\u6001\uff0c\u88ab\u6807\u8bb0\u7684\u654c\u4eba\u5c06\u53d7\u5230\\c[3]\u989d\u5916\u7684\u8fdc\u7a0b\u653b\u51fb\u4f24\u5bb3\\c[0]\u3002<<A<<[CHANGED 2018/09/19]",
                       "langUid": 477,
@@ -4079,7 +4079,7 @@
                   {
                     "message": {
                       "": "To trigger a condition you must repeatedly use \\c[3]charged shots\\c[0] or \\c[3]certain combat arts\\c[0] on an enemy.",
-                      "en_US": "Para desencadear uma condição, você deve usar repetidamente \\c[3]tiros carregados\\c[0] ou \\c[3]certas técnicas de combate\\c[0] em um inimigo.",
+                      "en_US": "Para aplicar qualquer um desses efeitos, você deve usar repetidamente \\c[3]tiros carregados\\c[0] ou \\c[3]certas técnicas de combate\\c[0] em um inimigo.",
                       "de_DE": "Um einen Statuseffekt auszul\u00f6sen, musst du wiederholt mit \\c[3]geladenen Sch\u00fcssen\\c[0] oder \\c[3]bestimmten Kampfk\u00fcnsten\\c[0] angreifen.",
                       "zh_CN": "\u8981\u89e6\u53d1\u5143\u7d20\u72b6\u6001\uff0c\u4f60\u8981\u5bf9\u654c\u4eba\u4f7f\u7528\\c[3]\u84c4\u529b\u5c04\u51fb\\c[0]\u6216\u8005\\c[3]\u7279\u5b9a\u6218\u6280\\c[0]\u3002<<A<<[CHANGED 2018/09/19]",
                       "langUid": 478,
@@ -4367,7 +4367,7 @@
             "entity": { "global": true, "name": "weeb" },
             "text": {
               "": "Just look at her go! I tell you, Mys Li is best girl.",
-              "en_US": "É só para ela! Eu te digo, Mys Li é a melhor garota. ",
+              "en_US": "Olha só para ela! Papo reto, Mys Li é a melhor.",
               "langUid": 177,
               "ja_JP": "\u5f7c\u5973\u3092\u898b\u308d\u3088\uff01\u3042\u306e\u3055\u3001\n\u30df\u30b9\u30fb\u30ea\u30fc\u306f\u4ffa\u306e\u304a\u6c17\u306b\u5165\u308a\u306a\u3093\u3060\u3002<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\uc800\uac83 \uc880 \ubd10! \ub9d0\ud588\uc9c0, \ub9c8\uc774\uc2a4 \ub9ac\ub294 \ucd5c\uace0\uc758 \uc18c\ub140\ub77c\uace0.<<A<<[CHANGED 2018/05/01]",
@@ -4393,7 +4393,7 @@
             "entity": { "global": true, "name": "weeb" },
             "text": {
               "": "Well, actually she gets fleshed out nicely in the tie-in graphic novels that center around her adventures!",
-              "en_US": "Bem, na verdade ela se desenvolve muito bem nas histórias em quadrinhos que giram em torno de suas aventuras!",
+              "en_US": "Na real, ela se desenvolve muito bem nas histórias dos quadrinhos dela!",
               "langUid": 531,
               "ja_JP": "\u3067\u3082\u3001\u30df\u30b9\u30fb\u30ea\u30fc\u306f\u5f7c\u5973\u304c\u4e3b\u5f79\u306e\u6f2b\u753b\u3067\u3001\n\u3044\u3044\u304b\u3093\u3058\u306b\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u304c\n\u8089\u4ed8\u3051\u3055\u308c\u3066\u308b\u3093\u3060\u3002<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\uc74c, \uc0ac\uc2e4 \uadf8\ub140\ub294 \ubaa8\ud5d8\uc744 \uc911\uc2ec\uc73c\ub85c \ud55c \ub9cc\ud654 \uc18d\uc5d0\uc11c \uc124\uc815\uc774 \ub354 \ubd99\uc5c8\uc5b4!<<A<<[CHANGED 2018/05/01]",
@@ -4406,7 +4406,7 @@
             "entity": { "global": true, "name": "weebFriend" },
             "text": {
               "": "She got what...?!\\. What else is there, \"Mr Nomsworth - Middle Management Miracles\"?",
-              "en_US": "Ela conseguiu o que...?!\\. O que mais acontence lá, \"Sr. Sem graça - Milagres de um Roteiro Mediano\"?",
+              "en_US": "Ela fez o quê?!\\. O que acontece lá? Aposto que o roteiro não é lá essas coisas.",
               "langUid": 544,
               "ja_JP": "\u6f2b\u753b\u3060\u3063\u3066...\uff1f\uff01\\.\u4ed6\u306b\u4f55\u304c\u3042\u308b\u3093\u3060\u3001\n\u300c\u30df\u30b9\u30bf\u30fc\u30fb\u30ce\u30e0\u30ba\u30ef\u30fc\u30b9 - \n\u4e2d\u9593\u7ba1\u7406\u8077\u306e\u5947\u8de1\u300d\u3068\u304b\u304b\uff1f<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\ubb50\uac00 \uc5b4\uca0c\ub2e4\uace0...?!\\. \uadf8\uac83 \ub9d0\uace0\ub294 \ubb50\uac00 \uc788\ub294\ub370, \"\ub188\uc2a4\uc6cc\uc4f0 \uc528\uc758 \uc911\uc559 \uad00\ub9ac\uc758 \uae30\uc801\"?<<A<<[CHANGED 2018/05/01]",
@@ -4419,7 +4419,7 @@
             "entity": { "global": true, "name": "weeb" },
             "text": {
               "": "Hey, her growth as a fighter and the final confrontation with her corrupted father had me on the edge of my seat!",
-              "en_US": "Ei, seu crescimento como lutadora e o confronto final com seu pai corrompido me deixou tenso!",
+              "en_US": "Ei, o crescimento dela como lutadora e o confronto final com seu pai corrompido me deixou tenso!",
               "langUid": 548,
               "ja_JP": "\u304a\u3044\u3001\u5f7c\u5973\u304c\u30d5\u30a1\u30a4\u30bf\u30fc\u3068\u3057\u3066\n\u6210\u9577\u3057\u3066\u3044\u304f\u69d8\u5b50\u3084\u3001\u60aa\u306b\u67d3\u307e\u3063\u305f\u7236\u89aa\u3068\u306e\n\u6700\u5f8c\u306e\u5bfe\u6c7a\u306a\u3093\u304b\u3001\u3059\u3063\u3054\u304f\n\u30ef\u30af\u30ef\u30af\u3059\u308b\u3093\u3060\u305e\uff01<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\uc774\ubd10, \uadf8\ub140\uac00 \uaca9\ud22c\uac00\ub85c \uc131\uc7a5\ud55c \uac83\uacfc \ubd80\ud328\ud55c \uadf8\ub140\uc758 \uc544\ubc84\uc9c0\uc640 \ub9c8\uc9c0\ub9c9\uc73c\ub85c \ub300\uba74\ud558\ub294 \uc7a5\uba74\uc5d0\uc11c \uc190\uc5d0 \ub540\uc744 \uc950\uac8c \ud588\ub2e4\uace0!<<A<<[CHANGED 2018/05/01]",

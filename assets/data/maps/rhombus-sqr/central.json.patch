@@ -2363,7 +2363,7 @@
               {
                 "message": {
                   "": "Though there should only be one destination for us newbies: \\c[3]Rookie Harbor\\c[0].",
-                  "en_US": "Na verdade só tem apenas um destino para nós, novatas: \\c[3]Porto do Novato\\c[0].",
+                  "en_US": "Na verdade só tem apenas um destino para nós, novatas: o \\c[3]Porto do Novato\\c[0].",
                   "de_DE": "Aber f\u00fcr uns Neulinge d\u00fcrfte es im Moment nur ein Ziel geben: \\c[3]Rookie Harbor\\c[0].",
                   "fr_FR": "fr_FR",
                   "langUid": 17,
@@ -2680,7 +2680,7 @@
             "entity": { "global": true, "name": "advisorCenter" },
             "text": {
               "": "From here you will be able to quickly travel to all locations you have reached on the mainland.",
-              "en_US": "A partir daqui, você poderá viajar rapidamente para todos os locais que alcançou no continente principal.",
+              "en_US": "A partir daqui, vocês poderão viajar rapidamente para todos os locais que alcançaram no continente principal.",
               "de_DE": "Von hier aus gibt es eine Schnellverbindung zu allen Wegpunkten auf dem Festland, die ihr bisher freigeschaltet habt.",
               "fr_FR": "fr_FR",
               "langUid": 20,
@@ -2694,7 +2694,7 @@
             "entity": { "global": true, "name": "advisorCenter" },
             "text": {
               "": "Note that new recruits will only be able to travel to \\c[3]Rookie Harbor\\c[0] at first.",
-              "en_US": "Observe que os novos recrutas só poderão viajar para o \\c[3]Porto do Novato\\c[0] inicialmente.",
+              "en_US": "Observem que os novos recrutas só poderão viajar para o \\c[3]Porto do Novato\\c[0] inicialmente.",
               "de_DE": "Bitte beachtet, dass es neuen Spielern zun\u00e4chst nur erlaubt ist, nach \\c[3]Rookie Harbor\\c[0] zu reisen.",
               "fr_FR": "fr_FR",
               "langUid": 21,
@@ -2708,7 +2708,7 @@
             "entity": { "global": true, "name": "advisorCenter" },
             "text": {
               "": "You will visit several locations as you travel along the \\c[5]Track of the Ancients\\c[5].",
-              "en_US": "Você visitará vários locais enquanto viaja ao longo da \\c[5]Trilha dos Antigos\\c[5].",
+              "en_US": "Vocês visitarão vários locais enquanto viajam ao longo da \\c[5]Trilha dos Antigos\\c[5].",
               "de_DE": "Ihr werdet weitere Orte erschlie\u00dfen, w\u00e4hrend ihr den \\c[5]Pfad der Ahnen\\c[0] beschreitet.",
               "fr_FR": "fr_FR",
               "langUid": 22,

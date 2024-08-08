@@ -7535,7 +7535,7 @@
                 {
                   "message": {
                     "": "Wanna try some moves?",
-                    "en_US": "Quer tentar alguns movimentos?",
+                    "en_US": "Quer tentar?",
                     "de_DE": "Willst du dich an ein paar Moves versuchen?",
                     "fr_FR": "fr_FR",
                     "langUid": 25,
@@ -7575,7 +7575,7 @@
                 {
                   "message": {
                     "": "Try to reach them boxes back there, \\c[3]without touching the ground\\c[0]!",
-                    "en_US": "Tente alcan\u00e7ar as caixas l\u00e1 atr\u00e1s, \\c[3]sem tocar o ch\u00e3o\\c[0]!",
+                    "en_US": "Tente alcan\u00e7ar as caixas lá embaixo, \\c[3]sem tocar o ch\u00e3o\\c[0]!",
                     "de_DE": "Versuch die Kisten da hinten zu erreichen, \\c[3]ohne den Boden zu ber\u00fchren\\c[0]!",
                     "fr_FR": "fr_FR",
                     "langUid": 26,
@@ -7944,7 +7944,7 @@
                 {
                   "message": {
                     "": "May your mushrooms always be sauteed and your onions always be grilled. Gravy, girl!",
-                    "en_US": "Agora você sabe, exatamente como andar de skate. Bom recomçar, poder andar de skate. Pois eu me lembro de tudo garota, eu andava de skate também.",
+                    "en_US": "Eles dizem que é impossível encontrar o skate, sem perder o skate. Mas pra quem tem pensamento skate, o impossível é só questão de ter skate.",
                     "de_DE": "M\u00f6gen deine Pilze stets ged\u00fcnstet und deine Zwiebeln stets gegrillt sein. Und die So\u00dfe nicht vergessen, Kleines!",
                     "fr_FR": "fr_FR",
                     "langUid": 44,
@@ -8046,7 +8046,7 @@
               {
                 "message": {
                   "": "May your mushrooms always be sauteed and your onions always be grilled. Gravy, girl!",
-                  "en_US": "Agora você sabe, exatamente como andar de skate. Bom recomçar, poder andar de skate. Pois eu me lembro de tudo garota, eu andava de skate também.",
+                  "en_US": "Eles dizem que é impossível encontrar o skate, sem perder o skate. Mas pra quem tem pensamento skate, o impossível é só questão de ter skate.",
                   "de_DE": "M\u00f6gen deine Pilze stets ged\u00fcnstet und deine Zwiebeln stets gegrillt sein. Und die So\u00dfe nicht vergessen, Kleines!",
                   "fr_FR": "fr_FR",
                   "langUid": 47,
@@ -9433,7 +9433,7 @@
               {
                 "message": {
                   "": "Did you actually come all the way here to talk to me?",
-                  "en_US": "Voc\u00ea realmente veio at\u00e9 aqui para falar comigo?",
+                  "en_US": "Voc\u00ea veio at\u00e9 aqui para falar comigo?",
                   "de_DE": "Bist du den ganzen Weg hergekommen, um mit mir zu reden?",
                   "zh_CN": "\u4f60\u96be\u9053\u662f\u4e00\u8def\u8fc7\u6765\u5c31\u4e3a\u4e86\u8ddf\u6211\u8bf4\u8bdd\u7684\uff1f<<A<<[CHANGED 2018/09/02]",
                   "ja_JP": "\u79c1\u3068\u8a71\u3059\u305f\u3081\u3060\u3051\u306b\n\u3053\u3053\u307e\u3067\u6765\u305f\u306e\uff1f<<A<<[CHANGED 2018/09/02]",

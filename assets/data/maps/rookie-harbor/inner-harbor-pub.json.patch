@@ -1217,7 +1217,7 @@
               {
                 "message": {
                   "": "Hey there, \\v[lore.title.seeker].\\. You can make yourself comfortable but you better also order something.",
-                  "en_US": "Olá, \\v[lore.title.seeker].\\. Você pode se sentar e ficar confortável, mas é melhor você também pedir algo.",
+                  "en_US": "Olá, \\v[lore.title.seeker].\\. Pode se sentar e relaxar, mas não esqueça de pedir algo.",
                   "de_DE": "Moin, moin, Seeker.\\. Du kannst es dir bequem machen, aber du bestellst dann besser auch was.",
                   "fr_FR": "fr_FR",
                   "langUid": 401,
@@ -1292,7 +1292,7 @@
                 {
                   "message": {
                     "": "Ah, finally, another \\v[lore.title.seeker] visiting my humble establishment.\\. Are you the one with the new supplies?",
-                    "en_US": "Ah, finalmente mais um \\v[lore.title.seeker] visitando meu humilde estabelecimento.\\. É você quem está com os novos suprimentos? ",
+                    "en_US": "Ah, finalmente um \\v[lore.title.seeker] no meu humilde estabelecimento.\\. Você é quem trouxe os suprimentos novos? ",
                     "de_DE": "Ah, endlich verirrt sich ein Seeker in mein kleines Etablissement.\\. Bist du derjenige mit dem Nachschub?",
                     "fr_FR": "fr_FR",
                     "langUid": 402,
@@ -1346,7 +1346,7 @@
                 {
                   "message": {
                     "": "Makes me wonder why we even pay fancy paperpushers like him for just doing some calls anyway.",
-                    "en_US": "Queria saber por que ainda pagamos engravatados chiques como ele apenas para fazer algumas ligações.",
+                    "en_US": "Não entendo por que ainda pagamos esses engravatados chiques só para fazer umas ligações.",
                     "de_DE": "Da fragt man sich, warum wir solche B\u00fcrohengste wie ihn \u00fcberhaupt bezahlen, nur damit sie hier und da ein paar Anrufe t\u00e4tigen.",
                     "fr_FR": "fr_FR",
                     "langUid": 407,

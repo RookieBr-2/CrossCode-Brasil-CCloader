@@ -1986,7 +1986,7 @@
             "message": {
               "de_DE": "Ich konnte lediglich das Wort \"Hi\" in ihr Sprachmodul fest einprogrammieren.",
               "": "I just hard-coded the word \"Hi\" into her speech module.",
-              "en_US": "Eu apenas codifiquei a palavra \"Oi\" em seu módulo de voz.",
+              "en_US": "Eu codifiquei a palavra \"Oi\" em seu módulo de voz.",
               "langUid": 13,
               "fr_FR": "",
               "zh_CN": "\u6211\u91c7\u7528\u786c\u7f16\u7801\u5c06\u201c\u4f60\u597d\u201d\u8fd9\u4e2a\u8bcd\u7f16\u5165\u5230\u4e86\u5979\u7684\u8bed\u97f3\u6a21\u5757\u4e2d\u3002<<A<<[CHANGED 2018/03/14]",
@@ -2034,7 +2034,7 @@
             "message": {
               "de_DE": "Jedenfalls haben der K\u00e4pt'n und ich dein Kampftraining ausget\u00fcftelt.",
               "": "Anyway, the Cap and I here have been planning out your combat training, girl.",
-              "en_US": "De qualquer forma, o capitão e eu estamos planejando seu treinamento de combate, garota",
+              "en_US": "Então, o capitão e eu estamos planejando seu treinamento de combate, garota.",
               "langUid": 16,
               "fr_FR": "",
               "zh_CN": "\u5bf9\u4e86\uff0c\u6211\u548c\u8239\u957f\u521a\u4e00\u76f4\u5728\u8fd9\u7b79\u5212\u4f60\u7684\u6218\u6597\u8bad\u7ec3\u3002<<A<<[CHANGED 2017/07/11]",
@@ -2226,7 +2226,7 @@
             "message": {
               "de_DE": "Aber sei vorbereitet.\\. Ich erwarte uneingeschr\u00e4nkte Aufmerksamkeit.",
               "": "Make sure ye're prepared.\\. I'll be expectin' yer full attention.",
-              "en_US": "Certifique-se de estar preparada.\\. Estarei esperando pela sua melhor perfomance.",
+              "en_US": "Esteja preparada.\\. Estou ansioso para ver o seu desempenho.",
               "langUid": 23,
               "fr_FR": "",
               "zh_CN": "\u52a1\u5fc5\u505a\u597d\u5145\u5206\u51c6\u5907\u3002\\.\u5e0c\u671b\u4f60\u6253\u8d77\u4e00\u767e\u4e8c\u5341\u5206\u7684\u6ce8\u610f\u3002",
@@ -2323,7 +2323,7 @@
             "message": {
               "de_DE": "Achtet darauf, die K\u00fcche nach dem Kochen sauber zu verlassen, verstanden?",
               "": "Make sure ye clean up the galley after ye're done cookin', understood?",
-              "en_US": "Certifique-se de limpar tudo depois de terminarem de cozinhar, entendido?",
+              "en_US": "Limpem tudo depois de terminarem de cozinhar, entendido?",
               "langUid": 25,
               "fr_FR": "",
               "zh_CN": "\u53a8\u623f\u7528\u8fc7\u4e4b\u540e\u8bb0\u5f97\u8981\u6253\u626b\u5e72\u51c0\uff0c\u660e\u767d\u4e86\u5417\uff1f<<A<<[CHANGED 2018/05/01]",
@@ -2449,7 +2449,7 @@
             "message": {
               "de_DE": "Als ob wir's vergessen h\u00e4tten, seit er's uns das letzte Mal gesagt hat.",
               "": "It's not like we forgot since the last time he told us.",
-              "en_US": "Não é como se tivéssemos esquecido desde a última vez que pediu.",
+              "en_US": "Ele já não tinha dito isso antes?",
               "langUid": 27,
               "fr_FR": "",
               "zh_CN": "\u8fd9\u8bdd\u4ed6\u90fd\u8bf4\u4e86\u4e00\u767e\u904d\u4e86\u3002",
@@ -2468,7 +2468,7 @@
             "message": {
               "de_DE": "Hmhm. War das nicht erst gestern?",
               "": "Yeah, wasn't that yesterday?",
-              "en_US": "Sim, não foi tipo, ontem?",
+              "en_US": "Sim, foi tipo, ontem.",
               "langUid": 28,
               "fr_FR": "",
               "zh_CN": "\u5bf9\u554a\uff0c\u8033\u6735\u90fd\u542c\u8d77\u8327\u4e86\u3002",
@@ -2878,7 +2878,7 @@
                 "message": {
                   "": "Oh!!\\. Miss Ava...\\. I mean, Lea!",
                   "langUid": 35,
-                  "en_US": "Oh!!\\. Sra. Ava...\\. Digo, Lea!",
+                  "en_US": "Oh!!\\. Srta. Ava...\\. Digo, Lea!",
                   "zh_TW": "\u54e6\uff01\\.\u73a9\u5bb6\u5c0f\u59d0...\\.\u54e6\u4e0d\uff0c\u6211\u662f\u8aaa\u8389\u4e9e\u4f60\u597d\uff01<<A<<[CHANGED 2021/01/12]",
                   "zh_CN": "\u54e6\uff01\\.\u73a9\u5bb6\u5c0f\u59d0...\\.\u54e6\u4e0d\uff0c\u6211\u662f\u8bf4\u8389\u4e9a\u4f60\u597d\uff01<<A<<[CHANGED 2021/01/12]",
                   "ko_KR": "\uc544!!\\. \uc544\ubc14\ud0c0...\\. \uc544\ub2c8, \ub808\uc544!<<A<<[CHANGED 2021/01/12]",

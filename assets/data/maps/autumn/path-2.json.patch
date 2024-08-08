@@ -4922,7 +4922,7 @@
             }, {
                 "message": {
                     "": "But seeing a \\c[3]Spheromancer\\c[0] displaying such dishonest behavior!\\. It breaks my heart!",
-                    "en_US": "Mas vendo uma \\c[3]Esferomante\\c[0] exibindo tal comportamento desonesto!\\. Isso fere meu coração!",
+                    "en_US": "Mas ver uma \\c[3]Esferomante\\c[0] exibindo tal comportamento desonesto fere meu coração!",
                     "de_DE": "Aber einen \\c[3]Spheromancer\\c[0] zu sehen, der betr\u00fcgt!\\. Das bricht mir das Herz!",
                     "fr_FR": "fr_FR",
                     "langUid": 94,
@@ -5904,7 +5904,7 @@
                 "elseStep": [{
                     "message": {
                         "": "Are you sure it's okay to accept his challenge just like that?",
-                        "en_US": "Tem certeza de que não tem problema em aceitar o desafio desse jeito?",
+                        "en_US": "Você tem certeza que foi uma boa ideia aceitar o desafio dele assim, sem mais nem menos?",
                         "de_DE": "Bist du sicher, dass es richtig war, seine Herausforderung einfach so anzunehmen?",
                         "fr_FR": "fr_FR",
                         "langUid": 121,
