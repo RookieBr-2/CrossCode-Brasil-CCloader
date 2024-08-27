@@ -4422,7 +4422,7 @@
             "entity": { "global": true, "name": "l1" },
             "text": {
               "": "Oh come on, you could just turn off the simulation of heat.",
-              "en_US": "Ah, vamos lá, você poderia simplesmente desligar a simulação de calor.",
+              "en_US": "Ah, vai, você podia desligar a simulação de calor.",
               "de_DE": "Ach, h\u00f6r auf, du kannst doch die Simulation der Hitze einfach abschalten.",
               "fr_FR": "fr_FR",
               "langUid": 10,

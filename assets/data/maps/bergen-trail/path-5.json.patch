@@ -7539,7 +7539,7 @@
                     }, {
                         "message": {
                             "": "Sounds pretty dope, right? But also like... \\. lots of work, and I might start sweating even.",
-                            "en_US": "Parece muito legal, certo? Eu também acho, mas... \\. dá muito trabalho, só de pensar começo a suar.",
+                            "en_US": "Parece muito legal, né? Eu também acho, mas... \\. dá muito trabalho, só de pensar começo a suar.",
                             "de_DE": "Klingt ziemlich cool, oder? Aber auch irgendwie...\\. nach viel Arbeit, sogar schwei\u00dftreibender Arbeit.",
                             "fr_FR": "fr_FR",
                             "langUid": 427,
@@ -7575,7 +7575,7 @@
                     }, {
                         "message": {
                             "": "You'd imagine that running around as an avatar wouldn't really exhaust you.",
-                            "en_US": "As pessoas geralmente pensam que correr com um avatar não o deixaria exausto.",
+                            "en_US": "Eu achava que correr com um avatar não seria cansativo.",
                             "de_DE": "Und dann h\u00f6rst du \u00fcberall, dass das Rumlaufen als Avatar \u00fcberhaupt nicht anstrengend ist...",
                             "fr_FR": "fr_FR",
                             "langUid": 429,
@@ -7749,7 +7749,7 @@
                         }, {
                             "message": {
                                 "": "Pretty simple stuff, really. I'm sure you can handle it!",
-                                "en_US": "Muito simples, realmente. Tenho certeza que você consegue!",
+                                "en_US": "É bem simples, tenho certeza que você consegue!",
                                 "de_DE": "Ziemlich einfach also. Ich bin sicher, dass du das kannst!",
                                 "fr_FR": "fr_FR",
                                 "langUid": 436,
@@ -7840,7 +7840,7 @@
                         }, {
                             "message": {
                                 "": "... I'll just wait here.",
-                                "en_US": "... Vou apenas esperar aqui;",
+                                "en_US": "... Vou ficar eperando aqui.",
                                 "de_DE": "... Ich werde hier einfach warten.",
                                 "fr_FR": "fr_FR",
                                 "langUid": 441,
@@ -8011,7 +8011,7 @@
                     }, {
                         "message": {
                             "": "Wow, that looked so taxing. But you pulled through.",
-                            "en_US": "Uau, isso parecia tão cansativo. Mas você conseguiu.",
+                            "en_US": "Uau, isso pareceu tão cansativo. Mas você conseguiu.",
                             "de_DE": "Woah, das sah echt krass aus. Aber du hast es geschafft.",
                             "fr_FR": "fr_FR",
                             "langUid": 417,
@@ -8029,7 +8029,7 @@
                     }, {
                         "message": {
                             "": "And you didn't even break a sweat. Do you work out or something?",
-                            "en_US": "E não caiu nem uma gota de suor. Você prática esportes ou algo assim?",
+                            "en_US": "E você nem suou. Por acaso pratica algum esporte?",
                             "de_DE": "Und du schwitzt nicht mal. Treibst du etwa Sport oder so?",
                             "fr_FR": "fr_FR",
                             "langUid": 444,

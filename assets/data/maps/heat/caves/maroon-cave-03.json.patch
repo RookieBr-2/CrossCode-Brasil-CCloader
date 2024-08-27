@@ -1799,7 +1799,7 @@
           {
             "message": {
               "": "I suppose the \\c[3]\\v[item.362.name]\\c[0] is the strange item the guard wants to see, right?",
-              "en_US": "Eu acho que o \\c[3]\\v[item.362.name]\\c[0] é o item estranho que o guarda quer ver, certo?",
+              "en_US": "Eu acho que o \\c[3]\\v[item.362.name]\\c[0] é o item estranho que o guarda quer ver, não é?",
               "de_DE": "Ich sch\u00e4tze mal, dass das \\c[3]Ti'im-Residuum\\c[0] das komische Item ist, das die Wache sehen m\u00f6chte, oder?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u6211\u731c\\c[3]\\v[item.362.name]\\c[0]\u5c31\u662f\u5b88\u536b\u8981\u7684\u4e1c\u897f\u4e86\u5427\uff1f",
@@ -2116,7 +2116,7 @@
           {
             "message": {
               "": "Wait!\\. You started that quest already?",
-              "en_US": "Espere!\\. Você já começou essa missão?",
+              "en_US": "Espera!\\. Você já começou essa missão?",
               "de_DE": "Ah non!\\. Ihr habt die Quest schon angefangen?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u7b49\u7b49!\\.\u4f60\u4eec\u5df2\u7ecf\u5f00\u90a3\u4e2a\u4efb\u52a1\u4e86\uff1f\uff01",
@@ -2372,7 +2372,7 @@
           {
             "message": {
               "": "Uhm...\\. You mean I don't have to?\\. W-\\.Well...",
-              "en_US": "Uhm...\\. Você quer dizer que eu não tenho que me sentir assim?\\. B-\\.Bem...",
+              "en_US": "Uhm...\\. você está dizendo que eu não deveria me sentir assim?\\. B-\\.Bom...",
               "de_DE": "\u00c4hm...\\. Du meinst, das muss ich nicht?\\. N-\\.Na ja...",
               "fr_FR": "fr_FR",
               "zh_CN": "\u5443...\\.\u4f60\u662f\u8bf4\u6211\u4e0d\u5fc5\u5982\u6b64\u5417\uff1f\\.\u65e2-\\.\u65e2\u7136\u8fd9\u6837...",

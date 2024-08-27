@@ -3184,7 +3184,7 @@
                 {
                   "message": {
                     "": "Ah, a \\v[lore.title.seeker].\\. It is a pleasure, seeing more of your kind here in Bergen.",
-                    "en_US": "Ah, uma \\v[lore.title.seeker].\\. É um prazer ver mais do seu tipo aqui em Bergen.",
+                    "en_US": "Ah, uma \\v[lore.title.seeker].\\. É um prazer ver pessoas como você por aqui em Bergen.",
                     "de_DE": "Ah, ein Seeker.\\. Es ist eine Freude, mehr von deinesgleichen hier in Bergen zu sehen.",
                     "fr_FR": "fr_FR",
                     "langUid": 261,
@@ -3390,7 +3390,7 @@
                     {
                       "message": {
                         "": "Excellent.\\. \\v[lore.title.operation-trackwalker] truly shows its worth in all facets of our society!",
-                        "en_US": "Excelente.\\. A \\v[lore.title.operation-trackwalker] realmente mostra seu valor em todas as facetas de nossa sociedade!",
+                        "en_US": "Excelente.\\. A \\v[lore.title.operation-trackwalker] está mostrando seu valor em todos os aspectos da nossa sociedade!",
                         "de_DE": "Ausgezeichnet.\\. Operation Pfadl\u00e4ufer zeigt seinen Nutzen tats\u00e4chlich in allen Bereichen unserer Gesellschaft!",
                         "fr_FR": "fr_FR",
                         "langUid": 397,
@@ -3756,7 +3756,7 @@
                 {
                   "message": {
                     "": "It does not matter, we have both done our duty.\\. So you will get your due reward and I will hopefully have some respite.",
-                    "en_US": "Não importa, nós duas cumprimos nosso dever\\. Portanto, você receberá a devida recompensa e espero que eu tenha um pouco de descanso.",
+                    "en_US": "Não importa, nós duas cumprimos nosso dever\\. Você será recompensada, e eu espero conseguir algum descanso.",
                     "de_DE": "Unwichtig, wir haben beide unsere Pflicht getan.\\. Du wirst deine anstehende Belohnung erhalten, und ich werde mich hoffentlich etwas erholen k\u00f6nnen!",
                     "fr_FR": "fr_FR",
                     "langUid": 406,
@@ -3791,7 +3791,7 @@
                 {
                   "message": {
                     "": "You have done well.\\. I hope your assistance will remain a reliable asset in the future.",
-                    "en_US": "Você se saiu bem.\\. Espero que sua ajuda continue sendo um recurso confiável no futuro.",
+                    "en_US": "Você se saiu bem.\\. Espero que você continue a nos ajudar no futuro.",
                     "de_DE": "Du hast gute Arbeit geleistet.\\. Ich hoffe, du wirst uns in Zukunft weiterhin helfen.",
                     "fr_FR": "fr_FR",
                     "langUid": 408,
@@ -3904,7 +3904,7 @@
                 {
                   "message": {
                     "": "Good day, seeker.\\. You have chosen a convenient time to pay me a visit.",
-                    "en_US": "Bom dia, seeker.\\. Você escolheu um momento oportuno para me fazer uma visita.",
+                    "en_US": "Bom dia, Seeker.\\. Você escolheu um momento oportuno para me fazer uma visita.",
                     "de_DE": "Guten Tag, Seeker.\\. Du hast den rechten Zeitpunkt gew\u00e4hlt, mir einen Besuch abzustatten.",
                     "fr_FR": "fr_FR",
                     "langUid": 387,
@@ -4094,7 +4094,7 @@
                     {
                       "message": {
                         "": "Talk to the owner of the house for more details.",
-                        "en_US": "Fale com o dono da casa para mais detalhes.",
+                        "en_US": "Fale com a dona do local para mais detalhes.",
                         "de_DE": "Rede mit dem Hausbesitzer, um mehr zu erfahren.",
                         "fr_FR": "fr_FR",
                         "langUid": 416,
@@ -4254,7 +4254,7 @@
               {
                 "message": {
                   "": "Go into the \\c[3]Hermit's House\\c[0] at the \\c[3]Spike Heights on \\v[area.bergen-trails.name]\\c[0] and talk to the owner.",
-                  "en_US": "Vá para a \\c[3]Caban do Heremita\\c[0] em \\c[3]Picos Altos na \\v[area.bergen-trails.name]\\c[0] e fale com o proprietário.",
+                  "en_US": "Vá para a \\c[3]Cabana do Heremita\\c[0] nos \\c[3]Picos Altos da \\v[area.bergen-trails.name]\\c[0] e fale com a proprietária.",
                   "de_DE": "Gehe zur \\c[3]Eremitenh\u00fctte\\c[0] auf den \\c[3]Zackenh\u00f6hen des Bergen-Trails\\c[0] und sprich mit dem Besitzer.",
                   "fr_FR": "fr_FR",
                   "langUid": 431,
@@ -4481,7 +4481,7 @@
               {
                 "message": {
                   "": "Greetings, young lady.\\. Our current circumstances don't require your assistance for once.",
-                  "en_US": "Saudações, senhorita.\\. Nossas circunstâncias atuais não requerem sua ajuda mais uma vez.",
+                  "en_US": "Saudações, senhorita.\\. No momento, não precisamos mais da sua ajuda.",
                   "de_DE": "Sei gegr\u00fc\u00dft, junge Dame!\\. Im Moment ben\u00f6tigen wir deine Hilfe ausnahmsweise nicht.",
                   "fr_FR": "fr_FR",
                   "langUid": 409,

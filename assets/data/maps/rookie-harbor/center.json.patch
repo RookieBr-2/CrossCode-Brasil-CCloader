@@ -10946,7 +10946,7 @@
               {
                 "message": {
                   "": "Ice cream sure sells quickly when the weather is right.",
-                  "en_US": "Quando o tempo está bom sorvete vende rapidinho.",
+                  "en_US": "O sorvete vende rapidinho quando o clima está bom.",
                   "de_DE": "Eis geht wirklich weg wie nix, wenn das Wetter stimmt.",
                   "fr_FR": "fr_FR",
                   "langUid": 92,
@@ -18765,7 +18765,7 @@
                     {
                       "message": {
                         "": "Excellent! I am expecting swift results.",
-                        "en_US": "Excelente! Estou esperando resultados rápidos",
+                        "en_US": "Excelente! Estou esperando resultados rápidos.",
                         "de_DE": "Ausgezeichnet! Ich erwarte schnelle Ergebnisse!",
                         "fr_FR": "fr_FR",
                         "langUid": 377,
@@ -18802,7 +18802,7 @@
                     {
                       "message": {
                         "": "Hrm, it can't be helped then.\\. Please come back if you change your mind, this is no joking matter!",
-                        "en_US": "Argh, então não há como evitar. \\. Por favor, volte se mudar de ideia, isso não é brincadeira!",
+                        "en_US": "Argh, então não há alternativa.\\. Se mudar de ideia, por favor, volte. Isto não é algo trivial!",
                         "de_DE": "Hmpf, da kann man wohl nichts machen.\\. \u00dcberlegen Sie es sich bitte nochmal. Sie sind sich hoffentlich des Ernstes der Lage bewusst!",
                         "fr_FR": "fr_FR",
                         "langUid": 378,
@@ -18959,7 +18959,7 @@
                 {
                   "message": {
                     "": "This could finally mean a breakthrough for my career, I can feel it in my gut!\\. Along with a burning hunger for nutrition.",
-                    "en_US": "Isso pode finalmente significar um avanço para a minha carreira, posso sentir isso nas minhas entranhas!\\. Agora se me dá licença, preciso ir ao banheiro...",
+                    "en_US": "Sinto que isso pode ser um grande passo para minha carreira, é algo que sinto nas minhas entranhas!\\. Agora, se me der licença, preciso usar o banheiro...",
                     "de_DE": "Mein Bauchgef\u00fchl sagt mir, dass das endlich der Durchbruch meiner Karriere sein k\u00f6nnte!\\. Und, dass er einen Mordskohldampf hat... *grummel* *knurr*",
                     "fr_FR": "fr_FR",
                     "langUid": 242,
@@ -21377,7 +21377,7 @@
               {
                 "message": {
                   "": "Ah, I see...\\. well that's ok! We may just spoil the surprise for you, right?",
-                  "en_US": "Ah, entendo...bem, tudo bem! Talvez a gente só ia estragar a surpresa para você, certo?",
+                  "en_US": "Ah, entendo...\\. tudo bem! Talvez a gente só ia estragar a surpresa para você.",
                   "de_DE": "Ah, verstehe...\\. Ist vielleicht besser so, dann k\u00f6nnen wir dir die \u00dcberraschung nicht verderben.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u597d\u561e\uff0c\u4f60\u8981\u662f\u6539\u4e3b\u610f\u4e86\u53ef\u4ee5\u968f\u65f6\u76f4\u8fde\u6211\u4eec\u54e6\uff01",

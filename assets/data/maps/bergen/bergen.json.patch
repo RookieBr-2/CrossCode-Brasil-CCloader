@@ -10664,7 +10664,7 @@
             "entity": { "global": true, "name": "he-cold" },
             "text": {
               "": "I know that you wanna meet up with your friends, but do we have to stand out in the cold?\\. I'm freezing!",
-              "en_US": "Eu sei que voc\u00ea quer se encontrar com seus amigos, mas podemos nos abrigar do frio?\\. Estou congelando!",
+              "en_US": "Sei que você quer se encontrar com seus amigos, mas que tal a gente se proteger do frio?\\. Estou congelando!",
               "de_DE": "Ich wei\u00df, du willst dich mit deinen Freunden treffen, aber m\u00fcssen wir deswegen drau\u00dfen in der K\u00e4lte stehen?\\. Ich friere!",
               "fr_FR": "fr_FR",
               "langUid": 9,
@@ -10678,7 +10678,7 @@
             "entity": { "global": true, "name": "she-hot" },
             "text": {
               "": "Maybe I want them to see us without searching half the town.",
-              "en_US": "Sabe, eu queira que eles nos encontrassem sem vasculhar metade da cidade.",
+              "en_US": "Seria bom que eles nos vissem logo, assim não precisam procurar a gente por toda a cidade.",
               "de_DE": "Vielleicht will ich ja, dass sie uns sehen und nicht die halbe Stadt nach uns absuchen m\u00fcssen.",
               "fr_FR": "fr_FR",
               "langUid": 10,
@@ -12334,7 +12334,7 @@
                 {
                   "message": {
                     "": "Did you do it? Did you defeat the gift-destroying fiend?",
-                    "en_US": "Você consegiu? Você derrotou o demônio destruidor de presentes?",
+                    "en_US": "Você conseguiu? Você derrotou o demônio destruidor de presentes?",
                     "de_DE": "Hast du es geschafft? Hast du den Geschenke zerst\u00f6renden Schurken besiegt?",
                     "fr_FR": "fr_FR",
                     "langUid": 98,
@@ -14183,7 +14183,7 @@
               {
                 "message": {
                   "": "After that long climb I sure wouldn't mind a break in one of those cozy houses...",
-                  "en_US": "Depois dessa longa escalada, com certeza n\u00e3o me importaria de parar em uma dessas casas aconchegantes...",
+                  "en_US": "Depois dessa longa escalada, eu adoraria ficar em uma dessas casas aconchegantes...",
                   "de_DE": "Nach dem langen Aufstieg w\u00e4re eine kurze Rast in einem dieser gem\u00fctlichen H\u00e4user jetzt genau das Richtige...",
                   "fr_FR": "fr_FR",
                   "langUid": 161,
@@ -14346,7 +14346,7 @@
               {
                 "message": {
                   "": "I hope they let you enter without a huge load of exposition.",
-                  "en_US": "Espero que eles deixem voc\u00ea entrar sem uma grande quantidade de explica\u00e7\u00f5es.",
+                  "en_US": "Tomara que deixem a gente entrar sem ter que aguentar aquelas explicações sem fim.",
                   "de_DE": "Ich hoffe, sie lassen dich ohne gro\u00dfe Kommentare rein.",
                   "fr_FR": "fr_FR",
                   "langUid": 164,
@@ -15333,7 +15333,7 @@
               {
                 "message": {
                   "": "Urgh, this guy is blocking the storage house again.",
-                  "en_US": "Argh, esse cara est\u00e1 ocupando o dep\u00f3sito de novo.",
+                  "en_US": "Aff, esse cara est\u00e1 ocupando o dep\u00f3sito de novo.",
                   "de_DE": "Uff, der Typ blockiert das Lagerhaus schon wieder.",
                   "fr_FR": "fr_FR",
                   "langUid": 148,
@@ -15560,7 +15560,7 @@
           {
             "message": {
               "": "It must be really inconvenient to live here, having to jump over the water everyday.",
-              "en_US": "Deve ser muito inconveniente morar aqui, ter que pular sobre a \u00e1gua todos os dias.",
+              "en_US": "Deve ser complicado viver aqui e ter que pular sobre a água todos os dias.",
               "de_DE": "Muss echt unbequem sein, hier zu leben und jeden Tag \u00fcbers Wasser springen zu m\u00fcssen.",
               "fr_FR": "fr_FR",
               "langUid": 413,
@@ -16375,7 +16375,7 @@
           {
             "message": {
               "": "Well... I will take care of this.\\. You... can report back to the headquarters now.",
-              "en_US": "Bem... eu vou cuidar disso.\\. Voc\u00ea... pode relatar de volta para o quartel agora.",
+              "en_US": "Bem... eu vou cuidar disso.\\. Você pode voltar ao quartel agora.",
               "de_DE": "Gut... Ich k\u00fcmmere mich darum.\\. Du... kannst nun im Hauptquartier Bericht erstatten.",
               "zh_CN": "\u55ef\u2026\u6211\u4f1a\u597d\u597d\u7167\u987e\u5979\u7684\u3002\\.\u4f60\u2026\u73b0\u5728\u53ef\u4ee5\u5411\u603b\u90e8\u62a5\u544a\u4e86\u3002",
               "ja_JP": "\u3042\u3068\u306f...\u79c1\u306b\u307e\u304b\u305b\u3066\u304f\u308c\u3002\\.\u541b\u306f...\u672c\u90e8\u306b\u884c\u3063\u3066\n\u5831\u544a\u3057\u3066\u304f\u308b\u3068\u3044\u3044\u3060\u308d\u3046\u3002",

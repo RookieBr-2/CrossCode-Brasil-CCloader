@@ -1337,7 +1337,7 @@
           {
             "message": {
               "": "Oui. So?",
-              "en_US": "Oui. Então?",
+              "en_US": "Oui. E daí?",
               "de_DE": "Oui. Und?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u600e\u4e48\uff1f",
@@ -1369,7 +1369,7 @@
           {
             "message": {
               "": "Anyway, I guess you both have already met the new foes of this dungeon, non?",
-              "en_US": "De qualquer forma, acho que vocês duas já encontraram os novos inimigos desta dungeon, não?",
+              "en_US": "Então, acho que vocês dois já encontraram os novos inimigos desta dungeon, não?",
               "de_DE": "Alors, ihr beide habt wahrscheinlich schon die neuen Gegner in diesem Dungeon getroffen, non?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u4f60\u4eec\u4fe9\u73b0\u5728\u5e94\u8be5\u90fd\u78b0\u5230\u8fd9\u4e2a\u5730\u7262\u91cc\u7684\u65b0\u654c\u4eba\u4e86\u5427\uff1f",
@@ -1417,7 +1417,7 @@
           {
             "message": {
               "": "Moths.\\. They added moths.\\. And once again, they are \\c[3]huge\\c[0].",
-              "en_US": "Mariposas.\\. Eles adicionaram mariposas.\\. E mais uma vez, elas são \\c[3]enormes\\c[0].",
+              "en_US": "Mariposas.\\. Eles adicionaram mariposas.\\. E elas são \\c[3]enormes\\c[0].",
               "de_DE": "Motten.\\. Es gibt hier Motten.\\. Und wieder einmal sind sie \\c[3]riesig\\c[0].",
               "fr_FR": "fr_FR",
               "zh_CN": "\u86fe\u5b50\uff01\\.\u4ed6\u4eec\u5c45\u7136\u5f80\u6e38\u620f\u91cc\u52a0\u4e86\u86fe\u5b50\uff01\\.\u800c\u4e14\u53c8\u662f\\c[3]\u8d85\u5927\u53ea\\c[0]\uff01",

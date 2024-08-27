@@ -3755,7 +3755,7 @@
             }, {
                 "message": {
                     "": "This...",
-                    "en_US": "Isso...",
+                    "en_US": "Ele...",
                     "de_DE": "Das...",
                     "fr_FR": "fr_FR",
                     "langUid": 13,
@@ -3821,7 +3821,7 @@
             "event": [{
                 "message": {
                     "": "What is up with these rock formations?",
-                    "en_US": "O que há com essas formações rochosas?",
+                    "en_US": "Que tipo de formações rochosas são essas?",
                     "de_DE": "Was sind das blo\u00df f\u00fcr seltsame Felsformationen?",
                     "fr_FR": "fr_FR",
                     "langUid": 416,
@@ -3838,7 +3838,7 @@
             }, {
                 "message": {
                     "": "It looks like it could collapse any second, yet it seems stable.",
-                    "en_US": "Parece que pode entrar em colapso a qualquer segundo, mas parece estável.",
+                    "en_US": "Elas parecem que vão desabar a qualquer momento, mas estão bem firmes.",
                     "de_DE": "Die sehen aus, als w\u00fcrden sie jeden Moment einst\u00fcrzen. Und doch scheinen sie stabil zu sein.",
                     "fr_FR": "fr_FR",
                     "langUid": 417,
@@ -3871,7 +3871,7 @@
             "event": [{
                 "message": {
                     "": "I didn't expect to see any green spots at this altitude.",
-                    "en_US": "Não esperava ver nenhum lugar verde nesta altitude.",
+                    "en_US": "Não esperava ver um lugar verde aqui em cima.",
                     "de_DE": "Ich h\u00e4tte nicht erwartet, in dieser H\u00f6he ein gr\u00fcnes Fleckchen Erde zu finden.",
                     "fr_FR": "fr_FR",
                     "langUid": 418,

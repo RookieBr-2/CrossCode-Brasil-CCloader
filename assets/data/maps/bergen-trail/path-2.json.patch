@@ -4201,7 +4201,7 @@
                     }, {
                         "message": {
                             "": "I-I want to gather some d-data for \\c[3]Bergen Trail\\c[0] this time.",
-                            "en_US": "Q-Quero reunir alguns d-dados da \\c[3]Trilha de Bergen\\c[0] desta vez.",
+                            "en_US": "Agora q-quero reunir alguns d-dados da \\c[3]Trilha de Bergen\\c[0].",
                             "de_DE": "Ich will w-w-wieder einige Daten sa-sa-sammeln. D-D-Diesmal vom \\c[3]Bergen-Trail\\c[0].",
                             "fr_FR": "fr_FR",
                             "langUid": 377,
@@ -4237,7 +4237,7 @@
                     }, {
                         "message": {
                             "": "I c-c-compiled a list again...",
-                            "en_US": "Eu c-c-compilei uma lista novamente...",
+                            "en_US": "Eu f-f-fiz uma lista novamente...",
                             "de_DE": "Ich habe wieder eine Li-Li-Liste zusammengestellt...",
                             "fr_FR": "fr_FR",
                             "langUid": 381,
@@ -4255,7 +4255,7 @@
                     }, {
                         "message": {
                             "": "Some enemy scouting, local flora and the landmarks here.",
-                            "en_US": "Abater alguns i-i-inimigos, flora local e os marcos daqui.",
+                            "en_US": "Abater alguns i-i-inimigos, explorar a flora local e os m-marcos daqui.",
                             "de_DE": "E-E-Ein paar Gegner auskundschaften, d-d-die lokale Flora und die W-W-Wegpunkte hier.",
                             "fr_FR": "fr_FR",
                             "langUid": 387,
@@ -4366,7 +4366,7 @@
                         "accepted": [{
                             "message": {
                                 "": "P-Please find out what you c-c-can and return to me!",
-                                "en_US": "P-Por favor, descubra o que v-v-você pode e volte para cá!",
+                                "en_US": "P-Por favor, descubra o que v-v-você puder e volte para cá!",
                                 "de_DE": "B-B-Bitte, tu, was du kannst und ko-ko-komm dann zur\u00fcck zu m-m-mir.",
                                 "fr_FR": "fr_FR",
                                 "langUid": 383,
@@ -4791,7 +4791,7 @@
                     }, {
                         "message": {
                             "": "M-Marvelous!",
-                            "en_US": "M-Maravilhoso!",
+                            "en_US": "E-Excelente!",
                             "de_DE": "H-H-Hervorragend!",
                             "fr_FR": "fr_FR",
                             "langUid": 399,
@@ -4881,7 +4881,7 @@
                     }, {
                         "message": {
                             "": "O-oh. B-B-Bad wording. I meant the A-Ancients, of course.",
-                            "en_US": "O-oh. Palavra e-e-errada. Eu quis dizer os A-Antigos, é claro.",
+                            "en_US": ""O-oh. Escolhi a palavra e-errada. Quis dizer os A-Antigos, é claro.",
                             "de_DE": "O-Oh. Schlechte Wo-Wo-Wortwahl. I-I-Ich meinte na-na-nat\u00fcrlich die Ahnen.",
                             "fr_FR": "fr_FR",
                             "langUid": 402,

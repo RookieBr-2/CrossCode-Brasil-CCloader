@@ -8010,7 +8010,7 @@
           {
             "message": {
               "": "Here we are, that should be the village!",
-              "en_US": "Aqui estamos nós, essa deve ser a vila!",
+              "en_US": "Chegamos, essa deve ser a vila!",
               "de_DE": "Wir sind da! Das sollte das Dorf sein.",
               "fr_FR": "fr_FR",
               "langUid": 9,
@@ -8026,7 +8026,7 @@
           {
             "message": {
               "": "So...\\. how about we go ahead and visit the major building now?",
-              "en_US": "Então...\\. que tal irmos em frente e visitar o edifício principal agora?",
+              "en_US": "Então...\\. que tal irmos em frente e visitar o prédio principal agora?",
               "de_DE": "Also...\\. Wie w\u00e4re es, wenn wir direkt zum Hauptgeb\u00e4ude gehen?",
               "fr_FR": "fr_FR",
               "langUid": 10,
@@ -8165,7 +8165,7 @@
               {
                 "message": {
                   "": "Hello human.",
-                  "en_US": "Olá humano.",
+                  "en_US": "Olá humana.",
                   "de_DE": "Hallo, Mensch.",
                   "fr_FR": "fr_FR",
                   "langUid": 252,
@@ -8350,7 +8350,7 @@
               {
                 "message": {
                   "": "Hello human.",
-                  "en_US": "Olá humano.",
+                  "en_US": "Olá humana.",
                   "de_DE": "Hallo, Mensch.",
                   "fr_FR": "fr_FR",
                   "langUid": 257,
@@ -8385,7 +8385,7 @@
               {
                 "message": {
                   "": "I mend big light panel you humans gave to Shad.",
-                  "en_US": "Conserto o grande painel de luz que vocês humanos deram ao Shad.",
+                  "en_US": "Conserto o grande painel de luz que vocês humanos deram aos Shad.",
                   "de_DE": "Ich reparieren gro\u00dfe Lichtger\u00e4t Menschen uns gegeben.",
                   "fr_FR": "fr_FR",
                   "langUid": 259,
@@ -8404,7 +8404,7 @@
               {
                 "message": {
                   "": "Much work but still grateful for gift.",
-                  "en_US": "Muito trabalho, mas ainda grato pelo presente.",
+                  "en_US": "Muito trabalho, mas ainda grata pelo presente.",
                   "de_DE": "Arbeit viel aber dankbar f\u00fcr Geschenk.",
                   "fr_FR": "fr_FR",
                   "langUid": 260,
@@ -8500,7 +8500,7 @@
             "entity": { "global": true, "name": "r2" },
             "text": {
               "": "So... what next?",
-              "en_US": "Então... o que vem depois?",
+              "en_US": "Então... o que vamos fazer agora?",
               "de_DE": "Also, was nun?",
               "fr_FR": "fr_FR",
               "langUid": 262,
@@ -8514,7 +8514,7 @@
             "entity": { "global": true, "name": "r1" },
             "text": {
               "": "Well, I guess we head into the dungeon?",
-              "en_US": "Bem, acho que vamos para a dungeon?",
+              "en_US": "Que tal irmos para a dungeon?",
               "de_DE": "Ich sch\u00e4tze mal, ab in den Dungeon?",
               "fr_FR": "fr_FR",
               "langUid": 263,
@@ -8542,7 +8542,7 @@
             "entity": { "global": true, "name": "r2" },
             "text": {
               "": "Quests sound good to me.",
-              "en_US": "Quests soam bem para mim.",
+              "en_US": "Prefiro as missões.",
               "de_DE": "Quests klingen gut.",
               "fr_FR": "fr_FR",
               "langUid": 266,
@@ -8629,7 +8629,7 @@
             "entity": { "global": true, "name": "r4" },
             "text": {
               "": "Yeah, that was one hell of an area.",
-              "en_US": "Sim, aquela era uma área infernal.",
+              "en_US": "Sim, esse deserto é uma área infernal.",
               "de_DE": "Ja, das war echt ein hartes Gebiet.",
               "fr_FR": "fr_FR",
               "langUid": 268,
@@ -8643,7 +8643,7 @@
             "entity": { "global": true, "name": "r3" },
             "text": {
               "": "Tell me about it. ",
-              "en_US": "Me conte sobre isso.",
+              "en_US": "Nem me fale.",
               "de_DE": "Wem sagst du das.",
               "fr_FR": "fr_FR",
               "langUid": 269,
@@ -8657,7 +8657,7 @@
             "entity": { "global": true, "name": "r3" },
             "text": {
               "": "But look at this right here. ",
-              "en_US": "Mas olhe para isso aqui.",
+              "en_US": "Mas olha isso.",
               "de_DE": "Aber schau dir das hier an.",
               "fr_FR": "fr_FR",
               "langUid": 270,
@@ -8671,7 +8671,7 @@
             "entity": { "global": true, "name": "r3" },
             "text": {
               "": "I was told this was like an urban village for these Shad or whatever.",
-              "en_US": "Me disseram que isso era como uma vila urbana para esses Shad ou qualquer outra coisa.",
+              "en_US": "Me disseram que essa é a vila dos Shad ou seja lá o que eles são.",
               "de_DE": "Mir wurde gesagt, dass das so ein Dorf der Shad sei oder so. Voll r\u00fcckst\u00e4ndig.",
               "fr_FR": "fr_FR",
               "langUid": 271,
@@ -8685,7 +8685,7 @@
             "entity": { "global": true, "name": "r3" },
             "text": {
               "": "Looks like they're pretty advanced after all. I mean this is a solar farm, right?",
-              "en_US": "Parece que eles são bem avançados, afinal. Quero dizer, esta é uma fazenda solar, certo?",
+              "en_US": "Parece que eles são bem avançados, afinal. Saca só, isso não é uma fazenda solar?",
               "de_DE": "Schaut eigentlich ganz fortschrittlich aus. Ich mein, das ist ein Solarpark, oder?",
               "fr_FR": "fr_FR",
               "langUid": 272,
@@ -8727,7 +8727,7 @@
             "entity": { "global": true, "name": "r3" },
             "text": {
               "": "Oh, that makes more sense... I guess.",
-              "en_US": "Oh, isso faz mais sentido... eu acho.",
+              "en_US": "Ah, isso faz sentido... eu acho.",
               "de_DE": "Okay, das macht schon eher Sinn...",
               "fr_FR": "fr_FR",
               "langUid": 275,
@@ -9343,7 +9343,7 @@
                 {
                   "message": {
                     "": "C-crimes in the bazaar?\\. What are you talking about?\\. I don't know anything!",
-                    "en_US": "C-crimes no bazar?\\. O que você está falando?\\. Eu não sei nada!",
+                    "en_US": "C-crimes no bazar?\\. Do que você está falando?\\. Eu não sei nada!",
                     "de_DE": "V-Verbrechen auf dem Bazar?\\. Wovon sprichst du?\\. Ich wei\u00df von nichts!",
                     "fr_FR": "fr_FR",
                     "langUid": 580,
@@ -9494,7 +9494,7 @@
                 {
                   "message": {
                     "": "Well, time to come clean then, I suppose.\\. At least I can bring down that jerk with me.",
-                    "en_US": "Bem, é hora de esclarecer, então, eu acho.\\. Pelo menos eu posso derrubar aquele idiota comigo.",
+                    "en_US": "Bem, é hora de me redimir então.\\. Pelo menos eu posso derrubar aquele idiota comigo.",
                     "de_DE": "Tja, wird wohl langsam Zeit auszupacken.\\. Aber wenigstens geht der Mistkerl mit mir unter!",
                     "fr_FR": "fr_FR",
                     "langUid": 587,
@@ -9817,7 +9817,7 @@
                 {
                   "message": {
                     "": "Well, well, well.\\. Where might you lot be going?",
-                    "en_US": "Ora, ora, ora.\\. Onde você acha que vai?",
+                    "en_US": "Ora, ora, ora.\\. Onde você pensa que vai?",
                     "de_DE": "Naaa?\\. Wo wollen wir denn hin?",
                     "fr_FR": "fr_FR",
                     "langUid": 589,
@@ -9946,7 +9946,7 @@
                 {
                   "message": {
                     "": "Oh, for you it is.\\. Me, though?\\.\\. I prepared something special just for moments like this!",
-                    "en_US": "Ah, para você sim.\\. Mas eu?\\.\\. Preparei algo especial só para momentos como esse!",
+                    "en_US": "Ah, para você sim.\\. Mas e eu?\\.\\. Preparei algo especial para momentos como esse!",
                     "de_DE": "Oh, f\u00fcr dich schon.\\. Aber f\u00fcr mich?\\.\\. Ich habe genau f\u00fcr solche Momente etwas ganz Besonderes vorbereitet!",
                     "fr_FR": "fr_FR",
                     "langUid": 593,
@@ -10448,7 +10448,7 @@
                 {
                   "message": {
                     "": "Silence!\\. These expensive preparations won't go to waste.\\.\\. And I'm out of here!",
-                    "en_US": "Silêncio!\\. Essas preparações foram caras e não serão desperdiçadas.\\.\\. E eu estou dando o fora daqui!",
+                    "en_US": "Silêncio!\\. Esses preparativos foram caros e não serão desperdiçados.\\.\\. E eu estou dando o fora daqui!",
                     "de_DE": "Schweig!\\. All die teuren Vorbereitungen werden nicht umsonst gewesen sein.\\.\\. Und ich mache mich aus dem Staub!",
                     "fr_FR": "fr_FR",
                     "langUid": 605,
@@ -10688,7 +10688,7 @@
                 {
                   "message": {
                     "": "W-well... you know how to handle this, right?",
-                    "en_US": "B-bem... você sabe como lidar com isso, certo?",
+                    "en_US": "B-bem... você sabe como lidar com isso, não é?",
                     "de_DE": "T-Tja... Du wei\u00dft, was du tun musst, oder?",
                     "fr_FR": "fr_FR",
                     "langUid": 599,
@@ -11370,7 +11370,7 @@
           {
             "message": {
               "": "Well, that certainly was something!\\. But leave it to a \\v[lore.title.seeker] to save the day, eh?\\. Hahahaha...",
-              "en_US": "Bem, isso foi demais!\\. Deixe um \\v[lore.title.seeker] salvar o dia, não é?\\. Hahahaha...",
+              "en_US": "Isso foi demais!\\. É sempre bom ter um \\v[lore.title.seeker] por perto para salvar o dia, não é?\\. Hahahaha...",
               "de_DE": "Na, das war ja mal was!\\. Such dir 'nen Seeker, wenn's Probleme gibt, der wird's schon richten, heh?\\. Hahahaha...",
               "fr_FR": "fr_FR",
               "langUid": 607,
@@ -11405,7 +11405,7 @@
           {
             "message": {
               "": "Anyway, time to go on our ways, right?\\.\\. Bye!",
-              "en_US": "Enfim, hora de seguir nossos caminhos, certo?\\.\\. Tchau!",
+              "en_US": "Enfim, é hora de cada um ir para o seu lado.\\.\\. Tchau!",
               "de_DE": "Wie auch immer, es wird Zeit, getrennte Wege zu gehen, nicht wahr?\\.\\. Bye!",
               "fr_FR": "fr_FR",
               "langUid": 609,
@@ -11749,7 +11749,7 @@
           {
             "message": {
               "": "I'll see myself inside.\\. So... bye \\v[lore.title.seeker].\\. Sorry for the trouble and...\\. thanks for not letting me die, I guess.",
-              "en_US": "Vou estar lá dentro.\\. Então... tchau \\v[lore.title.seeker].\\. Desculpe pelo problema e...\\. obrigado por não me deixar morrer, eu acho.",
+              "en_US": "Vou entrar agora.\\. Então... tchau \\v[lore.title.seeker].\\. Desculpe pelo problema e...\\. obrigado por não me deixar morrer.",
               "de_DE": "Ich werde nun reingehen.\\. Also... Mach's gut, Seeker.\\. Sorry f\u00fcr die Probleme und...\\. danke, dass du mich nicht hast sterben lassen.",
               "fr_FR": "fr_FR",
               "langUid": 615,
@@ -12000,7 +12000,7 @@
               {
                 "message": {
                   "": "Que onda!",
-                  "en_US": "Buenas!",
+                  "en_US": "Que onda!",
                   "langUid": 627,
                   "de_DE": "Que onda!",
                   "zh_TW": "\u96f7\u7334\u554a!<<A<<[JULY 9]",
@@ -12066,7 +12066,7 @@
               {
                 "message": {
                   "": "Yeah... I get that a lot.",
-                  "en_US": "Sim... entendo.",
+                  "en_US": "Sí... entendo.",
                   "langUid": 631,
                   "de_DE": "Ja... das h\u00f6re ich oft.",
                   "zh_TW": "\u5509\uff0c\u7ecf\u5e38\u6709\u4eba\u6295\u6765\u8fd9\u6837\u7684\u773c\u5149\uff0c\u4e60\u60ef\u4e86\u3002<<A<<[JULY 9]",
@@ -12117,7 +12117,7 @@
               {
                 "message": {
                   "": "Oh vaya you're also a Spheromacer, que va. I've not seen many in a while, what's your name?",
-                  "en_US": "Mas bah, tu também é Esferomante, tchê? Tri louco. Faz tempo que não vejo um. Qual teu nome?",
+                  "en_US": "Ah, você também é uma Esferomante, ¿no? Eu não vi muitos até agora, qual é o seu nome?",
                   "langUid": 634,
                   "de_DE": "Oh vaya, du bist auch ein Spheromancer, que va. Die sehe ich nicht oft - wie hei\u00dft du?",
                   "zh_TW": "\u4f60\u4e5f\u662f\u4e2a\u6c14\u5706\u4f7f\u8005\u554a\uff0c\u633a\u597d\u3002\u8fd9\u6e38\u620f\u91cc\u73b0\u5728\u6c14\u5706\u4f7f\u8005\u4e0d\u591a\u89c1\u4e86\u3002\u4f60\u53eb\u4ec0\u4e48\uff1f<<A<<[CHANGED 2021/01/12]",
@@ -12150,7 +12150,7 @@
               {
                 "message": {
                   "": "I'm Geeklich, nice to meet you!",
-                  "en_US": "Eu sou Geeklich, prazer em conhecê-la!",
+                  "en_US": "Yo soy Geeklich, prazer em conhecê-la!",
                   "langUid": 636,
                   "de_DE": "Ich bin Geeklich! Sch\u00f6n, dich kennenzulernen!",
                   "zh_TW": "\u6211\u662f\u6781\u5ba2\u5deb\u5996\uff0c\u5e78\u4f1a\uff01<<A<<[JULY 9]",
@@ -12237,7 +12237,7 @@
               {
                 "message": {
                   "": "You know, I didn't always want to play as this class. In fact, I wanted to be a Hexacast.",
-                  "en_US": "Eu não queria jogar com essa classe no começo. Queria ser mesmo um Hexamagia.",
+                  "en_US": "Eu não queria jogar com essa classe no começo. Queria ser mesmo um Hexamago.",
                   "langUid": 641,
                   "de_DE": "Wei\u00dft du, eigentlich wollte ich diese Klasse gar nicht spielen, sondern einen Hexacast.<<A<<[CHANGED 2021/05/22]",
                   "zh_TW": "\u55ef\uff0c\u5176\u5b9e\u6211\u4e5f\u4e0d\u662f\u5f88\u60f3\u73a9\u8fd9\u4e2a\u804c\u4e1a\u7684\u3002\u6211\u672c\u6765\u6253\u7b97\u73a9\u9646\u5408\u6cd5\u5e08\u3002<<A<<[CHANGED 2021/05/22]",
@@ -12273,7 +12273,7 @@
               {
                 "message": {
                   "": "Nowadays many of them don't play anymore so I wander around and look at the different skeletons all day.",
-                  "en_US": "Hoje em dia, muitos deles não jogam mais, então eu ando por aí e olho para os diferentes esqueletos o dia todo.",
+                  "en_US": "Hoje em dia, muitos deles ya no juegan, então eu ando por aí e olho para os diferentes esqueletos o dia todo.",
                   "langUid": 643,
                   "de_DE": "Leider spielen viele von ihnen nicht mehr, deshalb laufe ich den ganzen Tag herum und schaue mir die verschiedenen Skelette an.",
                   "zh_TW": "\u73b0\u5728\u4ed6\u4eec\u90fd\u5f03\u5751\u5566\uff0c\u6211\u5c31\u4e00\u4e2a\u4eba\u5728\u8fd9\u770b\u5404\u79cd\u9ab7\u9ac5\u67b6\u5b50\u3002<<A<<[JULY 9]",

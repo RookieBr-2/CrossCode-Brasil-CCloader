@@ -5562,7 +5562,7 @@
               "icon": "INFO",
               "hoverText": {
                 "": "The Trial of Aspiration",
-                "en_US": "A Prova de Aspiração",
+                "en_US": "A Prova da Aspiração",
                 "de_DE": "Die Pr\u00fcfung der Aspiration",
                 "fr_FR": "fr_FR",
                 "zh_CN": "\u5347\u7075\u8bd5\u70bc",
@@ -5606,7 +5606,7 @@
                         {
                           "text": {
                             "": "Along the way, you will be attacked by invincible guardians. Their shots will knock you away but your shield can defend against them.",
-                            "en_US": "Ao longo do caminho, você será atacado por guardiões invencíveis. Os tiros deles vão te derrubar, mas com seu escudo você pode se defender deles.",
+                            "en_US": "Ao longo do caminho, você será atacado por guardiões invencíveis. Os tiros deles vão te derrubar, mas você pode se defender deles com seu escudo.",
                             "de_DE": "Auf dem Weg wirst du von unsterblichen W\u00e4chtern angegriffen werden. Ihre Geschosse werden dich zur\u00fccksto\u00dfen, doch dein Schild kann sie abwehren.",
                             "fr_FR": "fr_FR",
                             "langUid": 80,

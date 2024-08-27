@@ -12138,7 +12138,7 @@
                 {
                   "message": {
                     "": "I'm talking about those thieving Bovines!\\. They've ambushed me and stole all the fruits and herbs I've been gathering!",
-                    "en_US": "Estou falando daqueles Bovinos ladrões!\\. Eles me emboscaram e roubaram todas as frutas e ervas que venho colhendo!",
+                    "en_US": "Estou falando daqueles Bovinos ladrões!\\. Eles me emboscaram e roubaram todas as frutas e ervas que coletei!",
                     "de_DE": "Ich meine diese diebischen Rinder!\\. Sie haben mich in einen Hinterhalt gelockt und mir all meine Fr\u00fcchte und Kr\u00e4uter geklaut, die ich gesammelt habe!",
                     "fr_FR": "fr_FR",
                     "langUid": 63,
@@ -12293,7 +12293,7 @@
                 {
                   "message": {
                     "": "Well...\\. you have to do it.\\. I have to...\\. watch for reinforcements.\\. So...\\. good luck!",
-                    "en_US": "Bem...\\. você tem que fazer isso.\\. Eu tenho que...\\. observar os reforços.\\. Então...\\. boa sorte!",
+                    "en_US": "Bem...\\. você precisa lidar com isso.\\. Eu tenho que...\\. observar.\\. Então...\\. boa sorte!",
                     "de_DE": "Das hei\u00dft...\\. \u00f6hm...\\. du musst es tun!\\. Ich muss hier doch...\\. nach Verst\u00e4rkung Ausschau halten!\\. Genau!\\. Also...\\. Viel Gl\u00fcck!",
                     "fr_FR": "fr_FR",
                     "langUid": 67,
@@ -13403,7 +13403,7 @@
                 {
                   "message": {
                     "": "About time someone showed up.\\. And I hear you also helped us out with that lost data?",
-                    "en_US": "Já era hora de alguém aparecer.\\. E ouvi dizer que você também nos ajudou com os dados perdidos?",
+                    "en_US": "Já era hora de alguém aparecer.\\. Ouvi dizer que você nos ajudou com os dados perdidos. É verdade?",
                     "de_DE": "H\u00f6chste Zeit, dass mal jemand auftaucht!\\. Ich hab geh\u00f6rt, du hast uns auch mit den verlorenen Daten geholfen?",
                     "fr_FR": "fr_FR",
                     "langUid": 87,
@@ -13438,7 +13438,7 @@
                 {
                   "message": {
                     "": "You really saved my butt there.\\. I would've lost weeks of work if some critter had decided to eat it.",
-                    "en_US": "Você salvou minha pele lá.\\. Eu teria perdido semanas de trabalho se alguma criatura tivesse decidido comê-lo.",
+                    "en_US": "Você salvou minha pele.\\. Eu teria perdido semanas de trabalho se alguma criatura tivesse comido aquilo.",
                     "de_DE": "Da hast du mir wirklich meinen Hintern gerettet.\\. Wenn irgendein Vieh das Teil einfach gefressen h\u00e4tte, w\u00e4re meine wochenlange Arbeit f\u00fcr die Katz gewesen...",
                     "fr_FR": "fr_FR",
                     "langUid": 104,
@@ -13457,7 +13457,7 @@
                 {
                   "message": {
                     "": "But we gotta make it count now.\\. I'm sure the group that jumped me had a special leader with them.",
-                    "en_US": "Mas temos que fazer valer a pena agora.\\. Tenho certeza de que o grupo que me atacou tinha um líder especial com eles.",
+                    "en_US": "Esses dados vão ser úteis agora.\\. Tenho certeza de que havia um líder especial no grupo que me atacou.",
                     "de_DE": "Aber jetzt m\u00fcssen wir die Daten auch nutzen.\\. Ich bin mir sicher, dass die Bande, die mich angegriffen hat, einen Anf\u00fchrer hatte.",
                     "fr_FR": "fr_FR",
                     "langUid": 105,
@@ -13476,7 +13476,7 @@
                 {
                   "message": {
                     "": "Cut that one down and they might just become your usual pack of beasts again.",
-                    "en_US": "Se derrotarmos ele, talvez o resto volte ao normal novamente.",
+                    "en_US": "Se derrotarmos ele, talvez o resto volte ao normal.",
                     "de_DE": "Wenn wir ihn aus'm Verkehr ziehen, werden die anderen Viecher vielleicht wieder normal.",
                     "fr_FR": "fr_FR",
                     "langUid": 106,
@@ -13511,7 +13511,7 @@
                 {
                   "message": {
                     "": "Right.\\. I've already spotted that sneaky rat again and tailed it to their hiding spot.",
-                    "en_US": "Certo.\\. Já localizei aquele rato sorrateiro de novo e o segui até seu esconderijo",
+                    "en_US": "Certo.\\. Já localizei aquele rato sorrateiro de novo e o segui até seu esconderijo.",
                     "de_DE": "Gut.\\. Ich hab die feige Ratte schon gesichtet und zu ihrem Versteck verfolgt.",
                     "fr_FR": "fr_FR",
                     "langUid": 108,
@@ -14007,7 +14007,7 @@
           {
             "message": {
               "": "Judging by that satisfied look on your face and the noise you made in there I assume you got it?",
-              "en_US": "A julgar pela sua cara e o barulho que você fez lá, presumo que você conseguiu?",
+              "en_US": "A julgar pela sua cara e o barulho que você fez lá, imagino que deu tudo certo, não é?",
               "de_DE": "So wie du strahlst und nach dem Krach gerade, nehm' ich an, du hast ihn erledigt?",
               "fr_FR": "fr_FR",
               "langUid": 110,
@@ -14148,7 +14148,7 @@
           {
             "message": {
               "": "If that Hillkat bigshot had it then it might be extremely useful.\\. HQ should definitely give it a thorough scan.",
-              "en_US": "Se aquele Chefe Topeira tinha isso, talvez seja extremamente útil.\\. Vou leva-lo pro QG, eles vão querer dar uma olhada nisso.",
+              "en_US": "Se aquele Chefe Topeira tinha isso, talvez seja extremamente útil.\\. Vou levar para o QG, eles vão querer analisar isso.",
               "de_DE": "Wenn dieser Hillkat-Obermotz es hatte, dann k\u00f6nnte das Teil extrem n\u00fctzlich sein.\\. Das Hauptquartier sollte das auf jeden Fall mal untersuchen.",
               "fr_FR": "fr_FR",
               "langUid": 115,
@@ -14306,7 +14306,7 @@
           {
             "message": {
               "": "A'ight, I better get back and share my report.\\. 'Til next time!",
-              "en_US": "Tudo bem, é melhor eu voltar e compartilhar meu relatório. \\. Até a próxima!",
+              "en_US": "Tudo bem, é melhor eu voltar e compartilhar meu relatório.\\. Até a próxima!",
               "de_DE": "So, ich geh' nun besser zur\u00fcck und liefere meinen Bericht ab.\\. Bis zum n\u00e4chsten Mal!",
               "fr_FR": "fr_FR",
               "langUid": 118,

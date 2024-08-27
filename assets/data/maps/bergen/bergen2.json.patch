@@ -11112,7 +11112,7 @@
         "analyzable": {
           "text": {
             "": "Ms. Hat",
-            "en_US": "Srta. Chapeleta",
+            "en_US": "Srta. Chapeleira",
             "langUid": 428,
             "ko_KR": "\ubaa8\uc790 \uc18c\ub140<<A<<[CHANGED 2018/01/05]",
             "ja_JP": "\u30df\u30b9\u30fb\u30cf\u30c3\u30c8<<A<<[CHANGED 2018/01/06]",
@@ -11135,7 +11135,7 @@
               {
                 "name": {
                   "": "Ms. Hat",
-                  "en_US": "Srta. Chapeleta",
+                  "en_US": "Srta. Chapeleira",
                   "langUid": 429,
                   "ko_KR": "\ubaa8\uc790 \uc18c\ub140<<A<<[CHANGED 2018/01/05]",
                   "ja_JP": "\u30df\u30b9\u30fb\u30cf\u30c3\u30c8<<A<<[CHANGED 2018/01/06]",
@@ -11246,7 +11246,7 @@
                 {
                   "name": {
                     "": "Ms. Hat",
-                    "en_US": "Srta. Chapeleta",
+                    "en_US": "Srta. Chapeleira",
                     "langUid": 430,
                     "ko_KR": "\ubaa8\uc790 \uc18c\ub140<<A<<[CHANGED 2018/01/05]",
                     "ja_JP": "\u30df\u30b9\u30fb\u30cf\u30c3\u30c8<<A<<[CHANGED 2018/01/06]",
@@ -11289,7 +11289,7 @@
                 {
                   "message": {
                     "": "Oh, hello!\\. Can I help you or do you just wanna admire this handsome image of coolness here?",
-                    "en_US": "Ah, ol\u00e1!\\. Posso te ajudar ou voc\u00ea s\u00f3 quer admirar essa bela imagem de gelo aqui?",
+                    "en_US": "Oi!\\. Precisa de ajuda ou veio só para admirar essa linda imagem de gelo?",
                     "de_DE": "Oh, hallo!\\. Kann ich dir irgendwie helfen oder willst du einfach nur diesen Inbegriff der Coolness hier betrachten?",
                     "fr_FR": "fr_FR",
                     "langUid": 29,
@@ -11375,7 +11375,7 @@
                 {
                   "message": {
                     "": "Ah, want to know about that hat of his?\\. Yeah, I made it myself!",
-                    "en_US": "Ah, quer saber sobre esse chap\u00e9u dele?\\. Sim, eu mesmo fiz!",
+                    "en_US": "Ah, quer saber sobre o chap\u00e9u dele?\\. Sim, eu mesmo fiz!",
                     "de_DE": "Ah, du willst mehr \u00fcber den Hut wissen?\\. Ja, den habe ich selbst gemacht!",
                     "fr_FR": "fr_FR",
                     "langUid": 24,
@@ -11429,7 +11429,7 @@
                 {
                   "message": {
                     "": "Especially the old hats... you can get them from his mean brothers in Bergen Trail.",
-                    "en_US": "Especialmente os chap\u00e9us velhos... voc\u00ea pode obt\u00ea-los de seus irm\u00e3os malvados na Trilha de Bergen.",
+                    "en_US": "Principalmente os chapéus velhos... você obter alguns com os bonecos de gelo malvados na Trilha de Bergen.",
                     "de_DE": "Besonders die alten H\u00fcte... Du kannst sie von seinen gemeinen Br\u00fcdern auf dem Bergen-Trail bekommen.",
                     "fr_FR": "fr_FR",
                     "langUid": 33,
@@ -11464,7 +11464,7 @@
                 {
                   "message": {
                     "": "But you'll need to defeat them \\c[3]with style\\c[0]!\\.\\. Otherwise those fancy hats will just mysteriously disappear...",
-                    "en_US": "Mas voc\u00ea precisa derrot\u00e1-los \\c[3]com estilo\\c[0]!\\.\\. Caso contr\u00e1rio, aqueles extravagantes chap\u00e9us simplesmente desaparecer\u00e3o misteriosamente...",
+                    "en_US": "Mas você tem que derrotá-los \\c[3]com estilo\\c[0]!\\.\\. Senão, esses chapéus extravagantes vão desaparecer misteriosamente...",
                     "de_DE": "Aber du musst sie \\c[3]mit Stil\\c[0] besiegen!\\.\\. Sonst verschwinden die H\u00fcte n\u00e4mlich einfach auf mysteri\u00f6se Weise...",
                     "fr_FR": "fr_FR",
                     "langUid": 34,
@@ -11552,7 +11552,7 @@
               {
                 "name": {
                   "": "Ms. Hat",
-                  "en_US": "Srta. Chapeleta",
+                  "en_US": "Srta. Chapeleira",
                   "langUid": 431,
                   "ko_KR": "\ubaa8\uc790 \uc18c\ub140<<A<<[CHANGED 2018/01/05]",
                   "ja_JP": "\u30df\u30b9\u30fb\u30cf\u30c3\u30c8<<A<<[CHANGED 2018/01/06]",
@@ -11644,7 +11644,7 @@
                 {
                   "name": {
                     "": "Ms. Hat",
-                    "en_US": "Ms. Chapéu",
+                    "en_US": "Srta. Chapeleira",
                     "langUid": 432,
                     "ko_KR": "\ubaa8\uc790 \uc18c\ub140<<A<<[CHANGED 2018/01/05]",
                     "ja_JP": "\u30df\u30b9\u30fb\u30cf\u30c3\u30c8<<A<<[CHANGED 2018/01/06]",
@@ -11687,7 +11687,7 @@
                 {
                   "message": {
                     "": "Ooh, there you are again. And you got everything, yay!",
-                    "en_US": "Aah, você já voltou. E voc\u00ea conseguiu tudo, yay!",
+                    "en_US": "Aah, você já voltou. E conseguiu pegar tudo, yay!",
                     "de_DE": "Ooh, da bist du ja wieder. Und du hast alles, wie sch\u00f6n!",
                     "fr_FR": "fr_FR",
                     "langUid": 35,
@@ -11722,7 +11722,7 @@
                 {
                   "message": {
                     "": "You just wait right here!\\. I'll have those pretties patched up in a flash!",
-                    "en_US": "Apenas espere aqui!\\. Vou consertar essas belezuras num piscar de olhos!",
+                    "en_US": "Espere aqui!\\. Vou consertar essas belezuras num piscar de olhos!",
                     "de_DE": "Warte hier kurz!\\. Ich werde diese Sch\u00f6nheiten im Nu aufpeppen!",
                     "fr_FR": "fr_FR",
                     "langUid": 37,
@@ -11758,7 +11758,7 @@
                 {
                   "name": {
                     "": "Ms. Hat",
-                    "en_US": "Srta. Chapeleta",
+                    "en_US": "Srta. Chapeleira",
                     "langUid": 433,
                     "ko_KR": "\ubaa8\uc790 \uc18c\ub140<<A<<[CHANGED 2018/01/05]",
                     "ja_JP": "\u30df\u30b9\u30fb\u30cf\u30c3\u30c8<<A<<[CHANGED 2018/01/06]",
@@ -11897,7 +11897,7 @@
                   {
                     "name": {
                       "": "Ms. Hat",
-                      "en_US": "Srta. Chapeleta",
+                      "en_US": "Srta. Chapeleira",
                       "langUid": 434,
                       "ko_KR": "\ubaa8\uc790 \uc18c\ub140<<A<<[CHANGED 2018/01/05]",
                       "ja_JP": "\u30df\u30b9\u30fb\u30cf\u30c3\u30c8<<A<<[CHANGED 2018/01/06]",
@@ -11924,7 +11924,7 @@
                   {
                     "message": {
                       "": "Heya!\\. Want another one of those stylish hats?",
-                      "en_US": "Heya!\\. Quer outro daqueles chap\u00e9us estilosos?",
+                      "en_US": "Oi!\\. Quer outro daqueles chap\u00e9us estilosos?",
                       "de_DE": "Hallihallo!\\. M\u00f6chtest du noch einen dieser stilvollen H\u00fcte?",
                       "zh_CN": "\u5662\uff0c\u53c8\u662f\u4f60\uff01\\.\u8fd8\u60f3\u8981\u4e00\u9876\u65f6\u5c1a\u7684\u5e3d\u5b50\u5417\uff1f<<A<<[CHANGED 2018/01/06]",
                       "ja_JP": "\u3053\u3093\u306b\u3061\u306f\uff01\n\\.\u307e\u305f\u30b9\u30c6\u30ad\u306a\u5e3d\u5b50\u304c\u6b32\u3057\u304f\u306a\u3063\u305f\u306e\uff1f<<A<<[CHANGED 2018/01/06]",
@@ -12440,7 +12440,7 @@
               {
                 "message": {
                   "": "Thus, if you are deemed worthy, it will arm you with the power needed to face your obstacles.",
-                  "en_US": "Portanto, se voc\u00ea for considerada digna, ele dar\u00e1 a voc\u00ea o poder necess\u00e1rio para enfrentar seus obst\u00e1culos.",
+                  "en_US": "Portanto, se voc\u00ea for considerada digna, ela dar\u00e1 a voc\u00ea o poder necess\u00e1rio para enfrentar seus obst\u00e1culos.",
                   "de_DE": "Seid ihr also w\u00fcrdig, wird er euch mit allem versorgen, was ihr ben\u00f6tigt, um eure Pr\u00fcfungen zu meistern.\n",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u56e0\u6b64\uff0c\u5982\u679c\u5b83\u8ba4\u4e3a\u4f60\u503c\u5f97\u83b7\u53d6\u5c0a\u91cd\u7684\u8bdd\uff0c\u5b83\u4f1a\u8d50\u4e88\u4f60\u514b\u670d\u969c\u788d\u7684\u529b\u91cf\u3002",
@@ -12942,7 +12942,7 @@
                   {
                     "message": {
                       "": "Oh, someone else actually made it up here?",
-                      "en_US": "Oh, mais alguém consegiu chegar até aqui?",
+                      "en_US": "Olha só, parece que mais alguém conseguiu chegar até aqui!",
                       "langUid": 445,
                       "ko_KR": "\uc624, \ub204\uac00 \ub610 \uc5ec\uae30\uae4c\uc9c0 \uc62c\ub77c\uc654\ub098?<<A<<[CHANGED 2019/01/10]",
                       "zh_CN": "\u54e6\uff0c\u8fd8\u6709\u5176\u4ed6\u4eba\u6765\u8fd9\uff1f<<A<<[CHANGED 2019/01/10]",
@@ -13008,7 +13008,7 @@
                   {
                     "message": {
                       "": "CrossWorlds is full of secrets.\\. You might even say that the secrets are the soul of this game.",
-                      "en_US": "CrossWorlds é cheia de segredos.\\. Você pode até dizer que os segredos são a alma deste jogo.",
+                      "en_US": "CrossWorlds é cheia de segredos.\\. Na verdade, os segredos são a alma do jogo.",
                       "langUid": 449,
                       "ko_KR": "\ud06c\ub85c\uc2a4\uc6d4\ub4dc\ub294 \ube44\ubc00\ub85c \uac00\ub4dd\ud558\uc9c0.\\. \uc774 \uac8c\uc784\uc758 \ud575\uc2ec\uc774 \ubc14\ub85c \ube44\ubc00\uc774\ub77c\uace0 \ub9d0\ud560 \uc218 \uc788\uc744 \uc815\ub3c4\ub85c.<<A<<[CHANGED 2019/01/10]",
                       "zh_CN": "\u8fdc\u661f\u4e16\u754c\u91cc\u6709\u4e0d\u5c11\u79d8\u5bc6\u3002\\.\u751a\u81f3\u53ef\u4ee5\u8bf4\u79d8\u5bc6\u5c31\u662f\u8fd9\u4e2a\u6e38\u620f\u7684\u7075\u9b42\u3002<<A<<[CHANGED 2019/01/10]",
@@ -13080,7 +13080,7 @@
                   {
                     "message": {
                       "": "A new discovery goes from something special to common knowledge faster than you'd ever believe.",
-                      "en_US": "Uma nova descoberta vai de algo especial para o conhecimento comum mais rápido do que você imagina.",
+                      "en_US": "Uma descoberta nova pode se tornar algo comum mais rápido do que você imagina.",
                       "langUid": 453,
                       "ko_KR": "\uc0c8\ub85c\uc6b4 \uac83\uc744 \ubc1c\uacac\ud558\uba74 \ub124\uac00 \uc0dd\uac01\ud558\ub294 \uac83\ubcf4\ub2e4 \ud6e8\uc52c \ube60\ub974\uac8c \ud2b9\ubcc4\ud55c \uac83\uc5d0\uc11c \ud3c9\ubc94\ud55c \uac83\uc73c\ub85c \ubcc0\ud574.<<A<<[CHANGED 2019/01/10]",
                       "zh_CN": "\u4fe1\u606f\u4ece\u5c11\u6570\u4eba\u77e5\u6653\u7684\u79d8\u5bc6\u5230\u5e38\u8bc6\u7684\u8f6c\u5316\u901f\u5ea6\u4f1a\u8ba9\u4f60\u60ca\u8bb6\u7684\u3002<<A<<[CHANGED 2019/01/10]",
@@ -13098,7 +13098,7 @@
                   {
                     "message": {
                       "": "It's kind of sad, actually.",
-                      "en_US": "É um pouco triste, na realidade.",
+                      "en_US": "É um pouco triste, na verdade.",
                       "langUid": 454,
                       "ko_KR": "\uc2ac\ud508 \uc77c\uc774\uc9c0.<<A<<[CHANGED 2019/01/10]",
                       "zh_CN": "\u5176\u5b9e\u8fd9\u4e48\u8bf4\u6765\u4e5f\u633a\u4f24\u611f\u3002<<A<<[CHANGED 2019/01/10]",
@@ -13146,7 +13146,7 @@
                   {
                     "message": {
                       "": "This place, though.\\. This is my secret.",
-                      "en_US": "Este lugar, no entando.\\. Este é o meu segredo.",
+                      "en_US": "Mas este lugar...\\. Esse é o meu segredo.",
                       "langUid": 457,
                       "ko_KR": "\ud558\uc9c0\ub9cc \uc774\uacf3\uc740\\. \ub0b4\uac00 \uac00\uc9c0\uace0 \uc788\ub294 \ube44\ubc00\uc774\uc57c.<<A<<[CHANGED 2019/01/10]",
                       "zh_CN": "\u4e0d\u8fc7\u8fd9\u4e2a\u5730\u65b9\uff0c\\.\u8fd9\u91cc\u662f\u6211\u7684\u79d8\u5bc6\u3002<<A<<[CHANGED 2019/01/10]",
@@ -13168,7 +13168,7 @@
                   {
                     "message": {
                       "": "I know it seems inconsequential, but it can still be special, right?",
-                      "en_US": "Eu sei que parece inconsequente, mas ainda pode ser especial, certo?",
+                      "en_US": "Sei que parece insignificante, mas ainda assim pode ser algo especial, não acha?",
                       "langUid": 458,
                       "ko_KR": "\uc0ac\uc18c\ud55c \uac70\uc9c0\ub9cc \uadf8\ub798\ub3c4 \ub098\uc5d0\uac90 \ud2b9\ubcc4\ud558\ub2c8\uae4c.<<A<<[CHANGED 2019/01/10]",
                       "zh_CN": "\u867d\u7136\u6ca1\u4ec0\u4e48\u91cd\u8981\u7684\uff0c\u4f46\u4e5f\u5f88\u7279\u6b8a\u5bf9\u4e0d\u5bf9\uff1f<<A<<[CHANGED 2019/01/10]",
@@ -13208,7 +13208,7 @@
                   {
                     "message": {
                       "": "It's your secret now, too. Please keep it that way.\n",
-                      "en_US": "Agora também é o seu segredo. Por favor, mantenha-o assim. \n",
+                      "en_US": "Esse segredo é seu agora também. Por favor, mantenha-o assim.\n",
                       "langUid": 460,
                       "ko_KR": "\uc774\uc820 \ub108\uc758 \ube44\ubc00\uc774 \ub418\uae30\ub3c4 \ud588\ub124? \ube44\ubc00 \uc9c0\ucf1c\uc57c \ud558\ub294 \uac70 \uc78a\uc9c0 \ub9c8.<<A<<[CHANGED 2019/01/10]",
                       "zh_CN": "\u73b0\u5728\u8fd9\u4e5f\u662f\u4f60\u7684\u79d8\u5bc6\u4e86\u3002\u8bf7\u4fdd\u5bc6\u54e6\u3002<<A<<[CHANGED 2019/01/10]",
@@ -14397,7 +14397,7 @@
               {
                 "message": {
                   "": "Oh, I see you're in a party right now? That's just perfect!",
-                  "en_US": "Ah, voc\u00eas est\u00e3o em grupo agora? Isso \u00e9 simplesmente perfeito!",
+                  "en_US": "Ah, voc\u00eas est\u00e3o em grupo agora? Isso é perfeito!",
                   "de_DE": "Oh, ich sehe, du bist gerade in einer Party? Das ist perfekt!",
                   "fr_FR": "fr_FR",
                   "langUid": 149,
@@ -14470,7 +14470,7 @@
               {
                 "message": {
                   "": "I told the chief about you two and she said we could use a couple new members.",
-                  "en_US": "Eu contei a chefe sobre voc\u00eas duas e ela disse que poder\u00edamos usar alguns novos membros.",
+                  "en_US": "Conversei com a chefe sobre vocês duas e ela achou que deveríamos incluir mais alguns membros.",
                   "de_DE": "Ich habe unserem Anf\u00fchrer von euch beiden erz\u00e4hlt, und sie meinte, wir k\u00f6nnten ein paar neue Mitglieder gebrauchen.",
                   "fr_FR": "fr_FR",
                   "langUid": 153,
@@ -14508,7 +14508,7 @@
               {
                 "message": {
                   "": "Japp! At least never heard of any rule against it.",
-                  "en_US": "Sim! Pelo menos, nunca ouvi falar de nenhuma regra contra isso.",
+                  "en_US": "Sim! Até onde sei, nunca ouvi falar de nenhuma regra que proíba isso.",
                   "de_DE": "Japp! Jedenfalls kenne ich keine Regel, die es verbietet.",
                   "fr_FR": "fr_FR",
                   "langUid": 155,
@@ -14645,7 +14645,7 @@
               {
                 "message": {
                   "": "That's a \\c[3]landmark\\c[0]. You two can just quickly teleport there, remember?",
-                  "en_US": "Esse \u00e9 um \\c[3]ponto de refer\u00eancia\\c[0]. Voc\u00eas duas podem se teletransportar rapidamente para l\u00e1, lembra?",
+                  "en_US": "Esse \u00e9 um \\c[3]ponto de refer\u00eancia\\c[0]. Voc\u00eas duas podem se teletransportar rapidamente para l\u00e1, lembram?",
                   "de_DE": "Das ist ein \\c[3]Wegpunkt\\c[0]. Ihr k\u00f6nnt euch einfach dorthin teleportieren, erinnert ihr euch?",
                   "fr_FR": "fr_FR",
                   "langUid": 163,
@@ -14743,7 +14743,7 @@
               {
                 "message": {
                   "": "A guild, Lea! We'll join a GUILD! Isn't that awesome?",
-                  "en_US": "Uma guilda, Lea! Vamos nos juntar a um GUILDA! N\u00e3o \u00e9 incr\u00edvel?",
+                  "en_US": "Uma guilda, Lea! Vamos nos juntar a uma GUILDA! N\u00e3o \u00e9 incr\u00edvel?",
                   "de_DE": "Eine Gilde, Lea! Wir werden einer GILDE beitreten! Ist das nicht toll?",
                   "fr_FR": "fr_FR",
                   "langUid": 167,
@@ -14775,7 +14775,7 @@
               {
                 "message": {
                   "": "Come on! Better not let the Dark Lord wait for too long!",
-                  "en_US": "Vamos! Melhor n\u00e3o deixar o Lorde das Trevas esperar muito tempo!",
+                  "en_US": "Vamos! Melhor n\u00e3o deixar o Lorde das Trevas esperando por muito tempo!",
                   "de_DE": "Komm schon! Besser, wir lassen unseren Fieserichen F\u00fcrsten nicht zu lange warten!",
                   "fr_FR": "fr_FR",
                   "langUid": 169,
@@ -14949,7 +14949,7 @@
           {
             "message": {
               "": "Well...\\. I suppose you cannot tell anybody about it anyway, correct?",
-              "en_US": "Bem...\\. Suponho que voc\u00ea n\u00e3o consegue contar a ningu\u00e9m sobre isso de qualquer maneira, correto?",
+              "en_US": "Bem...\\. Parece que não será possível para você contar isso, não é mesmo?",
               "de_DE": "Nun ja...\\. Ich sch\u00e4tze, du kannst so oder so niemandem davon erz\u00e4hlen, korrekt?",
               "fr_FR": "fr_FR",
               "langUid": 138,
@@ -14965,7 +14965,7 @@
           {
             "message": {
               "": "In that regard your speech malfunction turns out to be quite useful!",
-              "en_US": "Olhando dessa forma, o mau funcionamento da sua voz \u00e9 bastante \u00fatil!",
+              "en_US": "Nesse caso, o mau funcionamento da sua voz \u00e9 bastante \u00fatil!",
               "de_DE": "In diesem Fall stellt sich dein defektes Sprachmodul als ganz n\u00fctzlich heraus!",
               "fr_FR": "fr_FR",
               "langUid": 139,
@@ -14997,7 +14997,7 @@
           {
             "message": {
               "": "So as they say... just go for it!",
-              "en_US": "Ent\u00e3o, como se costuma dizer... v\u00e1 em frente!",
+              "en_US": "Então, como dizem por aí... vai nessa!",
               "de_DE": "Na dann...\\. auf sie mit Gebr\u00fcll!",
               "fr_FR": "fr_FR",
               "langUid": 141,
@@ -15379,7 +15379,7 @@
               {
                 "message": {
                   "": "Oh look, there's some \\c[3]ice blocks\\c[0].",
-                  "en_US": "Oh, olhe tem alguns\\c[3]blocos de gelo\\c[0].R",
+                  "en_US": "Ah, olha tem alguns \\c[3]blocos de gelo\\c[0].",
                   "de_DE": "Oh, schau mal, da sind einige \\c[3]Eisbl\u00f6cke\\c[0].",
                   "fr_FR": "fr_FR",
                   "langUid": 417,
@@ -16057,7 +16057,7 @@
             "entity": { "global": true, "name": "sleepDiag1" },
             "text": {
               "": "Are you serious?! We have been waiting for you!",
-              "en_US": "Você está falando sério?! A gente ficou esperando você um tempão!",
+              "en_US": "Fala sério! A gente ficou esperando você um tempão!",
               "langUid": 440,
               "ko_KR": "\uc9c4\uc9dc\uc57c?! \uadf8\ub3d9\uc548 \uae30\ub2e4\ub9ac\uace0 \uc788\uc5c8\uc796\uc544!<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u4f60\u641e\u4ec0\u4e48\u5462?! \u6211\u4eec\u4e00\u76f4\u5728\u7b49\u4f60!<<A<<[CHANGED 2019/01/10]",

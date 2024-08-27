@@ -1755,7 +1755,7 @@
               {
                 "message": {
                   "": "Yes! We're ready to take that quiz, right Lea?",
-                  "en_US": "Sim! Estamos prontas para fazer aquele teste, certo Lea?",
+                  "en_US": "Sim! Estamos prontas para fazer aquele teste, não é Lea?",
                   "de_DE": "Ja! Wir sind bereit, das Quiz zu machen, stimmt's Lea?",
                   "fr_FR": "fr_FR",
                   "langUid": 173,
@@ -2259,7 +2259,7 @@
                   {
                     "message": {
                       "": "But we're all pretty much family at this point!",
-                      "en_US": "Mas nós somos praticamente uma família neste ponto!",
+                      "en_US": "Mas estamos tão unidos que já somos quase uma família!",
                       "de_DE": "Aber wir sind alle eher wie eine Familie hier.",
                       "fr_FR": "fr_FR",
                       "langUid": 127,
@@ -3248,7 +3248,7 @@
           {
             "message": {
               "": "If you two joined our guild, we'd have members of all 5 classes!",
-              "en_US": "Se vocês duas se juntassem à nossa guilda, teríamos membros de todas as 5 classes!",
+              "en_US": "Se vocês duas se juntassem à nossa guilda, teríamos todas as 5 classes representadas!",
               "de_DE": "Wenn ihr zu uns k\u00e4mt, h\u00e4tten wir Mitglieder aller f\u00fcnf Klassen!",
               "fr_FR": "fr_FR",
               "langUid": 16,
@@ -3761,7 +3761,7 @@
           {
             "message": {
               "": "Nothing like I had imagined it.",
-              "en_US": "É diferente de como eu tinha imaginado.",
+              "en_US": "É bem diferente do que eu imaginava.",
               "de_DE": "Das hatte ich mir gar nicht so vorgestellt.",
               "fr_FR": "fr_FR",
               "langUid": 20,
@@ -3811,7 +3811,7 @@
           {
             "message": {
               "": "It's like the house I always wanted to own.",
-              "en_US": "É como a casa que sempre quis ter.",
+              "en_US": "É exatamente a casa que eu sempre quis.",
               "de_DE": "Es ist genau das Haus, was ich schon immer haben wollte.",
               "fr_FR": "fr_FR",
               "langUid": 22,
@@ -3830,7 +3830,7 @@
           {
             "message": {
               "": "Now of course it's not the fortress that many people expect.",
-              "en_US": "É claro que não é a fortaleza que muitas pessoas esperam.",
+              "en_US": "Embora não seja a fortaleza que muitas pessoas imaginam.",
               "de_DE": "Nat\u00fcrlich ist es nicht die Festung, die so manch einer erwarten w\u00fcrde.",
               "fr_FR": "fr_FR",
               "langUid": 23,
@@ -3849,7 +3849,7 @@
           {
             "message": {
               "": "But really, the few of us wouldn't know what to do with all the space, eh?",
-              "en_US": "Mas, sério, nós não saberíamos o que fazer com tanto espaço, hein?",
+              "en_US": "Mas, sinceramente, como somos poucos, não saberíamos o que fazer com um espaço maior.",
               "de_DE": "Aber mal im Ernst:Wir paar Leutchen hier w\u00fcssten mit so viel Platz gar nichts anzufangen, stimmt's?",
               "fr_FR": "fr_FR",
               "langUid": 24,
@@ -3890,7 +3890,7 @@
           {
             "message": {
               "": "Japp. Also it's not like we could afford the castle of our dreams.",
-              "en_US": "Japp. Também, não é como se pudéssemos pagar o castelo dos nossos sonhos.",
+              "en_US": "Japp. Além do mais, não temos como pagar o castelo dos nossos sonhos.",
               "de_DE": "Japp. Und es ist jetzt auch nicht grad so, dass wir uns das Schloss unserer Tr\u00e4ume leisten k\u00f6nnten.",
               "fr_FR": "fr_FR",
               "langUid": 25,
@@ -4046,7 +4046,7 @@
           {
             "message": {
               "": "Ah, wonderful! The first real dungeon. It's always something special.",
-              "en_US": "Ah, maravilhoso! A primeira dungeon de verdade. É sempre algo especial.",
+              "en_US": "Ah, maravilha! A primeira dungeon de verdade. É sempre algo especial.",
               "de_DE": "Ah, wunderbar! Der erste richtige Dungeon. Der ist immer etwas Besonderes.",
               "fr_FR": "fr_FR",
               "langUid": 30,
@@ -4065,7 +4065,7 @@
           {
             "message": {
               "": "It's the first time you'll be entering a \\c[3]heritage site of the Ancients\\c[0]!",
-              "en_US": "É a primeira vez que você entrará em um \\c[3] Patrimônio dos Antigos\\c[0]!",
+              "en_US": "É a primeira vez que você entrará em um \\c[3]Patrimônio dos Antigos\\c[0]!",
               "de_DE": "Das ist das erste Mal, dass ihr vor einer \\c[3]Kulturst\u00e4tte der Ahnen\\c[0] stehen werdet.",
               "fr_FR": "fr_FR",
               "langUid": 31,
@@ -4122,7 +4122,7 @@
           {
             "message": {
               "": "We try to solve the \\c[3]Secret of the Ancients\\c[0], eh?",
-              "en_US": "Tentamos resolver o \\c[3]Segredo dos Antigos\\c[0].",
+              "en_US": "Tentamos desvendar o \\c[3]Segredo dos Antigos\\c[0].",
               "de_DE": "Schlie\u00dflich versuchen wir das \\c[3]Geheimnis der Ahnen\\c[0] zu l\u00fcften, n\u00f6h?",
               "fr_FR": "fr_FR",
               "langUid": 34,
@@ -4141,7 +4141,7 @@
           {
             "message": {
               "": "Each heritage site includes a few pieces of the big puzzle.",
-              "en_US": "Cada local do patrimônio inclui algumas peças do grande quebra-cabeça.",
+              "en_US": "Cada dungeon contém algumas peças desse grande quebra-cabeça.",
               "de_DE": "Und jede St\u00e4tte birgt einen Teil des Gro\u00dfen Puzzles.",
               "fr_FR": "fr_FR",
               "langUid": 35,
@@ -4417,7 +4417,7 @@
           {
             "message": {
               "": "And now you understand why our guild is so small!",
-              "en_US": "E agora você entende porque nossa guilda é tão pequena!",
+              "en_US": "E agora você sabe porque nossa guilda é tão pequena!",
               "de_DE": "Und nun verstehst du auch, warum unsere Gilde so klein ist.",
               "fr_FR": "fr_FR",
               "langUid": 49,
@@ -4574,7 +4574,7 @@
           {
             "message": {
               "": "Lea, my dear, you've been so quiet all the time. Is something the matter?",
-              "en_US": "Lea, minha querida, você ficou tão quieta o tempo todo. Algo está acontecendo?",
+              "en_US": "Lea, minha querida, você ficou tão quieta o tempo todo. Está tudo bem?",
               "de_DE": "Lea, meine Liebe, du bist die ganze Zeit so still. Stimmt etwas nicht?",
               "fr_FR": "fr_FR",
               "langUid": 56,
@@ -4660,7 +4660,7 @@
                   {
                     "message": {
                       "": "Also she just \\c[1]kills everything with a single-hit\\c[0].",
-                      "en_US": "Além disso, ela simplesmente \\c[1]mata tudo com um único golpe\\c[0].",
+                      "en_US": "Além disso, ela \\c[1]mata tudo com um único golpe\\c[0].",
                       "de_DE": "Daf\u00fcr \\c[1]t\u00f6tet sie alles mit nur einem Schlag\\c[0].",
                       "zh_CN": "\u800c\u4e14\u5979\u6253\u6240\u6709\u4e1c\u897f\u90fd\u662f\\c[1]\u4e00\u51fb\u5fc5\u6740\\c[0]\u3002<<A<<[CHANGED 2019/08/16]",
                       "ja_JP": "\u305d\u308c\u306b\u3001\u30ec\u30a2\u306f\\c[1]\u3069\u3093\u306a\u6575\u3082\n\u4e00\u6483\u3067\u3084\u3063\u3064\u3051\u3061\u3083\u3046\\c[0]\u306e\u3002<<A<<[CHANGED 2019/08/16]",
@@ -4770,7 +4770,7 @@
           {
             "message": {
               "": "Anyway, I'd be glad to join! You too, Lea?",
-              "en_US": "De qualquer forma, eu ficaria feliz em participar! Você também, Lea?",
+              "en_US": "De qualquer forma, eu adoraria participar! E você Lea?",
               "de_DE": "Auf jeden Fall w\u00fcrde ich gerne beitreten! Du auch, Lea?",
               "fr_FR": "fr_FR",
               "langUid": 60,
@@ -4941,7 +4941,7 @@
           {
             "message": {
               "": "Just make sure to read everything at the heritage site and you should be well prepared.",
-              "en_US": "Apenas lembrem de ler tudo no local do património e vocês devem estar bem preparadas.",
+              "en_US": "Ao chegar no fim do Templo, leiam as placas de texto para estarem bem preparadas.",
               "de_DE": "Achtet darauf, dass ihr alles in der St\u00e4tte genau studiert. Dann seid ihr f\u00fcr das Quiz gut vorbereitet.",
               "fr_FR": "fr_FR",
               "langUid": 69,
@@ -5356,7 +5356,7 @@
           {
             "message": {
               "": "Oh, and I suppose now is a good time to share contacts, too!",
-              "en_US": "Ah, e acho que agora seja um bom momento para compartilhar nossos contatos também!",
+              "en_US": "Ah, e acho que agora é um bom momento para compartilhar nossos contatos também!",
               "de_DE": "Ach, bevor ich's vergesse:Lasst uns noch unsere Kontaktdaten austauschen!",
               "fr_FR": "fr_FR",
               "langUid": 192,
@@ -6534,7 +6534,7 @@
                   {
                     "message": {
                       "": "Oh well...\\. all those stupid cold bugs put me off.\\. I really hate bugs, you know?",
-                      "en_US": "Bem...\\. todos aqueles insetos estúpidos me desanimaram.\\. Eu realmente odeio insetos, sabe?",
+                      "en_US": "Pois é...\\. aqueles insetos estúpidos me atrapalharam.\\. Eu realmente odeio insetos, sabe?",
                       "de_DE": "Ach...\\. All diese doofen Eisk\u00e4fer haben mich ausgebremst.\\. Ich kann K\u00e4fer wirklich nicht ausstehen, verstehst du?",
                       "fr_FR": "fr_FR",
                       "langUid": 182,
@@ -12159,7 +12159,7 @@
           {
             "message": {
               "": "Perfect! You did it!",
-              "en_US": "Perfeito! Você consegiu!",
+              "en_US": "Perfeito! Você conseguiu!",
               "langUid": 941,
               "de_DE": "Perfekt! Du hast es geschafft!",
               "ja_JP": "\u5b8c\u74a7\u3060\uff01\u3088\u304f\u3084\u3063\u305f\u305e\u3001\u30ec\u30a2\uff01<<A<<[CHANGED 2018/08/28]",

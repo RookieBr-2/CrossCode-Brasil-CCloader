@@ -6126,7 +6126,7 @@
           {
             "message": {
               "": "I'm just overreacting!",
-              "en_US": "Estou apenas exagerando!",
+              "en_US": "Estou fazendo drama!",
               "de_DE": "Ich hab blo\u00df \u00fcberreagiert!",
               "fr_FR": "fr_FR",
               "zh_CN": "\u6211\u53ea\u4e0d\u8fc7\u662f\u5938\u5f20\u4e86\u4e00\u4e0b\uff01",
@@ -6240,7 +6240,7 @@
               {
                 "message": {
                   "": "Anyway...\\. Got that over and done with.",
-                  "en_US": "Enfim....\\. Acabei com isso.",
+                  "en_US": "Enfim....\\. Acabou.",
                   "de_DE": "Egal...\\. Hauptsache geschafft!",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u603b\u4e4b...\\.\u603b\u7b97\u662f\u7ed3\u675f\u4e86\u3002",
@@ -6590,7 +6590,7 @@
           {
             "message": {
               "": "Yes...\\. Also that boss. I mean...\\. how are you holding up, Emilie?",
-              "en_US": "Sim...\\. E também aquele boss. Falando nisso..como você está se aguentando, Emilie?",
+              "en_US": "Sim...\\. E também aquele boss. Falando nisso...\\. como você está se aguentando, Emilie?",
               "de_DE": "Ja...\\. Und dann dieser Boss. Ich meine...\\. wie schaffst du das, Emilie?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u5bf9...\\.\u8fd8\u6709\u90a3\u4e2aBoss\u3002\u90a3...\\.\u827e\u7c73\u8389\u4f60\u6ca1\u4e8b\u5427\uff1f",
@@ -7336,7 +7336,7 @@
           {
             "message": {
               "": "Makes sense. She's the symbol for heat and fire, right?",
-              "en_US": "Faz sentido. Ela é o símbolo do calor e do fogo, certo?",
+              "en_US": "Faz sentido. Ela é o símbolo do calor e do fogo, não é?",
               "de_DE": "Macht Sinn. Sie ist das Symbol f\u00fcr Hitze und Feuer, richtig?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u4e0d\u5947\u602a\u3002\u5979\u53ef\u662f\u70ed\u4e0e\u706b\u7684\u8c61\u5f81\u3002",
@@ -7730,7 +7730,7 @@
             {
               "text": {
                 "": "Yet this world was monotonous, lacking dusk, dawn and the coolness of the night.",
-                "en_US": "No entanto, este mundo era monótono, sem o anoitecer, sem o amanhecer e sem a frieza da noite",
+                "en_US": "No entanto, este mundo era monótono, sem o anoitecer, sem o amanhecer e sem a frieza da noite.",
                 "de_DE": "Diese Welt jedoch war eint\u00f6nig, ohne Morgenr\u00f6te, Abendlicht und die K\u00fchle der Nacht.",
                 "fr_FR": "fr_FR",
                 "zh_CN": "\u4f46\u662f\u8fd9\u6837\u7684\u4e16\u754c\u5f88\u67af\u71e5\uff0c\u6ca1\u6709\u9ec4\u660f\uff0c\u6ca1\u6709\u9ece\u660e\uff0c\u4e5f\u6ca1\u6709\u591c\u665a\u7684\u51c9\u723d\u3002",
@@ -8499,7 +8499,7 @@
           {
             "message": {
               "": "But I'm afraid it's time for me to log off now. I have to get back to my studies.",
-              "en_US": "Mas receio que esteja na hora de eu sair agora. Tenho que voltar aos meus estudos.",
+              "en_US": "Mas agora, infelizmente, é hora de eu sair. Tenho que voltar aos meus estudos.",
               "de_DE": "Aber jetzt wird es leider Zeit f\u00fcr mich, mich auszuloggen. Ich muss mich wieder dem Lernen widmen.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u4f46\u662f\u6211\u73b0\u5728\u5f97\u4e0b\u7ebf\u4e86\u3002\u8be5\u53bb\u5b66\u4e60\u4e86\u3002",
@@ -8910,7 +8910,7 @@
           {
             "message": {
               "": "You do know about her speech synchronization issue, right?",
-              "en_US": "Você sabe sobre o problema da sincronização da fala dela, certo?",
+              "en_US": "Você sabe do problema com a sincronização de voz dela, não sabe?",
               "de_DE": "Du wei\u00dft doch von dem Problem mit ihrer Sprachsynchronisation, oder?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u4f60\u77e5\u9053\u5979\u7684\u8bed\u8a00\u6a21\u7ec4\u574f\u4e86\u5bf9\u5427\uff1f",
@@ -9423,7 +9423,7 @@
           {
             "message": {
               "": "It's not like Lea could have told you...",
-              "en_US": "Não é como se Lea pudesse ter contado isso a você...",
+              "en_US": "Não tinha como a Lea ter contado isso a você...",
               "de_DE": "Es ist ja nicht so, dass Lea es dir h\u00e4tte sagen k\u00f6nnen...",
               "fr_FR": "fr_FR",
               "zh_CN": "\u8389\u4e9a\u5c31\u7b97\u60f3\u4eb2\u53e3\u544a\u8bc9\u4f60\u4e5f\u6ca1\u529e\u6cd5...",
@@ -9471,7 +9471,7 @@
           {
             "message": {
               "": "I just thought you're the quiet type... That you just didn't like to talk much...",
-              "en_US": "Achei que você era do tipo quieta... Que você simplesmente não gostava muito de falar...",
+              "en_US": "Achei que você era do tipo quieta... Que você não gostava muito de falar...",
               "de_DE": "... dachte ich blo\u00df, du w\u00e4rst von der stillen Sorte... Dass du einfach nicht gerne so viel redest...",
               "fr_FR": "fr_FR",
               "zh_CN": "\u6211\u4e00\u76f4\u4ee5\u4e3a\u4f60\u7684\u6c89\u9ed8...\u53ea\u662f\u4e0d\u7231\u8bf4\u8bdd\u800c\u5df2...",
@@ -10071,7 +10071,7 @@
           {
             "message": {
               "": "You really need just the right conditions for something like this to happen.",
-              "en_US": "Você realmente precisa apenas das condições certas para que algo como isso aconteça.",
+              "en_US": "Você precisa apenas das condições certas para que algo assim aconteça.",
               "de_DE": "Manchmal braucht es nur die richtigen Umst\u00e4nde, damit so etwas passieren kann.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u8981\u5b8c\u7f8e\u907f\u5f00\u6bcf\u4e00\u4e2a\u4e86\u89e3\u7684\u673a\u4f1a\u4e5f\u662f\u8981\u70b9\u6280\u672f\u7684...",
@@ -10183,7 +10183,7 @@
           {
             "message": {
               "": "I suppose it was a pretty long day...",
-              "en_US": "Suponho que tenha sido um dia bastante longo...",
+              "en_US": "Foi um dia bastante longo...",
               "de_DE": "Das war wohl ein ziemlich langer Tag f\u00fcr dich, nehme ich an...",
               "fr_FR": "fr_FR",
               "zh_CN": "\u4eca\u5929\u786e\u5b9e\u73a9\u7684\u633a\u4e45\u4e86...",
@@ -10905,7 +10905,7 @@
           {
             "message": {
               "": "To be honest it becomes increasingly difficult for me to add more words for you, Lea...",
-              "en_US": "Para ser honesto, torna-se cada vez mais difícil para mim acrescentar mais palavras para você, Lea...",
+              "en_US": "Para ser sincero, está ficando cada vez mais difícil acrescentar mais palavras para você, Lea...",
               "de_DE": "Um ehrlich zu sein, wird es immer schwieriger, weitere W\u00f6rter f\u00fcr dich einzubauen, Lea.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u8389\u4e9a\uff0c\u5b9e\u8bdd\u8bf4\uff0c\u7ed9\u4f60\u6dfb\u52a0\u65b0\u8bcd\u5df2\u7ecf\u8d8a\u6765\u8d8a\u56f0\u96be\u4e86...",
@@ -11017,7 +11017,7 @@
           {
             "message": {
               "": "Like when there is something you want to tell them.",
-              "en_US": "Como quando há algo que você quer dizer a eles.",
+              "en_US": "Por exemplo, se você quiser contar algo pra eles.",
               "de_DE": "Wenn du ihnen beispielsweise etwas sagen m\u00f6chtest.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u6bd4\u5982\u4f60\u8fd8\u6709\u8bdd\u8981\u8ddf\u4ed6\u4eec\u8bf4\u3002",
@@ -11433,7 +11433,7 @@
           {
             "message": {
               "": "I'm here with Tronny in \\c[3]Rookie Harbor Center\\c[0]! You know, at the fountain!",
-              "en_US": "Estou aqui com o Tronny no \\c[3]Centro do Porto do Novato\\c[0]! Você sabe, na fonte!",
+              "en_US": "Estou aqui com o Tronny no \\c[3]Centro do Porto do Novato\\c[0]! Perto da fonte!",
               "de_DE": "Ich bin mit Tronny im \\c[3]Rookie Harbor-Zentrum\\c[0]! Du wei\u00dft schon, beim Springbrunnen!",
               "fr_FR": "fr_FR",
               "zh_CN": "\u6211\u8ddf\u9686\u9686\u5728\\c[3]\u65b0\u624b\u6e2f\u4e2d\u5fc3\\c[0]\uff01 \u4f60\u61c2\u7684\uff0c\u55b7\u6cc9\u65c1\u8fb9\uff01",
@@ -12758,7 +12758,7 @@
             "entity": { "global": true, "name": "hexaShocked" },
             "text": {
               "": "Aye, not nearly as many chasms this time. I could handle it.",
-              "en_US": "Sim, não teve tantos abismos desta vez. Eu consigo lidar com isso.",
+              "en_US": "Sim, não teve tantos abismos desta vez. Foi tranquilo.",
               "langUid": 898,
               "de_DE": "Ja, diesmal nicht ganz so viele Abgr\u00fcnde. Passt schon.",
               "ja_JP": "\u307e\u3042\u3001\u4eca\u56de\u306f\u6df1\u3044\u7a74\u306f\u305d\u3093\u306a\u306b\n\u306a\u304b\u3063\u305f\u304b\u3089\u306d\u3002\u306a\u3093\u3068\u304b\u306a\u3063\u305f\u3088\u3002<<A<<[CHANGED 2018/08/28]",
@@ -12771,7 +12771,7 @@
             "entity": { "global": true, "name": "pentaComforting" },
             "text": {
               "": "So...\\. what about all the hot coals in there?",
-              "en_US": "Então...\\. E quanto a todas aquelas brasas lá dentro?",
+              "en_US": "Então...\\. E aquelas chamas lá dentro?",
               "langUid": 899,
               "de_DE": "Was anderes...\\. Was hatte es mit dieser hei\u00dfen Kohle da drin auf sich?",
               "ja_JP": "\u305d\u3063\u304b...\\.\u30a2\u30c4\u30a2\u30c4\u306e\n\u77f3\u70ad\u306f\u3069\u3046\u3060\u3063\u305f\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -12784,7 +12784,7 @@
             "entity": { "global": true, "name": "hexaShocked" },
             "text": {
               "": "Nah, I don't mind those.",
-              "en_US": "Não, eu não me importo com isso.",
+              "en_US": "Não, eu não ligo pra isso.",
               "langUid": 900,
               "de_DE": "Ach, die war mir egal.",
               "ja_JP": "\u3044\u3044\u3084\u3001\u6c17\u306b\n\u306a\u3089\u306a\u304b\u3063\u305f\u3088\u3002<<A<<[CHANGED 2018/08/28]",
@@ -12932,7 +12932,7 @@
             "entity": { "global": true, "name": "view1" },
             "text": {
               "": "Look! You can see that Ba'kii village over there!",
-              "en_US": "Veja! Você pode a vila Ba'kii daqui!",
+              "en_US": "Olha! Você pode ver a vila Ba'kii daqui!",
               "langUid": 922,
               "de_DE": "Guck mal! Man kann das Ba'kii Dorf von hier sehen!",
               "ja_JP": "\u898b\u3066\u3088\uff01\u30d0\u30ad\u30fc\u30a4\u30fb\u30af\u30e0\u306e\u6751\u304c\n\u5411\u3053\u3046\u306b\u898b\u3048\u308b\u3088\uff01<<A<<[CHANGED 2018/08/28]",
@@ -13012,7 +13012,7 @@
             "entity": { "global": true, "name": "wind3" },
             "text": {
               "": "It's not much colder up here, though.",
-              "en_US": "Não está muito mais frio aqui em cima, entretanto.",
+              "en_US": "Mas aqui em cima não está muito fresco não.",
               "langUid": 931,
               "de_DE": "Aber hier ist es auch nicht wesentlich k\u00fchler.",
               "ja_JP": "\u3053\u3053\u3082\u305d\u308c\u307b\u3069\n\u6dbc\u3057\u3044\u308f\u3051\u3058\u3083\u306a\u3044\u3051\u3069\u306a\u3002<<A<<[CHANGED 2018/08/28]",
@@ -13025,7 +13025,7 @@
             "entity": { "global": true, "name": "wind2" },
             "text": {
               "": "Well... the breeze is certainly nice.",
-              "en_US": "Bem... a brisa é certamente agradável.",
+              "en_US": "Bom... pelo menos aqui tem uma brisa agradável.",
               "langUid": 932,
               "de_DE": "Njoa... Die Brise tut jedenfalls ganz gut.",
               "ja_JP": "\u307e\u3042...\u98a8\u306f\u6c17\u6301\u3061\u3044\u3044\u3051\u3069\u3002<<A<<[CHANGED 2018/08/28]",
@@ -13131,7 +13131,7 @@
             "entity": { "global": true, "name": "chest3" },
             "text": {
               "": "Top most floor and watch for suspicious dot markings on the ground.",
-              "en_US": "No último andar e fique atento a marcas de pontos suspeitos no chão.",
+              "en_US": "Em uma sala do último andar, fique atenta a marcas de pontos suspeitos no chão.",
               "langUid": 939,
               "de_DE": "Oberstes Stockwerk. Verd\u00e4chtige Punkte auf dem Boden.",
               "ja_JP": "\u4e00\u756a\u4e0a\u306e\u968e\u3067\u3001\u5e8a\u306b\u602a\u3057\u3044\u70b9\u304c\n\u3042\u308b\u3068\u3053\u308d\u3092\u63a2\u3059\u3068\u3044\u3044\u3088\u3002<<A<<[CHANGED 2018/08/28]",

@@ -1711,7 +1711,7 @@
                 {
                   "message": {
                     "": "As it happens, the well-being of nature requires our attention once again.",
-                    "en_US": "Acontece que o equilíbrio ambiental requer nossa atenção mais uma vez",
+                    "en_US": "Acontece que o equilíbrio ambiental requer nossa atenção mais uma vez.",
                     "de_DE": "Wie es der Zufall will, erfordert die Gesundheit unserer Natur wieder einmal unsere Aufmerksamkeit.",
                     "fr_FR": "fr_FR",
                     "langUid": 275,
@@ -1768,7 +1768,7 @@
                 {
                   "message": {
                     "": "Worse yet, it has stricken a sacred tree that has been proven to be vital to the ecosystem of the entire area.",
-                    "en_US": "Pior ainda, atingiu uma árvore sagrada que se provou ser vital para o ecossistema de toda a área.",
+                    "en_US": "O pior de tudo é que ela atingiu uma árvore sagrada que é vital para o ecossistema de toda a área.",
                     "de_DE": "Das Schlimme daran ist, dass es einen heiligen Baum getroffen hat, der f\u00fcr das \u00d6kosystem des gesamten Gebiets lebenswichtig ist.",
                     "fr_FR": "fr_FR",
                     "langUid": 278,
@@ -1803,7 +1803,7 @@
                 {
                   "message": {
                     "": "I fear that healing it will be more arduous than with the other cases, but it must be done at all costs.",
-                    "en_US": "Temo que a cura será mais dificil do que com os outros casos, mas deve ser feita a todo custo.",
+                    "en_US": "Temo que a cura será mais dificil neste caso do que nos outros, mas deve ser feita a todo custo.",
                     "de_DE": "Ihn zu heilen wird m\u00fchsamer werden, f\u00fcrchte ich, aber wir m\u00fcssen ihn um jeden Preis retten.",
                     "fr_FR": "fr_FR",
                     "langUid": 279,
@@ -1882,7 +1882,7 @@
                     {
                       "message": {
                         "": "With it you can treat the disease just like before, but there are two vital differences.",
-                        "en_US": "Com ele você pode tratar a doença como antes, mas há duas diferenças importantes.",
+                        "en_US": "Com ela você pode tratar a doença como antes, mas há duas diferenças importantes.",
                         "de_DE": "Damit kannst du die Infektion im Grunde wie zuvor behandeln. Dabei solltest du aber zwei wichtige Dinge beachten.",
                         "fr_FR": "fr_FR",
                         "langUid": 281,
@@ -1901,7 +1901,7 @@
                     {
                       "message": {
                         "": "First, since the condition is more severe, the medication will \\c[3]take time\\c[0] to fully take effect.",
-                        "en_US": "Primeiro, como a condição é mais grave, o medicamento \\c[3]levará algum tempo\\c[0] para fazer efeito completo",
+                        "en_US": "Primeiro, como a condição é mais grave, o medicamento \\c[3]levará algum tempo\\c[0] para fazer efeito completo.",
                         "de_DE": "Zun\u00e4chst einmal wird die Medizin \\c[3]mehr Zeit\\c[0] brauchen, um vollst\u00e4ndig zu wirken, da das Stadium fortgeschrittener ist.",
                         "fr_FR": "fr_FR",
                         "langUid": 282,
@@ -1920,7 +1920,7 @@
                     {
                       "message": {
                         "": "Also, the strong smell and taste of the salve will \\c[3]lure the creatures of the area towards it\\c[0].",
-                        "en_US": "Além disso, o cheiro forte e o sabor da seiva irão \\c[3]atrair as criaturas da área em sua direção\\c[0].",
+                        "en_US": "Além disso, o aroma forte e o gosto da seiva vão \\c[3]atrair as criaturas próximas para a árvore\\c[0].",
                         "de_DE": "Zudem wird der starke Geruch und Geschmack der Salbe wohl \\c[3]die Wildtiere aus der Umgebung anlocken\\c[0].",
                         "fr_FR": "fr_FR",
                         "langUid": 283,
@@ -2036,7 +2036,7 @@
                     {
                       "message": {
                         "": "I understand that your life is a restless one, but I still implore you to not take this matter lightly.",
-                        "en_US": "Eu entendo que sua vida é corrida, mas ainda imploro que não leve este assunto levianamente.",
+                        "en_US": "Eu entendo que sua vida é corrida, mas por favor, não subestime a importância deste assunto.",
                         "de_DE": "Ich wei\u00df, dass du viel um die Ohren hast, aber ich bitte dich inst\u00e4ndig, das Problem ernst zu nehmen.",
                         "fr_FR": "fr_FR",
                         "langUid": 270,

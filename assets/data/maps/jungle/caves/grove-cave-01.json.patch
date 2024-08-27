@@ -1759,7 +1759,7 @@
               "icon": "INFO",
               "hoverText": {
                 "": "Henry's Data Probe",
-                "": "Sonda de Dados do Henry",
+                "en_US": "Sonda de Dados do Henry",
                 "de_DE": "Henrys Datensonde",
                 "zh_CN": "\u4ea8\u5229\u7684\u6570\u636e\u63a2\u673a<<A<<[CHANGED 2017/12/12]",
                 "ko_KR": "\ud5e8\ub9ac\uc758 \ud0d0\uc0ac\uae30<<A<<[CHANGED 2017/11/16]",
@@ -1772,7 +1772,7 @@
                   "entity": { "player": true },
                   "text": {
                     "": "Retrieving Data",
-                    "": "Recuperando Dados",
+                    "en_US": "Recuperando Dados",
                     "de_DE": "Empfange Daten",
                     "fr_FR": "fr_FR",
                     "langUid": 85,

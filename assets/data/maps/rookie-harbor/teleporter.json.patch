@@ -10112,7 +10112,7 @@
           {
             "message": {
               "": "And...\\. you still remember everything from yesterday, right?\\. Meeting Emilie and all that?",
-              "en_US": "E...\\. você ainda se lembra de tudo de ontem, certo?\\. Conhecendo Emilie e tudo mais?",
+              "en_US": "E...\\. você ainda lembra de ontem, certo?\\. De conhecer a Emilie e tudo mais?",
               "de_DE": "Und...\\. und du erinnerst dich noch an alles, was gestern passiert ist?\\. Dass du Emilie getroffen hast und all das?<<C<<IGNORE",
               "fr_FR": "fr_FR",
               "langUid": 304,
@@ -11249,7 +11249,7 @@
           {
             "message": {
               "": "What, there was an automated Turret in the crate and it just attacked you on its own?",
-              "en_US": "O que?, tinha uma Metralhadora automatizada na caixa e ela atacou voc\u00ea por conta pr\u00f3pria?",
+              "en_US": "O que? tinha uma Metralhadora automatizada na caixa e ela atacou voc\u00ea por conta pr\u00f3pria?",
               "de_DE": "Was? Da war ein automatisches Gesch\u00fctz in der Kiste und es hat dich angegriffen?",
               "fr_FR": "fr_FR",
               "langUid": 438,
@@ -12205,7 +12205,7 @@
               {
                 "message": {
                   "": "You wanna know what I'm doing?\\. Keeping this harbor running without proper payment, as usual.",
-                  "en_US": "Quer saber o que estou fazendo?\\. Mantendo este porto funcionando recebendo uma mixaria, como de costume.",
+                  "en_US": "Quer saber o que estou fazendo?\\. Mantendo este porto funcionando por uma mixaria, como sempre.",
                   "de_DE": "Du willst wissen, was ich hier mache?\\. Den Hafen am Laufen halten. Ohne vern\u00fcnftige Bezahlung. Wie immer.",
                   "fr_FR": "fr_FR",
                   "langUid": 474,
@@ -13303,7 +13303,7 @@
           {
             "message": {
               "": "But trying to annoy me on my home-turf was a bad move, lady.",
-              "en_US": "Mas tentar me irritar na minha \u00e1rea foi p\u00e9ssima escolha, senhorita.",
+              "en_US": "Mas tentar me irritar na minha \u00e1rea foi uma p\u00e9ssima escolha, senhorita.",
               "de_DE": "Aber mir da auf'e Pelle zu r\u00fccken, wo ich mich auskenn', war'n schwerer Fehler, Fr\u00e4ulein.",
               "fr_FR": "fr_FR",
               "langUid": 473,
@@ -14911,7 +14911,7 @@
           {
             "message": {
               "": "Hey, I'll be nice. No need to get violent with me.",
-              "en_US": "Ei, eu vou ser legal. N\u00e3o h\u00e1 necessidade de ser violenta comigo.",
+              "en_US": "Ei, eu vou ser bozinho. Não precisa ser violenta comigo.",
               "de_DE": "Sachte, sachte, keine Gewalt. Ich ergeb' mich.",
               "fr_FR": "fr_FR",
               "langUid": 502,
@@ -15375,7 +15375,7 @@
           {
             "message": {
               "": "And you better go there too and report to Sgt. Brassler.",
-              "en_US": "E \u00e9 melhor voc\u00ea ir l\u00e1 tamb\u00e9m e relatar ao Sgt. Brassler.",
+              "en_US": "E é melhor você ir lá também e falar com o Sgt. Brassler.",
               "de_DE": "Du solltest uns dorthin begleiten und mit Hauptmann Brassler reden.",
               "fr_FR": "fr_FR",
               "langUid": 494,

@@ -741,7 +741,7 @@
                 {
                   "message": {
                     "": "Well, what do we have here?\\. Another \\v[lore.title.seeker], eh?",
-                    "en_US": "Bem, o que temos aqui?\\. Outro \\v[lore.title.seeker], hein?",
+                    "en_US": "Bem, o que temos aqui?\\. Outra \\v[lore.title.seeker], hein?",
                     "de_DE": "Na, wen haben wir denn da?\\. Noch ein Seeker, he?",
                     "zh_CN": "\u54c8\uff0c\u770b\u770b\u3002\\.\u53c8\u6765\u4e00\u4e2a\\v[lore.title.seeker]\u3002<<A<<[CHANGED 2018/01/06]",
                     "ja_JP": "\u304a\u3084\u3001\u541b\u306f\u306a\u3093\u3060\uff1f\\.\u65b0\u3057\u3044\u5225\u306e\\v[lore.title.seeker]\u304b\uff1f<<A<<[CHANGED 2018/01/06]",
@@ -813,7 +813,7 @@
                 {
                   "message": {
                     "": "Many of you even offer some assistance to us, being all do-goody and well-intentioned, I suppose.",
-                    "en_US": "Muitos de vocês até nos oferecem alguma ajuda, sendo todos bondosos e bem-intencionados, suponho.",
+                    "en_US": "Vocês até nos oferecem ajuda, sempre com boas intenções, imagino.",
                     "de_DE": "Viele von euch bieten uns sogar Unterst\u00fctzung an, weil sie was Gutes tun wollen, nehme ich an.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4f60\u4eec\u4e2d\u7684\u5f88\u591a\u4eba\u7ed9\u6211\u4eec\u63d0\u4f9b\u4e86\u5e2e\u52a9\u3002\u6211\u5bf9\u4f60\u4eec\u7684\u5584\u610f\u8868\u793a\u611f\u8c22\u3002",
@@ -832,7 +832,7 @@
                 {
                   "message": {
                     "": "But can just anyone with a fancy title do real policework and face the worst of humanity?\\. I doubt it.",
-                    "en_US": "Mas qualquer pessoa com um título chique, pode fazer um trabalho de guarda e enfrentar o pior da humanidade?\\. Eu duvido.",
+                    "en_US": "Mas será que um título pomposo faz alguém bom o suficiente para enfrentar o pior?\\. Duvido.",
                     "de_DE": "Ich bezweifle aber, dass ihr in der Lage seid, wirkliche Polizeiarbeit zu leisten und euch den menschlichen Abgr\u00fcnden zu stellen.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4f46\u4e0d\u662f\u4eba\u4eba\u90fd\u80fd\u80dc\u4efb\u8b66\u5bdf\u7684\u5de5\u4f5c\uff0c\u4e0e\u793e\u4f1a\u7684\u9ed1\u6697\u9762\u505a\u5bf9\u6297\u7684\u3002\\.\u5c24\u5176\u662f\u4f60\u4eec\u8fd9\u6837\u7684\u8fc7\u5ba2\u3002",
@@ -870,7 +870,7 @@
                 {
                   "message": {
                     "": "You want to prove me wrong, eh?\\. Alright, then I got a nice and simple practice task for you.",
-                    "en_US": "Você quer provar que estou errada, hein?\\. Tudo bem, então eu tenho uma tarefa prática simples para você.",
+                    "en_US": "Você quer provar que estou errada?\\. Tudo bem, então eu tenho uma tarefa prática e simples para você.",
                     "de_DE": "Willst du mir etwa das Gegenteil beweisen?\\. Also gut, dann habe ich eine einfache Aufgabe f\u00fcr dich.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4f60\u60f3\u8981\u8bc1\u660e\u6211\u9519\u4e86\u5417\uff1f\\.\u90a3\u597d\uff0c\u6211\u6709\u4e2a\u7b80\u5355\u7684\u4efb\u52a1\u7ed9\u4f60\u3002<<A<<[CHANGED 2018/09/19]",
@@ -1242,7 +1242,7 @@
               {
                 "message": {
                   "": "It should be jumping around somewhere on the roofs of Bergen.\\. Just climb around a bit and keep your eyes open!",
-                  "en_US": "Deve estar pulando em algum lugar nos telhados de Bergen.\\. Basta subir um pouco e manter os olhos abertos!",
+                  "en_US": "Ele deve estar pulando por aí nos telhados de Bergen.\\. Suba nas casas e fique atenta!",
                   "de_DE": "Sie sollte irgendwo auf den D\u00e4chern hier herumspringen.\\. Klettere ein wenig herum und halte deine Augen offen!",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u5b83\u5e94\u8be5\u4f1a\u5728\u4ffe\u5c14\u6839\u7684\u67d0\u4e2a\u5c4b\u9876\u4e0a\u8df3\u6765\u8df3\u53bb\u3002\\.\u56db\u5904\u722c\u722c\uff0c\u7741\u5927\u4f60\u7684\u773c\u775b\u4ed4\u7ec6\u627e\u627e\uff01<<A<<[CHANGED 2018/10/04]",
@@ -1421,7 +1421,7 @@
                 {
                   "message": {
                     "": "What, you gave it to another guard?\\. I don't remember sending anyone for you.",
-                    "en_US": "O que, você deu para outro guarda?\\. Não me lembro de mandar ninguém para você.",
+                    "en_US": "O quê, você o entregou para outro guarda?\\. Não me lembro de ter enviado ninguém.",
                     "de_DE": "Was? Du hast sie einer anderen Wache \u00fcbergeben?\\. Ich erinnere mich nicht, jemanden geschickt zu haben.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4ec0\u4e48\uff1f\u4f60\u5df2\u7ecf\u628a\u5b83\u7ed9\u4e86\u53e6\u4e00\u4e2a\u5b88\u536b\uff1f\\.\u6211\u4e0d\u8bb0\u5f97\u6709\u628a\u4efb\u4f55\u4eba\u6d3e\u7ed9\u4f60\u3002<<A<<[CHANGED 2017/07/11]",
@@ -1649,7 +1649,7 @@
                 {
                   "message": {
                     "": "There you are again.\\. And I see neither criminal nor goat with you.\\. No success again, eh?",
-                    "en_US": "Você voltou.\\. E não vejo nem criminoso nem cabra com você.\\. Sem sucesso de novo, hein?",
+                    "en_US": "Você voltou.\\. E parece que não trouxe nem o criminoso nem a cabra.\\. Sem sucesso de novo, não é mesmo?",
                     "de_DE": "Da bist du ja wieder.\\. Und ich sehe weder Betr\u00fcger, noch Ziege bei dir.\\. Wieder mal kein Gl\u00fcck gehabt, he?",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4f60\u6765\u4e86\u3002\\.\u6211\u4eec\u5e76\u6ca1\u6709\u770b\u5230\u4efb\u4f55\u7f6a\u72af\u6216\u8005\u5c71\u7f8a\u5728\u4f60\u7684\u8eab\u8fb9\u3002\\.\u4f60\u53c8\u5931\u8d25\u4e86\uff0c\u5bf9\u5417\uff1f",
@@ -2098,7 +2098,7 @@
                     {
                       "message": {
                         "": "What, you don't even want to restore your honor now?\\. Come on!",
-                        "en_US": "O quê, você nem quer restaurar sua honra agora? \\. Não seja covarde!",
+                        "en_US": "O quê, não vai tentar recuperar sua honra?\\. Não seja covarde!",
                         "de_DE": "Was? Du willst deine Ehre nicht wiederherstellen?\\. Das meinst du doch nicht ernst!",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u4ec0\u4e48\uff1f\u4f60\u5c31\u4e0d\u60f3\u627e\u56de\u573a\u5b50\uff1f\\.\u592a\u8ba9\u6211\u5931\u671b\u4e86\uff01",
@@ -2177,7 +2177,7 @@
               {
                 "message": {
                   "": "Their hideout should be on \\c[3]Rising Path 4 in \\v[area.bergen-trails.name]\\c[0], so go get them!",
-                  "en_US": "O esconderijo deles deve ser em \\c[3]Escalada 4 em \\v[area.bergen-trails.name]\\c[0], então vá pegá-los!",
+                  "en_US": "O esconderijo deles deve estar na \\c[3]Escalada 4 na \\v[area.bergen-trails.name]\\c[0], então vá pegá-los!",
                   "de_DE": "Ihr Versteck sollte am \\c[3]Aufstieg 4 des Bergen-Trails\\c[0] sein. Hol sie dir!",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u4ed6\u4eec\u7684\u85cf\u533f\u5904\u5e94\u8be5\u662f\u5728\\v[area.bergen-trails.name]\\c[0]\u7684\\c[3]\u4e0a\u5347\u4e4b\u8def4\u4e0a\uff0c\u8fd9\u6b21\u4e00\u5b9a\u8981\u6293\u4f4f\u4ed6\u4eec\uff01",
@@ -2251,7 +2251,7 @@
                 {
                   "message": {
                     "": "Welcome back.\\. From your grin I suppose you handled everything this time?",
-                    "en_US": "Bem-vinda de volta.\\. Pelo seu sorriso, acho que você lidou com tudo desta vez?",
+                    "en_US": "Bem-vinda de volta.\\. Pelo seu sorriso, parece que você deu conta de tudo desta vez, não é?",
                     "de_DE": "Willkommen zur\u00fcck.\\. Deinem Grinsen nach warst du dieses Mal erfolgreicher?",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u6b22\u8fce\u56de\u6765\u3002\\.\u4ece\u4f60\u7684\u7b11\u5bb9\u4e0a\uff0c\u6211\u731c\u8fd9\u6b21\u4f60\u628a\u4e8b\u60c5\u90fd\u5904\u7406\u597d\u4e86\uff1f",
@@ -2448,7 +2448,7 @@
                 {
                   "message": {
                     "": "We will take that translator you found and just prepare for future activities.",
-                    "en_US": "Pegaremos aquele tradutor que você encontrou e vamos nos preparas para atividades futuras.",
+                    "en_US": "Vamos aproveitar o tradutor que você encontrou e nos preparar para tarefas futuras.",
                     "de_DE": "Wir werden den \u00dcbersetzer nehmen, den du gefunden hast, und uns auf zuk\u00fcnftige Ma\u00dfnahmen vorbereiten.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4f60\u627e\u5230\u7684\u8fd9\u4e2a\u7ffb\u8bd1\u5668\u5c31\u4ea4\u7ed9\u6211\u4eec\u5427\uff0c\u4f1a\u5bf9\u6211\u4eec\u672a\u6765\u7684\u884c\u52a8\u6709\u5e2e\u52a9\u7684\u3002",
@@ -2483,7 +2483,7 @@
                 {
                   "message": {
                     "": "We will keep you updated on the situation when  you come by.\\. For now you did good, \\v[lore.title.seeker].",
-                    "en_US": "Manteremos você atualizada sobre a situação quando você vier.\\. Por enquanto você fez bem, \\v[lore.title.seeker]",
+                    "en_US": "Manteremos você atualizada sobre a situação quando retornar.\\. Por enquanto você fez bem, \\v[lore.title.seeker].",
                     "de_DE": "Wir werden dich auf dem Laufenden halten, wenn du vorbeikommst.\\. F\u00fcrs Erste hast du gute Arbeit geleistet, Seeker.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4ee5\u540e\u4f60\u518d\u6765\u6211\u4eec\u4f1a\u7ed9\u4f60\u8bf4\u8bf4\u60c5\u51b5\u7684\u3002\\.\u4f60\u505a\u5f97\u771f\u7684\u5f88\u597d\uff0c\\v[lore.title.seeker]\u3002",
@@ -2580,7 +2580,7 @@
               {
                 "message": {
                   "": "The goats have been quiet recently.\\. Hopefully peaceful coexistence will be possible.",
-                  "en_US": "As cabras estão quietas recentemente.\\. Esperançosamente, uma coexistência pacífica será possível.",
+                  "en_US": "As cabras estão quietas recentemente.\\. Espero que possamos ter uma convivência pacífica.",
                   "de_DE": "Die Ziegen waren in letzter Zeit ruhig.\\. Ich hoffe, dass das auch k\u00fcnftig so bleibt.",
                   "zh_CN": "\u5c71\u7f8a\u6700\u8fd1\u5f88\u5b89\u9759\u3002\\.\u5e0c\u671b\u548c\u5e73\u80fd\u7ee7\u7eed\u4e0b\u53bb\u3002<<A<<[CHANGED 2020/06/17]",
                   "ja_JP": "\u30e4\u30ae\u305f\u3061\u304c\u6700\u8fd1\u5927\u4eba\u3057\u3044\u3002\n\\.\u5e73\u548c\u306b\u5171\u5b58\u3067\u304d\u308b\u306e\u306a\u3089\u3044\u3044\u304c\u306a\u3002<<A<<[CHANGED 2020/06/17]",

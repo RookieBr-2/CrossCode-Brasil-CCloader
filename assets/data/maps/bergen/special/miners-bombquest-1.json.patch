@@ -146,7 +146,7 @@
           {
             "message": {
               "": "Nice job in there, the area looks mostly clear.\\. But I still detect some weird object.",
-              "en_US": "Bom trabalho por aí, a área parece quase limpa.\\. Mas ainda detecto algum objeto estranho.",
+              "en_US": "Bom trabalho, a área parece quase limpa.\\. Mas ainda detecto algum objeto estranho.",
               "de_DE": "Gute Arbeit! Das Gebiet sieht nun recht sicher aus.\\. Ein seltsames Objekt wird mir aber immer noch angezeigt.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u505a\u5f97\u4e0d\u9519\uff0c\u8fd9\u7247\u533a\u57df\u770b\u8d77\u6765\u57fa\u672c\u53ef\u4ee5\u4e86\u3002\\.\u4f46\u662f\u6211\u4ecd\u7136\u68c0\u6d4b\u5230\u4e00\u4e9b\u5947\u602a\u7684\u4e1c\u897f\u3002",
@@ -932,7 +932,7 @@
           {
             "message": {
               "": "Good job, the bombs are back online and it seems like you already got the hang of explosive bug-extermination.",
-              "en_US": "Bom trabalho, as bombas estão online novamente e parece que você já pegou o jeito de como exterminar esses insetos.",
+              "en_US": "Bom trabalho, as bombas estão funcionando de novo e parece que você já pegou o jeito de como exterminar esses insetos.",
               "de_DE": "Gute Arbeit! Die Bomben funktionieren wieder. Und du scheinst nun den Dreh rauszuhaben, wie man die K\u00e4fer wegsprengt.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u505a\u5f97\u597d\uff0c\u70b8\u836f\u8fde\u7ebf\u5b8c\u6210\uff0c\u800c\u4f60\u770b\u4e0a\u53bb\u4e5f\u638c\u63e1\u4e86\u7206\u7834\u9664\u866b\u7684\u6280\u5de7\u3002<<A<<[CHANGED 2018/09/19]",
@@ -1006,7 +1006,7 @@
           {
             "message": {
               "": "Now continue with those rocks there and stay alert for whatever is inside of them.",
-              "en_US": "Agora continue destruindo essas pedras e fique alerta para o que quer que esteja dentro delas.",
+              "en_US": "Agora continue destruindo essas pedras e fique alerta para o que pode estar dentro delas.",
               "de_DE": "Jetzt mach mit den Steinen dort weiter. Pass aber auf, wer wei\u00df, was da drin ist.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u4f60\u7ee7\u7eed\u7834\u5ca9\u5427\uff0c\u8fd8\u6709\u5c0f\u5fc3\u91cc\u9762\u7684\u866b\u5b50\u3002",
@@ -1092,7 +1092,7 @@
           {
             "message": {
               "": "They'll slow down whatever's causing trouble, but they won't hold for long.\\. So don't rely on them too much!",
-              "en_US": "Eles vão desacelerar o que quer que esteja causando problemas, mas não vão segurar por muito tempo.\\. Portanto, não confie muito nelas!",
+              "en_US": "Elas vão atrasar aqueles insetos, mas não por muito tempo.\\. Portanto, não confie muito nelas!",
               "de_DE": "Sie bremsen alles aus, was \u00c4rger macht, halten aber nicht lange.\\. Verlass dich also nicht zu sehr auf sie!",
               "zh_CN": "\u65e0\u8bba\u662f\u4ec0\u4e48\u654c\u4eba\u901a\u8fc7\uff0c\u4ed6\u4eec\u7684\u901f\u5ea6\u90fd\u4f1a\u51cf\u6162\uff0c\u4f46\u5c4f\u969c\u4e0d\u80fd\u575a\u6301\u5f88\u4e45\u3002\\.\u6240\u4ee5\u4e0d\u8981\u592a\u8fc7\u4f9d\u8d56\u5b83\u4eec\uff01<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u30d0\u30ea\u30a2\u306f\u30c8\u30e9\u30d6\u30eb\u306e\u5143\u304b\u3089\u5c11\u3057\u306f\u5b88\u3063\u3066\u304f\u308c\u308b\u304c\u3001\n\\c[3]\u305d\u3046\u9577\u304f\u306f\u3082\u305f\u306a\u3044\\c[0]\u3002\\. \u3060\u304b\u3089\u3001\n\u3042\u3093\u307e\u308a\u983c\u308a\u3059\u304e\u308b\u306a\u3088\uff01<<A<<[CHANGED 2018/09/19]",
@@ -3509,7 +3509,7 @@
           {
             "message": {
               "": "I got this under control now and soon we can resume work.\\. You can report back to the HQ, good work.",
-              "en_US": "Eu tenho tudo sob controle agora e logo podemos retomar o trabalho.\\. Você pode relatar para o QG, bom trabalho.",
+              "en_US": "Tenho tudo sob controle e em breve retomaremos o trabalho.\\. Vá informar o QG. Bom trabalho!",
               "de_DE": "Alles wieder unter Kontrolle. Das hei\u00dft, wir k\u00f6nnen bald wieder malochen.\\. Du kannst dem Hauptquartier berichten. Gute Arbeit.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u6211\u73b0\u5728\u5b8c\u5168\u63a7\u5236\u4e86\u8fd9\u91cc\uff0c\u4e0d\u4e45\u6211\u4eec\u5c31\u53ef\u4ee5\u5f00\u59cb\u91cd\u65b0\u5de5\u4f5c\u4e86\u3002\\.\u4f60\u53ef\u4ee5\u56de\u5230\u603b\u90e8\u90a3\u91cc\u4e86\uff0c\u505a\u5f97\u4e0d\u9519\u3002",
@@ -4222,7 +4222,7 @@
               {
                 "message": {
                   "": "I'm running regular checks here and everything seems absolutely clear now.\\. Great work down there!",
-                  "en_US": "Estou fazendo verificações regulares aqui e tudo parece absolutamente claro agora.\\. Bom trabalho lá embaixo!",
+                  "en_US": "Estou fazendo checagens aqui e tudo parece bem agora.\\. Bom trabalho!",
                   "de_DE": "Ich lass grad nochmal die Umgebung pr\u00fcfen, scheint aber alles wieder normal zu sein.\\. Gute Arbeit!",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u6211\u8dd1\u4e86\u51e0\u6b21\u5e38\u89c4\u68c0\u67e5\uff0c\u4e00\u5207\u72b6\u51b5\u826f\u597d\u3002\\.\u5e72\u5f97\u6f02\u4eae\uff01",
@@ -4257,7 +4257,7 @@
               {
                 "message": {
                   "": "You can report back to the Chief Miner now and show him whatever the heck you found there.",
-                  "en_US": "Você pode reportar de volta ao Minerador Chefe agora e mostrar a ele tudo o que você encontrou lá.",
+                  "en_US": "Volte e informe o Minerador Chefe sobre tudo que você encontrou.",
                   "de_DE": "Du kannst dem Obersteiger jetzt berichten und ihm das komische Teil zeigen, was du hier gefunden hast.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u4f60\u73b0\u5728\u53ef\u4ee5\u7ed9\u9996\u5e2d\u77ff\u5de5\u56de\u62a5\u4e86\uff0c\u7136\u540e\u8bb0\u5f97\u7ed9\u4ed6\u770b\u770b\u4f60\u5728\u4e0b\u9762\u627e\u5230\u7684\u90a3\u4e1c\u897f\u3002",
@@ -4452,7 +4452,7 @@
                 {
                   "message": {
                     "": "We could use that to lure them in and then preemptively reduce their numbers.\\. How about it?",
-                    "en_US": "Poderíamos usar isso para atraí-los e, em seguida, reduzir significativamente seu número.\\. Que tal isso?",
+                    "en_US": "Podemos usar isso para atraí-los e depois reduzir significativamente o número deles.\\. O que acha?",
                     "de_DE": "Wir k\u00f6nnten ihn verwenden, um sie zu k\u00f6dern und vorsorglich auszumerzen.\\. Bist du dabei?",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u6211\u4eec\u53ef\u4ee5\u7528\u5b83\u6765\u5438\u5f15\u6606\u866b\uff0c\u7136\u540e\u6765\u4e2a\u5148\u53d1\u5236\u4eba\uff0c\u51cf\u5c11\u4ed6\u4eec\u7684\u6570\u91cf\u3002\\.\u8fd9\u4e2a\u5efa\u8bae\u5982\u4f55\uff1f",
@@ -4493,7 +4493,7 @@
                     {
                       "message": {
                         "": "Excellent!\\. Just enter the chamber again.\\. I'll prepare everything for you!",
-                        "en_US": "Excelente!\\. Basta entrar na câmara novamente.\\. Vou preparar tudo para você!",
+                        "en_US": "Excelente!\\. Vá para a câmara novamente.\\. Vou preparar tudo para você!",
                         "de_DE": "T\u00f6ffte!\\. Geh einfach nochmal in die Kammer.\\. Ich bereite alles f\u00fcr dich vor.",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u592a\u68d2\u4e86\uff01\\.\u4f60\u8fdb\u53bb\u5c31\u884c\u3002\\.\u6211\u4f1a\u4e3a\u4f60\u51c6\u5907\u597d\u6240\u6709\u9700\u8981\u7684\u4e1c\u897f\uff01",
@@ -4512,7 +4512,7 @@
                     {
                       "message": {
                         "": "Just a warning: \\c[3]The nanosounds will most likely make them really angry\\c[0].\\. So expect even \\c[3]more aggression\\c[0] than before.",
-                        "en_US": "Apenas um aviso: \\c[3]Os nanossons provavelmente os deixarão realmente irritados\\c[0].\\. Portanto, espere \\c[3]mais agressividade\\c[0] do que antes.",
+                        "en_US": "Apenas um aviso: \\c[3]O nanosom provavelmente os deixará muito irritados\\c[0].\\. Portanto, espere \\c[3]ainda mais agressividade\\c[0] do que antes.",
                         "de_DE": "Kleine Vorwarnung: \\c[3]Der Nanoschall wird sie wahrscheinlich sehr w\u00fctend machen\\c[0].\\. Rechne also mit \\c[3]noch mehr Aggressivit\u00e4t\\c[0] als zuvor.",
                         "zh_CN": "\u7ed9\u4f60\u4e00\u4e2a\u8b66\u544a\uff1a\u8fd9\u4e2a\u7eb3\u7c73\u58f0\u6ce2\u8bbe\u5907\u5f88\u53ef\u80fd\u4f1a\u4f7f\u5b83\u4eec\u53d8\u5f97\u6c14\u6025\u8d25\u574f\u3002\\.\u6240\u4ee5\u653b\u51fb\u80af\u5b9a\u4f1a\u6bd4\u4ee5\u524d\u66f4\u52a0\u6fc0\u70c8\u3002<<A<<[CHANGED 2018/09/14]",
                         "ja_JP": "\u305f\u3060\u3001\u6c17\u3092\u3064\u3051\u3066\u304f\u308c\u3002\\c[3]\u30ca\u30ce\u30b5\u30a6\u30f3\u30c9\u306f\u3084\u3064\u3089\u306e\u795e\u7d4c\n\u3092\u9006\u306a\u3067\u3059\u308b\u3093\u3060\\c[0]\u3002\\.\u3060\u304b\u3089\u3001\u524d\u3088\u308a\u3082\u3063\u3068\\c[3]\u653b\u6483\u7684\\c[0]\u306b\n\u306a\u308b\u3053\u3068\u304c\u4e88\u60f3\u3055\u308c\u308b\u3002<<A<<[CHANGED 2018/09/14]",
@@ -4768,7 +4768,7 @@
                   {
                     "message": {
                       "": "Not in the mood for explosives today?\\. A pity.",
-                      "en_US": "Não está com humor para explosivos hoje? \\. Uma pena.",
+                      "en_US": "Não está com humor para explosivos hoje?\\. Uma pena.",
                       "de_DE": "Nicht in Spreng-Stimmung heute?\\. Da kann man nix machen.",
                       "fr_FR": "fr_FR",
                       "zh_CN": "\u4eca\u5929\u4e0d\u60f3\u70b8\u4e1c\u897f\u4e86\u5417\uff1f\\.\u53ef\u60dc\u3002",
@@ -4879,7 +4879,7 @@
               {
                 "message": {
                   "": "The bugs will be more aggressive than usual, so be prepared.",
-                  "en_US": "Os bugs serão mais agressivos do que o normal, então esteja preparada.",
+                  "en_US": "Os insetos serão mais agressivos do que o normal, então esteja preparada.",
                   "de_DE": "Die K\u00e4fer werden aggressiver sein als sonst, pass also auf.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u8fd9\u4e9b\u6606\u866b\u4eec\u6bd4\u5e73\u5e38\u66f4\u5177\u6709\u653b\u51fb\u6027\uff0c\u8981\u5c0f\u5fc3\u3002",
@@ -4937,7 +4937,7 @@
               {
                 "message": {
                   "": "Great job in there, that should keep them at bay for a while!",
-                  "en_US": "Ótimo trabalho lá, isso deve mantê-los afastados por um tempo!",
+                  "en_US": "Ótimo trabalho, isso deve mantê-los afastados por um tempo!",
                   "de_DE": "Gute Arbeit! Jetzt sollten wir wieder eine Weile Ruhe haben.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u505a\u5f97\u4e0d\u9519\uff0c\u8fd9\u6837\u5c31\u6682\u65f6\u4e0d\u7528\u62c5\u5fc3\u5b83\u4eec\u4e86\uff01",
@@ -4956,7 +4956,7 @@
               {
                 "message": {
                   "": "Still, I got the feeling that we will never get rid of them, no matter how often we repeat that.",
-                  "en_US": "Mesmo assim, tenho a sensação de que nunca iremos nos livrar deles, não importa quantas vezes repitamos isso.",
+                  "en_US": "Mesmo assim, sinto que nunca vamos nos livrar deles, não importa quantas vezes tentemos.",
                   "de_DE": "Trotzdem habe ich das Gef\u00fchl, dass wir sie wohl nie ganz loswerden k\u00f6nnen.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u6211\u4f9d\u7136\u611f\u89c9\uff0c\u4e0d\u7ba1\u706d\u591a\u5c11\u6b21\u90fd\u6ca1\u6cd5\u6740\u5e72\u51c0\u5b83\u4eec\u7684\u3002",
@@ -5117,7 +5117,7 @@
                 {
                   "message": {
                     "": "Great job in there, that should keep them at bay for a while!",
-                    "en_US": "Ótimo trabalho lá, isso deve mantê-los afastados por um tempo!",
+                    "en_US": "Ótimo trabalho, isso deve mantê-los afastados por um tempo!",
                     "de_DE": "Gute Arbeit! Jetzt sollten wir wieder eine Weile Ruhe haben.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u505a\u5f97\u4e0d\u9519\uff0c\u8fd9\u6837\u5c31\u6682\u65f6\u4e0d\u7528\u62c5\u5fc3\u5b83\u4eec\u4e86\uff01",
@@ -5171,7 +5171,7 @@
                 {
                   "message": {
                     "": "Remember, we still got the device here, so we could repeat it as often as we want.",
-                    "en_US": "Lembre-se, ainda temos o dispositivo aqui, então podemos repeti-lo quantas vezes quisermos.",
+                    "en_US": "Lembre-se, com o dispositivo em mãos, podemos repetir isso sempre que precisar.",
                     "de_DE": "Denk dran, wir haben immer noch das Ger\u00e4t hier. Wir k\u00f6nnen das also so oft wiederholen, wie wir wollen.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u8bb0\u4f4f\uff0c\u6211\u4eec\u73b0\u5728\u624b\u5934\u4e0a\u6709\u8bbe\u5907\uff0c\u6240\u4ee5\u60f3\u6765\u591a\u5c11\u6b21\u90fd\u884c\u3002\u3002",
@@ -5542,7 +5542,7 @@
           {
             "message": {
               "": "Got a bad feeling about things down here and time's not improving it.",
-              "en_US": "Tenho um mau pressentimento sobre as coisas aqui e o tempo não está melhorando.",
+              "en_US": "Tenho um pressentimento ruim sobre isso e o tempo não está ajudando.",
               "de_DE": "Wird immer ungem\u00fctlicher hier, dat sach ich dir.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u6211\u6709\u4e00\u79cd\u4e0d\u7965\u7684\u9884\u611f\uff0c\u800c\u4e14\u8d8a\u6765\u8d8a\u5f3a\u4e86\u3002",
@@ -5667,7 +5667,7 @@
           {
             "message": {
               "": "See that tunnel there?\\. It leads to the chamber that we last worked on. ",
-              "en_US": "Está vendo aquele túnel?\\. Isso leva à câmara em que trabalhamos pela última vez.",
+              "en_US": "Está vendo aquele túnel?\\. Ele leva à câmara onde estivemos na última vez.",
               "de_DE": "Siehst du den Schacht da?\\. Der f\u00fchrt zu der Kammer, wo wir zuletzt malocht haben.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u770b\u5230\u4e86\u90a3\u91cc\u7684\u96a7\u9053\u5417\uff1f\\.\u5b83\u901a\u5f80\u6211\u4eec\u6211\u4eec\u4ee5\u524d\u7684\u91c7\u6398\u70b9\u3002",
@@ -5702,7 +5702,7 @@
           {
             "message": {
               "": "The entire operation was halted by some \\c[3]rock-hard crawlers\\c[0] and now even our \\c[3]blasting devices\\c[0] are offline.",
-              "en_US": "Toda a operação foi interrompida por alguns \\c[3]insetos resistentes\\c[0] e agora até mesmo nossos \\c[3]dispositivos de detonação\\c[0] estão offline.",
+              "en_US": "A operação foi interrompida pelos \\c[3]insetos resistentes\\c[0] e agora até os \\c[3]dispositivos de detonação\\c[0] estão desativados.",
               "de_DE": "Ein paar \\c[3]steinharte Krabbelviecher\\c[0] haben hier alles lahmgelegt. Und jetzt sind auch noch unsere Abschussger\u00e4te ausgefallen.",
               "zh_CN": "\u4e00\u4e9b\u5982\u5ca9\u77f3\u822c\u575a\u786c\u7684\u722c\u866b\u5bfc\u81f4\u6211\u4eec\u6574\u4e2a\u7cfb\u7edf\u505c\u6ede\u4e86\uff0c\u73b0\u5728\u751a\u81f3\u4e8e\u6211\u4eec\u7684\u7206\u7834\u8bbe\u5907\u4e5f\u5904\u4e8e\u79bb\u7ebf\u72b6\u6001\u3002<<A<<[CHANGED 2018/09/14]",
               "ja_JP": "\u4f5c\u696d\u306f\\c[3]\u5ca9\u4e26\u307f\u306b\u786c\u3044\u866b\u3069\u3082\\c[0]\u306e\u305b\u3044\u3067\u4f11\u6b62\u305b\u3056\u308b\u3092\n\u5f97\u306a\u304f\u306a\u3063\u3066\u306a\u3002\u3044\u307e\u3084\\c[3]\u7206\u7834\u7528\u306e\u30c7\u30d0\u30a4\u30b9\\c[0]\u3082\n\u7a3c\u50cd\u505c\u6b62\u3057\u3061\u307e\u3063\u305f\u3002<<A<<[CHANGED 2018/09/14]",
@@ -5791,7 +5791,7 @@
           {
             "message": {
               "": "Your first job is to \\c[3]reactivate the explosives on the console behind a security barrier\\c[0].",
-              "en_US": "Seu primeiro trabalho é \\c[3]reativar os explosivos no console atrás de uma barreira de segurança\\c[0].",
+              "en_US": "Sua tarefa é \\c[3]reativar os explosivos no terminal\\c[0] que está atrás da \\c[3]barreira de segurança\\c[0].",
               "de_DE": "Deine Aufgabe ist es, \\c[3]den Sprengz\u00fcnder wieder zu aktivieren, der hinter der Sicherheitsbarriere liegt.\\c[0]",
               "zh_CN": "\u4f60\u7684\u7b2c\u4e00\u4efd\u5de5\u4f5c\u5c31\u662f\u7528\u5b89\u5168\u5c4f\u969c\u540e\u65b9\u7684\u64cd\u4f5c\u53f0\u91cd\u65b0\u6fc0\u6d3b\u70b8\u836f\u3002<<A<<[CHANGED 2018/09/14]",
               "ja_JP": "\u3042\u3093\u305f\u306e\u6700\u521d\u306e\u4ed5\u4e8b\u306f\u3001\\c[3]\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30d0\u30ea\u30a2\u306e\u88cf\u306b\u3042\u308b\u30b3\u30f3\u30bd\u30fc\u30eb\u4e0a\u306e\u7206\u5f3e\u3092\u518d\u8d77\u52d5\u3059\u308b\u3053\u3068\\c[0]\u3060\u3002<<A<<[CHANGED 2018/09/14]",
@@ -5809,7 +5809,7 @@
           {
             "message": {
               "": "With those fine bombs you can then \\c[3]clear up all the rubble\\c[0] in the area and \\c[3]whatever comes crawling out of it\\c[0].\\. Understood?",
-              "en_US": "Com essas belas bombas, você deve \\c[3]limpar todos os escombros\\c[0] na área e \\c[3]tudo o que vier rastejando para fora\\c[0].\\. Entendido?",
+              "en_US": "Com essas belas bombas, você deve \\c[3]limpar todos os escombros\\c[0] na área e \\c[3]tudo o que vier rastejando dali\\c[0].\\. Entendido?",
               "de_DE": "Mit diesen schicken B\u00f6msken hier \\c[3]kannst du dann alles wegsprengen, was da kreucht und fleucht\\c[0].\\. Allet klar?",
               "zh_CN": "\u6709\u4e86\u8fd9\u4e9b\u5b8c\u597d\u7684\u70b8\u836f\uff0c\u4f60\u53ef\u4ee5\u6e05\u7406\u8fd9\u7247\u533a\u57df\u6240\u6709\u7684\u788e\u77f3\u4ee5\u53ca\u4ece\u4e2d\u722c\u51fa\u6765\u7684\u4efb\u4f55\u4e1c\u897f\u3002\\.\u660e\u767d\u4e86\u5417\uff1f<<A<<[CHANGED 2018/09/14]",
               "ja_JP": "\u305d\u3046\u3057\u305f\u3089\u8d77\u52d5\u3057\u305f\u7206\u5f3e\u3067\u3001\\c[3]\u30a8\u30ea\u30a2\u306b\u3042\u308b\u5ca9\\c[0]\u3068\\c[3]\u305d\u3053\u306b\u96a0\u308c\u3066\u308b\u866b\u3069\u3082\\c[0]\u3092\u7247\u3065\u3051\u3066\u304f\u308c\u3002\\.\u3044\u3044\u304b\uff1f<<A<<[CHANGED 2018/09/14]",
@@ -7480,7 +7480,7 @@
               {
                 "message": {
                   "": "Return to me as quickly as possible, so we can review the situation.",
-                  "en_US": "Volte para mim o mais rápido possível, para que possamos revisar a situação.",
+                  "en_US": "Volte pra cá o mais rápido possível, para que possamos revisar a situação.",
                   "de_DE": "Komma fix wieder zur\u00fcck, dann schaun wa, wat Sache is'.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u8bf7\u5c3d\u5feb\u56de\u6765\u627e\u6211\uff0c\u6211\u4eec\u8981\u56de\u987e\u4e00\u4e0b\u72b6\u51b5\u3002<<A<<[CHANGED 2017/07/11]",

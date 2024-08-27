@@ -11490,7 +11490,7 @@
           {
             "message": {
               "": "Well then...\\. Our next stage would be \\c[3]Faj'ro Temple\\c[0], right?",
-              "en_US": "Bem, então...\\. Nossa próxima etapa seria o \\c[3]Templo Faj'ro\\c[0], não é?",
+              "en_US": "Então...\\. Nossa próxima etapa será o \\c[3]Templo Faj'ro\\c[0], não é?",
               "de_DE": "Tja, dann...\\. ist als N\u00e4chstes also der \\c[3]Faj'ro-Tempel\\c[0] dran, richtig?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u90a3\u4e48...\\.\u6211\u4eec\u7684\u4e0b\u4e00\u7ad9\u662f\\c[3]\u6cd5\u52a0\u7f57\u795e\u5e99\\c[0]\uff0c\u5bf9\u5427\uff01",
@@ -11889,7 +11889,7 @@
           {
             "message": {
               "": "Hm.. maybe Lea wants a short breather after the duel? ",
-              "en_US": "Hm... talvez Lea queira um pouco de ar após o duelo?",
+              "en_US": "Pode ser que a Lea precise de um pouco de ar fresco depois do duelo.",
               "de_DE": "Hm... Vielleicht braucht Lea vorher eine kurze Pause?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u55ef..\u8389\u4e9a\u521a\u51b3\u6597\u5b8c\uff0c\u662f\u4e0d\u662f\u8981\u4f11\u606f\u4e00\u4e0b\uff1f",
@@ -11905,7 +11905,7 @@
           {
             "message": {
               "": "Ah oui... just tell us when you're ready!",
-              "en_US": "Ah oui... basta nos dizer quando você estiver pronta!",
+              "en_US": "Ah oui... é só nos dizer quando você estiver pronta!",
               "de_DE": "Ah oui... Sag uns einfach, wenn du so weit bist!",
               "fr_FR": "fr_FR",
               "zh_CN": "\u54e6\u5bf9...\u90a3\u4f60\u597d\u4e86\u53eb\u6211\u4eec\u4e00\u58f0\u5c31\u6210\uff01",
@@ -14375,7 +14375,7 @@
           {
             "message": {
               "": "We'll leave it up to you, Lea. Just enter the dungeon when you want to continue the race.",
-              "en_US": "Vamos deixar que você decida, Lea. Basta entrar na dungeon quando você quiser continuar a corrida.",
+              "en_US": "Vamos deixar que você decida, Lea. Entre na dungeon quando você quiser continuar a corrida.",
               "de_DE": "Wir lassen dich entscheiden, Lea. Geh einfach in den Dungeon, wenn du weitermachen willst.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u7531\u4f60\u51b3\u5b9a\u5427\u8389\u4e9a\u3002\u51b3\u5b9a\u7ee7\u7eed\u6bd4\u8d5b\u4e86\u5c31\u8fdb\u5730\u7262\u3002",
@@ -14537,7 +14537,7 @@
             "entity": { "global": true, "name": "groupD2" },
             "text": {
               "": "You think this temple will be as long as the last one...?",
-              "en_US": "Você acha que este templo será tão grande quanto o último...?",
+              "en_US": "Será que esse templo é tão grande quanto o anterior...?",
               "langUid": 678,
               "de_DE": "Glaubst du, dieser Tempel ist so lang wie der letzte...?",
               "ja_JP": "\u3053\u306e\u795e\u6bbf\u304c\u30e9\u30b9\u30c8\u306e\n\u30c0\u30f3\u30b8\u30e7\u30f3\u3060\u3068\u601d\u3046...\uff1f<<A<<[CHANGED 2018/10/04]",
@@ -14576,7 +14576,7 @@
             "entity": { "global": true, "name": "groupD3" },
             "text": {
               "": "I heard there is a landmark somewhere in the middle, so it's easy to leave and return if you need a break.",
-              "en_US": "Ouvi dizer que há um marco em algum lugar por aqui, então é fácil sair e voltar se você precisar de uma pausa.",
+              "en_US": "Ouvi dizer que tem um marco por aqui, então se precisar de uma pausa, é fácil sair e voltar.",
               "langUid": 682,
               "de_DE": "Es soll irgendwo in der Mitte einen Wegpunkt geben, damit man zwischendurch auch wieder raus kann, um eine Pause zu machen.",
               "ja_JP": "\u805e\u3044\u305f\u3068\u3053\u308d\u306b\u3088\u308b\u3068\u9014\u4e2d\u306e\u3069\u3053\u304b\u306b\n\u30e9\u30f3\u30c9\u30de\u30fc\u30af\u304c\u3042\u3063\u3066\u3001\u4f11\u61a9\u304c\n\u5fc5\u8981\u306b\u306a\u3063\u305f\u3068\u304d\u306b\u7c21\u5358\u306b\u96e2\u308c\u305f\u308a\n\u623b\u3063\u305f\u308a\u3067\u304d\u308b\u3093\u3060\u3063\u3066\u3002<<A<<[CHANGED 2018/08/28]",
@@ -14589,7 +14589,7 @@
             "entity": { "global": true, "name": "groupD1" },
             "text": {
               "": "Well... it's not like leaving and returning to the previous temple was that hard either.",
-              "en_US": "Bem... Não é como se fosse muito difícil deixar o último templo para fazer uma pausa.",
+              "en_US": "Na real... não foi tão complicado deixar o último templo para descansar um pouco.",
               "langUid": 683,
               "de_DE": "Na ja... Ist ja nicht so, als w\u00e4re es besonders schwer gewesen, den letzten Tempel zu verlassen, um eine Pause zu machen.",
               "ja_JP": "\u307e\u3042...\u524d\u306e\u795e\u6bbf\u3067\u3082\u3001\u96e2\u308c\u305f\u308a\u623b\u3063\u305f\u308a\n\u3059\u308b\u3053\u3068\u306f\u666e\u901a\u306b\u3067\u304d\u305f\u3051\u3069\u306d\u3002<<A<<[CHANGED 2018/08/28]",
@@ -14655,7 +14655,7 @@
             "entity": { "global": true, "name": "groupC1" },
             "text": {
               "": "Really? Did ya finally get yerself a new weapon?",
-              "en_US": "Sério? Você finalmente conseguiu uma arma nova?",
+              "en_US": "Você finalmente conseguiu uma arma nova?",
               "langUid": 686,
               "de_DE": "Wirklich? Hast' dir endlich 'ne neue Waffe besorgt?",
               "ja_JP": "\u672c\u5f53\u306b\uff1f\n\u65b0\u3057\u3044\u6b66\u5668\u306f\u7528\u610f\u3057\u305f\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -14681,7 +14681,7 @@
             "entity": { "global": true, "name": "groupC1" },
             "text": {
               "": "Ya still have yer \\c[3]\\v[item.57.name]\\c[0], don't ya?",
-              "en_US": "Você ainda tem o seu \\c[3]\\v[item.57.name]\\c[0], ou não?",
+              "en_US": "Ou você ainda tem o seu \\c[3]\\v[item.57.name]\\c[0]?",
               "langUid": 688,
               "de_DE": "Lass mich raten, du hast immer noch den \\c[3]Daikon\\c[0], oder?",
               "ja_JP": "\u307e\u3055\u304b\u3001\u307e\u3060\n\\c[3]\\v[item.57.name]\\c[0]\u3092\n\u4f7f\u3063\u3066\u308b\u306e\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -14694,7 +14694,7 @@
             "entity": { "global": true, "name": "groupC3" },
             "text": {
               "": "It has HP regeneration! It's super useful!",
-              "en_US": "Tem regeneração de PV! É super útil!",
+              "en_US": "Ele tem regeneração de PV! É super útil!",
               "langUid": 689,
               "de_DE": "Er hat HP-Regeneration! Das is super praktisch!",
               "ja_JP": "\u3053\u3044\u3064\u306fHP\u3092\u56de\u5fa9\u3057\u3066\n\u304f\u308c\u308b\u3093\u3060\uff01\u3059\u3054\u304f\u4fbf\u5229\u3060\u3088\uff01<<A<<[CHANGED 2018/08/28]",

@@ -719,7 +719,7 @@
           {
             "message": {
               "": "Who would have thought that you were the intruder?\\. Can you not let a man and his goats live in peace?",
-              "en_US": "Quem teria pensado que você era o intruso?\\. Você não pode deixar um homem e suas cabras viverem em paz?",
+              "en_US": "Quem diria que você era a intrusa?\\. Não pode deixar um homem e suas cabras em paz?",
               "de_DE": "Wer h\u00e4tte gedacht, dass du der Eindringling bist?\\. Kannst du einen Mann und seine Ziegen nicht in Frieden lassen?",
               "fr_FR": "fr_FR",
               "langUid": 1,
@@ -897,7 +897,7 @@
           {
             "message": {
               "": "You see, goats have always struck me as majestic creatures that deserve a bigger place on this world.",
-              "en_US": "Ouça, as cabras sempre me pareceram criaturas majestosas que merecem um lugar maior neste mundo.",
+              "en_US": "As cabras sempre me pareceram criaturas majestosas que merecem um lugar maior neste mundo.",
               "de_DE": "Du musst wissen, Ziegen waren f\u00fcr mich schon immer majest\u00e4tische Wesen, die eine bessere Welt verdient haben.",
               "fr_FR": "fr_FR",
               "langUid": 12,
@@ -1803,7 +1803,7 @@
           {
             "message": {
               "": "Impressive.\\. But... what you just fought were just lowly hoofsoldiers.",
-              "en_US": "Impressionante.\\. Mas... as cabras com que você lutou eram apenas soldados de cascos humildes.",
+              "en_US": "Impressionante.\\. Mas... as cabras que você enfrentou eram só soldados de cascos humildes.",
               "de_DE": "Beeindruckend.\\. Aber... was du da gerade bek\u00e4mpft hast, waren nur einfache Hufsoldaten.",
               "fr_FR": "fr_FR",
               "langUid": 4,
@@ -2205,7 +2205,7 @@
               {
                 "text": {
                   "": "[excited goat noises]",
-                  "en_US": "[barulhos de cabra animados]",
+                  "en_US": "[barulhos de cabra animada]",
                   "de_DE": "[aufgeregte Ziegenlaute]",
                   "fr_FR": "fr_FR",
                   "langUid": 481,
@@ -4356,7 +4356,7 @@
           {
             "text": {
               "": "\\v[lore.title.seeker]... with this communication device you should now understand me.",
-              "en_US": "\\v[lore.title.seeker]... com este dispositivo de comunicação, agora você deve me entender.",
+              "en_US": "\\v[lore.title.seeker]... com este dispositivo de comunicação, você deve ser capaz de me entender agora..",
               "de_DE": "Seeker... mit diesem Kommunikationsger\u00e4t solltest du mich nun verstehen k\u00f6nnen.",
               "fr_FR": "fr_FR",
               "langUid": 488,

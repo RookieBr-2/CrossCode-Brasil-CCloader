@@ -927,7 +927,7 @@
           {
             "message": {
               "": "Haha, indeed. A'maist enough tae overthrow a' guilds. ",
-              "en_US": "Haha, de fato. Quasi o shuficiente para derrubar as guildas.",
+              "en_US": "Kehaha, com certeza! Isso deve ser o suficiente pra detonar com as outras guildas. ",
               "de_DE": "Haha, rescht so. Fost jenuch ne janze Gilde plattzumache.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u54c8\u54c8\uff0c\u6ca1\u9519\u3002\u5e94\u8be5\u8db3\u591f\u5f04\u5012\u4e9b\u516c\u4f1a\u4e86\u3002",
@@ -965,7 +965,7 @@
           {
             "message": {
               "": "Ye think it's aboot time tae fill in Jean? ",
-              "en_US": "Acha que é hora de countar o cronograma à Jean?",
+              "en_US": "Já tá na hora de avisar essa parada pra Jean, né? ",
               "de_DE": "Denkste, es is Zoit se einzuweihe, Jean?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u4f60\u89c9\u5f97\u662f\u65f6\u5019\u544a\u8bc9\u7b80\u4e86\u5417\uff1f<<A<<[CHANGED 2017/07/11]",
@@ -1041,7 +1041,7 @@
           {
             "message": {
               "": "Hehe true enough. Better tak' it slow. ",
-              "en_US": "Hehe é verdade. Melhor irmus devagar.",
+              "en_US": "Hehe é verdade. Melhor irmos devagar.",
               "de_DE": "Hehe, rescht haste. Mach' mer libber langsam.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u563f...\u6ca1\u9519\u3002\u786e\u5b9e\u5f97\u6162\u6162\u6765\u3002",
@@ -1098,7 +1098,7 @@
           {
             "message": {
               "": "I hate that we can't just do \\v[lore.unlock.money-trade]\\c[3]Credit Trading\\c[0] anymore.",
-              "en_US": "Eu odeio o fato que não possamos mais fazer \\v[lore.unlock.money-trade]\\c[3]Trocas de Crédito\\c[0] mais.",
+              "en_US": "Eu odeio o fato que não possamos mais fazer \\v[lore.unlock.money-trade]\\c[3]Trocas de Crédito\\c[0].",
               "de_DE": "Es nervt total, dass wir nicht mehr einfach \\v[lore.unlock.money-trade]\\c[3]Geld tauschen\\c[0] k\u00f6nnen.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u53ef\u60dc\u6211\u4eec\u6ca1\u6cd5\u76f4\u63a5\u8fdb\u884c\\v[lore.unlock.money-trade]\\c[3]\u4fe1\u7528\u70b9\u8d38\u6613\\c[0]\u4e86\u3002<<A<<[CHANGED 2017/10/13]",
@@ -1117,7 +1117,7 @@
           {
             "message": {
               "": "Anyway... \\. Let's go to the boss.",
-              "en_US": "Qualquer maneira... \\. Vamos para o chefe.",
+              "en_US": "Enfim... \\. Vamos até o chefe.",
               "de_DE": "Wie auch immer...\\. Lass uns zum Chef gehen.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u55ef... \\.\u53bb\u627e\u8001\u5927\u5427\u3002",

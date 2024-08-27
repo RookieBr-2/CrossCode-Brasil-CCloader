@@ -175,7 +175,7 @@
                 {
                   "text": {
                     "": "When reloading and generally not dispensing \"bombs\" it will try to evade the movements of its user with highly refined movement algorithms.",
-                    "en_US": "Ao recarregar e geralmente não descarregar as \"bombas\", ela tentará fugir dos movimentos de seu usuário com algoritmos de movimento altamente refinados.",
+                    "en_US": "Quando estiver recarregando as \"bombas\", ela evitará atrapalhar o usuário usando algoritmos de movimento muito precisos.",
                     "de_DE": "W\u00e4hrend des Nachladens und bei Inaktivit\u00e4t der \"Bomben\" wird sie den Bewegungen des Benutzers mittels hochpr\u00e4ziser Bewegungsalgorithmen ausweichen.",
                     "fr_FR": "fr_FR",
                     "langUid": 81,

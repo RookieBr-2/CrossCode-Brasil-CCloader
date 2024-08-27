@@ -1021,7 +1021,7 @@
                   {
                     "message": {
                       "": "Just wait until we reach your level, monsieur...",
-                      "en_US": "Apenas espere até nós alcançarmos o seu nível, monsieur...",
+                      "en_US": "Aguarde até chegarmos ao seu nível, monsieur...",
                       "de_DE": "Wart nur ab, bis wir deinen Level haben, Monsieur...",
                       "fr_FR": "fr_FR",
                       "langUid": 97,
@@ -1348,7 +1348,7 @@
               {
                 "message": {
                   "": "Oh really? That was the best part of the dungeon if you ask me.",
-                  "en_US": "Oh sério? Aquela foi a melhor parte da dungeon, na minha opnião.",
+                  "en_US": "Ah sério? Aquela foi a melhor parte da dungeon, na minha opnião.",
                   "de_DE": "Ach, wirklich? Wenn du mich fragst, war das eigentlich der beste Teil des Dungeons.",
                   "fr_FR": "fr_FR",
                   "langUid": 598,
@@ -1419,7 +1419,7 @@
               {
                 "message": {
                   "": "I guess something about them must have \\c[3]bugged\\c[0] you!",
-                  "en_US": "Eu acho que alguma coisa sobre eles deve ter \\c[3]bugado\\c[0] você!",
+                  "en_US": "Eu acho que alguma coisa neles deve ter \\c[3]bugado\\c[0] você!",
                   "de_DE": "Ich vermute mal, dass dich einer von ihnen irgendwie angekrabbelt haben muss!",
                   "fr_FR": "fr_FR",
                   "langUid": 602,
@@ -3800,7 +3800,7 @@
               {
                 "message": {
                   "": "Hello, my dears! So how about it, did you complete the \\c[3]Temple Mine\\c[0]?",
-                  "en_US": "Olá, minhas queridas! Então, que tal, vocês completaram a \\c[3]Mina do Templo\\c[0]?",
+                  "en_US": "Olá, minhas queridas! Vocês completaram a \\c[3]Mina do Templo\\c[0]?",
                   "de_DE": "Hallo, meine Lieben! Wie schaut es aus, habt ihr die \\c[3]Tempelmine\\c[0] abgeschlossen?",
                   "fr_FR": "fr_FR",
                   "langUid": 119,
@@ -3835,7 +3835,7 @@
               {
                 "message": {
                   "": "Wonderful! So, are you ready to take the \\c[3]quiz\\c[0]?",
-                  "en_US": "Maravilhoso! Então, vocês estão prontas para começar o \\c[3]teste\\c[0]?",
+                  "en_US": "Maravilha! Então, vocês estão prontas para começar o \\c[3]teste\\c[0]?",
                   "de_DE": "Wunderbar! Dann seid ihr also bereit, euch unserem \\c[3]Quiz\\c[0] zu stellen?",
                   "fr_FR": "fr_FR",
                   "langUid": 124,
@@ -7200,7 +7200,7 @@
               {
                 "message": {
                   "": "Would it not be challenging to answer the questions with your current vocabulary?",
-                  "en_US": "Não seria um desafio responder às perguntas com seu vocabulário atual?",
+                  "en_US": "Não seria complicado responder às perguntas com sua fala limitada?",
                   "de_DE": "Wird es nicht schwierig, den Test mit deinem derzeitigen Vokabular zu absolvieren?",
                   "fr_FR": "fr_FR",
                   "langUid": 143,
@@ -7281,7 +7281,7 @@
               {
                 "message": {
                   "": "So you forgot about that, hm?",
-                  "en_US": "Você esqueceu esse detalhe, certo?",
+                  "en_US": "Você esqueceu esse detalhe, não é mesmo?",
                   "de_DE": "Daran hast du wohl nicht gedacht, oder?",
                   "fr_FR": "fr_FR",
                   "langUid": 149,
@@ -7316,7 +7316,7 @@
               {
                 "message": {
                   "": "They would have found out about your speech malfunction sooner or later anyway.",
-                  "en_US": "Eles teriam descoberto o mau funcionamento de sua fala mais cedo ou mais tarde, de qualquer forma.",
+                  "en_US": "Eles teriam descoberto o mau funcionamento de sua fala mais cedo ou mais tarde.",
                   "de_DE": "Fr\u00fcher oder sp\u00e4ter h\u00e4tten sie sowieso herausgefunden, dass dein Sprachmodul besch\u00e4digt ist.",
                   "fr_FR": "fr_FR",
                   "langUid": 151,
@@ -7792,7 +7792,7 @@
               {
                 "message": {
                   "": "I hope you read all those text tables next to the statue in the temple mine.",
-                  "en_US": "Espero que você tenha lido todas aquelas placas de texto ao lado da estátua no Mina do Templo.",
+                  "en_US": "Espero que você tenha lido todas aquelas placas de texto ao lado da estátua na Mina do Templo.",
                   "de_DE": "Ich hoffe, du hast alle Texttafeln nahe der Statue in der Tempelmine gelesen.",
                   "fr_FR": "fr_FR",
                   "langUid": 163,
@@ -8537,7 +8537,7 @@
               {
                 "message": {
                   "": "I mean it's sort of weird that you can still say those few words.",
-                  "en_US": "É um pouco estranho que você ainda possa dizer essas poucas palavras",
+                  "en_US": "É um pouco estranho que você ainda possa dizer essas poucas palavras.",
                   "de_DE": "Aber es ist schon seltsam, dass du trotzdem einige Worte sagen kannst.",
                   "fr_FR": "fr_FR",
                   "langUid": 201,
@@ -10252,7 +10252,7 @@
               {
                 "message": {
                   "": "Wonderful!",
-                  "en_US": "Maravilhoso!",
+                  "en_US": "Maravilha!",
                   "de_DE": "Wunderbar!",
                   "fr_FR": "fr_FR",
                   "langUid": 288,
@@ -11754,7 +11754,7 @@
               {
                 "message": {
                   "": "And, you know, just have a good time, eh?",
-                  "en_US": "E, você sabe, apenas se divirtam, certo?",
+                  "en_US": "E, não se esqueçam de aproveitar e se divertir, ok?",
                   "de_DE": "Und, ihr wisst schon, einfach eine sch\u00f6ne Zeit zusammen haben, n\u00f6h?",
                   "fr_FR": "fr_FR",
                   "langUid": 353,
@@ -12089,7 +12089,7 @@
               {
                 "message": {
                   "": "I'm sure he'd gladly join your party.",
-                  "en_US": "Eu tenho certeza que ficará contente em se juntar ao nosso grupo.",
+                  "en_US": "Eu tenho certeza que ele ficará contente em se juntar ao seu grupo.",
                   "de_DE": "Er schlie\u00dft sich eurer Party bestimmt gerne an.",
                   "fr_FR": "fr_FR",
                   "langUid": 365,
@@ -12724,7 +12724,7 @@
               {
                 "message": {
                   "": "But I want you to know: this doesn't really matter to us!",
-                  "en_US": "Mas quero que você saiba: isso não importa muito pra nós!",
+                  "en_US": "Mas quero que você saiba de uma coisa: isso não nos incomoda nem um pouco!",
                   "de_DE": "Aber ich m\u00f6chte, dass du eines wei\u00dft: Das st\u00f6rt uns gar nicht!",
                   "fr_FR": "fr_FR",
                   "langUid": 497,

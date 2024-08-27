@@ -5348,7 +5348,7 @@
       "order": 63,
       "name": {
         "": "Captured Bunny",
-        "en_US": "Coelho Capturado",
+        "en_US": "Coelhapo Capturado",
         "de_DE": "Gefangener Hase",
         "langUid": 285,
         "zh_CN": "\u6355\u83b7\u7684\u5154\u5b50",
@@ -5358,7 +5358,7 @@
       },
       "description": {
         "": "The legendary bunny captured in what looks like a ball-shaped capture device.",
-        "en_US": "O Coelho Lend\u00e1rio capturado no que parece ser um dispositivo de captura em forma de bola",
+        "en_US": "O Coelhapo Lend\u00e1rio capturado no que parece ser um dispositivo de captura em forma de bola",
         "de_DE": "Der legend\u00e4re Hase, gefangen in einer Art kugelf\u00f6rmigem K\u00e4fig.",
         "langUid": 286,
         "zh_CN": "\u4f20\u8bf4\u4e2d\u7684\u8fd9\u53ea\u5154\u5b50\u88ab\u4e00\u4e2a\u770b\u8d77\u6765\u50cf\u7403\u4e00\u6837\u7684\u6355\u83b7\u8bbe\u5907\u6293\u4f4f\u4e86\u3002",
@@ -8347,7 +8347,7 @@
       "order": 21,
       "name": {
         "": "Blue Ice Shade",
-        "en_US": "Fragmento de Gelo",
+        "en_US": "Fragmento do Gelo",
         "de_DE": "Blaue Eisform",
         "fr_FR": "undefined",
         "zh_CN": "\u84dd\u51b0\u8bc1\u5370",
@@ -8655,7 +8655,7 @@
       "order": 66,
       "name": {
         "": "Aspiration Proof",
-        "en_US": "Prova de Aspiração",
+        "en_US": "Prova da Aspiração",
         "de_DE": "Aspirationsbeweis",
         "langUid": 728,
         "zh_CN": "\u5347\u7075\u4e4b\u8bc1",
@@ -20355,7 +20355,7 @@
       "order": 91,
       "name": {
         "": "Ascension Proof",
-        "en_US": "Prova de Ascensão",
+        "en_US": "Prova da Ascensão",
         "de_DE": "Aszensionsbeweis",
         "fr_FR": "undefined",
         "zh_CN": "\u5347\u534e\u8bc1\u660e<<A<<[CHANGED 2020/06/17]",

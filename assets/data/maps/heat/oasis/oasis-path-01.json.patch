@@ -6123,7 +6123,7 @@
             "entity": { "global": true, "name": "p1" },
             "text": {
               "": "...This is too much...",
-              "en_US": "...Isso é demais...",
+              "en_US": "...É muita pressão pra mim...",
               "de_DE": "... Das ist zu viel des Guten...",
               "fr_FR": "fr_FR",
               "zh_CN": "...\u6211\u53d7\u4e0d\u4e86\u4e86...",
@@ -6137,7 +6137,7 @@
             "entity": { "global": true, "name": "p2" },
             "text": {
               "": "Oh come on...",
-              "en_US": "Ah, qual foi...",
+              "en_US": "Ah, qual é...",
               "de_DE": "Ach, komm schon...",
               "fr_FR": "fr_FR",
               "zh_CN": "\u5509...",

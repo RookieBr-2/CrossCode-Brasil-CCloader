@@ -10315,7 +10315,7 @@
             }, {
                 "message": {
                     "": "Except it's cold. And avatars can't swim. And you really shouldn't swim near waterfalls.",
-                    "en_US": "Exceto pelo frio. E os avatares também não sabem nadar. E você não devia nadar perto de cachoeiras.",
+                    "en_US": "Mas pensando bem... A água está muito fria e o avatares não conseguem nadar, além disso não é uma boa ideia nadar perto de cachoeiras.",
                     "de_DE": "Mal davon abgesehen, dass es eiskalt ist. Und Avatare nicht schwimmen k\u00f6nnen. Und man nicht in der N\u00e4he von Wasserf\u00e4llen schwimmen sollte.",
                     "fr_FR": "fr_FR",
                     "langUid": 417,
@@ -10332,7 +10332,7 @@
             }, {
                 "message": {
                     "": "Why did I think that was a good idea again?",
-                    "en_US": "Por que achei que era uma boa ideia de novo?",
+                    "en_US": "Por que achei que isso seria uma boa ideia?",
                     "de_DE": "Warum dachte ich nochmal, dass das eine gute Idee w\u00e4re?",
                     "fr_FR": "fr_FR",
                     "langUid": 418,

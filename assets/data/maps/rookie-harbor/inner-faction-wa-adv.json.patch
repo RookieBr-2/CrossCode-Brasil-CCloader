@@ -2194,7 +2194,7 @@
                 {
                   "message": {
                     "": "Believe it or not,\\. our information hints towards an organized band of Hillkats that are performing coordinated strikes.",
-                    "en_US": "Acredite ou não,\\. nossas informações apontam para um bando organizado de Hillkats que estão realizando ataques planejados.",
+                    "en_US": "Por mais incrível que pareça,\\. nossas fontes mostram que um bando de Topeiras está realizando ataques planejados.",
                     "de_DE": "Ob du's glaubst oder nicht,\\. aber alles deutet auf eine organisierte Bande von Hillkats hin, die koordinierte Angriffe durchf\u00fchren.",
                     "fr_FR": "fr_FR",
                     "langUid": 285,
@@ -2213,7 +2213,7 @@
                 {
                   "message": {
                     "": "They might've trailed Tucos specifically after spotting him doing the exploration.",
-                    "en_US": "Eles podem ter seguido Tucos especificamente depois de avistá-lo explorando.",
+                    "en_US": "Eles podem ter seguido o Tucos depois de vê-lo explorando.",
                     "de_DE": "Es ist also wahrscheinlich, dass sie Tucos ganz bewusst gefolgt sind, nachdem sie ihn dort entdeckt hatten.",
                     "fr_FR": "fr_FR",
                     "langUid": 286,
@@ -2248,7 +2248,7 @@
                 {
                   "message": {
                     "": "I know right?\\. You never know with the Track, but intelligent digging rodents?",
-                    "en_US": "Eu sei, loucura né?\\. Você nunca sabe o que esperar da trilha, mas roedores de escavação inteligentes?",
+                    "en_US": "Eu sei, loucura né?\\. Você nunca sabe o que esperar da trilha, mas roedores escavadores inteligentes?",
                     "de_DE": "Unglaublich, oder?\\. Ich hab auf dem Pfad ja schon so einiges erlebt, aber intelligente Nagetiere?",
                     "fr_FR": "fr_FR",
                     "langUid": 288,
@@ -2267,7 +2267,7 @@
                 {
                   "message": {
                     "": "But I guess we should've expected some intelligence from those sneaky buggers with their fancy headsets.",
-                    "en_US": "Mas acho que deveríamos ter esperado algum tipo de inteligência daqueles vigaristas com seus fones de ouvido sofisticados.",
+                    "en_US": "Mas acho que devíamos ter previsto que aqueles vigaristas com fones de ouvido seriam espertos.",
                     "de_DE": "H\u00e4tte man aber auch drauf kommen k\u00f6nnen, dass die ihre hippen Headsets nicht nur aus Jux und Dollerei tragen.",
                     "fr_FR": "fr_FR",
                     "langUid": 289,
@@ -2441,7 +2441,7 @@
                     {
                       "message": {
                         "": "Aw, really?\\. I would've bet my lunch that you'd be all over that.",
-                        "en_US": "Ah, é mesmo?\\. Eu apostaria meu almoço que você gostaria de ver tudo isso.",
+                        "en_US": "Ah, é mesmo?\\. Eu jurava que você ia querer ver isso.",
                         "de_DE": "Oooh, echt?\\. Ich h\u00e4tte mein Mittagessen darauf verwettet, dass du dabei bist!",
                         "fr_FR": "fr_FR",
                         "langUid": 274,
@@ -2460,7 +2460,7 @@
                     {
                       "message": {
                         "": "But that problem won't be gone anytime soon, so you can talk to me again if you changed your mind.",
-                        "en_US": "Mas esse problema não vai acabar tão cedo, então você pode falar comigo novamente se mudar de ideia.",
+                        "en_US": "Esse problema não vai acabar tão cedo, então me procure de novo se mudar de ideia.",
                         "de_DE": "Tja, das Problem wird wohl nicht so schnell aus der Welt geschafft sein. Du kannst also gerne zur\u00fcckkommen, falls du deine Meinung \u00e4nderst.",
                         "fr_FR": "fr_FR",
                         "langUid": 294,

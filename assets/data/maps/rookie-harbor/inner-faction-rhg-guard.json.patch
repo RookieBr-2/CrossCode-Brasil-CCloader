@@ -938,7 +938,7 @@
                 {
                   "message": {
                     "": "As if the usual struggle with the Track isn't enough, we have violent threats growing from within our own settlements.",
-                    "en_US": "Não bastava os problemas habituais com a trilha, agora temos ameaças violentas crescendo dentro de nossos próprios aposentos.",
+                    "en_US": "Não bastava os problemas habituais com a trilha, agora temos que enfrentar ameaças violentas crescendo em nosso próprio território.",
                     "de_DE": "Als wenn der \u00fcbliche \u00c4rger mit dem Pfad nicht schon genug w\u00e4re, gibt es nun auch noch eine wachsende Bedrohung innerhalb unserer St\u00e4dte.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u5148\u7956\u4e4b\u8def\u5df2\u7ecf\u591f\u9ebb\u70e6\u4e86\uff0c\u4f46\u6211\u4eec\u636e\u70b9\u5185\u90e8\u7684\u66b4\u529b\u5a01\u80c1\u73b0\u5728\u4e5f\u53d8\u5f97\u6108\u6f14\u6108\u70c8\u4e86\u3002",
@@ -957,7 +957,7 @@
                 {
                   "message": {
                     "": "And it seems like some people are smuggling dangerous weapon systems onto the continent through our harbor.",
-                    "en_US": "E parece que algumas pessoas estão contrabandeando sistemas de armas perigosas para o continente através do nosso porto.",
+                    "en_US": "Temos evidências de que uma quadrilha de contrabandistas trouxe armas perigosas para o continente através do nosso porto.",
                     "de_DE": "Wir haben Hinweise darauf, dass eine Schmugglerbande gef\u00e4hrliche Waffensysteme \u00fcber unseren Hafen auf das Festland geschmuggelt hat.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u800c\u4e14\u4ed6\u4eec\u4f3c\u4e4e\u5728\u901a\u8fc7\u6211\u4eec\u7684\u6e2f\u53e3\u5411\u6574\u4e2a\u5927\u9646\u8d70\u79c1\u5371\u9669\u7684\u6b66\u5668\u7cfb\u7edf\u3002",
@@ -992,7 +992,7 @@
                 {
                   "message": {
                     "": "Needless to say, this is a danger for every law-abiding citizen on the planet.",
-                    "en_US": "Não preciso nem dizer que este é um perigo para todos os cidadãos cumpridores da lei no planeta.",
+                    "en_US": "Nem é necessário dizer que isso é uma ameaça para todos os cidadãos honestos do planeta.",
                     "de_DE": "Das stellt nicht nur eine Gefahr f\u00fcr uns dar, sondern f\u00fcr jeden gesetzestreuen B\u00fcrger auf diesem Planeten.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u6bcb\u5eb8\u7f6e\u7591\uff0c\u8fd9\u5bf9\u8fd9\u9897\u661f\u7403\u4e0a\u5949\u516c\u5b88\u6cd5\u7684\u5e02\u6c11\u4eec\u6765\u8bf4\u662f\u76f8\u5f53\u5371\u9669\u7684\u3002",
@@ -1079,7 +1079,7 @@
                     {
                       "message": {
                         "": "Meet up with him at the harbor at \\c[3]Beginners Arc\\c[0] and he will brief you on the details.",
-                        "en_US": "Encontre-se com ele no porto no \\c[3]Arco dos Iniciantes\\c[0] e ele irá informá-la sobre os detalhes",
+                        "en_US": "Encontre-se com ele no \\c[3]Arco dos Iniciantes\\c[0] e ele irá informá-la sobre os detalhes",
                         "de_DE": "Du findest ihn am \\c[3]Anf\u00e4ngerbogen\\c[0] des Hafens. Er wird dich mit den Einzelheiten vertraut machen.",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u524d\u5f80\\c[3]\u65b0\u624b\u6865\\c[0]\u7684\u6e2f\u53e3\u4e0e\u4ed6\u89c1\u9762\uff0c\u4ed6\u4f1a\u8ddf\u4f60\u7b80\u8981\u8bf4\u660e\u8be6\u60c5\u7684\u3002<<A<<[CHANGED 2018/09/19]",
@@ -1139,7 +1139,7 @@
                     {
                       "message": {
                         "": "Got too important already to handle boring guard work, huh?",
-                        "en_US": "Já se tornou importante demais para lidar com o trabalho chato de guarda, hein?",
+                        "en_US": "Agora você se considera importante demais para o trabalho maçante de guarda, não é mesmo?",
                         "de_DE": "Ach so, sind wir schon zu wichtig f\u00fcr den einfachen Wachdienst geworden, hm?",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u5df2\u7ecf\u53d8\u6210\u5927\u5496\uff0c\u770b\u4e0d\u8d77\u5b88\u536b\u7684\u5de5\u4f5c\u4e86\u5417\uff1f",

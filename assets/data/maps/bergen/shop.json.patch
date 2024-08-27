@@ -583,7 +583,7 @@
               {
                 "message": {
                   "": "No,\\. no,\\. no!\\. This just won't do!",
-                  "en_US": "Não,\\. não,\\. não!\\. Isso simplesmente não serve!",
+                  "en_US": "Não,\\. não,\\. não!\\. Isso não serve!",
                   "de_DE": "Nein,\\. nein,\\. nein!\\. Das reicht einfach nicht!",
                   "fr_FR": "fr_FR",
                   "langUid": 14,
@@ -734,7 +734,7 @@
                 {
                   "message": {
                     "": "No,\\. no,\\. no!\\. This just won't do!",
-                    "en_US": "Não,\\. não,\\. não!\\. Isso simplesmente não serve!",
+                    "en_US": "Não,\\. não,\\. não!\\. Isso não serve!",
                     "de_DE": "Nein,\\. nein,\\. nein!\\. Das reicht einfach nicht!",
                     "fr_FR": "fr_FR",
                     "langUid": 431,
@@ -849,7 +849,7 @@
                 {
                   "message": {
                     "": "And you also seem to be a person of refined taste.\\. An unexpected sight indeed.",
-                    "en_US": "E você também parece ser uma pessoa com bom gosto.\\. Uma reviravolta inesperada, de fato!",
+                    "en_US": "E você também parece ter bom gosto.\\. Uma reviravolta inesperada, sem dúvida!",
                     "de_DE": "Au\u00dferdem scheinst du auch einen erlesenen Geschmack zu haben!\\. Eine unerwartete Wendung, in der Tat!",
                     "fr_FR": "fr_FR",
                     "langUid": 406,
@@ -903,7 +903,7 @@
                 {
                   "message": {
                     "": "Thus, when tales of a legendary piece of headwear called the \\c[3]\"Tophat\"\\c[0] reached me, I had to settle down here!",
-                    "en_US": "Então, quando as histórias de uma lendária peça chamada \\c[3]\"Cartola\"\\c[0] chegaram até mim, tive que me estabelecer aqui!",
+                    "en_US": "Assim que soube das histórias sobre uma peça lendária chamada \\c[3]\"Cartola\"\\c[0], decidi me estabelecer aqui!",
                     "de_DE": "Als mir daher Geschichten \u00fcber einen legend\u00e4ren Kopfschmuck mit Namen \\c[3]\"Zylinderhut\"\\c[0] zu Ohren kamen, lie\u00df ich mich sogleich hier nieder!",
                     "fr_FR": "fr_FR",
                     "langUid": 251,
@@ -938,7 +938,7 @@
                 {
                   "message": {
                     "": "But so far the only ones I've seen were the ruined pieces of rag worn by those terrible snowcreatures.",
-                    "en_US": "Mas até agora, os únicos que vi foram os pedaços de pano em ruínas usados ​​por aquelas terríveis criaturas da neve.",
+                    "en_US": "Mas até agora, só vi trapos de pano usados por aquelas terríveis criaturas da neve.",
                     "de_DE": "Doch bis jetzt wurden mir nur Lumpen feilgeboten, gar schreckliches Geflecht, getragen von w\u00fcsten Schneekreaturen.",
                     "fr_FR": "fr_FR",
                     "langUid": 252,
@@ -1171,7 +1171,7 @@
               {
                 "message": {
                   "": "Oh?\\. Then off you go again!\\. There is greatness out there, waiting to be found!",
-                  "en_US": "Oh?\\. Então não fique aqui parada!\\. Há algo incrível por aí esperando para ser descoberto!",
+                  "en_US": "Oh?\\. Então não fique aqui parada!\\. Há algo incrível por aí, pronto para ser descoberto!",
                   "de_DE": "Oh?\\. Dann husch, husch!\\. Da drau\u00dfen gibt es Gro\u00dfes, das entdeckt werden will!",
                   "fr_FR": "fr_FR",
                   "langUid": 255,
@@ -1245,7 +1245,7 @@
                 {
                   "message": {
                     "": "Ah, you have returned.\\. Did you find my heart's desire?",
-                    "en_US": "Ah, você voltou.\\. Você encontrou o que meu coração deseja?",
+                    "en_US": "Ah, você voltou.\\. Encontrou o que meu coração deseja?",
                     "de_DE": "Ah, du bist zur\u00fcckgekehrt.\\. Hast du gefunden, was mein Herz begehrt?",
                     "fr_FR": "fr_FR",
                     "langUid": 256,

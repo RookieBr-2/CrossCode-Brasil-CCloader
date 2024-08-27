@@ -705,7 +705,7 @@
                 {
                   "message": {
                     "": "Welcome to the \\c[3]Hermit's House\\c[0].",
-                    "en_US": "Bem-vinda à \\c[3]Casa do Eremita\\c[0].",
+                    "en_US": "Bem-vinda à \\c[3]Cabana do Eremita\\c[0].",
                     "de_DE": "Willkommen in der \\c[3]Eremitenh\u00fctte\\c[0].",
                     "fr_FR": "fr_FR",
                     "langUid": 8,
@@ -927,7 +927,7 @@
                 {
                   "message": {
                     "": "Welcome to the \\c[3]Hermit's House\\c[0].",
-                    "en_US": "Bem-vinda à \\c[3]Casa do Eremita\\c[0].",
+                    "en_US": "Bem-vinda à \\c[3]Cabana do Eremita\\c[0].",
                     "de_DE": "Willkommen in der \\c[3]Eremitenh\u00fctte\\c[0].",
                     "fr_FR": "fr_FR",
                     "langUid": 21,
@@ -962,7 +962,7 @@
                 {
                   "message": {
                     "": "Ah, you have been sent by Mrs. Summers to help us with our broken generator?\\. Man, we were getting worried!",
-                    "en_US": "Ah, você foi enviado pela Sra. Summers para nos ajudar com nosso gerador quebrado?\\. Cara, estávamos ficando preocupados!",
+                    "en_US": "Ah, você foi enviada pela Sra. Summers para nos ajudar com nosso gerador quebrado?\\. Cara, estávamos ficando preocupados!",
                     "de_DE": "Ah, Frau Summers hat dich geschickt, um uns mit dem defekten Generator zu helfen?\\. Oh Mann, endlich, wir haben uns schon Sorgen gemacht!",
                     "fr_FR": "fr_FR",
                     "langUid": 22,
@@ -981,7 +981,7 @@
                 {
                   "message": {
                     "": "See, without that generator this room will be pretty chilly soon.\\. And what's the point of it then?",
-                    "en_US": "Veja, sem aquele gerador, esta sala ficará bem fria em breve.\\. E qual será a importância dessa cabana então?",
+                    "en_US": "Veja, sem o gerador, este lugar vai esfriar rápido.\\. O que vai ser da cabana quando isso acontecer?",
                     "de_DE": "Wei\u00dft du, ohne den Generator wird dieser Raum bald ziemlich eisig sein.\\. Dann k\u00f6nnen wir uns hier nur noch ein paar warme Gedanken machen!",
                     "fr_FR": "fr_FR",
                     "langUid": 23,
@@ -1016,7 +1016,7 @@
                 {
                   "message": {
                     "": "I know, right?\\. So we need some materials to fix that thing and most of them are pretty far away!",
-                    "en_US": "Exatamente!\\. Então, precisamos de alguns materiais para consertar isso e a maioria deles está bem longe!",
+                    "en_US": "Exato!\\, Agora, precisamos de alguns materiais para consertar isso, e a maioria está bem longe daqui!",
                     "de_DE": "Genau!\\. Und f\u00fcr die Reparatur brauchen wir ein paar Dinge, an die wir nur schwer herankommen!",
                     "fr_FR": "fr_FR",
                     "langUid": 64,
@@ -1058,7 +1058,7 @@
                 {
                   "message": {
                     "": "Next we need \\c[3]\\v[item.163.name] from the \\v[area.cold-dng.name]\\c[0]...",
-                    "en_US": "Em seguida, precisamos de \\c[3]\\v[item.163.name] do \\v[area.cold-dng.name]\\c[0]...",
+                    "en_US": "Em seguida, precisamos de \\c[3]\\v[item.163.name] da \\v[area.cold-dng.name]\\c[0]...",
                     "de_DE": "Als N\u00e4chstes br\u00e4uchten wir \\c[3]Zahnr\u00e4der\\c[0] aus der \\c[3]Tempelmine\\c[0]...",
                     "fr_FR": "fr_FR",
                     "langUid": 66,
@@ -1096,7 +1096,7 @@
                 {
                   "message": {
                     "": "Lastly we need some fuel.\\. The generator runs on \\c[3]\\v[item.186.name]\\c[0] which only grows in \\c[3]\\v[area.heat-area.name]\\c[0].",
-                    "en_US": "Por último, precisamos de algum combustível.\\. O gerador é a base de \\c[3]\\v[item.186.name]\\c[0] que só cresce no \\c[3]\\v[area.heat-area.name]\\c[0].",
+                    "en_US": "Por último, precisamos de combustível.\\. O gerador é a base de \\c[3]\\v[item.186.name]\\c[0] que só cresce no \\c[3]\\v[area.heat-area.name]\\c[0].",
                     "de_DE": "Und nat\u00fcrlich etwas Sprit.\\. Der Generator l\u00e4uft mit \\c[3]D\u00f6rrholz\\c[0], welches nur im \\c[3]Maronental\\c[0] w\u00e4chst.",
                     "fr_FR": "fr_FR",
                     "langUid": 68,
@@ -1169,7 +1169,7 @@
                 {
                   "message": {
                     "": "Alright, hope to see you soon.\\. Before we're all icicles in here.",
-                    "en_US": "Tudo bem, espero vê-la em breve.\\. Antes de sermos todos pingentes de gelo aqui.",
+                    "en_US": "Tudo bem, espero te ver logo.\\. Antes que a gente vire bonecos de neve por aqui.",
                     "de_DE": "Also gut, dann hoffentlich bis bald.\\. M\u00f6glichst bevor wir hier zu Eiszapfen werden...",
                     "fr_FR": "fr_FR",
                     "langUid": 72,
@@ -1475,7 +1475,7 @@
                 {
                   "message": {
                     "": "Ah, it's you.\\. And from that look on your face I guess you got all that stuff that we need for the repairs?",
-                    "en_US": "Ah, é você.\\. E pela sua expressão, acho que você conseguiu todas as coisas de que precisamos para os reparos?",
+                    "en_US": "Ah, é você.\\. Conseguiu pegar tudo que precisamos para os reparos?",
                     "de_DE": "Ah, du bist's.\\. Und so wie du aussiehst, hast du wohl alles f\u00fcr die Reparatur zusammen?",
                     "fr_FR": "fr_FR",
                     "langUid": 34,
@@ -1510,7 +1510,7 @@
                 {
                   "message": {
                     "": "Awesome!\\. Now I'll just use it to make a repair kit with everything you'll need.\\. Gimme a second...",
-                    "en_US": "Impressionante!\\. Agora vou usá-lo para fazer um kit de reparos com tudo o que você precisa.\\. Me dê um segundo...",
+                    "en_US": "Ótimo!\\. Agora vou usar isso para fazer um kit de reparos com tudo o que você precisa.\\. Me dê um segundo...",
                     "de_DE": "Astrein!\\. Lass mich daraus kurz ein Reparaturkit basteln, dann hast du alles, was du brauchst.\\. Dauert nur 'ne Sekunde...",
                     "fr_FR": "fr_FR",
                     "langUid": 35,
@@ -1569,7 +1569,7 @@
                 {
                   "message": {
                     "": "... and that's it.\\. Take this, go through the door behind me and just jam it into the generator in the basement.",
-                    "en_US": "... e prontinho.\\. Pegue isso, passe pela porta atrás de mim e apenas coloque-o no gerador no porão.",
+                    "en_US": "... e prontinho.\\. Pegue isso, passe pela porta atrás de mim e coloque-o no gerador no porão.",
                     "de_DE": "... und zack, feddich!\\. Hier, geh damit durch die T\u00fcr hinter mir und pl\u00e4ster das einfach in den Generator im Keller.",
                     "fr_FR": "fr_FR",
                     "langUid": 36,
@@ -1604,7 +1604,7 @@
                 {
                   "message": {
                     "": "Well... you will also need to get through some security barriers that appeared shortly after the generator broke.",
-                    "en_US": "Bem... você também precisará passar por algumas barreiras de segurança que apareceram logo depois que o gerador quebrou.",
+                    "en_US": "Bem... você também vai ter que lidar com umas barreiras de segurança que surgiram depois que o gerador quebrou.",
                     "de_DE": "Achja... du musst ein paar Sicherheitsbarrieren \u00fcberwinden, die kurz nachdem der Generator besch\u00e4digt wurde aufgetaucht sind.",
                     "fr_FR": "fr_FR",
                     "langUid": 37,
@@ -1639,7 +1639,7 @@
                 {
                   "message": {
                     "": "Don't ask me what powers them and why they are protecting a damaged generator.",
-                    "en_US": "Não me pergunte o que os alimenta e por que estão protegendo um gerador danificado.",
+                    "en_US": "Não me pergunte o que as alimenta e por que estão protegendo um gerador danificado.",
                     "de_DE": "Frag mich aber nicht, wodurch die angetrieben werden oder warum die einen kaputten Generator besch\u00fctzen.",
                     "fr_FR": "fr_FR",
                     "langUid": 86,
@@ -1658,7 +1658,7 @@
                 {
                   "message": {
                     "": "The Hermit must've had some crazy ideas about interior design, back in his time.",
-                    "en_US": "O Eremita deve ter tido algumas idéias malucas sobre design de interiores, em seu tempo.",
+                    "en_US": "O Eremita deve ter tido algumas idéias malucas sobre design de interiores, em sua época.",
                     "de_DE": "Der Eremit muss ein paar verr\u00fcckte Ideen zum Thema Inneneinrichtung gehabt haben, damals, zu seiner Zeit.",
                     "fr_FR": "fr_FR",
                     "langUid": 87,
@@ -1889,7 +1889,7 @@
                 {
                   "message": {
                     "": "Hey there, hero.\\. We got power again and everything's running smoothly.\\. Amazing!",
-                    "en_US": "Olá, herói.\\. Conseguimos energia novamente e tudo está funcionando perfeitamente.\\. Incrível!",
+                    "en_US": "Olá, heroína.\\. Conseguimos energia novamente e tudo está funcionando perfeitamente.\\. Incrível!",
                     "de_DE": "Ah, da ist ja unser Held!\\. Wir haben wieder Saft, et fluppt wieder!\\. Fantastisch!",
                     "fr_FR": "fr_FR",
                     "langUid": 48,
@@ -1924,7 +1924,7 @@
                 {
                   "message": {
                     "": "I already sent a message back to Mrs. Summers so you can claim your reward.",
-                    "en_US": "Já enviei uma mensagem de volta para a Sra. Summers para que você possa reivindicar sua recompensa.",
+                    "en_US": "Já enviei uma mensagem para a Sra. Summers para que você possa receber sua recompensa.",
                     "de_DE": "Ich habe Frau Summers schon benachrichtigt, damit du dir deine Belohnung abholen kannst.",
                     "fr_FR": "fr_FR",
                     "langUid": 49,
@@ -2049,7 +2049,7 @@
                 {
                   "message": {
                     "": "Welcome back, fella.\\. Great to see you around!",
-                    "en_US": "Bem-vindo de volta, cara.\\. Que bom ver você por aí!",
+                    "en_US": "Bem-vinda de volta, cara.\\. Que bom ver você por aqui!",
                     "de_DE": "Willkommen zur\u00fcck, Kumpel.\\. Sch\u00f6n, dich wiederzusehen!",
                     "fr_FR": "fr_FR",
                     "langUid": 52,
@@ -2068,7 +2068,7 @@
                 {
                   "message": {
                     "": "The \\c[3]Hermit's House\\c[0] still has its amazing selection of drinks.",
-                    "en_US": "A \\c[3]Casa do Eremita\\c[0] ainda tem sua incrível seleção de bebidas.",
+                    "en_US": "A \\c[3]Cabana do Eremita\\c[0] ainda tem sua incrível seleção de bebidas.",
                     "de_DE": "Die \\c[3]Eremitenh\u00fctte\\c[0] hat immer noch gro\u00dfartige Getr\u00e4nke im Angebot!",
                     "fr_FR": "fr_FR",
                     "langUid": 53,
@@ -2387,7 +2387,7 @@
               {
                 "message": {
                   "": "Some friends of mine told me that you get some quests here after you beat the \\c[3]Temple Mine\\c[0].",
-                  "en_US": "Alguns amigos meus me disseram que você consegue algumas missões aqui depois de terminar a \\c[3]Mina do Templo\\c[0].",
+                  "en_US": "Alguns amigos meus me disseram que você pode pegar algumas missões aqui depois de terminar a \\c[3]Mina do Templo\\c[0].",
                   "de_DE": "Ein paar Freunde von mir meinten, man k\u00f6nnte hier ein paar Quests abstauben, nachdem man die \\c[3]Tempelmine\\c[0] abgeschlossen hat.",
                   "zh_CN": "\u6211\u7684\u4e00\u4e9b\u670b\u53cb\u544a\u8bc9\u6211\uff0c\u5982\u679c\u4f60\u901a\u5173\u4e86\\c[3]\u795e\u5e99\u77ff\u4e95\\c[0]\uff0c\u53ef\u4ee5\u5230\u8fd9\u513f\u6765\u63a5\u4e00\u4e9b\u4efb\u52a1\u3002",
                   "zh_TW": "\u6211\u7684\u4e00\u4e9b\u670b\u53cb\u544a\u8a34\u6211\uff0c\u5982\u679c\u4f60\u901a\u95dc\u4e86\\c[3]\u795e\u5edf\u7926\u4e95\\c[0]\uff0c\u53ef\u4ee5\u5230\u9019\u88e1\u4f86\u63a5\u4e00\u4e9b\u4efb\u52d9\u3002",
@@ -2405,7 +2405,7 @@
               {
                 "message": {
                   "": "Not really seeing anyone new though...",
-                  "en_US": "Na verdade, não vejo ninguém novo...",
+                  "en_US": "Na verdade, não achei nenhum npc com missão...",
                   "de_DE": "Nur sehe ich gerade niemanden von denen hier abh\u00e4ngen...",
                   "zh_CN": "\u4e0d\u8fc7\u6211\u6253\u5b8c\u4e86\u8fc7\u6765\u4e5f\u6ca1\u89c1\u5230\u65b0NPC\u2026",
                   "zh_TW": "\u4e0d\u904e\u6211\u6253\u5b8c\u4e86\u904e\u4f86\u4e5f\u6c92\u898b\u5230\u65b0NPC\u2026",

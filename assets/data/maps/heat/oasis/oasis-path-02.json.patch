@@ -10153,7 +10153,7 @@
                 {
                   "message": {
                     "": "Gosh...\\. Studies keeping you busy, huh?",
-                    "en_US": "Caramba...\\. Você estava ocupada com os estudos, hein?",
+                    "en_US": "Caramba...\\. Você estava ocupada com os estudos?",
                     "de_DE": "Oh Mann...\\. Das Studium h\u00e4lt dich ganz sch\u00f6n auf Trab, was?",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u5475...\\.\u5b66\u4e1a\u5728\u8eab\u5450\u3002",
@@ -10532,7 +10532,7 @@
                 {
                   "message": {
                     "": "Anyway! There is no reason to hurry, but I guess we can slowly head back to \\c[3]Ba'kii Kum\\c[0], right?",
-                    "en_US": "Enfim! Não há motivo para nos apressarmos, mas acho que podemos voltar calmamente para \\c[3]Ba'kii Kum\\c[0], certo?",
+                    "en_US": "Não precisamos ter pressa, podemos voltar com calma para \\c[3]Ba'kii Kum\\c[0].",
                     "de_DE": "Also, wir haben zwar noch Zeit, k\u00f6nnen aber trotzdem schon mal langsam Richtung \\c[3]Ba'kii Kum\\c[0] aufbrechen, oder?",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u90a3\u73b0\u5728\u6709\u7684\u662f\u65f6\u95f4\uff0c\u6211\u4eec\u6162\u6162\u56de\\c[3]\u5df4\u57fa\u5e93\u59c6\\c[0]\uff0c\u600e\u4e48\u6837\uff1f",
@@ -11715,7 +11715,7 @@
           {
             "message": {
               "": "Such a nice tree.\\. Really sticks out!",
-              "en_US": "Que árvore bonita!\\. Ela realmente se destaca!",
+              "en_US": "Que árvore bonita!\\. Ela chama muito a atenção!",
               "langUid": 915,
               "de_DE": "So ein sch\u00f6ner Baum.\\. Der ist wirklich nicht zu \u00fcbersehen!",
               "ja_JP": "\u3059\u3066\u304d\u306a\u6728\u3060\u306d\u3002\\.\n\u3059\u3054\u304f\u76ee\u7acb\u3063\u3066\u308b\u3088\uff01<<A<<[CHANGED 2018/09/02]",
@@ -13101,7 +13101,7 @@
           {
             "message": {
               "": "This really doesn't seem normal, right Lea?",
-              "en_US": "Isto realmente não parece normal, certo Lea?",
+              "en_US": "Isto realmente não parece normal, não é Lea?",
               "langUid": 940,
               "zh_CN": "\u611f\u89c9\u4e0d\u592a\u6b63\u5e38\uff0c\u5bf9\u5427\u8389\u4e9a\uff1f",
               "ko_KR": "\ud3c9\uc18c\uc5d0\ub3c4 \uc790\uc8fc \uc788\ub294 \uc77c\uc774\uc57c, \ub808\uc544?<<A<<[CHANGED 2019/04/16]",

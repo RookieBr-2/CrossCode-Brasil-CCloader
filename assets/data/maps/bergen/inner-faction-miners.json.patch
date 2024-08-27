@@ -444,7 +444,7 @@
               {
                 "message": {
                   "": "Hello \\v[lore.title.seeker], and welcome to the headquarters of the \\c[3]Bergen Digging Mates\\c[0].",
-                  "en_US": "Olá \\v[lore.title.seeker], seja bem-vinda ao quartel general dos \\c[3]Amigos Mineradores de Bergen\\c[0].",
+                  "en_US": "Olá \\v[lore.title.seeker], seja bem-vinda ao quartel general dos \\c[3]Escamaradas de Bergen\\c[0].",
                   "de_DE": "Hallo, Seeker, und willkommen im Hauptquartier der \\c[3]Bergener Buddelkumpels\\c[0].",
                   "zh_CN": "\u4f60\u597d\uff0c\\v[lore.title.seeker]\u3002\u6b22\u8fce\u6765\u5230\\c[3]\u4ffe\u5c14\u6839\u77ff\u5de5\u534f\u4f1a\\c[0]\u7684\u603b\u90e8\u3002",
                   "langUid": 1,
@@ -462,7 +462,7 @@
               {
                 "message": {
                   "": "We manage the mining operations at Mt. Bergen and also try to reclaim the areas that were recently lost to the Track.",
-                  "en_US": "Gerenciamos as operações de mineração no Monte Bergen e também tentamos recuperar as áreas que foram recentemente perdidas para a Trilha.",
+                  "en_US": "Cuidamos da mineração no Monte Bergen e estamos trabalhando para recuperar as áreas que a Trilha tomou.",
                   "de_DE": "Wir leiten den Bergener Bergbaubetrieb und versuchen auch die Gebiete zur\u00fcckzugewinnen, die vor kurzem an den Pfad verloren gingen.",
                   "zh_CN": "\u6211\u4eec\u7ba1\u7406\u7740\u4ffe\u5c14\u6839\u5c71\u7684\u91c7\u77ff\u4f5c\u4e1a\uff0c\u4e5f\u8bd5\u56fe\u6536\u56de\u6700\u8fd1\u88ab\u5148\u7956\u4e4b\u8def\u5360\u9886\u7684\u5730\u57df\u3002",
                   "langUid": 255,
@@ -846,7 +846,7 @@
                 {
                   "message": {
                     "": "A visitor fresh from outside, eh?\\. No need to reply, I feel the sun's warmth still on you, child.",
-                    "en_US": "Uma visitante recém-chegada, hein?\\. Não diga nada, ainda sinto o calor do sol em você, criança.",
+                    "en_US": "Um visitante de fora, é?\\. Não precisa falar, minha filha, ainda dá pra sentir o calor do sol em você.",
                     "de_DE": "Ein Besucher von drau\u00dfen, was?\\. Sag nichts, mein Kind, ich sp\u00fcre noch die W\u00e4rme der Sonne auf dir.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4f60\u662f\u6765\u81ea\u5916\u9762\u7684\u4e00\u4e2a\u65b0\u6e38\u5ba2\u5427\\.\u54e6\uff0c\u4f60\u4e0d\u9700\u8981\u56de\u7b54\uff0c\u6211\u611f\u89c9\u5230\u4f60\u8eab\u4e0a\u592a\u9633\u7684\u6e29\u6696\u4e86\uff0c\u5b69\u5b50\u3002",
@@ -881,7 +881,7 @@
                 {
                   "message": {
                     "": "Har, that look on your face!\\. The name's Turis McEdinthil, Chief Miner of the Bergen Digging Mates.\\. Welcome to our humble headquarters!",
-                    "en_US": "Ha! olha só pra sua cara!\\. Sou Turis McEdinthil, minerador chefe dos amigos mineradores de Bergen.\\. Bem-vinda à sede!",
+                    "en_US": "Ha! Que cara mais engraçada!\\. Sou Turis McEdinthil, chefe dos Escamaradas de Bergen.\\. Bem-vinda à nossa sede!",
                     "de_DE": "Ha! Muffensausen, he?\\. Ich bin Turis McEdinthil, Obersteiger der Bergener Buddelkumpels.\\. Willkommen im Hauptquartier!",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u54c8\uff0c\u4f60\u8be5\u770b\u770b\u4f60\u7684\u8868\u60c5\uff01\\.\u6211\u7684\u540d\u5b57\u662f\u56fe\u91cc\u65af\u00b7\u9ea6\u4e01\u5e0c\u5c14\uff0c\u662f\u4ffe\u5c14\u6839\u77ff\u5de5\u534f\u4f1a\u7684\u9996\u5e2d\u77ff\u5de5\u3002\\.\u6b22\u8fce\u6765\u5230\u6211\u4eec\u7684\u603b\u90e8\uff01",
@@ -904,7 +904,7 @@
                 {
                   "message": {
                     "": "Don't you worry, the icy mine might have cooled our manners but we don't feast on the warm blood of the living just yet.",
-                    "en_US": "Não se preocupe, a mina congelada pode ter esfriado nossas boas maneiras, mas ainda não estamos estragando o sangue quente dos vivos.",
+                    "en_US": "Não se preocupe, a mina congelada pode ter esfriado nossas boas maneiras, mas ainda temos um coração quente.",
                     "de_DE": "Ich merk' schon, du bist den Umgang mit Kumpels nicht gewohnt. Aber keine Sorge, am warmen Blut der Lebenden vergehen wir uns noch nicht.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u522b\u62c5\u5fc3\uff0c\u51b0\u96ea\u77ff\u53ef\u80fd\u5df2\u7ecf\u628a\u6211\u4eec\u7684\u793c\u4eea\u7ed9\u51bb\u4f4f\u4e86\uff0c\u4e0d\u8fc7\u6211\u4eec\u8fd8\u662f\u7559\u7740\u4e00\u8154\u70ed\u8840\u3002<<A<<[CHANGED 2018/09/19]",
@@ -939,7 +939,7 @@
                 {
                   "message": {
                     "": "Still, the mines have become rather possessive and demand our full attention these days.",
-                    "en_US": "Mesmo assim, as minas se tornaram bastante possessivas e exigem nossa total atenção atualmente.",
+                    "en_US": "Por falar nisso, as minas estão bem possessivas e exigem nossa total atenção no momento.",
                     "de_DE": "Zur Sache: Die Maloche hier schlaucht uns derma\u00dfen, dass wir zu nichts anderem mehr kommen.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4e0d\u8fc7\u77ff\u4e95\u90fd\u5df2\u7ecf\u5f00\u59cb\u53d8\u5f97\u5371\u9669\uff0c\u6211\u4eec\u5fc5\u987b\u5168\u529b\u5e94\u5bf9\uff0c\u65e0\u6687\u4ed6\u987e\u3002",
@@ -958,7 +958,7 @@
                 {
                   "message": {
                     "": "Some strong hands that can help clean up a mess on the surface would be most welcome.",
-                    "en_US": "Algumas mãos fortes que podem ajudar a limpar uma bagunça na superfície seriam muito bem-vindas.",
+                    "en_US": "Por isso, precisamos de alguns braços fortes para cuidar da bagunça na superfície.",
                     "de_DE": "Deswegen k\u00f6nnten wir ein paar starke H\u00e4nde gut gebrauchen, die den Saustall \u00fcber Tage einmal gr\u00fcndlich aufr\u00e4umen.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u6211\u4eec\u9700\u8981\u4e00\u4e2a\u6709\u624b\u6bb5\u7684\u4eba\u6765\u5e2e\u6211\u4eec\u89e3\u51b3\u95ee\u9898\u3002",
@@ -996,7 +996,7 @@
                 {
                   "message": {
                     "": "There's been an incursion of some thrice-darned hopping furballs in one of our still-active mining areas.",
-                    "en_US": "Houve uma invasão daqueles malditos saltadores em uma de nossas áreas de mineração ainda ativas.",
+                    "en_US": "Houve uma invasão daqueles malditos saltadores peludos em uma de nossas áreas de mineração ainda ativas.",
                     "de_DE": "Es gab einen feindlichen Einfall von diesen verfluchten pelzigen Hoppelviechern in einem unserer noch aktiven Grubengebiete.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u6700\u8fd1\u6709\u4e00\u4e9b\u8be5\u6b7b\u7684\u5230\u5904\u4e71\u8e66\u7684\u6bdb\u73a9\u610f\u4fb5\u5165\u4e86\u6211\u4eec\u7684\u4e00\u4e2a\u4e3b\u8981\u77ff\u533a\u3002",
@@ -1034,7 +1034,7 @@
                 {
                   "message": {
                     "": "What's worse, for some damn reason the filthy fur made them angry as drunk bovines and almost impossible to kill.",
-                    "en_US": "E o pior é que, por algum motivo o pelo sujo de minério os deixava com raiva como bovinos bêbados e quase impossíveis de matar.",
+                    "en_US": "E o pior é que, por algum motivo, o pelo sujo de minério os deixou tão furiosos quanto bois bêbados e quase impossíveis de matar.",
                     "de_DE": "Aber was noch schlimmer ist: Durch das verdreckte Fell sind die Viecher jetzt aggressiv wie die Sau - und fast unbesiegbar noch dazu.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u66f4\u7cdf\u7cd5\u7684\u662f\uff0c\u4e0d\u77e5\u9053\u662f\u4ec0\u4e48\u9b3c\u539f\u56e0\uff0c\u5b83\u4eec\u7684\u6bdb\u76ae\u53d8\u810f\u4e4b\u540e\u53d8\u5f97\u66b4\u8e81\u6613\u6012\u800c\u4e14\u96be\u4ee5\u6d88\u706d\u3002",
@@ -1114,7 +1114,7 @@
                     {
                       "message": {
                         "": "Finally some good news.\\. Now, I guess I'd better tell you how to get rid of those indestructible pests, eh?",
-                        "en_US": "Finalmente, algumas boas notícias.\\. Agora, acho melhor eu dizer a você como se livrar dessas pragas indestrutíveis, hein?",
+                        "en_US": "Finalmente boas notícias.\\. Agora vou te mostrar como acabar com essas pragas que indestrutíveis.",
                         "de_DE": "T\u00f6ffte!\\. Dann verklicker' ich dir jetzt mal, wie man diese verfilzten Pestbeulen kaputt kriegt.",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u603b\u7b97\u6709\u597d\u6d88\u606f\u4e86\u3002\\.\u6211\u6765\u544a\u8bc9\u4f60\u600e\u6837\u6d88\u706d\u8fd9\u4e9b\u9ebb\u70e6\u7684\u5bb3\u866b\u3002<<A<<[CHANGED 2018/09/19]",
@@ -1133,7 +1133,7 @@
                     {
                       "message": {
                         "": "It's rather simple.\\. Their fur is \\c[3]hardened\\c[0] by whatever dirt got stuck in it, so all they need is a good bath.",
-                        "en_US": "É bastante simples.\\. Seu pelo é \\c[3]endurecido\\c[0] por qualquer sujeira que tenha grudado nele, então tudo que eles precisam é de um bom banho.",
+                        "en_US": "É bem simples.\\. O pelo deles ficou \\c[3]endurecido\\c[0] por causa da sujeira, então tudo que eles precisam é de um bom banho.",
                         "de_DE": "Ist ganz einfach.\\. Ihr Fell \\c[3]verh\u00e4rtet\\c[0] sich, sobald sich irgendein Dreck darin verf\u00e4ngt. Sie brauchen also nur ein anst\u00e4ndiges Bad.",
                         "zh_CN": "\u975e\u5e38\u7b80\u5355\u3002\\.\u5b83\u4eec\u7684\u76ae\u6bdb\u662f\u56e0\u4e3a\u7c98\u4e0a\u810f\u4e1c\u897f\u800c\u786c\u5316\u7684\uff0c\u6240\u4ee5\u53ea\u9700\u8981\u7ed9\u5b83\u4eec\u597d\u597d\u5730\u6d17\u4e2a\u6fa1\u5c31\u884c\u3002<<A<<[CHANGED 2018/09/19]",
                         "ja_JP": "\u3053\u3068\u306f\u5358\u7d14\u306a\u3093\u3060\u3002\\.\u9023\u4e2d\u306e\u6bdb\u76ae\u306b\u3001\u306a\u306b\u304b\n\u56fa\u3044\u571f\u7802\u304c\\c[3]\u8a70\u307e\u3063\u305f\\c[0]\u3060\u3051\u306a\u3093\u3060\u3088\u3002\u3060\u304b\u3089\n\u3042\u3044\u3064\u3089\u3092\u98a8\u5442\u306b\u5165\u308c\u3066\u3084\u308c\u3070\u3044\u3044\u308f\u3051\u3060\u3002<<A<<[CHANGED 2018/09/19]",
@@ -1279,7 +1279,7 @@
                     {
                       "message": {
                         "": "Darn, really?\\. Already scared of some dirty Frobbits?",
-                        "en_US": "Droga, sério? \\. Já está com medo de alguns Coelhapos sujos?",
+                        "en_US": "Droga, sério?\\. Está com medo de alguns Coelhapos sujos?",
                         "de_DE": "Kehr, das darf doch nicht wahr sein. Hast du jetzt schon die Hosen voll?",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u4e0d\u662f\u5427\uff1f\\.\u4f60\u8fde\u86d9\u5154\u90fd\u5bb3\u6015\uff1f",
@@ -1386,7 +1386,7 @@
               {
                 "message": {
                   "": "Remember, a bath in any body of water will clean them and make them vulnerable again.",
-                  "en_US": "Lembre-se de que um qualquer lugar com água os limpará e os tornará vulneráveis ​​novamente.",
+                  "en_US": "Lembre-se, se eles mergulharem em qualquer água, vão ficar vulneráveis outra vez.",
                   "de_DE": "Denk dran, ein Bad in irgendeinem Wasser wird sie wieder verwundbar machen.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u8bb0\u4f4f\uff0c\u8ba9\u5b83\u4eec\u8fdb\u6c34\u6d17\u5e72\u51c0\u4e86\uff0c\u5b83\u4eec\u5c31\u4f1a\u53d8\u5f97\u5f88\u5f31\u4e86\u3002",
@@ -1479,7 +1479,7 @@
                 {
                   "message": {
                     "": "Great, you really helped us out here.\\. We would've fallen behind with our mining operation otherwise.",
-                    "en_US": "Ótimo, você realmente nos ajudou aqui.\\. Caso contrário, teríamos ficado para trás em nossa operação de mineração.",
+                    "en_US": "Ótimo, você ajudou bastante.\\. Sem isso, teríamos atrasado nossa operação de mineração.",
                     "de_DE": "Astrein! Damit hast du uns wirklich den Hintern gerettet.\\. Und ohne dich w\u00e4ren wir l\u00e4ngst nicht mehr im Zeitplan.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u592a\u597d\u4e86\uff0c\u4f60\u5e2e\u4e86\u6211\u4eec\u4e00\u4e2a\u5927\u5fd9\u3002\\.\u4e0d\u7136\u6211\u4eec\u7684\u91c7\u77ff\u4f5c\u4e1a\u4f1a\u5927\u5927\u843d\u540e\u3002",
@@ -1614,7 +1614,7 @@
                 {
                   "message": {
                     "": "And that warmth... you've conquered the Temple Mine and claimed the power of Heat, eh?",
-                    "en_US": "E esse calor... você conquistou a Mina do Templo e reivindicou o poder do Fogo, hein?",
+                    "en_US": "E esse calor... você conquistou a Mina do Templo e reivindicou o poder do Fogo?",
                     "de_DE": "Diese W\u00e4rme... Dann hast du dir die Kraft der Hitze aus der Tempelmine an Land gezogen, he?",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u597d\u6696\u548c\u2026\u4f60\u5df2\u7ecf\u51fb\u8d25\u795e\u5e99\u77ff\u4e95\uff0c\u5e76\u4e14\u83b7\u5f97\u4e86\u706b\u7130\u7684\u80fd\u529b\u6ca1\u9519\u5427\uff1f",
@@ -1649,7 +1649,7 @@
                 {
                   "message": {
                     "": "Well done.\\. That could help us a lot with our current projects underground.",
-                    "en_US": "Muito bem.\\. Isso poderia nos ajudar muito com nossos projetos subterrâneos atuais.",
+                    "en_US": "Muito bom.\\. Isso pode ajudar bastante com nossos projetos subterrâneos.",
                     "de_DE": "Hut ab.\\. Die k\u00f6nnte bei der Maloche unter Tage Wunder wirken.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u505a\u5f97\u4e0d\u9519\u3002\\.\u90a3\u4f60\u53ef\u4ee5\u5e2e\u52a9\u6211\u4eec\u5904\u7406\u4e00\u4e0b\u5730\u4e0b\u7684\u5de5\u7a0b\u4e86\u3002",
@@ -1796,7 +1796,7 @@
                     {
                       "message": {
                         "": "Go through the \\c[3]door at the back\\c[0] and take the\\c[3] elevator down\\c[0] to the \\c[3]first underground floor\\c[0] to reach the mine.",
-                        "en_US": "Passe pela \\c[3]porta na parte de trás\\c[0] e pegue o \\c[3]elevador para baixo\\c[0] para o \\c[3]primeiro andar subterrâneo\\c[0] para alcançar a mina.",
+                        "en_US": "Vá pela \\c[3]porta dos fundos\\c[0] e pegue o \\c[3]elevador\\c[0] que leva ao \\c[3]andar subterrâneo\\c[0] para chegar à mina.",
                         "de_DE": "Gehe zur \\c[3]Hintert\u00fcr\\c[0] und fahre mit dem \\c[3]Fahrkorb\\c[0] in das \\c[3]erste Untergeschoss\\c[0], um den Stollen zu erreichen.",
                         "zh_CN": "\u7a7f\u8fc7\u540e\u9762\u90a3\u6247\u95e8\uff0c\u5750\u4e0a\u53bb\u5730\u4e0b\u4e00\u5c42\u7684\u7535\u68af\uff0c\u5c31\u53ef\u4ee5\u8fbe\u5230\u77ff\u4e95\u4e86\u3002<<A<<[CHANGED 2018/09/14]",
                         "ja_JP": "\\c[3]\u5f8c\u308d\u306e\u30c9\u30a2\\c[0]\u3092\u901a\u3063\u3066\u3001\\c[3]\u30a8\u30ec\u30d9\u30fc\u30bf\u30fc\\c[0]\u3067\n\\c[3]\u5730\u4e0b1\u968e\\c[0]\u307e\u3067\u4e0b\u308a\u308c\u3070\u9271\u5c71\u306b\u3064\u304f\u3002<<A<<[CHANGED 2018/09/14]",
@@ -1930,7 +1930,7 @@
                     {
                       "message": {
                         "": "\\c[3]Miner Darrel\\c[0] will wait for you on the spot and fill you in on the details.",
-                        "en_US": "O \\c[3]Mineiro Darrel\\c[0] irá esperar por você no local para informá-la sobre os detalhes.",
+                        "en_US": "O \\c[3]Mineiro Darrel\\c[0] estará esperando por você no local para informá-la sobre os detalhes.",
                         "de_DE": "\\c[3]Bergmann Darrel\\c[0] wartet vor Ort auf dich und erkl\u00e4rt dir den Rest.",
                         "zh_CN": "\u77ff\u5de5\u8fbe\u745e\u5c14\u4f1a\u5728\u90a3\u91cc\u7b49\u4f60\uff0c\u4ed6\u4f1a\u544a\u8bc9\u4f60\u5f88\u591a\u7ec6\u8282\u3002<<A<<[CHANGED 2018/09/14]",
                         "ja_JP": "\u305d\u3053\u3067\u5f85\u3063\u3066\u308b\\c[3]\u9271\u54e1\u306e\u30c0\u30ec\u30eb\\c[0]\u304c\u3082\u3063\u3068\u8a73\u3057\u3044\u3053\u3068\u3092\n\u6559\u3048\u3066\u304f\u308c\u308b\u3060\u308d\u3046\u3002<<A<<[CHANGED 2018/09/14]",
@@ -2089,7 +2089,7 @@
               {
                 "message": {
                   "": "Report in with \\c[3]Darrel\\c[0] in our \\c[3]first mine\\c[0].\\. You can reach it with \\c[3]our elevator behind those doors\\c[0] here.",
-                  "en_US": "Encontre-se com \\c[3]Darrel\\c[0] em nossa \\c[3]primeira mina\\c[0].\\. Você pode alcançá-lo com \\c[3]nosso elevador atrás dessas portas\\c[0] aqui.",
+                  "en_US": "Encontre \\c[3]Darrel\\c[0] na nossa \\c[3]primeira mina\\c[0].\\. Use o \\c[3]elevador atrás dessas portas\\c[0] para chegar lá.",
                   "de_DE": "Melde dich bei \\c[3]Darrel\\c[0] in unserem \\c[3]ersten Stollen\\c[0].\\. Du erreichst ihn \u00fcber den \\c[3]Fahrkorb hinter den T\u00fcren\\c[0] hier.",
                   "zh_CN": "\u5411\u5728\u7b2c\u4e00\u4e2a\u77ff\u4e95\u91cc\u7684\u8fbe\u745e\u5c14\u62a5\u544a\u5427\u3002\\.\u4f60\u53ef\u4ee5\u4e58\u5750\u95e8\u540e\u7684\u7535\u68af\u5230\u8fbe\u90a3\u91cc\u3002<<A<<[CHANGED 2018/09/14]",
                   "ja_JP": "\\c[3]1\u3064\u76ee\u306e\u9271\u5c71\\c[0]\u306b\u3044\u308b\\c[3]\u30c0\u30ec\u30eb\\c[0]\u306b\u5831\u544a\u3057\u3066\u304d\u3066\u304f\u308c\u3002\\.\u9271\u5c71\u306b\u306f\\c[3]\u5f8c\u308d\u306e\u30c9\u30a2\u306e\u5411\u3053\u3046\u306b\u3042\u308b\u30a8\u30ec\u30d9\u30fc\u30bf\u30fc\\c[0]\u304b\u3089\u884c\u3051\u308b\u305e\u3002<<A<<[CHANGED 2018/09/14]",
@@ -2266,7 +2266,7 @@
                 {
                   "message": {
                     "": "I see.\\. And you even blew up half a mountain of bugs by yourself?\\. Splendid work, truly!",
-                    "en_US": "Entendo.\\. E você até explodiu meia montanha de insetos sozinho?\\. Trabalho esplêndido, de verdade!",
+                    "en_US": "Muito bem.\\. Ouvi dizer que você explodiu uma pilha inteira de insetos sozinha. Excelente trabalho!",
                     "de_DE": "Alles klar.\\. Hab geh\u00f6rt, du hast 'n ganzen Haufen K\u00e4fer alleine hochgejagt?\\. Astreine Arbeit, wirklich!",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u5f88\u597d\u3002\\.\u4f60\u5c45\u7136\u4e00\u4e2a\u4eba\u70b8\u4e86\u534a\u5ea7\u5c71\u7684\u866b\u5b50\uff1f\\.\u505a\u5f97\u592a\u597d\u4e86\uff0c\u771f\u7684\uff01",
@@ -2337,7 +2337,7 @@
                 {
                   "message": {
                     "": "With any luck, we can finally make some real progress now.\\. You're always welcome to lend us a hand!",
-                    "en_US": "Com alguma sorte, podemos finalmente fazer algum progresso real agora.\\. Você é sempre bem-vinda para nos dar uma mão!",
+                    "en_US": "Com sorte, finalmente vamos avançar de verdade.\\. Você é sempre bem-vinda para nos dar uma mão!",
                     "de_DE": "Mit etwas Gl\u00fcck kommen wir jetzt endlich richtig voran.\\. Du bist nat\u00fcrlich jederzeit willkommen, mit anzupacken!",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u8981\u662f\u8d70\u8fd0\u7684\u8bdd\uff0c\u6211\u4eec\u5c31\u80fd\u53d6\u5f97\u4e00\u4e9b\u5b9e\u8d28\u6027\u7684\u8fdb\u5c55\u3002\\.\u4f60\u603b\u662f\u5728\u6211\u4eec\u6700\u9700\u8981\u7684\u65f6\u5019\u52a9\u6211\u4eec\u4e00\u81c2\u4e4b\u529b\uff01",
@@ -2356,7 +2356,7 @@
                 {
                   "message": {
                     "": "In fact... you might want to pay Darrel another visit.\\. He had some bold ideas for after the job was done.",
-                    "en_US": "Na verdade... talvez você queira fazer outra visita ao Darrel.\\. Ele tinha algumas ideias ousadas para depois que o trabalho fosse concluído.",
+                    "en_US": "Falando nisso... talvez você queira fazer outra visita ao Darrel.\\. Ele tinha algumas ideias interessantes para outro trabalho.",
                     "de_DE": "Da f\u00e4llt mir ein... Schau doch nochmal bei Darrel vorbei.\\. Er hat n\u00e4mlich ein paar neue, waghalsige Ideen auf Lager.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4e8b\u5b9e\u4e0a\u2026\u4f60\u53ef\u80fd\u60f3\u8981\u518d\u62dc\u8bbf\u4e00\u4e0b\u8fbe\u745e\u5c14\u3002\\.\u4ed6\u6709\u4e00\u4e9b\u5927\u80c6\u7684\u60f3\u6cd5\u3002",
@@ -2493,7 +2493,7 @@
               {
                 "message": {
                   "": "That being said, there might still be work for you, down in the mines.\\. You could talk to our miners down there.",
-                  "en_US": "Dito isso, talvez ainda haja trabalho para você, nas minas.\\. Você poderia falar com nossos mineiros lá.",
+                  "en_US": "Dito isso, talvez ainda haja trabalho para você, nas minas.\\. Converse com nossos mineiros lá.",
                   "de_DE": "Kann sein, dass wir noch 'n bisschen Maloche f\u00fcr dich unter Tage haben.\\. Sprich mal mit den Kumpels dort.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u4e0d\u8fc7\uff0c\u5728\u77ff\u4e95\u4e0b\u53ef\u80fd\u8fd8\u4f1a\u6709\u4e00\u4e9b\u5de5\u4f5c\u9700\u8981\u4f60\u3002\\.\u4f60\u53ef\u4ee5\u548c\u6211\u4eec\u4e0b\u9762\u7684\u77ff\u5de5\u804a\u804a\u3002",

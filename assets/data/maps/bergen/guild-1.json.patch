@@ -1454,7 +1454,7 @@
                     {
                       "message": {
                         "": "No need to come back to me by the way.",
-                        "en_US": "A propósito, não tem necessidade de voltar para mim.",
+                        "en_US": "A propósito, não precisa voltar aqui para concluir a missão.",
                         "de_DE": "Nebenbei, du musst zwischendurch nicht zur\u00fcckkommen.",
                         "fr_FR": "fr_FR",
                         "langUid": 31,
@@ -1473,7 +1473,7 @@
                     {
                       "message": {
                         "": "The items will be transferred here as soon as you find them.",
-                        "en_US": "Os itens serão transferidos aqui assim que você os encontrar.",
+                        "en_US": "Os itens serão transferidos para cá assim que você os encontrar.",
                         "de_DE": "Die Items werden direkt hierhergeschickt, sobald du sie gefunden hast.",
                         "fr_FR": "fr_FR",
                         "langUid": 32,
@@ -1777,7 +1777,7 @@
             "entity": { "global": true, "name": "gilder2" },
             "text": {
               "": "Don't worry too much about it, the higher-ups have already started giving quests to low-level players.",
-              "en_US": "Não se preocupe muito com isso, os superiores já começaram a dar missões aos jogadores de nível baixo.",
+              "en_US": "Relaxa, os veteranos já começaram a passar missões para os jogadores de nível baixo.",
               "de_DE": "Keine Sorge, die High Level-Chars haben bereits angefangen, Quests an Low Level-Chars zu vergeben.",
               "fr_FR": "fr_FR",
               "langUid": 4,
@@ -1805,7 +1805,7 @@
             "entity": { "global": true, "name": "gilder2" },
             "text": {
               "": "Until we have to grind high level mobs...",
-              "en_US": "Até o momento que precisaremos matar monstros de nível alto...",
+              "en_US": "Até o momento que precisarmos matar monstros de nível alto...",
               "de_DE": "Bis wir dann irgendwann High Level-Mobs grinden m\u00fcssen...",
               "fr_FR": "fr_FR",
               "langUid": 6,
@@ -2052,7 +2052,7 @@
               {
                 "message": {
                   "": "We proudly call ourselves \\v[lore.unlock.omni-gilders]\\c[3]Omni Gilders\\c[0]!",
-                  "en_US": "Temos o orgulho de nos chamar de \\v[lore.unlock.omni-gilders]\\c[3]Onidouradores\\c[0]!",
+                  "en_US": "Temos orgulho em nos chamar de \\v[lore.unlock.omni-gilders]\\c[3]Onidouradores\\c[0]!",
                   "de_DE": "Mit Stolz nennen wir uns die \\v[lore.unlock.omni-gilders]\\c[3]Omni-Gilders\\c[0]!",
                   "fr_FR": "fr_FR",
                   "langUid": 13,
@@ -2385,7 +2385,7 @@
                 {
                   "message": {
                     "": "My job is to get a \\c[3]Storage Unit\\c[0] from the cellar to the right.",
-                    "en_US": "Meu trabalho é pegar uma \\c[3]Unidade de Armazenamento\\c[0] da adega no porão à direita.",
+                    "en_US": "Meu trabalho é pegar uma \\c[3]Unidade de Armazenamento\\c[0] no porão à direita.",
                     "de_DE": "Ich muss eine \\c[3]Speichereinheit\\c[0] aus dem rechten Keller holen.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u7ed9\u6211\u7684\u4efb\u52a1\u662f\u627e\u5230\u53f3\u8fb9\u5730\u4e0b\u5ba4\u91cc\u7684\\c[3]\u50a8\u5b58\u5355\u5143\\c[0]\u3002",
@@ -2461,7 +2461,7 @@
                 {
                   "message": {
                     "": "They are online and I even tried this stupid Direct Link. No luck...",
-                    "en_US": "Eles estão online e eu até tentei esta droga de Direct Link. Sem resposta...",
+                    "en_US": "Eles estão online e eu até tentei usar essa droga de Direct Link. Sem resposta...",
                     "de_DE": "Sie sind beide online und ich habe sogar diesen d\u00e4mlichen Direkt-Link ausprobiert. Ohne Erfolg...",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4ed6\u4eec\u660e\u660e\u5728\u7ebf\u7684\uff0c\u76f4\u8fde\u4ec0\u4e48\u7684\u6211\u4e5f\u8bd5\u4e86\uff0c\u6ca1\u620f...<<A<<[CHANGED 2017/07/11]",
@@ -2992,7 +2992,7 @@
                 {
                   "message": {
                     "": "It's alright. I'm going to talk to them later. I have to recruit new players and they both wanted to help me.",
-                    "en_US": "Está tudo bem. Vou falar com eles mais tarde. Tenho que recrutar novos jogadores e ambos querem me ajudar.",
+                    "en_US": "Está tudo bem. Vou falar com eles mais tarde. Tenho que recrutar novos jogadores para ajuda a guilda.",
                     "de_DE": "Keine Sorge, ich rede sp\u00e4ter mit ihnen. Ich soll neue Spieler rekrutieren und sie wollten mir dabei helfen.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u6ca1\u4e8b\uff0c\u6211\u5f85\u4f1a\u518d\u53bb\u627e\u4ed6\u4eec\u3002\u6211\u8981\u53bb\u62db\u52df\u65b0\u73a9\u5bb6\u4e86\uff0c\u4ed6\u4eec\u4fe9\u8fd8\u8bf4\u8981\u5e2e\u6211\u7684\u5fd9\u5462\u3002",
@@ -3065,7 +3065,7 @@
                 {
                   "message": {
                     "": "It's really nothing. I'm okay with it. I'm sure they're just busy helping our guild!",
-                    "en_US": "Realmente não é nada. Eu estou bem com isso. Tenho certeza que eles estão ocupados ajudando nossa guilda!",
+                    "en_US": "Não é nada. Eu estou bem com isso. Tenho certeza que eles estão ocupados ajudando nossa guilda!",
                     "de_DE": "Ist wirklich halb so wild. Sie sind bestimmt im Auftrag der Gilde unterwegs!",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u771f\u6ca1\u4e8b\u3002\u4e0d\u7528\u62c5\u5fc3\u3002\u4ed6\u4eec\u80af\u5b9a\u662f\u5728\u5e2e\u5de5\u4f1a\u5e72\u6d3b\u5462\uff01<<A<<[CHANGED 2017/07/11]",
@@ -3186,7 +3186,7 @@
                 {
                   "message": {
                     "": "The General of this branch is currently in \\c[3]Maroon Valley\\c[0] so I'm gonna head off and give the unit to him as quickly as I can.",
-                    "en_US": "O General desse local está no \\c[3]Vale Castanho\\c[0] então irei levar essa coisa pra ele o mais rápido possível.",
+                    "en_US": "O General daqui está no \\c[3]Vale Castanho\\c[0] então irei levar essa coisa pra ele o mais rápido possível.",
                     "de_DE": "Der General dieser Zweigstelle ist momentan im \\c[3]Maronental\\c[0], also beeil ich mich besser, sie ihm so schnell wie m\u00f6glich zu bringen.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u516c\u4f1a\u652f\u90e8\u7684\u5c06\u519b\u73b0\u5728\u6b63\u5728\\c[3]\u8910\u7ea2\u5ce1\u8c37\\c[0]\uff0c\u6211\u8981\u8d76\u7d27\u8fc7\u53bb\u628a\u50a8\u5b58\u5355\u5143\u4ea4\u7ed9\u4ed6\u3002<<A<<[CHANGED 2017/07/11]",

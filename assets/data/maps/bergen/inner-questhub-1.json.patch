@@ -1583,7 +1583,7 @@
                 {
                   "message": {
                     "": "This detector will notify you when there is lost equipment in the \\c[3]current room\\c[0] of the Temple Mine.",
-                    "en_US": "Este detector irá notificá-la quando houver equipamento perdido na \\c[3]sala atual\\c[0] da Mina do Templo.",
+                    "en_US": "Com este detector, você será notificada quando houver itens perdidos nas salas da Mina do Templo.",
                     "de_DE": "Dieser Detektor wird dich benachrichtigen, wenn sich verlorene Ausr\u00fcstung im \\c[3]aktuellen Raum\\c[0] der \\c[3]Tempelmine\\c[0] befindet.",
                     "zh_CN": "\u5f53\u4f60\u4e0e\u5931\u843d\u88c5\u5907\u51fa\u4e8e\\c[3]\u540c\u4e00\u4e2a\u623f\u95f4\u65f6\\c[0]\uff0c\u5b83\u4f1a\u5bf9\u4f60\u8fdb\u884c\u63d0\u793a\u3002<<A<<[CHANGED 2018/08/01]",
                     "ja_JP": "\u3053\u306e\u63a2\u77e5\u6a5f\u306f\u3001\u7d1b\u5931\u3055\u308c\u305f\u6a5f\u6750\u304c\n\u795e\u6bbf\u9271\u5c71\u306e\\c[3]\u4eca\u3044\u308b\u90e8\u5c4b\\c[0]\u306b\u3042\u308b\u3068\u3001\n\u77e5\u3089\u305b\u3066\u304f\u308c\u308b\u3093\u3067\u3059\u3002<<A<<[CHANGED 2018/08/01]",
@@ -2067,7 +2067,7 @@
                 {
                   "message": {
                     "": "It would be a great help to the entire town if someone could retrieve them for us.",
-                    "en_US": "Seria uma grande ajuda para toda a cidade se alguém pudesse recuperá-los para nós.",
+                    "en_US": "Seria uma grande ajuda para toda a cidade se alguém pudesse recuperá-las para nós.",
                     "de_DE": "Es liegt im Interesse aller Bewohner Bergens, dass wir diese Sachen zur\u00fcckbekommen m\u00fcssen.",
                     "fr_FR": "fr_FR",
                     "langUid": 20,
@@ -2383,7 +2383,7 @@
                     {
                       "message": {
                         "": "That is a shame.\\. In the name of \\v[area.bergen.name], I urge you to reconsider.",
-                        "en_US": "Isso é uma pena. \\. Em nome de \\v[area.bergen.name], peço que você reconsidere sua decisão.",
+                        "en_US": "Isso é uma pena.\\. Em nome de \\v[area.bergen.name], peço que você reconsidere sua decisão.",
                         "de_DE": "Das ist bedauerlich!\\. Im Namen von ganz Bergen bitte ich dich, deine Entscheidung zu \u00fcberdenken.",
                         "fr_FR": "fr_FR",
                         "langUid": 27,
@@ -2451,7 +2451,7 @@
               {
                 "message": {
                   "": "You should be able to find all of those somewhere within the Temple Mine.\\. Please stay vigilant when exploring it.",
-                  "en_US": "Você deve ser capaz de encontrar tudo isso em algum lugar dentro do Mina do Templo.\\. Por favor, fique atento ao explorá-lo.",
+                  "en_US": "Você deve ser capaz de encontrar tudo isso em algum lugar dentro do Mina do Templo.\\. Por favor, fique atenta ao explorá-la.",
                   "de_DE": "Du solltest sie irgendwo in der Tempelmine finden.\\. Halte also deine Augen offen.",
                   "fr_FR": "fr_FR",
                   "langUid": 29,
@@ -2530,7 +2530,7 @@
                 {
                   "message": {
                     "": "Welcome back, \\v[lore.title.seeker].\\. I see you have found everything we need?",
-                    "en_US": "Bem-vinda de volta, \\v[lore.title.seeker].\\. Vejo que você encontrou tudo o que precisamos?",
+                    "en_US": "Bem-vinda de volta, \\v[lore.title.seeker].\\. Você encontrou tudo o que precisamos?",
                     "de_DE": "Willkommen zur\u00fcck, Seeker.\\. Wie ich sehe, hast du alles gefunden, was wir vermissen?",
                     "fr_FR": "fr_FR",
                     "langUid": 31,
@@ -3218,7 +3218,7 @@
             "entity": { "global": true, "name": "proTableChan" },
             "text": {
               "": "Just look at all the patterns.",
-              "en_US": "Olha só todos os padrões.",
+              "en_US": "Olha só todos esses detalhes.",
               "de_DE": "Schau dir all die Muster an!",
               "fr_FR": "fr_FR",
               "langUid": 8,
@@ -3543,7 +3543,7 @@
                 {
                   "message": {
                     "": "It has one o' them nice \\c[3]Modifiers\\c[0].",
-                    "en_US": "Ele tem alguns desses \\c[3]Modificadores\\c[0] legaizinhos.",
+                    "en_US": "Ele tem um desses \\c[3]Modificadores\\c[0] legalzinhos.",
                     "de_DE": "Desch Dinge hat eine dieser \\c[3]Modifikatoren\\c[0].",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u8fd9\u4e0a\u9762\u53ef\u6709\\c[3]\u7279\u8d28\\c[0]\u54e6\u3002<<A<<[CHANGED 2018/09/19]",
@@ -3578,7 +3578,7 @@
                 {
                   "message": {
                     "": "Makes it so ya'll can increase yer chance of loot by havin' a high \\c[3]Combat Rank\\c[0].",
-                    "en_US": "Faz com que você aumente as chances de ganhar items, por ter um nível alto de \\c[3]Ranking de Combate\\c[0].",
+                    "en_US": "Que aumenta as suas chances de ganhar itens, se você tiver um \\c[3]Ranking de Combate\\c[0] alto.",
                     "de_DE": "So kriegschst mehr von de Beude wennde deinen \\c[3]Kampfrang\\c[0] h\u00f6her hascht.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u5b83\u53ef\u4ee5\u8ba9\u4f60\u5728\u62e5\u6709\u9ad8\\c[3]\u6218\u6597\u8bc4\u7ea7\\c[0]\u7684\u65f6\u5019\u63d0\u9ad8\u7269\u54c1\u6389\u843d\u3002<<A<<[CHANGED 2018/09/19]",
@@ -3916,7 +3916,7 @@
             "entity": { "global": true, "name": "bestCityDiag2" },
             "text": {
               "": "This spot is pretty cozy, huh?",
-              "en_US": "Este lugar é bem aconchegante, hein?",
+              "en_US": "Esse lugar é bem confortável, né?",
               "langUid": 848,
               "ko_KR": "\uaf64 \uc544\ub291\ud55c \uacf3\uc774\uc9c0?<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u8fd9\u5730\u65b9\u4e0d\u9519\u5427\uff1f<<A<<[CHANGED 2019/01/10]",
@@ -4007,7 +4007,7 @@
             "entity": { "global": true, "name": "bestCityDiag1" },
             "text": {
               "": "When I'm not playing CrossWorlds, I'm thinking about CrossWorlds...\\. Or watching gameplay footage of CrossWorlds.",
-              "en_US": "Quando não estou jogando CrossWorlds, estou pensando em CrossWorlds... \\. Ou assistindo a imagens de CrossWorlds.",
+              "en_US": "Quando não estou jogando CrossWorlds, fico pensando no jogo...\\. Ou assisto a gameplays.",
               "langUid": 855,
               "ko_KR": "\ub09c \ud06c\ub85c\uc2a4\uc6d4\ub4dc\ub97c \ud50c\ub808\uc774\ud558\uc9c0 \uc54a\uc744 \ub54c\ub3c4 \ud06c\ub85c\uc2a4\uc6d4\ub4dc\ub97c \uc0dd\uac01\ud558\uac70\ub4e0...\\. \uc544\ub2c8\uba74 \ud06c\ub85c\uc2a4\uc6d4\ub4dc \uac8c\uc784\ud50c\ub808\uc774 \uc601\uc0c1\uc744 \ubcf4\uac70\ub098.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u56e0\u4e3a\u6211\u5c31\u7b97\u4e0d\u73a9\u8fd9\u6e38\u620f\u7684\u65f6\u5019\u4e5f\u60f3\u7740...\\.\u6216\u8005\u53bb\u7f51\u4e0a\u770b\u89c6\u9891\u3002<<A<<[CHANGED 2019/01/10]",
@@ -4020,7 +4020,7 @@
             "entity": { "global": true, "name": "bestCityDiag2" },
             "text": {
               "": "Dude...",
-              "en_US": "Cara...",
+              "en_US": "Oloco...",
               "langUid": 856,
               "ko_KR": "\ub300\ub2e8\ud558\ub124...<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u54ce...<<A<<[CHANGED 2019/01/10]",

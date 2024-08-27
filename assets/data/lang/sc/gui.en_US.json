@@ -184,7 +184,7 @@
         "atk": "ATQ",
         "def": "DEF",
         "foc": "FOC",
-        "lvl": "NVL"
+        "lvl": "NV"
       },
       "msg": {
         "private": "Direct Link",
@@ -196,7 +196,7 @@
         "OBTAINED": "[!] Obtido",
         "REMOVED": "[!] Removido",
         "ENEMY": "[!] adicionado ao Almanaque Monstro ",
-        "EXTENDED": "[!] Estendido",
+        "EXTENDED": "[!] Estendida",
         "WORD": "Nova Palavra Anexada: [!]",
         "FRIENDSHIP": "Contatos compartilhados com [!]",
         "PARTY": "[!] juntou-se ao grupo! ",
@@ -324,8 +324,8 @@
         "top-first-title": "Atualizações de Registros",
         "top-first": "\\c[3]Enciclopédia\\c[0], \\c[3]Estatisticas\\c[0] & \\c[3]Almanaque Monstro\\c[0] desbloqueados"
       },
-      "drop-hud": { "title": "Botânica", "completed": "Analisado" },
-      "timer-hud": { "counter": "Tempo Passado", "countdown": "Tempo Restando" },
+      "drop-hud": { "title": "Botânica", "completed": "Analisado(a)" },
+      "timer-hud": { "counter": "Tempo Passado", "countdown": "Tempo Restante" },
       "counter-hud": { "title": "Contador" },
       "task-hud": { "title": "Tarefa" },
       "quest-hud": {
@@ -926,7 +926,7 @@
           "wave": "Resistencia a Onda",
           "param": "Parâmetro",
           "base": "Base",
-          "equip": "Equipamento",
+          "equip": "Equip",
           "skills": "Circuito",
           "info": "Info.",
           "modifiers": "Modificadores",
@@ -934,7 +934,7 @@
           "nothing": "- Nenhum -",
           "unequip-name": "- Desequipar - ",
           "unequip-des": "Tire seu equipamento atual.",
-          "levels": "Level do Jogador & Equipamento",
+          "levels": "Nível do Jogador & Equipamento",
           "modifier": {
             "ITEM_GUARD": "Leaf Bracer",
             "SP_REGEN": "SP Regen",
@@ -1188,7 +1188,7 @@
             "DASH_SPECIAL": "Esquiva",
             "GUARD_SPECIAL": "Escudo"
           },
-          "lvl": "NVL",
+          "lvl": "NV",
           "sp": "SP",
           "dmgType": "DANO",
           "damageTypes": ["Corpo a Copo", "À Distância", "Nenhum", "Misturado"],
@@ -1851,7 +1851,7 @@
                   "Um único arquivo salvo exibe algumas informações básicas sobre o seu progresso:",
                   "!!min=66",
                   "--\\c[3]Capitulo\\c[0]:-- Reflete o progresso da história por meio do capitulo em que você está e um pequeno gráfico. ",
-                  "--\\c[3]Level[LVL]\\c[0]:-- O level que você tem neste arquivo salvo.",
+                  "--\\c[3]Nível[LVL]\\c[0]:-- O level que você tem neste arquivo salvo.",
                   "--\\c[3]Elemento\\c[0]:-- Os elementos que você tem neste arquivo salvo.",
                   "--\\c[3]Posição\\c[0]:-- A área e o mapa que você salvou.",
                   "--\\c[3]Versão\\c[0]:-- Exibido no canto inferior direito. Mostra a versão do jogo com a qual esse arquivo foi criado pela primeira vez. ",

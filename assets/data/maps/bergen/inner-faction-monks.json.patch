@@ -763,7 +763,7 @@
               {
                 "message": {
                   "": "The Track is quiet at this moment, leaving us time to meditate on its purpose.\\. Why not join us?",
-                  "en_US": "A Trilha está silenciosa neste momento, deixando-nos tempo para meditar sobre seu propósito.\\. Por que não se juntar a nós?",
+                  "en_US": "A Trilha está silenciosa neste momento, nos dando tempo para meditar sobre seu propósito.\\. Por que não se junta a nós?",
                   "de_DE": "Der Pfad ist ruhig im Moment, was uns Zeit gibt, \u00fcber seinen Sinn zu meditieren.\\. Magst du dich anschlie\u00dfen?",
                   "zh_CN": "\u6b64\u523b\u7684\u5148\u7956\u4e4b\u8def\u5341\u5206\u5bc2\u9759\uff0c\u6211\u4eec\u6709\u5145\u8db3\u7684\u65f6\u95f4\u6765\u601d\u8003\u5b83\u7684\u76ee\u7684\u3002\\.\u4e3a\u4ec0\u4e48\u4e0d\u52a0\u5165\u6211\u4eec\u5462\uff1f",
                   "ja_JP": "\u3044\u307e\u8ecc\u8de1\u306f\u6c88\u9ed9\u3057\u3001\u6211\u3089\u306b\u7791\u60f3\u3059\u308b\u6642\u9593\u3092\n\u4e0e\u3048\u3066\u304f\u308c\u3066\u3044\u308b\u3088\u3046\u3060\u3002\\.\u541b\u3082\u3069\u3046\u3060\u306d\uff1f",
@@ -1008,7 +1008,7 @@
                     {
                       "message": {
                         "": "I felt that you would answer as such.\\. The Track resonates strongly inside you.",
-                        "en_US": "Achei que você responderia como tal.\\. A Trilha ressoa fortemente dentro de você.",
+                        "en_US": "Eu pressenti que essa seria sua resposta.\\. A Trilha ressoa fortemente dentro de você.",
                         "de_DE": "Ich wusste, dass du so antworten w\u00fcrdest.\\. Der Pfad resoniert stark in dir.",
                         "fr_FR": "fr_FR",
                         "langUid": 273,
@@ -1046,7 +1046,7 @@
                     {
                       "message": {
                         "": "Go to Monk Hasouk to start the first trial.\\. You can find him under this very roof.",
-                        "en_US": "Fale com o Monge Hasouk para iniciar o primeiro teste.\\. Você pode encontrá-lo sob este mesmo teto.",
+                        "en_US": "Fale com o Monge Hasouk para iniciar o primeiro teste.\\. Você o encontrará aqui mesmo.",
                         "de_DE": "Gehe zu M\u00f6nch Hasouk, um deine erste Pr\u00fcfung abzulegen.\\. Du findest ihn dort dr\u00fcben unter dem Dach.",
                         "fr_FR": "fr_FR",
                         "langUid": 280,
@@ -1118,7 +1118,7 @@
                     {
                       "message": {
                         "": "I felt that you would answer as such.\\. Look inside yourself to find what holds you back.",
-                        "en_US": "Achei que você responderia como tal.\\. Olhe dentro de você para descobrir o que o impede.",
+                        "en_US": "Eu pressenti que essa seria sua resposta.\\. Olhe dentro de você para descobrir o que o impede.",
                         "de_DE": "Ich wusste, dass du so antworten w\u00fcrdest.\\. Schau in dein Innerstes und finde heraus, was dich zur\u00fcckh\u00e4lt.",
                         "fr_FR": "fr_FR",
                         "langUid": 335,
@@ -1206,7 +1206,7 @@
               {
                 "message": {
                   "": "Talk to Monk Hasouk to start the trial.\\. They can be found not far from here.",
-                  "en_US": "Fale com o Monge Hasouk para iniciar o teste.\\. Você pode encontrá-lo não muito longe daqui.",
+                  "en_US": "Fale com o Monge Hasouk para iniciar o teste.\\. Você o encontrará aqui mesmo.",
                   "de_DE": "Sprich mit M\u00f6nch Hasouk, um die Pr\u00fcfung abzulegen.\\. Du findest ihn hier ganz in der N\u00e4he.",
                   "fr_FR": "fr_FR",
                   "langUid": 26,
@@ -1337,7 +1337,7 @@
                 {
                   "message": {
                     "": "Now I presume you desire our guidance and the wisdom you came for.",
-                    "en_US": "Agora presumo que você deseja nossa orientação e a sabedoria que buscou.",
+                    "en_US": "Agora presumo que você deseja receber a orientação e a sabedoria que estava buscando.",
                     "de_DE": "Du w\u00fcnschst nun vermutlich unseren Rat und unsere Weisheit, wegen derer du gekommen bist.",
                     "fr_FR": "fr_FR",
                     "langUid": 379,
@@ -1372,7 +1372,7 @@
                 {
                   "message": {
                     "": "But, you see...\\.\\. by challenging yourself and beating our trial, you have already grown so much.",
-                    "en_US": "Veja...\\.\\. desafiando a si mesma e vencendo nossa prova, você já cresceu muito.",
+                    "en_US": "Veja...\\.\\. ao enfrentar e superar nossa prova, você cresceu muito.",
                     "de_DE": "Werde dir gewahr...\\.\\. dass du innerlich bereits gewachsen bist, indem du dich selbst herausgefordert und die Pr\u00fcfung bestanden hast.",
                     "fr_FR": "fr_FR",
                     "langUid": 381,
@@ -1795,7 +1795,7 @@
                     {
                       "message": {
                         "": "Yes, I thought as much.\\. You should spend more time with our cold lands until you feel ready.",
-                        "en_US": "Sim, pensei o mesmo\\. Você deve passar mais tempo nas nossas terras geladas até se sentir preparada.",
+                        "en_US": "Sim, foi o que pensei.\\. Você deve passar mais tempo nas nossas terras geladas até se sentir preparada.",
                         "de_DE": "Ja, das dachte ich mir.\\. Du solltest mehr Zeit in unserem kalten Land verbringen, bis du dich bereit f\u00fchlst.",
                         "fr_FR": "fr_FR",
                         "langUid": 410,
@@ -3895,7 +3895,7 @@
                 {
                   "message": {
                     "": "Enter this teleporter to reach the start of your trial.",
-                    "en_US": "Entre neste teleportador para chegar ao ínicio da sua prova.",
+                    "en_US": "Entre neste teleportador para iniciar prova.",
                     "de_DE": "Betritt den Teleporter, um deine Pr\u00fcfung zu beginnen.",
                     "zh_CN": "\u8fdb\u5165\u8fd9\u4e2a\u4f20\u9001\u70b9\uff0c\u5f00\u59cb\u4f60\u7684\u8bd5\u70bc\u5427\u3002",
                     "ja_JP": "\u3053\u306e\u30c6\u30ec\u30dd\u30fc\u30bf\u30fc\u306b\u4e57\u308a\u3001\u8a66\u7df4\u3092\u59cb\u3081\u308b\u304c\u3044\u3044\u3002",
@@ -5773,7 +5773,7 @@
               {
                 "message": {
                   "": "You won't need to fight, but know that falling into the darkness will fail the trial.\\. Be steady as ice and swift as a Frobbit.",
-                  "en_US": "Você não precisará lutar, mas saiba que cair na escuridão irá falhar no julgamento.\\. Seja firme como o gelo e rápida como uma Lebre.",
+                  "en_US": "Você não precisará lutar, mas se cair na escuridão irá falhar no teste.\\. Seja firme como o gelo e rápida como uma Lebre.",
                   "de_DE": "Du wirst nicht k\u00e4mpfen m\u00fcssen, doch f\u00e4llst du in die Dunkelheit, hast du versagt.\\. Schreite fest wie Eis und flink wie ein Pogonickel.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u4f60\u4e0d\u9700\u8981\u6218\u6597\uff0c\u4f46\u662f\u4f60\u5fc5\u987b\u77e5\u9053\u4e00\u65e6\u8dcc\u5165\u9ed1\u6697\u4e4b\u4e2d\uff0c\u4f60\u7684\u8bd5\u70bc\u5c31\u5931\u8d25\u4e86\u3002\\.\u8bb0\u4f4f\uff1a\u4e0d\u52a8\u5982\u51b0\uff0c\u52a8\u5982\u8131\u5154\u3002",
@@ -5883,7 +5883,7 @@
                 {
                   "message": {
                     "": "Indeed.\\. The firm aura that surrounds you speaks of your success.",
-                    "en_US": "De fato.\\. A aura firme que a cerca fala de seu sucesso.",
+                    "en_US": "De fato.\\. A aura firme que a cerca demonstra seu sucesso.",
                     "de_DE": "F\u00fcrwahr, die starke Aura, die dich umgibt, k\u00fcndet von deinem Erfolg.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u786e\u5b9e\u3002\\.\u56f4\u7ed5\u5728\u4f60\u8eab\u8fb9\u7684\u5149\u73af\u8bc9\u8bf4\u7740\u4f60\u7684\u6210\u529f\u3002<<A<<[CHANGED 2020/06/17]",
@@ -6532,7 +6532,7 @@
                   {
                     "message": {
                       "": "To solve the challenge without guarding you have to cast your shield away at the sign inside.",
-                      "en_US": "Para resolver o desafio sem se proteger, é preciso ativar o escudo a distância no painel interno.",
+                      "en_US": "Para resolver o desafio sem se proteger, é preciso remover o escudo no painel interno.",
                       "de_DE": "Um die Herasuforderung ohne deinen Schild zu bestehen, musst du ihn am Eingang deaktivieren.",
                       "fr_FR": "fr_FR",
                       "zh_CN": "\u8981\u901a\u8fc7\u65e0\u9632\u5fa1\u6311\u6218\uff0c\u4f60\u5fc5\u987b\u5148\u5728\u91cc\u9762\u7684\u6807\u8bc6\u7248\u91cc\u653e\u5f03\u76fe\u724c\u3002<<A<<[CHANGED 2020/06/17]",
@@ -6644,7 +6644,7 @@
                 {
                   "message": {
                     "": "You have now solved every one of my trials.\\. Impressive.",
-                    "en_US": "Você completou cada uma das milhas provas.\\. Impressionante.",
+                    "en_US": "Você completou cada uma das minhas provas.\\. Impressionante.",
                     "de_DE": "Du hast nun alle meine Pr\u00fcfungen bestanden.\\. Beeindruckend.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4f60\u73b0\u5728\u5df2\u7ecf\u5b8c\u6210\u4e86\u6211\u7684\u6bcf\u4e00\u573a\u8bd5\u9a8c\u3002\\.\u771f\u662f\u4ee4\u4eba\u5370\u8c61\u6df1\u523b\u3002",

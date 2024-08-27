@@ -6033,7 +6033,7 @@
                 },
                 "text": {
                     "": "Did you notice how they removed the meeting place here?",
-                    "en_US": "Voc\u00ea notou como eles removeram o ponto de encontro aqui?",
+                    "en_US": "Você reparou que tiraram o ponto de encontro daqui?",
                     "de_DE": "Hast du bemerkt, wie sie den Treffpunkt hier entfernt haben?",
                     "fr_FR": "fr_FR",
                     "langUid": 7,
@@ -6049,7 +6049,7 @@
                 },
                 "text": {
                     "": "Yeah, Patch notes said it's for some bigger update soon.",
-                    "en_US": "Sim, as notas de Atualiza\u00e7\u00e3o disseram que era para alguma atualiza\u00e7\u00e3o maior em breve.",
+                    "en_US": "Sim, eles falaram nas notas de atualização que é pra uma grande atualização em breve.",
                     "de_DE": "Jau, laut Patch Notes soll bald ein gr\u00f6\u00dferes Update folgen.",
                     "fr_FR": "fr_FR",
                     "langUid": 8,
@@ -6503,7 +6503,7 @@
                     }, {
                         "message": {
                             "": "Uhm...\\. Hiyah!",
-                            "en_US": "Hum...\\. Yaaa!",
+                            "en_US": "Hum...\\. Oizinho!",
                             "de_DE": "\u00d6hm... Hall\u00f6chen!",
                             "fr_FR": "fr_FR",
                             "langUid": 10,
@@ -6539,7 +6539,7 @@
                     }, {
                         "message": {
                             "": "Are you...\\. a new player too?",
-                            "en_US": "Voc\u00ea \u00e9...\\. uma nova jogadora tamb\u00e9m?",
+                            "en_US": "Você é...\\. nova no jogo também?",
                             "de_DE": "Du...\\. bist auch neu hier, oder?",
                             "fr_FR": "fr_FR",
                             "langUid": 30,
@@ -6575,7 +6575,7 @@
                     }, {
                         "message": {
                             "": "Great! ...\\. I mean uh...\\. Could you help me with something?",
-                            "en_US": "Demais!...\\. Digo....\\. Voc\u00ea poderia me ajudar com uma coisa?",
+                            "en_US": "Demais!\\. Digo....\\. Voc\u00ea poderia me ajudar com uma coisa?",
                             "de_DE": "Super! ...\\. \u00c4h, ich meine...\\. K\u00f6nntest du mir bei etwas helfen?",
                             "fr_FR": "fr_FR",
                             "langUid": 32,
@@ -6593,7 +6593,7 @@
                     }, {
                         "message": {
                             "": "See...\\. I need equipment...\\. A \\c[3]\\v[item.30.name]\\c[0].",
-                            "en_US": "Olha...\\. Eu preciso de equipamentos...\\. Uma \\c[3]\\v[item.30.name]\\c[0].",
+                            "en_US": "Olha...\\. Eu preciso de um equipamento...\\. Uma \\c[3]\\v[item.30.name]\\c[0].",
                             "de_DE": "Ich brauche neue Ausr\u00fcstung...\\. Und zwar einen \\c[3]Bronzeharnisch\\c[0].",
                             "fr_FR": "fr_FR",
                             "zh_CN": "\u4f60\u770b\u2026\\.\u6211\u9700\u8981\u4e00\u4ef6\u65b0\u7684\u88c5\u5907\u2026\\.\u4e00\u4e2a\\c[3]\\v[item.30.name]\\c[0]\u3002",
@@ -6758,7 +6758,7 @@
                         }, {
                             "message": {
                                 "": "I'll wait here for you!",
-                                "en_US": "Eu esperar aqui por voc\u00ea!",
+                                "en_US": "Eu vou esperar aqui por você!",
                                 "de_DE": "Ich werde dann hier auf dich warten!",
                                 "fr_FR": "fr_FR",
                                 "langUid": 42,
@@ -6934,7 +6934,7 @@
                     }, {
                         "message": {
                             "": "...Oh!\\. I-\\.Is that the \\c[3]\\v[item.30.name]\\c[0] you bought for me?",
-                            "en_US": "...Ah!\\. \u00c9-\\.\u00c9 essa a \\c[3]\\v[item.30.name]\\c[0], voc\u00ea comprou ela para mim?",
+                            "en_US": "...Ah!\\. \u00c9-\\.\u00c9 essa a \\c[3]\\v[item.30.name]\\c[0], que voc\u00ea comprou para mim?",
                             "de_DE": "... Oh!\\. I-\\.Ist das der \\c[3]Bronzeharnisch\\c[0] f\u00fcr mich?",
                             "fr_FR": "fr_FR",
                             "zh_CN": "\u2026\u5662\uff01\\.\u8fd9\u2014\u2014\\.\u8fd9\u662f\u4f60\u5e2e\u6211\u4e70\u6765\u7684\\c[3]\\v[item.30.name]\\c[0]\u5417\uff1f",
@@ -7402,7 +7402,7 @@
                 }, {
                     "message": {
                         "": "Puh... Apologies my lady. I just came down from \\c[3]Bergen\\c[0].",
-                        "en_US": "Puh... Desculpas senhorita. Eu acabei de descer de \\c[3]Bergen\\c[0].",
+                        "en_US": "Puh... Desculpe senhorita. Eu acabei de descer de \\c[3]Bergen\\c[0].",
                         "de_DE": "Puh... Verzeihung, meine Dame. Ich komme gerade von oben, aus \\c[3]Bergen\\c[0].",
                         "fr_FR": "fr_FR",
                         "langUid": 238,
@@ -7607,7 +7607,7 @@
                     }, {
                         "message": {
                             "": "S...S... Sorry!",
-                            "en_US": "D...D... Desculpe!",
+                            "en_US": "D...D... Desculpa!",
                             "de_DE": "T... T... Tut mir leid!",
                             "fr_FR": "fr_FR",
                             "langUid": 244,
@@ -7639,7 +7639,7 @@
                     }, {
                         "message": {
                             "": "I just had the most traumatic event ever. Seriously.",
-                            "en_US": "Eu simplesmente tive o evento mais traum\u00e1tico de todos. S\u00e9rio.",
+                            "en_US": "Acabei de ter a experiência mais traumática de todas!",
                             "de_DE": "Ich hatte gerade das traumatischste Erlebnis \u00fcberhaupt!",
                             "fr_FR": "fr_FR",
                             "langUid": 245,
@@ -7717,7 +7717,7 @@
                     }, {
                         "message": {
                             "": "I mean, you won't believe what happened.",
-                            "en_US": "Preciso te dizer, voc\u00ea n\u00e3o vai acreditar no que aconteceu",
+                            "en_US": "Preciso te dizer, voc\u00ea n\u00e3o vai acreditar no que aconteceu.",
                             "de_DE": "Du wirst nicht glauben, was gerade passiert ist.",
                             "fr_FR": "fr_FR",
                             "langUid": 249,
@@ -7735,7 +7735,7 @@
                     }, {
                         "message": {
                             "": "I was running on an off-road path here in Bergen Trail.",
-                            "en_US": "Eu estava correndo em um caminho diferente aqui na trilha de Bergen.",
+                            "en_US": "Eu estava andando em um caminho na trilha de Bergen, até que...",
                             "de_DE": "Ich renne hier gerade auf einem Wildpfad abseits des Bergen-Trails entlang...",
                             "fr_FR": "fr_FR",
                             "langUid": 250,
@@ -7753,7 +7753,7 @@
                     }, {
                         "message": {
                             "": "Suddenly, this \\c[3]HUGE\\c[0] and \\c[3]VICIOUS\\c[0] bunny-creature attacks me from the side.",
-                            "en_US": "Do nada, uma criatura \\c[3]ENORME\\c[0] e \\c[3]VINGATIVA\\c[0] parecida com um coelho me atacou.",
+                            "en_US": "Do nada, uma criatura \\c[3]ENORME\\c[0] e \\c[3]VINGATIVA\\c[0] parecida com um coelhapo me atacou.",
                             "de_DE": "... als mich pl\u00f6tzlich diese \\c[3]RIESIGE\\c[0] und \\c[3]BLUTR\u00dcNSTIGE\\c[0] Hasen-Kreatur von der Seite angreift.",
                             "fr_FR": "fr_FR",
                             "langUid": 251,
@@ -7807,7 +7807,7 @@
                     }, {
                         "message": {
                             "": "I can't believe it. I still have to become much stronger.",
-                            "en_US": "Eu n\u00e3o consigo acreditar. Eu ainda preciso me tornar muito mais forte.",
+                            "en_US": "Eu n\u00e3o consigo acreditar. Eu ainda preciso me tornar mais forte.",
                             "de_DE": "Ich kann es immer noch nicht fassen. Ich glaube, ich muss einfach noch viel st\u00e4rker werden.",
                             "fr_FR": "fr_FR",
                             "langUid": 253,
@@ -8080,7 +8080,7 @@
                         }, {
                             "message": {
                                 "": "Both of them are pretty smart and they always know stuff.",
-                                "en_US": "Ambos s\u00e3o muito inteligentes e est\u00e3o sempre por dentro das coisas.",
+                                "en_US": "Eles são muito inteligentes e estão sempre por dentro das coisas.",
                                 "de_DE": "Die sind beide recht pfiffig und schnappen viel auf.",
                                 "fr_FR": "fr_FR",
                                 "langUid": 271,
@@ -8116,7 +8116,7 @@
                         }, {
                             "message": {
                                 "": "Not sure exactly where he is though. I remember him saying something about an \\c[3]INN\\c[0] he loves.",
-                                "en_US": "N\u00e3o tenho certeza onde ele está exatamente. Eu lembro dele dizendo algo sobre uma \\c[3]Pousada\\c[0] que ele adora.",
+                                "en_US": "Não sei direito onde ele está. Só lembro dele falando de uma \\c[3]Pousada\\c[0] que ele adora.",
                                 "de_DE": "Ich wei\u00df nur nicht, wo genau. Aber er sagte mir mal, dass es dort ein \\c[3]Gasthaus\\c[0] gibt, das er mag.",
                                 "fr_FR": "fr_FR",
                                 "langUid": 273,
@@ -8188,7 +8188,7 @@
                         }, {
                             "message": {
                                 "": "Sorry, I'm not a fan of this \"Messaging\". I like to handle things personally.",
-                                "en_US": "Desculpa, n\u00e3o sou f\u00e3 destas \"Mensagens\". Gosto de lidar com as coisas pessoalmente.",
+                                "en_US": "Desculpa, não curto essas \"Mensagens\". Prefiro resolver as coisas pessoalmente.",
                                 "de_DE": "Ja, ich wei\u00df, tut mir leid, aber ich bin kein Freund von diesem \"Messaging\". Ich regle solche Sachen lieber pers\u00f6nlich.",
                                 "fr_FR": "fr_FR",
                                 "langUid": 291,
@@ -8628,7 +8628,7 @@
                     }, {
                         "message": {
                             "": "Not sure exactly where he is though. I remember him saying something about an \\c[3]INN\\c[0] he loves.",
-                            "en_US": "N\u00e3o tenho certeza de onde exatamente ele est\u00e1. Eu lembro dele dizendo algo sobre uma \\c[3]Pousada\\c[0] que ele adora.",
+                            "en_US": "Não sei direito onde ele está. Só lembro dele falando de uma \\c[3]Pousada\\c[0] que ele adora.",
                             "de_DE": "Ich wei\u00df nur nicht, wo genau. Aber er sagte mir mal, dass es dort ein \\c[3]Gasthaus\\c[0] gibt, das er mag.",
                             "fr_FR": "fr_FR",
                             "langUid": 282,
@@ -8850,7 +8850,7 @@
                     }, {
                         "message": {
                             "": "I can't believe this. I told them not to \\c[3]DL\\c[0] me...",
-                            "en_US": "Eu n\u00e3o posso acreditar nisso. Eu disse a eles para n\u00e3o me ligarem via \\c[3]D-Link\\c[0]...",
+                            "en_US": "E eu que avisei pra não ligarem pelo \\c[3]D-link\\c[0], mas não adianta, né?",
                             "de_DE": "Obwohl ich ihnen extra gesagt habe, mir nicht zu \\c[3]d-linken\\c[0]...",
                             "fr_FR": "fr_FR",
                             "langUid": 303,
@@ -8886,7 +8886,7 @@
                     }, {
                         "message": {
                             "": "Then again\\..\\..\\.. Your speech module is broken. So it's probably better this way.",
-                            "en_US": "Entendi\\..\\..\\.. Seu m\u00f3dulo de voz ainda est\u00e1 quebrado. Provavelmente \u00e9 melhor assim.",
+                            "en_US": "Pensando bem\\..\\..\\.. Como o seu m\u00f3dulo de voz ainda est\u00e1 quebrado, talvez seja melhor assim.",
                             "de_DE": "Andererseits\\..\\..\\.. ist ja dein Sprachmodul hin\u00fcber. War wohl doch besser so.",
                             "fr_FR": "fr_FR",
                             "langUid": 305,
@@ -8922,7 +8922,7 @@
                     }, {
                         "message": {
                             "": "So, from \\c[3]Jeff\\c[0] we know that we need 5 \\c[3]\\v[item.139.name]s\\c[0].",
-                            "en_US": "\\c[3]Jeff\\c[0] nos disse que precisamos de 5 \\c[3]\\v[item.139.name]s\\c[0].",
+                            "en_US": "\\c[3]Jeff\\c[0] me disse que precisamos de 5 \\c[3]Cenouras Congeladas\\c[0].",
                             "de_DE": "Also, von \\c[3]Jeff\\c[0] wissen wir, dass wir f\u00fcnf \\c[3]Gefrorene Karotten\\c[0] brauchen.",
                             "fr_FR": "fr_FR",
                             "langUid": 307,
@@ -8958,7 +8958,7 @@
                     }, {
                         "message": {
                             "": "And I found out that this creature seems to show up a lot on the \\c[3]Windy Climb\\c[0] parts of \\c[3]Bergen Trail\\c[0].",
-                            "en_US": "E descobri que esta criatura costuma aparecer muito na \\c[3]Escalada Rigorosa\\c[0] uma parte da \\c[3]Trilha de Bergen\\c[0].",
+                            "en_US": "E fiquei sabendo que essa criatura aparece na \\c[3]Escalada Rigorosa\\c[0], uma área da \\c[3]Trilha de Bergen\\c[0].",
                             "de_DE": "Und ich habe rausgekriegt, dass diese Kreatur oft am \\c[3]Windigen Aufstieg\\c[0] des \\c[3]Bergen-Trails\\c[0] auftaucht.",
                             "fr_FR": "fr_FR",
                             "langUid": 309,
@@ -9012,7 +9012,7 @@
                     }, {
                         "message": {
                             "": "You go and collect the \\v[item.139.name]s and I'll try to get my hands on one of these capture devices. ",
-                            "en_US": "Voc\u00ea vai e coleta as \\v[item.139.name]s E eu tentarei colocar minhas m\u00e3os em um desses dispositivos de captura.",
+                            "en_US": "Você pega as cenouras congeladas, e eu vou tentar arranjar um desses dispositivos de captura.",
                             "de_DE": "Du ziehst los und sammelst die Gefrorenen Karotten, und ich versuche, eins von diesen Fangger\u00e4ten zu besorgen.",
                             "fr_FR": "fr_FR",
                             "langUid": 312,
@@ -9258,7 +9258,7 @@
                     }, {
                         "message": {
                             "": "Yeah, it was super expensive, but it's totally worth it.",
-                            "en_US": "Sim, foi super caro, mas valeu totalmente a pena.",
+                            "en_US": "E foi super caro, mas valeu a pena.",
                             "de_DE": "Ja, es war zwar verdammt teuer, aber das war es mir wert.",
                             "fr_FR": "fr_FR",
                             "langUid": 320,
@@ -9276,7 +9276,7 @@
                     }, {
                         "message": {
                             "": "Did you get the \\v[item.139.name]s?",
-                            "en_US": "Voc\u00ea conseguiu as \\v[item.139.name]s?",
+                            "en_US": "Voc\u00ea conseguiu as cenouras?",
                             "de_DE": "Hast du die Gefrorenen Karotten?",
                             "fr_FR": "fr_FR",
                             "langUid": 321,
@@ -9330,7 +9330,7 @@
                     }, {
                         "message": {
                             "": "Now we only have to capture this legendary bunny or whatever people call it. ",
-                            "en_US": "Agora s\u00f3 temos que capturar esse coelho lend\u00e1rio ou seja l\u00e1 como as pessoas o chamam.",
+                            "en_US": "Agora s\u00f3 temos que capturar esse coelhapo lend\u00e1rio ou seja l\u00e1 como as pessoas o chamam.",
                             "de_DE": "Jetzt m\u00fcssen wir nur noch diesen legend\u00e4ren Hasen fangen.",
                             "fr_FR": "fr_FR",
                             "langUid": 324,
@@ -9348,7 +9348,7 @@
                     }, {
                         "message": {
                             "": "From what I understood, the guys I got my info from said you have to bring the \\v[item.139.name]s to \\c[3]Windy Climb\\c[0].",
-                            "en_US": "Pelo que eu entendi, os caras de quem eu consegui minhas informa\u00e7\u00f5es disseram que voc\u00ea tem que levar as \\v[item.139.name]s para \\c[3]Escalada Rigorosa\\c[0].",
+                            "en_US": "Segundo o pessoal que me informou, você tem que levar as cenouras congeladas para a \\c[3]Escalada Rigorosa\\c[0].",
                             "de_DE": "Mir wurde gesagt, man muss die Gefrorenen Karotten zum \\c[3]Windigen Aufstieg\\c[0] bringen.",
                             "fr_FR": "fr_FR",
                             "langUid": 325,
@@ -9384,7 +9384,7 @@
                     }, {
                         "message": {
                             "": "As I said, it's a part of Bergen Trail.",
-                            "en_US": "Como eu te disse, faz parte da trilha de Bergen.",
+                            "en_US": "Como eu te disse, faz parte da Trilha de Bergen.",
                             "de_DE": "Wie gesagt, das ist ein Abschnitt des Bergen-Trails.",
                             "fr_FR": "fr_FR",
                             "langUid": 327,
@@ -9402,7 +9402,7 @@
                     }, {
                         "message": {
                             "": "Turns out, it was the same part I was attacked in!",
-                            "en_US": "Acontece que, era a mesma parte em que fui atacada!",
+                            "en_US": "Acontece que, era a mesma parte onde fui atacada!",
                             "de_DE": "Hat sich rausgestellt, dass es das gleiche Gebiet ist, in dem ich angegriffen wurde!",
                             "fr_FR": "fr_FR",
                             "langUid": 328,
@@ -9438,7 +9438,7 @@
                     }, {
                         "message": {
                             "": "Right? Which means we just have to get the \\v[item.139.name]s to that place.",
-                            "en_US": "Exatamente! O que significa que s\u00f3 precisamos levar as \\v[item.139.name]s para esse lugar.",
+                            "en_US": "Exatamente! O que significa que s\u00f3 precisamos levar as cenouras para esse lugar.",
                             "de_DE": "Genau! Das bedeutet, wir m\u00fcssen die Gefrorenen Karotten nur an diesen Ort bringen.",
                             "fr_FR": "fr_FR",
                             "langUid": 330,
@@ -9456,7 +9456,7 @@
                     }, {
                         "message": {
                             "": "The guys said just having the capture device and defeating the monster would capture it.",
-                            "en_US": "Os caras disseram que bastava ter o dispositivo para capturar o monstro, depois ele estivesse derrotado.",
+                            "en_US": "Os caras disseram que era só ter o dispositivo pra pegar o monstro depois de derrotar ele.",
                             "de_DE": "Die Jungs sagten, es reicht, das Ger\u00e4t dabeizuhaben, um das Monster einzufangen, sobald wir es besiegt haben.",
                             "fr_FR": "fr_FR",
                             "langUid": 331,
@@ -9582,7 +9582,7 @@
                     }, {
                         "message": {
                             "": "Come on, you got the carrots too. I'm not really a fighter...",
-                            "en_US": "Vamos l\u00e1, voc\u00ea tamb\u00e9m j\u00e1 tem as cenouras. Eu n\u00e3o sou uma lutadora de verdade...",
+                            "en_US": "Qual é, você já tem as cenouras. Eu não sou uma lutadora de verdade...",
                             "de_DE": "Ach komm, du hast doch auch die Karotten. Ich bin eigentlich gar keine K\u00e4mpfernatur...",
                             "fr_FR": "fr_FR",
                             "langUid": 338,
@@ -9600,7 +9600,7 @@
                     }, {
                         "message": {
                             "": "It's not because I'm scared or whatever.",
-                            "en_US": "N\u00e3o \u00e9 porque estou com medo ou algo assim.",
+                            "en_US": "E não é porque estou com medo ou algo assim.",
                             "de_DE": "Es liegt aber nicht daran, dass ich Angst h\u00e4tte oder so.",
                             "fr_FR": "fr_FR",
                             "langUid": 339,
@@ -9654,7 +9654,7 @@
                     }, {
                         "message": {
                             "": "Thanks! I know you can do it! But prepare yourself!",
-                            "en_US": "Obrigado! Eu sei que voc\u00ea consegue! Mas prepare-se antes!",
+                            "en_US": "Obrigada! Eu sei que voc\u00ea consegue! Mas prepare-se antes!",
                             "de_DE": "Danke! Ich wei\u00df, dass du das schaffst! Aber bereite dich gut vor!",
                             "fr_FR": "fr_FR",
                             "langUid": 342,
@@ -9762,7 +9762,7 @@
                 }, {
                     "message": {
                         "": "Hey Lea! Did you fight the bunny yet?",
-                        "en_US": "Eai Lea! Voc\u00ea j\u00e1 lutou contra o coelho?",
+                        "en_US": "Eai Lea! Voc\u00ea j\u00e1 lutou contra o coelhapo?",
                         "de_DE": "Hey, Lea! Hast du den Hasen schon bek\u00e4mpft?",
                         "fr_FR": "fr_FR",
                         "langUid": 378,
@@ -9798,7 +9798,7 @@
                 }, {
                     "message": {
                         "": "A.. Ah.. Alright. Don't push yourself okay? I was told it is super strong!",
-                        "en_US": "A.. Ah.. Tudo bem. Tome cuidado, ok? Me disseram que \u00e9 super forte!",
+                        "en_US": "A.. Ah.. Tudo bem. Tome cuidado, ok? Me disseram que ele \u00e9 super forte!",
                         "de_DE": "A... A-Ach so. \u00dcberanstrenge dich nicht, ja? Mir wurde gesagt, er ist wirklich sehr, sehr stark!",
                         "fr_FR": "fr_FR",
                         "langUid": 380,
@@ -10326,7 +10326,7 @@
                     }, {
                         "message": {
                             "": "I thought it would have dark red eyes and bloody fur or something.",
-                            "en_US": "Achei que teria olhos vermelho-escuros e pelos com sangue ou algo assim",
+                            "en_US": "Achei que ele tinha olhos vermelhos, pele com sangue e etc.",
                             "de_DE": "Ich dachte, er h\u00e4tte rotgl\u00fchende Augen und ein blutverschmiertes Fell und so.",
                             "fr_FR": "fr_FR",
                             "langUid": 363,
@@ -10670,7 +10670,7 @@
                     }, {
                         "message": {
                             "": "You are not going to tell her it is just a regular Young Frobbit?",
-                            "en_US": "Voc\u00ea n\u00e3o vai dizer a ela que \u00e9 apenas um Young Frobbit normal?",
+                            "en_US": "Voc\u00ea n\u00e3o vai dizer a ela que \u00e9 apenas um Coelhapo Jovem comum?",
                             "de_DE": "Willst du ihr nicht sagen, dass es nur ein gew\u00f6hnlicher Junger Pogonickel ist?",
                             "fr_FR": "fr_FR",
                             "langUid": 382,
@@ -10704,7 +10704,7 @@
                     }, {
                         "message": {
                             "": "Mh.. I guess it is probably better this way.",
-                            "en_US": "Hum.. Acho que provavelmente \u00e9 melhor assim.",
+                            "en_US": "Hum.. Acho que é melhor assim.",
                             "de_DE": "Hm... Ist vermutlich besser so.",
                             "fr_FR": "fr_FR",
                             "langUid": 384,
@@ -12194,7 +12194,7 @@
                             "thenStep": [{
                                 "message": {
                                     "": "Hm...\\. Your \\c[3]stats seem rather low\\c[0]. I suggest you upgrade your \\c[3]circuits\\c[0] and \\c[3]equipment\\c[0] before the duel.",
-                                    "en_US": "Hm... \\. Suas estatísticas \\c[3]parecem bastante baixas\\c[0]. Eu sugiro que você atualize seus \\c[3]circuitos\\c[0] e \\c[3]equipamentos\\c[0] antes do duelo.",
+                                    "en_US": "Hm... \\. Seus atributos \\c[3]parecem bastante baixos\\c[0]. Eu sugiro que você atualize seus \\c[3]circuitos\\c[0] e \\c[3]equipamentos\\c[0] antes do duelo.",
                                     "de_DE": "Hm... Deine \\c[3]Stats sind ziemlich niedrig\\c[0]. Ich empfehle dir, deine \\c[3]Circuits\\c[0] und \\c[3]Ausr\u00fcstung\\c[0] vor dem Duell auszubauen.",
                                     "fr_FR": "fr_FR",
                                     "zh_CN": "\u5443...\\.\u4f60\u7684\\c[3]\u5c5e\u6027\u504f\u4f4e\\c[0]\u554a\u3002\u6211\u5efa\u8bae\u4f60\u5728\u51b3\u6597\u524d\u5728\\c[3]\u7535\u8def\u52a0\u70b9\\c[0]\u8fd8\u6709\\c[3]\u66f4\u65b0\u88c5\u5907\\c[0]\u3002<<A<<[CHANGED 2019\/09\/11]",
@@ -12213,7 +12213,7 @@
                                 "message": {
                                     "": "You can still challenge with your current stats, but don't even think about using it as an excuse.",
                                     "de_DE": "Du kannst mich nat\u00fcrlich trotzdem herausfordern. Aber nimm den Levelunterschied dann nicht als Entschuldigung.",
-                                    "en_US": "Você ainda pode me desafiar com suas estatísticas atuais, mas nem pense em usá-las como uma desculpa.",
+                                    "en_US": "Você ainda pode me desafiar com seus atributos baixos, mas nem pense em usá-los como uma desculpa.",
                                     "fr_FR": "fr_FR",
                                     "zh_CN": "\u4f60\u5f53\u7136\u53ef\u4ee5\u6311\u6218\u6211\uff0c\u4f46\u662f\u4e0d\u8981\u60f3\u628a\u6570\u503c\u5dee\u8ddd\u5f53\u4f5c\u501f\u53e3\u3002",
                                     "ja_JP": "\u4eca\u306e\u30b9\u30c6\u30fc\u30bf\u30b9\u306e\u307e\u307e\u6311\u6226\u3057\u3066\u304d\u3066\u3082\u304b\u307e\u308f\u306a\u3044\u304c\u3001\u305d\u3044\u3064\u3092\u8a00\u3044\u8a33\u306b\u3057\u3088\u3046\u3060\u306a\u3093\u3066\u8003\u3048\u308b\u306a\u3088\u3002<<A<<[CHANGED 2017\/08\/03]",
@@ -12885,7 +12885,7 @@
                         }, {
                             "message": {
                                 "": "We fight several rounds.\\. \\c[3]5 out of 9\\c[0].\\. No items.\\. No escape.",
-                                "en_US": "N\u00f3s lutaremos v\u00e1rias rodadas\\. \\c[3]5 de 9\\c[0].\\. Sem itens.\\. Sem escapat\u00f3ria.",
+                                "en_US": "Vamos lutar várias rodadas.\\. Quem ganhar \\c[3]5 de 9\\c[0], vence.\\. Sem itens.\\. Sem escapatória.",
                                 "de_DE": "Wir k\u00e4mpfen bis zu neun Runden, \\c[3]nach f\u00fcnf Siegen ist der Kampf entschieden\\c[0].\\. Keine Items.\\. Kein Entkommen.",
                                 "fr_FR": "fr_FR",
                                 "langUid": 431,
@@ -14716,7 +14716,7 @@
                         }, {
                             "message": {
                                 "": "I'm glad to know that skilled Spheromancers remain among us.",
-                                "en_US": "Fico feliz em saber que ainda existem Esferomantes habilidosos entre n\u00f3s",
+                                "en_US": "Fico feliz em saber que ainda existem Esferomantes habilidosos entre n\u00f3s.",
                                 "de_DE": "Gut zu wissen, dass es noch f\u00e4hige Spheromancer unter uns gibt.",
                                 "fr_FR": "fr_FR",
                                 "langUid": 454,
@@ -15171,7 +15171,7 @@
                 }, {
                     "message": {
                         "": "Train hard, and you may become worthy of your class!",
-                        "en_US": "Treine muito e voc\u00ea poder\u00e1 se tornar digno de sua classe!",
+                        "en_US": "Treine muito e voc\u00ea poder\u00e1 se tornar digna de sua classe!",
                         "de_DE": "Traniere hart, und du wirst dich deiner Klasse eines Tages als w\u00fcrdig erweisen!",
                         "fr_FR": "fr_FR",
                         "langUid": 461,
@@ -15471,7 +15471,7 @@
             }, {
                 "message": {
                     "": "Serious monsieur is very serious.",
-                    "en_US": "Nossa monsieur \u00e9 muito s\u00e9rio.",
+                    "en_US": "Nossa, monsieur \u00e9 muito s\u00e9rio.",
                     "de_DE": "Monsieur Graskopf meint es wohl ziemlich ernst.",
                     "fr_FR": "fr_FR",
                     "langUid": 466,
@@ -15639,7 +15639,7 @@
             }, {
                 "message": {
                     "": "Anyway... I really have to go now.",
-                    "en_US": "Enfim... eu realmente tenho que ir agora.",
+                    "en_US": "Enfim... eu tenho que ir agora.",
                     "de_DE": "Wie auch immer... Ich muss jetzt wirklich gehen.",
                     "fr_FR": "fr_FR",
                     "langUid": 476,
@@ -16122,7 +16122,7 @@
             }, {
                 "message": {
                     "": "It looks like I added the word just in the nick of time.",
-                    "en_US": "Parece que adicionei a palavra bem em cima da hora.",
+                    "en_US": "Parece que incluí a palavra no momento certo.",
                     "de_DE": "Sieht so aus, als h\u00e4tte ich das Wort genau zur rechten Zeit eingebunden.",
                     "fr_FR": "fr_FR",
                     "langUid": 491,
@@ -16937,7 +16937,7 @@
                 },
                 "text": {
                     "": "Sure feels nice to have a change of landscape.",
-                    "en_US": "Claro que \u00e9 bom ter uma mudan\u00e7a de paisagem.",
+                    "en_US": "Claro que é bom ter uma mudança de paisagem.",
                     "de_DE": "Tut richtich gut, mal ein wenig Abwechslung in Sachen Landschaft zu haben.",
                     "fr_FR": "fr_FR",
                     "langUid": 520,
@@ -16953,7 +16953,7 @@
                 },
                 "text": {
                     "": "I don't think I wanna see another apple in a while.",
-                    "en_US": "Acho que n\u00e3o quero ver mais nenhuma ma\u00e7\u00e3 na minha frente.",
+                    "en_US": "Não quero mais ver macieiras por um tempo.",
                     "de_DE": "Boah, dat sach ich dir, do. Ich kann ers'ma' keine \u00c4ppel mehr sehen, ey.",
                     "fr_FR": "fr_FR",
                     "langUid": 522,
@@ -16969,7 +16969,7 @@
                 },
                 "text": {
                     "": "But I've heard that we could actually do more quests in Rookie Harbor now.",
-                    "en_US": "Mas ouvi dizer que podemos fazer mais miss\u00f5es no Porto do Novato agora.",
+                    "en_US": "Ouvi dizer que podemos fazer mais missões no Porto do Novato agora.",
                     "de_DE": "Hab aber geh\u00f6rt, in Rookie Harbor soll's getz weitere Quests geben.",
                     "fr_FR": "fr_FR",
                     "langUid": 521,
@@ -16985,7 +16985,7 @@
                 },
                 "text": {
                     "": "Sounds like a good idea before climbing that mountain, right?",
-                    "en_US": "Parece uma boa ideia antes de escalar aquela montanha, certo?",
+                    "en_US": "Parece uma boa ideia antes de escalar aquela montanha, não acha?",
                     "de_DE": "W\u00e4r' doch 'ne gute Idee, bevor wa aufn Berg raufklettern, oder?",
                     "fr_FR": "fr_FR",
                     "langUid": 523,
@@ -17001,7 +17001,7 @@
                 },
                 "text": {
                     "": "B... but... you wanna walk all the way back for that? ",
-                    "en_US": "M... mas... voc\u00ea quer andar tudo aquilo de novo para isso?",
+                    "en_US": "Você vai fazer todo esse caminho de novo pra isso?",
                     "de_DE": "Jetzt sach nich', du willst den ganzen Weg zur\u00fccklaufen?",
                     "fr_FR": "fr_FR",
                     "langUid": 524,
@@ -17017,7 +17017,7 @@
                 },
                 "text": {
                     "": "Well, there IS this quick-travel system, you know...",
-                    "en_US": "Bem, existe este sistema de viagem r\u00e1pida, voc\u00ea sabe...",
+                    "en_US": "Não, vou usar o sistema de viagem rápida.",
                     "de_DE": "Du, stell dir vor: Et soll doch tats\u00e4chlich Spieler geben, die dat Schnellreisesystem gekonnt ignorieren...",
                     "fr_FR": "fr_FR",
                     "langUid": 525,
@@ -18293,7 +18293,7 @@
             }, {
                 "message": {
                     "": "And...\\. you still remember everything from yesterday, right?\\. Meeting Emilie and all that?",
-                    "en_US": "E...\\. voc\u00ea ainda se lembra de tudo de ontem, certo?\\. Ter conhecido Emilie e tudo mais?",
+                    "en_US": "E...\\. você ainda lembra de ontem, certo?\\. De conhecer a Emilie e tudo mais?",
                     "de_DE": "Und...\\. du erinnerst dich noch an alles, was gestern passiert ist, richtig?\\. Dass du Emilie getroffen hast und all das?",
                     "fr_FR": "fr_FR",
                     "langUid": 542,
@@ -18365,7 +18365,7 @@
             }, {
                 "message": {
                     "": "Oh, by the way!\\. It seems that Emilie is online as-",
-                    "en_US": "Ah, por falar nisso!\\. Parece que Emilie est\u00e1 online tam-",
+                    "en_US": "Ah, por falar nisso!\\. Parece que Emilie também está on-",
                     "de_DE": "Ach, \u00fcbrigens!\\. Emilie scheint gerade online zu s...",
                     "fr_FR": "fr_FR",
                     "langUid": 546,
@@ -18586,7 +18586,7 @@
             }, {
                 "message": {
                     "": "We can form a party again if you want.\\. Just tell me via D-Link, oui?",
-                    "en_US": "Podemos formar um grupo novamente se voc\u00ea quiser.\\. Apenas me diga via D-Link, oui?",
+                    "en_US": "Podemos formar um grupo novamente se voc\u00ea quiser.\\. É só me ligar via D-Link, oui?",
                     "de_DE": "Wir k\u00f6nnen wieder eine Party bilden, wenn du magst.\\. Sag's mir einfach \u00fcber D-Link, oui?",
                     "fr_FR": "fr_FR",
                     "langUid": 527,
@@ -18766,7 +18766,7 @@
             }, {
                 "message": {
                     "": "Aaaaand...\\. Link end...\\. There!",
-                    "en_US": "Eeee...\\. Fim do Link...\\. Aqui!",
+                    "en_US": "Eeee...\\. Fim do Link...\\. Tchau!",
                     "de_DE": "Uuuund...\\. Liiink... Ende.\\. So!",
                     "fr_FR": "fr_FR",
                     "langUid": 557,
@@ -18871,7 +18871,7 @@
                 "msgType": "TUTORIAL",
                 "title": {
                     "": "Manage your Party",
-                    "en_US": "Gerencie seu Grup\u00f3",
+                    "en_US": "Gerencie seu Grupo",
                     "de_DE": "Deine Party organisieren",
                     "fr_FR": "fr_FR",
                     "langUid": 512,
@@ -19020,7 +19020,7 @@
                 }, {
                     "text": {
                         "": "Use these options to \\c[3]invite\\c[0] contacts to your party or \\c[3]remove\\c[0] them. You can also simply \\c[3]contact\\c[0] them for a small chat!",
-                        "en_US": "Use essas op\u00e7\u00f5es para \\c[3]convidar\\c[0] contatos para o seu grupo ou \\c[3]retirar\\c[0] eles. Voc\u00ea tamb\u00e9m pode simplesmente \\c[3]contata-l\u00f3s\\c[0] eles para um pequeno bate-papo!",
+                        "en_US": "Use essas op\u00e7\u00f5es para \\c[3]convidar\\c[0] contatos para o seu grupo ou \\c[3]retirar\\c[0] eles. Voc\u00ea tamb\u00e9m pode \\c[3]contata-l\u00f3s\\c[0] para um pequeno bate-papo!",
                         "de_DE": "Nutze diese Optionen, um Mitglieder in deine Party \\c[3]aufzunehmen\\c[0] oder daraus \\c[3]zu entfernen\\c[0]. Du kannst sie auch einfach \\c[3]kontaktieren\\c[0], um mit ihnen zu chatten!",
                         "fr_FR": "fr_FR",
                         "langUid": 519,

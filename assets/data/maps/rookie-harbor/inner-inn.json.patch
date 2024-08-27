@@ -703,7 +703,7 @@
                 {
                   "message": {
                     "": "Kehahaha. Dornt fash yerse quine. Jean tauld me aw abit ye!",
-                    "en_US": "Kehahaha. Naum si aboressa com issu. Jean me falou sobre!",
+                    "en_US": "Kehahaha. Relaxa, nem fica na neura. Jean já falou tudo sobre você!",
                     "de_DE": "Khahaha! Mach dir ma net in de Hos'. Jean hatt mir 'n biss'l \u00fcber dich jesteckt!",
                     "fr_FR": "fr_FR",
                     "langUid": 13,
@@ -742,7 +742,7 @@
                 {
                   "message": {
                     "": "Aam \\c[3]Jock\\c[0]!",
-                    "en_US": "Eu sou \\c[3]Jock\\c[0]!",
+                    "en_US": "Eu sou o \\c[3]Jock\\c[0], sacou?",
                     "de_DE": "Ih bin de \\c[3]Jock\\c[0]!",
                     "fr_FR": "fr_FR",
                     "langUid": 14,
@@ -777,7 +777,7 @@
                 {
                   "message": {
                     "": "Shocker fur ye, huh? Heard yer speech module is broken.",
-                    "en_US": "Deve ser complicado né? Ouvi dizer que seu módulo de voz esta quebrado.",
+                    "en_US": "Deve tá um saco, né? Ouvi que teu módulo de voz tá todo zoado.",
                     "de_DE": "Echta Schocka f\u00fcr dich, heh? Hab jeh\u00f6rt, dei Sprachmodul is' im Sack.",
                     "fr_FR": "fr_FR",
                     "langUid": 16,
@@ -796,7 +796,7 @@
                 {
                   "message": {
                     "": "Ye swatch loch th' cheerful lassie nonetheless.",
-                    "en_US": "Ainda assim, você parece uma garota bem animada.",
+                    "en_US": "Mas, ó, mesmo assim, você tá parecendo uma pessoa bem pra cima. ",
                     "de_DE": "Siehs' aba trotz'em aus wie'n frehliches M\u00e4d'l!",
                     "fr_FR": "fr_FR",
                     "langUid": 17,
@@ -831,7 +831,7 @@
                 {
                   "message": {
                     "": "Keha, sae ye want tae ken somethin' abit th' \\c[3]legendary bunny\\c[0], aye?",
-                    "en_US": "Keha, você quer saber sobre o \\c[3]coelho léndario\\c[0], né?",
+                    "en_US": "Kehaha, quer saber do tal do \\c[3]coelho léndario\\c[0], né?",
                     "de_DE": "Khaha! Du wills' als' \u00fcba de \\c[3]legend\u00e4re Hase\\c[0] babbele, wa?",
                     "fr_FR": "fr_FR",
                     "langUid": 19,
@@ -904,7 +904,7 @@
                 {
                   "message": {
                     "": "Alrecht, haur is whit Ah ken!",
-                    "en_US": "Certo, o seu pelo é branco!",
+                    "en_US": "O pelo dele é branco, tipo leite mesmo!",
                     "de_DE": "Jut, ih vaklicka dir, wat ih we\u00df.",
                     "fr_FR": "fr_FR",
                     "langUid": 23,
@@ -923,7 +923,7 @@
                 {
                   "message": {
                     "": "Ah heard, ye need tae fin' some sort ay roon capture device.",
-                    "en_US": "Ouvi dizer que você precisa encontrar algum tipo de dispositivo de captura.",
+                    "en_US": "Ouvi falar que você precisa de um treco de captura.",
                     "de_DE": "Ih hab jeh\u00f6rt, du muss ers'ma so 'ne Ding finde, n' Fangjer\u00e4t.",
                     "fr_FR": "fr_FR",
                     "langUid": 24,
@@ -942,7 +942,7 @@
                 {
                   "message": {
                     "": "Ye can teel Jean Ah micht hae foond thes device, but she still needs somethin' else.",
-                    "en_US": "Talvez Jean tenha encontrado esse dispositivo, mas ela ainda precisa de outra coisa.",
+                    "en_US": "Talvez a Jean já tenha encontrado essa parada, mas falta mais alguma outra parada.",
                     "de_DE": "Kanns' Jean sage', ih hab det Jer\u00e4t jefunde, aba se broach noch was anneres.",
                     "fr_FR": "fr_FR",
                     "langUid": 25,
@@ -961,7 +961,7 @@
                 {
                   "message": {
                     "": "But ah dunnae ken whit 'at is, kehahaha.",
-                    "en_US": "Mas eu não sei o que é, kehahaha.",
+                    "en_US": "Mas, sério, não faço ideia do que é essa parada, kehahaha.",
                     "de_DE": "Aba ih we\u00df net, wat det is, khahaha.",
                     "fr_FR": "fr_FR",
                     "langUid": 26,
@@ -999,7 +999,7 @@
                 {
                   "message": {
                     "": "Ah will send Jean aw th' details.",
-                    "en_US": "Vou mandar todas as informações para Jean.",
+                    "en_US": "Vou passar a visão pra Jean.",
                     "de_DE": "Ih werd'er Jean all' Detahls schigge'.",
                     "fr_FR": "fr_FR",
                     "langUid": 28,
@@ -1018,7 +1018,7 @@
                 {
                   "message": {
                     "": "Ye micht foond it mair when ye gab tae uir triblader mukker.",
-                    "en_US": "Se você quiser saber mais é melhor com nosso amigo tricorte.",
+                    "en_US": "Se precisar de mais detalhes, é só trocar ideia com o nosso parça Tricorte.",
                     "de_DE": "V'leich' we\u00df unsa Tribleda-Kumbel meah dar\u00fcba.",
                     "fr_FR": "fr_FR",
                     "langUid": 29,
@@ -1149,7 +1149,7 @@
               {
                 "message": {
                   "": "Awrite Lea, Ah send everythin' tae Jean.",
-                  "en_US": "Certo Lea, Ja enviei tudo para a Jean.",
+                  "en_US": "Beleza, Lea, já enviei tudo pra Jean, firmeza!",
                   "de_DE": "All's kloar. Ih werd all'su Jean schigge'.",
                   "fr_FR": "fr_FR",
                   "langUid": 34,
