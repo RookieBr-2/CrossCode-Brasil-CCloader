@@ -751,7 +751,7 @@
           "path": "autumn.guild.left",
           "name": {
             "": "First Scholars Home",
-            "en_US": "Casa do First Scholars",
+            "en_US": "Casa dos Primeiros Estudiosos",
             "de_DE": "Erste Gelehrte",
             "fr_FR": "fr_FR",
             "langUid": 28,
@@ -766,7 +766,7 @@
           "path": "autumn.guild.last-minute-heroes",
           "name": {
             "": "Last Minute Heroes Plaza",
-            "en_US": "Praça Last Minute Heroes",
+            "en_US": "Praça dos Heróis da Hora H",
             "de_DE": "Last-Minute-Helden-Platz",
             "fr_FR": "fr_FR",
             "langUid": 30,

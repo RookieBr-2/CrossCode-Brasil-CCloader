@@ -193,7 +193,7 @@
       },
       "get-msg": {
         "ACTIVATED": "[!] Ativado",
-        "OBTAINED": "[!] Obtido",
+        "OBTAINED": "[!] Obtido(a)",
         "REMOVED": "[!] Removido",
         "ENEMY": "[!] adicionado ao Almanaque Monstro ",
         "EXTENDED": "[!] Estendida",
@@ -926,7 +926,7 @@
           "wave": "Resistencia a Onda",
           "param": "Parâmetro",
           "base": "Base",
-          "equip": "Equip",
+          "equip": "Equipamento",
           "skills": "Circuito",
           "info": "Info.",
           "modifiers": "Modificadores",

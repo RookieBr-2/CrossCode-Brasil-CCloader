@@ -10901,7 +10901,7 @@
                   },
                   "message": {
                     "": "I see.\\. Good, good.\\. Almost got worried. I would need a tent if assistance took any longer.",
-                    "en_US": "Entendo.\\. Bom, bom.\\. Quase fiquei preocupado. Eu precisaria de uma tenda caso a assistência demorasse um pouco mais.",
+                    "en_US": "Ainda bem.\\. Eu estava com medo de ter que passar a noite aqui se você não chegasse.",
                     "ja_JP": "\u306a\u308b\u307b\u3069\u3002\\.\u305d\u3044\u3064\u306f\u3088\u304b\u3063\u305f\u3002\\.\u3053\u308c\u4ee5\u4e0a\u52a9\u3051\u304c\n\u9045\u308c\u308b\u3088\u3046\u306a\u3089\u3001\u30c6\u30f3\u30c8\u3092\u5f35\u3089\u306a\u304f\u3066\u306f\u3068\n\u5fc3\u914d\u3057\u3066\u3044\u305f\u3068\u3053\u308d\u3060\u3002<<A<<[CHANGED 2018/03/14]",
                     "langUid": 716,
                     "zh_CN": "\u77e5\u9053\u4e86\u3002\\.\u4f60\u8981\u662f\u6765\u7684\u518d\u665a\u70b9\u6211\u90fd\u8981\u642d\u5e10\u7bf7\u8fc7\u591c\u4e86\u3002<<A<<[CHANGED 2018/03/14]",
@@ -10937,7 +10937,7 @@
                   },
                   "message": {
                     "": "Hey, I really need some sleep!\\. Spent all day surveying the area and calibrating our probe here.",
-                    "en_US": "Ei, estou realmente precisando dormir!\\. Passei o dia inteiro pesquisando a área e calibrando nossa sonda aqui.",
+                    "en_US": "Estou morrendo de sono!\\. Passei o dia todo pesquisando a área e calibrando essa sonda.",
                     "ja_JP": "\u304a\u3044\u3001\u4ffa\u306f\u5bdd\u3066\u306a\u3044\u3093\u3060\u305e\uff01\\.\u4e00\u65e5\u4e2d\u30a8\u30ea\u30a2\u306e\u8abf\u67fb\u3068\u30d7\u30ed\u30fc\u30d6\u306e\u8abf\u6574\u306b\u8cbb\u3084\u3057\u3066\u305f\u3093\u3060\u304b\u3089\u306a\u3002<<A<<[CHANGED 2017/11/04]",
                     "langUid": 719,
                     "zh_CN": "\u4eba\u603b\u5f97\u7761\u89c9\u554a\uff0c\u6211\u53c8\u4e0d\u662f\u795e\u4ed9\uff01\\.\u8fd9\u51e0\u5929\u626b\u63cf\u533a\u57df\u8fd8\u6709\u8c03\u6574\u63a2\u6d4b\u5668\u53ef\u7d2f\u4e86\u3002<<A<<[CHANGED 2017/10/10]",
@@ -11220,7 +11220,7 @@
                   },
                   "message": {
                     "": "Yep, this work of wonder was fed the data from the Hillkat Leader's device.",
-                    "en_US": "Sim, essa belezinha aqui foi alimentada com dados do dispositívo do líder Hillkat.",
+                    "en_US": "Sim, essa belezinha aqui foi alimentada com dados do dispositívo do líder Topeira.",
                     "ja_JP": "\u305d\u3046\u3055\u3001\u3053\u306e\u9a5a\u304f\u3079\u304d\u88c5\u7f6e\u306b\u306f\u3001\n\u30d2\u30eb\u30ad\u30e3\u30c3\u30c8\u306e\u30ea\u30fc\u30c0\u30fc\u304b\u3089\u5165\u624b\u3057\u305f\n\u30c7\u30d0\u30a4\u30b9\u306e\u30c7\u30fc\u30bf\u304c\u5165\u529b\u3055\u308c\u3066\u308b\u3093\u3060\u3002<<A<<[CHANGED 2018/03/14]",
                     "langUid": 740,
                     "zh_CN": "\u6ca1\u9519\uff0c\u8fd9\u73a9\u610f\u5df2\u7ecf\u8f7d\u5165\u4e86\u4ece\u90a3\u4e2a\u6447\u6eda\u5730\u9f20\u7684\u88c5\u7f6e\u91cc\u5f04\u51fa\u6765\u7684\u6570\u636e\u3002<<A<<[CHANGED 2018/03/14]",
@@ -11238,7 +11238,7 @@
                   },
                   "message": {
                     "": "We can use it to extract energy and data from \\c[3]Ancient Powerspots\\c[0] directly on the Track.",
-                    "en_US": "Podemos usá-lo para extrair energia e dados dos \\c[3]Antigos Pontos de poder\\c[0] diretamente da Trilha.",
+                    "en_US": "Podemos usá-la para extrair energia e dados da Trilha através dos \\c[3]Pontos de Energia\\c[0].",
                     "ja_JP": "\u3053\u308c\u3092\u4f7f\u3048\u3070\u3001\u8ecc\u8de1\u306b\u3042\u308b\\c[3]\u53e4\u4ee3\u4eba\u306e\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\\c[0]\u304b\u3089\u76f4\u63a5\u30a8\u30cd\u30eb\u30ae\u30fc\u3084\u30c7\u30fc\u30bf\u3092\u62bd\u51fa\u3067\u304d\u308b\u306e\u3055\u3002<<A<<[CHANGED 2017/11/04]",
                     "langUid": 765,
                     "zh_CN": "\u6211\u4eec\u53ef\u4ee5\u7528\u5b83\u4ece\u5148\u7956\u4e4b\u8def\u4e0a\u7684\\c[3]\u53e4\u4ee3\u80fd\u91cf\u70b9\\c[0]\u91cc\u76f4\u63a5\u5438\u53d6\u80fd\u91cf\u548c\u6570\u636e\u3002<<A<<[CHANGED 2017/10/10]",
@@ -11274,7 +11274,7 @@
                   },
                   "message": {
                     "": "And this area has quite a few of those, which is ideal for a proper test run to gather data.",
-                    "en_US": "Nessa área tem uma boa quantidade deles, o que é ideal para executarmos um teste para coleta de dados",
+                    "en_US": "Nessa área tem uma boa quantidade deles, o que é ideal para executarmos um teste para coleta de dados.",
                     "ja_JP": "\u3053\u306e\u30a8\u30ea\u30a2\u306b\u306f\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u304c\u305f\u304f\u3055\u3093\u3042\u308b\u304b\u3089\u3001\n\u30c7\u30fc\u30bf\u96c6\u3081\u306e\u30c6\u30b9\u30c8\u306b\u306f\u7406\u60f3\u7684\u306a\u3093\u3060\u3002<<A<<[CHANGED 2018/03/14]",
                     "langUid": 767,
                     "zh_CN": "\u8fd9\u91cc\u80fd\u91cf\u70b9\u5f88\u591a\uff0c\u6240\u4ee5\u4f5c\u4e3a\u6d4b\u8bd5\u548c\u6570\u636e\u91c7\u96c6\u90fd\u662f\u975e\u5e38\u597d\u7684\u5730\u65b9\u3002<<A<<[CHANGED 2018/03/14]",
@@ -11311,7 +11311,7 @@
                   },
                   "message": {
                     "": "Well, I should just explain how to operate it so we can finally get this over with and I can get back to bed.",
-                    "en_US": "Bem, eu deveria apenas explicar como operá-la para que finalmente possamos acabar com isso e eu possa voltar para a cama.",
+                    "en_US": "Vou explicar como operar a sonda, assim vamos acabar com isso logo e eu vou poder tirar uma soneca.",
                     "ja_JP": "\u3055\u3042\u3001\u541b\u306b\u3053\u3044\u3064\u306e\u4f7f\u3044\u65b9\u3092\u8aac\u660e\u3057\u306a\u304d\u3083\u306a\u3002\n\u305d\u3046\u3059\u308c\u3070\u3088\u3046\u3084\u304f\u4ed5\u4e8b\u304c\u7d42\u308f\u3063\u3066\u3001\n\u4ffa\u3082\u30d9\u30c3\u30c9\u306b\u623b\u308c\u308b\u3002<<A<<[CHANGED 2018/09/19]",
                     "langUid": 768,
                     "zh_CN": "\u90a3\u6211\u7ed9\u4f60\u89e3\u91ca\u4e00\u4e0b\u64cd\u4f5c\u65b9\u6cd5\uff0c\u8fd9\u6837\u8d76\u7d27\u5f04\u5b8c\u6211\u4e5f\u597d\u53bb\u4f11\u606f\u4e00\u4e0b\u3002<<A<<[CHANGED 2018/09/19]",
@@ -11347,7 +11347,7 @@
                   },
                   "message": {
                     "": "Simply put, you need to \\c[3]push this device around\\c[0] and move the \\c[3]Powerspots\\c[0] that appear in the area.",
-                    "en_US": "Simplificando, você precisa \\c[3]empurrar esse dispositivo\\c[0] e movê-lo até os \\c[3]Pontos de poder\\c[0] que surgirão na área.",
+                    "en_US": "Você só precisa \\c[3]empurrar esse dispositivo\\c[0] e movê-lo até os \\c[3]Pontos de Energia\\c[0] que surgirão na área.",
                     "ja_JP": "\u7c21\u5358\u306b\u8a00\u3046\u3068\u3001\u541b\u306f\\c[3]\u3053\u306e\u30c7\u30d0\u30a4\u30b9\u3092\u62bc\u3057\u3066\u56de\u3063\u3066\\c[0]\u3001\n\u30a8\u30ea\u30a2\u5185\u306b\u73fe\u308c\u308b\\c[3]\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\\c[0]\u307e\u3067\n\u79fb\u52d5\u3055\u305b\u308b\u5fc5\u8981\u304c\u3042\u308b\u3002<<A<<[CHANGED 2017/11/04]",
                     "langUid": 723,
                     "zh_CN": "\u7b80\u5355\u6765\u8bf4\uff0c\u4f60\u9700\u8981\\c[3]\u63a8\u52a8\u88c5\u7f6e\\c[0]\u5c06\u5176\u79fb\u52a8\u5230\u533a\u57df\u4e2d\u7684\\c[3]\u80fd\u91cf\u70b9\u4e0a\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
@@ -11390,7 +11390,7 @@
                   },
                   "message": {
                     "": "Approaching a Powerspot will usually \\c[3]attract some hostile wildlife\\c[0] that will attempt to protect it.",
-                    "en_US": "Se aproximar do Ponto de poder normalmente irá \\c[3]atrair criaturas hostis\\c[0] que irão tentar protegê-lo.",
+                    "en_US": "Se você se aproximar de um Ponto de poder, vai \\c[3]atrair animais selvagens\\c[0] que vão te atacar.",
                     "ja_JP": "\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u306b\u8fd1\u3065\u304f\u3068\u3001\n\u901a\u5e38\u306f\\c[3]\u6575\u610f\u306e\u3042\u308b\u91ce\u751f\u52d5\u7269\\c[0]\u304c\n\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u3092\u5b88\u308b\u305f\u3081\u306b\u3084\u3063\u3066\u304f\u308b\u3002<<A<<[CHANGED 2018/09/19]",
                     "langUid": 725,
                     "zh_CN": "\u63a5\u8fd1\u80fd\u91cf\u70b9\u4f1a\u5f15\u6765\\c[3]\u4fdd\u62a4\u8be5\u5730\u7684\u91ce\u751f\u52a8\u7269\\c[0]\u3002<<A<<[CHANGED 2018/09/19]",
@@ -11426,7 +11426,7 @@
                   },
                   "message": {
                     "": "Worse, the Powerspots will grant them a \\c[3]shield\\c[0] that is almost impenetrable!\\. Invincible, angry critters!",
-                    "en_US": "Pior ainda, os Pontos de poder irão concedê-las uma \\c[3]barreira\\c[0] quase impetetrável!\\. Criaturas invencíveis e nervosas!",
+                    "en_US": "Pior ainda, os Pontos de Energia vão dar a elas uma \\c[3]barreira\\c[0] quase impetetrável!\\. Deixando essas criaturas furiosas invencíveis!",
                     "ja_JP": "\u60aa\u3044\u3053\u3068\u306b\u3001\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u306f\u305d\u3044\u3064\u3089\u306b\u307b\u3068\u3093\u3069\n\u8cab\u901a\u4e0d\u80fd\u306e\\c[3]\u30b7\u30fc\u30eb\u30c9\\c[0]\u3092\u4e0e\u3048\u308b\uff01\n\\.\u6012\u308c\u308b\u7121\u6575\u306e\u52d5\u7269\u305f\u3061\u306e\u51fa\u6765\u4e0a\u304c\u308a\u3063\u3066\u308f\u3051\u3060\uff01<<A<<[CHANGED 2017/11/04]",
                     "langUid": 727,
                     "zh_CN": "\u66f4\u7cdf\u7cd5\u7684\u662f\uff0c\u80fd\u91cf\u70b9\u4f1a\u7ed9\u5b83\u4eec\u51e0\u4e4e\u65e0\u654c\u7684\\c[3]\u62a4\u76fe\\c[0]\uff01\\.\u65e0\u654c\u7684\u602a\u7269\uff01<<A<<[CHANGED 2017/10/10]",
@@ -11594,7 +11594,7 @@
                   },
                   "message": {
                     "": "\\c[3]When placed on an active Powerspot\\c[0] it will sap away the energy and \\c[3]deactivate the shield\\c[0]!",
-                    "en_US": "\\c[3]Quando posicionada em um Ponto de poder ativo\\c[0] , ela irá drenar a energia e \\c[3]desativar a barreira\\c[0]!",
+                    "en_US": "\\c[3]Quando posicionada em um Ponto de poder ativo\\c[0], ela irá drenar a energia e \\c[3]desativar a barreira\\c[0]!",
                     "ja_JP": "\u30d7\u30ed\u30fc\u30d6\u3092\\c[3]\u30a2\u30af\u30c6\u30a3\u30d6\u306a\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u306e\u4e0a\u306b\n\u4e57\u305b\u308b\\c[0]\u3068\u3001\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u5438\u3044\u53d6\u3063\u3066\n\\c[3]\u30b7\u30fc\u30eb\u30c9\u3092\u7121\u52b9\u5316\\c[0]\u3057\u3066\u304f\u308c\u308b\u3093\u3060\uff01<<A<<[CHANGED 2017/11/04]",
                     "langUid": 731,
                     "zh_CN": "\\c[3]\u5f53\u63a2\u6d4b\u5668\u88ab\u653e\u7f6e\u5230\u6fc0\u6d3b\u4e86\u7684\u80fd\u91cf\u70b9\u4e0a\u65f6\\c[0]\uff0c\u5b83\u5c06\u5f00\u59cb\u5438\u53d6\u80fd\u91cf\uff0c\u5e76\\c[3]\u89e3\u9664\u62a4\u76fe\\c[0]\uff01<<A<<[CHANGED 2017/10/10]",
@@ -11630,7 +11630,7 @@
                   },
                   "message": {
                     "": "Just make sure it doesn't get knocked away.\\. Hitting it with \\c[3]Cold\\c[0] will \\c[3]stabilize\\c[0] it for a bit which should help.",
-                    "en_US": "Apenas se certifique de que ela não seja empurrada para longe.\\. Acertá-la com \\c[3]Gelo\\c[0] irá \\c[3]estabilizá-la\\c[0] por um tempo, o que deve ajudar.",
+                    "en_US": "Só não deixe ela ser empurrada para longe.\\. Acerte a sonda com \\c[3]Gelo\\c[0] para deixá-la \\c[3]paralisada\\c[0] por um tempo, o que deve ajudar.",
                     "ja_JP": "\u30d7\u30ed\u30fc\u30d6\u304c\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u304b\u3089\u5916\u308c\u306a\u3044\u3088\u3046\u306b\n\u6c17\u3092\u3064\u3051\u3066\u304f\u308c\u3002\\.\\c[3]\u51b7\u6c17\u30e2\u30fc\u30c9\\c[0]\u3067\u653b\u6483\u3059\u308c\u3070\u3001\n\u30d7\u30ed\u30fc\u30d6\u3092\u5c11\u3057\u306e\u9593\\c[3]\u56fa\u5b9a\\c[0]\u3067\u304d\u308b\u3002<<A<<[CHANGED 2018/01/06]",
                     "langUid": 733,
                     "zh_CN": "\u4e0d\u8fc7\u8981\u6ce8\u610f\u53ef\u522b\u8ba9\u5b83\u88ab\u6253\u98de\u4e86\u3002\\.\u4f7f\u7528\\c[3]\u51b0\\c[0]\u653b\u51fb\u53ef\u4ee5\u5c06\u5176\\c[3]\u7a33\u5b9a\\c[0]\u4e0b\u6765\uff0c\u8fd9\u4e2a\u6280\u5de7\u5e94\u8be5\u80fd\u5e2e\u4e0a\u5fd9\u3002<<A<<[CHANGED 2018/01/06]",
@@ -11790,7 +11790,7 @@
                   },
                   "message": {
                     "": "And that's it.\\. Surely an experienced \\v[lore.title.seeker] can figure it out, right?",
-                    "en_US": "Então é isso.\\. Certamente uma \\v[lore.title.seeker] experiente pode entender como funciona, certo?",
+                    "en_US": "Então é isso.\\. Uma \\v[lore.title.seeker] experiente como você, deve ser capaz de fazer isso, não é?",
                     "ja_JP": "\u307e\u3042\u3001\u3053\u3093\u306a\u3068\u3053\u308d\u3060\u3002\\.\u7d4c\u9a13\u8c4a\u304b\u306a\\v[lore.title.seeker]\u306a\u3089\n\u3082\u3046\u7406\u89e3\u3067\u304d\u305f\u3060\u308d\u3046\uff1f<<A<<[CHANGED 2017/11/04]",
                     "langUid": 735,
                     "zh_CN": "\u5c31\u662f\u8fd9\u6837\u4e86\u3002\\.\u4f5c\u4e3a\u8d44\u6df1\u7684\\v[lore.title.seeker]\uff0c\u5269\u4e0b\u7684\u5c31\u4ea4\u7ed9\u4f60\u4e86\uff01<<A<<[CHANGED 2017/10/10]",
@@ -11845,7 +11845,7 @@
                   },
                   "message": {
                     "": "Good.\\. Talk to me again when you're ready and prepared.",
-                    "en_US": "Ótimo.\\. Fale comigo novamente quando estiver pronta prepareda.",
+                    "en_US": "Ótimo.\\. Fale comigo novamente quando estiver pronta.",
                     "ja_JP": "\u3088\u3057\u3002\\.\u305d\u308c\u3058\u3083\u3042\u3001\u6e96\u5099\u304c\u3067\u304d\u305f\u3089\n\u307e\u305f\u8a71\u3057\u304b\u3051\u3066\u304f\u308c\u3002<<A<<[CHANGED 2017/11/04]",
                     "langUid": 738,
                     "zh_CN": "\u597d\u3002\\.\u7b49\u4f60\u51c6\u5907\u597d\u4e86\u8ddf\u6211\u8bf4\u4e00\u58f0\u5c31\u884c\u3002<<A<<[CHANGED 2017/10/10]",
@@ -11977,7 +11977,7 @@
                   },
                   "message": {
                     "": "Heyo, \\v[lore.title.seeker].\\. You ready to do this?",
-                    "en_US": "Heyo, \\v[lore.title.seeker].\\. Está pronta para fazer isso?",
+                    "en_US": "Ei, \\v[lore.title.seeker].\\. Está preparada?",
                     "ja_JP": "\u3088\u3046\u3001\\v[lore.title.seeker]\u3055\u3093\u3002\\.\u6e96\u5099\u306f\u3067\u304d\u305f\u304b\u3044\uff1f<<A<<[CHANGED 2017/11/04]",
                     "langUid": 212,
                     "zh_CN": "\u54c8\u55bd\uff0c\\v[lore.title.seeker]\u3002\\.\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1f<<A<<[CHANGED 2017/10/10]",
@@ -12816,7 +12816,7 @@
                     {
                       "task": {
                         "": "Knock the \\c[3]Probe\\c[0] on the \\c[3]Powerpoints\\c[0].\n\\c[3]Heat\\c[0]: More knockback\n\\c[3]Cold\\c[0]: Stabilize",
-                        "en_US": "Empurre a \\c[3]Sonda\\c[0] até os \\c[3]Pontos de poder\\c[0].\n\\c[3]Fogo\\c[0]: Mais distância\n\\c[3]Gelo\\c[0]: Estabilizar",
+                        "en_US": "Empurre a \\c[3]Sonda\\c[0] até os \\c[3]Pontos de Energia\\c[0].\n\\c[3]Fogo\\c[0]: Mais distância\n\\c[3]Gelo\\c[0]: Estabilizar",
                         "langUid": 749,
                         "zh_CN": "\u628a\\c[3]\u63a2\u6d4b\u5668\\c[0]\u79fb\u52a8\u5230\\c[3]\u80fd\u91cf\u70b9\\c[0]\u4e0a\u3002\n\\c[3]\u706b\\c[0]: \u5f3a\u529b\u63a8\u8fdb\n\\c[3]\u51b0\\c[0]: \u7a33\u5b9a<<A<<[CHANGED 2017/10/10]",
                         "de_DE": "Sto\u00df die \\c[3]Sonde\\c[0] auf die \\c[3]Kraftpunkte\\c[0].\n\\c[3]Hitze\\c[0]: gr\u00f6\u00dfere Sto\u00dfkraft\n\\c[3]K\u00e4lte\\c[0]: stabilisieren",
@@ -12934,7 +12934,7 @@
                       },
                       "message": {
                         "": "You need to \\c[3]push this device around\\c[0] and move it onto certain spots of power in this area, short \\c[3]Powerspots\\c[0].",
-                        "en_US": "Você deve \\c[3]empurrar o dispositivo\\c[0] e movê-lo para determinados \\c[3]Pontos de poder\\c[0] nessa área.",
+                        "en_US": "Você deve \\c[3]empurrar o dispositivo\\c[0] e movê-lo para determinados \\c[3]Pontos de Energia\\c[0] nessa área.",
                         "ja_JP": "\u3053\u306e\u30a8\u30ea\u30a2\u306e\u30d1\u30ef\u30fc\u304c\u96c6\u307e\u3063\u3066\u3044\u308b\u70b9\u3001\n\\c[3]\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\\c[0]\u306e\u4e0a\u306b\n\\c[3]\u3053\u306e\u30c7\u30d0\u30a4\u30b9\u3092\u4e57\u305b\u3066\\c[0]\u307b\u3057\u3044\u3093\u3060\u3002<<A<<[CHANGED 2017/11/04]",
                         "langUid": 739,
                         "zh_CN": "\u4f60\u8981\\c[3]\u63a8\u52a8\u8fd9\u4e2a\u88c5\u7f6e\\c[0]\uff0c\u5c06\u5176\u79fb\u52a8\u5230\u533a\u57df\u91cc\u6709\u80fd\u91cf\u7684\u5730\u65b9\uff0c\u4e5f\u5c31\u662f\\c[3]\u80fd\u91cf\u70b9\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
@@ -12952,7 +12952,7 @@
                       },
                       "message": {
                         "": "You can \\c[3]move\\c[0] it by \\c[3]attacking\\c[0].\\. Using \\c[3]Heat\\c[0] will greatly increase the distance and velocity.",
-                        "en_US": "Você pode \\c[3]movê-lo\\c[0] ao \\c[3]atacar\\c[0].\\. Usar \\c[3]Fogo\\c[0] irá aumentar bastante a distância e velocidade.",
+                        "en_US": "Você pode \\c[3]movê-lo\\c[0] ao \\c[3]atacar\\c[0].\\. Usar \\c[3]Fogo\\c[0] aumentará bastante a distância e velocidade.",
                         "ja_JP": "\\c[3]\u653b\u6483\\c[0]\u3059\u308c\u3070\u3053\u3044\u3064\u3092\n\\c[3]\u79fb\u52d5\\c[0]\u3055\u305b\u3089\u308c\u308b\u3002\n\\.\\c[3]\u706b\u708e\u30e2\u30fc\u30c9\\c[0]\u3092\u4f7f\u3048\u3070\u3001\n\u79fb\u52d5\u8ddd\u96e2\u3068\u901f\u5ea6\u304c\u3050\u3093\u3068\u4f38\u3073\u308b\u305e\u3002<<A<<[CHANGED 2017/11/04]",
                         "langUid": 721,
                         "zh_CN": "\u4f60\u53ef\u4ee5\u901a\u8fc7\\c[3]\u653b\u51fb\\c[0]\u6765\\c[3]\u79fb\u52a8\\c[0]\u5b83\u3002\\.\u4f7f\u7528\\c[3]\u706b\\c[0]\u653b\u51fb\u53ef\u4ee5\u6781\u5927\u7684\u63d0\u9ad8\u79fb\u52a8\u8ddd\u79bb\u548c\u901f\u5ea6\u3002<<A<<[CHANGED 2017/10/10]",
@@ -12970,7 +12970,7 @@
                       },
                       "message": {
                         "": "Approaching a Powerspot will usually attract some \\c[3]hostile wildlife\\c[0] that will protect those places.",
-                        "en_US": "Se aproximar do Ponto de poder normalmente irá \\c[3]atrair criaturas hostis\\c[0] que irão tentar protegê-lo.",
+                        "en_US": "Se você se aproximar de um Ponto de poder, vai \\c[3]atrair animais selvagens\\c[0] que vão te atacar.",
                         "ja_JP": "\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u306b\u8fd1\u3065\u304f\u3068\u3001\n\u901a\u5e38\u306f\\c[3]\u6575\u610f\u306e\u3042\u308b\u91ce\u751f\u52d5\u7269\\c[0]\u304c\n\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u3092\u5b88\u308b\u305f\u3081\u306b\u3084\u3063\u3066\u304f\u308b\u3002<<A<<[CHANGED 2017/11/04]",
                         "langUid": 741,
                         "zh_CN": "\u63a5\u8fd1\u80fd\u91cf\u70b9\u4f1a\u5f15\u6765\\c[3]\u4fdd\u62a4\u8be5\u5730\u7684\u91ce\u751f\u52a8\u7269\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
@@ -12988,7 +12988,7 @@
                       },
                       "message": {
                         "": "The Powerspots will grant them a \\c[3]shield\\c[0] that is almost impenetrable, meaning invincible enemies.",
-                        "en_US": "Os Pontos de poder irão concedê-las uma \\c[3]barreira\\c[0] quase impetetrável, isso significa inimigos invencíveis.",
+                        "en_US": "Os Pontos de Energia vão dar a elas uma \\c[3]barreira\\c[0] quase impetetrável!\\. Deixando essas criaturas furiosas invencíveis.",
                         "ja_JP": "\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u306f\u3001\u52d5\u7269\u305f\u3061\u306b\n\u307b\u3068\u3093\u3069\u8cab\u901a\u4e0d\u80fd\u306e\\c[3]\u30b7\u30fc\u30eb\u30c9\\c[0]\u3092\u4e0e\u3048\u308b\u3002\n\u3064\u307e\u308a\u3001\u5012\u305b\u306a\u3044\u6575\u306e\u3067\u304d\u3042\u304c\u308a\u3063\u3066\u308f\u3051\u3060\u3002<<A<<[CHANGED 2017/11/04]",
                         "langUid": 742,
                         "zh_CN": "\u80fd\u91cf\u70b9\u4f1a\u7ed9\u5b83\u4eec\u51e0\u4e4e\u65e0\u654c\u7684\\c[3]\u62a4\u76fe\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
@@ -13024,7 +13024,7 @@
                       },
                       "message": {
                         "": "Make sure it doesn't get knocked away again.\\. Hitting it with \\c[3]Cold\\c[0] will \\c[3]stabilize\\c[0] it for a bit which should help.",
-                        "en_US": "Tenha certeza de que ela não seja jogada para longe novamente.\\. Acertá-la com \\c[3]Gelo\\c[0] irá \\c[3]estabilizá-la\\c[0] por um tempo, o que pode ajudar.",
+                        "en_US": "Não deixe ela ser empurrada para longe de novo.\\. Acerte a sonda com \\c[3]Gelo\\c[0] para deixá-la \\c[3]paralisada\\c[0] por um tempo, isso vai ajudar.",
                         "ja_JP": "\u30d7\u30ed\u30fc\u30d6\u304c\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u304b\u3089\n\u5916\u308c\u306a\u3044\u3088\u3046\u306b\u6c17\u3092\u3064\u3051\u3066\u304f\u308c\u3002\n\\.\\c[3]\u51b7\u6c17\u30e2\u30fc\u30c9\\c[0]\u3067\u653b\u6483\u3059\u308c\u3070\u3001\n\u30d7\u30ed\u30fc\u30d6\u3092\u5c11\u3057\u306e\u9593\\c[3]\u56fa\u5b9a\\c[0]\u3067\u304d\u308b\u3002<<A<<[CHANGED 2017/11/04]",
                         "langUid": 744,
                         "zh_CN": "\u540c\u65f6\u8fd8\u8981\u5c0f\u5fc3\u522b\u8ba9\u88c5\u7f6e\u88ab\u6253\u98de\u4e86\u3002\\.\u4f7f\u7528\\c[3]\u51b0\\c[0]\u653b\u51fb\u53ef\u4ee5\u5c06\u5176\\c[3]\u7a33\u5b9a\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
@@ -16130,7 +16130,7 @@
           {
             "message": {
               "": "Well, my scanners show that you've harvested all the Powerspots.\\. Thorough work, I suppose.",
-              "en_US": "Bom, meus scanners apontam que você coletou todos os Pontos de poder.\\. Um trabalho bem minucioso.",
+              "en_US": "Bom, meus scanners apontam que você conseguiu cobrir todos os Pontos de Energia.\\. Foi um trabalho bem feito.",
               "de_DE": "Also, meine Scanner zeigen an, dass du alle Kraftpunkte abgefr\u00fchst\u00fcckt hast.\\. Gr\u00fcndliche Arbeit, w\u00fcrd' ich sagen.",
               "zh_CN": "\u55ef\uff0c\u6211\u7684\u626b\u63cf\u4eea\u663e\u793a\u4f60\u5df2\u7ecf\u5bf9\u6240\u6709\u80fd\u91cf\u70b9\u8fdb\u884c\u4e86\u91c7\u96c6\u3002\\.\u5e72\u7684\u6f02\u4eae\u3002<<A<<[CHANGED 2018/01/06]",
               "ja_JP": "\u3088\u3057\u3001\u4ffa\u306e\u30b9\u30ad\u30e3\u30ca\u30fc\u3067\u898b\u308b\u9650\u308a\u3001\n\u541b\u306f\u3059\u3079\u3066\u306e\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u304b\u3089\u30d1\u30ef\u30fc\u3092\n\u53ce\u7a6b\u3057\u305f\u307f\u305f\u3044\u3060\u306a\u3002\n\\.\u5b8c\u74a7\u306a\u4ed5\u4e8b\u3001\u3068\u3044\u3063\u305f\u3068\u3053\u308d\u304b\u3002<<A<<[CHANGED 2018/01/06]",
@@ -16202,7 +16202,7 @@
           {
             "message": {
               "": "Yeah, seems like the Track doesn't want me to get my overdue sleep.\\. In any case we need to handle that as well.",
-              "en_US": "É, parece que a Trilha não quer que eu coloque meu sono em dia.\\. Em todo caso, teremos que lidar com isso também.",
+              "en_US": "É, parece que a Trilha não quer que eu coloque meu sono em dia.\\. Infelizmente, temos que lidar com isso.",
               "ja_JP": "\u3042\u3042\u3001\u3069\u3046\u3084\u3089\u8ecc\u8de1\u306f\u3001\u4ffa\u306b\u9045\u3081\u306e\u7761\u7720\u3092\n\u53d6\u308b\u3053\u3068\u3082\u8a31\u3057\u3066\u304f\u308c\u306a\u3044\u3089\u3057\u3044\u3002\n\\.\u3068\u306b\u304b\u304f\u3001\u305d\u306e\u30b9\u30dd\u30c3\u30c8\u3082\u3069\u3046\u306b\u304b\u3057\u306a\u3044\u3068\u306a\u3002<<A<<[CHANGED 2017/11/04]",
               "langUid": 752,
               "zh_CN": "\u770b\u6765\u5148\u7956\u4e4b\u8def\u662f\u6253\u5b9a\u4e3b\u610f\u4e0d\u8ba9\u6211\u7761\u89c9\u4e86\u3002\\.\u603b\u4e4b\uff0c\u8fd9\u4e2a\u70b9\u6211\u4eec\u4e5f\u5f97\u5904\u7406\u3002<<A<<[CHANGED 2017/10/10]",
@@ -16745,7 +16745,7 @@
               {
                 "message": {
                   "": "Now that one was just mean!",
-                  "en_US": "Esse aqui foi simplesmente de matar!",
+                  "en_US": "Esse aqui foi de matar!",
                   "langUid": 2,
                   "de_DE": "Das war einfach nur gemein!",
                   "ja_JP": "\u672c\u5f53\u306b\u610f\u5730\u60aa\u306a\u30d1\u30ba\u30eb\u3060\u3063\u305f\u306d\uff01<<A<<[CHANGED 2018/09/02]",
@@ -16769,7 +16769,7 @@
                   {
                     "message": {
                       "": "Jumping over these entrance pillars, really now...",
-                      "en_US": "Pulando sobre esses pilares da entrada, realmente...",
+                      "en_US": "É um saco pular nesses pilares da entrada...",
                       "langUid": 773,
                       "de_DE": "Jetzt lassen sie uns schon \u00fcber diese Eingangss\u00e4ulen springen, also echt jetzt...",
                       "ja_JP": "\u5165\u308a\u53e3\u306e\u67f1\u3092\u98db\u3073\u8d8a\u3048\u3055\u305b\u308b\u306a\u3093\u3066\u3001\n\u306f\u3042...<<A<<[CHANGED 2018/09/02]",

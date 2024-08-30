@@ -2900,7 +2900,7 @@
                 {
                   "message": {
                     "": "Yep, it was quite a bit of busywork, but it gave us some leads for future expeditions.",
-                    "en_US": "Sim, foi um trabalho bastante complicado, mas nos deu algumas pistas para futuras expedições.",
+                    "en_US": "Sim, deu muito trabalho, mas conseguimos extrair dele algumas pistas para futuras expedições.",
                     "de_DE": "Ja, es war ziemlich viel Arbeit, aber wir haben einige Hinweise f\u00fcr zuk\u00fcnftige Expeditionen aus ihm herausgekitzelt.",
                     "zh_CN": "\u633a\u4e0d\u5bb9\u6613\u7684\uff0c\u4e0d\u8fc7\u6211\u4eec\u4e5f\u5bf9\u672a\u6765\u7684\u63a2\u7d22\u65b9\u5411\u6709\u4e86\u5934\u7eea\u3002<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u307e\u3042\u3001\u6210\u679c\u304c\u51fa\u308b\u307e\u3067\u6642\u9593\u306f\u304b\u304b\u3063\u305f\u3051\u3069\u3001\n\u3053\u308c\u306e\u304a\u304b\u3052\u3067\u5c06\u6765\u306e\u63a2\u7d22\u306e\u624b\u304c\u304b\u308a\u304c\n\u624b\u306b\u5165\u3063\u305f\u3093\u3060\u3002<<A<<[CHANGED 2018/09/19]",
@@ -2958,7 +2958,7 @@
                     {
                       "message": {
                         "": "Great!\\. Now we can finally use our new toys, with you on board!",
-                        "en_US": "Ótimo!\\. Agora podemos finalmente usar nossos novos brinquedos, com você a bordo!",
+                        "en_US": "Ótimo!\\. Graças à sua ajuda, podemos finalmente testar nossos novos brinquedos!",
                         "de_DE": "Spitze!\\. Dank deiner Hilfe k\u00f6nnen wir jetzt endlich unsere neuen Spielzeuge ausprobieren!",
                         "zh_CN": "\u5f88\u597d\uff01\\.\u73b0\u5728\u6709\u4e86\u4f60\uff0c\u54b1\u4eec\u7684\u65b0\u73a9\u5177\u603b\u7b97\u80fd\u6d3e\u5f97\u4e0a\u7528\u573a\u4e86\uff01<<A<<[CHANGED 2017/10/10]",
                         "ja_JP": "\u3088\u304b\u3063\u305f\uff01\\.\u3042\u306a\u305f\u304c\u6765\u3066\u304f\u308c\u3066\u3088\u3046\u3084\u304f\u3001\n\u65b0\u3057\u3044\u30aa\u30e2\u30c1\u30e3\u3092\u8a66\u305b\u308b\u3088\uff01<<A<<[CHANGED 2017/11/04]",
@@ -2976,6 +2976,7 @@
                     {
                       "message": {
                         "": "...",
+                        "en_US": "...",
                         "de_DE": "...",
                         "zh_CN": "\u2026<<A<<[CHANGED 2017/10/10]",
                         "ja_JP": "...<<A<<[CHANGED 2017/11/04]",
@@ -2990,7 +2991,7 @@
                     {
                       "message": {
                         "": "Can't tell you much about it myself, but we got one of our tech-specialists, Deggart, waiting for you.",
-                        "en_US": "Não posso dizer muita coisa sobre isso, mas um de nossos especialistas em tecnologia, Deggart, está esperando por você.",
+                        "en_US": "Como não entendo muito dessa tecnologia, vou encaminhá-la ao Deggart, um de nossos especialistas em tecnologia. Ele está esperando por você.",
                         "de_DE": "Da ich von der Technik nur wenig Ahnung habe, verweise ich dich an Deggart, unseren Techie. Er erwartet dich bereits.",
                         "zh_CN": "\u7ec6\u8282\u6211\u4e0d\u592a\u6e05\u695a\uff0c\u4f46\u662f\u6211\u4eec\u7684\u6280\u672f\u4e13\u5bb6\u8fea\u8fe6\u5fb7\u6b63\u5728\u7b49\u4f60\u5462\u3002<<A<<[CHANGED 2017/12/12]",
                         "ja_JP": "\u79c1\u304b\u3089\u8a73\u7d30\u3092\u8aac\u660e\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u306a\u3044\u3051\u308c\u3069\u3001\n\u79c1\u305f\u3061\u306e\u6280\u8853\u30b9\u30da\u30b7\u30e3\u30ea\u30b9\u30c8\u3001\n\u30c7\u30ac\u30fc\u30c8\u304c\u3042\u306a\u305f\u3092\u5f85\u3063\u3066\u308b\u3088\u3002<<A<<[CHANGED 2017/11/04]",
@@ -3313,7 +3314,7 @@
                 {
                   "message": {
                     "": "Woohoo, welcome back, \\v[lore.title.seeker]!",
-                    "en_US": "Uhuuu, bem-vinda de volta, \\v[lore.title.seeker]!",
+                    "en_US": "Uhuuu, bem-vinda de volta, \\v[lore.title.seeker] linda!",
                     "de_DE": "Juhuuuu! Willkommen zur\u00fcck, Seeker!",
                     "zh_CN": "\u55e8\u5440\uff01\u6b22\u8fce\u56de\u6765\uff0c\\v[lore.title.seeker]\uff01<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u30e4\u30c3\u30db\u30fc\u3001\u304a\u304b\u3048\u308a\u3001\\v[lore.title.seeker]\u3055\u3093\uff01<<A<<[CHANGED 2018/09/19]",
@@ -3346,7 +3347,7 @@
                 {
                   "message": {
                     "": "Oh, sorry, your success made me overly excited.\\. I gotta keep up my dignified leader image or whatever.",
-                    "en_US": "Ah, perdão, seu sucesso na missão me deixou super animada.\\. Agora tentarei manter minha imagem de líder digna.",
+                    "en_US": "Foi mal, fiquei super animada com o sucesso da missão.\\. Vou tentar manter a postura de líder digna.",
                     "de_DE": "Oh, 'tschuldige, aber dein Erfolg freut mich riesig!\\. Ich werd' aber besser mal wieder meine gediegene Anf\u00fchrer-Haltung einnehmen.",
                     "zh_CN": "\u54e6\u62b1\u6b49\uff0c\u4f60\u7684\u6210\u529f\u592a\u8ba9\u6211\u6fc0\u52a8\u4e86\u3002\\.\u5dee\u70b9\u628a\u9886\u5bfc\u6837\u5b50\u4e22\u4e86\u3002<<A<<[CHANGED 2017/12/12]",
                     "ja_JP": "\u3042\u3042\u3054\u3081\u3093\u3001\u541b\u306e\u6210\u529f\u3067\u8208\u596e\u3057\u3059\u304e\u3066\u3057\u307e\u3063\u3066\u306d\u3002\n\\. \u5a01\u53b3\u306e\u3042\u308b\u30ea\u30fc\u30c0\u30fc\u3068\u3084\u3089\u306e\n\u30a4\u30e1\u30fc\u30b8\u3092\u4fdd\u305f\u306a\u3044\u3068\u306d\u3002<<A<<[CHANGED 2017/11/04]",
@@ -3397,7 +3398,7 @@
                 {
                   "message": {
                     "": "Hereby, in my function as kickass leader of our organization, I give you our most official of thanks.",
-                    "en_US": "Por isso, na minha função de líder em nossa organização, lhe dou oficialmente nosso sincero agradecimento.",
+                    "en_US": "Por isso, na minha função de líder, eu te agradeço sinceramente em nome de todos.",
                     "de_DE": "In meiner Funktion als begnadeter Anf\u00fchrer unserer Organisation spreche ich dir hiermit in ihrem Namen unseren verbindlichsten Dank aus.",
                     "zh_CN": "\u56e0\u6b64\uff0c\u6211\u4f5c\u4e3a\u6211\u4eec\u673a\u6784\u6700\u725b\u903c\u7684\u4eba\uff0c\u5411\u4f60\u8868\u793a\u611f\u8c22\u3002<<A<<[CHANGED 2017/12/12]",
                     "ja_JP": "\u3053\u308c\u3092\u3082\u3063\u3066\u3001\u79c1\u305f\u3061\u306e\u7d44\u7e54\u306e\u30a4\u30ab\u3057\u305f\u30ea\u30fc\u30c0\u30fc\u3068\n\u3057\u3066\u3082\u3001\u5fc3\u306e\u5e95\u304b\u3089\u541b\u306b\u611f\u8b1d\u3059\u308b\u3088\u3002<<A<<[CHANGED 2017/11/04]",
@@ -3430,7 +3431,7 @@
                 {
                   "message": {
                     "": "There was also a great quantity of classified information that was uncovered from the data that the probe exposed.",
-                    "en_US": "Havia também uma grande quantidade de informações classificadas que foi descoberta a partir dos dados que a sonda expôs.",
+                    "en_US": "Graças ao seu trabalho, conseguimos obter uma quantidade considerável de dados confidenciais da sonda.",
                     "de_DE": "Dank deiner Vorarbeit ist es uns gelungen, eine betr\u00e4chtliche Menge vertraulicher Daten aus der Sonde sicherzustellen.",
                     "zh_CN": "\u8fd8\u6709\u5f88\u591a\u8d85\u7ea7\u673a\u5bc6\u6570\u636e\u5728\u63a2\u673a\u91cc\u7b49\u5f85\u6211\u4eec\u8bfb\u53d6\u5462\u3002<<A<<[CHANGED 2018/01/06]",
                     "ja_JP": "\u305d\u308c\u306b\u3001\u3042\u306e\u3059\u3070\u3089\u3057\u3044\u30d7\u30ed\u30fc\u30d6\u304b\u3089\u306f\u3001\n\u8d85\u306e\u3064\u304f\u79d8\u5bc6\u60c5\u5831\u304c\u305f\u304f\u3055\u3093\u5f15\u304d\u51fa\u305b\u305f\u3093\u3060\u3002<<A<<[CHANGED 2018/01/06]",
@@ -3448,7 +3449,7 @@
                 {
                   "message": {
                     "": "Expect a big expedition into unknown lands in the future.\\. We'll keep in touch, yeah?",
-                    "en_US": "Espere uma grande expedição em terras desconhecidas no futuro.\\. Vamos nos manter em contato, sim?",
+                    "en_US": "Esteja pronta para uma grande aventura em terras desconhecidas em breve.\\. Vamos manter contato, combinado?",
                     "de_DE": "Stell dich auf eine gro\u00dfe Expedition in unbekannte Gefilde in naher Zukunft ein.\\. Wir bleiben in Kontakt, ja?",
                     "zh_CN": "\u6240\u4ee5\uff0c\u4e3a\u672a\u6765\u8e0f\u4e0a\u672a\u77e5\u4e4b\u5730\u505a\u597d\u51c6\u5907\u5427\u3002\\.\u4fdd\u6301\u8054\u7edc\u54e6\uff1f<<A<<[CHANGED 2018/01/06]",
                     "ja_JP": "\u672a\u77e5\u306e\u5927\u5730\u3078\u306e\u5927\u898f\u6a21\u306a\u63a2\u7d22\u3092\n\u8fd1\u3044\u5c06\u6765\u3059\u308b\u3064\u3082\u308a\u3060\u304b\u3089\u3001\n\u671f\u5f85\u3057\u3066\u306d\u3002\\.\u307e\u305f\u9023\u7d61\u3057\u3066\u306d\u3001\u3044\u3044\uff1f<<A<<[CHANGED 2018/01/06]",

@@ -3678,7 +3678,7 @@
                           {
                               "message": {
                                   "": "Hey there! The raid is about to start. Of course we all should be well prepared.",
-                                  "en_US": "Ei! A raid está para começar. Claro que todos nós devemos estar bem preparados.",
+                                  "en_US": "Ei! A raid está para começar. Espero que estejam bem preparados.",
                                   "de_DE": "Hall\u00f6chen! Der Raid f\u00e4ngt gleich an. Daf\u00fcr sollten wir alle gut vorbereitet sein.",
                                   "fr_FR": "fr_FR",
                                   "zh_CN": "\u563f\uff01\u526f\u672c\u8981\u5f00\u59cb\u4e86\u3002\u6211\u4eec\u5e94\u5f53\u505a\u5145\u5206\u51c6\u5907\u3002<<C<<[CN CHANGED 2017\/11\/17]",
@@ -3982,7 +3982,7 @@
                                                           {
                                                               "message": {
                                                                   "": "Oh junge. You really gotta \\c[3]work on your stats\\c[0]!",
-                                                                  "en_US": "Oh junge. Você realmente deveria \\c[3]melhorar seus atributos\\c[0]!",
+                                                                  "en_US": "Oh junge. Você deveria \\c[3]melhorar seus atributos\\c[0]!",
                                                                   "de_DE": "Oh Junge. Du musst wirklich \\c[3]an deinen Stats arbeiten\\c[0]!",
                                                                   "fr_FR": "fr_FR",
                                                                   "zh_CN": "\u54ce\u5466\uff0c\u4f60\u8fd9\u5c5e\u6027\\c[3]\u53ef\u4e0d\u884c\\c[0]!<<C<<[CN CHANGED 2017\/11\/17]",
@@ -4020,7 +4020,7 @@
                                                           {
                                                               "message": {
                                                                   "": "Those may have been sufficient back in Faj'ro Temple, but you'll have a \\c[3]hard time\\c[0] like that in the raid.",
-                                                                  "en_US": "Esses aí podem ter sido o suficiente lá no templo Faj'ro, mas com isso você vai passar por \\c[3]dificuldades\\c[0] na raid.",
+                                                                  "en_US": "Esses aí podem ter sido o suficiente lá no Templo Faj'ro, mas com isso você vai passar por \\c[3]dificuldades\\c[0] na raid.",
                                                                   "de_DE": "Die haben vielleicht noch f\u00fcr den Faj'ro-Tempel gereicht, aber hier im Raid wirst du damit \\c[3]gro\u00dfe Schwierigkeiten\\c[0] haben.",
                                                                   "fr_FR": "fr_FR",
                                                                   "zh_CN": "\u867d\u7136\u6253\u6cd5\u52a0\u7f57\u795e\u5e99\u53ef\u80fd\u6ca1\u4ec0\u4e48\u95ee\u9898\uff0c\u4f46\u662f\u5728\u8fd9\u79cd\u526f\u672c\u91cc\u4f60\u5c31\u8981\\c[3]\u5403\u82e6\u5934\\c[0]\u4e86\u3002",
@@ -4058,7 +4058,7 @@
                                                           {
                                                               "message": {
                                                                   "": "No really, you really should \\c[3]improve your equipment\\c[0]. It's by far the most important factor for your stats.",
-                                                                  "en_US": "Realmente não, você de fato deveria \\c[3]melhorar seus equipamentos\\c[0]. É o fator mais importante para seus atributos.",
+                                                                  "en_US": "Sério, você tem que melhorar \\c[3]melhorar seus equipamentos\\c[0]. É o fator mais importante para seus atributos.",
                                                                   "de_DE": "Im Ernst, du solltest deine \\c[3]Ausr\u00fcstung dringend verbessern\\c[0]. Das ist am allerwichtigsten f\u00fcr deine Stats.",
                                                                   "fr_FR": "fr_FR",
                                                                   "zh_CN": "\u771f\u7684\uff0c\u4f60\u6700\u597d\u53bb\\c[3]\u66f4\u65b0\u4e00\u4e0b\u4f60\u7684\u88c5\u5907\\c[0]\u3002\u8fd9\u662f\u5f71\u54cd\u4f60\u5c5e\u6027\u7684\u6700\u5927\u56e0\u7d20\u3002",
@@ -4077,7 +4077,7 @@
                                                           {
                                                               "message": {
                                                                   "": "Also make sure to \\c[3]check your circuit tree\\c[0] if there are any more skills you can learn.",
-                                                                  "en_US": "Além disso, se certifique de \\c[3]checar sua árvore de circuitos\\c[0] se há alguma habilidade a ser aprendida.",
+                                                                  "en_US": "Além disso, cheque a sua \\c[3]árvore de circuitos\\c[0], para ver se há alguma habilidade a ser aprendida.",
                                                                   "de_DE": "Du solltest au\u00dferdem \\c[3]\u00fcberpr\u00fcfen, ob du neue Circuits lernen kannst\\c[0].",
                                                                   "fr_FR": "fr_FR",
                                                                   "zh_CN": "\u8fd8\u6709\u8bb0\u5f97\\c[3]\u770b\u4e00\u4e0b\u4f60\u7684\u7535\u8def\\c[0]\uff0c\u770b\u770b\u6709\u6ca1\u6709\u8fd8\u6ca1\u52a0\u7684\u70b9\u6570\u3002",
@@ -4117,7 +4117,7 @@
                                                   {
                                                       "message": {
                                                           "": "Just make sure it's roughly around your level. The higher, the better!",
-                                                          "en_US": "Apenas se certifique que está próximo do seu nível. Quanto maior, melhor!",
+                                                          "en_US": "Veja se está próximo do seu nível. Quanto maior, melhor!",
                                                           "de_DE": "Achte darauf, dass es ungef\u00e4hr deinem Level entspricht. Je h\u00f6her, desto besser!",
                                                           "fr_FR": "fr_FR",
                                                           "zh_CN": "\u88c5\u5907\u7b49\u7ea7\u81ea\u7136\u662f\u8d8a\u9ad8\u8d8a\u597d\uff0c\u6700\u597d\u4e0e\u4f60\u7684\u7b49\u7ea7\u76f8\u7b26\u3002",
@@ -4136,7 +4136,7 @@
                                                   {
                                                       "message": {
                                                           "": "And if you don't want to bother with traders just check the \\c[3]equipment of the stores\\c[0]. Those will do the job as well.",
-                                                          "en_US": "E caso você não queira se incomodar com trocas, apenas olhe os \\c[3]equipamentos nas lojas\\c[0]. Eles também darão conta do recado.",
+                                                          "en_US": "E caso você não queira se incomodar com trocas, olhe os \\c[3]equipamentos nas lojas\\c[0]. Eles também darão conta do recado.",
                                                           "de_DE": "Und wenn du keine Lust aufs Handeln hast, schau dir einfach \\c[3]die Ausr\u00fcstung in den L\u00e4den\\c[0] an. Die tut's auch.",
                                                           "fr_FR": "fr_FR",
                                                           "zh_CN": "\u5982\u679c\u4f60\u61d2\u5f97\u4ea4\u6613\u88c5\u5907\u7684\u8bdd\uff0c\u8bb0\u5f97\u53bb\u770b\u770b\\c[3]\u88c5\u5907\u5e97\\c[0]\u3002\u90a3\u4e9b\u76f4\u63a5\u4e70\u7684\u88c5\u5907\u4e5f\u662f\u53ef\u4ee5\u7684\u3002",
@@ -4180,7 +4180,7 @@
                                   {
                                       "message": {
                                           "": "Fine. I'll trust your judgement, then.",
-                                          "en_US": "Certo. Então, vou confiar no seu julgamento.",
+                                          "en_US": "Certo. Então, vou confiar na sea autoavaliação.",
                                           "de_DE": "In Ordnung. Dann vertraue ich mal deiner Selbsteinsch\u00e4tzung.",
                                           "fr_FR": "fr_FR",
                                           "zh_CN": "\u884c\u3002\u4f60\u89c9\u5f97\u6ca1\u95ee\u9898\u5c31\u884c\u3002",
@@ -4311,7 +4311,7 @@
                           {
                               "message": {
                                   "": "There you are! Ready for the raid?",
-                                  "en_US": "Aí está você! Pronta para a raid?",
+                                  "en_US": "E aí? Pronta para a raid?",
                                   "de_DE": "Da bist du ja! Bereit f\u00fcr den Raid?",
                                   "fr_FR": "fr_FR",
                                   "zh_CN": "\u4f60\u6765\u4e86\uff01\u51c6\u5907\u597d\u4e86\u5417\uff1f",
@@ -4354,7 +4354,7 @@
                                   {
                                       "message": {
                                           "": "I heard there's a ton of bugs waiting for us to fight up there!",
-                                          "en_US": "Eu ouvi que tem uma tonelada de insetos nos esperando pra lutar lá em cima",
+                                          "en_US": "Fiquei sabendo que tem uma tonelada de insetos nos esperando pra lutar lá em cima.",
                                           "de_DE": "Ich hab geh\u00f6rt, da wartet 'n Haufen streits\u00fcchtiger K\u00e4fer auf uns!",
                                           "fr_FR": "fr_FR",
                                           "zh_CN": "\u542c\u8bf4\u91cc\u9762\u6709\u5f88\u591a\u866b\u5b50\u54e6\uff01",
@@ -4523,7 +4523,7 @@
                           {
                               "message": {
                                   "": "Maaaan...\\. I hope I can be the column tackler again.",
-                                  "en_US": "Caaara...\\. Espero que eu possa ser o atacante de novo.",
+                                  "en_US": "Caaara...\\. Espero que eu seja o atacante de novo.",
                                   "de_DE": "Aaaach, hoffentlich kann ich wieder der S\u00e4ulenst\u00fcrzer sein.",
                                   "zh_CN": "\u55e8\u5440...\\.\u5e0c\u671b\u8fd9\u6b21\u64bc\u67f1\u8005\u8fd8\u662f\u6211\u3002<<A<<[CHANGED 2020\/06\/17]",
                                   "ja_JP": "\u306a\u3041\u306a\u3041...\\.\u3082\u3046\u4e00\u56de\u30b3\u30e9\u30e0\u30a2\u30bf\u30c3\u30ab\u30fc\n\u3057\u305f\u3044\u306a\u3002<<A<<[CHANGED 2020\/06\/17]",
@@ -4911,7 +4911,7 @@
                   {
                       "message": {
                           "": "An important milestone of the track!",
-                          "en_US": "Um importante marco histórcido da trilha!",
+                          "en_US": "Um importante marco histórico da trilha!",
                           "de_DE": "Ein wichtiger Meilenstein auf dem Pfad der Ahnen!",
                           "fr_FR": "fr_FR",
                           "zh_CN": "\u5148\u7956\u4e4b\u8def\u4e0a\u7684\u91cd\u8981\u4e00\u73af\uff01",
@@ -4949,7 +4949,7 @@
                   {
                       "message": {
                           "": "And now it's up to us Seekers to prove to the Ancients that we're no strangers to teamwork as well!",
-                          "en_US": "E agora é um dever dos Seekers provar aos Antigos que também não somos alheios ao trabalho em equipe!",
+                          "en_US": "E agora é um dever dos Seekers provar aos Antigos que também também podemos trabalhar juntos!",
                           "de_DE": "Und jetzt liegt es an uns Seekern, den Ahnen zu beweisen, dass auch wir zusammenarbeiten k\u00f6nnen!",
                           "fr_FR": "fr_FR",
                           "zh_CN": "\u73b0\u5728\u8f6e\u5230\u6211\u4eec\u63a2\u7d22\u8005\u6765\u5411\u5148\u7956\u8bc1\u660e\uff0c\u6211\u4eec\u4e5f\u6709\u5408\u4f5c\u7684\u80fd\u529b\uff01",
@@ -4968,7 +4968,7 @@
                   {
                       "message": {
                           "": "They say a great reward waits for those that reach the \\c[3]top of the hill\\c[0] on this island.",
-                          "en_US": "Dizem que há uma grande recompensa esperando àqueles que chegarem ao \\c[3]topo da colina\\c[0] dessa ilha.",
+                          "en_US": "Dizem que tem uma grande recompensa esperando àqueles que chegarem ao \\c[3]topo da colina\\c[0] dessa ilha.",
                           "de_DE": "Es hei\u00dft, dass eine gro\u00dfe Belohnung auf diejenigen wartet, die den \\c[3]Gipfel des Berges\\c[0] auf dieser Insel erreichen.",
                           "fr_FR": "fr_FR",
                           "zh_CN": "\u636e\u8bf4\u5230\u8fbe\u5c0f\u5c9b\\c[3]\u5c71\u9876\\c[0]\u7684\u4eba\u5c06\u5f97\u5230\u4e00\u4e2a\u5927\u5956\uff01",
@@ -5051,7 +5051,7 @@
                   {
                       "message": {
                           "": "The first team, ascending on the left, will be the Newcomers of the First Scholars: \n\\c[3]Lea\\c[0], \\c[3]Emilie\\c[0] and \\c[3]C'tron\\c[0]!",
-                          "en_US": "O primeiro time, subindo pela esquerda, serão os Novatos dos Primeiros Estudiosos: \n\\c[3]Lea\\c[0], \\c[3]Emilie\\c[0] e \\c[3]C'tron\\c[0]!",
+                          "en_US": "A primeira equipe, subindo pela esquerda, serão os Novatos dos Primeiros Estudiosos: \n\\c[3]Lea\\c[0], \\c[3]Emilie\\c[0] e \\c[3]C'tron\\c[0]!",
                           "de_DE": "Das erste Team, das links hochl\u00e4uft, besteht aus unseren Neuzug\u00e4ngen:\n\\c[3]Lea\\c[0], \\c[3]Emilie\\c[0] und \\c[3]C'tron\\c[0]!",
                           "fr_FR": "fr_FR",
                           "zh_CN": "\u7b2c\u4e00\u961f\uff0c\u662f\u6211\u4eec\u7684\u65b0\u6210\u5458\uff0c\\c[3]\u8389\u4e9a\\c[0], \\c[3]\u827e\u7c73\u8389\\c[0]\u548c\\c[3]\u897f\u7279\u9686\\c[0]\uff0c\u5c06\u4ece\u5de6\u8fb9\u4e0a\u5c71\uff01",
@@ -5173,7 +5173,7 @@
                   {
                       "message": {
                           "": "\"Old timer\", huh? I definitely don't get that a lot.",
-                          "en_US": "\"Veterano\", hein? Eu definitivamente não estou acostumado com isso.",
+                          "en_US": "\"Veterano\", é? Eu não estou nada acostumado a ouvir isso.",
                           "de_DE": "\"Oldtimer\", was? Das h\u00f6re ich nun wirklich nicht oft.",
                           "fr_FR": "fr_FR",
                           "zh_CN": "\"\u8001\u56e2\u5458\"\uff1f\u4ec0\u4e48\u65f6\u5019\u7ed9\u6211\u63d0\u62d4\u4e00\u4e0b\uff0c\u5f04\u4e2a\u56e2\u957f\u5f53\u5f53\u3002",
@@ -5304,7 +5304,7 @@
                   {
                       "message": {
                           "": "Now, reaching the top of this hill is quite the challenging endeavor, indeed!",
-                          "en_US": "Agora, chegar ao topo da colina certamente exigirá um esforço desafiador!",
+                          "en_US": "Agora, chegar ao topo da colina exigirá um esforço desafiador!",
                           "de_DE": "Also, den Gipfel dieses Berges zu erreichen, wird ziemlich anstrengend werden!",
                           "fr_FR": "fr_FR",
                           "zh_CN": "\u8981\u62b5\u8fbe\u5c71\u9876\u53ef\u4e0d\u5bb9\u6613\uff01<<A<<[CHANGED 2017\/07\/11]",
@@ -5497,7 +5497,7 @@
                   {
                       "message": {
                           "": "Tronny and Emilie will support you and keep the communication with us going.",
-                          "en_US": "Tronny e Emilie irão te dar suporte e manter a comunicação conosco rolando.",
+                          "en_US": "Tronny e Emilie vão te apoiar e manter a comunicação com a gente.",
                           "de_DE": "Tronny und Emilie w\u00fcrden dich unterst\u00fctzen und mit uns in Verbindung bleiben.",
                           "fr_FR": "fr_FR",
                           "zh_CN": "\u9686\u9686\u548c\u827e\u7c73\u8389\u4f1a\u5e2e\u4f60\u8fdb\u884c\u6211\u4eec\u4e4b\u95f4\u7684\u6c9f\u901a\u5de5\u4f5c\u3002",
@@ -5631,7 +5631,7 @@
                   {
                       "message": {
                           "": "Alrighty! I'll give you more instructions during the raid! Just keep your heads up, eh?",
-                          "en_US": "Beleza! Darei mais instuções durante a raid! Apenas fiquem atentos, tá?",
+                          "en_US": "Beleza! Darei mais instuções durante a raid! Fiquem atentos, tá?",
                           "de_DE": "Alles kl\u00e4rchen! Ich werde euch weitere Anweisungen w\u00e4hrend des Raids geben! Gebt nur alle gut auf euch Acht, okay?",
                           "fr_FR": "fr_FR",
                           "zh_CN": "\u90a3\u597d\uff01\u5728\u526f\u672c\u8fc7\u7a0b\u4e2d\u6211\u518d\u7ed9\u4f60\u4eec\u8fdb\u4e00\u6b65\u7684\u6307\u793a\uff01\u90fd\u6253\u8d77\u7cbe\u795e\u6765\uff01",
@@ -5695,7 +5695,7 @@
                   {
                       "message": {
                           "": "So who'll be the column tackler in our team?",
-                          "en_US": "Então, quem será o atacante de nossa equipe?",
+                          "en_US": "Então, quem será o atacante da nossa equipe?",
                           "de_DE": "Gut, und wer wird der S\u00e4ulenst\u00fcrzer in unserer Gruppe?",
                           "fr_FR": "fr_FR",
                           "zh_CN": "\u90a3\u6211\u4eec\u961f\u7684\u64bc\u67f1\u8005\u662f\u8c01\u554a\uff1f",

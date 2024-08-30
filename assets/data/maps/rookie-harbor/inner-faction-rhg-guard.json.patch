@@ -1477,7 +1477,7 @@
                 {
                   "message": {
                     "": "Ah, \\v[lore.title.seeker].\\. Found your way back to humble \\v[area.rookie-harbor.name], eh?",
-                    "en_US": "Ah, \\v[lore.title.seeker].\\. Você encontrou seu caminho de volta ao humilde \\v[area.rookie-harbor.name], hein?",
+                    "en_US": "Ah, \\v[lore.title.seeker].\\. Vejo que encontrou o caminho de volta ao humilde \\v[area.rookie-harbor.name], não é?",
                     "de_DE": "Ah, Seeker!\\. Hast wieder zum guten alten Rookie Harbor zur\u00fcckgefunden, hm?",
                     "zh_CN": "\u554a\uff0c\\v[lore.title.seeker]\u3002\\.\u53c8\u56de\u6765\\v[area.rookie-harbor.name]\u4e86\uff1f<<A<<[CHANGED 2017/10/13]",
                     "langUid": 268,
@@ -1544,7 +1544,7 @@
                 {
                   "message": {
                     "": "In fact it has only gotten worse.\\. You got some free time again, to make a contribution to a peaceful society?",
-                    "en_US": "Na verdade, só piorou.\\. Você tem algum tempo livre novamente, para fazer uma contribuição para uma sociedade pacífica?",
+                    "en_US": "Na verdade, só piorou.\\. Você tem algum tempo livre agora para ajudar uma sociedade pacífica?",
                     "de_DE": "Es ist sogar noch schlimmer geworden.\\. Hast du grad Zeit, wieder Recht und Ordnung herzustellen?",
                     "zh_CN": "\u800c\u4e14\u60c5\u51b5\u53d8\u5f97\u66f4\u7cdf\u4e86\u3002\\.\u8981\u662f\u4f60\u6709\u65f6\u95f4\u7684\u8bdd\u4e0d\u59a8\u6765\u534f\u52a9\u5efa\u8bbe\u4e00\u4e0b\u548c\u8c10\u793e\u4f1a\uff1f<<A<<[CHANGED 2018/09/19]",
                     "langUid": 319,
@@ -1602,7 +1602,7 @@
                     {
                       "message": {
                         "": "Problem is, they're not delivering their shipments to our harbor the usual way, where we can find and catch them.",
-                        "en_US": "O problema é que eles não estão entregando seus carregamentos em nosso porto da maneira usual, onde podemos encontrá-los e pegá-los.",
+                        "en_US": "O problema é que eles não estão entregando os carregamentos no porto como de costume, onde podemos encontrá-los e pegá-los.",
                         "de_DE": "Das Problem ist, dass sie ihre Ladung nicht mehr \u00fcber unseren Hafen schmuggeln, wo wir sie leicht aufsp\u00fcren und schnappen k\u00f6nnten.",
                         "zh_CN": "\u95ee\u9898\u662f\uff0c\u4ed6\u4eec\u73b0\u5728\u4e0d\u50cf\u4ee5\u524d\u4e00\u6837\u628a\u6b66\u5668\u8fd0\u5230\u6e2f\u53e3\u4e86\u3002<<A<<[CHANGED 2017/10/13]",
                         "langUid": 300,
@@ -1771,7 +1771,7 @@
                     {
                       "message": {
                         "": "Got no more time for boring ol' \\v[area.rookie-harbor.name], eh?\\. Quite a shame.",
-                        "en_US": "Não tem mais tempo para fazer as missões do velho \\v[area.rookie-harbor.name], hein?\\. Devo dizer que estou decepcionado.",
+                        "en_US": "Não tem mais tempo para fazer as missões do velho \\v[area.rookie-harbor.name], não é?\\. Estou decepcionado.",
                         "de_DE": "Keine Zeit mehr f\u00fcr das olle Rookie Harbor, hm?\\. Ich muss sagen, ich bin entt\u00e4uscht.",
                         "zh_CN": "\u5df2\u7ecf\u770b\u4e0d\u8d77\u4f4e\u7ea7\u7684\\v[area.rookie-harbor.name]\u4e86\uff1f\\.\u5509\u3002<<A<<[CHANGED 2017/10/13]",
                         "langUid": 303,

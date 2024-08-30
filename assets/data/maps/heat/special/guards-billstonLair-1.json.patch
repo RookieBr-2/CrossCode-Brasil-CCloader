@@ -783,7 +783,7 @@
           {
             "message": {
               "": "You even saw through my holographic hidden entrance?\\. Truly you \\v[lore.title.seeker]s are something else.",
-              "en_US": "Você viu até através da minha entrada holográfica oculta?\\. ",
+              "en_US": "Você... viu minha entrada oculta? Vocês \\v[lore.title.seeker]s são mesmo fora do comum.",
               "de_DE": "Nicht einmal der holographisch versteckte Eingang war ein Hindernis? Ihr Seeker seid wirklich etwas Besonderes.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u5168\u606f\u5e7b\u8c61\u9690\u85cf\u5165\u53e3\u90fd\u88ab\u4f60\u770b\u7a7f\u4e86\uff1f\\.\u4f60\u4eec\\v[lore.title.seeker]\u53ef\u771f\u5389\u5bb3\u3002",
@@ -818,7 +818,7 @@
           {
             "message": {
               "": "But this will be the end of the line for you.\\. No one will beat me, when I am this well prepared.\\.\\. Behold...!",
-              "en_US": "Mas este será o fim da linha para você.\\. Ninguém pode me vencer, agora que estou bem preparado.\\.\\. Veja...!",
+              "en_US": "Mas este será o fim da linha para você.\\. Ninguém pode me vencer, agora que estou bem preparado.\\.\\. Observe...!",
               "de_DE": "Aber hier endet deine Reise.\\. Niemand kann mich schlagen, wenn ich mich so gut vorbereitet bin wie jetzt.\\.\\. Sieh her...! ",
               "fr_FR": "fr_FR",
               "zh_CN": "\u4e0d\u8fc7\u4f60\u5230\u8fd9\u91cc\u5c31\u7ed3\u675f\u4e86\u3002\\.\u5f53\u6211\u51c6\u5907\u5145\u5206\u7684\u65f6\u5019\uff0c\u6ca1\u4eba\u80fd\u591f\u6253\u8d25\u6211\u3002\\.\\.\u770b\u597d\u4e86\u2026\uff01",

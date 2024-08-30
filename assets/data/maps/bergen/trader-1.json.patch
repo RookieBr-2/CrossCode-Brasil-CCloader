@@ -2385,7 +2385,7 @@
                 {
                   "message": {
                     "": "We can deliver some advanced metalworking tools to \\v[area.rookie-harbor.name] but only if you bring us certain spare parts.",
-                    "en_US": "Nós podemos fornecer algumas ferramentas avançadas de metalurgia para \\v[area.rookie-harbor.name] mas apenas se você nos trouxer certas peças adicionais.",
+                    "en_US": "Podemos fornecer ferramentas de metal avançadas para \\v[area.rookie-harbor.name], mas precisamos que você traga algumas peças extras.",
                     "de_DE": "Wir liefern die gew\u00fcnschten Metallverarbeitungsger\u00e4te erst, nachdem du uns bestimmte Ersatzteile besorgt hast.",
                     "zh_CN": "\u6211\u4eec\u53ef\u4ee5\u628a\u9ad8\u7ea7\u51b6\u91d1\u5de5\u5177\u9001\u5230\\v[area.rookie-harbor.name]\uff0c\u4f46\u662f\u524d\u63d0\u662f\u4f60\u5f97\u7ed9\u6211\u4eec\u5e26\u6765\u4e00\u4e9b\u7279\u6b8a\u7684\u96f6\u90e8\u4ef6\u3002<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\\v[area.rookie-harbor.name]\u306b\u9ad8\u5ea6\u306a\u91d1\u5c5e\u52a0\u5de5\u306e\u305f\u3081\u306e\n\u5de5\u5177\u3092\u5c4a\u3051\u308b\u3053\u3068\u306f\u3067\u304d\u308b\u3002\u3067\u3082\u305d\u306e\u305f\u3081\u306b\u306f\n\u3044\u304f\u3064\u304b\u30d1\u30fc\u30c4\u304c\u5fc5\u8981\u306a\u3093\u3060\u3002<<A<<[CHANGED 2018/09/19]",
@@ -2403,7 +2403,7 @@
                 {
                   "message": {
                     "": "They are expensive to produce these days but there should still be some built into certain machines in the mine.",
-                    "en_US": "Elas são caras de produzir atualmente, mas ainda deve haver algumas fabricadas em certas máquinas na mina.",
+                    "en_US": "Elas são caras de produzir, mas ainda deve haver algumas instaladas em certas máquinas na mina.",
                     "de_DE": "Sie sind heutzutage einfach zu teuer in der Herstellung. Es sollen aber noch ein paar in den Maschinen der Mine verbaut sein.",
                     "zh_CN": "\u90a3\u4e9b\u73a9\u610f\u73b0\u5728\u751f\u4ea7\u8d77\u6765\u592a\u8d35\u4e86\uff0c\u4e0d\u8fc7\u5728\u77ff\u4e95\u7684\u673a\u5668\u91cc\u9762\u5e94\u8be5\u80fd\u627e\u7740\u3002<<A<<[CHANGED 2018/01/06]",
                     "ja_JP": "\u305d\u306e\u30d1\u30fc\u30c4\u306f\u4eca\u3058\u3083\u9ad8\u304f\u3066\u306a\u304b\u306a\u304b\u4f5c\u308c\u306a\u3044\u3002\n\u3067\u3082\u9271\u5c71\u306b\u884c\u3051\u3070\u3001\u307e\u3060\u305d\u306e\u30d1\u30fc\u30c4\u3092\n\u4f7f\u3063\u305f\u6a5f\u68b0\u304c\u3042\u308b\u306f\u305a\u3060\u3002<<A<<[CHANGED 2018/01/06]",
@@ -2436,7 +2436,7 @@
                 {
                   "message": {
                     "": "Word on the street is that there's one in some \\c[3]room that harbors the power of heat\\c[0], whatever that means.",
-                    "en_US": "Dizem por aí que há alguma \\c[3]sala que guarda o poder do fogo\\c[0], sejá lá o que isso significa.",
+                    "en_US": "Dizem que há uma \\c[3]sala que contém o poder do fogo\\c[0], mas não sei o que isso realmente significa.",
                     "de_DE": "Ger\u00fcchten zufolge befindet sich eine davon \\c[3]in dem Raum, der die Kraft der Hitze innehat.\\c[0] Was auch immer das hei\u00dfen soll.",
                     "zh_CN": "\u6839\u636e\u8c23\u8a00\uff0c\u5728\\c[3]\u4e00\u4e2a\u50a8\u5b58\u70ed\u91cf\u7684\u623f\u95f4\\c[0]\u91cc\u9762\u80fd\u627e\u5230\u3002\u771f\u5047\u672a\u77e5\u3002<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u8857\u306e\u5642\u3058\u3083\u3001\u4f55\u304b\\c[3]\u71b1\u306e\u529b\u3092\u5bbf\u3057\u305f\u90e8\u5c4b\\c[0]\u3068\u3084\u3089\u306b\n1\u500b\u3042\u3063\u305f\u3068\u304b\u3002<<A<<[CHANGED 2018/09/19]",
@@ -2454,7 +2454,7 @@
                 {
                   "message": {
                     "": "In any case, maybe you can find one there so we can bring this deal to a close.\\. Good luck.",
-                    "en_US": "De qualquer forma, talvez você possa achar uma dessas para que possamos fechar este negócio.\\. Boa sorte.",
+                    "en_US": "Espero que você encontre as peças necessárias para fecharmos o negócio.\\. Boa sorte.",
                     "de_DE": "Auf jeden Fall hoffe ich, dass du dort eine findest, damit wir unseren Handel abschlie\u00dfen k\u00f6nnen.\\. Viel Gl\u00fcck.",
                     "zh_CN": "\u603b\u4e4b\uff0c\u5982\u679c\u4f60\u80fd\u627e\u5230\u7684\u8bdd\uff0c\u8fd9\u6869\u751f\u610f\u5c31\u7b97\u6210\u4e86\u3002\\.\u795d\u4f60\u597d\u8fd0\u3002<<A<<[CHANGED 2017/12/12]",
                     "ja_JP": "\u3068\u3082\u304b\u304f\u3001\u305d\u3093\u306a\u30d1\u30fc\u30c4\u3092\u898b\u3064\u3051\u305f\u3089\u6301\u3063\u3066\u304d\u3066\u304f\u308c\u3002\u305d\u308c\u3067\u53d6\u5f15\u306f\u5b8c\u4e86\u3060\u3002\\. \u307e\u3042\u3001\u304c\u3093\u3070\u308c\u3088\u3002<<A<<[CHANGED 2017/12/11]",
@@ -2534,7 +2534,7 @@
                   {
                     "message": {
                       "": "Apparently you can find those parts in some \\c[3]room that harbors the power of heat\\c[0].",
-                      "en_US": "Aparentemente você pode achar essas partes em alguma \\c[3]sala que guarda o poder do calor\\c[0].",
+                      "en_US": "Você pode achar essas partes em alguma \\c[3]sala que guarda o poder do fogo\\c[0].",
                       "de_DE": "Die Ersatzteile sollen sich in einem \\c[3]Raum befinden, der die Kraft der Hitze innehat.\\c[0]",
                       "zh_CN": "\u636e\u8bf4\u90a3\u4e9b\u96f6\u90e8\u4ef6\u5728\\c[3]\u4e00\u4e2a\u50a8\u5b58\u70ed\u91cf\u7684\u623f\u95f4\\c[0]\u91cc\u9762\u3002<<A<<[CHANGED 2017/12/12]",
                       "ja_JP": "\u3069\u3046\u3084\u3089\u3001\u30d1\u30fc\u30c4\u306f\\c[3]\u71b1\u306e\u529b\u3092\u5bbf\u3057\u305f\u90e8\u5c4b\\c[0]\u3068\u3084\u3089\u3067\u898b\u3064\u304b\u308b\u3089\u3057\u3044\u3002<<A<<[CHANGED 2017/12/11]",
@@ -2552,7 +2552,7 @@
                   {
                     "message": {
                       "": "Not sure what it means, but I'm sure you got some ideas.\\. In the meantime, care for some metal?",
-                      "en_US": "Não sei o que significa, mas estou certo de que você pode imaginar o que é.\\. Entretanto, quer dar uma olhada em algum metal?",
+                      "en_US": "Não sei o que isso significa, mas você pode ter uma ideia.\\. Quer dar uma olhada em algum metal?",
                       "de_DE": "Keine Ahnung, was das bedeutet, aber ich bin mir sicher, dass du ein paar Ideen hast.\\. Kann ich dir in der Zwischenzeit etwas Metall anbieten?",
                       "zh_CN": "\u6211\u662f\u4e0d\u77e5\u9053\u8fd9\u662f\u4ec0\u4e48\u610f\u601d\uff0c\u4f60\u5e94\u8be5\u77e5\u9053\u5427\u3002\\.\u603b\u4e4b\uff0c\u8981\u4e0d\u8981\u4e70\u70b9\u91d1\u5c5e\uff1f<<A<<[CHANGED 2018/09/19]",
                       "ja_JP": "\u4f55\u306e\u3053\u3068\u304b\u308f\u304b\u3089\u3093\u3051\u3069\u3001\u541b\u306b\u306f\u898b\u5f53\u304c\u3064\u304f\u3093\u3058\u3083\u306a\u3044\u304b\uff1f\\. \u305d\u308c\u3068\u3001\u3064\u3044\u3067\u306b\u30e1\u30bf\u30eb\u3067\u3082\u3069\u3046\u3060\u3044\uff1f<<A<<[CHANGED 2018/09/19]",
@@ -2684,7 +2684,7 @@
                 {
                   "message": {
                     "": "We will handle the rest.\\. You can report back to the CTC in \\v[area.rookie-harbor.name] to get your reward.",
-                    "en_US": "Vamos tratar do resto.\\. Você pode pode ir no CCC no \\v[area.rookie-harbor.name] para receber a sua recompensa.",
+                    "en_US": "Nós cuidaremos do resto.\\. Você pode pode ir no CCC no \\v[area.rookie-harbor.name] para receber a sua recompensa.",
                     "de_DE": "Wir k\u00fcmmern uns um den Rest.\\. Deine Belohnung bekommst du vom KHV in Rookie Harbor.",
                     "zh_CN": "\u5269\u4e0b\u7684\u5c31\u4ea4\u7ed9\u6211\u4eec\u4e86\u3002\\.\u4f60\u53ef\u4ee5\u56de\u53bb\\v[area.rookie-harbor.name]\u7684\u6cbf\u6d77\u8d38\u6613\u8054\u76df\u90a3\u91cc\u9886\u8d4f\u4e86\u3002<<A<<[CHANGED 2017/12/12]",
                     "ja_JP": "\u3042\u3068\u306f\u307e\u304b\u305b\u3066\u304f\u308c\u3002\\. \\v[area.rookie-harbor.name]\u306eCTC\u306b\u5831\u544a\u3059\u308c\u3070\u3001\u5831\u916c\u304c\u51fa\u308b\u305e\u3002<<A<<[CHANGED 2017/12/11]",

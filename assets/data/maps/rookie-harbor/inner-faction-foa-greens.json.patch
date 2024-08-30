@@ -2560,7 +2560,7 @@
                     {
                       "message": {
                         "": "Much will be at stake if the rage of this once proud Bovine is not stopped.\\. Please rethink your decision!",
-                        "en_US": "Muito estará em jogo se a raiva deste Bovino, outrora orgulhoso, não for detida.\\. Por favor, repense sua decisão!",
+                        "en_US": "Muito estará em jogo se a raiva deste Bovino, não for detida.\\. Por favor, repense sua decisão!",
                         "de_DE": "Es steht viel auf dem Spiel, wenn die Wut des Rindes nicht bald gestoppt wird.\\. Bitte \u00fcberdenke deine Entscheidung!",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u795e\u725b\u82e5\u4e0d\u88ab\u963b\u6b62\uff0c\u6050\u6015\u707e\u96be\u8fd8\u4f1a\u6269\u5927\u3002\\.\u8bf7\u52a1\u5fc5\u91cd\u65b0\u8003\u8651\uff01",
@@ -2669,7 +2669,7 @@
               {
                 "message": {
                   "": "You can find it on the \\c[3]Secluded Path\\c[0] in the \\c[3]northeast of \\v[area.autumn-fall.name]\\c[0].",
-                  "en_US": "Você pode achá-lo no \\c[3]Caminho Isolado\\c[0] ao \\c[3]nordeste do \\v[area.autumn-fall.name]\\c[0].",
+                  "en_US": "Elas estão situadas no \\c[3]Caminho Isolado\\c[0] ao \\c[3]nordeste do \\v[area.autumn-fall.name]\\c[0].",
                   "de_DE": "Du findest sie am \\c[3]Abgelegenen Pfad\\c[0] im \\c[3]Nordosten von Autumn's Fall\\c[0].",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u4f60\u53ef\u4ee5\u5728\\c[3]\\v[area.autumn-fall.name]\u7684\u4e1c\u5317\u65b9\\c[0]\u4e2d\u7684\\c[3]\u9690\u853d\u5c0f\u8def\\c[0]\u627e\u5230\u8be5\u5730\u70b9\u3002",

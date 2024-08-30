@@ -8707,7 +8707,7 @@
                         },
                         "message": {
                             "": "Great, there you are again.\\. About time we finished this task, I would say.",
-                            "en_US": "Ótimo, aí está você novamente.\\. Já era hora de terminarmos esta tarefa, eu diria.",
+                            "en_US": "Que bom que você veio.\\. Já está na hora de terminarmos esta tarefa.",
                             "ja_JP": "\u3088\u304b\u3063\u305f\u3001\u307e\u305f\u6765\u3066\u304f\u308c\u305f\u3093\u3060\u306a\u3002\n\\.\u672c\u5f53\u306a\u3089\u3068\u3063\u304f\u306b\u7d42\u308f\u3063\u3066\u305f\u306f\u305a\u306a\u3093\u3060\u304c\u3002<<A<<[CHANGED 2017/11/04]",
                             "langUid": 705,
                             "zh_CN": "\u54e6\uff0c\u53c8\u662f\u4f60\u554a\uff1f\\.\u90a3\u6b63\u597d\u6211\u4eec\u6765\u628a\u6d3b\u5e72\u5b8c\u3002<<A<<[CHANGED 2017/12/12]",
@@ -8905,7 +8905,7 @@
                         },
                         "message": {
                             "": "Weird coincidence that, considering there's nothing really special about the tree itself...",
-                            "en_US": "É uma estranha coincidência que, considerando que não há nada realmente especial sobre aquela árvore em particular.",
+                            "en_US": "Isso é engraçado, pois aquela árvore não tem nada de especial.",
                             "ja_JP": "\u5947\u5999\u306a\u3053\u3068\u306b\u3001\u6728\u81ea\u4f53\u304b\u3089\u306f\u4f55\u3082\n\u7279\u5225\u306a\u3082\u306e\u306f\u691c\u51fa\u3055\u308c\u306a\u304b\u3063\u305f\u3093\u3060...<<A<<[CHANGED 2017/11/04]",
                             "langUid": 770,
                             "zh_CN": "\u786e\u5b9e\u6709\u4e9b\u5947\u602a\uff0c\u56e0\u4e3a\u6811\u672c\u8eab\u6beb\u65e0\u7279\u522b\u4e4b\u5904...<<A<<[CHANGED 2017/10/10]",
@@ -8940,7 +8940,7 @@
                         },
                         "message": {
                             "": "Though it seems to be rather unstable and fluctuating this time.\\. You should keep an eye on that.",
-                            "en_US": "Embora pareça ser bastante instável e flutuante desta vez.\\. Você deve ficar atenta a isso.",
+                            "en_US": "Mas o sinal aqui está muito instável.\\. Fique atenta ao se aproximar do ponto de poder.",
                             "ja_JP": "\u3068\u306f\u3044\u3048\u3001\u4eca\u56de\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u53cd\u5fdc\u306f\u4e0d\u5b89\u5b9a\u3067\n\u7d76\u3048\u305a\u5909\u52d5\u3057\u3066\u3044\u308b\u3088\u3046\u3060\u3002\n\\.\u6ce8\u610f\u3092\u6020\u3089\u306a\u3044\u3088\u3046\u306b\u3057\u305f\u307b\u3046\u304c\u3044\u3044\u3002<<A<<[CHANGED 2018/09/19]",
                             "langUid": 772,
                             "zh_CN": "\u4e0d\u8fc7\u80fd\u91cf\u6709\u4e9b\u6ce2\u52a8\u3002\\.\u4f60\u6700\u597d\u5c0f\u5fc3\u70b9\u3002<<A<<[CHANGED 2018/09/19]",
@@ -9082,7 +9082,7 @@
                         },
                         "message": {
                             "": "In any case, knocking our probe onto the Powerspots as before and clearing hostiles should do the trick.",
-                            "en_US": "Em todo caso, executar o mesmo procedimento feito aqui deve ser suficiente..",
+                            "en_US": "Enfim, repita o que você fez antes e dará tudo certo.",
                             "ja_JP": "\u3068\u306b\u304b\u304f\u3001\u3055\u3063\u304d\u306e\u3088\u3046\u306b\u30d7\u30ed\u30fc\u30d6\u3092\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u306e\u4e0a\u306b\u4e57\u305b\u3066\u3001\u6575\u3092\u5012\u305b\u3070\u3046\u307e\u304f\u3044\u304f\u306f\u305a\u3060\u3002<<A<<[CHANGED 2017/11/04]",
                             "langUid": 733,
                             "zh_CN": "\u8fd8\u662f\u6309\u8001\u65b9\u6cd5\u6765\u5427\uff0c\u5e94\u8be5\u4e0d\u4f1a\u51fa\u4ec0\u4e48\u95ee\u9898\u3002<<A<<[CHANGED 2017/12/12]",
@@ -9116,7 +9116,7 @@
                         },
                         "message": {
                             "": "I am ready whenever you are.\\. Just give me the signal, \\v[lore.title.seeker].",
-                            "en_US": "Estou pronto quando você estiver.\\. Apenas me dê o sinal, \\v[lore.title.seeker].",
+                            "en_US": "É só me avisar quando você estiver pronta \\v[lore.title.seeker].",
                             "ja_JP": "\u4ffa\u306e\u65b9\u306f\u3044\u3064\u3067\u3082\u6e96\u5099\u3067\u304d\u3066\u308b\u305c\u3002\n\\.\u305d\u3063\u3061\u306e\u6e96\u5099\u304c\u3067\u304d\u305f\u3089\u5408\u56f3\u3057\u3066\u304f\u308c\u3001\\v[lore.title.seeker]\u3055\u3093\u3002<<A<<[CHANGED 2017/11/04]",
                             "langUid": 738,
                             "zh_CN": "\u6211\u8fd9\u8fb9\u51c6\u5907\u597d\u4e86\u3002\\.\u7b49\u4f60\u51c6\u5907\u597d\u4e86\u544a\u8bc9\u6211\u4e00\u58f0\u5c31\u884c\uff0c\\v[lore.title.seeker]\u3002<<A<<[CHANGED 2017/10/10]",
@@ -9302,7 +9302,7 @@
                             },
                             "message": {
                                 "": "Alright, then let me start this thing up!",
-                                "en_US": "Muito bem, então deixe-me começar isto!",
+                                "en_US": "Muito bem, vou ligar a sonda agora!",
                                 "ja_JP": "\u3088\u3057\u3001\u305d\u308c\u3058\u3083\u3042\u88c5\u7f6e\u3092\u7a3c\u50cd\u3059\u308b\u305e\uff01<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 201,
                                 "zh_CN": "\u884c\uff0c\u90a3\u6211\u628a\u8fd9\u73a9\u610f\u542f\u52a8\u8d77\u6765\uff01<<A<<[CHANGED 2017/10/10]",
@@ -9730,6 +9730,7 @@
                             },
                             "text": {
                                 "": "\\v[tmp.questBall-markerText]",
+                                "en_US": "\\v[tmp.questBall-markerText]",
                                 "langUid": 202,
                                 "zh_CN": "\\v[tmp.questBall-markerText]<<A<<[CHANGED 2017/10/10]",
                                 "de_DE": "\\v[tmp.questBall-markerText]<<C<<IGNORE",
@@ -9910,7 +9911,7 @@
                             },
                             "message": {
                                 "": "Just remember what I told you about the unstable energy fluctuation.",
-                                "en_US": "Apenas lembre do eu te disse sobre a flutuação instável da energia.",
+                                "en_US": "Lembre do que eu te disse sobre a flutuação instável da energia.",
                                 "ja_JP": "\u3055\u3063\u304d\u8a71\u3057\u305f\u901a\u308a\u3001\u30a8\u30cd\u30eb\u30ae\u30fc\u306f\u4e0d\u5b89\u5b9a\u3067\n\u5909\u52d5\u3057\u3066\u308b\u3053\u3068\u3092\u5fd8\u308c\u306a\u3044\u3067\u304f\u308c\u3088\u3002<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 709,
                                 "zh_CN": "\u8fd8\u8bb0\u5f97\u6211\u8ddf\u4f60\u8bf4\u7684\u4e0d\u7a33\u5b9a\u80fd\u91cf\u5417\uff1f<<A<<[CHANGED 2017/10/10]",
@@ -9927,7 +9928,7 @@
                             },
                             "message": {
                                 "": "Be prepared to readjust the probe during the operation in case the Powerspots move around.",
-                                "en_US": "Esteja preparada para reajusatar a sonda durante a operação, caso os Pontos de poder se movimentem",
+                                "en_US": "Esteja pronta para reposicionar a sonda durante a operação, caso os Pontos de Energia se movimentem.",
                                 "ja_JP": "\u4f5c\u6226\u4e2d\u306b\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u306e\u4f4d\u7f6e\u304c\u5909\u308f\u3063\u305f\u6642\u306b\n\u5099\u3048\u3066\u3001\u30d7\u30ed\u30fc\u30d6\u306e\u4f4d\u7f6e\u3092\u518d\u8abf\u6574\u3059\u308b\n\u6e96\u5099\u306f\u3057\u3066\u304a\u3044\u3066\u304f\u308c\u3088\u3002<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 776,
                                 "zh_CN": "\u80fd\u91cf\u70b9\u79fb\u52a8\u4e86\u7684\u8bdd\u8981\u53ca\u65f6\u8c03\u6574\u63a2\u6d4b\u5668\u4f4d\u7f6e\u3002<<A<<[CHANGED 2017/10/10]",
@@ -9985,7 +9986,7 @@
                         }, {
                             "task": {
                                 "": "Knock the \\c[3]Probe\\c[0] on the \\c[3]Powerpoints\\c[0].\n\\c[3]Heat\\c[0]:More knockback\n\\c[3]Cold\\c[0]:Stabilize",
-                                "en_US": "Acerte a \\c[3]Sonda\\c[0] nos \\c[3]Powerpoints\\c[0].\n\\c[3]Fogo\\c[0]: Mais recuo\n\\c[3]Gelo\\c[0]: Estabiliza",
+                                "en_US": "Empurre a \\c[3]Sonda\\c[0] até os \\c[3]Pontos de Energia\\c[0].\n\\c[3]Fogo\\c[0]: Mais distância\n\\c[3]Gelo\\c[0]: Estabilizar",
                                 "langUid": 749,
                                 "zh_CN": "\u628a\\c[3]\u63a2\u6d4b\u5668\\c[0]\u79fb\u52a8\u5230\\c[3]\u80fd\u91cf\u70b9\\c[0]\u4e0a\u3002\n\\c[3\u706b\\c[0]:\u5f3a\u529b\u63a8\u8fdb\n\\c[3]\u51b0\\c[0]:\u7a33\u5b9a<<A<<[CHANGED 2017/10/10]",
                                 "de_DE": "Sto\u00dfe die \\c[3]Sonde\\c[0] auf die \\c[3]Kraftpunkte\\c[0].\n\\c[3]Hitze\\c[0]:gr\u00f6\u00dfere Sto\u00dfkraft\n\\c[3]K\u00e4lte\\c[0]:stabilisieren",
@@ -10034,7 +10035,7 @@
                             },
                             "message": {
                                 "": "Alright, come back when you feel fresh and ready.",
-                                "en_US": "Muito bem, volte quando você se sentir recuperada e pronta",
+                                "en_US": "Muito bem, volte quando você se sentir recuperada e pronta.",
                                 "ja_JP": "\u3088\u3057\u3001\u6c17\u6301\u3061\u304c\u5207\u308a\u66ff\u308f\u3063\u3066\u6e96\u5099\u304c\u3067\u304d\u305f\u3089\u623b\u3063\u3066\u304d\u3066\u304f\u308c\u3002<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 703,
                                 "zh_CN": "\u884c\uff0c\u7b49\u4f60\u51c6\u5907\u597d\u4e86\u518d\u6765\u3002<<A<<[CHANGED 2017/10/10]",
@@ -10092,7 +10093,7 @@
                             },
                             "message": {
                                 "": "You need to \\c[3]push this device around\\c[0] and move it onto certain spots of power in this area, short \\c[3]Powerspots\\c[0].",
-                                "en_US": "Você precisa \\c[3]empurrar este dispositivo\\c[0] e movê-lo para certos pontos de força nesta área, curto \\c[3]Powerspots\\c[0].",
+                                "en_US": "Você deve \\c[3]empurrar o dispositivo\\c[0] e movê-lo para determinados \\c[3]Pontos de Energia\\c[0] nessa área.",
                                 "ja_JP": "\u3053\u306e\u30a8\u30ea\u30a2\u306e\u30d1\u30ef\u30fc\u304c\u96c6\u307e\u3063\u3066\u3044\u308b\u70b9\u3001\\c[3]\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\\c[0]\u306e\u4e0a\u306b\\c[3]\u3053\u306e\u30c7\u30d0\u30a4\u30b9\u3092\u4e57\u305b\u3066\\c[0]\u307b\u3057\u3044\u3093\u3060\u3002<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 739,
                                 "zh_CN": "\u4f60\u8981\\c[3]\u63a8\u52a8\u8fd9\u4e2a\u88c5\u7f6e\\c[0]\uff0c\u5c06\u5176\u79fb\u52a8\u5230\u533a\u57df\u91cc\u6709\u80fd\u91cf\u7684\u5730\u65b9\uff0c\u4e5f\u5c31\u662f\\c[3]\u80fd\u91cf\u70b9\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
@@ -10109,7 +10110,7 @@
                             },
                             "message": {
                                 "": "You can \\c[3]move\\c[0] it by \\c[3]attacking\\c[0].\\. Using \\c[3]Heat\\c[0] will greatly increase the distance and velocity.",
-                                "en_US": "Você pode \\c[3]mover\\c[0] isso com \\c[3]ataques\\c[0].\\. Usando \\c[3]Fogo\\c[0] vai aumentar drásticamente a distância e a velocidade.",
+                                "en_US": "Você pode \\c[3]movê-lo\\c[0] ao \\c[3]atacar\\c[0].\\. Usar \\c[3]Fogo\\c[0] aumentará bastante a distância e velocidade.",
                                 "ja_JP": "\\c[3]\u653b\u6483\\c[0]\u3059\u308c\u3070\u3053\u3044\u3064\u3092\\c[3]\u79fb\u52d5\\c[0]\u3055\u305b\u3089\u308c\u308b\u3002\\.\\c[3]\u706b\u708e\u30e2\u30fc\u30c9\\c[0]\u3092\u4f7f\u3048\u3070\u3001\u79fb\u52d5\u8ddd\u96e2\u3068\u901f\u5ea6\u304c\u3050\u3093\u3068\u4f38\u3073\u308b\u305e\u3002<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 721,
                                 "zh_CN": "\u4f60\u53ef\u4ee5\u901a\u8fc7\\c[3]\u653b\u51fb\\c[0]\u6765\\c[3]\u79fb\u52a8\\c[0]\u5b83\u3002\\.\u4f7f\u7528\\c[3]\u706b\\c[0]\u653b\u51fb\u53ef\u4ee5\u6781\u5927\u7684\u63d0\u9ad8\u79fb\u52a8\u8ddd\u79bb\u548c\u901f\u5ea6\u3002<<A<<[CHANGED 2017/10/10]",
@@ -10126,7 +10127,7 @@
                             },
                             "message": {
                                 "": "Approaching a Powerspot will usually attract some \\c[3]hostile wildlife\\c[0] that will protect those places.",
-                                "en_US": "A aproximação de um Powerspot geralmente atrairá alguns \\c[3]animais selvagens\\c[0] que vão proteger esses lugares.",
+                                "en_US": "Se você se aproximar de um Ponto de poder, vai \\c[3]atrair animais selvagens\\c[0] que vão te atacar.",
                                 "ja_JP": "\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u306b\u8fd1\u3065\u304f\u3068\u3001\u901a\u5e38\u306f\\c[3]\u6575\u610f\u306e\u3042\u308b\u91ce\u751f\u52d5\u7269\\c[0]\u304c\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u3092\u5b88\u308b\u305f\u3081\u306b\u3084\u3063\u3066\u304f\u308b\u3002<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 741,
                                 "zh_CN": "\u63a5\u8fd1\u80fd\u91cf\u70b9\u4f1a\u5f15\u6765\\c[3]\u4fdd\u62a4\u8be5\u5730\u7684\u91ce\u751f\u52a8\u7269\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
@@ -10143,7 +10144,7 @@
                             },
                             "message": {
                                 "": "The Powerspots will grant them a \\c[3]shield\\c[0] that is almost impenetrable, meaning invincible enemies.",
-                                "en_US": "Os Powerspots vão garantir a eles um \\c[3]escudo\\c[0] que é quase impenetrável, resultando em inimigos invencíveis",
+                                "en_US": "Os Pontos de Energia vão dar a elas uma \\c[3]barreira\\c[0] quase impetetrável!\\. Deixando essas criaturas furiosas invencíveis.",
                                 "ja_JP": "\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u306f\u3001\u52d5\u7269\u305f\u3061\u306b\u307b\u3068\u3093\u3069\u8cab\u901a\u4e0d\u80fd\u306e\\c[3]\u30b7\u30fc\u30eb\u30c9\\c[0]\u3092\u4e0e\u3048\u308b\u3002\u3064\u307e\u308a\u3001\u5012\u305b\u306a\u3044\u6575\u306e\u3067\u304d\u3042\u304c\u308a\u3063\u3066\u308f\u3051\u3060\u3002<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 742,
                                 "zh_CN": "\u80fd\u91cf\u70b9\u4f1a\u7ed9\u5b83\u4eec\u51e0\u4e4e\u65e0\u654c\u7684\\c[3]\u62a4\u76fe\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
@@ -10160,7 +10161,7 @@
                             },
                             "message": {
                                 "": "\\c[3]Placing the probe on an active Powerspot\\c[0] will \\c[3]deactivate the shield\\c[0], though, so that's a priority!",
-                                "en_US": "\\c[3]Colocando a sonda em um Powerspot ativo\\c[0] vai \\c[3]desativar o escudo\\c[0], portanto, isso é uma prioridade!",
+                                "en_US": "\\c[3]Posicionar a sonda em um Ponto de poder ativo\\c[0] irá \\c[3]desativar a barreira\\c[0] das criaturas.",
                                 "ja_JP": "\\c[3]\u30a2\u30af\u30c6\u30a3\u30d6\u306a\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u306e\u4e0a\u306b\u30d7\u30ed\u30fc\u30d6\u3092\u4e57\u305b\u308b\\c[0]\u3068\u3001\\c[3]\u30b7\u30fc\u30eb\u30c9\u3092\u7121\u52b9\u5316\u3067\u304d\u308b\\c[0]\u3002\u3060\u304b\u3089\u3001\u305d\u308c\u304c\u6700\u512a\u5148\u4e8b\u9805\u3060\uff01<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 743,
                                 "zh_CN": "\u4f46\\c[3]\u5f53\u63a2\u6d4b\u5668\u88ab\u653e\u7f6e\u5230\u6fc0\u6d3b\u4e86\u7684\u80fd\u91cf\u70b9\u4e0a\u65f6\\c[0]\uff0c\u5b83\u5c06\\c[3]\u89e3\u9664\u62a4\u76fe\\c[0]\uff0c\u6240\u4ee5\u4e00\u5b9a\u8981\u6ce8\u610f\uff01<<A<<[CHANGED 2017/10/10]",
@@ -10177,7 +10178,7 @@
                             },
                             "message": {
                                 "": "Make sure it doesn't get knocked away again.\\. Hitting it with \\c[3]Cold\\c[0] will \\c[3]stabilize\\c[0] it for a bit which should help.",
-                                "en_US": "Tenha certeza de não ser nocauteada de de novo.\\. Arcertando isso com \\c[3]Gelo\\c[0] vai \\c[3]estabilizar\\c[0] um pouco, o que pode ajudar.",
+                                "en_US": "Não deixe ela ser empurrada para longe de novo.\\. Acerte a sonda com \\c[3]Gelo\\c[0] para deixá-la \\c[3]paralisada\\c[0] por um tempo, isso vai ajudar.",
                                 "ja_JP": "\u30d7\u30ed\u30fc\u30d6\u304c\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u304b\u3089\u5916\u308c\u306a\u3044\u3088\u3046\u306b\u6c17\u3092\u3064\u3051\u3066\u304f\u308c\u3002\\.\\c[3]\u51b7\u6c17\u30e2\u30fc\u30c9\\c[0]\u3067\u653b\u6483\u3059\u308c\u3070\u3001\u30d7\u30ed\u30fc\u30d6\u3092\u5c11\u3057\u306e\u9593\\c[3]\u56fa\u5b9a\\c[0]\u3067\u304d\u308b\u3002<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 744,
                                 "zh_CN": "\u540c\u65f6\u8fd8\u8981\u5c0f\u5fc3\u522b\u8ba9\u88c5\u7f6e\u88ab\u6253\u98de\u4e86\u3002\\.\u4f7f\u7528\\c[3]\u51b0\\c[0]\u653b\u51fb\u53ef\u4ee5\u5c06\u5176\\c[3]\u7a33\u5b9a\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
@@ -10211,7 +10212,7 @@
                             },
                             "message": {
                                 "": "I hope you got it now, \\v[lore.title.seeker].",
-                                "en_US": "Espero que você tenha conseguido agora, \\v[lore.title.seeker].",
+                                "en_US": "Espero que você tenha entendido agora, \\v[lore.title.seeker].",
                                 "ja_JP": "\u3053\u308c\u3067\u308f\u304b\u3063\u3066\u3082\u3089\u3048\u305f\u304b\u306a\u3001\\v[lore.title.seeker]\u3055\u3093\u3002<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 746,
                                 "zh_CN": "\u8fd9\u4e0b\u542c\u660e\u767d\u4e86\u5427\uff0c\\v[lore.title.seeker]\u3002<<A<<[CHANGED 2017/10/10]",
@@ -10375,7 +10376,7 @@
                     },
                     "text": {
                         "": "[Powerspot unstable]",
-                        "en_US": "[Powerspot instável]",
+                        "en_US": "[Ponto de Energia instável]",
                         "langUid": 765,
                         "zh_CN": "[\u80fd\u91cf\u70b9\u4e0d\u7a33\u5b9a]<<A<<[CHANGED 2017/10/10]",
                         "de_DE": "[Kraftpunkt instabil]",
@@ -10466,6 +10467,7 @@
                             },
                             "text": {
                                 "": "\\v[tmp.questBall-markerText]",
+                                "en_US": "\\v[tmp.questBall-markerText]",
                                 "langUid": 757,
                                 "zh_CN": "\\v[tmp.questBall-markerText]<<A<<[CHANGED 2017/10/10]",
                                 "de_DE": "\\v[tmp.questBall-markerText]<<C<<IGNORE",
@@ -10514,6 +10516,7 @@
                             },
                             "text": {
                                 "": "\\v[tmp.questBall-markerText]",
+                                "en_US": "\\v[tmp.questBall-markerText]",
                                 "langUid": 758,
                                 "zh_CN": "\\v[tmp.questBall-markerText]<<A<<[CHANGED 2017/10/10]",
                                 "de_DE": "\\v[tmp.questBall-markerText]<<C<<IGNORE",
@@ -10562,6 +10565,7 @@
                             },
                             "text": {
                                 "": "\\v[tmp.questBall-markerText]",
+                                "en_US": "\\v[tmp.questBall-markerText]",
                                 "langUid": 759,
                                 "zh_CN": "\\v[tmp.questBall-markerText]<<A<<[CHANGED 2017/10/10]",
                                 "de_DE": "\\v[tmp.questBall-markerText]<<C<<IGNORE",
@@ -10610,6 +10614,7 @@
                             },
                             "text": {
                                 "": "\\v[tmp.questBall-markerText]",
+                                "en_US": "\\v[tmp.questBall-markerText]",
                                 "langUid": 760,
                                 "zh_CN": "\\v[tmp.questBall-markerText]<<A<<[CHANGED 2017/10/10]",
                                 "de_DE": "\\v[tmp.questBall-markerText]<<C<<IGNORE",
@@ -10658,6 +10663,7 @@
                             },
                             "text": {
                                 "": "\\v[tmp.questBall-markerText]",
+                                "en_US": "\\v[tmp.questBall-markerText]",
                                 "langUid": 761,
                                 "zh_CN": "\\v[tmp.questBall-markerText]<<A<<[CHANGED 2017/10/10]",
                                 "de_DE": "\\v[tmp.questBall-markerText]<<C<<IGNORE",
@@ -11880,7 +11886,7 @@
             }, {
                 "message": {
                     "": "Talk to our leader for rewards, you know the drill.\\. Now excuse me, I gotta get going.",
-                    "en_US": "Fale com nosso líder para receber as recompensas, você sabe como funciona.\\. Agora, com licença, tenho que ir andando.",
+                    "en_US": "Fale com nossa líder para receber as recompensas.\\. Agora, com licença, tenho que ir andando.",
                     "ja_JP": "\u30ea\u30fc\u30c0\u30fc\u306b\u8a71\u3057\u3066\u5831\u916c\u3092\u3082\u3089\u3046\u3068\u3044\u3044\u3002\u624b\u9806\u306f\u308f\u304b\u308b\u3060\u308d\u3002\\.\u3058\u3083\u3042\u5931\u793c\u3059\u308b\u3088\u3001\u3082\u3046\u884c\u304b\u306a\u3044\u3068\u3002<<A<<[CHANGED 2017/11/04]",
                     "langUid": 774,
                     "zh_CN": "\u56de\u53bb\u8ddf\u6211\u4eec\u8001\u5927\u9886\u8d4f\u5427\u3002\\.\u6211\u5f97\u8d70\u4e86\uff0c\u518d\u89c1\u3002<<A<<[CHANGED 2017/10/10]",

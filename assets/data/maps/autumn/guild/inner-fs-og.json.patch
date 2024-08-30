@@ -1957,7 +1957,7 @@
                   {
                     "message": {
                       "": "That's good. Hexacasts shine the most when in a party.",
-                      "en_US": "Isso é bom. Os Hexacasts brilham mais quando estão em um grupo.",
+                      "en_US": "Isso é bom. Os Hexamagos brilham mais quando estão em um grupo.",
                       "de_DE": "Das ist gut. Hexacasts sind am st\u00e4rksten, wenn sie in einer Gruppe sind.",
                       "zh_CN": "\u633a\u597d\u3002\u9646\u5408\u6cd5\u5e08\u5c31\u662f\u8981\u7ec4\u961f\u624d\u80fd\u4f53\u73b0\u51fa\u5176\u5b9e\u529b\u3002<<A<<[CHANGED 2018/03/14]",
                       "ja_JP": "\u305d\u308c\u306f\u3088\u304b\u3063\u305f\u3002\u30d8\u30ad\u30b5\u30ad\u30e3\u30b9\u30c8\u306f\n\u30d1\u30fc\u30c6\u30a3\u30fc\u306b\u3044\u308b\u3068\u304d\u3053\u305d\u6d3b\u8e8d\u3067\u304d\u308b\u304b\u3089\u306a\u3002<<A<<[CHANGED 2018/03/14]",
@@ -1975,7 +1975,7 @@
                   {
                     "message": {
                       "": "That's true. Now that you mention it, I should probably learn a few more buff and debuff skills.",
-                      "en_US": "Isso é verdade. Agora que você mencionou isso, eu provavelmente deveria aprender mais algumas habilidades de buff e debuff.",
+                      "en_US": "Isso é verdade. Agora que você mencionou, eu devia aprender mais sobre habilidades de buff e debuff.",
                       "de_DE": "Stimmt. Jetzt, wo du es erw\u00e4hnst, sollte ich wohl besser ein paar mehr Buff- und Debuff-Circuits lernen.",
                       "fr_FR": "fr_FR",
                       "zh_CN": "\u6ca1\u9519\u3002\u8bf4\u9053\u8fd9\u4e2a\uff0c\u6211\u60f3\u6211\u662f\u65f6\u5019\u8be5\u5b66\u51e0\u4e2abuff\u548cdebuff\u6280\u80fd\u4e86\u3002",
@@ -2012,7 +2012,7 @@
                   {
                     "message": {
                       "": "Actually... I have a lot more questions about this class. You seem very experienced, so if you don't mind me asking...",
-                      "en_US": "Na verdade... Eu tenho muito mais perguntas sobre esta classe. Você parece muito experiente, então se não se importa que eu pergunte...",
+                      "en_US": "Na verdade... Eu tenho muitas perguntas sobre essa classe. Você parece experiente, então, se não se importar, posso te perguntar algumas coisas?",
                       "de_DE": "Eigentlich... habe ich noch viel mehr Fragen zum Hexacast. Du scheinst viel Erfahrung zu haben. Wenn es dir also nichts ausmacht...",
                       "fr_FR": "fr_FR",
                       "zh_CN": "\u5176\u5b9e...\u6211\u6709\u5f88\u591a\u5173\u4e8e\u8fd9\u4e2a\u804c\u4e1a\u7684\u95ee\u9898\u60f3\u95ee\u3002\u4f60\u770b\u8d77\u6765\u7ecf\u9a8c\u4e30\u5bcc\uff0c\u4e0d\u4ecb\u610f\u6211\u95ee\u51e0\u4e2a\u95ee\u9898\u5427...<<A<<[CHANGED 2017/07/11]",
@@ -2031,7 +2031,7 @@
                   {
                     "message": {
                       "": "Oh bother... Maybe another time.",
-                      "en_US": "Ah, não... Talvez em algum outro momento",
+                      "en_US": "Ah, não... Talvez em algum outro momento.",
                       "de_DE": "Ah, nee... Vielleicht ein andermal.",
                       "zh_CN": "\u5443...\u4ee5\u540e\u5427\u3002",
                       "ja_JP": "\u3042\u3042\u3001\u307e\u3063\u305f\u304f...\u305d\u308c\u306f\u6b21\u306e\u6a5f\u4f1a\u306b\u306a\u3002<<A<<[CHANGED 2017/08/03]",
@@ -2049,7 +2049,7 @@
                   {
                     "message": {
                       "": "You're still early in the game, anyway. Not too much you can do wrong now.",
-                      "en_US": "Você ainda está no início do jogo, de qualquer forma. Não há muito que você possa fazer de errado agora.",
+                      "en_US": "Você ainda está no início do jogo. Não há muito que você possa fazer de errado agora.",
                       "de_DE": "Du bist doch noch am Anfang des Spiels. Da kann eigentlich gar nichts schiefgehen.",
                       "zh_CN": "\u4f60\u8fd8\u5728\u6e38\u620f\u521d\u671f\uff0c\u65e9\u7740\u5462\u3002\u73b0\u5728\u4e5f\u72af\u4e0d\u4e86\u9519\uff0c\u6309\u6d41\u7a0b\u8d70\u5c31\u884c\u3002",
                       "ja_JP": "\u304a\u524d\u306f\u307e\u3060\u30b2\u30fc\u30e0\u3092\u306f\u3058\u3081\u305f\u3070\u304b\u308a\u306a\u3093\u3060\u3002\n\u4eca\u306e\u3046\u3061\u306f\u305d\u3046\u305d\u3046\u9593\u9055\u3046\u3053\u3068\u306a\u3069\u306a\u3044\u3055\u3002<<A<<[CHANGED 2017/08/03]",

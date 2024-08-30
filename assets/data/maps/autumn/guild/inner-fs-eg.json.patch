@@ -2522,7 +2522,7 @@
               {
                 "message": {
                   "": "Holer\u00f6! Back in the game, I see? That's very good.",
-                  "en_US": "Holer\u00f6! De volta ao jogo, isso é muito bom.",
+                  "en_US": "Holer\u00f6! Estou vendo que você voltou a ficar on-line, isso é ótimo.",
                   "de_DE": "Holer\u00f6! Wieder online, wie ich sehe? Das ist sehr gut.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u96f7\u543c\uff01\u4e0a\u7ebf\u5566\uff1f\u4e0d\u9519\u3002",
@@ -2648,7 +2648,7 @@
                   {
                     "message": {
                       "": "You knew it and you could have told me several times since the quiz!",
-                      "en_US": "Você sabia disso e poderia ter me dito várias vezes desde o teste!",
+                      "en_US": "Você sabia disso e poderia ter me dito antes!",
                       "de_DE": "Du wusstest es seit dem Quiz! Du h\u00e4ttest es mir sagen sollen!",
                       "fr_FR": "fr_FR",
                       "zh_CN": "\u4ece\u6d4b\u8bd5\u90a3\u65f6\u5019\u4f60\u5c31\u77e5\u9053\u4e86\u53c8\u4e00\u76f4\u6ca1\u544a\u8bc9\u6211\uff01",
@@ -2724,7 +2724,7 @@
                   {
                     "message": {
                       "": "Great. Very bright outlooks for me.",
-                      "en_US": "Ótimo. Perspectivas muito brilhantes para mim.",
+                      "en_US": "Ótimo. Isso é muito promissor para mim.",
                       "de_DE": "Na das kann ja heiter werden.",
                       "fr_FR": "fr_FR",
                       "zh_CN": "\u5567\u5567\uff0c\u770b\u6765\u6211\u524d\u9014\u4e00\u7247\u9ed1\u6697\u554a\u3002",
@@ -4959,7 +4959,7 @@
                 {
                   "message": {
                     "": "I was planning to hold a small briefing today to explain all the details to you.",
-                    "en_US": "Eu estava planejando montar um pequeno briefing hoje para explicar todos os detalhes para vocês.",
+                    "en_US": "Eu estava planejando fazer uma reuinão hoje para explicar todos os detalhes para vocês.",
                     "de_DE": "Ich habe mir \u00fcberlegt, euch eine kleine Einweisung zu geben, um euch die Details zu erkl\u00e4ren.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u6211\u51c6\u5907\u4eca\u5929\u5f00\u4e2a\u7b80\u4f1a\uff0c\u7ed9\u5927\u5bb6\u8bb2\u4e00\u4e0b\u4e0b\u672c\u7684\u7ec6\u8282\u3002<<A<<[CHANGED 2017/07/07]",
@@ -14579,7 +14579,7 @@
           {
             "message": {
               "": "This is perfect, because for this raid we'll be split in two teams of 3 people each.",
-              "en_US": "Isso é perfeito, pois para essa raid nós iremos nos dividir em dois times de 3 pessoas.",
+              "en_US": "Isso é perfeito, pois para essa raid nós iremos nos dividir em duas equipes de 3 pessoas.",
               "de_DE": "Das ist perfekt, denn so k\u00f6nnen wir uns in zwei Dreier-Teams aufteilen.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u5176\u5b9e\u521a\u597d\uff0c\u56e0\u4e3a\u8fd9\u4e2a\u672c\u6211\u4eec\u8981\u5206\u6210\u4e24\u4e2a\u4e09\u4eba\u5c0f\u7ec4\u6765\u6253\u3002",
@@ -14607,7 +14607,7 @@
           {
             "message": {
               "": "The mid-level team with \\c[3]Lea\\c[0], \\c[3]Emilie\\c[0], and \\c[3]Tronny\\c[0]...",
-              "en_US": "O time de nível médio com \\c[3]Lea\\c[0], \\c[3]Emilie\\c[0], e \\c[3]Tronny\\c[0]...",
+              "en_US": "A equipe de nível médio com \\c[3]Lea\\c[0], \\c[3]Emilie\\c[0], e \\c[3]Tronny\\c[0]...",
               "de_DE": "Das Mid Level-Team mit \\c[3]Lea\\c[0], \\c[3]Emilie\\c[0] und \\c[3]Tronny\\c[0]...",
               "fr_FR": "fr_FR",
               "zh_CN": "\u7531\\c[3]\u8389\u4e9a\\c[0], \\c[3]\u827e\u7c73\u8389\\c[0],\u548c\\c[3]\u9686\u9686\\c[0]\u7ec4\u6210\u7684\u4e2d\u7ea7\u56e2\u961f...",
@@ -14632,7 +14632,7 @@
           {
             "message": {
               "": "...and the high-level team with \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0], and \\c[3]me\\c[0]!",
-              "en_US": "...e o time de nível alto com \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0], e \\c[3]euzinha\\c[0]!",
+              "en_US": "...e a equipe de nível alto com \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0], e \\c[3]euzinha\\c[0]!",
               "de_DE": "... und das High Level-Team mit \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0] und \\c[3]mir\\c[0]!",
               "fr_FR": "fr_FR",
               "zh_CN": "...\u8fd8\u6709\\c[3]\u5362\u5361\u65af\\c[0], \\c[3]\u963f\u866b\\c[0], \u548c\\c[3]\u6211\\c[0]\u7ec4\u6210\u7684\u9ad8\u7ea7\u56e2\u961f\uff01",
@@ -14657,7 +14657,7 @@
           {
             "message": {
               "": "The raid is balanced to match the average level of each team, so this will work just fine despite our level-difference.",
-              "en_US": "A raid é balanceada de acordo com o nível médio de cada time, então isso vai funcionar bem apesar da nossa diferença de níveis.",
+              "en_US": "A raid é balanceada de acordo com o nível médio de cada equipe, então isso vai funcionar bem apesar da nossa diferença de níveis.",
               "de_DE": "Der Raid ist darauf ausgerichtet, sich dem Durchschnittslevel jedes Teams anzupassen, also sollte unser Levelunterschied kein Problem sein.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u8fd9\u4e2a\u672c\u4f1a\u6839\u636e\u961f\u4f0d\u5e73\u5747\u7b49\u7ea7\u81ea\u52a8\u8c03\u6574\u96be\u5ea6\uff0c\u6240\u4ee5\u6211\u4eec\u516c\u4f1a\u5927\u5bb6\u7b49\u7ea7\u4e0d\u540c\u4e5f\u6ca1\u95ee\u9898\u3002<<A<<[CHANGED 2017/07/07]",
@@ -14698,7 +14698,7 @@
               {
                 "message": {
                   "": "What?\\. Lea is in the \\c[1]mid-level\\c[0] team?\\. Are you sure about that?",
-                  "en_US": "O que?\\. Lea está no time de \\c[1]nível médio\\c[0]?\\. Você tem certeza disso?",
+                  "en_US": "O que?\\. Lea está na equipe de \\c[1]nível médio\\c[0]?\\. Você tem certeza disso?",
                   "langUid": 1602,
                   "ja_JP": "\u3048\u3063\uff1f\\.\u30ec\u30a2\u306f\\c[1]\u4e2d\u30ec\u30d9\u30eb\\c[0]\u30c1\u30fc\u30e0\u306b\u5165\u308b\u306e\uff1f\n\u305d\u308c\u3001\u672c\u6c17\u3067\u8a00\u3063\u3066\u307e\u3059\uff1f<<A<<[CHANGED 2019/08/16]",
                   "zh_CN": "\u4ec0\u4e48?\\.\u8389\u4e9a\u5728\\c[1]\u4e2d\u7b49\u7ea7\\c[0]\u961f\u4f0d\u91cc?\\.\u4f60\u786e\u5b9a\u5417?<<A<<[CHANGED 2019/08/16]",
@@ -14726,7 +14726,7 @@
               {
                 "message": {
                   "": "Well...\\. we had to split everyone in two equal-sized teams, so...",
-                  "en_US": "Bem... \\. nós temos que dividir o pessoal em times com a mesma quantidade, então...",
+                  "en_US": "Bem... \\. nós temos que dividir o pessoal em equipes com a mesma quantidade, então...",
                   "de_DE": "Nun ja...\\. Wir m\u00fcssen ja zwei gleich gro\u00dfe Teams bilden, von daher...",
                   "zh_CN": "\u5443...\\.\u6bd5\u7adf\u4e24\u8fb9\u4eba\u6570\u8981\u4e00\u6837\uff0c\u6240\u4ee5...<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u3048\u3063\u3068...\\.\u3060\u3063\u3066\u3001\u307f\u3093\u306a\u3092\n\u540c\u3058\u4eba\u6570\u30672\u3064\u306e\u30c1\u30fc\u30e0\u306b\n\u5206\u3051\u306a\u304d\u3083\u3044\u3051\u306a\u304b\u3063\u305f\u304b\u3089...<<A<<[CHANGED 2019/08/16]",
@@ -14744,7 +14744,7 @@
               {
                 "message": {
                   "": "Fine!\\. Both teams will fight together anyway, right?",
-                  "en_US": "Beleza!\\. Os dois times vão lutar juntos afinal de contas, certo?",
+                  "en_US": "Beleza!\\. As duas equipes vão lutar juntas, não é?",
                   "langUid": 1603,
                   "ja_JP": "\u307e\u3042\u3001\u308f\u304b\u308a\u307e\u3057\u305f\uff01\\.\n\u3068\u306b\u304b\u304f\u30012\u3064\u306e\u30c1\u30fc\u30e0\u304c\n\u4e00\u7dd2\u306b\u6226\u3046\u3093\u3067\u3059\u3088\u306d\uff1f<<A<<[CHANGED 2019/08/16]",
                   "zh_CN": "\u597d\u5427\uff01\\.\u53cd\u6b63\u4e24\u8fb9\u662f\u5408\u4f5c\uff01 <<A<<[CHANGED 2019/08/16]",
@@ -14799,7 +14799,7 @@
           {
             "message": {
               "": "Sorry dear, not directly. Both teams will be on separate tracks running next to each other.",
-              "en_US": "Desculpe querida, não diretamente. Os dois times estarão em trilhas separadas, correndo um ao lado do outro.",
+              "en_US": "Desculpe querida, não diretamente. As duas equipes estarão em trilhas separadas, correndo um ao lado do outro.",
               "de_DE": "Nicht direkt, Liebes, tut mir leid. Beide Teams werden auf verschiedenen Pfaden nebeneinander laufen.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u62b1\u6b49\uff0c\u4eb2\u7231\u7684\uff0c\u5e76\u4e0d\u662f\u8fd9\u6837\u3002\u6211\u4eec\u4e24\u961f\u5c06\u5e73\u884c\u4f5c\u6218\uff0c\u5404\u6253\u4e0d\u540c\u7684\u8def\u3002",
@@ -14927,7 +14927,7 @@
               {
                 "message": {
                   "": "Oh, I'd like to see that! Luke, you should swap places with Emilie!",
-                  "en_US": "Ohh, bom ouvir isso! Luke, você deveria trocar de lugar com a Emilie!",
+                  "en_US": "Ha! Eu adoraria ver isso! Luke, você devia trocar de lugar com a Emilie!",
                   "de_DE": "Oh, das w\u00fcrde ich gerne sehen! Luke, du solltest mit Emilie den Platz tauschen!",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u563f\uff0c\u90a3\u611f\u60c5\u597d\uff01\u5362\u5361\u65af\u4f60\u8ddf\u827e\u7c73\u8389\u6362\u4f4d\u7f6e\u5427\uff01",
@@ -15002,7 +15002,7 @@
           {
             "message": {
               "": "We might be on separate tracks, but there is still a collaboration between the two teams.",
-              "en_US": "Nós estaremos em trilhas separadas, mas ainda haverá uma colaboração entre os dois times.",
+              "en_US": "Nós estaremos em trilhas separadas, mas ainda haverá uma colaboração entre as duas equipes.",
               "de_DE": "Wir sind zwar auf verschiedenen Pfaden, aber trotzdem m\u00fcssen wir zusammenarbeiten.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u6211\u4eec\u867d\u7136\u8d70\u7684\u4e0d\u540c\u7ebf\u8def\uff0c\u4f46\u662f\u4ecd\u7136\u9700\u8981\u4e24\u961f\u534f\u4f5c\u3002",
@@ -15025,7 +15025,7 @@
           {
             "message": {
               "": "It's those pillar enemies, right?",
-              "en_US": "São aqueles inimigos dos pilares, certo?",
+              "en_US": "Vamos enfrentar aqueles inimigos dos pilares, não é?",
               "de_DE": "Wegen dieser S\u00e4ulen-Gegner, richtig?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u5c31\u662f\u90a3\u4e9b\u67f1\u5b50\u602a\u5427\uff1f",
@@ -15041,7 +15041,7 @@
           {
             "message": {
               "": "That's correct! Essentially both teams have to attack the right targets at the same time.",
-              "en_US": "Correto! Essencialmente ambos os times têm que atacar os alvos certos ao mesmo tempo.",
+              "en_US": "Correto! Ambas as equipes devem atacar os alvos certos ao mesmo tempo.",
               "de_DE": "Genau! Beide Teams m\u00fcssen n\u00e4mlich die richtigen Ziele zur gleichen Zeit angreifen.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u6ca1\u9519\uff01\u4e24\u961f\u5fc5\u987b\u540c\u65f6\u5f00\u59cb\u653b\u51fb\u3002",
@@ -15155,7 +15155,7 @@
           {
             "message": {
               "": "Also, be aware that there will be a tricky boss enemy at the end for each team.",
-              "en_US": "Além disso, esteja ciente de que haverá um chefão complicado no final para cada time.",
+              "en_US": "Além disso, esteja ciente de que haverá um chefão complicado no final para cada equipe.",
               "de_DE": "Oh, eins noch! Jedes Team wird am Ende auf einen kniffligen Boss treffen.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u5bf9\u4e86\uff0c\u6211\u4eec\u4e24\u961f\u90fd\u6709\u5404\u81ea\u7684\u5173\u5e95Boss\u3002",
@@ -15174,7 +15174,7 @@
           {
             "message": {
               "": "So make sure to be well prepared, eh?",
-              "en_US": "Portanto, certifiquem-se de estar bem preparados, certo?",
+              "en_US": "Portanto, estejam bem preparados, entendido?",
               "de_DE": "Also, bereitet euch gut vor, ja?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u6240\u4ee5\u8981\u51c6\u5907\u597d\u54e6\uff1f",
@@ -15244,7 +15244,7 @@
           {
             "message": {
               "": "Our slot is reserved for tomorrow afternoon in-game time. Make sure you're not too late!",
-              "en_US": "Nosso espaço é reservado para a tarde de amanhã, no horário do jogo. É bom que você não chegue muito tarde!",
+              "en_US": "Nosso espaço de tempo está reservado para amanhã à tarde. É bom que vocês não cheguem muito tarde!",
               "de_DE": "Unser Zeitfenster ist f\u00fcr morgen Nachmittag In-Game-Zeit reserviert. Kommt also nicht zu sp\u00e4t!",
               "fr_FR": "fr_FR",
               "zh_CN": "\u6211\u4eec\u5b89\u6392\u5728\u660e\u5929\u6e38\u620f\u65f6\u95f4\u4e2d\u5348\u3002\u522b\u6765\u8fdf\u4e86\uff01",
@@ -15311,7 +15311,7 @@
           {
             "message": {
               "": "Alright, sounds good!",
-              "en_US": "Muito bem, parece ótimo!",
+              "en_US": "Muito bom, parece ótimo!",
               "de_DE": "Alles klar, h\u00f6rt sich gut an!",
               "fr_FR": "fr_FR",
               "zh_CN": "\u6ca1\u95ee\u9898\uff01",
@@ -15669,7 +15669,7 @@
           {
             "message": {
               "": "Huh?\\. So they still have connection errors these days?",
-              "en_US": "Hein?\\. Então eles ainda têm esses erros de conexão hoje em dia?",
+              "en_US": "Que?\\. Então eles ainda têm esses erros de conexão hoje em dia?",
               "de_DE": "Was?\\. Es gibt heutzutage immer noch Verbindungsfehler?",
               "fr_FR": "fr_FR",
               "zh_CN": "\u54c8\uff1f\\.\u6389\u7ebf\u95ee\u9898\u5230\u73b0\u5728\u8fd8\u6ca1\u89e3\u51b3\u5417\uff1f",
@@ -15719,7 +15719,7 @@
           {
             "message": {
               "": "No, that's not a connection error, strictly speaking.",
-              "en_US": "Não, isso não é um erro de conexão, estritamente falando.",
+              "en_US": "Não, estritamente falando, não é um erro de conexão.",
               "de_DE": "Nein, genau genommen ist es kein Verbindungsfehler.",
               "zh_CN": "\u4e25\u683c\u6765\u8bf4\u4e0d\u662f\u6389\u7ebf\u3002",
               "ja_JP": "\u3044\u3084\u3001\u63a5\u7d9a\u30a8\u30e9\u30fc\u3067\u306f\u306a\u3044\u3093\u3060\u3002\n\u53b3\u5bc6\u306b\u8a00\u3048\u3070\u306a\u3002<<A<<[CHANGED 2017/08/03]",
@@ -15734,7 +15734,7 @@
           {
             "message": {
               "": "It's one of the avatar servers failing.",
-              "en_US": "Isso é um dos servers dos avatares falhando.",
+              "en_US": "Um dos servidores dos avatares está fora do ar.",
               "de_DE": "Einer der Avatarserver ist abgest\u00fcrzt.",
               "zh_CN": "\u662f\u865a\u62df\u4eba\u7269\u670d\u52a1\u5668\u5931\u5e38\u4e86\u3002",
               "ja_JP": "\u30a2\u30d0\u30bf\u30fc\u306e\u30b5\u30fc\u30d0\u30fc\u306e1\u3064\u304c\u843d\u3061\u305f\u306e\u3055\u3002<<A<<[CHANGED 2017/08/03]",
@@ -15816,7 +15816,7 @@
           {
             "message": {
               "": "Oh, I see!",
-              "en_US": "Ah, estou vendo!",
+              "en_US": "Ah, entendi!",
               "de_DE": "Ah, verstehe!",
               "fr_FR": "fr_FR",
               "zh_CN": "\u8fd9\u6837\u554a\uff01",
@@ -15872,7 +15872,7 @@
           {
             "message": {
               "": "Al...\\. please mind the immersion.",
-              "en_US": "Al...\\. por favor, cuidado com a imersão.",
+              "en_US": "Al...\\. por favor, lembre-se da imersão.",
               "de_DE": "Al...\\. Denk bitte an die Immersion.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u57c3\u5c14...\\.\u4e0d\u8981\u5728\u6e38\u620f\u91cc\u804a\u8fd9\u4e2a\u3002",
@@ -16128,7 +16128,7 @@
           {
             "message": {
               "": "Yes... same for me, actually.",
-              "en_US": "Sim... o mesmo pra mim, na verdade.",
+              "en_US": "Sim... eu também vou sair, na verdade.",
               "de_DE": "Ja... Geht mir genauso.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u55ef...\u6211\u4e5f\u662f\u3002",
@@ -17092,7 +17092,7 @@
           {
             "message": {
               "": "Actually, about the dream you had before this...",
-              "en_US": "Na verdade, sobre o sonho que você teve antes disso...",
+              "en_US": "A propósito, sobre o sonho que você teve antes...",
               "de_DE": "Warte mal, der Traum den du vor diesem hattest...",
               "fr_FR": "fr_FR",
               "zh_CN": "\u5bf9\u4e86\uff0c\u5173\u4e8e\u4f60\u4e0a\u6b21\u90a3\u4e2a\u68a6...",
@@ -17332,7 +17332,7 @@
           {
             "message": {
               "": "It is still a ways off, but we will reach it eventually.",
-              "en_US": "Ainda é um caminho a percorrer, mas vamos chegar lá.",
+              "en_US": "Ainda vai demorar um pouco, mas vamos chegar lá.",
               "de_DE": "Es dauert noch eine Weile, aber wir kommen schon noch dorthin.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u867d\u7136\u8fd8\u633a\u8fdc\uff0c\u4f46\u662f\u6211\u4eec\u4f1a\u5230\u7684\u3002<<A<<[CHANGED 2017/10/13]",
@@ -17380,7 +17380,7 @@
           {
             "message": {
               "": "Well then, let us continue with today's schedule!",
-              "en_US": "Pois bem, continuemos com a programação de hoje!",
+              "en_US": "Muito bem, vamos continuar com a programação de hoje!",
               "de_DE": "Also dann, ans Tagewerk!",
               "fr_FR": "fr_FR",
               "zh_CN": "\u597d\u4e86\uff0c\u90a3\u6211\u4eec\u7ee7\u7eed\u4eca\u5929\u7684\u65e5\u7a0b\u5427\uff01",
@@ -34943,7 +34943,7 @@
           {
             "message": {
               "": "We'll split everyone into two teams that run in parallel.",
-              "en_US": "Nós vamos dividr todos em dois times que trabalham paralelamente.",
+              "en_US": "Nós vamos dividr todos em duas equipes que trabalham paralelamente.",
               "de_DE": "Wir werden uns in zwei Teams aufteilen, die auf zwei Pfaden parallel laufen.",
               "zh_CN": "\u6211\u4eec\u5206\u4e3a\u4e24\u961f\uff0c\u5e73\u884c\u653b\u7565\u3002<<A<<[CHANGED 2020/06/17]",
               "ja_JP": "\u307f\u3093\u306a\u30922\u3064\u306e\u30c1\u30fc\u30e0\u306b\u5206\u3051\u3066\u3001\r\n\u5225\u3005\u306b\u52d5\u304f\u3093\u3060\u3002<<A<<[CHANGED 2020/06/17]",

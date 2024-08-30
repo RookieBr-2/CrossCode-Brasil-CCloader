@@ -2848,7 +2848,7 @@
           {
             "message": {
               "": "\\v[lore.title.seeker], this is amazing!\\. Surely the greatest discovery since the opening of the \\v[area.heat-dng.name]!",
-              "en_US": "\\v[lore.title.seeker], isto é incrível!\\. Certamente a maior descoberta desde a abertura do \\v[area.heat-dng.name]!",
+              "en_US": "\\v[lore.title.seeker], isso é incrível!\\. Certamente a maior descoberta desde a abertura do \\v[area.heat-dng.name]!",
               "de_DE": "Seeker, das ist unglaublich!\\. Das ist mit Abstand die gr\u00f6\u00dfte Entdeckung seit der Freilegung des Faj'ro-Tempels!",
               "fr_FR": "fr_FR",
               "zh_CN": "\\v[lore.title.seeker]\uff0c\u8fd9\u592a\u8ba9\u4eba\u60ca\u8bb6\u4e86\uff01\\.\u8fd9\u7edd\u5bf9\u662f\u81ea\\v[area.heat-dng.name]\u5f00\u542f\u4ee5\u6765\u6700\u5927\u7684\u53d1\u73b0\uff01<<A<<[CHANGED 2017/07/07]",
@@ -2994,7 +2994,7 @@
           {
             "message": {
               "": "... and the nature of the sand...\\. it all hints to a hidden way into a deep sanctuary of Ancient nature.",
-              "en_US": "... e a natureza da areia...\\. Tudo aponta para uma passagem secreta para um antigo local sagrado ancestral.",
+              "en_US": "... e a natureza da areia...\\. Tudo aponta para uma passagem secreta para um antigo local ancestral sagrado.",
               "de_DE": "... und die Beschaffenheit des Sandes...\\. Alles deutet auf einen Geheimgang zu einer uralten heiligen St\u00e4tte der Ahnen hin.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u2026\u8fd8\u6709\u6c99\u5730\u7684\u6027\u8d28\u2026\\.\u8fd9\u4e9b\u90fd\u5728\u6697\u793a\u6709\u6761\u9690\u85cf\u7684\u8def\u53ef\u4ee5\u6df1\u5165\u5148\u7956\u7684\u5723\u6240\u3002",
@@ -3101,7 +3101,7 @@
           {
             "message": {
               "": "To find a way inside, we will need to examine this place and properly integrate it into Trackwalker.",
-              "en_US": "Para encontrar uma maneira de entrar, precisaremos examinar este lugar e integrá-lo adequadamente ao sistema de rastreamento.",
+              "en_US": "Para descobrir como entrar, temos que examinar o local e integrá-lo ao sistema de rastreamento da Trilha.",
               "de_DE": "Um einen Weg hineinzufinden, m\u00fcssen wir den Ort hier weiter untersuchen und ihn sauber ins Pfadl\u00e4ufersystem integrieren.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u8981\u627e\u5230\u8fdb\u5165\u91cc\u9762\u7684\u8def\uff0c\u6211\u4eec\u9700\u8981\u68c0\u67e5\u4e0b\u8fd9\u4e2a\u5730\u65b9\uff0c\u7136\u540e\u6b63\u5f0f\u5c06\u5176\u878d\u5165\u5230\u5bfb\u8def\u8005\u7cfb\u7edf\u4e2d\u3002",

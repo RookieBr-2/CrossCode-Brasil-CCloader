@@ -15944,7 +15944,7 @@
                 {
                   "message": {
                     "": "Arr, \\v[lore.title.seeker].\\. You the one they sent to board our proud battleship here?",
-                    "en_US": "Arr, \\v[lore.title.seeker].\\. Você é aquela que eles enviaram para embarcar em nosso orgulhoso navio de guerra?",
+                    "en_US": "Arr, \\v[lore.title.seeker].\\. És tu quem mandaram para embarcar em nosso orgulhoso navio de guerra?",
                     "de_DE": "Arrr, Seekerrr.\\. Bist du die, die sie uns schicken wollten?",
                     "fr_FR": "fr_FR",
                     "langUid": 526,
@@ -15979,7 +15979,7 @@
                 {
                   "message": {
                     "": "Hope a landlubber like you can hold yer own without steady land under yer feet.\\. The sea is a fickle lady, I tell ye.",
-                    "en_US": "Vamos ver se uma marinheira de primeira viagem como você pode se segurar sem terra firme.\\. O mar é uma senhora agitada.",
+                    "en_US": "Vamos ver se uma marinheira novata como tu consegue se aguentar sem terra firme!\\. O mar é uma senhora tempestuosa, arrr!",
                     "de_DE": "Wollen doch mal sehen, ob sich eine Landrrratte wie du auch ohne festen Boden behaupten kann.\\. Die See ist eine flatterrhafte Dame, sag' ich dirr.",
                     "zh_CN": "\u65f1\u9e2d\u5b50\u6700\u597d\u522b\u79bb\u4e86\u5730\u5c31\u817f\u8f6f\u3002\\.\u5927\u6d77\u53ef\u662f\u65e0\u60c5\u7684\u3002<<A<<[CHANGED 2018/09/19]",
                     "langUid": 552,
@@ -16012,7 +16012,7 @@
                 {
                   "message": {
                     "": "Alright, alright.\\. Just wanted to get you in the mood.\\. Think like a smuggler to catch one, eh?",
-                    "en_US": "Muito bem, muito bem.\\. Só queria que você ficasse atenta.\\. Pense como um contrabandista para pegar um, né?",
+                    "en_US": "Tá bom, parei.\\. Só queria que você entrasse no clima.\\. Pense como um contrabandista para pegar um, né?",
                     "de_DE": "Jarrr, jarrr.\\. Wollte dich nurr in Stimmung brringen.\\. Um einen Schmugglerr zu fangen, muss man wie einerr denken, nicht wahrrr?",
                     "zh_CN": "\u597d\u5566\u597d\u5566\u3002\\.\u8fd9\u4e0d\u662f\u8c03\u8282\u4e00\u4e0b\u6c14\u6c1b\u561b\u3002\\.\u8981\u60f3\u6293\u4f4f\u8d70\u79c1\u72af\u5fc5\u987b\u5148\u50cf\u8d70\u79c1\u72af\u4e00\u6837\u601d\u8003\uff0c\u5bf9\u5427\uff1f<<A<<[CHANGED 2017/10/13]",
                     "langUid": 553,
@@ -16049,7 +16049,7 @@
                 {
                   "message": {
                     "": "Got a lot of those criminals these days, sending weapons directly over the sea.",
-                    "en_US": "Hoje em dia, muitos desses criminosos enviam armas diretamente sobre o mar.",
+                    "en_US": "Hoje em dia, muitos desses criminosos enviam armas diretamente pelo mar.",
                     "de_DE": "Gibt in letzterr Zeit viele davon. Sie verrschiffen ihrre Waffenladungen dirrekt \u00fcberr die See.",
                     "zh_CN": "\u6700\u8fd1\u53ef\u6709\u4e0d\u5c11\u8d70\u79c1\u8d29\u76f4\u63a5\u901a\u8fc7\u6d77\u9762\u8d70\u79c1\u3002<<A<<[CHANGED 2017/10/13]",
                     "langUid": 598,
@@ -16067,7 +16067,7 @@
                 {
                   "message": {
                     "": "Only way to catch them is by intercepting them directly on the sea.\\. This is where you come in, \\v[lore.title.seeker].",
-                    "en_US": "A única maneira de capturá-los é interceptá-los diretamente no mar.\\. É aqui que você entra, \\v[lore.title.seeker].",
+                    "en_US": "A única forma de apreender essas armas é interceptando-as no mar.\\. É aí que você entra, \\v[lore.title.seeker].",
                     "de_DE": "Die einzige M\u00f6glichkeit, sie zu schnappen, ist, sie dirrekt auf See abzufangen.\\. Hierr kommst du ins Spiel, Seekerrr.",
                     "zh_CN": "\u6293\u5230\u4ed6\u4eec\u7684\u552f\u4e00\u65b9\u6cd5\u5c31\u662f\u5728\u6d77\u9762\u4e0a\u62e6\u622a\u4ed6\u4eec\u3002\\.\u8fd9\u5c31\u5f97\u4f60\u5e2e\u5fd9\u4e86\uff0c\\v[lore.title.seeker]\u3002<<A<<[CHANGED 2017/10/13]",
                     "langUid": 556,
@@ -16211,7 +16211,7 @@
                 {
                   "message": {
                     "": "It's equipped with a \\c[3]Naval Protection Cannon\\c[0], or \\c[3]NPC\\c[0] for short, that's linked with your fancy Trackwalker systems.",
-                    "en_US": "Está equipado com um \\c[3]Canhão de Proteção Naval\\c[0], ou \\c[3]CPN\\c[0] em resumo, isso está ligado ao seu sistema de rastreio extravagante da Trilha.",
+                    "en_US": "Está equipado com um \\c[3]Canhão de Proteção Naval\\c[0], ou \\c[3]CPN\\c[0] em resumo, ele está ligado ao seu sistema da Trilha.",
                     "de_DE": "Sie ist mit einerr \\c[3]Marrineabwehrrkanone\\c[0] ausgerrr\u00fcstet, kurrrz \\c[3]MAK\\c[0], die mit deinem Pfadl\u00e4uferrsystem verrbunden ist.",
                     "zh_CN": "\u5b83\u4e0a\u9762\u88c5\u5907\u7740\\c[3]\u6d77\u9762\u9632\u536b\u5927\u70ae\\c[0]\uff0c\u7b80\u79f0\\c[3]NPC\\c[0]\uff0c\u4e0e\u4f60\u90a3\u4e2a\u5bfb\u8def\u8005\u7cfb\u7edf\u662f\u76f8\u8fde\u7684\u3002<<A<<[CHANGED 2018/01/06]",
                     "langUid": 561,
@@ -16615,7 +16615,7 @@
                     {
                       "message": {
                         "": "Good.\\. The route is already programmed into the ship.\\. Just get aboard.",
-                        "en_US": "Bom.\\. A rota já está programada no navio.\\. Basta subir a bordo.",
+                        "en_US": "Bom.\\. A rota já está programada no navio.\\. Pode subir a bordo.",
                         "de_DE": "Gut.\\. Die Rrroute ist im Borrdcomputer schon einprrogrammiert.\\. Geh einfach an Borrd.",
                         "zh_CN": "\u5f88\u597d\u3002\\.\u8def\u7ebf\u5df2\u7ecf\u8f93\u5165\u5230\u8239\u91cc\u4e86\\.\u4e0a\u8239\u5427\u3002<<A<<[CHANGED 2017/10/13]",
                         "langUid": 534,
@@ -16751,7 +16751,7 @@
                     {
                       "message": {
                         "": "Make sure to destroy as many weapons as you can.",
-                        "en_US": "Certifique-se de destruir o máximo de armas que puder.",
+                        "en_US": "Destrua o máximo de armas que puder.",
                         "de_DE": "Sieh zu, dass du so viele Waffen wie m\u00f6glich verrrsenkst!",
                         "zh_CN": "\u8bf7\u4f60\u6467\u6bc1\u5c3d\u53ef\u80fd\u591a\u7684\u6b66\u5668\u3002<<A<<[CHANGED 2017/10/13]",
                         "langUid": 578,
@@ -16769,7 +16769,7 @@
                     {
                       "message": {
                         "": "If \\c[3]too many get through\\c[0] this operation will be considered \\c[3]failed\\c[0].",
-                        "en_US": "Se você deixar \\c[3]muitas armas passarem\\c[0], essa operação será considerada um \\c[3]fracasso\\c[0].",
+                        "en_US": "Se você deixar \\c[3]muitas armas passarem\\c[0], essa operação será considerada um \\c[1]fracasso\\c[0].",
                         "de_DE": "Wenn dirr \\c[3]zu viele durrch die Lappen gehen\\c[0], ist unserre Operration \\c[3]gescheiterrt\\c[0].",
                         "zh_CN": "\u5982\u679c\\c[3]\u6709\u592a\u591a\u6ca1\u6467\u6bc1\\c[0]\u90a3\u4e48\u672c\u6b21\u884c\u52a8\u5c31\u7b97\\c[3]\u5931\u8d25\\c[0]\u4e86\u3002<<A<<[CHANGED 2017/10/13]",
                         "langUid": 579,
@@ -16976,7 +16976,7 @@
                     {
                       "message": {
                         "": "Well, you will patrol the smuggling route and make sure those weapons don't reach the continent.",
-                        "en_US": "Bem, você vai patrulhar a rota do contrabando e certificar-se de que essas armas não cheguem ao continente.",
+                        "en_US": "Você vai patrulhar a rota do contrabando e garantir que essas armas não cheguem ao continente.",
                         "langUid": 540,
                         "de_DE": "Also, du wirrst die Schmugglerrroute patrrouillieren und daf\u00fcrr sorrgen, dass die Waffen den Kontinent nicht errreichen.",
                         "zh_CN": "\u7531\u4f60\u6765\u5728\u8d70\u79c1\u8def\u7ebf\u4e0a\u5de1\u903b\uff0c\u4fdd\u8bc1\u4e0d\u8ba9\u6b66\u5668\u8fd0\u8fdb\u5927\u9646\u3002<<A<<[CHANGED 2017/10/13]",
@@ -17052,7 +17052,7 @@
                     {
                       "message": {
                         "": "To help you, we prepared this masterpiece of naval warfare that is able to fire devastating projectiles.",
-                        "en_US": "Para ajudá-la, preparamos esta obra-prima de guerra naval, capaz de disparar projéteis devastadores.",
+                        "en_US": "Para ajudá-la, preparamos esta obra-prima de guerra naval, capaz de disparar tiros devastadores.",
                         "langUid": 595,
                         "de_DE": "Um dirr zu helfen, haben wirr dieses Meisterrwerrk der Seekrrriegsf\u00fchrrung vorrberreitet, das in derr Lage ist, verrheerrende Prrrojektile abzufeuerrn.",
                         "zh_CN": "\u4e3a\u4e86\u5e2e\u52a9\u4f60\u7684\u884c\u52a8\uff0c\u6211\u4eec\u51c6\u5907\u4e86\u8fd9\u4e2a\u6d77\u6218\u5229\u5668\uff0c\u80fd\u53d1\u5c04\u51fa\u81f4\u547d\u7684\u70ae\u5f39\u3002<<A<<[CHANGED 2017/10/13]",
@@ -17088,7 +17088,7 @@
                     {
                       "message": {
                         "": "Aside from doing \\c[3]high damage\\c[0] those will also \\c[3]stun\\c[0] and \\c[3]disrupt shields\\c[0].",
-                        "en_US": "Além de causar um \\c[3]dano alto\\c[0] esses tiros também irão causar \\c[3]atordoamento\\c[0] e irão \\c[3]romper os escudos\\c[0].",
+                        "en_US": "Esses tiros não só causam \\c[3]muito dano\\c[0], mas também \\c[3]atordoam\\c[0] e \\c[3]quebram os escudos\\c[0].",
                         "langUid": 541,
                         "de_DE": "Neben \\c[3]hohem Schaden\\c[0] verrurrrsacht das Geschoss zus\u00e4tzlich \\c[3]L\u00e4hmung\\c[0] und \\c[3]durrchbrrricht dessen Schild\\c[0].",
                         "zh_CN": "\u70ae\u5f39\u4e0d\u4ec5\\c[3]\u4f24\u5bb3\u9ad8\\c[0]\uff0c\u88ab\u51fb\u4e2d\u7684\u654c\u4eba\u8fd8\u4f1a\u88ab\\c[3]\u6655\u7729\\c[0]\u548c\\c[3]\u7834\u76fe\\c[0]\u3002<<A<<[CHANGED 2017/10/13]",
@@ -17124,7 +17124,7 @@
                     {
                       "message": {
                         "": "\\c[3]Neutral\\c[0] shots are your standard single-target projectile.\\. \\c[3]No special attributes\\c[0] but \\c[3]fast reloading\\c[0].",
-                        "en_US": "Tiros \\c[3]Neutros\\c[0] são o seu projétil padrão de alvo único.\\. Eles não possuem \\c[3]atributos especiais\\c[0] mas possuem \\c[3]recarga rápida\\c[0].",
+                        "en_US": "Tiros \\c[3]Neutros\\c[0] são usados para alvos únicos e têm \\c[3]recarga rápida\\c[0]. Eles não possuem \\c[3]atributos especiais\\c[0].",
                         "langUid": 543,
                         "de_DE": "\\c[3]Neutrral\\c[0]-Geschosse sind das Standarrd-Prrrojektil f\u00fcr Einzelziele.\\. \\c[3]Keine Besonderrheiten\\c[0] au\u00dfer \\c[3]schnellem Nachladen\\c[0].",
                         "zh_CN": "\\c[3]\u4e2d\u6027\\c[0]\u5c06\u5c04\u51fa\u6807\u51c6\u7684\u5355\u76ee\u6807\u70ae\u5f39\u3002\\.\\c[3]\u6ca1\u6709\u4ec0\u4e48\u7279\u522b\u4e4b\u5904\\c[0]\u4f46\u662f\\c[3]\u88c5\u5f39\u5feb\\c[0]\u3002<<A<<[CHANGED 2017/10/13]",
@@ -17214,7 +17214,7 @@
                     {
                       "message": {
                         "": "Those will do \\c[3]great damage\\c[0] to your ship and also \\c[3]stun\\c[0] it shortly.\\. You won't want it exploding in the ocean, right?",
-                        "en_US": "Eles causam um \\c[3]dano alto\\c[0] e também \\c[3]paralisam\\c[0] o canhão por algum tempo\\. Você não vai querer que ele exploda no oceano, certo?",
+                        "en_US": "Eles causam \\c[3]dano alto\\c[0] e \\c[3]paralisam\\c[0] o canhão por um tempo.\\. Tome cuidado para que nosso amigo não exploda no oceano.",
                         "langUid": 572,
                         "de_DE": "Sie verrurrrsachen n\u00e4mlich \\c[3]schwerren Schaden\\c[0] und kurrzzeitige \\c[3]L\u00e4hmung\\c[0].\\. Zuviele davon und KRRRAWUMM! - derr Kahn fliegt in die Luft!",
                         "zh_CN": "\u90a3\u4e9b\u5c06\u4f1a\u5bf9\u8239\u4f53\u9020\u6210\\c[3]\u5927\u91cf\u4f24\u5bb3\\c[0]\u5e76\u77ed\u6682\\c[3]\u6655\u7729\\c[0]\u5b83\u3002\\.\u4f60\u53ef\u4e0d\u60f3\u8ba9\u8239\u6c89\u4e86\u5427\uff1f<<A<<[CHANGED 2017/10/13]",
@@ -18751,7 +18751,7 @@
                     {
                       "message": {
                         "": "Aside from doing \\c[3]high damage\\c[0] those will also \\c[3]stun\\c[0] and \\c[3]disrupt shields\\c[0].",
-                        "en_US": "Além de causar um \\c[3]dano alto\\c[0] esses tiros também irão causar \\c[3]atordoamento\\c[0] e irão \\c[3]romper os escudos\\c[0].",
+                        "en_US": "Esses tiros não só causam \\c[3]muito dano\\c[0], mas também \\c[3]atordoam\\c[0] e \\c[3]quebram os escudos\\c[0].",
                         "langUid": 650,
                         "de_DE": "Neben \\c[3]hohem Schaden\\c[0] verrurrrsacht das Geschoss zus\u00e4tzlich \\c[3]L\u00e4hmung\\c[0] und \\c[3]durrchbrrricht dessen Schild\\c[0].",
                         "zh_CN": "\u70ae\u5f39\u4e0d\u4ec5\\c[3]\u4f24\u5bb3\u9ad8\\c[0]\uff0c\u88ab\u51fb\u4e2d\u7684\u654c\u4eba\u8fd8\u4f1a\u88ab\\c[3]\u6655\u7729\\c[0]\u548c\\c[3]\u7834\u76fe\\c[0]\u3002<<A<<[CHANGED 2019/09/13]",
@@ -18787,7 +18787,7 @@
                     {
                       "message": {
                         "": "\\c[3]Neutral\\c[0] shots are your standard single-target projectile.\\. \\c[3]No special attributes\\c[0] but \\c[3]fast reloading\\c[0].",
-                        "en_US": "Tiros \\c[3]Neutros\\c[0] são o seu projétil padrão de alvo único.\\. Eles não possuem \\c[3]atributos especiais\\c[0] mas possuem \\c[3]recarga rápida\\c[0].",
+                        "en_US": "Tiros \\c[3]Neutros\\c[0] são usados para alvos únicos e têm \\c[3]recarga rápida\\c[0]. Eles não possuem \\c[3]atributos especiais\\c[0].",
                         "langUid": 652,
                         "de_DE": "\\c[3]Neutrral\\c[0]-Geschosse sind dein Standarrrd-Prrrojektil f\u00fcr Einzelziele.\\. \\c[3]Keine Besonderrrheiten\\c[0] au\u00dfer \\c[3]schnellem Nachladen\\c[0].",
                         "zh_CN": "\\c[3]\u4e2d\u6027\\c[0]\u5c06\u5c04\u51fa\u6807\u51c6\u7684\u5355\u76ee\u6807\u70ae\u5f39\u3002\\.\\c[3]\u6ca1\u6709\u4ec0\u4e48\u7279\u522b\u4e4b\u5904\\c[0]\u4f46\u662f\\c[3]\u88c5\u5f39\u5feb\\c[0]\u3002<<A<<[CHANGED 2019/09/13]",
@@ -18895,7 +18895,7 @@
                     {
                       "message": {
                         "": "Those will do \\c[3]great damage\\c[0] to your ship and also \\c[3]stun\\c[0] it shortly.\\. You won't want it exploding in the ocean, right?",
-                        "en_US": "Eles causam um \\c[3]dano alto\\c[0] e também \\c[3]paralisam\\c[0] o canhão por algum tempo\\. Você não vai querer que ele exploda no oceano, certo?",
+                        "en_US": "Eles causam \\c[3]dano alto\\c[0] e \\c[3]paralisam\\c[0] o canhão por um tempo.\\. Tome cuidado para que nosso amigo não exploda no oceano.",
                         "langUid": 657,
                         "de_DE": "Sie verrurrrsachen n\u00e4mlich \\c[3]schwerren Schaden\\c[0] und kurrzzeitige \\c[3]L\u00e4hmung\\c[0].\\. Zuviele davon und KRRRAWUMM! - derr Kahn fliegt in die Luft!",
                         "zh_CN": "\u90a3\u4e9b\u5c06\u4f1a\u5bf9\u8239\u4f53\u9020\u6210\\c[3]\u5927\u91cf\u4f24\u5bb3\\c[0]\u5e76\u77ed\u6682\\c[3]\u6655\u7729\\c[0]\u5b83\u3002\\.\u4f60\u53ef\u4e0d\u60f3\u8ba9\u8239\u6c89\u4e86\u5427\uff1f<<A<<[CHANGED 2019/09/13]",
@@ -19471,7 +19471,7 @@
           {
             "message": {
               "": "Welcome back, \\v[lore.title.seeker]!\\. Seems like you wrecked that shipment nicely!",
-              "en_US": "Bem-vinda de volta, \\v[lore.title.seeker]!\\. Parece que você destruiu essa carga muito bem!",
+              "en_US": "Bem-vinda de volta, \\v[lore.title.seeker]!\\. Você fez um ótimo trabalho destruindo a carga!",
               "de_DE": "Arrr! Willkommen zur\u00fcck, Seekerrr!\\. Wie ich gesehen habe, hast du die Ladung sauberr verrrsenkt!",
               "zh_CN": "\u6b22\u8fce\u56de\u6765\uff0c\\v[lore.title.seeker]\uff01\\.\u770b\u6765\u4f60\u6f02\u4eae\u7684\u6467\u6bc1\u4e86\u90a3\u4e9b\u8d70\u79c1\u54c1\uff01<<A<<[CHANGED 2017/10/13]",
               "langUid": 586,

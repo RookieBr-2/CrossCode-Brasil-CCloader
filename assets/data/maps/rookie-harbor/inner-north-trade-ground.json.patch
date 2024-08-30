@@ -381,7 +381,7 @@
               {
                 "message": {
                   "": "If you are looking to trade, you can find goods from all over \\v[lore.title.planet] here.",
-                  "en_US": "Se você está procurando negociar, você pode encontrar mercadorias de todos as partes de \\v[lore.title.planet] aqui",
+                  "en_US": "Se você quiser negociar, poderá encontrar mercadorias de todas as partes de \\v[lore.title.planet] aqui.",
                   "de_DE": "Wenn Sie handeln m\u00f6chten, finden Sie hier G\u00fcter aus allen Teilen Shadoons.",
                   "zh_CN": "\u5982\u679c\u60a8\u60f3\u8981\u4ea4\u6613\uff0c\u8fd9\u91cc\u6709\u7740\u6765\u81ea\\v[lore.title.planet]\u5168\u571f\u7684\u8d27\u7269\u3002<<A<<[CHANGED 2017/12/12]",
                   "ko_KR": "\ud639\uc2dc \uac70\ub798\ud558\uace0 \uc2f6\uc73c\uc2dc\ub2e4\uba74, \\v[lore.title.planet] \uacf3\uacf3\uc5d0\uc11c \uc0c1\ud488\uc744 \ub9cc\ub098\ubcfc \uc218 \uc788\uc2b5\ub2c8\ub2e4.<<A<<[CHANGED 2017/11/20]",

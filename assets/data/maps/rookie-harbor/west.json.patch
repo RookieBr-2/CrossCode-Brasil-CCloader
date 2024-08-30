@@ -12664,7 +12664,7 @@
                     {
                       "message": {
                         "": "Yeehaw, I knew I could count on you, my dear!",
-                        "en_US": "Yeehaw, Eu sabia que podia contar com você, minha querida!",
+                        "en_US": "Yeehaa, Eu sabia que podia contar com você, minha querida!",
                         "de_DE": "Yeehaa!\\. Ich wusste, dass ich auf dich z\u00e4hlen kann!",
                         "zh_CN": "\u592a\u597d\u5566\uff0c\u6211\u5c31\u77e5\u9053\u4f60\u9760\u5f97\u4f4f\uff01<<A<<[CHANGED 2018/09/19]",
                         "ja_JP": "\u305d\u3046\u3053\u306a\u304d\u3083\uff01\\.\u4eca\u56de\u306f\u5931\u671b\u3055\u305b\u306a\u3044\u304b\u3089\u306d\u3001\n\u4fe1\u7528\u3057\u3066\u3066\uff01<<A<<[CHANGED 2018/09/19]",
@@ -12700,7 +12700,7 @@
                     {
                       "message": {
                         "": "Just like last time, it's all about the ingredients.\\. I've done some research on the precious plants of the East!",
-                        "en_US": "Como da última vez, é tudo sobre os ingredientes.\\. Eu fiz algumas pesquisas sobre as preciosas plantas do Oriente!",
+                        "en_US": "Como da última vez, tudo depende dos ingredientes, é claro.\\. Fiz uma pequena pesquisa sobre as magníficas plantas do Oriente!",
                         "zh_CN": "\u8ddf\u4ee5\u524d\u4e00\u6837\uff0c\u6839\u672c\u8fd8\u662f\u5728\u4e8e\u539f\u6750\u6599\u3002\\.\u6211\u5bf9\u5b9d\u8d35\u7684\u4e1c\u65b9\u6728\u6750\u8fdb\u884c\u4e86\u4e00\u4e9b\u7814\u7a76\u3002<<A<<[CHANGED 2018/09/19]",
                         "ja_JP": "\u4eca\u56de\u3082\u3001\u5927\u4e8b\u306a\u306e\u306f\u6750\u6599\u3002\n\\.\u6771\u306e\u8cb4\u91cd\u306a\u690d\u7269\u3092\u8abf\u3079\u3066\u307f\u305f\u306e\uff01<<A<<[CHANGED 2018/09/19]",
                         "ko_KR": "\uc9c0\ub09c\ubc88\ucc98\ub7fc \uc7ac\ub8cc\ub97c \ucc3e\uc544\uc624\uba74 \ub3fc.\\. \ub3d9\ucabd\uc5d0 \uc788\ub294 \uadc0\uc911\ud55c \uc2dd\ubb3c\uc5d0 \ub300\ud574\uc11c \ub0b4\uac00 \uc870\uc0ac \uc880 \ud574\ub1a8\uc9c0!<<A<<[CHANGED 2018/09/19]",
@@ -12743,7 +12743,7 @@
                     {
                       "message": {
                         "": "So please bring me some \\c[3]old wood\\c[0] from the \\c[3]jungle in the north-east\\c[0].",
-                        "en_US": "Então, por favor, me traga algumas \\c[3]madeiras velhas\\c[0] da \\c[3]selva no nordeste\\c[0]",
+                        "en_US": "Então, por favor, me traga algumas \\c[3]madeiras velhas\\c[0] da \\c[3]selva no nordeste\\c[0].",
                         "de_DE": "Bring mir also bitte etwas \\c[3]altes Holz\\c[0] aus dem \\c[3]Dschungel im Osten\\c[0].",
                         "zh_CN": "\u6240\u4ee5\u8bf7\u4ece\\c[3]\u4e1c\u8fb9\u7684\u68ee\u6797\u91cc\\c[0]\u7ed9\u6211\u5e26\u6765\u4e00\u4e9b\\c[3]\u9648\u6728\\c[0]\u3002<<A<<[CHANGED 2018/10/04]",
                         "ja_JP": "\u3068\u3044\u3046\u308f\u3051\u3067\u3001\\c[3]\u30b8\u30e3\u30f3\u30b0\u30eb\u306e\u897f\\c[0]\u304b\u3089\n\\c[3]\u53e4\u3044\u6728\\c[0]\u3092\u6301\u3063\u3066\u304d\u3066\u304f\u308c\u306a\u3044\u304b\u306a\u3002<<A<<[CHANGED 2018/10/04]",
@@ -12851,7 +12851,7 @@
                     {
                       "message": {
                         "": "As for the meat, I still got a lot of that here to experiment.\\. Is everything else clear?",
-                        "en_US": "Quanto à carne, ainda tenho o suficiente para experimentar aqui.\\. Tudo bem até agora?",
+                        "en_US": "Quanto à carne, ainda tenho o suficiente para experimentar aqui.\\. Memorizou tudo direitinho??",
                         "de_DE": "Was das Fleisch betrifft, habe ich noch genug zum Experimentieren hier.\\. Alles klar so weit?",
                         "zh_CN": "\u81f3\u4e8e\u8089\uff0c\u6211\u8fd9\u91cc\u8fd8\u6709\u4e0d\u5c11\u3002\\.\u90fd\u8bb0\u4f4f\u4e86\u5417\uff1f<<A<<[CHANGED 2017/12/12]",
                         "ja_JP": "\u8089\u306e\u65b9\u306f\u3001\u5b9f\u9a13\u3059\u308b\u305f\u3081\u306e\u5728\u5eab\u304c\n\u307e\u3060\u305f\u304f\u3055\u3093\u6b8b\u3063\u3066\u308b\u304b\u3089\u3002\\.\u3053\u3093\u306a\u3068\u3053\u308d\u304b\u306a\u3002<<A<<[CHANGED 2017/12/11]",
@@ -13024,7 +13024,7 @@
               {
                 "message": {
                   "": "Get me some \\c[3]old wood\\c[0] from the \\c[3]jungle in the east\\c[0] and some ingredients for the marinade.",
-                  "en_US": "Traga-me um poudo de \\c[3]madeira velha\\c[0] da \\c[3]selva no leste\\c[0] e alguns ingredientes para a marinada.",
+                  "en_US": "Traga-me um pouco de \\c[3]madeira velha\\c[0] da \\c[3]selva\\c[0] e alguns ingredientes para a marinada.",
                   "de_DE": "Bring mir etwas \\c[3]altes Holz\\c[0] aus dem \\c[3]Dschungel im Osten\\c[0] und ein paar Zutaten f\u00fcr die Marinade.",
                   "zh_CN": "\u8bf7\u4ece\\c[3]\u4e1c\u8fb9\u7684\u68ee\u6797\u91cc\\c[0]\u7ed9\u6211\u5e26\u6765\u4e00\u4e9b\\c[3]\u9648\u6728\\c[0]\uff0c\u8fd8\u6709\u505a\u9171\u6599\u7528\u7684\u7d20\u6750\u3002<<A<<[CHANGED 2018/01/06]",
                   "ja_JP": "\\c[3]\u897f\u306e\u30b8\u30e3\u30f3\u30b0\u30eb\\c[0]\u304b\u3089\\c[3]\u53e4\u3044\u6728\\c[0]\u3068\u3001\n\u30de\u30ea\u30cd\u306e\u6750\u6599\u3092\u6301\u3063\u3066\u304d\u3066\u306d\u3002<<A<<[CHANGED 2018/01/06]",
@@ -13042,7 +13042,7 @@
               {
                 "message": {
                   "": "Some \\c[3]honey\\c[0] and a bunch of \\c[3]sweet apples\\c[0] from the East should do nicely!",
-                  "en_US": "Uma porção de \\c[3]mel\\c[0] e muitas \\c[3]maçãs doces\\c[0] seria ideal!",
+                  "en_US": "Uma porção de \\c[3]mel\\c[0] e muitas \\c[3]maçãs doces\\c[0] seriam ideais!",
                   "de_DE": "Etwas \\c[3]Honig\\c[0] und eine Portion \\c[3]s\u00fc\u00dfe \u00c4pfel\\c[0] aus dem Osten w\u00e4ren daf\u00fcr ideal!",
                   "zh_CN": "\u814c\u6599\u65b9\u9762\u6211\u60f3\u8981\u4e00\u4e9b\\c[3]\u8702\u871c\\c[0]\u548c\u5927\u91cf\u7684\\c[3]\u751c\u82f9\u679c\\c[0]!<<A<<[CHANGED 2017/12/12]",
                   "ja_JP": "\u6771\u306e\\c[3]\u30cf\u30c1\u30df\u30c4\\c[0]\u3068\\c[3]\u7518\u3044\u30ea\u30f3\u30b4\\c[0]\u304c\n\u3042\u308b\u3068\u3044\u3044\u3093\u3060\u3051\u3069\u306a\u3002<<A<<[CHANGED 2017/12/11]",

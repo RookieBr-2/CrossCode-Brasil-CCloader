@@ -494,7 +494,7 @@
                 {
                   "message": {
                     "": "As you hopefully know, \\v[area.rookie-harbor.name] is a central settlement with strong connections all over \\v[lore.title.planet].",
-                    "en_US": "Como você deve saber, o \\v[area.rookie-harbor.name] é um povoado central com fortes conexões por toda \\v[lore.title.planet].",
+                    "en_US": "Como você deve saber, o \\v[area.rookie-harbor.name] é uma colônia central com fortes conexões por toda \\v[lore.title.planet].",
                     "de_DE": "Wie Sie hoffentlich wissen, ist Rookie Harbor ein zentraler Knotenpunkt mit weltweiten Verbindungen.",
                     "zh_CN": "\u4f60\u5e94\u8be5\u4e86\u89e3\uff0c\\v[area.rookie-harbor.name]\u662f\\v[lore.title.planet]\u7684\u4e2d\u5fc3\u3002<<A<<[CHANGED 2017/12/12]",
                     "ja_JP": "\u5f53\u7136\u77e5\u3063\u3066\u3044\u308b\u3053\u3068\u3068\u601d\u3046\u304c\u3001\\v[area.rookie-harbor.name]\u306f\n\\v[lore.title.planet]\u306e\u4e2d\u5fc3\u7684\u306a\u5c45\u4f4f\u533a\u3067\u3001\n\u5404\u5730\u3068\u5f37\u304f\u7d50\u3073\u3064\u3044\u3066\u3044\u308b\u3002<<A<<[CHANGED 2017/12/11]",
@@ -512,7 +512,7 @@
                 {
                   "message": {
                     "": "There is barely a commodity that cannot be found on our mighty venues of capitalism.",
-                    "en_US": "Mal existe uma mercadoria que não possa ser encontrada em nossos poderosos estabelecimentos do capitalismo.",
+                    "en_US": "É raro encontrar uma mercadoria que não esteja em nossos estabelecimentos, graças às nossas sólidas relações comerciais.",
                     "de_DE": "Es gibt kaum eine Ware, die wir nicht durch unsere starken Handelsbeziehungen auftreiben k\u00f6nnen.",
                     "zh_CN": "\u5728\u8fd9\u4e2a\u5546\u4e1a\u8981\u5730\uff0c\u51e0\u4e4e\u6ca1\u6709\u627e\u4e0d\u5230\u7684\u5546\u54c1\u3002<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u3044\u308f\u3070\u3001\u5e02\u5834\u7d4c\u6e08\u306e\u4e2d\u67a2\u3060\u3002\u3053\u3053\u3067\u624b\u306b\u5165\u3089\u306a\u3044\u54c1\u7269\u306f\u307b\u307c\u306a\u3044\u3060\u308d\u3046\u3002<<A<<[CHANGED 2018/09/19]",
@@ -545,7 +545,7 @@
                 {
                   "message": {
                     "": "Despite this, we still lack the capacity to acquire high-quality metal without relying on the other settlements.",
-                    "en_US": "Apesar disso, ainda nos falta a capacidade de adquirir metal de alta qualidade sem contar com os outros povoados.",
+                    "en_US": "Apesar disso, ainda nos falta a capacidade de obter metal de alta qualidade sem a ajuda das outras colônias.",
                     "de_DE": "Und doch fehlen uns noch immer die Kapazit\u00e4ten f\u00fcr eine hochwertige Metallproduktion aus eigener Hand.<<A<<[CHANGED 2021/05/22]",
                     "zh_CN": "\u4f46\u662f\uff0c\u6211\u4eec\u5bf9\u4e8e\u9ad8\u8d28\u91cf\u91d1\u5c5e\u7684\u9700\u6c42\u5374\u8981\u4f9d\u8d56\u5176\u4ed6\u9a7b\u5730\u3002<<A<<[CHANGED 2021/05/22]",
                     "ja_JP": "\u305f\u3060\u3001\u9ad8\u54c1\u8cea\u306e\u30e1\u30bf\u30eb\u306b\u3064\u3044\u3066\u306f\n\u4eca\u3082\u4ed6\u306e\u5c45\u4f4f\u533a\u306b\u983c\u3063\u3066\u3044\u308b\u3002<<A<<[CHANGED 2021/05/22]",
@@ -597,7 +597,7 @@
                 {
                   "message": {
                     "": "Excellent.\\. Then go to \\v[area.bergen.name] and visit their trader of metalworks.",
-                    "en_US": "Excelente.\\. Então vá para \\v[area.bergen.name] e visite o comerciante de metalurgia.",
+                    "en_US": "Excelente.\\. Então vá para \\v[area.bergen.name] e visite o comerciante de metais.",
                     "de_DE": "Ausgezeichnet.\\. Gehen Sie nach Bergen und sprechen Sie dort mit dem Metallh\u00e4ndler.",
                     "zh_CN": "\u592a\u597d\u4e86\u3002\\.\u8bf7\u524d\u5f80\\v[area.bergen.name]\u62dc\u8bbf\u5f53\u5730\u91d1\u5c5e\u5546\u4eba\u3002<<A<<[CHANGED 2017/12/12]",
                     "ja_JP": "\u3088\u3057\u3002\\. \u305d\u308c\u3067\u306f\\v[area.bergen.name]\u3078\u884c\u304d\u3001\u30e1\u30bf\u30eb\u52a0\u5de5\u54c1\u306e\u30c8\u30ec\u30fc\u30c0\u30fc\u306b\u4f1a\u3063\u3066\u304d\u3066\u307b\u3057\u3044\u3002<<A<<[CHANGED 2017/12/11]",

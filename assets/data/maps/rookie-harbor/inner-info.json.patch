@@ -3718,7 +3718,7 @@
                   {
                     "message": {
                       "": "Also you should know that Elemental Modes incur a \\c[3]natural resistance penalty of -50%\\c[0] to their \\c[3]counterpart\\c[0].",
-                      "en_US": "Outra coisa importante é que os Modos Elementais têm uma \\c[3]penalidade de resistência natural de -50%\\c[0] em relação ao elemneto \\c[3]oposto\\c[0].",
+                      "en_US": "Outra coisa importante é que os Modos Elementais têm uma \\c[3]penalidade de resistência natural de -50%\\c[0] em relação ao elemento \\c[3]oposto\\c[0].",
                       "de_DE": "Au\u00dferdem solltest du wissen, dass die Element-Modi einen \\c[3]nat\u00fcrlichen Schadensnachteil von -50%\\c[0] gegen\u00fcber ihrem \\c[3]Konterpart\\c[0] haben.",
                       "zh_CN": "\u8fd8\u6709\u4e00\u70b9\uff0c\u5143\u7d20\u6a21\u5f0f\u4f1a\u9020\u6210\\c[3]\u76f8\u514b\u5143\u7d20\u6297\u602750%\\c[0]\u7684\\c[3]\u51cf\u503c\\c[0]\u3002<<A<<[CHANGED 2018/09/19]",
                       "langUid": 522,
