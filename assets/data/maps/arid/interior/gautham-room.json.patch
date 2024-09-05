@@ -724,7 +724,7 @@
             }, {
                 "message": {
                     "": "Otherwise...\\. he recalls things...\\. more quickly.\\. I think...",
-                    "en_US": "De outra forma...\\. ele se lembra de coisas...\\. mais rapidamente.\\. Eu acho que...",
+                    "en_US": "Ou então...\\. ele se lembra de coisas...\\. mais rapidamente.\\. Eu acho...",
                     "langUid": 5,
                     "de_DE": "Ansonsten...\\. Er erinnert sich...\\. schneller, meine ich...",
                     "ja_JP": "\u305d\u306e\u4ed6\u306b\u306f...\\.\u5f7c\u306f\u8a18\u61b6\u3092\n\u547c\u3073\u8d77\u3053\u3057\u3064\u3064\u3042\u308b...\\.\n\u601d\u3046\u306b...\\.\u305a\u3044\u3076\u3093\u3068\u901f\u304f\u3002<<A<<[CHANGED 2018\/09\/02]",
@@ -918,7 +918,7 @@
             }, {
                 "message": {
                     "": "She had assistance... ",
-                    "en_US": "Ela teve assistência...",
+                    "en_US": "Ela teve ajuda...",
                     "langUid": 15,
                     "de_DE": "Sie hatte Verst\u00e4rkung...",
                     "ja_JP": "\u5f7c\u5973\u3092\u624b\u52a9\u3051\u3057\u305f\u3082\u306e\u304c\u3044\u308b...<<A<<[CHANGED 2018\/09\/02]",
@@ -959,7 +959,7 @@
             }, {
                 "text": {
                     "": "That was bound to happen!",
-                    "en_US": "Isso estava prestes a acontecer!",
+                    "en_US": "Era inevitável que isso acontecesse!",
                     "langUid": 10,
                     "de_DE": "Das musste ja passieren!",
                     "ja_JP": "\u5f53\u7136\u306e\u6210\u308a\u884c\u304d\u3060\u306a\u3002<<A<<[CHANGED 2018\/09\/02]",
@@ -980,7 +980,7 @@
             }, {
                 "text": {
                     "": "The odds were still highly \nstacked against them.",
-                    "en_US": "As probabilidades ainda eram altamente \nnegativas contra eles.",
+                    "en_US": "Mas as chances \nnão estavam a favor deles.",
                     "langUid": 11,
                     "de_DE": "Dabei war das eigentlich ein Ding der Unm\u00f6glichkeit.",
                     "ja_JP": "\u5f7c\u3089\u306b\u3068\u3063\u3066\u72b6\u6cc1\u306f\n\u304b\u306a\u308a\u4e0d\u5229\u306a\u307e\u307e\u3060\u3002<<A<<[CHANGED 2018\/09\/02]",
@@ -1038,7 +1038,7 @@
             }, {
                 "text": {
                     "": "This is like the Cargo Ship \nall over again.",
-                    "en_US": "Isso é como o Navio de Carga \ne tudo de novo.",
+                    "en_US": "E no fim, eles conseguiram escapar, \nassim como no Navio de Carga.",
                     "langUid": 13,
                     "de_DE": "Genau wie beim Frachtschiff damals.",
                     "ja_JP": "\u3053\u308c\u3067\u306f\u8ca8\u7269\u8239\u306e\u4e8c\u306e\u821e\u3060\u3002<<A<<[CHANGED 2018\/09\/02]",

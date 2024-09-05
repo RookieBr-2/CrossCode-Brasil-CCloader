@@ -1277,7 +1277,7 @@
             }, {
                 "message": {
                     "": "That's the quest hub.",
-                    "en_US": "Esse é o centro de missões.",
+                    "en_US": "Essa é a central de missões.",
                     "langUid": 4,
                     "zh_CN": "\u55ef\uff0c\u90a3\u5c31\u662f\u4efb\u52a1\u4e2d\u5fc3\u4e86\u3002<<A<<[CHANGED 2018\/03\/14]",
                     "de_DE": "Das ist der Quest Hub.",
@@ -1626,7 +1626,7 @@
             }, {
                 "message": {
                     "": "... That was brief!",
-                    "en_US": "... Isso foi breve!",
+                    "en_US": "... Isso foi rápido!",
                     "de_DE": "... Das war aber kurz!",
                     "zh_CN": "...\u8fd9\u4e5f\u592a\u77ed\u4e86\uff01<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 6,
@@ -1694,7 +1694,7 @@
             }, {
                 "message": {
                     "": "How does this connect to the rest of the lore? What even is \"Project Red\"?",
-                    "en_US": "Como isso se conecta com o resto da lore? O que é mesmo \"Projeto Vermelho\"?",
+                    "en_US": "Como isso se conecta com o resto da lore? O que é esse \"Projeto Vermelho\"?",
                     "de_DE": "Wie h\u00e4ngt das mit der Hintergrundgeschichte von CrossWorlds zusammen? Was ist \u00fcberhaupt \"Projekt Rot\"?",
                     "zh_CN": "\u8fd9\u8ddf\u6e38\u620f\u5176\u5b83\u90e8\u5206\u7684\u5267\u60c5\u6709\u4ec0\u4e48\u5173\u7cfb\uff1f\"\u7ea2\u8272\u8ba1\u5212\"\u53c8\u662f\u4e2a\u4ec0\u4e48\u73a9\u610f\uff1f<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 10,
@@ -1711,7 +1711,7 @@
             }, {
                 "message": {
                     "": "I wonder if Hlin would know anything about this.",
-                    "en_US": "Eu me pergunto se Hlin saberia alguma coisa sobre isso.",
+                    "en_US": "Será que a Hlin sabe algo sobre isso?",
                     "de_DE": "Ich frage mich, ob Hlin irgendetwas dar\u00fcber wei\u00df.",
                     "zh_CN": "\u4e0d\u77e5\u9053\u5e0c\u5c14\u7433\u5bf9\u8fd9\u4e2a\u6709\u6ca1\u6709\u4e86\u89e3\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 11,
@@ -1779,7 +1779,7 @@
             }, {
                 "message": {
                     "": "I don't know what else to do, so let's just try and solve that quest, alright?",
-                    "en_US": "Eu não sei mais o que fazer, então vamos tentar resolver essa missão, certo?",
+                    "en_US": "Não sei mais o que fazer, então vamos tentar resolver essa missão, beleza?",
                     "de_DE": "Ich wei\u00df nicht, was wir sonst tun sollen... Uns bleibt wohl erstmal nichts anderes \u00fcbrig, als die Quest zu erledigen, oder?",
                     "zh_CN": "\u6211\u4e5f\u4e0d\u77e5\u9053\u600e\u4e48\u529e\u4e86\uff0c\u73b0\u5728\u53ea\u80fd\u987a\u7740\u4efb\u52a1\u505a\u4e86\u3002\u884c\u5427\uff1f<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 15,
@@ -1963,7 +1963,7 @@
             }, {
                 "message": {
                     "": "So... I suppose we should hand in the quest at the hologram portal again?",
-                    "en_US": "Então... acho que devemos entregar a missão no portal do holograma novamente?",
+                    "en_US": "Então... É no portal holográfico que devemos terminar a missão?",
                     "langUid": 17,
                     "zh_CN": "\u90a3...\u6211\u60f3\u6211\u4eec\u73b0\u5728\u5e94\u8be5\u53bb\u4ea4\u4efb\u52a1\u4e86\uff1f<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "Also... Ich nehme mal an, wir m\u00fcssen uns wieder an das Hologrammportal wenden?",
@@ -2296,7 +2296,7 @@
             }, {
                 "message": {
                     "": "What.",
-                    "en_US": "Quê.",
+                    "en_US": "Que?",
                     "de_DE": "Was.",
                     "zh_CN": "\u600e\u4e48\u4e86\uff1f<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 19,
@@ -2584,7 +2584,7 @@
             }, {
                 "message": {
                     "": "Anyway, thanks for playing with me Lea, see you soon!",
-                    "en_US": "De qualquer forma, obrigado por jogar comigo Lea, até mais!",
+                    "en_US": "Enfim, obrigado por jogar comigo Lea, até mais!",
                     "de_DE": "Danke f\u00fcrs Spielen, Lea. Bis bald!",
                     "zh_CN": "\u603b\u4e4b\uff0c\u8c22\u8c22\u4f60\u8ddf\u6211\u4e00\u8d77\u73a9\uff0c\u8389\u4e9a\u3002\u54b1\u4eec\u56de\u89c1\uff01<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 42,
@@ -2630,7 +2630,7 @@
                 },
                 "text": {
                     "": "Logout",
-                    "en_US": "Deslogando",
+                    "en_US": "Desconectando",
                     "de_DE": "Logout",
                     "zh_CN": "\u767b\u51fa<<A<<[CHANGED 2017\/10\/10]",
                     "ja_JP": "\u30ed\u30b0\u30a2\u30a6\u30c8<<A<<[CHANGED 2017\/11\/04]",
@@ -2712,7 +2712,7 @@
                 },
                 "text": {
                     "": "Login",
-                    "en_US": "Login",
+                    "en_US": "Conectando",
                     "de_DE": "Login",
                     "zh_CN": "\u767b\u9646<<A<<[CHANGED 2017\/10\/10]",
                     "ja_JP": "\u30ed\u30b0\u30a4\u30f3<<A<<[CHANGED 2017\/11\/04]",
@@ -2839,7 +2839,7 @@
             }, {
                 "message": {
                     "": "... This can't be right.",
-                    "en_US": "... Isso não pode estar certo",
+                    "en_US": "... Isso não está certo.",
                     "de_DE": "... Das kann nicht sein.",
                     "zh_CN": "...\u4e0d\u5bf9\u52b2\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 507,
@@ -2862,7 +2862,7 @@
                 },
                 "text": {
                     "": "Logout",
-                    "en_US": "Deslogando",
+                    "en_US": "Desconectando",
                     "de_DE": "Logout",
                     "zh_CN": "\u767b\u51fa<<A<<[CHANGED 2017\/10\/10]",
                     "ja_JP": "\u30ed\u30b0\u30a2\u30a6\u30c8<<A<<[CHANGED 2017\/11\/04]",
@@ -2903,7 +2903,7 @@
                 },
                 "text": {
                     "": "Login",
-                    "en_US": "Login",
+                    "en_US": "Conectando",
                     "de_DE": "Login",
                     "zh_CN": "\u767b\u9646<<A<<[CHANGED 2017\/10\/10]",
                     "ja_JP": "\u30ed\u30b0\u30a4\u30f3<<A<<[CHANGED 2017\/11\/04]",
@@ -2993,7 +2993,7 @@
             }, {
                 "message": {
                     "": "Is the system broken?\\. I'll just remove the...",
-                    "en_US": "O sistema está quebrado?\\. Só vou tirar...",
+                    "en_US": "O sistema está quebrado?\\. Então vou tirar o...",
                     "de_DE": "Spinnt das System wieder rum? Ich werd einfach die...",
                     "zh_CN": "\u6e38\u620f\u51fa\u95ee\u9898\u4e86\uff1f\\.\u90a3\u6211\u76f4\u63a5\u8131...<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 512,
@@ -3078,7 +3078,7 @@
             }, {
                 "message": {
                     "": "...I can't...\\. remove the Cross Gear.",
-                    "en_US": "...Eu não posso...\\. remover o Cross Gear",
+                    "en_US": "...Eu não posso...\\. remover o Cross Gear.",
                     "de_DE": "... Ich kann...\\. das Cross Gear nicht ausziehen.",
                     "zh_CN": "...\u8fdc\u661f\u88c5\u5907...\\.\u6211\u62ff\u4e0d\u4e0b\u6765\u4e86\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 517,
@@ -3483,7 +3483,7 @@
             }, {
                 "message": {
                     "": "Alright, ready to get today's quest!",
-                    "en_US": "Certo, pronto para pegar a missão de hoje!",
+                    "en_US": "Beleza, estou pronto para a missão de hoje!",
                     "langUid": 522,
                     "zh_CN": "\u51c6\u5907\u63a5\u4eca\u5929\u7684\u4efb\u52a1\u5427\uff01<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "So, bereit f\u00fcr die heutige Quest!",
@@ -3972,7 +3972,7 @@
             }, {
                 "message": {
                     "": "Actually, I had a look around before and I found a few nice places.",
-                    "en_US": "Na verdade, eu dei uma olhada antes e encontrei alguns lugares legais.",
+                    "en_US": "Na verdade, eu dei uma olhada por aí antes e encontrei alguns lugares legais.",
                     "de_DE": "Ehrlich gesagt habe ich mich bereits ein wenig umgesehen und dabei ein paar nette Ecken entdeckt.",
                     "zh_CN": "\u4e0d\u8fc7\uff0c\u6211\u4e4b\u524d\u6b63\u597d\u5230\u5904\u770b\u4e86\u4e00\u5708\uff0c\u627e\u5230\u4e86\u51e0\u4e2a\u4e0d\u9519\u7684\u5730\u65b9\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 529,
@@ -3989,7 +3989,7 @@
             }, {
                 "message": {
                     "": "So since there's nothing to do, do you want me to show you around?",
-                    "en_US": "Então, já que não há nada para fazer, você quer que eu te mostre?",
+                    "en_US": "Então, já que não tem nada para fazer, você quer que eu te mostre?",
                     "de_DE": "Da wir ohnehin nichts zu tun haben - soll ich dich ein bisschen herumf\u00fchren?",
                     "zh_CN": "\u53cd\u6b63\u4e5f\u6ca1\u4e8b\u5e72\uff0c\u6211\u5e26\u4f60\u53bb\u901b\u901b\u5982\u4f55\uff1f<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 530,
@@ -4640,7 +4640,7 @@
             }, {
                 "message": {
                     "": "Well at least we got a proper quest today.",
-                    "en_US": "Bem, pelo menos temos uma missão adequada hoje.",
+                    "en_US": "Bom, pelo menos temos uma missão decente hoje.",
                     "de_DE": "Aber immerhin haben wir heute eine richtige Quest bekommen.",
                     "zh_CN": "\u8d77\u7801\u4eca\u5929\u7684\u7b97\u662f\u4e2a\u4efb\u52a1\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 539,
@@ -4691,7 +4691,7 @@
             }, {
                 "message": {
                     "": "Look, it's clear something isn't quite right with you.",
-                    "en_US": "Olha, está claro que algo não está certo com você.",
+                    "en_US": "Está na cara que tem algo errado com você.",
                     "de_DE": "Lea, selbst ein Blinder mit Kr\u00fcckstock sieht, dass dich irgendwas bedr\u00fcckt.",
                     "zh_CN": "\u4f60\u663e\u7136\u6709\u4ec0\u4e48\u5730\u65b9\u4e0d\u5bf9\u52b2\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 541,
@@ -4708,7 +4708,7 @@
             }, {
                 "message": {
                     "": "Should we somehow try to...\\. talk about it?",
-                    "en_US": "Devemos tentar de alguma forma...\\. falar sobre isso?",
+                    "en_US": "Você quer falar sobre isso?",
                     "de_DE": "Sollen wir irgendwie versuchen...\\. dar\u00fcber zu reden?",
                     "zh_CN": "\u8981\u4e0d\u7136\u54b1\u4fe9...\\.\u8c08\u8c08?<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 542,
@@ -4776,7 +4776,7 @@
             }, {
                 "message": {
                     "": "Or we just go ahead and solve today's quest?",
-                    "en_US": "Ou vamos em frente e resolvemos a missão de hoje?",
+                    "en_US": "Ou devemos continuar e concluir a missão?",
                     "de_DE": "Oder sollen wir einfach weitermachen und die Quest erledigen?",
                     "zh_CN": "\u90a3\u6211\u4eec\u53bb\u505a\u4eca\u5929\u7684\u4efb\u52a1\u600e\u4e48\u6837\uff1f<<A<<[CHANGED 2017\/10\/10]",
                     "langUid": 546,
@@ -5411,7 +5411,7 @@
             }, {
                 "message": {
                     "": "Well then, we're free to go to the tower now.",
-                    "en_US": "Bem, estamos livres para ir para a torre agora.",
+                    "en_US": "Beleza, estamos livres para ir para a torre agora.",
                     "de_DE": "Aber gut, jetzt haben wir Zeit f\u00fcr den Turm.",
                     "zh_CN": "\u6211\u4eec\u53ef\u4ee5\u53bb\u9ad8\u5854\u90a3\u91cc\u4e86\u3002<<A<<[CHANGED 2018\/09\/19]",
                     "ja_JP": "\u3088\u3057\u3001\u3053\u308c\u3067\u3044\u3064\u3067\u3082\n\u5854\u306b\u884c\u3051\u308b\u306a\u3002<<A<<[CHANGED 2018\/09\/19]",
@@ -5445,7 +5445,7 @@
             }, {
                 "message": {
                     "": "Who knows what will await us in there, right? It might take some time.",
-                    "en_US": "Quem sabe o que nos espera lá dentro, certo? Pode levar algum tempo.",
+                    "en_US": "Quem sabe o que nos espera lá. Pode ser complicado.",
                     "de_DE": "Wer wei\u00df, was uns dort erwartet. Wir werden wahrscheinlich eine Weile unterwegs sein.",
                     "zh_CN": "\u8c01\u77e5\u9053\u90a3\u91cc\u6709\u4ec0\u4e48\u5bf9\u5427\uff1f\u8bf4\u4e0d\u5b9a\u8981\u5f88\u957f\u65f6\u95f4\u3002<<A<<[CHANGED 2017\/12\/12]",
                     "ja_JP": "\u3060\u3063\u3066\u3001\u3042\u305d\u3053\u3067\u4f55\u304c\u5f85\u3063\u3066\u308b\u304b\n\u308f\u304b\u3089\u306a\u3044\u3060\u308d\uff1f\u6642\u9593\u304c\n\u304b\u304b\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3057\u3002<<A<<[CHANGED 2017\/12\/11]",

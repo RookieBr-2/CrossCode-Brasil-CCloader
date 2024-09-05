@@ -11200,7 +11200,7 @@
               {
                 "message": {
                   "": "[nods]",
-                  "en_US": "[acena com a cabe\u00e7a]",
+                  "en_US": "[acena a cabeça]",
                   "de_DE": "[nickt]",
                   "fr_FR": "fr_FR",
                   "langUid": 28,
@@ -11429,7 +11429,7 @@
                 {
                   "message": {
                     "": "Especially the old hats... you can get them from his mean brothers in Bergen Trail.",
-                    "en_US": "Principalmente os chapéus velhos... você obter alguns com os bonecos de gelo malvados na Trilha de Bergen.",
+                    "en_US": "Principalmente os chapéus velhos... você pode obter alguns com os bonecos de gelo malvados na Trilha de Bergen.",
                     "de_DE": "Besonders die alten H\u00fcte... Du kannst sie von seinen gemeinen Br\u00fcdern auf dem Bergen-Trail bekommen.",
                     "fr_FR": "fr_FR",
                     "langUid": 33,
@@ -11598,7 +11598,7 @@
               {
                 "message": {
                   "": "[nods]",
-                  "en_US": "[acena com a cabe\u00e7a]",
+                  "en_US": "[acena a cabeça]",
                   "de_DE": "[nickt]",
                   "fr_FR": "fr_FR",
                   "langUid": 26,
@@ -11845,7 +11845,7 @@
                 {
                   "message": {
                     "": "[nods]",
-                    "en_US": "[acena com a cabe\u00e7a]",
+                    "en_US": "[acena a cabeça]",
                     "de_DE": "[nickt]",
                     "fr_FR": "fr_FR",
                     "langUid": 421,
@@ -13448,7 +13448,7 @@
             "entity": { "global": true, "name": "confidentina" },
             "text": {
               "": "Alright, the first dungeon is just ahead.\\. Just stay calm, remember the basics and you should be fine!",
-              "en_US": "Tudo bem, a primeira dungeon est\u00e1 logo \u00e0 frente.\\. Fique calmo, lembre-se do b\u00e1sico e voc\u00ea ficar\u00e1 bem!",
+              "en_US": "Tudo bem, a primeira dungeon está logo à frente.\\. Mantenha a calma, lembre-se do básico e você ficará bem!",
               "de_DE": "Okay, der erste Dungeon liegt direkt vor uns.\\. Bleib einfach ruhig, erinnere dich an das, was du gelernt hast, und alles sollte gut werden!\n",
               "fr_FR": "fr_FR",
               "langUid": 101,
@@ -13462,7 +13462,7 @@
             "entity": { "global": true, "name": "scared-of-dungeon" },
             "text": {
               "": "I guess. Still...\\. I've always been fighting \\c[5]in groups\\c[0] up until now so it's a bit of a change.",
-              "en_US": "Eu acho que sim. Mas...\\. At\u00e9 agora eu s\u00f3 lutei em \\c[5]em grupos\\c[0]. Ser\u00e1 um grande desafio.",
+              "en_US": "Acho que sim. Mas...\\. até agora, só lutei \\c[5]em grupos\\c[0]. Isso vai ser um grande desafio.",
               "de_DE": "Joa, mal sehen...\\. Bisher habe ich n\u00e4mlich immer \\c[5]in Gruppen\\c[0] gek\u00e4mpft. Das wird eine ganz sch\u00f6ne Umstellung.",
               "fr_FR": "fr_FR",
               "langUid": 102,
@@ -13549,7 +13549,7 @@
               {
                 "message": {
                   "": "Oh, hey there. Are you also on your way to the \\c[3]first dungeon\\c[0]?",
-                  "en_US": "Ah, ol\u00e1. Voc\u00ea tamb\u00e9m est\u00e1 a caminho da \\c[3]primeira dungeon\\c[0]?",
+                  "en_US": "Olá! Você também está indo para a \\c[3]primeira dungeon\\c[0]?",
                   "de_DE": "Oh, hallo. Auch auf dem Weg zu deinem \\c[3]ersten Dungeon\\c[0]?",
                   "fr_FR": "fr_FR",
                   "langUid": 109,
@@ -13568,7 +13568,7 @@
               {
                 "message": {
                   "": "[nods]",
-                  "en_US": "[acena com a cabe\u00e7a]",
+                  "en_US": "[acena a cabeça]",
                   "de_DE": "[nickt]",
                   "fr_FR": "fr_FR",
                   "langUid": 110,
@@ -13584,7 +13584,7 @@
               {
                 "message": {
                   "": "It's not that hard but a lot of new players are scared of it, especially since you gotta do it \\c[3]on your own\\c[0].",
-                  "en_US": "N\u00e3o \u00e9 t\u00e3o dif\u00edcil, mas muitos jogadores novatos t\u00eam medo disso, especialmente porque voc\u00ea tem que fazer isso \\c[3]por conta pr\u00f3pria\\c[0].",
+                  "en_US": "Não é tão difícil, mas muitos jogadores novatos têm medo, especialmente porque você tem que entrar nela \\c[3]sozinho\\c[0].",
                   "de_DE": "Er ist nicht so schwer, aber viele neue Spieler haben Angst davor, besonders, weil man ihn \\c[3]allein bew\u00e4ltigen muss\\c[0].",
                   "fr_FR": "fr_FR",
                   "langUid": 111,
@@ -13641,7 +13641,7 @@
               {
                 "message": {
                   "": "The puzzles are a core element of those temple-dungeons and they wouldn't really work in groups of random sizes.",
-                  "en_US": "Os enigmas s\u00e3o o elemento principal dessas dungeons e eles n\u00e3o funcionariam corretamente em grupos maiores de pessoas.",
+                  "en_US": "Os puzzles são os elementos centrais dessas dungeons e não funcionariam corretamente com jogadores em grupo.",
                   "de_DE": "Die R\u00e4tsel sind die Kernelemente dieser Tempel-Dungeons und sie w\u00fcrden in Gruppen von zuf\u00e4lliger Gr\u00f6\u00dfe nicht wirklich funktionieren.",
                   "fr_FR": "fr_FR",
                   "langUid": 114,
@@ -13660,7 +13660,7 @@
               {
                 "message": {
                   "": "So it makes sense to restrict them to solo-instances.\\. You gotta prove your own skills to progress in the story.",
-                  "en_US": "Portanto, faz sentido restringi-los a inst\u00e2ncias solo.\\. Voc\u00ea precisa provar suas pr\u00f3prias habilidades para progredir na hist\u00f3ria.",
+                  "en_US": "Assim, faz sentido manter os jogadores em instâncias solo.\\. Você precisa mostrar suas habilidades para progredir na história.",
                   "de_DE": "Deswegen haben sie sie instanziert.\\. Man muss also sein eigenes K\u00f6nnen unter Beweis stellen, um weiterzukommen.",
                   "fr_FR": "fr_FR",
                   "langUid": 115,
@@ -13679,7 +13679,7 @@
               {
                 "message": {
                   "": "[nods]",
-                  "en_US": "[acena com a cabe\u00e7a]",
+                  "en_US": "[acena a cabeça]",
                   "de_DE": "[nickt]",
                   "fr_FR": "fr_FR",
                   "langUid": 116,
@@ -13711,7 +13711,7 @@
               {
                 "message": {
                   "": "Alright, alright.\\. But you better not complain if I take forever to beat it then...",
-                  "en_US": "Certo, tudo bem. \\. Mas \u00e9 melhor voc\u00ea n\u00e3o reclamar se eu levar uma eternidade para terminar ent\u00e3o...",
+                  "en_US": "Certo, tudo bem.\\. Mas é melhor você não reclamar se eu demorar uma eternidade para terminar, hein...",
                   "de_DE": "Ja, hab schon verstanden.\\. Aber beschwer dich bitte nicht, wenn ich eine halbe Ewigkeit daf\u00fcr brauche...",
                   "fr_FR": "fr_FR",
                   "langUid": 117,
@@ -13746,7 +13746,7 @@
               {
                 "message": {
                   "": "Don't worry, I'll even stick around if you need moral support or calming words via \\v[lore.title.direct-link].",
-                  "en_US": "N\u00e3o se preocupe, vou at\u00e9 ficar por aqui se precisar de apoio moral ou palavras de motiva\u00e7\u00e3o via \\v[lore.title.direct-link].",
+                  "en_US": "Não se preocupe, eu ficarei por aqui para oferecer apoio moral e palavras de motivação via \\v[lore.title.direct-link].",
                   "de_DE": "Keine Sorge. Ich bleibe sogar in der N\u00e4he, falls du moralische Unterst\u00fctzung brauchst oder ein paar beruhigende Worte via \\v[lore.title.direct-link].",
                   "fr_FR": "fr_FR",
                   "langUid": 118,
@@ -13787,7 +13787,7 @@
             "entity": { "global": true, "name": "scared-of-dungeon" },
             "text": {
               "": "And in a creepy cold mine out of all places.\\. Brrr...",
-              "en_US": "E em uma mina t\u00e3o assustadora.\\. Brrr...",
+              "en_US": "E para piorar, aquela mina gelada é sinistra.\\. Brrr...",
               "de_DE": "Und dann auch noch in so einer gruseligen Mine.\\. Brrr....",
               "fr_FR": "fr_FR",
               "langUid": 103,
@@ -13829,7 +13829,7 @@
             "entity": { "global": true, "name": "confidentina" },
             "text": {
               "": "Don't think of the cold, think of the reward at the end. You'll warm up in no time.",
-              "en_US": "N\u00e3o pense no frio, pense na recompensa no final. Ent\u00e3o voc\u00ea estar\u00e1 quente novamente em segundos.",
+              "en_US": "E não pense no frio, pense na recompensa no final. Ent\u00e3o voc\u00ea estar\u00e1 quente novamente em segundos.",
               "de_DE": "Denk nicht an die K\u00e4lte, denk an die Belohnung am Ende. Dann wird dir in Nullkommanix wieder warm.",
               "fr_FR": "fr_FR",
               "langUid": 105,
@@ -13843,7 +13843,7 @@
             "entity": { "global": true, "name": "scared-of-dungeon" },
             "text": {
               "": "If I don't freeze down there all by myself...",
-              "en_US": "Se eu j\u00e1 n\u00e3o estiver congelado at\u00e9 l\u00e1...",
+              "en_US": "Se eu não tiver congelado até lá...",
               "de_DE": "Wenn ich bis dahin nicht erfroren bin...",
               "fr_FR": "fr_FR",
               "langUid": 106,
@@ -13857,7 +13857,7 @@
             "entity": { "global": true, "name": "confidentina" },
             "text": {
               "": "Oh come on, cut the drama...",
-              "en_US": "Ah qual foi, sem drama...",
+              "en_US": "Ah que isso, sem drama...",
               "de_DE": "Ach komm, mach kein Drama draus...",
               "fr_FR": "fr_FR",
               "langUid": 107,
@@ -14610,7 +14610,7 @@
               {
                 "message": {
                   "": "[nods]",
-                  "en_US": "[acena com a cabe\u00e7a]",
+                  "en_US": "[acena a cabeça]",
                   "de_DE": "[nickt]",
                   "fr_FR": "fr_FR",
                   "langUid": 161,
@@ -14664,7 +14664,7 @@
               {
                 "message": {
                   "": "[nods]",
-                  "en_US": "[acena com a cabe\u00e7a]",
+                  "en_US": "[acena a cabeça]",
                   "de_DE": "[nickt]",
                   "fr_FR": "fr_FR",
                   "langUid": 164,
@@ -14869,7 +14869,7 @@
           {
             "message": {
               "": "[nods]",
-              "en_US": "[acena com a cabe\u00e7a]",
+              "en_US": "[acena a cabeça]",
               "de_DE": "[nickt]",
               "fr_FR": "fr_FR",
               "langUid": 133,
@@ -15429,7 +15429,7 @@
         "analyzable": {
           "text": {
             "": "Kid Goat",
-            "en_US": "Cabrito",
+            "en_US": "Cabra",
             "de_DE": "Ziegenkitz",
             "fr_FR": "fr_FR",
             "langUid": 426,
@@ -15988,7 +15988,7 @@
           {
             "message": {
               "": "Normal bridge?\\. Why normal bridge if you could have laser bridge?",
-              "en_US": "Uma ponte normal? \\. Por que uma ponte normal se voc\u00ea pode ter uma ponte de laser?",
+              "en_US": "Uma ponte normal?\\. Por que uma ponte normal se voc\u00ea pode ter uma ponte de laser?",
               "langUid": 436,
               "de_DE": "Normale Br\u00fccke?\\. Warum eine normale Br\u00fccke, wenn es eine Laserbr\u00fccke sein k\u00f6nnte?",
               "ja_JP": "\u666e\u901a\u306e\u6a4b\uff1f\\.\u30ec\u30fc\u30b6\u30fc\u306e\u6a4b\u304c\u304b\u3051\u3089\u308c\u308b\u306e\u306b\u3001\n\u306a\u3093\u3067\u666e\u901a\u306e\u6a4b\u306a\u3093\u304b\u304b\u3051\u305f\u306e\uff1f<<A<<[CHANGED 2018/09/02]",
@@ -16277,7 +16277,7 @@
                   {
                     "message": {
                       "": "[nods]",
-                      "en_US": "[acena com a cabe\u00e7a]",
+                      "en_US": "[acena a cabeça]",
                       "langUid": 476,
                       "zh_CN": "[\u70b9\u5934]<<A<<[CHANGED 2019/04/16]",
                       "ko_KR": "[\ub044\ub355]<<A<<[CHANGED 2019/04/16]",
@@ -16312,7 +16312,7 @@
                       {
                         "message": {
                           "": "[nods]",
-                          "en_US": "[acena com a cabe\u00e7a]",
+                          "en_US": "[acena a cabeça]",
                           "langUid": 478,
                           "zh_CN": "[\u70b9\u5934]<<A<<[CHANGED 2019/04/16]",
                           "ko_KR": "[\ub044\ub355]<<A<<[CHANGED 2019/04/16]",

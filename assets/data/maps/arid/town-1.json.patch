@@ -4398,7 +4398,7 @@
           {
             "message": {
               "": "Purple water... This is strange. I roughly remember something along those lines from early content production...",
-              "en_US": "Água roxa... isso é estranho. Lembro-me mais ou menos de algo nesse sentido desde o início da produção de conteúdo...",
+              "en_US": "Água roxa... isso é estranho. Lembro-me vagamente de algo assim nas primeiras versões do jogo...",
               "langUid": 4,
               "zh_CN": "\u7d2b\u8272\u7684\u6c34...\u771f\u5947\u602a\u3002\u6211\u8bb0\u5f97\u8fd9\u73a9\u610f\u53ea\u6709\u5f00\u53d1\u65e9\u671f\u7684\u65f6\u5019\u624d\u6709\u7684...<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Purpurnes Wasser... Eigenartig... Ich erinnere mich vage an etwas in diese Richtung aus einem ganz fr\u00fchen Entwicklungsstand des Spiels...",
@@ -4709,7 +4709,7 @@
           {
             "message": {
               "": "And it looks like we're stuck here, right? At least I can't seem to teleport away.",
-              "en_US": "E parece que estamos presos aqui, certo? Já que não consigo me teletransportar.",
+              "en_US": "E parece que estamos presos aqui, não é? Já que não consigo me teletransportar.",
               "langUid": 24,
               "zh_CN": "\u800c\u4e14\u6211\u4eec\u597d\u50cf\u88ab\u56f0\u5728\u8fd9\u91cc\u4e86? \u6211\u90fd\u6ca1\u6cd5\u4f20\u9001\u79bb\u5f00\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Und so wie es aussieht, stecken wir hier fest, was? Jedenfalls funktioniert das Teleportieren hier nicht.",
@@ -4757,7 +4757,7 @@
           {
             "message": {
               "": "I'm not even exactly sure how we ended up here. Any idea?",
-              "en_US": "Eu nem sei exatamente como acabamos aqui. Alguma ideia?",
+              "en_US": "Eu nem sei como acabamos aqui. Alguma ideia?",
               "langUid": 27,
               "zh_CN": "\u6211\u90fd\u4e0d\u77e5\u9053\u6211\u662f\u600e\u4e48\u5230\u8fd9\u6765\u7684\u3002\u4f60\u8bb0\u5f97\u5417\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Ich bin nicht mal sicher, wie wir \u00fcberhaupt hierhergekommen sind. Hast du irgendeine Idee?",
@@ -4802,7 +4802,7 @@
           {
             "message": {
               "": "Tja...",
-              "en_US": "Bem...",
+              "en_US": "Putz...",
               "langUid": 30,
               "zh_CN": "\u55ef...<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Tja...",
@@ -4817,7 +4817,7 @@
           {
             "message": {
               "": "Anyway, I guess we both are supposed to start a party. So... shall we?",
-              "en_US": "De qualquer forma, acho que nós dois devemos começar uma equipe. Então... vamos?",
+              "en_US": "Enfim, acho que nós dois devemos formar um grupo. Vamos?",
               "langUid": 31,
               "zh_CN": "\u90a3\u6211\u4eec\u4fe9\u5f00\u59cb\u7ec4\u961f\u5427...?<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Wie auch immer, ich nehme mal an, dass wir beide eine Party bilden sollen. Also... sollen wir?",
@@ -5065,7 +5065,7 @@
           {
             "message": {
               "": "Next station will be the \\c[3]Quest Hub\\c[0] of this area. They want us both to show up there for a \\c[3]quest\\c[0].",
-              "en_US": "A próxima parada será o \\c[3]Centro de Missões\\c[0] desta área. Eles querem que nós dois apareçamos lá para uma \\c[3]quest\\c[0].",
+              "en_US": "A próxima parada será a \\c[3]Central de Missões\\c[0] desta área. Eles querem que a gente apareça lá para fazer uma \\c[3]missão\\c[0].",
               "langUid": 36,
               "zh_CN": "\u6211\u4eec\u5f97\u53bb\u8fd9\u91cc\u7684\\c[3]\u4efb\u52a1\u4e2d\u5fc3\\c[0]\u3002\u4ed6\u4eec\u60f3\u8ba9\u6211\u4eec\u53bb\u63a5\\c[3]\u4efb\u52a1\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Als N\u00e4chstes m\u00fcssen wir zum hiesigen \\c[3]Quest Hub\\c[0]. Die wollen n\u00e4mlich, dass wir beide uns dort f\u00fcr eine \\c[3]Quest\\c[0] melden.",
@@ -5197,7 +5197,7 @@
           {
             "message": {
               "": "Does that mean that regular players can in fact access this part?",
-              "en_US": "Isso significa que jogadores regulares podem de fato acessar essa parte?",
+              "en_US": "Isso significa que jogadores comuns podem de fato acessar essa parte?",
               "langUid": 39,
               "zh_CN": "\u8fd9\u662f\u8bf4\u666e\u901a\u73a9\u5bb6\u4e5f\u80fd\u8fdb\u5165\u8fd9\u7247\u533a\u57df\u5417\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Bedeutet das, dass regul\u00e4re Spieler Zugang zu diesem Gebiet haben?",
@@ -5225,7 +5225,7 @@
           {
             "task": {
               "": "Visit the \\c[3]Quest Hub\\c[0] in \\c[3]Vermillion Wasteland - West Town\\c[0]",
-              "en_US": "Visite o \\c[3]Centro de Missões\\c[0] em \\c[3]Oeste da Cidade - Deserto Carmesim\\c[0]",
+              "en_US": "Visite a \\c[3]Central de Missões\\c[0] em \\c[3]Oeste da Cidade - Deserto Carmesim\\c[0]",
               "langUid": 859,
               "zh_CN": "\u8bbf\u95ee\u4f4d\u4e8e\\c[3]\u6731\u7ea2\u5e9f\u571f - \u897f\u57ce\\c[0]\u7684\\c[3]\u4efb\u52a1\u4e2d\u5fc3\\c[0]<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\\c[3]\uc8fc\ud64d\uc758 \ud669\ubb34\uc9c0 - \uc11c\ucabd \ub9c8\uc744\\c[0]\uc5d0 \uc788\ub294 \\c[3]\ud018\uc2a4\ud2b8 \ud5c8\ube0c\\c[0]\uc5d0 \ubc29\ubb38\ud558\uc138\uc694<<A<<[CHANGED 2018/03/14]",
@@ -5367,7 +5367,7 @@
               {
                 "message": {
                   "": "Nobody is certain what's beyond there anyway...",
-                  "en_US": "Ninguém tem certeza do que está além de lá de qualquer maneira...",
+                  "en_US": "No fim, ninguém sabe o que tem além daquele lugar...",
                   "langUid": 45,
                   "zh_CN": "\u800c\u4e14\u8c01\u4e5f\u4e0d\u77e5\u9053\u53e6\u4e00\u8fb9\u5230\u5e95\u6709\u4ec0\u4e48...<<A<<[CHANGED 2017/10/10]",
                   "de_DE": "Es wei\u00df eh niemand, was sich dahinter verbirgt...",
@@ -5578,7 +5578,7 @@
           {
             "message": {
               "": "Ah, there you are!",
-              "en_US": "Ai está você!",
+              "en_US": "Ei Lea!",
               "langUid": 65,
               "zh_CN": "\u54e6\uff0c\u4f60\u5728\u8fd9\uff01<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Ah, da bist du ja!",
@@ -5672,7 +5672,7 @@
           {
             "message": {
               "": "I've been waiting for you.",
-              "en_US": "Eu estive esperando por você.",
+              "en_US": "Eu estava esperando por você.",
               "langUid": 53,
               "zh_CN": "\u6211\u7b49\u4e86\u4f60\u597d\u4e45\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Ich habe auf dich gewartet.",
@@ -5687,7 +5687,7 @@
           {
             "message": {
               "": "It looks like you had your fair share of beauty sleep.",
-              "en_US": "Parece que você teve sua cota de sono da beleza.",
+              "en_US": "Você parece ter aproveitado bem seu sono da beleza.",
               "langUid": 54,
               "zh_CN": "\u770b\u6765\u4f60\u7684\u7f8e\u5bb9\u89c9\u7761\u5f97\u5f88\u723d\u561b\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Offensichtlich hast du deinen Sch\u00f6nheitsschlaf voll ausgekostet.",
@@ -5750,7 +5750,7 @@
           {
             "message": {
               "": "I mean it does feel like sleeping once you log out, right?",
-              "en_US": "Quero dizer, parece que você está dormindo depois de deslogar, certo?",
+              "en_US": "Na verdade, estar desconectado te dá a sensação de estar dormindo, não dá?",
               "langUid": 58,
               "zh_CN": "\u4e0b\u7ebf\u7684\u611f\u89c9\u786e\u5b9e\u5f88\u50cf\u7761\u89c9\u5bf9\u5427\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Ich meine, es f\u00fchlt sich wirklich wie schlafen an, sobald du dich ausloggst, oder?",
@@ -5765,7 +5765,7 @@
           {
             "message": {
               "": "I'm just glad they allow you to do that once you enter your room.",
-              "en_US": "Estou feliz por eles permitirem que você faça isso quando entra no seu quarto.",
+              "en_US": "Ainda bem que eles deixam a gente fazer isso quando entramos no nosso quarto.",
               "langUid": 59,
               "zh_CN": "\u8fd8\u597d\u8fd9\u91cc\u56de\u623f\u95f4\u4e4b\u540e\u80fd\u4e0b\u7ebf\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Ich bin froh, dass sie uns wenigstens das erlauben, wenn sie uns schon in unserem Zimmer einsperren.",
@@ -5813,7 +5813,7 @@
           {
             "message": {
               "": "I sure lost my nerves, didn't I? Not very proud of that.",
-              "en_US": "Com certeza perdi meus nervos, não é? Não tenho muito orgulho disso.",
+              "en_US": "Com certeza perdi minha cabeça, não é? Não tenho muito orgulho disso.",
               "langUid": 62,
               "zh_CN": "\u6211\u5f53\u65f6\u6709\u70b9\u614c\u3002\u4e22\u4eba\u4e86\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Ich hab dort echt die Nerven verloren, oder? Bin nicht gerade stolz dadrauf.",
@@ -5843,7 +5843,7 @@
           {
             "message": {
               "": "I'm really impressed how well you're taking all of this.",
-              "en_US": "Estou realmente impressionado com o quão bem você está levando tudo isso.",
+              "en_US": "É incrível como você está suportando tudo tão bem.",
               "langUid": 64,
               "zh_CN": "\u4e0d\u8fc7\u4f60\u5012\u662f\u63a5\u53d7\u7684\u5f88\u5feb\u561b\u3002<<A<<[CHANGED 2018/09/19]",
               "de_DE": "Ich bin wirklich beeindruckt, wie du das alles verkraftest.",
@@ -5873,7 +5873,7 @@
           {
             "message": {
               "": "Anyway, let's go to the hub again.",
-              "en_US": "De qualquer forma, vamos para o centro de novo.",
+              "en_US": "Enfim, vamos para o centro de novo.",
               "langUid": 66,
               "zh_CN": "\u603b\u4e4b\uff0c\u6211\u4eec\u518d\u53bb\u4e00\u8d9f\u4efb\u52a1\u4e2d\u5fc3\u5427\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Gut, dann lass uns mal zum Quest Hub gehen.",
@@ -5925,7 +5925,7 @@
           {
             "task": {
               "": "Visit the \\c[3]Quest Hub\\c[0] in \\c[3]Vermillion Wasteland - West Town\\c[0]",
-              "en_US": "Visite o \\c[3]Centro de Missões\\c[0] em \\c[3]Oeste da Cidade - Deserto Carmesim\\c[0]",
+              "en_US": "Visite a \\c[3]Central de Missões\\c[0] em \\c[3]Oeste da Cidade - Deserto Carmesim\\c[0]",
               "langUid": 860,
               "zh_CN": "\u8bbf\u95ee\u4f4d\u4e8e\\c[3]\u6731\u7ea2\u5e9f\u571f - \u897f\u57ce\\c[0]\u7684\\c[3]\u4efb\u52a1\u4e2d\u5fc3\\c[0]<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\\[3]\uc8fc\ud64d\uc758 \ud669\ubb34\uc9c0 - \uc11c\ucabd \ub9c8\uc744\\c[0]\uc5d0 \uc788\ub294 \\c[3]\ud018\uc2a4\ud2b8 \ud5c8\ube0c\\c[0]\uc5d0 \ubc29\ubb38\ud558\uc138\uc694<<A<<[CHANGED 2018/03/14]",
@@ -6195,7 +6195,7 @@
           {
             "message": {
               "": "Some of the other players here told me about it.",
-              "en_US": "Alguns dos outros jogadores aqui me falaram disso.",
+              "en_US": "Outros jogadores me falaram sobre isso.",
               "langUid": 129,
               "zh_CN": "\u8fd9\u91cc\u5176\u4ed6\u7684\u73a9\u5bb6\u8ddf\u6211\u8bf4\u7684\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Ein paar der anderen Spieler haben mir davon erz\u00e4hlt.",
@@ -6210,7 +6210,7 @@
           {
             "message": {
               "": "It seems like there is a way to get up to this tower. ",
-              "en_US": "Parece que há uma maneira de chegar até esta torre.",
+              "en_US": "Parece que tem uma maneira de chegar na torre.",
               "langUid": 124,
               "zh_CN": "\u636e\u8bf4\u6709\u4e00\u6761\u8def\u4e00\u76f4\u901a\u5230\u9ad8\u5854\u90a3\u91cc\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Sieht so aus, als g\u00e4be es einen Weg, zum Turm hochzukommen.",
@@ -6225,7 +6225,7 @@
           {
             "message": {
               "": "Some of our fellow inmates went there... and never came back.",
-              "en_US": "Alguns de nossos companheiros foram para lá... e nunca mais voltaram.",
+              "en_US": "Alguns dos nossos companheiros foram para lá... e nunca mais voltaram.",
               "langUid": 125,
               "zh_CN": "\u6709\u4e9b\u548c\u6211\u4eec\u4f4f\u4e00\u8d77\u7684\u5ba4\u53cb\u53bb\u4e86\u90a3\u91cc...\u518d\u4e5f\u6ca1\u56de\u6765\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Ein paar unserer Leidensgenossen waren dort oben... und sind nie wieder zur\u00fcckgekehrt.",
@@ -6285,7 +6285,7 @@
           {
             "message": {
               "": "Anyway, you can only get there once you've finished the second Trial Building.",
-              "en_US": "De qualquer forma, você só pode chegar lá depois de terminar o segundo Edifício de Teste.",
+              "en_US": "Enfim, você só pode chegar lá depois de terminar o segundo Edifício de Teste.",
               "langUid": 121,
               "zh_CN": "\u603b\u4e4b\uff0c\u53ea\u6709\u6253\u5b8c\u4e86\u7b2c\u4e8c\u4e2a\u8bd5\u7ec3\u573a\u624d\u80fd\u53bb\u90a3\u91cc\u3002<<A<<[CHANGED 2018/09/19]",
               "de_DE": "Jedenfalls k\u00f6nnen wir dort erst hin, wenn wir das zweite Pr\u00fcfungsgeb\u00e4ude erledigt haben.",
@@ -6300,7 +6300,7 @@
           {
             "message": {
               "": "Let's hope they'll give us the quest for that soon.",
-              "en_US": "Vamos esperar que eles nos dêem a missão por isso em breve.",
+              "en_US": "Vamos esperar que eles nos passem a missão em breve.",
               "langUid": 130,
               "zh_CN": "\u5e0c\u671b\u4ed6\u4eec\u65e9\u70b9\u7ed9\u6211\u4eec\u90a3\u4e2a\u4efb\u52a1\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Lass uns also hoffen, dass sie uns bald die Quest geben.",
@@ -6464,7 +6464,7 @@
           {
             "message": {
               "": "First Rookie Harbor, now Vermillion Wasteland. Guess I should think about a career as a tour guide.",
-              "en_US": "Primeiro no Porto Novato, agora no Deserto Carmesim. Acho que deveria pensar em uma carreira como guia turístico.",
+              "en_US": "Primeiro no Porto Novato, agora no Deserto Carmesim. Talvez eu devesse seguir a carreira de guia turístico.",
               "langUid": 137,
               "zh_CN": "\u5148\u662f\u65b0\u624b\u6e2f\uff0c\u7136\u540e\u662f\u6731\u7ea2\u5e9f\u571f\u3002\u770b\u6765\u6211\u53ef\u4ee5\u8f6c\u884c\u5f53\u5bfc\u6e38\u4e86\u3002<<A<<[CHANGED 2018/09/19]",
               "de_DE": "Erst Rookie Harbor, jetzt die Vermillonein\u00f6de. Vielleicht sollte ich mal \u00fcber eine Karriere als Fremdenf\u00fchrer nachdenken.",
@@ -6554,7 +6554,7 @@
           {
             "message": {
               "": "Hm?\\. Do you mean it will all come with time?",
-              "en_US": "Hm?\\. Você quer dizer que tudo isso virá com o tempo?",
+              "en_US": "Hm?\\. Você quer dizer que minha memória voltará com o tempo?",
               "langUid": 143,
               "zh_CN": "\u55ef?\\.\u4f60\u662f\u8bf4\u4f1a\u6162\u6162\u60f3\u8d77\u6765\u7684\u5417\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Hm?\\. Meinst du, das kommt alles mit der Zeit?",
@@ -6602,7 +6602,7 @@
           {
             "message": {
               "": "Now then...\\. Anything else today?",
-              "en_US": "Agora...\\. Algo mais hoje?",
+              "en_US": "Então...\\. temos mais alguma coisa para fazer hoje?",
               "langUid": 146,
               "zh_CN": "\u90a3\u4e48...\\.\u4eca\u5929\u8fd8\u60f3\u5e72\u70b9\u4ec0\u4e48\u522b\u7684\u5417\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Also dann...\\. Steht f\u00fcr heute noch was an?",
@@ -6617,7 +6617,7 @@
           {
             "message": {
               "": "We can still have a look around, otherwise I'm ready to hit the hay.",
-              "en_US": "Ainda podemos dar uma olhada ao redor, caso contrário estou pronto para cair no feno.",
+              "en_US": "Se quiser, podemos continuar explorando. Se não, estou pronto para uma boa soneca.",
               "langUid": 147,
               "zh_CN": "\u6211\u4eec\u53ef\u4ee5\u5728\u5468\u56f4\u901b\u901b\uff0c\u4e0d\u60f3\u7684\u8bdd\u6211\u5c31\u53bb\u7761\u89c9\u4e86\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Wir k\u00f6nnten uns noch ein wenig umsehen, ansonsten w\u00e4re ich auch reif f\u00fcr die Falle.",
@@ -6714,7 +6714,7 @@
           {
             "message": {
               "": "Who am I kidding...",
-              "en_US": "Quem estou enganando...",
+              "en_US": "Quem estou tentando enganar... esse lugar é um pesadelo.",
               "langUid": 151,
               "zh_CN": "\u5f00\u73a9\u7b11\u7684...<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Wem mache ich hier eigentlich was vor...",
@@ -6970,7 +6970,7 @@
           {
             "message": {
               "": "So...\\. should we finish that trial building today?",
-              "en_US": "Então...\\. devemos terminar aquele edifício de teste hoje?",
+              "en_US": "Então...\\. vamos para aquele edifício de teste hoje?",
               "de_DE": "Also...\\. Sollen wir heute dieses Pr\u00fcfungsgeb\u00e4ude erledigen?",
               "zh_CN": "\u90a3...\\.\u6211\u4eec\u4eca\u5929\u53bb\u6253\u5b8c\u8bd5\u70bc\u573a\u5427?<<A<<[CHANGED 2017/12/12]",
               "ja_JP": "\u305d\u308c\u3058\u3083...\\.\u4eca\u65e5\u306f\u8a66\u7df4\u306e\u9928\u3092\n\u7247\u3065\u3051\u308b\u3068\u3059\u308b\u304b\u3002<<A<<[CHANGED 2017/12/02]",
@@ -7291,7 +7291,7 @@
           {
             "message": {
               "": "Jawohl, let's do this!",
-              "en_US": "Jawohl, vamos fazer isso!",
+              "en_US": "Jawohl, bora!",
               "de_DE": "Jawoll! Ziehen wir's durch!",
               "zh_CN": "\u90a3\u597d\uff0c\u6211\u4eec\u4e0a\u5427\uff01<<A<<[CHANGED 2018/01/14]",
               "ja_JP": "\u3088\u3057\u3001\u3084\u3063\u3066\u3084\u308d\u3046\u305c\uff01<<A<<[CHANGED 2018/01/14]",
@@ -7429,7 +7429,7 @@
           {
             "message": {
               "": "Going straight upwards will definitely not work.",
-              "en_US": "Seguir direto para cima definitivamente não vai funcionar.",
+              "en_US": "Seguir direto para cima não vai funcionar.",
               "de_DE": "Einfach mitten durchrennen wird nicht funktionieren.",
               "zh_CN": "\u83bd\u649e\u884c\u4e8b\u80af\u5b9a\u4e0d\u884c\u3002<<A<<[CHANGED 2018/01/14]",
               "ja_JP": "\u771f\u6b63\u9762\u304b\u3089\u7a81\u7834\u3057\u3088\u3046\u3068\u3057\u3066\u3082\n\u78ba\u5b9f\u306b\u7121\u7406\u3060\u3002<<A<<[CHANGED 2018/01/14]",
@@ -7470,7 +7470,7 @@
               {
                 "message": {
                   "": "I mean okay... we can probably \\c[1]defeat them\\c[0], but I think they'll just spawn a wall and block the entrance, right?",
-                  "en_US": "Quer dizer, tudo bem... provavelmente podemos \\c[1]derrotá-los\\c[0], mas acho que eles vão apenas criar uma parede e bloquear a entrada, certo?",
+                  "en_US": "Quer dizer, tudo bem... podemos \\c[1]derrotá-los\\c[0], mas acho que eles vão criar uma parede e bloquear a entrada, não é?",
                   "de_DE": "Ich meine, klar... \\c[1]besiegen\\c[0] k\u00f6nnten wir sie schon, aber es k\u00e4men dann so viele nach, dass sie den Eingang blockieren w\u00fcrden.",
                   "zh_CN": "\u6211\u662f\u8bf4...\u6211\u4eec\u4e5f\u8bb8\u662f\u53ef\u4ee5\\c[1]\u6253\u8d25\u5b83\u4eec\\c[0]\u6ca1\u9519\uff0c\u4f46\u662f\u4f30\u8ba1\u4ed6\u4eec\u4f1a\u76f4\u63a5\u5237\u4e00\u9053\u5899\u51fa\u6765\u6321\u4f4f\u5165\u53e3\u5bf9\u5427\uff1f<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u3064\u307e\u308a\u305d\u306e\u3001\u5927\u4e08\u592b\u3060...\u305f\u3076\u3093\\c[1]\u3042\u3044\u3064\u3089\u306f\n\u5012\u305b\u308b\\c[0]\u3002\u3067\u3082\u305d\u3057\u305f\u3089\u3001\u3042\u3044\u3064\u3089\u306f\u58c1\u3092\n\u51fa\u3057\u3066\u5165\u53e3\u3092\u3075\u3055\u3044\u3058\u307e\u3046\u3060\u308d\uff1f<<A<<[CHANGED 2019/08/16]",
@@ -7490,7 +7490,7 @@
           {
             "message": {
               "": "But... I was told that there is a secret route in the upper east over there.",
-              "en_US": "Mas... me disseram que existe uma rota secreta pelo alto, no leste.",
+              "en_US": "Mas... me disseram que existe um atalho lá atrás, no canto.",
               "de_DE": "Aber... mir wurde gesagt, dass es einen Schleichweg da hinten in der Ecke gibt.",
               "zh_CN": "\u4f46\u662f...\u6211\u542c\u8bf4\u4e1c\u8fb9\u6709\u6761\u79d8\u5bc6\u8def\u7ebf\u53ef\u8d70\u3002<<A<<[CHANGED 2018/01/14]",
               "ja_JP": "\u3067\u3082...\u5317\u6771\u306e\u307b\u3046\u306b\u96a0\u3055\u308c\u305f\u5165\u53e3\u304c\n\u3042\u308b\u3063\u3066\u805e\u3044\u305f\u3093\u3060\u3002<<A<<[CHANGED 2018/01/14]",
@@ -7525,7 +7525,7 @@
           {
             "message": {
               "": "We might have to do a bit of climbing to get through there, but it should be possible!",
-              "en_US": "Talvez tenhamos que subir um pouco para passar por lá, mas deve ser possível!",
+              "en_US": "Vamos ter que subir um pouco para passar, mas deve dar certo!",
               "de_DE": "Wir werden wahrscheinlich etwas klettern m\u00fcssen, um dort hinzukommen, aber das sollte machbar sein!",
               "zh_CN": "\u53ef\u80fd\u8981\u5148\u722c\u4e00\u722c\u624d\u80fd\u5230\uff0c\u4f46\u662f\u5e94\u8be5\u53ef\u884c\uff01<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u305f\u3069\u308a\u7740\u304f\u306b\u306f\u3069\u3053\u304b\u304b\u3089\u767b\u3089\u306a\u3044\u3068\n\u3044\u3051\u306a\u305d\u3046\u3060\u304c\u3001\u305d\u308c\u3067\u3082\n\u4e0d\u53ef\u80fd\u3058\u3083\u306a\u3055\u305d\u3046\u3060\uff01<<A<<[CHANGED 2018/03/14]",
@@ -7621,7 +7621,7 @@
           {
             "message": {
               "": "Also...\\. once we reach the tower, there might be no turning back.",
-              "en_US": "Também...\\. uma vez que chegarmos à torre, pode não haver volta.",
+              "en_US": "Mais uma coisa...\\. quando chegarmos à torre, pode ser que não haja volta.",
               "de_DE": "Noch was...\\. Sobald wir den Turm erreicht haben, gibt es vermutlich kein Zur\u00fcck mehr.",
               "zh_CN": "\u8fd8\u6709...\\.\u4e00\u65e6\u5230\u4e86\u9ad8\u5854\u90a3\u91cc\u53ef\u5c31\u56de\u4e0d\u4e86\u5934\u4e86\u3002<<A<<[CHANGED 2018/01/14]",
               "ja_JP": "\u305d\u308c\u304b\u3089...\\.\u4e00\u5ea6\u30bf\u30ef\u30fc\u306b\u305f\u3069\u308a\u7740\u3044\u305f\u3089\u3001\n\u3082\u3046\u5f8c\u623b\u308a\u306f\u3067\u304d\u306a\u3044\u3060\u308d\u3046\u306a\u3002<<A<<[CHANGED 2018/01/14]",
@@ -7639,7 +7639,7 @@
           {
             "message": {
               "": "If there is something you still want to do in this hell hole, you should do it now!",
-              "en_US": "Se há algo que você ainda quer fazer neste buraco infernal, você deve fazer agora!",
+              "en_US": "Se tem algo que você ainda quer fazer neste buraco infernal, você deve fazer agora!",
               "de_DE": "Wenn es also noch etwas gibt, was du in diesem H\u00f6llenloch erledigen willst, solltest du es jetzt tun!",
               "zh_CN": "\u5982\u679c\u4f60\u5728\u8fd9\u7834\u5730\u65b9\u8fd8\u6709\u4ec0\u4e48\u60f3\u505a\u7684\u4e8b\u60c5\u7684\u8bdd\uff0c\u5c31\u5f97\u73b0\u5728\u5904\u7406\u6389\uff01<<A<<[CHANGED 2018/01/14]",
               "ja_JP": "\u3082\u3057\u3053\u306e\u5730\u7344\u3067\u3084\u308a\u6b8b\u3057\u305f\u3053\u3068\u304c\n\u3042\u308b\u3093\u306a\u3089\u3001\u4eca\u306e\u3046\u3061\u306b\u3059\u307e\u305b\u3066\u304a\u3051\u3088\uff01<<A<<[CHANGED 2018/01/14]",
@@ -7678,7 +7678,7 @@
           {
             "task": {
               "": "Sneak through the \\c[3]north east\\c[0] exit of \\c[3]Vermillion Wasteland - East Town\\c[0] to approach the tower.",
-              "en_US": "Esgueirar-se pela saída \\c[3]norte leste\\c[0] de \\c[3]Leste da Cidade - Deserto Carmesim\\c[0] para se aproximar da torre.",
+              "en_US": "Escape pela saída \\c[3]nordeste\\c[0] em \\c[3]Leste da Cidade - Deserto Carmesim\\c[0] para se aproximar da torre.",
               "langUid": 863,
               "zh_CN": "\u6f5c\u884c\u901a\u8fc7\\c[3]\u6731\u7ea2\u5e9f\u571f - \u4e1c\u57ce\\c[0]\u7684\\c[3]\u4e1c\u5317\u90e8\\c[3]\u51fa\u53e3\u6765\u62b5\u8fbe\u5854\u7684\u6240\u5728\u3002<<A<<[CHANGED 2018/08/01]",
               "ko_KR": "\\c[3]\uc8fc\ud64d\uc758 \ud669\ubb34\uc9c0 - \ub3d9\ucabd \ub9c8\uc744\\c[0] \ucd9c\uad6c\uc640 \uc774\uc5b4\uc9c4 \\c[3]\ubd81\ub3d9\ucabd\\c[0]\uc73c\ub85c \ubab0\ub798 \ub4e4\uc5b4\uac00 \ud0d1\uc73c\ub85c \uc774\ub3d9\ud558\uc138\uc694.<<A<<[CHANGED 2018/08/01]",
@@ -7872,7 +7872,7 @@
               {
                 "message": {
                   "": "Please leave me alone.",
-                  "en_US": "Por favor, deixe-me sozinho.",
+                  "en_US": "Por favor, me deixe sozinho.",
                   "langUid": 187,
                   "zh_CN": "\u8bf7\u522b\u7406\u6211\u3002<<A<<[CHANGED 2018/03/14]",
                   "ko_KR": "\ub0a0 \ub0b4\ubc84\ub824 \ub46c.<<A<<[CHANGED 2018/03/14]",
@@ -8083,7 +8083,7 @@
               {
                 "message": {
                   "": "Yesterday, he went to the tower... So he's gone now.",
-                  "en_US": "Ontem, ele foi para a torre... Então ele já foi.",
+                  "en_US": "Ontem, ele foi para a torre... e não voltou.",
                   "langUid": 199,
                   "zh_CN": "\u6628\u5929\u4ed6\u53bb\u4e86\u9ad8\u5854\u90a3\u91cc...\u6ca1\u6709\u56de\u6765\u3002<<A<<[CHANGED 2018/03/14]",
                   "ko_KR": "\uc5b4\uc81c \uadf8 \uce5c\uad6c\uac00 \ud0d1\uc5d0 \uac14\ub294\ub370... \ud589\ubc29\ubd88\uba85\uc774 \ub410\uc5b4.<<A<<[CHANGED 2018/03/14]",
@@ -8134,7 +8134,7 @@
               {
                 "message": {
                   "": "I really don't know.\\. I don't get this...\\. I don't get any of this.",
-                  "en_US": "Eu realmente não sei.\\. Eu não entendo isso...\\. Eu não entendo nada disso.",
+                  "en_US": "Eu não sei.\\. Eu não entendo isso...\\. Eu não entendo nada disso.",
                   "langUid": 202,
                   "zh_CN": "\u6211\u4e5f\u4e0d\u77e5\u9053\u3002\\.\u771f\u662f\u4e0d\u61c2...\\.\u4e00\u70b9\u4e5f\u4e0d\u61c2\u3002<<A<<[CHANGED 2018/03/14]",
                   "ko_KR": "\uc815\ub9d0 \ubaa8\ub974\uaca0\uc5b4.\\. \uc774\ud574\uac00 \uc548 \uac00...\\. \uc544\ubb34\uac83\ub3c4 \uc774\ud574\uac00 \uc548 \uac04\ub2e4\uace0.<<A<<[CHANGED 2018/03/14]",
@@ -8170,7 +8170,7 @@
               {
                 "message": {
                   "": "Yet nobody knows what awaits us there...",
-                  "en_US": "No entanto, ninguém sabe o que nos espera lá...",
+                  "en_US": "Mas, ninguém sabe o que nos espera lá...",
                   "langUid": 204,
                   "zh_CN": "\u4f46\u662f\u6ca1\u4eba\u77e5\u9053\u90a3\u91cc\u6709\u4ec0\u4e48...<<A<<[CHANGED 2018/03/14]",
                   "ko_KR": "\uc6b0\ub9ac \uc55e\uc5d0 \ubb34\uc5c7\uc774 \uae30\ub2e4\ub9ac\uace0 \uc788\ub294\uc9c0\ub294 \uc544\ubb34\ub3c4 \ubaa8\ub974\uc9c0\ub9cc...<<A<<[CHANGED 2018/03/14]",
@@ -8251,7 +8251,7 @@
             "entity": { "global": true, "name": "plotPenta" },
             "text": {
               "": "What else is there to do?",
-              "en_US": "O que mais há para fazer?",
+              "en_US": "O que mais podemos fazer?",
               "langUid": 189,
               "zh_CN": "\u4f46\u6211\u4eec\u522b\u65e0\u9009\u62e9\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uadf8\ub7fc \uadf8\uac70 \ub9d0\uace0\ub294 \ubb34\uc2a8 \ubc29\ubc95\uc774 \uc788\ub294\ub370?<<A<<[CHANGED 2018/03/14]",
@@ -8305,7 +8305,7 @@
             "entity": { "global": true, "name": "plotPenta" },
             "text": {
               "": "I'm really sick of sticking around here. ",
-              "en_US": "Estou realmente cansado de ficar por aqui.",
+              "en_US": "Estou cansado de ficar por aqui.",
               "langUid": 183,
               "zh_CN": "\u6211\u771f\u7684\u4e0d\u60f3\u5446\u5728\u8fd9\u4e86\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc5ec\uae30 \ubd99\uc5b4\uc788\ub294 \uac74 \uc774\uc81c \uc9c8\ub838\uc5b4.<<A<<[CHANGED 2018/03/14]",
@@ -8331,7 +8331,7 @@
             "entity": { "global": true, "name": "plotQuadro" },
             "text": {
               "": "Suit yourself.",
-              "en_US": "Adeque-se.",
+              "en_US": "Faça o que quiser.",
               "langUid": 185,
               "zh_CN": "\u968f\u4f60\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub9c8\uc74c\ub300\ub85c \ud574.<<A<<[CHANGED 2018/03/14]",
@@ -12156,7 +12156,7 @@
           {
             "message": {
               "": "Quest hub it is!\\. Allons-y!",
-              "en_US": "Centro de missões!\\. Allons-y!",
+              "en_US": "Central de missões!\\. Allons-y!",
               "langUid": 1050,
               "de_DE": "Auf zum Quest Hub!\\. Allons-y!",
               "zh_TW": "\u90a3\u5c31\u4efb\u52d9\u4e2d\u5fc3\u3002\\.\u51fa\u767c\u560d\uff01<<A<<[CHANGED 2021/01/12]",

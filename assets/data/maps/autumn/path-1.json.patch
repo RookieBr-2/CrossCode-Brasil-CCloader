@@ -5251,7 +5251,7 @@
                     }, {
                         "message": {
                             "": "In any case, thanks, girl.\\. You did great work here.\\. Report back to the chief to get your reward.",
-                            "en_US": "Obrigado garota.\\. Você fez um ótimo trabalho aqui.\\. Relate de volta ao chefe para obter sua recompensa.",
+                            "en_US": "Obrigado garota.\\. Você fez um ótimo trabalho aqui.\\. Relate de volta ao sargento para obter sua recompensa.",
                             "de_DE": "Vielen Dank, junge Dame.\\. Du hast hier gute Arbeit geleistet.\\. Melde dich beim Hauptmann zur\u00fcck, um deine Belohnung zu erhalten.",
                             "fr_FR": "fr_FR",
                             "langUid": 345,
@@ -6352,7 +6352,7 @@
                         }, {
                             "message": {
                                 "": "I study this fine moon's F-Flora and F-F-Fauna.",
-                                "en_US": "Eu estudo a F-Flora e a F-F-Fauna desta bela lua.",
+                                "en_US": "Eu estudo a F-Flora e a F-F-Fauna deste belo planeta.",
                                 "de_DE": "Ich stu-du-diere die tolle Flora und F-F-Fauna dieses Mo-Mo-Mondes.",
                                 "fr_FR": "fr_FR",
                                 "langUid": 371,
@@ -6697,7 +6697,7 @@
                             }, {
                                 "message": {
                                     "": "It looks the same as the o-o-ones next to m-me.",
-                                    "en_US": "Ela é igual a que está a-a-aqui ao meu l-lado.",
+                                    "en_US": "Ela é igual a essas a-a-aqui ao meu l-lado.",
                                     "de_DE": "Sie sieht g-g-genau so aus, wie die ne-ne-neben mir.",
                                     "fr_FR": "fr_FR",
                                     "langUid": 394,
@@ -6882,7 +6882,7 @@
                 }, {
                     "message": {
                         "": "It looks the same as the o-o-ones next to m-me.",
-                        "en_US": "Ela é igual a que está a-a-aqui ao meu l-lado.",
+                        "en_US": "Ela é igual a essas a-a-aqui ao meu l-lado.",
                         "de_DE": "Sie sieht g-g-genau so aus, wie die ne-ne-neben mir.",
                         "fr_FR": "fr_FR",
                         "langUid": 391,
@@ -7706,7 +7706,7 @@
                     }, {
                         "message": {
                             "": "I study this fine moon's F-Flora and F-F-Fauna.",
-                            "en_US": "Eu estudo a F-Flora e a F-F-Fauna desta bela lua.",
+                            "en_US": "Eu estudo a F-Flora e a F-F-Fauna deste belo planeta.",
                             "de_DE": "Ich stu-du-diere die tolle Flora und F-F-Fauna dieses Mo-Mo-Mondes.",
                             "fr_FR": "fr_FR",
                             "langUid": 428,
@@ -8051,7 +8051,7 @@
                         }, {
                             "message": {
                                 "": "It looks the same as the o-o-ones next to m-me.",
-                                "en_US": "Ela é igual a que está a-a-aqui ao meu l-lado.",
+                                "en_US": "Ela é igual a essas a-a-aqui ao meu l-lado.",
                                 "de_DE": "Sie sieht g-g-genau so aus, wie die ne-ne-neben mir.",
                                 "fr_FR": "fr_FR",
                                 "langUid": 447,

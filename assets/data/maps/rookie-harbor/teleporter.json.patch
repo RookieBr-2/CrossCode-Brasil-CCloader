@@ -7481,7 +7481,7 @@
                 {
                   "message": {
                     "": "Sweet moves, huh?",
-                    "en_US": "Belos movimentos, n\u00e3o acha?",
+                    "en_US": "Belas manobras, n\u00e3o acha?",
                     "de_DE": "Coole Moves, was?",
                     "fr_FR": "fr_FR",
                     "langUid": 22,
@@ -7713,7 +7713,7 @@
                     {
                       "message": {
                         "": "If ya change your mind, just come visit me.",
-                        "en_US": "Se mudar de ideia, apenas venha me visitar.",
+                        "en_US": "Se mudar de ideia, é só falar comigo.",
                         "de_DE": "Komm wieder, wenn du's doch mal probieren willst.",
                         "fr_FR": "fr_FR",
                         "langUid": 31,
@@ -10692,7 +10692,7 @@
               {
                 "text": {
                   "": "You can \\c[3]teleport to Landmarks\\c[0] by selecting them within the \\c[3]Map menu\\c[0]",
-                  "en_US": "Voc\u00ea \\c[3]teleportar para um Ponto de Refer\u00eancia\\c[0] selecionando-os dentro do \\c[3]Menu do Mapa\\c[0]",
+                  "en_US": "Você pode \\c[3]teleportar para um Ponto de Refer\u00eancia\\c[0] selecionando-os dentro do \\c[3]Menu do Mapa\\c[0]",
                   "de_DE": "Du kannst dich \\c[3]zu Wegpunkten teleportieren\\c[0], indem du sie im \\c[3]Karten-Men\u00fc\\c[0] ausw\u00e4hlst.",
                   "fr_FR": "fr_FR",
                   "langUid": 332,
@@ -14808,7 +14808,7 @@
           {
             "message": {
               "": "Hrm, after all that trouble, those buckets of junk can't even get rid of some \\v[lore.title.seeker]s.",
-              "en_US": "Argh, depois de todo esse problema, esse bando de sucatas n\u00e3o conseguem nem se livrar de alguns \\v[lore.title.seeker]s.",
+              "en_US": "Argh, depois de todo esse problema, esse bando de sucatas n\u00e3o conseguem nem se livrar de um \\v[lore.title.seeker]s.",
               "de_DE": "Pff! Nach all dem \u00c4rger k\u00f6nnen diese Blechdosen nicht mal mit 'nem Seeker fertig werden.",
               "fr_FR": "fr_FR",
               "langUid": 468,
@@ -16211,7 +16211,7 @@
                 {
                   "message": {
                     "": "It's equipped with a \\c[3]Naval Protection Cannon\\c[0], or \\c[3]NPC\\c[0] for short, that's linked with your fancy Trackwalker systems.",
-                    "en_US": "Está equipado com um \\c[3]Canhão de Proteção Naval\\c[0], ou \\c[3]CPN\\c[0] em resumo, ele está ligado ao seu sistema da Trilha.",
+                    "en_US": "Está equipada com um \\c[3]Canhão de Proteção Naval\\c[0], ou \\c[3]CPN\\c[0] em resumo, ele está ligado ao seu sistema da Trilha.",
                     "de_DE": "Sie ist mit einerr \\c[3]Marrineabwehrrkanone\\c[0] ausgerrr\u00fcstet, kurrrz \\c[3]MAK\\c[0], die mit deinem Pfadl\u00e4uferrsystem verrbunden ist.",
                     "zh_CN": "\u5b83\u4e0a\u9762\u88c5\u5907\u7740\\c[3]\u6d77\u9762\u9632\u536b\u5927\u70ae\\c[0]\uff0c\u7b80\u79f0\\c[3]NPC\\c[0]\uff0c\u4e0e\u4f60\u90a3\u4e2a\u5bfb\u8def\u8005\u7cfb\u7edf\u662f\u76f8\u8fde\u7684\u3002<<A<<[CHANGED 2018/01/06]",
                     "langUid": 561,

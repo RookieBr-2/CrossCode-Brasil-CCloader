@@ -500,7 +500,7 @@
             "path": "rookie-harbor.inner-info",
             "name": {
                 "": "Info Hub",
-                "en_US": "Centro de Informações",
+                "en_US": "Central de Informações",
                 "de_DE": "Info-Hub",
                 "fr_FR": "fr_FR",
                 "langUid": 20,
@@ -552,7 +552,7 @@
             "path": "rookie-harbor.inner-faction-rhg-guard",
             "name": {
                 "": "Rookie Harbor Guard HQ",
-                "en_US": "QG da Guarda Rookie Harbor",
+                "en_US": "QG da Guarda Porto do Novato",
                 "de_DE": "Hafenwache",
                 "fr_FR": "fr_FR",
                 "langUid": 50,

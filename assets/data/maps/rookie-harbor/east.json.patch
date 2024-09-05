@@ -2522,7 +2522,7 @@
               {
                 "message": {
                   "": "Goo' day lady.",
-                  "en_US": "Bom dia Senhorita",
+                  "en_US": "Bom dia Senhorita.",
                   "de_DE": "Gut'n Tag, die Dame.",
                   "fr_FR": "fr_FR",
                   "langUid": 273,
@@ -7419,7 +7419,7 @@
             "entity": { "global": true, "name": "d1" },
             "text": {
               "": "Wow, that's quite the view. Didn't expect this.",
-              "en_US": "Uau, essa é uma visão e tanto. Não esperava por isso.",
+              "en_US": "Uau, que vista! Não imaginei que veria algo assim.",
               "de_DE": "Wow, das ist mal eine Aussicht. Das habe ich nicht erwartet.",
               "fr_FR": "fr_FR",
               "langUid": 275,
@@ -7433,7 +7433,7 @@
             "entity": { "global": true, "name": "d2" },
             "text": {
               "": "You can say that again. Look! You can even see all these weird ruins.",
-              "en_US": "Você pode dizer isso novamente. Veja! Você pode até mesmo ver todas estas estranhas ruínas.",
+              "en_US": "Concordo. Olha só! Dá para ver todas aquelas ruínas estranhas daqui.",
               "de_DE": "Das kannst du laut sagen. Guck! Du kannst sogar all diese komischen Ruinen sehen.",
               "fr_FR": "fr_FR",
               "langUid": 276,

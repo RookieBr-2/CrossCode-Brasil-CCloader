@@ -1736,7 +1736,7 @@
                 {
                   "message": {
                     "": "Heya \\v[lore.title.seeker].\\. Did you come back to help us out with our problem?",
-                    "en_US": "Heya \\v[lore.title.seeker].\\. Você voltou para nos ajudar com nosso problema?",
+                    "en_US": "Ei \\v[lore.title.seeker].\\. Você voltou para nos ajudar com nosso problema?",
                     "de_DE": "Heya, Seeker.\\. M\u00f6chtest du uns doch helfen?",
                     "fr_FR": "fr_FR",
                     "langUid": 254,
@@ -1777,7 +1777,7 @@
                     {
                       "message": {
                         "": "Awesome!\\. I'll transmit you the alleged location of the whole debacle so you should be able to track the thing down.",
-                        "en_US": "Impressionante!\\. Vou transmitir a você a suposta localização de todo o desastre, então você deve ser capaz de rastrear a coisa.",
+                        "en_US": "Fantástico!\\. Vou te dar a localização de onde ocorreu o desastre, para que você possa rastrear o dispositivo.",
                         "de_DE": "Bombig!\\. Ich leite dir die Koordinaten weiter, damit du wei\u00dft, wo du ansetzen musst, um das Debakel zu bereinigen.",
                         "fr_FR": "fr_FR",
                         "langUid": 263,
@@ -1833,7 +1833,7 @@
                     {
                       "message": {
                         "": "Alright. That's a shame, but we'll manage somehow.\\. Just hit me up if you change your mind.",
-                        "en_US": "Bem. É uma pena, mas vamos conseguir de alguma forma.\\. Apenas me de um toque se mudar de ideia.",
+                        "en_US": "Bem. É uma pena, mas vamos conseguir de alguma forma.\\. Apenas me dê um toque se mudar de ideia.",
                         "de_DE": "Schade, aber wir werden's schon irgendwie schaffen.\\. Hau mich einfach an, falls du deine Meinung \u00e4nderst.",
                         "fr_FR": "fr_FR",
                         "langUid": 265,
@@ -2213,7 +2213,7 @@
                 {
                   "message": {
                     "": "They might've trailed Tucos specifically after spotting him doing the exploration.",
-                    "en_US": "Eles podem ter seguido o Tucos depois de vê-lo explorando.",
+                    "en_US": "Elas podem ter seguido o Tucos depois de vê-lo explorando.",
                     "de_DE": "Es ist also wahrscheinlich, dass sie Tucos ganz bewusst gefolgt sind, nachdem sie ihn dort entdeckt hatten.",
                     "fr_FR": "fr_FR",
                     "langUid": 286,
@@ -2267,7 +2267,7 @@
                 {
                   "message": {
                     "": "But I guess we should've expected some intelligence from those sneaky buggers with their fancy headsets.",
-                    "en_US": "Mas acho que devíamos ter previsto que aqueles vigaristas com fones de ouvido seriam espertos.",
+                    "en_US": "Mas acho que devíamos ter previsto que aquelas vigaristas com fones de ouvido seriam espertas.",
                     "de_DE": "H\u00e4tte man aber auch drauf kommen k\u00f6nnen, dass die ihre hippen Headsets nicht nur aus Jux und Dollerei tragen.",
                     "fr_FR": "fr_FR",
                     "langUid": 289,
@@ -2290,7 +2290,7 @@
                 {
                   "message": {
                     "": "In any case, Tucos has already gone out again to find their hideout and requested a Seeker to meet up with him.",
-                    "en_US": "Em todo caso, Tucos já saiu novamente para encontrar o esconderijo deles e pediu apoio de um Seeker.",
+                    "en_US": "Em todo caso, Tucos já saiu novamente para encontrar o esconderijo delas e pediu apoio de um Seeker.",
                     "de_DE": "Auf jeden Fall ist Tucos schon wieder unterwegs, um ihr Lager zu suchen und hat Verst\u00e4rkung durch einen Seeker angefordert.",
                     "fr_FR": "fr_FR",
                     "langUid": 290,
@@ -3804,7 +3804,7 @@
                     {
                       "message": {
                         "": "Alright. That's a shame, but we'll manage somehow.\\. Just hit me up if you change your mind.",
-                        "en_US": "Bem. É uma pena, mas vamos conseguir de alguma forma.\\. Apenas me de um toque se mudar de ideia.",
+                        "en_US": "Bem. É uma pena, mas vamos conseguir de alguma forma.\\. Apenas me dê um toque se mudar de ideia.",
                         "de_DE": "Schade, aber wir werden's schon irgendwie schaffen.\\. Hau mich einfach an, falls du deine Meinung \u00e4nderst.",
                         "fr_FR": "fr_FR",
                         "langUid": 312,

@@ -510,7 +510,7 @@
                             {
                                 "text": {
                                     "": "Seeking your next destination\nin the wilderness to the north...",
-                                    "en_US": "Buscando seu próximo destino\nna região selvagem ao norte...",
+                                    "en_US": "Em busca do seu próximo destino\nna região selvagem ao norte...",
                                     "de_DE": "Auf der Suche nach deinem n\u00e4chsten Ziel\nin der Wildnis des Nordens...",
                                     "fr_FR": "fr_FR",
                                     "zh_CN": "\u5728\u5317\u65b9\u7684\u8352\u91ce\u4e2d\n\u5bfb\u627e\u4f60\u7684\u76ee\u6807...",
@@ -533,7 +533,7 @@
                             {
                                 "text": {
                                     "": "... you must first accomplish\nthe \\c[3]trial of these fields\\c[0].",
-                                    "en_US": "... primeiro você deve completar\no \\c[3]teste dessas terras\\c[0].",
+                                    "en_US": "... mas primeiro você deve completar\no \\c[3]teste dessas terras\\c[0].",
                                     "de_DE": "... musst du zun\u00e4chst die \n\\c[3]Pr\u00fcfung dieser Felder\\c[0] bestehen.",
                                     "fr_FR": "fr_FR",
                                     "zh_CN": "...\u4f46\u4f60\u5fc5\u987b\u5148\u5b8c\u6210\n\\c[3]\u8352\u91ce\u8bd5\u70bc\\c[0].",

@@ -1403,7 +1403,7 @@
               {
                 "message": {
                   "": "Ouch...",
-                  "en_US": "Ouch...",
+                  "en_US": "Não...",
                   "de_DE": "Was f\u00fcr ein Schenkelklopfer...",
                   "fr_FR": "fr_FR",
                   "langUid": 601,
@@ -9329,7 +9329,7 @@
           {
             "message": {
               "": "A:\\. \\c[3]Mountains\\c[0],\\.\\.\nB:\\. \\c[3]Plants\\c[0],\\.\\.\nC:\\. \\c[3]Animals\\c[0],\\.\\. or \nD:\\. \\c[3]The Sun\\c[0]?",
-              "en_US": "A:\\. \\c[3]Mountanhas\\c[0],\\.\\.\nB:\\. \\c[3]Plantas\\c[0],\\.\\.\nC:\\. \\c[3]Animais\\c[0],\\.\\. ou \nD:\\. \\c[3]O sol\\c[0]?",
+              "en_US": "A:\\. \\c[3]Montanhas\\c[0],\\.\\.\nB:\\. \\c[3]Plantas\\c[0],\\.\\.\nC:\\. \\c[3]Animais\\c[0],\\.\\. ou \nD:\\. \\c[3]O sol\\c[0]?",
               "de_DE": "A:\\. \\c[3]Berge\\c[0],\\.\\.\nB:\\. \\c[3]Pflanzen\\c[0],\\.\\.\nC:\\. \\c[3]Tiere\\c[0],\\.\\. oder \nD:\\. \\c[3]Die Sonne\\c[0]?",
               "fr_FR": "fr_FR",
               "langUid": 240,
@@ -12210,7 +12210,7 @@
               {
                 "message": {
                   "": "You know... we just rushed the whole Temple Mine and did that quiz in one session.",
-                  "en_US": "Bem... nós exploramos todo a Mina do Templo e fizemos aquele teste em seguida.",
+                  "en_US": "Bem... nós exploramos a Mina do Templo e fizemos aquele teste em seguida.",
                   "de_DE": "Wei\u00dft du... Wir sind in 'nem Affenzahn durch die riesige Tempelmine gest\u00fcrmt und haben dann noch das Quiz gemacht. Alles an einem St\u00fcck.",
                   "fr_FR": "fr_FR",
                   "langUid": 370,
@@ -14799,7 +14799,7 @@
           {
             "message": {
               "": "Sorry dear, not directly. Both teams will be on separate tracks running next to each other.",
-              "en_US": "Desculpe querida, não diretamente. As duas equipes estarão em trilhas separadas, correndo um ao lado do outro.",
+              "en_US": "Desculpe querida, não diretamente. As duas equipes estarão em trilhas separadas, correndo um ao lado da outra.",
               "de_DE": "Nicht direkt, Liebes, tut mir leid. Beide Teams werden auf verschiedenen Pfaden nebeneinander laufen.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u62b1\u6b49\uff0c\u4eb2\u7231\u7684\uff0c\u5e76\u4e0d\u662f\u8fd9\u6837\u3002\u6211\u4eec\u4e24\u961f\u5c06\u5e73\u884c\u4f5c\u6218\uff0c\u5404\u6253\u4e0d\u540c\u7684\u8def\u3002",
@@ -17613,7 +17613,7 @@
           {
             "message": {
               "": "Bonjour.",
-              "en_US": "Bonjour",
+              "en_US": "Bonjour.",
               "langUid": 839,
               "zh_CN": "\u54c8\u55bd\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ubd09\uc96c\ub974.<<A<<[CHANGED 2018/03/14]",
@@ -17749,7 +17749,7 @@
           {
             "message": {
               "": "Well...\\. sort of!",
-              "en_US": "Bem...\\. ou algo do tipo!",
+              "en_US": "Sem dar sinal de vida!",
               "langUid": 847,
               "zh_CN": "\u5443...\\.\u4e5f\u4e0d\u7b97\u6d88\u5931\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ubb50...\\. \uba70\uce60\uc774\uc5c8\ub358\uac00!<<A<<[CHANGED 2018/03/14]",
@@ -17858,7 +17858,7 @@
           {
             "message": {
               "": "Then WHAT was it?",
-              "en_US": "Então o QUE foi?",
+              "en_US": "Então o QUE aconteceu?",
               "langUid": 854,
               "zh_CN": "\u90a3\u4f60\u8ddf\u6211\u8bf4\u8bf4\u8fd9\u600e\u4e48\u56de\u4e8b\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uadf8\ub7fc \uc65c \uc5f0\ub77d\uc774 \uc548 \ub41c \uac70\uc57c?<<A<<[CHANGED 2018/03/14]",
@@ -17918,7 +17918,7 @@
           {
             "message": {
               "": "Just...",
-              "en_US": "Apenas...",
+              "en_US": "Só tenta...",
               "langUid": 858,
               "zh_CN": "\u4f60...<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uadf8\ub0e5...<<A<<[CHANGED 2018/03/14]",
@@ -18003,7 +18003,7 @@
           {
             "message": {
               "": "There are so many things I don't know about you...",
-              "en_US": "Há tantas coisas que eu não sei sobre você...",
+              "en_US": "Tem tantas coisas que eu não sei sobre você...",
               "langUid": 861,
               "zh_CN": "\u4f60\u7684\u597d\u591a\u4e8b\u60c5\u6211\u90fd\u4e0d\u4e86\u89e3...<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub09c \ub108\uc5d0 \uad00\ud574 \ubaa8\ub974\ub294 \uac8c \ub108\ubb34\ub098\ub3c4 \ub9ce\uc544...<<A<<[CHANGED 2018/03/14]",
@@ -18018,7 +18018,7 @@
           {
             "message": {
               "": "And I can't even properly ask you...",
-              "en_US": "E não posso nem mesmo perguntar direito...",
+              "en_US": "E não posso nem perguntar direito...",
               "langUid": 862,
               "zh_CN": "\u6211\u751a\u81f3\u90fd\u6ca1\u6cd5\u597d\u597d\u95ee\u4f60\u95ee\u9898...<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc81c\ub300\ub85c \ubb3c\uc5b4\ubcfc \uc218\ub3c4 \uc5c6\uace0...<<A<<[CHANGED 2018/03/14]",
@@ -18127,7 +18127,7 @@
           {
             "message": {
               "": "Alors... I guess all that's left then is asking lots of \\c[3]questions\\c[0]!",
-              "en_US": "Então... Eu acho que tudo o que resta então é fazer muitas \\c[3]perguntas\\c[0]!",
+              "en_US": "Então... Acho que o jeito é fazer muitas \\c[3]perguntas\\c[0]!",
               "langUid": 866,
               "zh_CN": "\u90a3\u4e48... \u73b0\u5728\u552f\u4e00\u7684\u89e3\u51b3\u65b9\u6848\u53ea\u80fd\u662f\u591a\u95ee\u70b9\\c[3]\u95ee\u9898\\c[0]\u4e86\uff01<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uadf8\ub7fc... \uc5b4\uca54 \uc218 \uc5c6\uc774 \ub9ce\uc774 \\c[3]\ubb3c\uc5b4\ubcf4\ub294\\c[0] \uc218\ubc16\uc5d0!<<A<<[CHANGED 2018/03/14]",
@@ -18415,7 +18415,7 @@
           {
             "message": {
               "": "I'm currently trying to find out what exactly happened.",
-              "en_US": "Eu estou tentando descobrir o que aconteceu exatamente.",
+              "en_US": "Eu estou tentando descobrir o que aconteceu.",
               "langUid": 881,
               "zh_CN": "\u6211\u6b63\u5728\u8bd5\u7740\u95ee\u95ee\u5979\u5230\u5e95\u53d1\u751f\u4e86\u4ec0\u4e48\u4e8b\u60c5\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc815\ud655\ud788 \ubb34\uc2a8 \uc77c\uc774 \uc788\uc5c8\ub358 \uac74\uc9c0 \uc54c\uc544\ubcf4\ub824\uace0 \ud558\uace0 \uc788\uc5b4.<<A<<[CHANGED 2018/03/14]",
@@ -18430,7 +18430,7 @@
           {
             "message": {
               "": "Well, that will be hard to figure out with her speech limitation....",
-              "en_US": "Bem, isso será difícil de descobrir com a limitação de fala dela....",
+              "en_US": "Bom, vai ser difícil descobrir com a fala limitada dela...",
               "langUid": 882,
               "zh_CN": "\u56e0\u4e3a\u5979\u8bed\u97f3\u6a21\u7ec4\u7684\u95ee\u9898\uff0c\u786e\u5b9e\u4e0d\u597d\u529e...<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub300\ud654\uac00 \ud55c\uc815\ub418\uc5b4 \uc788\ub2e4 \ubcf4\ub2c8 \uc54c\uc544\ub0b4\uae30 \uc5b4\ub835\uaca0\ub124...<<A<<[CHANGED 2018/03/14]",
@@ -18624,7 +18624,7 @@
           {
             "message": {
               "": "Uhm...\\. Lea?",
-              "en_US": "Uhm...\\. Lea?",
+              "en_US": "Hmm...\\. Lea?",
               "langUid": 887,
               "zh_CN": "\u5443...\\.\u8389\u4e9a\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc74c...\\. \ub808\uc544?<<A<<[CHANGED 2018/03/14]",
@@ -18676,7 +18676,7 @@
           {
             "message": {
               "": "Just what exactly happened to you after you left the raid?",
-              "en_US": "O que exatamente aconteceu com você depois que deixou a raid?",
+              "en_US": "O que aconteceu com você depois que deixou a raid?",
               "langUid": 899,
               "zh_CN": "\u4f60\u79bb\u5f00\u526f\u672c\u4e4b\u540e\u5230\u5e95\u53d1\u751f\u4e86\u4ec0\u4e48\u4e8b\u60c5\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub808\uc774\ub4dc\ub97c \ub098\uac04 \uc774\ud6c4\ub85c \uc815\ud655\ud788 \ubb34\uc2a8 \uc77c\uc774 \uc788\ub358 \uac70\uc57c?<<A<<[CHANGED 2018/03/14]",

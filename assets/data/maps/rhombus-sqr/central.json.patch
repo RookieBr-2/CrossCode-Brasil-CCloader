@@ -2944,7 +2944,7 @@
             "entity": { "global": true, "name": "advisorCenter" },
             "text": {
               "": "Once you reach a new major location on the mainland, a connection to CrossCentral will be established for quick travel.",
-              "en_US": "Depois de chegar a um novo local importante no continente, uma conexão com o CrossCentral será estabelecida para viagens rápidas.",
+              "en_US": "Uma vez que vocês alcancem um novo local importante no continente, uma conexão com a CrossCentral será criada para viagens rápidas.",
               "de_DE": "Sobald ihr einen neuen Ort auf dem Festland erreicht habt, wird eine Verbindung zur CrossCentral zur Schnellreise er\u00f6ffnet.",
               "fr_FR": "fr_FR",
               "langUid": 23,
@@ -3015,7 +3015,7 @@
             "entity": { "global": true, "name": "aboutNpcs1" },
             "text": {
               "": "Huh, those poor advisor NPCs. Just explaining the same thing over and over again.",
-              "en_US": "Huh, esses pobres NPCs conselheiros. Apenas explicando a mesma coisa toda hora.",
+              "en_US": "Olha, esses pobres NPCs conselheiros. Ficam explicando a mesma coisa toda hora.",
               "de_DE": "Die armen Berater-NPCs. M\u00fcssen immer wieder das Gleiche erkl\u00e4ren.",
               "fr_FR": "fr_FR",
               "langUid": 24,
@@ -3029,7 +3029,7 @@
             "entity": { "global": true, "name": "aboutNpcs2" },
             "text": {
               "": "You know that those NPCs are actually artificial intelligences, right?",
-              "en_US": "Você sabe que esses NPCs são na verdade inteligências artificiais, certo?",
+              "en_US": "Você sabia que esses NPCs são na verdade inteligências artificiais?",
               "de_DE": "Du wei\u00dft, dass diese NPCs nur k\u00fcnstliche Intelligenzen sind, oder?",
               "fr_FR": "fr_FR",
               "langUid": 122,
@@ -3043,7 +3043,7 @@
             "entity": { "global": true, "name": "aboutNpcs1" },
             "text": {
               "": "Are you serious?",
-              "en_US": "Você está falando sério?",
+              "en_US": "Você tá falando sério?",
               "de_DE": "Jetzt echt?",
               "fr_FR": "fr_FR",
               "langUid": 123,
@@ -3071,7 +3071,7 @@
             "entity": { "global": true, "name": "aboutNpcs2" },
             "text": {
               "": "Their interactions with players are somewhat limited.",
-              "en_US": "Suas interações com os jogadores são um tanto limitadas.",
+              "en_US": "Mas as interações com os jogadores são um pouco limitadas.",
               "de_DE": "Die Bandbreite der Interaktionen mit den Spielern ist ziemlich beschr\u00e4nkt.",
               "fr_FR": "fr_FR",
               "langUid": 125,
@@ -3301,7 +3301,7 @@
               {
                 "message": {
                   "": "The twist: one of them is actually a machine.",
-                  "en_US": "A diferença é: um deles é na verdade uma máquina.",
+                  "en_US": "A diferença é: uma delas é na verdade uma máquina.",
                   "de_DE": "Und jetzt kommt's: Einer von ihnen ist in Wirklichkeit eine Maschine.",
                   "fr_FR": "fr_FR",
                   "langUid": 136,
@@ -3320,7 +3320,7 @@
               {
                 "message": {
                   "": "If the actual person can tell from the conversation that the other person is a machine, you fail the Turing Test.",
-                  "en_US": "Se a pessoa real puder dizer pela conversa que a outra pessoa é uma máquina, você falhou no Teste de Turing.",
+                  "en_US": "Se a pessoa real perceber pela conversa que a outra é uma máquina, você falhou no Teste de Turing.",
                   "de_DE": "Falls die reale Person im Laufe des Gespr\u00e4chs erkennt, dass die andere Person eine Maschine ist, ist der Turing-Test gescheitert.",
                   "fr_FR": "fr_FR",
                   "langUid": 137,

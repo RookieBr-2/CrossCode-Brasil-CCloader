@@ -460,7 +460,7 @@
                 "message": {
                     "de_DE": "CrossWorlds ist wie ein MMO, mit einem entscheidenden Unterschied.",
                     "": "Now, CrossWorlds is like an MMO, just with one striking difference.",
-                    "en_US": "Agora, CrossWorlds é como um MMO, apenas com uma diferença marcante.",
+                    "en_US": "CrossWorlds é como um MMO, apenas com uma diferença marcante.",
                     "langUid": 14,
                     "fr_FR": "",
                     "zh_CN": "\u73b0\u5728\uff0c\u8fdc\u661f\u4e16\u754c\u5c31\u50cf\u662f\u4e2aMMO\u6e38\u620f\uff0c\u53ea\u662f\u6709\u4e2a\u663e\u8457\u7684\u5dee\u5f02\u3002<<A<<[CHANGED 2017/07/11]",
@@ -634,7 +634,7 @@
                 "message": {
                     "de_DE": "Das stimmt.\\. Dieses Frachtschiff geh\u00f6rt zum Wartungspersonal von CrossWorlds.",
                     "": "That is correct.\\. This cargo ship belongs to the maintenance staff of CrossWorlds.",
-                    "en_US": "Exatamente.\\. Este navio de carga pertence à equipe de manutenção de CrossWorlds",
+                    "en_US": "Exatamente.\\. Este navio de carga pertence à equipe de manutenção de CrossWorlds.",
                     "langUid": 23,
                     "fr_FR": "",
                     "zh_CN": "\u6ca1\u9519\u3002\\.\u8fd9\u8258\u8d27\u8239\u4e0a\u90fd\u662f\u8fdc\u661f\u4e16\u754c\u7684\u7ef4\u62a4\u4eba\u5458\u3002",
@@ -724,7 +724,7 @@
                 "message": {
                     "de_DE": "Du musst wissen, dass dies nicht dein erster Besuch in diesem Spiel ist.",
                     "": "You see, you have been in this game before.",
-                    "en_US": "Veja, você já esteve neste jogo antes.",
+                    "en_US": "Isso mesmo, você já jogou este jogo antes.",
                     "langUid": 28,
                     "fr_FR": "",
                     "zh_CN": "\u542c\u6211\u8bf4\uff0c\u4f60\u66fe\u7ecf\u73a9\u8fc7\u8fd9\u4e2a\u6e38\u620f\u3002",

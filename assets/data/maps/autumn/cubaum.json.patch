@@ -8940,7 +8940,7 @@
                         },
                         "message": {
                             "": "Though it seems to be rather unstable and fluctuating this time.\\. You should keep an eye on that.",
-                            "en_US": "Mas o sinal aqui está muito instável.\\. Fique atenta ao se aproximar do ponto de poder.",
+                            "en_US": "Mas o sinal aqui está muito instável.\\. Fique atenta ao se aproximar do ponto de energia.",
                             "ja_JP": "\u3068\u306f\u3044\u3048\u3001\u4eca\u56de\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u53cd\u5fdc\u306f\u4e0d\u5b89\u5b9a\u3067\n\u7d76\u3048\u305a\u5909\u52d5\u3057\u3066\u3044\u308b\u3088\u3046\u3060\u3002\n\\.\u6ce8\u610f\u3092\u6020\u3089\u306a\u3044\u3088\u3046\u306b\u3057\u305f\u307b\u3046\u304c\u3044\u3044\u3002<<A<<[CHANGED 2018/09/19]",
                             "langUid": 772,
                             "zh_CN": "\u4e0d\u8fc7\u80fd\u91cf\u6709\u4e9b\u6ce2\u52a8\u3002\\.\u4f60\u6700\u597d\u5c0f\u5fc3\u70b9\u3002<<A<<[CHANGED 2018/09/19]",
@@ -9782,7 +9782,7 @@
                             },
                             "message": {
                                 "": "Alright, just like before.\\. Knock our device onto the Powerspot and then defeat all the enemies that might appear!",
-                                "en_US": "Muito bem, como aconteceu antes.\\. Empurre nosso dispositivo no Ponto de Poder e depois derrote todos os inimigos que possam aparecer!",
+                                "en_US": "Muito bem, como da última vez.\\. Empurre nosso dispositivo no ponto de energia e depois derrote todos os inimigos que possam aparecer!",
                                 "ja_JP": "\u3088\u3057\u3001\u3084\u308a\u65b9\u306f\u3055\u3063\u304d\u3068\u540c\u3058\u3060\u3002\\.\u30c7\u30d0\u30a4\u30b9\u3092\u30b9\u30dd\u30c3\u30c8\u306e\u4e0a\u306b\u4e57\u305b\u3066\u3001\u51fa\u73fe\u3059\u308b\u6575\u3092\u305c\u3093\u3076\u3084\u3063\u3064\u3051\u3066\u304f\u308c\uff01<<A<<[CHANGED 2018/09/19]",
                                 "langUid": 707,
                                 "zh_CN": "\u55ef\uff0c\u8ddf\u4ee5\u524d\u4e00\u6837\u3002\\.\u628a\u88c5\u7f6e\u63a8\u5230\u70b9\u4e0a\uff0c\u7136\u540e\u6253\u8d25\u6240\u6709\u654c\u4eba\uff01<<A<<[CHANGED 2018/09/19]",
@@ -10127,7 +10127,7 @@
                             },
                             "message": {
                                 "": "Approaching a Powerspot will usually attract some \\c[3]hostile wildlife\\c[0] that will protect those places.",
-                                "en_US": "Se você se aproximar de um Ponto de poder, vai \\c[3]atrair animais selvagens\\c[0] que vão te atacar.",
+                                "en_US": "Se você se aproximar de um Ponto de energia, vai \\c[3]atrair animais selvagens\\c[0] que vão te atacar.",
                                 "ja_JP": "\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u306b\u8fd1\u3065\u304f\u3068\u3001\u901a\u5e38\u306f\\c[3]\u6575\u610f\u306e\u3042\u308b\u91ce\u751f\u52d5\u7269\\c[0]\u304c\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u3092\u5b88\u308b\u305f\u3081\u306b\u3084\u3063\u3066\u304f\u308b\u3002<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 741,
                                 "zh_CN": "\u63a5\u8fd1\u80fd\u91cf\u70b9\u4f1a\u5f15\u6765\\c[3]\u4fdd\u62a4\u8be5\u5730\u7684\u91ce\u751f\u52a8\u7269\\c[0]\u3002<<A<<[CHANGED 2017/10/10]",
@@ -10161,7 +10161,7 @@
                             },
                             "message": {
                                 "": "\\c[3]Placing the probe on an active Powerspot\\c[0] will \\c[3]deactivate the shield\\c[0], though, so that's a priority!",
-                                "en_US": "\\c[3]Posicionar a sonda em um Ponto de poder ativo\\c[0] irá \\c[3]desativar a barreira\\c[0] das criaturas.",
+                                "en_US": "\\c[3]Posicionar a sonda em um Ponto de energia ativo\\c[0] irá \\c[3]desativar a barreira\\c[0] das criaturas.",
                                 "ja_JP": "\\c[3]\u30a2\u30af\u30c6\u30a3\u30d6\u306a\u30d1\u30ef\u30fc\u30b9\u30dd\u30c3\u30c8\u306e\u4e0a\u306b\u30d7\u30ed\u30fc\u30d6\u3092\u4e57\u305b\u308b\\c[0]\u3068\u3001\\c[3]\u30b7\u30fc\u30eb\u30c9\u3092\u7121\u52b9\u5316\u3067\u304d\u308b\\c[0]\u3002\u3060\u304b\u3089\u3001\u305d\u308c\u304c\u6700\u512a\u5148\u4e8b\u9805\u3060\uff01<<A<<[CHANGED 2017/11/04]",
                                 "langUid": 743,
                                 "zh_CN": "\u4f46\\c[3]\u5f53\u63a2\u6d4b\u5668\u88ab\u653e\u7f6e\u5230\u6fc0\u6d3b\u4e86\u7684\u80fd\u91cf\u70b9\u4e0a\u65f6\\c[0]\uff0c\u5b83\u5c06\\c[3]\u89e3\u9664\u62a4\u76fe\\c[0]\uff0c\u6240\u4ee5\u4e00\u5b9a\u8981\u6ce8\u610f\uff01<<A<<[CHANGED 2017/10/10]",

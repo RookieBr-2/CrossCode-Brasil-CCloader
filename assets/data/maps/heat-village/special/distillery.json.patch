@@ -7100,7 +7100,7 @@
                     {
                       "text": {
                         "": "- Instruction to Ancient Brewing -\nQuality drinks using the mystical powers of the Track, steam and only the best natural ingredients!",
-                        "en_US": "- Instruções para Preparo de Bebidas -\nBebidas de qualidade feitas com os poderes místicos da Trilha, vapor e os melhores ingredientes naturais!",
+                        "en_US": "- Instruções de Preparo de Bebidas -\nBebidas de qualidade feitas com os poderes místicos da Trilha, vapor e os melhores ingredientes naturais!",
                         "de_DE": "- Anleitung zum Brauen nach Art der Ahnen -\nQualit\u00e4tstr\u00e4nke, die die Kraft des Pfades, des Dampfes und nur die besten nat\u00fcrlichen Zutaten enthalten!",
                         "fr_FR": "fr_FR",
                         "zh_CN": "- \u5148\u7956\u4f73\u917f -\n\u4f7f\u7528\u5148\u7956\u4e4b\u8def\u7684\u80fd\u91cf\u917f\u9020\uff0c\u91c7\u7528\u84b8\u6c7d\u917f\u6cd5\uff0c\u53ea\u7528\u6700\u65b0\u9c9c\u7684\u5929\u7136\u6750\u6599\uff01",
@@ -7521,7 +7521,7 @@
               {
                 "message": {
                   "": "\\v[lore.title.seeker] impress Ancients for great liquids!\\. I will keep eyes on numbers.",
-                  "en_US": "\\v[lore.title.seeker] impressione os Anciões com ótimas bebidas!\\. Vou ficar de olho nos números.",
+                  "en_US": "\\v[lore.title.seeker] impressione os Antigos com ótimas bebidas!\\. Vou ficar de olho nos números.",
                   "de_DE": "Seeker beeindrucken Ahnen f\u00fcr tolle Tr\u00e4nke!\\. Ich werde Augen auf Zahlen haben.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\\v[lore.title.seeker]\u917f\u9152\u611f\u52a8\u5148\u7956\uff01\\.\u6211\u6765\u770b\u7740\u6570\u503c\u3002",

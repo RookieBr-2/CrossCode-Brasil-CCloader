@@ -2556,7 +2556,7 @@
           {
             "message": {
               "": "Okay, first: About this place... \\c[3]Vermillion Wasteland\\c[0] was the name, right?",
-              "en_US": "Ok, primeiro: Sobre este lugar... \\c[3]Deserto Carmesim\\c[0] era o nome, certo?",
+              "en_US": "Então, para começar: o nome desse lugar é \\c[3]Deserto Carmesim\\c[0], certo?",
               "langUid": 72,
               "zh_CN": "\u597d\u5427\uff0c\u9996\u5148\u8fd9\u91cc\u7684\u540d\u5b57\u53eb\u505a... \\c[3]\u6731\u7ea2\u5e9f\u571f\\c[0]\uff0c\u5bf9\u5427\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Gut, erst einmal zu diesem Ort: \\c[3]Vermillonein\u00f6de\\c[0] war der Name, richtig?",
@@ -2826,7 +2826,7 @@
           {
             "message": {
               "": "This place should be abandoned for all I know.",
-              "en_US": "Este lugar deveria ser abandonado pelo que sei.",
+              "en_US": "Tudo o que sei é que esse lugar deveria estar deserto.",
               "langUid": 89,
               "zh_CN": "\u636e\u8bf4\u6240\u77e5\uff0c\u8fd9\u5730\u65b9\u5e94\u8be5\u5df2\u7ecf\u5e9f\u5f03\u4e86\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Alles, was ich wei\u00df, ist, dass dieser Ort verlassen sein sollte.",
@@ -3111,7 +3111,7 @@
           {
             "message": {
               "": "S-Sorry.\\. I think I...\\. just misunderstood something.",
-              "en_US": "D-Desculpe.\\. Acho que...\\. apenas entendeu alguma coisa errado.",
+              "en_US": "D-Desculpe.\\. Acho que...\\. entendi algo errado.",
               "langUid": 108,
               "zh_CN": "\u62b1\u6b49\u3002\\.\u662f...\\.\u662f\u6211\u8bef\u4f1a\u4e86\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "E-Entschuldige.\\. Ich glaube, ich...\\. habe da einfach was falsch verstanden.",
@@ -3295,7 +3295,7 @@
             "entity": { "player": true },
             "text": {
               "": "Logout",
-              "en_US": "Deslogando",
+              "en_US": "Desconectando",
               "de_DE": "Logout",
               "fr_FR": "fr_FR",
               "langUid": 500,
@@ -4384,7 +4384,7 @@
           {
             "message": {
               "": "And with you being awake in CrossWorlds, your memories are my only lead to Satoshi and the others.",
-              "en_US": "E com você acordada no CrossWorlds, suas memórias são minha única pista para Satoshi e os outros.",
+              "en_US": "E com você acordada em CrossWorlds, suas memórias são minha única pista para Satoshi e os outros.",
               "langUid": 553,
               "zh_CN": "\u65e2\u7136\u4f60\u5728\u8fdc\u661f\u4e16\u754c\u5f53\u4e2d\u9192\u4e86\u8fc7\u6765\uff0c\u4f60\u7684\u8bb0\u5fc6\u5c31\u662f\u6211\u627e\u5230\u667a\u53f2\u548c\u5176\u4ed6\u4eba\u7684\u552f\u4e00\u7ebf\u7d22\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Da du aber in CrossWorlds noch bei Bewusstsein bist, sind deine Erinnerungen meine einzige Spur zu Satoshi und den anderen.",
@@ -4414,7 +4414,7 @@
           {
             "message": {
               "": "I want to get you to wake up. And I want to find out what exactly has happened... to you and the others.",
-              "en_US": "Eu quero que você acorde. E eu quero descobrir o que exatamente aconteceu... com você e os outros.",
+              "en_US": "Eu quero que você acorde. E eu quero descobrir o que aconteceu... com você e os outros.",
               "langUid": 555,
               "zh_CN": "\u6211\u60f3\u8ba9\u4f60\u9192\u6765\u3002\u4e5f\u60f3\u627e\u51fa...\u4e8b\u60c5\u7684\u7a76\u7adf\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Ich m\u00f6chte, dass du aus deinem Koma erwachst. Und ich m\u00f6chte herausfinden, was damals passiert ist... Mit dir und den anderen.",
@@ -4554,7 +4554,7 @@
           {
             "message": {
               "": "In fact, I am a bit late with your login... something was holding me up again.",
-              "en_US": "Na verdade, estou um pouco atrasado com seu login... algo estava me atrapalhando novamente.",
+              "en_US": "Na verdade, estou um pouco atrasado com seu login... algo me impediu de fazer isso antes.",
               "langUid": 579,
               "zh_CN": "\u800c\u4e14\u6211\u7ed9\u4f60\u767b\u5f55\u90fd\u6709\u4e9b\u8fdf\u4e86...\u6709\u70b9\u4e8b\u60c5\u8981\u6211\u5904\u7406\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Zugegeben, ich bin ein bisschen sp\u00e4t dran mit deinem Login... Ich wurde wieder... aufgehalten.",
@@ -4853,7 +4853,7 @@
           {
             "message": {
               "": "Just what exactly is the whole point of this place?",
-              "en_US": "O que exatamente é o sentido de todo deste lugar?",
+              "en_US": "Qual o sentido deste lugar?",
               "langUid": 587,
               "zh_CN": "\u8fd9\u9b3c\u5730\u65b9\u5230\u5e95\u662f\u5e72\u4ec0\u4e48\u7684\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Welchen Sinn hat dieser Ort hier? Welches Ziel wird hier verfolgt?",
@@ -4883,7 +4883,7 @@
           {
             "message": {
               "": "And just how in the world can all of this happen without anything being reported?",
-              "en_US": "E como no mundo tudo isso pode acontecer sem que nada seja relatado?",
+              "en_US": "E como é possível que todas essas coisas aconteçam aqui sem que nada seja relatado?",
               "langUid": 589,
               "zh_CN": "\u800c\u4e14\u4e3a\u4ec0\u4e48\u5c45\u7136\u8fd9\u4e48\u4e45\u90fd\u6ca1\u88ab\u67e5\u51fa\u6765\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Und wie um alles in der Welt k\u00f6nnen all diese Dinge hier geschehen, ohne dass etwas davon nach au\u00dfen durchsickert?",
@@ -4928,7 +4928,7 @@
           {
             "message": {
               "": "Huh? Is something wrong?",
-              "en_US": "Huh? Algo está errado?",
+              "en_US": "Hm? Tem algo errado?",
               "langUid": 592,
               "zh_CN": "\u55ef\uff1f\u600e\u4e48\u4e86\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Hm? Stimmt etwas nicht?",
@@ -4973,7 +4973,7 @@
           {
             "message": {
               "": "Oh! You mean I could report all of this?",
-              "en_US": "Ah! Você quer dizer que eu poderia relatar tudo isso?",
+              "en_US": "Ah! Você quer dizer que eu poderia reportar tudo isso?",
               "langUid": 595,
               "zh_CN": "\u54e6\uff01\u4f60\u662f\u8bf4\u7531\u6211\u6765\u4e3e\u62a5\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Oh! Du meinst, ich k\u00f6nnte das alles hier melden?",
@@ -5048,7 +5048,7 @@
           {
             "message": {
               "": "At least I do not have the approval of the company to log you into CrossWorlds.",
-              "en_US": "Pelo menos não tenho a aprovação da empresa para logar você no CrossWorlds.",
+              "en_US": "Não tenho permissão da empresa para logar você no CrossWorlds.",
               "langUid": 600,
               "zh_CN": "\u8d77\u7801\u6211\u628a\u4f60\u767b\u5f55\u8fdb\u8fdc\u661f\u4e16\u754c\u662f\u6ca1\u6709\u83b7\u5f97\u516c\u53f8\u6388\u6743\u7684\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Jedenfalls habe ich nicht die Erlaubnis der Firma, dich in CrossWorlds einzuloggen.",
@@ -5138,7 +5138,7 @@
           {
             "message": {
               "": "Even simple things like moving you out of this place...\\. it will very quickly lead to a ban.",
-              "en_US": "Mesmo coisas simples como tirar você deste lugar...\\. levará rapidamente a um banimento.",
+              "en_US": "Até mesmo coisas simples, como tirar você daqui...\\. levará a um banimento.",
               "langUid": 606,
               "zh_CN": "\u5c31\u8fde\u628a\u4f60\u79fb\u51fa\u8fd9\u91cc...\\.\u90fd\u4f1a\u5f88\u5feb\u7684\u5bfc\u81f4\u8d26\u53f7\u5c01\u7981\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Selbst simple Dinge, wie dich von hier wegzubringen...\\. f\u00fchren sehr schnell dazu, dass du gebannt wirst.",
@@ -5198,7 +5198,7 @@
           {
             "message": {
               "": "Really, nobody should have access to it because this area was discontinued.",
-              "en_US": "Realmente, ninguém deveria ter acesso a ela porque essa área foi descontinuada.",
+              "en_US": "Realmente, ninguém deveria ter acesso a ele porque essa área foi descontinuada.",
               "langUid": 610,
               "zh_CN": "\u800c\u4e14\u4e5f\u4e0d\u5e94\u8be5\u6709\u4eba\u6709\u8fd9\u6743\u9650\uff0c\u56e0\u4e3a\u8fd9\u7247\u533a\u57df\u672c\u6765\u5df2\u7ecf\u5e9f\u5f03\u4e86\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Eigentlich sollte niemand Zugriff darauf haben, weil die Entwicklung dieses Gebiets eingestellt wurde.",
@@ -5322,7 +5322,7 @@
             "entity": { "player": true },
             "text": {
               "": "Logout",
-              "en_US": "Deslogando",
+              "en_US": "Desconectando",
               "de_DE": "Logout",
               "fr_FR": "fr_FR",
               "langUid": 618,
@@ -5555,7 +5555,7 @@
           {
             "message": {
               "": "So...\\. anything new you remembered?",
-              "en_US": "Então...\\. alguma coisa nova que você se lembrou?",
+              "en_US": "Você se lembrou de algo novo?",
               "langUid": 622,
               "zh_CN": "\u55ef...\\.\u90a3\u4e48\u4f60\u6709\u60f3\u8d77\u6765\u4ec0\u4e48\u65b0\u4e1c\u897f\u5417\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Na...\\. Konntest du dich an etwas Neues erinnern?",
@@ -5615,7 +5615,7 @@
           {
             "message": {
               "": "Well then, time to head out, correct?",
-              "en_US": "Bem, então, hora de ir embora, correto?",
+              "en_US": "Bem, então, hora de sair, certo?",
               "langUid": 626,
               "zh_CN": "\u90a3\u4e48\u5c31\u5148\u51fa\u53d1\u5427\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Na dann... Zeit, wieder loszuziehen, oder?",
@@ -5858,7 +5858,7 @@
           {
             "message": {
               "": "Uhm...",
-              "en_US": "Uhm...",
+              "en_US": "Hmm...",
               "langUid": 631,
               "zh_CN": "\u55ef...<<A<<[CHANGED 2017/10/10]",
               "de_DE": "\u00d6hm...",
@@ -6157,7 +6157,7 @@
           {
             "message": {
               "": "Did the players here start a rebellion of sorts?",
-              "en_US": "Os jogadores aqui começaram uma espécie de rebelião?",
+              "en_US": "Os jogadores iniciaram uma rebelião?",
               "langUid": 637,
               "zh_CN": "\u662f\u8fd9\u91cc\u7684\u73a9\u5bb6\u4eec\u5f00\u59cb\u8d77\u4e49\u4e86\u5417\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Versuchen die Spieler hier auszubrechen?",
@@ -6346,7 +6346,7 @@
           {
             "message": {
               "": "You're back again?",
-              "en_US": "Você está de volta?",
+              "en_US": "Você voltou?",
               "langUid": 640,
               "zh_CN": "\u4f60\u53c8\u56de\u6765\u4e86\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Du bist also wieder zur\u00fcck?",
@@ -6510,7 +6510,7 @@
           {
             "message": {
               "": "Not very talkative after all, I see.",
-              "en_US": "Não muito falante afinal, eu vejo.",
+              "en_US": "Parece que você não é tão falante, afinal de contas.",
               "langUid": 649,
               "zh_CN": "\u770b\u6765\u4f60\u8fd8\u662f\u54d1\u5df4\u4e00\u4e2a\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Doch nicht so gespr\u00e4chig, wie ich sehe.",
@@ -6630,7 +6630,7 @@
           {
             "message": {
               "": "All the lengths they went through for you...\\. I just don't get it.",
-              "en_US": "Todos os esforços que eles fizeram por você...\\. Eu simplesmente não entendo.",
+              "en_US": "Todos os esforços que eles fizeram por você...\\. Eu não consigo entender.",
               "langUid": 657,
               "zh_CN": "\u4ed6\u4eec\u5728\u4f60\u8eab\u4e0a\u82b1\u4e86\u591a\u5c11\u5fc3\u8840...\\.\u6211\u771f\u662f\u65e0\u6cd5\u7406\u89e3\u3002<<A<<[CHANGED 2018/03/14]",
               "de_DE": "Wie sie sich ein Bein f\u00fcr dich ausgerissen und um dich gek\u00fcmmert haben...\\. Ich verstehe es einfach nicht.",
@@ -6752,7 +6752,7 @@
           {
             "message": {
               "": "Well then!\\. Allow me to refresh your memory!",
-              "en_US": "Bem então!\\. Permita-me refrescar sua memória!",
+              "en_US": "Permita-me refrescar sua memória!",
               "langUid": 661,
               "zh_CN": "\u54fc\uff01\\.\u770b\u6765\u5f97\u7531\u6211\u6765\u7ed9\u4f60\u9192\u9192\u8111\u5b50\u4e86\uff01<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Dann will ich dir mal auf die Spr\u00fcnge helfen!",
@@ -6850,7 +6850,7 @@
           {
             "message": {
               "": "Seeing me might feel strange to you... like looking into a mirror.",
-              "en_US": "Me ver pode parecer estranho para você... como olhar no espelho.",
+              "en_US": "Me ver pode parecer estranho para você... como olhar para um espelho.",
               "langUid": 667,
               "zh_CN": "\u4f60\u770b\u6211\u662f\u4e0d\u662f\u548c\u4f60\u5f88\u50cf...\u5c31\u50cf\u7167\u955c\u5b50\u90a3\u6837\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Mich zu sehen muss sich komisch f\u00fcr dich anf\u00fchlen... Als ob du in einen Spiegel schauen w\u00fcrdest.",
@@ -7030,7 +7030,7 @@
           {
             "message": {
               "": "You're an \\c[3]AI\\c[0].\\. A \\c[3]program\\c[0].\\. Nothing else.",
-              "en_US": "Você é um \\c[3]IA\\c[0].\\. Um \\c[3]programa\\c[0].\\. Nada mais.",
+              "en_US": "Você é uma \\c[3]IA\\c[0].\\. Um \\c[3]programa\\c[0].\\. Nada mais.",
               "langUid": 673,
               "zh_CN": "\u4f60\u662f\u4e00\u4e2a\\c[3]AI\\c[0]\u3002\\.\u4e00\u4e2a\\c[3]\u7a0b\u5e8f\\c[0]\u3002\\.\u4ec5\u6b64\u800c\u5df2\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Du bist eine \\c[3]KI\\c[0].\\. Ein \\c[3]Programm\\c[0].\\. Mehr nicht.",
@@ -7132,7 +7132,7 @@
           {
             "message": {
               "": "You can deny it all you want.\\. It won't change anything.",
-              "en_US": "Você pode negar tudo o que quiser.\\. Não vai mudar nada.",
+              "en_US": "Você pode negar o quanto quiser.\\. Não vai mudar nada.",
               "langUid": 677,
               "zh_CN": "\u4f60\u5c3d\u7ba1\u5426\u8ba4\u3002\\.\u6539\u53d8\u4e0d\u4e86\u73b0\u5b9e\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Du kannst es leugnen, so viel du willst.\\. Das wird nichts daran \u00e4ndern.",
@@ -7222,7 +7222,7 @@
           {
             "message": {
               "": "The \"next big step\" in artificial intelligence is what they call you.",
-              "en_US": "O \"próximo grande passo\" da inteligência artificial é como eles chamam você.",
+              "en_US": "Eles te chamam de \"o próximo grande passo\" da inteligência artificial.",
               "langUid": 683,
               "zh_CN": "\u4ed6\u4eec\u79f0\u4f60\u4e3a\"\u65b0\u4e16\u4ee3\"\u4eba\u5de5\u667a\u80fd\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Sie nennen dich \"den n\u00e4chsten gro\u00dfen Schritt in K\u00fcnstlicher Intelligenz\".",
@@ -7581,7 +7581,7 @@
           {
             "message": {
               "": "And for what?!",
-              "en_US": "E para quê?!",
+              "en_US": "E pra quê?!",
               "langUid": 691,
               "zh_CN": "\u4e3a\u4e86\u4ec0\u4e48\uff1f\uff01<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Und wof\u00fcr?!",
@@ -7611,7 +7611,7 @@
           {
             "message": {
               "": "Just how the hell did they ever think this was a good idea?!",
-              "en_US": "Como diabos eles pensaram que isso era uma boa ideia?!",
+              "en_US": "Como esses imbecis acharam que isso era uma boa ideia?!",
               "langUid": 693,
               "zh_CN": "\u4ed6\u4eec\u5230\u5e95\u4e3a\u4ec0\u4e48\u89c9\u5f97\u8fd9\u662f\u4e2a\u597d\u4e3b\u610f?!<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Was zur H\u00f6lle haben die sich dabei gedacht?!",
@@ -8169,7 +8169,7 @@
           {
             "message": {
               "": "Whoever brought you back...\\. should just delete you immediately.",
-              "en_US": "Quem te trouxe de volta...\\. deve apenas excluir você imediatamente.",
+              "en_US": "Quem te trouxe de volta...\\. deveria excluir você imediatamente.",
               "langUid": 701,
               "zh_CN": "\u4e0d\u7ba1\u662f\u8c01\u628a\u4f60\u635e\u4e86\u56de\u6765...\\.\u90fd\u5e94\u8be5\u9a6c\u4e0a\u628a\u4f60\u5220\u9664\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Wer auch immer dich zur\u00fcckgebracht hat...\\. sollte dich jetzt einfach l\u00f6schen.",
@@ -8275,7 +8275,7 @@
           {
             "message": {
               "": "... Well then...",
-              "en_US": "... Bem então...",
+              "en_US": "... Então...",
               "langUid": 704,
               "zh_CN": "...\u90a3\u4e48...<<A<<[CHANGED 2017/10/10]",
               "de_DE": "... Also dann...",
@@ -8978,7 +8978,7 @@
           {
             "message": {
               "": "All I can tell you is that there is hope...",
-              "en_US": "Só posso dizer que há esperança...",
+              "en_US": "Tudo o que posso dizer é que há esperança...",
               "de_DE": "Alles, was ich dir sagen kann, ist, dass es Hoffnung gibt...",
               "zh_CN": "\u6211\u60f3\u544a\u8bc9\u4f60\uff0c\u8fd9\u4e00\u5207\u90fd\u8fd8\u6709\u5e0c\u671b...<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u50d5\u304c\u541b\u306b\u8a00\u3048\u308b\u306e\u306f\u3001\n\u5e0c\u671b\u304c\u3042\u308b\u3068\u3044\u3046\u3053\u3068\u3060\u3051...<<A<<[CHANGED 2018/03/14]",
@@ -9265,7 +9265,7 @@
           {
             "message": {
               "": "Lea... what is...",
-              "en_US": "Lea... o que é...",
+              "en_US": "Lea... o que...",
               "langUid": 744,
               "zh_CN": "\u8389\u4e9a...\u4f60...<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Lea... Was ist...",
@@ -10001,7 +10001,7 @@
           {
             "message": {
               "": "I am just glad that you seem to be getting through this.",
-              "en_US": "Estou apenas contente por parecer que está superando isso.",
+              "en_US": "Só queria dizer que estou contente em ver que você está superando isso.",
               "langUid": 801,
               "zh_CN": "\u6211\u53ea\u662f\u5e86\u5e78\u4f60\u6ca1\u6709\u8ff7\u5931\u81ea\u6211\u3002<<A<<[CHANGED 2018/09/19]",
               "de_DE": "Ich bin einfach froh, dass du das alles irgendwie zu verkraften scheinst.",
@@ -10050,7 +10050,7 @@
             "entity": { "player": true },
             "text": {
               "": "Logout",
-              "en_US": "Deslogando",
+              "en_US": "Desconectando",
               "de_DE": "Logout",
               "fr_FR": "fr_FR",
               "langUid": 793,
@@ -10837,7 +10837,7 @@
             "entity": { "player": true },
             "text": {
               "": "Logout",
-              "en_US": "Deslogando",
+              "en_US": "Desconectando",
               "de_DE": "Logout",
               "fr_FR": "fr_FR",
               "langUid": 818,
@@ -11240,7 +11240,7 @@
           {
             "message": {
               "": "This was not planned... nor intended.",
-              "en_US": "Isto não foi planejado... nem pretendido.",
+              "en_US": "Aquilo não foi planejado... nem pretendido.",
               "de_DE": "Das war weder geplant... noch beabsichtigt.",
               "zh_CN": "\u5e76\u975e\u6545\u610f\uff0c\u53ea\u662f\u610f\u5916\u3002<<A<<[CHANGED 2018/01/06]",
               "ja_JP": "\u8a08\u753b\u306b\u306f\u306a\u304b\u3063\u305f...\n\u308f\u3056\u3068\u3067\u306f\u306a\u304b\u3063\u305f\u3093\u3060\u3002<<A<<[CHANGED 2018/01/06]",
@@ -11285,7 +11285,7 @@
           {
             "message": {
               "": "That's right, you can say a few words now.",
-              "en_US": "Isso mesmo, você pode dizer algumas palavras agora.",
+              "en_US": "Interessante, você pode dizer algumas palavras agora.",
               "de_DE": "Richtig, du sprichst ja jetzt ein paar Worte.",
               "zh_CN": "\u54e6\u5bf9\uff0c\u4f60\u73b0\u5728\u4f1a\u8bf4\u51e0\u4e2a\u8bcd\u4e86\u3002<<A<<[CHANGED 2018/01/06]",
               "ja_JP": "\u305d\u3046\u304b\u3001\u541b\u306f\u3082\u3046\u3044\u304f\u3064\u304b\n\u8a00\u8449\u3092\u8a71\u305b\u308b\u3093\u3060\u3063\u305f\u306a\u3002<<A<<[CHANGED 2018/01/06]",
@@ -11300,7 +11300,7 @@
           {
             "message": {
               "": "Well then... do you mind telling me something?",
-              "en_US": "Bem, então... você se importa de me dizer uma coisa?",
+              "en_US": "Então... você se importa de me dizer uma coisa?",
               "de_DE": "Na dann... verrate mir doch bitte eins.",
               "zh_CN": "\u90a3\u4e48...\u4e0d\u59a8\u6765\u56de\u7b54\u6211\u51e0\u4e2a\u95ee\u9898\uff1f<<A<<[CHANGED 2018/01/06]",
               "ja_JP": "\u305d\u308c\u3058\u3083\u3042...\u5c11\u3057\n\u8a71\u3092\u3057\u3066\u304f\u308c\u306a\u3044\u304b\uff1f<<A<<[CHANGED 2018/01/06]",
@@ -11685,7 +11685,7 @@
           {
             "message": {
               "": "For now...\\. please go to the tower as you planned with Lukas.",
-              "en_US": "Por enquanto...\\. por favor, vá para a torre como planejou com Lukas.",
+              "en_US": "Por enquanto...\\. vá para a torre como foi planejado com Lukas.",
               "de_DE": "Nur so viel...\\. Bitte geh mit Lukas zum Turm, wie geplant.",
               "zh_CN": "\u81f3\u4e8e\u73b0\u5728...\\.\u6309\u7167\u8ba1\u5212\u548c\u5362\u5361\u65af\u53bb\u9ad8\u5854\u90a3\u91cc\u5427\u3002<<A<<[CHANGED 2018/01/06]",
               "ja_JP": "\u4eca\u306f...\\.\u30eb\u30fc\u30ab\u30b9\u3068\u8a08\u753b\u3057\u3066\u3044\u305f\n\u3088\u3046\u306b\u3001\u5854\u3078\u5411\u304b\u3063\u3066\u304f\u308c\u3002<<A<<[CHANGED 2018/01/06]",
@@ -11719,7 +11719,7 @@
           {
             "message": {
               "": "Until then.",
-              "en_US": "Até lá.",
+              "en_US": "Até logo.",
               "de_DE": "Bis dahin.",
               "zh_CN": "\u56de\u89c1\u3002<<A<<[CHANGED 2018/01/06]",
               "ja_JP": "\u3058\u3083\u3042\u3001\u307e\u305f\u3002<<A<<[CHANGED 2018/01/06]",

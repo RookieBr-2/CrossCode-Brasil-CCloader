@@ -13357,7 +13357,7 @@
           {
             "message": {
               "": "Well then... I suppose I better log off now.",
-              "en_US": "Bem, então... acho melhor eu sair agora.",
+              "en_US": "Bem... acho melhor eu sair agora.",
               "de_DE": "Bon! Tja, \u00e4hm... Ich glaube, ich sollte mich jetzt mal besser ausloggen.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u597d\u5427\u2026\u6211\u60f3\u6211\u8be5\u4e0b\u7ebf\u4e86\u3002",
@@ -13373,7 +13373,7 @@
           {
             "message": {
               "": "...?",
-              "en_US": "....?",
+              "en_US": "...?",
               "de_DE": "...?",
               "fr_FR": "fr_FR",
               "langUid": 981,
@@ -13389,7 +13389,7 @@
           {
             "message": {
               "": "Well... you see, I still gotta do my part of the assignment.",
-              "en_US": "Bem... você sabe, eu ainda tenho que fazer minha parte da tarefa.",
+              "en_US": "É que... eu ainda tenho que fazer minha parte da tarefa.",
               "de_DE": "Na ja... Ich muss doch f\u00fcr morgen noch meine Gruppenaufgabe erledigen.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u55ef\u2026\u4f60\u77e5\u9053\u7684\uff0c\u6211\u8fd8\u6709\u4f5c\u4e1a\u6ca1\u5199\u3002",
@@ -13421,7 +13421,7 @@
           {
             "message": {
               "": "So no all-nighter today, sorry.",
-              "en_US": "Então, nada de virar a noite hoje, desculpa.",
+              "en_US": "Então, nada de virar a noite hoje jogando, desculpa.",
               "de_DE": "Tut mir leid, aber heute kann ich leider nicht die Nacht durchzocken.",
               "fr_FR": "fr_FR",
               "langUid": 275,
@@ -17402,7 +17402,7 @@
                 {
                   "message": {
                     "": "Ah, you are here because of those criminal activities here on the market?",
-                    "en_US": "Ah, você está aqui por causa das atividades criminosas aqui no mercado?",
+                    "en_US": "Ah, você está aqui por causa das atividades criminosas no mercado?",
                     "de_DE": "Ah, du bist wegen der kriminellen Aktivit\u00e4ten auf dem Markt hier?",
                     "fr_FR": "fr_FR",
                     "langUid": 586,
@@ -17733,7 +17733,7 @@
               {
                 "message": {
                   "": "Human!\\. Got quality tableware for sale!\\. Best craftworks, it much smooth!",
-                  "en_US": "Humano!\\. Vende-se talheres de qualidade!\\. Melhor artesanato, é muito polido!",
+                  "en_US": "Humana!\\. Vende-se talheres de qualidade!\\. Melhor artesanato, é muito polido!",
                   "de_DE": "Mensch!\\. Haben tollen Tisch zum Kauf!\\. Handarbeit beste, ganz glatt!",
                   "fr_FR": "fr_FR",
                   "langUid": 630,
@@ -17768,7 +17768,7 @@
               {
                 "message": {
                   "": "Such shame.\\. Human table have sad.",
-                  "en_US": "Que pena.\\. A mesa humana está triste.",
+                  "en_US": "Que pena.\\. Capitalismo fica triste.",
                   "de_DE": "So eine Schande.\\. Mensch macht Tisch traurig.",
                   "fr_FR": "fr_FR",
                   "langUid": 604,
@@ -18047,7 +18047,7 @@
               {
                 "message": {
                   "": "Hope human find solution.\\. We Shad like market and sharing our goods.",
-                  "en_US": "Espero que o ser humano encontre a solução.\\. Gostamos do mercado e compartilhamos nossos produtos.",
+                  "en_US": "Espero que humana encontre a solução.\\. Gostamos do mercado e compartilhamos nossos produtos.",
                   "de_DE": "Hoffe Mensch finden L\u00f6sung.\\. Wir Shad m\u00f6gen Markt und Tauschen sehr.",
                   "fr_FR": "fr_FR",
                   "langUid": 629,

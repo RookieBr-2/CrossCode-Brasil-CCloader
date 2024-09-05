@@ -7021,7 +7021,7 @@
           {
             "message": {
               "": "Well...\\. here we are.\\. \\c[3]Gaia's Garden\\c[0].",
-              "en_US": "Bem...\\. aqui estamos nós.\\. \\c[3]Jardim de Gaia\\c[0].",
+              "en_US": "Veja...\\. finalmente chegamos no \\c[3]Jardim de Gaia\\c[0].",
               "langUid": 207,
               "zh_CN": "\u7ec8\u4e8e...\\.\u6211\u4eec\u5230\u4e86\u3002\\. \\c[3]\u76d6\u4e9a\u82b1\u56ed\\c[0].<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc790, \uc774\uc81c...\\. \ub3c4\ucc29\ud588\uad6c\ub098.\\. \\c[3]\uac00\uc774\uc544\uc758 \uc815\uc6d0\\c[0]\uc5d0.<<A<<[CHANGED 2018/03/14]",
@@ -7066,7 +7066,7 @@
           {
             "message": {
               "": "Funny enough, though... \\c[3]no bugs\\c[0].",
-              "en_US": "Embora, ironicamente... \\c[3]não haja insetos\\c[0].",
+              "en_US": "Embora, ironicamente... \\c[3]não haja nenhum inseto\\c[0].",
               "langUid": 204,
               "zh_CN": "\u6709\u8da3...\u6ca1\u6709\\c[3]\u866b\u5b50\\c[0]\u3002<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\ud558\uc9c0\ub9cc \uc6c3\uae30\uac8c\ub3c4... \\c[3]\ubc8c\ub808 \uc885\ub958\ub294 \uc5c6\uc5b4\\c[0].<<A<<[CHANGED 2018/03/14]",
@@ -7096,7 +7096,7 @@
           {
             "message": {
               "": "You see... Emilie will probably be fine by herself.",
-              "en_US": "Veja... Emilie provavelmente ficará bem sozinha.",
+              "en_US": "Emilie provavelmente ficará bem sozinha.",
               "langUid": 206,
               "zh_CN": "\u4f60\u770b\u662f\u5427...\u90a3\u827e\u7c73\u8389\u5728\u8fd9\u513f\u5e94\u8be5\u8fc7\u5f97\u4e0d\u9519\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc5d0\ubc00\ub9ac\ub294... \uc774\uacf3\uc5d0\uc11c \uc798 \uc9c0\ub0bc \uc218 \uc788\uc744 \uac83 \uac19\uad6c\ub098.<<A<<[CHANGED 2018/03/14]",
@@ -7857,7 +7857,7 @@
                     {
                       "message": {
                         "": "Oh, I see. Having business with your girl again?",
-                        "en_US": "Ah, vejo que você está ocupado com sua rival de novo?",
+                        "en_US": "Ah, você está ocupado com sua rival outra vez, não é?",
                         "langUid": 601,
                         "zh_CN": "\u554a\uff0c\u6211\u770b\u5230\u4e86\u3002\u4ed6\u53c8\u627e\u4f60\u9ebb\u70e6\u4e86\uff1f<<A<<[CHANGED 2018/03/14]",
                         "ko_KR": "\uc544, \ub610 \uadf8 \uc5ec\uc790\uc560\ub791 \ub178\ub290\ub77c \ubc14\uc05c \uac70\ub0d0?<<A<<[CHANGED 2018/03/14]",
@@ -7937,7 +7937,7 @@
                     {
                       "message": {
                         "": "Well, whoop-de-doo.",
-                        "en_US": "Bem, que empolgante...",
+                        "en_US": "Nossa, que empolgante...",
                         "langUid": 604,
                         "zh_CN": "\u597d\u5427\uff0c\u5f00\u59cb\u5427\u3002<<A<<[CHANGED 2018/03/14]",
                         "ko_KR": "\uc694\ub780\uc2a4\ub7fd\uae34.<<A<<[CHANGED 2018/03/14]",
@@ -7955,7 +7955,7 @@
                     {
                       "message": {
                         "": "Didn't we want to start exploring Gaia's Garden today?",
-                        "en_US": "Não pretendíamos explorar o Jardim de Gaia hoje?",
+                        "en_US": "Achei que nosso plano era explorar o Jardim de Gaia hoje.",
                         "langUid": 605,
                         "zh_CN": "\u6211\u4eec\u4eca\u5929\u4e0d\u662f\u8981\u53bb\u63a2\u7d22\u76d6\u4e9a\u82b1\u56ed\u5417\uff1f<<A<<[CHANGED 2018/03/14]",
                         "ko_KR": "\uc624\ub298 \uac00\uc774\uc544\uc758 \uc815\uc6d0 \ud0d0\ud5d8\ud558\uae30\ub85c \ud55c \uac70 \uc544\ub2c8\uc5c8\uc5b4?<<A<<[CHANGED 2018/03/14]",
@@ -7973,7 +7973,7 @@
                     {
                       "message": {
                         "": "Yes! Right after the duel! It won't take that long.",
-                        "en_US": "Sim! Logo após o duelo! Não vai demorar tanto tempo.",
+                        "en_US": "Sim! Logo após o duelo! Não vai demorar muito.",
                         "langUid": 606,
                         "zh_CN": "\u662f\u7684\uff01\u4f46\u662f\u5148\u7b49\u6211\u51b3\u6597\u5b8c\uff01\u7528\u4e0d\u4e86\u591a\u4e45\u7684\u3002<<A<<[CHANGED 2018/03/14]",
                         "ko_KR": "\uadf8\ub807\uc9c0! \uc774 \uacb0\ud22c\uac00 \ub05d\ub098\uace0 \ub098\uba74 \ub9d0\uc774\uc57c! \uc624\ub798 \uac78\ub9ac\uc9c4 \uc54a\uc744 \uac70\uc57c.<<A<<[CHANGED 2018/03/14]",
@@ -9225,7 +9225,7 @@
           {
             "message": {
               "": "...Right.",
-              "en_US": "...Certo.",
+              "en_US": "...Sim.",
               "langUid": 216,
               "zh_CN": "...\u597d\u5427\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "...\uc544, \uadf8\ub7ac\uc9c0.<<A<<[CHANGED 2018/03/14]",
@@ -9278,7 +9278,7 @@
               {
                 "message": {
                   "": "Here's hoping that by now you'd have reconsidered your \\c[1]disgraceful cheating behavior\\c[0]!",
-                  "en_US": "Aqui se espera que agora você já tenha reconsiderado seu \\c[1]vergonhoso comportamento de trapacear\\c[0]!",
+                  "en_US": "Espero que você tenha refletido sobre suas \\c[1]trapaças vergonhosas\\c[0]!",
                   "de_DE": "Hoffen wir, dass du dein \\c[1]sch\u00e4ndliches Betrugsverhalten\\c[0] inzwischen \u00fcberdacht hast!",
                   "zh_CN": "\u5e0c\u671b\u5230\u73b0\u5728\u4f60\u5df2\u7ecf\u610f\u8bc6\u5230\u4e86\u81ea\u5df1\\c[1]\u4f5c\u5f0a\u884c\u4e3a\u7684\u9519\u8bef\\c[0]!<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u4eca\u306f\u305f\u3060\u3001\u304a\u524d\u304c\u305d\u306e\\c[1]\u4e0d\u5c4a\u304d\u306a\n\u30c1\u30fc\u30c8\u884c\u70ba\\c[0]\u3092\u306f\u305f\u3089\u304b\u306a\u3044\u3088\u3046\n\u8003\u3048\u76f4\u3057\u3066\u304f\u308c\u305f\u3053\u3068\u3092\u9858\u304a\u3046\uff01<<A<<[CHANGED 2019/08/16]",
@@ -9536,7 +9536,7 @@
           {
             "message": {
               "": "Uhm...\\. I mean...",
-              "en_US": "Uhm...\\. Quero dizer...",
+              "en_US": "Está...\\. Quero dizer...",
               "de_DE": "\u00c4hm...\\. Ich meine...",
               "zh_CN": "\u5443...\\..\u6211\u662f\u8bf4...<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u3048\u3048\u3068...\\.\u3064\u307e\u308a\u3060\u306a...<<A<<[CHANGED 2018/03/14]",
@@ -9691,7 +9691,7 @@
           {
             "message": {
               "": "Don't tell me he has been on a stakeout here all this time...",
-              "en_US": "Não me diga que ele esteve aqui todo este tempo em vigília...",
+              "en_US": "Não me diga que ele esteve aqui o tempo todo, apenas vigiando...",
               "langUid": 244,
               "zh_CN": "\u90a3\u5bb6\u4f19\u8be5\u4e0d\u4f1a\u662f\u4e00\u76f4\u5446\u5728\u8fd9\u8e72\u4f60\u5427\uff1f<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\uc124\ub9c8 \uc774\uacf3\uc5d0\uc11c \uc885\uc77c \uc7a0\ubcf5\ud558\uace0 \uc788\ub358 \uac74 \uc544\ub2c8\uaca0\uc9c0.<<A<<[CHANGED 2018/09/19]",
@@ -10252,7 +10252,7 @@
                       {
                         "message": {
                           "": "Well done! Now let's all \\c[3]cool down\\c[0] again!",
-                          "en_US": "Muito bem! Agora vamos \\c[3]esfriar a cabeça\\c[0] de novo!",
+                          "en_US": "Muito bem! Agora vamos \\c[3]esfriar a cabeça\\c[0]!",
                           "de_DE": "Sehr gut! Nach dem hitzigen Auftakt wird's Zeit f\u00fcr eine \\c[3]Abk\u00fchlung\\c[0].",
                           "zh_CN": "\u6253\u5f97\u4e0d\u9519\uff01\u73b0\u5728\u8ba9\u6211\u4eec\u90fd\u5148\\c[3]\u51b7\u9759\\c[0]\u4e00\u4e0b\uff01<<A<<[CHANGED 2018/03/14]",
                           "ja_JP": "\u3088\u304f\u3084\u3063\u305f\uff01\u3053\u3053\u304b\u3089\u306f\n\\c[3]\u30af\u30fc\u30eb\u30c0\u30a6\u30f3\\c[0]\u3057\u3066\u3044\u304f\u305e\uff01<<A<<[CHANGED 2018/03/14]",
@@ -12474,7 +12474,7 @@
           {
             "message": {
               "": "Do you want to explore the jungle \\c[3]together with us\\c[0]?",
-              "en_US": "Você quer explorar a selva \\c[3]junto conosco\\c[0]?",
+              "en_US": "Você quer explorar a selva \\c[3]com a gente\\c[0]?",
               "langUid": 720,
               "zh_CN": "\u4f60\u60f3\\c[3]\u8ddf\u6211\u4eec\u4e00\u8d77\\c[0]\u63a2\u7d22\u4e1b\u6797\u5417\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\\c[3]\uc6b0\ub9ac\uc640 \ud568\uaed8\\c[0] \uc815\uae00\uc744 \ud0d0\ud5d8\ud558\ub294 \uac8c \uc5b4\ub54c?<<A<<[CHANGED 2018/03/14]",
@@ -12696,7 +12696,7 @@
               {
                 "message": {
                   "": "Polly,\\. did it ever occur to you that her cheating may not be entirely deliberate?",
-                  "en_US": "Polly,\\. já pensou que a trapaça dela pode não ser totalmente deliberada?",
+                  "en_US": "Polly,\\. já pensou que a trapaça dela pode não ser totalmente intencional?",
                   "de_DE": "Polly,\\. ist dir nie der Gedanke gekommen, dass sie vielleicht gar nichts f\u00fcr das Cheaten kann?",
                   "zh_CN": "\u963f\u6ce2\uff0c\\.\u4f60\u6709\u6ca1\u6709\u60f3\u8fc7\u6216\u8bb8\u5979\u6240\u8c13\u7684\u4f5c\u5f0a\u884c\u4e3a\u5e76\u975e\u81ea\u613f\uff1f<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u30dd\u30ea\u30fc\u3001\\.\u5f7c\u5973\u306e\u30c1\u30fc\u30c8\u304c\u6545\u610f\u3058\u3083\u306a\u3044\n\u304b\u3082\u3057\u308c\u306a\u3044\u3068\u3001\u4eca\u307e\u3067\u306b\n\u8003\u3048\u305f\u3053\u3068\u306f\u3042\u308b\u306e\u304b\uff1f<<A<<[CHANGED 2019/08/16]",
@@ -12956,7 +12956,7 @@
           {
             "message": {
               "": "Well then.",
-              "en_US": "Bem, então.",
+              "en_US": "Tudo bem, então.",
               "langUid": 730,
               "zh_CN": "\u90a3\u597d\u5427\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc88b\uc544, \uadf8\ub7fc.<<A<<[CHANGED 2018/03/14]",
@@ -13303,7 +13303,7 @@
           {
             "message": {
               "": "Shouldn't you be happy?\\. We have a party with two Spheromancers now.",
-              "en_US": "Você não deveria estar contente?\\. Agora temos um grupo com dois Esferomantes.",
+              "en_US": "Você não deveria estar feliz?\\. Agora temos um grupo com dois Esferomantes.",
               "langUid": 739,
               "zh_CN": "\u4f60\u4e0d\u662f\u8be5\u9ad8\u5174\u624d\u5bf9\u561b\uff1f\\.\u6211\u4eec\u73b0\u5728\u6709\u4e24\u540d\u6c14\u5706\u4f7f\u8005\u5728\u4e00\u961f\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uae30\uc058\uc9c0 \uc54a\uc544?\\. \uc774\uc81c \uc6b0\ub9ac \ud30c\ud2f0\uc5d0 \uc6d0\uc220\uc0ac\uac00 \ub450 \uba85\uc778\ub370.<<A<<[CHANGED 2018/03/14]",
@@ -13321,7 +13321,7 @@
           {
             "message": {
               "": "Right, now that you mention it!",
-              "en_US": "Parece bom, agora que você mencionou isso!",
+              "en_US": "Agora que você mencionou isso, parece bem melhor!",
               "langUid": 740,
               "zh_CN": "\u5bf9\uff0c\u591a\u8c22\u63d0\u9192\uff01<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub9de\uc544, \uc774\uc81c\uc11c\uc57c \ub9d0\ud574\uc8fc\ub2e4\ub2c8!<<A<<[CHANGED 2018/03/14]",
@@ -13426,7 +13426,7 @@
           {
             "message": {
               "": "Indeed! What else is there to do than seek the human settlement hidden within this wilderness!",
-              "en_US": "Certo! O que mais deveríamos fazer além de procurar o assentamento escondido nesta selva!",
+              "en_US": "Com o objetivo de encontrar a colônia humana escondida nesta selva!",
               "langUid": 749,
               "zh_CN": "\u7684\u786e\uff01\u6211\u4eec\u5e94\u8be5\u7740\u624b\u5bfb\u627e\u8fd9\u4e2a\u533a\u57df\u7684\u4eba\u7c7b\u805a\u5c45\u5730\uff01<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uc6b0\ub9ac\uac00 \ud574\uc57c \ud560 \uc77c\uc740 \uc57c\uc0dd \uc548\uc5d0 \uc228\uaca8\uc9c4 \uc778\uac04\uc758 \uc815\ucc29\uc9c0\ub97c \ucc3e\ub294 \uac83\uc774\uc9c0!<<A<<[CHANGED 2018/09/19]",

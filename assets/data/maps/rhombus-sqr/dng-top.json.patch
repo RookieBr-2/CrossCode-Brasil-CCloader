@@ -5260,7 +5260,7 @@
               {
                 "message": {
                   "": "Dang, I can barely see a thing!",
-                  "en_US": "Droga, quase não consigo ver nada!",
+                  "en_US": "Droga, não consigo ver nada!",
                   "de_DE": "Verflixt, ich seh fast nix hier!",
                   "fr_FR": "fr_FR",
                   "langUid": 83,
@@ -5317,7 +5317,7 @@
               {
                 "message": {
                   "": "Just great.",
-                  "en_US": "Simplesmente genial.",
+                  "en_US": "Com amigos assim, eu não preciso de inimigos.",
                   "de_DE": "Einfach gro\u00dfartig.",
                   "fr_FR": "fr_FR",
                   "langUid": 86,
@@ -5352,7 +5352,7 @@
               {
                 "message": {
                   "": "You're in the same boat, huh?",
-                  "en_US": "Você está na mesma situação, hein?",
+                  "en_US": "Você está na mesma situação, não é?",
                   "de_DE": "Dir geht's wohl auch so, was?",
                   "fr_FR": "fr_FR",
                   "langUid": 88,
@@ -5471,7 +5471,7 @@
               {
                 "message": {
                   "": "Congratulations on reaching the third stage of Newcomer's Bridge!",
-                  "en_US": "Parabéns por alcançar o terceira etapa da Ponte dos Iniciantes!",
+                  "en_US": "Parabéns por alcançar a terceira etapa da Ponte dos Iniciantes!",
                   "de_DE": "Herzlichen Gl\u00fcckwunsch zum Bestehen der dritten Etappe der Neulingsbr\u00fccke!",
                   "zh_CN": "\u606d\u559c\u62b5\u8fbe\u8fce\u65b0\u6865\u7b2c\u4e09\u9636\u6bb5\uff01<<A<<[CHANGED 2018/08/28]",
                   "ja_JP": "\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30ba\u30d6\u30ea\u30c3\u30b8\u306e\u7b2c3\u30b9\u30c6\u30fc\u30b8\u30af\u30ea\u30a2\u3001\n\u304a\u3081\u3067\u3068\u3046\u3054\u3056\u3044\u307e\u3059\uff01<<A<<[CHANGED 2018/08/28]",
@@ -5761,7 +5761,7 @@
             "entity": { "global": true, "name": "oceanHexa2" },
             "text": {
               "": "Huh... now that we're on this distant moon...",
-              "en_US": "Hmm... agora que estamos nesta lua distante...",
+              "en_US": "Hmm... agora que estamos neste planeta distante...",
               "de_DE": "Hm... Da wir uns ja auf einem entfernten Mond befinden...",
               "fr_FR": "fr_FR",
               "langUid": 101,

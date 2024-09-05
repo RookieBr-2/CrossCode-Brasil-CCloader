@@ -570,7 +570,7 @@
             }, {
                 "message": {
                     "": "Well here we are.",
-                    "en_US": "Aqui estamos.",
+                    "en_US": "Chegamos.",
                     "langUid": 4,
                     "zh_CN": "\u5230\u4e86\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "Tja, da w\u00e4ren wir.",
@@ -587,7 +587,7 @@
             }, {
                 "message": {
                     "": "My room's up here, yours?",
-                    "en_US": "Meu quarto é aqui em cima, o seu?",
+                    "en_US": "Meu quarto é aqui em cima, e o seu?",
                     "langUid": 5,
                     "zh_CN": "\u6211\u7684\u623f\u95f4\u5728\u4e0a\u9762\uff0c\u4f60\u7684\u5462\uff1f<<A<<[CHANGED 2018\/09\/19]",
                     "de_DE": "Mein Zimmer ist hier oben. Und deins?",
@@ -702,7 +702,7 @@
             }, {
                 "message": {
                     "": "I see.\\. Let's try to rest and meet up tomorrow. We'll see what happens.",
-                    "en_US": "Entendo.\\. Vamos tentar descansar e nos encontrarmos amanhã. Veremos o que acontece.",
+                    "en_US": "Beleza.\\. Vamos descansar e nos encontrar amanhã para decidir o que fazer.",
                     "langUid": 6,
                     "zh_CN": "\u77e5\u9053\u4e86\u3002\\.\u6211\u4eec\u5148\u4f11\u606f\u4e00\u4e0b\uff0c\u660e\u5929\u518d\u89c1\u3002\u5230\u65f6\u5019\u770b\u60c5\u51b5\u518d\u8bf4\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "Verstehe.\\. Lass uns versuchen, zu schlafen. Wir treffen uns morgen fr\u00fch wieder und schauen, was passiert.",
@@ -2349,7 +2349,7 @@
             }, {
                 "message": {
                     "": "Things will work out.",
-                    "en_US": "As coisas irão funcionar.",
+                    "en_US": "As coisas vão se resolver.",
                     "langUid": 23,
                     "zh_CN": "\u4f1a\u597d\u8d77\u6765\u7684\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "Das wird schon wieder.",

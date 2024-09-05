@@ -5120,7 +5120,7 @@
           {
             "message": {
               "": "Alright... now we just have to get through there... undetected.",
-              "en_US": "Certo... agora só temos que passar por lá... sem ser detectados.",
+              "en_US": "Beleza... agora só temos que passar por ali... sem ser detectados.",
               "langUid": 3,
               "de_DE": "Gut... Als N\u00e4chstes m\u00fcssen wir da durch... M\u00f6glichst unbemerkt.",
               "ko_KR": "\uc88b\uc544... \uc774\uc81c \uc800\ucabd\uc73c\ub85c \uac00\uba74 \ub3fc... \uc548 \ub4e4\ud0a4\uac8c.<<A<<[CHANGED 2018/01/14]",
@@ -5140,7 +5140,7 @@
               {
                 "message": {
                   "": "I'm afraid your \\c[1]one-hit-kill\\c[0] ability won't help us much here.",
-                  "en_US": "Receio que sua habilidade \\c[1]um-hit-mata\\c[0] não nos ajudará muito aqui.",
+                  "en_US": "Acho que sua habilidade \\c[1]roubada\\c[0] não vai nos ajudar aqui.",
                   "de_DE": "Ich f\u00fcrchte, hier hilft uns dein \\c[1]K.O.-Schlag\\c[0] leider nicht weiter.",
                   "zh_CN": "\u6050\u6015\u4f60\u7684\\c[1]\u4e00\u51fb\u5fc5\u6740\\c[0]\u80fd\u529b\u5728\u8fd9\u91cc\u6d3e\u4e0d\u4e0a\u4ec0\u4e48\u7528\u573a\u3002<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\\c[1]\u4e00\u6483\u5fc5\u6bba\\c[0]\u3067\u304d\u308b\u304a\u524d\u306e\u30a2\u30d3\u30ea\u30c6\u30a3\u3082\u3001\n\u3053\u3053\u3058\u3083\u3042\u3093\u307e\u308a\u5f79\u306b\u7acb\u305f\u306a\u3044\u3068\n\u601d\u3046\u3051\u3069\u306a\u3002<<A<<[CHANGED 2019/08/16]",
@@ -5160,7 +5160,7 @@
           {
             "message": {
               "": "There's supposedly a door up there that we can enter.",
-              "en_US": "Há supostamente uma porta lá em cima que podemos entrar.",
+              "en_US": "No final, deve ter uma porta por onde podemos passar.",
               "langUid": 53,
               "de_DE": "Am Ende soll eine T\u00fcr sein, wo wir durchschl\u00fcpfen k\u00f6nnen.",
               "ko_KR": "\uc800 \uc704\ucabd\uc5d0 \uc6b0\ub9ac\uac00 \ub4e4\uc5b4\uac08 \uc218 \uc788\ub294 \ubb38\uc774 \uc788\uc744 \uac70\uc57c.<<A<<[CHANGED 2021/03/05]",
@@ -5279,7 +5279,7 @@
           {
             "message": {
               "": "Huh, do you want to go ahead?",
-              "en_US": "Huh, você quer ir em frente?",
+              "en_US": "Hmm, você quer ir na frente?",
               "langUid": 57,
               "de_DE": "H\u00f6h, willst du vorgehen?",
               "ko_KR": "\uc5e5, \uba3c\uc800 \uac00\uace0 \uc2f6\ub2e4\uace0?<<A<<[CHANGED 2018/01/14]",
@@ -5369,7 +5369,7 @@
           {
             "message": {
               "": "Alright then, you go ahead!",
-              "en_US": "Tudo bem, então você vai em frente!",
+              "en_US": "Tudo bem, então você vai na frente!",
               "langUid": 63,
               "de_DE": "Alles klar, dann geh mal vor!",
               "ko_KR": "\uc88b\uc544 \uadf8\ub7fc, \uba3c\uc800 \uac00!<<A<<[CHANGED 2018/01/14]",
@@ -5819,7 +5819,7 @@
           {
             "message": {
               "": "Wait... we're back at the entrance?",
-              "en_US": "Espere... estamos de volta na entrada?",
+              "en_US": "Ué... a gente voltou para a entrada?",
               "langUid": 66,
               "de_DE": "Moment... Wir sind wieder am Eingang?",
               "ko_KR": "\uc5b4\ub77c... \ub2e4\uc2dc \uc785\uad6c\ub85c \ub3cc\uc544\uc654\ub124?<<A<<[CHANGED 2018/01/14]",
@@ -5911,7 +5911,7 @@
           {
             "message": {
               "": "Hm... maybe we can find a route walking over these roofs here?",
-              "en_US": "Hm... talvez possamos encontrar uma rota andando sobre esses telhados aqui?",
+              "en_US": "Hm... esses telhados podem levar a algum lugar. Vamos ver se encontramos uma rota.",
               "langUid": 67,
               "de_DE": "Hm... Vielleicht finden wir einen Weg \u00fcber diese D\u00e4cher hier?",
               "ko_KR": "\ud760... \uadf8\ub807\ub2e4\uba74 \uc774\ucabd \uc9c0\ubd95\uc744 \ud1b5\ud574\uc11c \uac00\ubcfc\uae4c?<<A<<[CHANGED 2020/06/17]",
@@ -6323,7 +6323,7 @@
           {
             "message": {
               "": "Whoa... we did it, didn't we?",
-              "en_US": "Uau... nós conseguimos, não foi?",
+              "en_US": "Uau... conseguimos escapar, não foi?",
               "langUid": 70,
               "de_DE": "Poach ey... Wir haben's geschafft, oder?",
               "ko_KR": "\uc6b0\uc640... \uc6b0\ub9ac\uac00 \ud574\ub0c8\uc5b4! \uadf8\ub807\uc9c0?<<A<<[CHANGED 2018/09/19]",
@@ -6505,7 +6505,7 @@
           {
             "message": {
               "": "It's... entirely empty?",
-              "en_US": "Está... completamente vazio?",
+              "en_US": "Ué... não tem ninguém aqui.",
               "langUid": 73,
               "de_DE": "Ach ne... Und hier ist alles leer...",
               "ko_KR": "\ud145\ud145... \ube44\uc5c8\uc5b4?<<A<<[CHANGED 2018/01/14]",
@@ -6520,7 +6520,7 @@
           {
             "message": {
               "": "What a strange way to prioritize security.",
-              "en_US": "Que maneira estranha de priorizar a segurança.",
+              "en_US": "Que jeito esquisito de garantir a segurança.",
               "langUid": 74,
               "de_DE": "Was f\u00fcr ein seltsames Verst\u00e4ndnis von Sicherheitspriorisierung.",
               "ko_KR": "\ubcf4\uc548 \uc6b0\uc120\uc21c\uc704\uac00 \uc774\uc0c1\ud55c\ub370.<<A<<[CHANGED 2018/01/14]",
@@ -6550,7 +6550,7 @@
           {
             "message": {
               "": "Well then... nothing stopping us here. Let's enter that tower!",
-              "en_US": "Bem, então... nada nos impede aqui. Vamos entrar naquela torre!",
+              "en_US": "Bom, acho que nada nos impede aqui. Vamos entrar na torre!",
               "langUid": 76,
               "de_DE": "Aber gut... Soll mir recht sein. Dann mal rein!",
               "ko_KR": "\uadf8\ub7fc... \uc5ec\uae34 \uc544\ubb34\uac83\ub3c4 \ubc29\ud574\ub418\ub294 \uac8c \uc5c6\ub124. \uc800 \ud0d1\uc5d0 \ub4e4\uc5b4\uac00 \ubcf4\uc790!<<A<<[CHANGED 2018/01/14]",
@@ -6829,7 +6829,7 @@
           {
             "message": {
               "": "I gotta be honest... I have a bad feeling about this.",
-              "en_US": "Eu tenho que ser honesto... Eu tenho um mau pressentimento sobre isso.",
+              "en_US": "Eu tenho que ser honesto... Estou com um mau pressentimento sobre isso.",
               "langUid": 81,
               "zh_CN": "\u6211\u5c31\u76f4\u8bf4\u4e86...\u6211\u6709\u79cd\u4e0d\u7965\u7684\u9884\u611f\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uc194\uc9c1\ud558\uac8c \ub9d0\ud560\uac8c... \ub290\ub08c\uc774 \uc88b\uc9c0 \uc54a\uc544.<<A<<[CHANGED 2018/09/19]",
@@ -6859,7 +6859,7 @@
           {
             "message": {
               "": "The way we managed to get past all those guards.",
-              "en_US": "A maneira como conseguimos passar por todos aqueles guardas.",
+              "en_US": "A forma como conseguimos passar por todos aqueles guardas.",
               "langUid": 83,
               "zh_CN": "\u6211\u4eec\u7ed5\u5f00\u90a3\u4e9b\u5b88\u536b\u7684\u8fc7\u7a0b\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uc6b0\ub9ac\uac00 \uc774 \uacbd\ube44\ub4e4\uc744 \ud53c\ud574\uc11c \uc628 \uac83 \ub9d0\uc774\uc57c.<<A<<[CHANGED 2018/09/19]",
@@ -6874,7 +6874,7 @@
           {
             "message": {
               "": "Doesn't it almost feel... intentional?",
-              "en_US": "Não parece quase... intencional?",
+              "en_US": "Não pareceu... intencional?",
               "langUid": 84,
               "zh_CN": "\u4e0d\u89c9\u5f97\u6709\u4e9b...\u523b\u610f\u4e86\u5417\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ubb54\uac00 \uc758\ub3c4\uc801\uc774\ub77c\ub294 \uc0dd\uac01\uc774... \ub4e4\uc9c0 \uc54a\ub2c8?<<A<<[CHANGED 2018/03/14]",
@@ -6919,7 +6919,7 @@
           {
             "message": {
               "": "Well... it's not like we have any other option, right?",
-              "en_US": "Bem... não é como se tivéssemos outra opção, certo?",
+              "en_US": "Bom... não temos outras opções, não é mesmo?",
               "langUid": 87,
               "zh_CN": "\u4f46\u662f...\u6211\u4eec\u4e5f\u522b\u65e0\u9009\u62e9\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ubb50... \ub2e4\ub978 \uc120\ud0dd\uc9c0\uac00 \uc788\ub294\uac74 \uc544\ub2c8\uc9c0?<<A<<[CHANGED 2018/03/14]",

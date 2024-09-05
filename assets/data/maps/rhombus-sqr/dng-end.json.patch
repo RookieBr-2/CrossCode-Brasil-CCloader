@@ -2375,7 +2375,7 @@
               {
                 "message": {
                   "": "You can go ahead! Just take any of those sky rail terminals.",
-                  "en_US": "Você pode na frente! É só pegar qualquer um desses terminais dos trilhos aéreos.",
+                  "en_US": "Você pode ir na frente! É só pegar qualquer um desses terminais dos trilhos aéreos.",
                   "de_DE": "Du kannst schon mal vorgehen! Nimm einfach eine der Laserbahnen.",
                   "fr_FR": "fr_FR",
                   "langUid": 89,
@@ -3938,7 +3938,7 @@
                       {
                         "message": {
                           "": "What? So it doesn't matter to you that some players start the game with any level they like?",
-                          "en_US": "Que? Então você não se importa que alguns jogadores comecem o jogo com qualquer level que eles quiserem?",
+                          "en_US": "Que? Então você não se importa que alguns jogadores comecem o jogo com qualquer nível que eles quiserem?",
                           "de_DE": "Was? Es ist dir also egal, wenn sich Spieler ihr Anfangslevel einfach ercheaten?",
                           "zh_CN": "\u4ec0\u4e48\uff1f\u96be\u9053\u4f60\u89c9\u5f97\u73a9\u5bb6\u4e00\u8fdb\u6e38\u620f\u5c31\u76f4\u5347\u4e5f\u6ca1\u95ee\u9898\u54af\uff1f<<A<<[CHANGED 2019/08/16]",
                           "ja_JP": "\u306a\u3093\u3060\u3068\uff1f\u3067\u306f\u304a\u524d\u306f\u3001\u4e00\u90e8\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\n\u81ea\u5206\u306e\u597d\u304d\u306a\u30ec\u30d9\u30eb\u3067\u30b2\u30fc\u30e0\u3092\u958b\u59cb\u3057\u3066\u3082\n\u6c17\u306b\u306a\u3089\u306a\u3044\u3068\u3044\u3046\u306e\u304b\uff1f<<A<<[CHANGED 2019/08/16]",
@@ -6499,7 +6499,7 @@
             "entity": { "global": true, "name": "pentaComforting" },
             "text": {
               "": "Oh dear.",
-              "en_US": "Oh céus.",
+              "en_US": "Ah cara.",
               "de_DE": "Oh je.",
               "fr_FR": "fr_FR",
               "langUid": 95,
@@ -6513,7 +6513,7 @@
             "entity": { "global": true, "name": "hexaScared" },
             "text": {
               "": "You just fly through the air... it's all transparent!",
-              "en_US": "Ele acabou de voar... é tudo transparente!",
+              "en_US": "Olha onde estamos... é tudo transparente!",
               "de_DE": "Man fliegt einfach durch die Luft... Ist alles durchsichtig!",
               "fr_FR": "fr_FR",
               "langUid": 96,
@@ -6527,7 +6527,7 @@
             "entity": { "global": true, "name": "hexaScared" },
             "text": {
               "": "I... I can't do it!",
-              "en_US": "Eu... eu não consigo!",
+              "en_US": "Eu... eu não consigo suportar!",
               "de_DE": "Ich... Ich kann das nicht!",
               "fr_FR": "fr_FR",
               "langUid": 97,
@@ -6541,7 +6541,7 @@
             "entity": { "global": true, "name": "pentaComforting" },
             "text": {
               "": "Awww man...",
-              "en_US": "Aaah cara...",
+              "en_US": "Que isso cara...",
               "de_DE": "Och Mensch...",
               "fr_FR": "fr_FR",
               "langUid": 98,
@@ -6555,7 +6555,7 @@
             "entity": { "global": true, "name": "pentaComforting" },
             "text": {
               "": "Please stay strong, just this one last time.",
-              "en_US": "Por favor, seja forte, apenas esta última vez",
+              "en_US": "Aguenta firme, isso vai passar.",
               "de_DE": "Sei bitte stark, nur noch dieses eine Mal.",
               "fr_FR": "fr_FR",
               "langUid": 99,
@@ -6569,7 +6569,7 @@
             "entity": { "global": true, "name": "pentaComforting" },
             "text": {
               "": "I'm sure things will be better once we reach the mainland.\n",
-              "en_US": "Tenho certeza de que as coisas ficarão melhores quando chegarmos ao continente principal.\n",
+              "en_US": "Tenho certeza de que tudo vai melhorar assim que chegarmos ao continente.\n",
               "de_DE": "Ich bin mir sicher, dass alles besser wird, sobald wir das Festland erreicht haben.",
               "fr_FR": "fr_FR",
               "langUid": 100,
@@ -6712,7 +6712,7 @@
             "entity": { "global": true, "name": "advisorCenter" },
             "text": {
               "": "You can take the sky rails from here to reach \\c[3]CrossCentral\\c[0], our central teleportation hub.",
-              "en_US": "Você pode pegar os trilhos aéreos daqui para alcançar \\c[3]CrossCentral\\c[0], nosso hub central de teletransporte.",
+              "en_US": "Vocês podem pegar os trilhos aéreos daqui para alcançar \\c[3]CrossCentral\\c[0], nossa central de teletransporte.",
               "de_DE": "Ihr k\u00f6nnt mit der Laserbahn von hier aus die \\c[3]CrossCentral\\c[0] erreichen, den zentralen Teleportationsknotenpunkt von CrossWorlds.",
               "fr_FR": "fr_FR",
               "langUid": 102,
@@ -6726,7 +6726,7 @@
             "entity": { "global": true, "name": "advisorCenter" },
             "text": {
               "": "Note that as new Seekers you are not yet permitted to enter the \\c[3]city of Rhombus Square\\c[0].",
-              "en_US": "Observe que, como novos Seekers, vocês ainda não possuem  permissão para entrar na \\c[3]cidade de Rhombus Square\\c[0].",
+              "en_US": "Observem que, como novos Seekers, vocês ainda não possuem permissão para entrar de fato na \\c[3]Praça Losango\\c[0].",
               "de_DE": "Bitte beachtet, dass es euch neuen Spielern nicht sofort erlaubt ist, die \\c[3]Stadt von Rhombus Square\\c[0] zu betreten.",
               "fr_FR": "fr_FR",
               "langUid": 103,
@@ -6740,7 +6740,7 @@
             "entity": { "global": true, "name": "advisorCenter" },
             "text": {
               "": "Such permission will be granted once you've made sufficient progress along the \\c[5]Track of the Ancients\\c[0].",
-              "en_US": "Essa permissão será concedida assim que você fizer progresso suficiente ao longo da \\c[5]Trilha dos Antigos\\c[0].",
+              "en_US": "Essa permissão será concedida assim que vocês progredirem ao longo da \\c[5]Trilha dos Antigos\\c[0].",
               "de_DE": "Diese Erlaubnis wird euch gew\u00e4hrt, sobald ihr auf dem \\c[5]Pfad der Ahnen\\c[0] gen\u00fcgend Fortschritt gemacht habt.",
               "fr_FR": "fr_FR",
               "langUid": 104,
@@ -7294,7 +7294,7 @@
               {
                 "message": {
                   "": "Yo, what's up?",
-                  "en_US": "E ai, qual é?",
+                  "en_US": "Olá, tudo bem?",
                   "de_DE": "Yo, was gibt's?",
                   "fr_FR": "fr_FR",
                   "langUid": 129,
@@ -7329,7 +7329,7 @@
               {
                 "message": {
                   "": "Yeah. Hi.",
-                  "en_US": "Pode crê. Oi.",
+                  "en_US": "Beleza.",
                   "de_DE": "Joah. Hi.",
                   "fr_FR": "fr_FR",
                   "langUid": 131,
@@ -7478,7 +7478,7 @@
               {
                 "message": {
                   "": "Aww, don't look so sorry! We're talking first world problems here.",
-                  "en_US": "Aww, não olhe tão triste! Estamos falando de problemas do mundo real aqui.",
+                  "en_US": "Aww, não fica assim! Não é nada demais, só tenho que esperar mais um pouco.",
                   "de_DE": "Aaach, guck nicht so mitf\u00fchlend! Wir reden hier von Luxusproblemen.",
                   "fr_FR": "fr_FR",
                   "langUid": 139,
@@ -7577,7 +7577,7 @@
             "entity": { "global": true, "name": "bossTalk1" },
             "text": {
               "": "That turret boss at the end was pretty cool, huh?",
-              "en_US": "Aquele boss metralhadora no final foi muito legal, hein?",
+              "en_US": "Aquela torre metralhadora no final foi muito legal, né?",
               "de_DE": "Dieses Gesch\u00fctzteil am Ende war doch ma' cool, oder?",
               "fr_FR": "fr_FR",
               "langUid": 140,
@@ -7591,7 +7591,7 @@
             "entity": { "global": true, "name": "bossTalk2" },
             "text": {
               "": "Most def! That ball streaming attack was intense, dude!",
-              "en_US": "Muito resistente! Aquela rajada de esferas foi intenso, cara!",
+              "en_US": "Pode crer! Aquelas rajadas de balas foram intensas, cara!",
               "de_DE": "Auf jeden! Der Kugelstrahl war voll heftig, Digga!",
               "fr_FR": "fr_FR",
               "langUid": 141,
@@ -7605,7 +7605,7 @@
             "entity": { "global": true, "name": "bossTalk1" },
             "text": {
               "": "I also like how it was mostly about ranged combat.",
-              "en_US": "Eu também gostei de como foi basicamente combate à distância.",
+              "en_US": "Achei legal que o combate foi quase todo à distância.",
               "de_DE": "Fand auch gut, dass es fast nur Fernkampf war.",
               "fr_FR": "fr_FR",
               "langUid": 142,
@@ -7619,7 +7619,7 @@
             "entity": { "global": true, "name": "bossTalk2" },
             "text": {
               "": "Whatcha talking about, dude? I just went in and punched it hard!",
-              "en_US": "Do que você está falando, cara? Eu apenas entrei e soquei com força!",
+              "en_US": "Do que você tá falando, cara? Eu fui lá e soquei com força!",
               "de_DE": "Was laberst du, Digga? Ich bin einfach hinterhergesprungen und hab draufgehauen, was das Zeug h\u00e4lt!",
               "fr_FR": "fr_FR",
               "langUid": 143,
@@ -7633,7 +7633,7 @@
             "entity": { "global": true, "name": "bossTalk1" },
             "text": {
               "": "What?\\. How did you do that?\\. It moved to the center of that hole in the second phase, didn't it?",
-              "en_US": "O que?\\. Como você fez isso?\\. Ele se moveu para o centro daquele buraco no segundo estágio, não foi??",
+              "en_US": "Lá ele...\\. Digo, como você fez isso?\\. A torre se afasta no segundo estágio, não é?",
               "de_DE": "Was?\\. Wie hast du das gemacht?\\. Der hat sich doch irgendwann auf so 'ne Plattform verkrochen, oder nicht?",
               "fr_FR": "fr_FR",
               "langUid": 144,
@@ -7647,7 +7647,7 @@
             "entity": { "global": true, "name": "bossTalk2" },
             "text": {
               "": "Well, I just jumped on its platform and did ma punching!\\. Also, some dodging.",
-              "en_US": "Bem, eu simplesmente pulei em sua plataforma e dei meus socos!\\. Além disso, algumas esquivas.",
+              "en_US": "Kkkkk, cara, eu só pulei na plataforma e enchi a torre de porrada!",
               "de_DE": "Ich bin einfach auf die Plattform gesprungen und hab weiter draufgehauen!\\. Und zwischendurch ausgewichen.",
               "fr_FR": "fr_FR",
               "langUid": 145,
@@ -7661,7 +7661,7 @@
             "entity": { "global": true, "name": "bossTalk1" },
             "text": {
               "": "That sounds like a risky tactic.",
-              "en_US": "Isso soa como uma tática arriscada.",
+              "en_US": "Isso foi uma tática arriscada.",
               "de_DE": "Ist aber ziemlich riskant, die Taktik.",
               "fr_FR": "fr_FR",
               "langUid": 146,
@@ -7675,7 +7675,7 @@
             "entity": { "global": true, "name": "bossTalk2" },
             "text": {
               "": "Well, I ain't choosing a Pentafist for no reason! Gotta punch stuff! That's ma skill, dude!",
-              "en_US": "Bem, eu não escolhi Pentafist sem motivo! Tenho que socar! Essa é minha habilidade, cara!",
+              "en_US": "É por isso que sou um Pentapunho! Gosto de espancar as coisas! Essa é minha habilidade, cara!",
               "de_DE": "Hah, wof\u00fcr hab ich denn den Pentafist? Zum Draufhauen! PAM! PAM! PAM! Immer feste druff! Das is' einfach mein Ding, Digga!",
               "fr_FR": "fr_FR",
               "langUid": 147,

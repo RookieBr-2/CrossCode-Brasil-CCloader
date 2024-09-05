@@ -1118,7 +1118,7 @@
                     {
                       "message": {
                         "": "I felt that you would answer as such.\\. Look inside yourself to find what holds you back.",
-                        "en_US": "Eu pressenti que essa seria sua resposta.\\. Olhe dentro de você para descobrir o que o impede.",
+                        "en_US": "Eu pressenti que essa seria sua resposta.\\. Olhe dentro de você para descobrir o que a impede.",
                         "de_DE": "Ich wusste, dass du so antworten w\u00fcrdest.\\. Schau in dein Innerstes und finde heraus, was dich zur\u00fcckh\u00e4lt.",
                         "fr_FR": "fr_FR",
                         "langUid": 335,
@@ -1905,7 +1905,7 @@
               {
                 "message": {
                   "": "Their meditation on the ice tends to be very strong, though.\\. Making yourself noticed will be the first test.",
-                  "en_US": "A meditação dela no gelo tende a ser muito forte, no entanto.\\. Fazer algo para chamar a atenção deve ser o primeiro teste.",
+                  "en_US": "A meditação dela no gelo tende a ser muito forte.\\. O primeiro teste é fazer algo para chamar a atenção dela.",
                   "de_DE": "Seine Meditation auf dem Eis kann sehr tief sein.\\. Dich bemerkbar zu machen, wird der erste Test sein.",
                   "fr_FR": "fr_FR",
                   "langUid": 412,
@@ -5902,7 +5902,7 @@
                 {
                   "message": {
                     "": "Also, the blessed trinket you returned leaves no room for doubt.\\. Very good.",
-                    "en_US": "Além disso, a bendita bugiganga que você devolveu não deixa margem para dúvidas.\\. Muito bem.",
+                    "en_US": "Além disso, o artefato que você devolveu não deixa margem para dúvidas.\\. Muito bem.",
                     "de_DE": "Au\u00dferdem l\u00e4sst das gesegnete Schmuckst\u00fcck, welches du zur\u00fcckgebracht hast, keinen Zweifel bestehen.\\. Sehr gut.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u8fd8\u6709\uff0c\u4f60\u5e26\u56de\u6765\u7684\u5f00\u5149\u9970\u54c1\u4e5f\u662f\u4e0d\u5bb9\u7f6e\u7591\u7684\u94c1\u8bc1\u3002\\.\u975e\u5e38\u68d2\u3002<<A<<[CHANGED 2020/06/17]",
@@ -6375,7 +6375,7 @@
                     {
                       "message": {
                         "": "Return to me once you have solved the challenges.",
-                        "en_US": "Retorne aqui assim que você tenha vencido os desafios.",
+                        "en_US": "Retorne aqui quando tiver superado os desafios.",
                         "de_DE": "Komme wieder, wenn du die Herausforderungen gemeistert hast.",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u6311\u6218\u5b8c\u6210\u540e\u518d\u6765\u4e0e\u6211\u4ea4\u8c08\u5427\u3002<<A<<[CHANGED 2020/06/17]",

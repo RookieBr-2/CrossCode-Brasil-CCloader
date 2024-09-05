@@ -10583,7 +10583,7 @@
                     {
                       "message": {
                         "": "Did they seriously ask you to fetch ice from a distant mountain?",
-                        "en_US": "Eles pediram seriamente para você buscar gelo em uma montanha distante?",
+                        "en_US": "É serio que ele pediu para você buscar gelo em uma montanha distante?",
                         "de_DE": "Lassen sie dich jetzt allen Ernstes Eis von einem entlegenen Berg holen?",
                         "fr_FR": "fr_FR",
                         "langUid": 15,
@@ -10637,7 +10637,7 @@
                     {
                       "message": {
                         "": "Oh, that's too bad. Maybe another time!",
-                        "en_US": "Ah, isso é um problema. Talvez outra hora!",
+                        "en_US": "Ah, isso é uma pena. Talvez outra hora!",
                         "de_DE": "Oh, schade. Vielleicht ein andermal!",
                         "fr_FR": "fr_FR",
                         "langUid": 82,
@@ -12513,7 +12513,7 @@
                     {
                       "message": {
                         "": "Do you think you can find it?",
-                        "en_US": "Você acha que pode encontrá-lo?",
+                        "en_US": "Você acha que pode encontrá-la?",
                         "de_DE": "Meinst du, dass du ihn auftreiben kannst?",
                         "fr_FR": "fr_FR",
                         "langUid": 171,
@@ -14580,7 +14580,7 @@
           {
             "message": {
               "": "...Well, they're all over the place to be frank.",
-              "en_US": "...Bem, para ser franco, eles estão por toda parte.",
+              "en_US": "...Bom, para ser franco, eles estão por toda parte.",
               "de_DE": "... Wobei sie eigentlich \u00fcber die ganze Stadt verteilt sind.",
               "fr_FR": "fr_FR",
               "langUid": 225,
@@ -14645,7 +14645,7 @@
           {
             "message": {
               "": "The catch: you first need to collect all the \\c[3]required trade items\\c[0] in the wild. ",
-              "en_US": "O esquema é: primeiro você precisa coletar todos os \\c[3]itens comerciais necessários\\c[0] por ai. ",
+              "en_US": "Para negociar com eles, vocês precisam coletar todos os \\c[3]itens comerciais necessários\\c[0] por ai.",
               "de_DE": "Der Haken: Ihr m\u00fcsst zuerst alle \\c[3]ben\u00f6tigten Handelsitems\\c[0] in der Wildnis sammeln.",
               "fr_FR": "fr_FR",
               "langUid": 227,
@@ -14724,7 +14724,7 @@
               {
                 "message": {
                   "": "Well you pretty much already have \\c[1]all the equipment\\c[0], so....",
-                  "en_US": "Bem, você já tem praticamente \\c[1]todos o equipamentos\\c[0]...",
+                  "en_US": "Bom, você já tem praticamente \\c[1]todos o equipamentos\\c[0]...",
                   "langUid": 543,
                   "ja_JP": "\u307e\u3042\u3001\u541b\u306f\u3082\u3046\u3059\u3067\u306b\n\\c[1]\u88c5\u5099\u54c1\u3092\u305f\u304f\u3055\u3093\\c[0]\u6301\u3063\u3066\u308b\u3051\u3069\u306d...<<A<<[CHANGED 2019/08/16]",
                   "zh_CN": "\u6bd5\u7adf\u4f60\u8be5\u6709\u7684\u88c5\u5907\u5df2\u7ecf\u90fd\u6709\u4e86....<<A<<[CHANGED 2019/08/16]",
@@ -14917,7 +14917,7 @@
           {
             "message": {
               "": "See that building up there?",
-              "en_US": "Está vendo aquele prédio lá em cima?",
+              "en_US": "Estão vendo aquele prédio lá em cima?",
               "de_DE": "Seht ihr das Geb\u00e4ude dort oben?",
               "fr_FR": "fr_FR",
               "langUid": 231,
@@ -14966,7 +14966,7 @@
           {
             "message": {
               "": "Surprise, you'll find a lot of \\c[3]quests\\c[0] there!",
-              "en_US": "E advinha só, você encontrará muitas \\c[3]missões\\c[0] lá!",
+              "en_US": "E advinha só, vocês encontrarão muitas \\c[3]missões\\c[0] lá!",
               "de_DE": "Dort findet ihr - wer h\u00e4tt's gedacht? - eine Menge \\c[3]Quests\\c[0]!",
               "fr_FR": "fr_FR",
               "langUid": 233,
@@ -15378,7 +15378,7 @@
           {
             "message": {
               "": "There is a mandatory introduction for all new players.",
-              "en_US": "Há uma introdução obrigatória para todos os novos jogadores.",
+              "en_US": "Tem uma introdução obrigatória para todos os jogadores novos.",
               "de_DE": "Dort gibt es eine Einf\u00fchrung, die f\u00fcr alle neuen Spieler Pflicht ist.",
               "fr_FR": "fr_FR",
               "langUid": 271,
@@ -17611,7 +17611,7 @@
               {
                 "message": {
                   "": "See? Look at that Seeker just staring at me, like I'm some decorative prop.",
-                  "en_US": "Viu? Aquela Seeker esté me encarando, como se eu fosse um item de museu.",
+                  "en_US": "Viu? Aquela Seeker está me encarando, como se eu fosse um item de museu.",
                   "de_DE": "Siehst du? Schau dir nur diesen Seeker an. Der starrt mich an, als w\u00e4re ich irgendein Umgebungsobjekt.",
                   "fr_FR": "fr_FR",
                   "langUid": 349,
@@ -19043,7 +19043,7 @@
                 {
                   "message": {
                     "": "By Jove!\\. This is your big chance, Philamore.\\. All you need to do is find the right...",
-                    "en_US": "Por Jupiter!\\. Esta é a sua grande chance, Philamore.\\. Tudo o que você precisa fazer é encontrar o...",
+                    "en_US": "Por Deus!\\. Esta é a sua grande chance, Philamore.\\. Tudo o que você precisa fazer é encontrar o...",
                     "de_DE": "Beim Jupiter! Das ist deine Chance, Philamore!\\. Du musst jetzt nur noch den richtigen...",
                     "zh_CN": "\u54ce\u5466\u5582\u5440...\\.\u8fd9\u53ef\u662f\u4f60\u7684\u673a\u9047\u5440\u8d39\u62c9\u83ab\u3002\\.\u53ea\u8981\u80fd\u627e\u5230...<<A<<[CHANGED 2018/01/06]",
                     "ko_KR": "\uc774\ub7f0, \uc774\uac83 \ucc38.\\. \ub108\uc5d0\uac8c \uc88b\uc740 \uae30\ud68c\uc57c, \ud544\ub77c\ubaa8\uc5b4.\\. \uc81c\ub300\ub85c \ucc3e\uae30\ub9cc \ud558\uba74 \ub3fc...<<A<<[CHANGED 2018/01/05]",
@@ -19713,7 +19713,7 @@
                 {
                   "message": {
                     "": "Thus, there's always a need for helping hands willing to do some necessary legwork.\\. For a generous payment of course.",
-                    "en_US": "Por isso, sempre precisamos de pessoas dispostas a fazer trabalho trabalho braçal.\\. Com um pagamento generoso, é claro.",
+                    "en_US": "Por isso, sempre precisamos de pessoas dispostas a fazer trabalho braçal.\\. Com um pagamento generoso, é claro.",
                     "de_DE": "Das hei\u00dft, ich kann immer eine helfende Hand gebrauchen, die ein paar notwendige Botenaufgaben erledigt.\\. F\u00fcr einen gro\u00dfz\u00fcgigen Verdienst, versteht sich.",
                     "fr_FR": "fr_FR",
                     "langUid": 415,
@@ -19771,7 +19771,7 @@
                 {
                   "message": {
                     "": "It requires collecting raw materials in the wild, trading them for the required items here in the market and of course delivering them to my client.",
-                    "en_US": "A tarefa é coletar matérias-primas, trocar por itens aqui no mercado e, claro, entregar ao meu cliente.",
+                    "en_US": "A tarefa é coletar matérias-primas, trocar por itens aqui no mercado e, claro, entregar para a minha cliente.",
                     "de_DE": "Dazu m\u00fcssten Rohmaterialien in der Wildnis gesammelt werden, um die ben\u00f6tigten Zutaten hier auf dem Markt einzutauschen und anschlie\u00dfend dem Kunden zuzustellen.",
                     "fr_FR": "fr_FR",
                     "langUid": 416,
@@ -19831,7 +19831,7 @@
                     {
                       "message": {
                         "": "It's a deal then.\\. My client requires \\c[3]two Fruit and Veggie Sets each\\c[0] and also a precious \\c[3]Spice Set\\c[0] to boot.",
-                        "en_US": "É um acordo então.\\. Meu cliente requer \\c[3]dois Pacotes de Frutas e Vegetais\\c[0] e também um precioso \\c[3]Pacote de Temperos\\c[0] para começar.",
+                        "en_US": "É um acordo então.\\. Minha cliente requer \\c[3]dois Pacotes de Frutas e Vegetais\\c[0] e também um precioso \\c[3]Pacote de Temperos\\c[0] para começar.",
                         "de_DE": "Dann sind wir uns einig.\\. Der Kunde ben\u00f6tigt \\c[3]je zwei Fr\u00fcchte- und Gem\u00fcsekisten\\c[0] und \\c[3]eine Gew\u00fcrzkiste\\c[0] von 1a-Qualit\u00e4t.",
                         "fr_FR": "fr_FR",
                         "langUid": 418,
@@ -21246,7 +21246,7 @@
           {
             "message": {
               "": "You find it in \\c[3]Autumn's Fall\\c[0]. That's to the north of Rookie Harbor. Just take the exit in \\c[3]Rookie Harbor East\\c[3].",
-              "en_US": "Você encontra isso no \\c[3]Pôr do Outono\\c[0]. Que fica localizado ao norte do Porto do Novato. Basta pegar a saída no \\c[3]Leste do Porto do Novato\\c[0].",
+              "en_US": "Você encontra isso no \\c[3]Pôr do Outono\\c[0], ao norte do Porto do Novato. Vá pela saída \\c[3]leste\\c[0] daqui.",
               "de_DE": "Du findest sie in \\c[3]Autumn's Fall\\c[0]. Das liegt n\u00f6rdlich von Rookie Harbor. Nimm einfach den \\c[3]Ausgang \u00f6stlich von hier\\c[0].",
               "fr_FR": "fr_FR",
               "zh_CN": "\u5728\\c[3]\u843d\u79cb\u6797\u5730\\c[0]\u80fd\u627e\u5230\u3002\u5c31\u5728\\c[3]\u65b0\u624b\u6e2f\u4e1c\u8fb9\\c[3]\u3002",

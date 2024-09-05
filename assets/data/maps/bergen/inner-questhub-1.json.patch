@@ -1950,7 +1950,7 @@
               {
                 "message": {
                   "": "Greetings, \\v[lore.title.seeker].\\. Please head down into the basement for an introduction to \\v[area.bergen.name]!",
-                  "en_US": "Saudações, \\v[lore.title.seeker].\\. Por favor, desça até o porão para uma introdução a \\v[area.bergen.name]!",
+                  "en_US": "Saudações, \\v[lore.title.seeker].\\. Se deseja ouvir uma apresentação sobre \\v[area.bergen.name], por favor, desça até o porão!",
                   "de_DE": "Sei gegr\u00fc\u00dft, Seeker.\\. Um mehr \u00fcber Bergen zu erfahren, begib dich bitte ins Untergeschoss!",
                   "fr_FR": "fr_FR",
                   "langUid": 15,

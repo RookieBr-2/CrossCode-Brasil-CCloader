@@ -6557,7 +6557,7 @@
                     }, {
                         "message": {
                             "": "[nods]",
-                            "en_US": "[acena com a cabe\u00e7a]",
+                            "en_US": "[acena a cabeça]",
                             "de_DE": "[nickt]",
                             "fr_FR": "fr_FR",
                             "langUid": 31,
@@ -6722,7 +6722,7 @@
                         "accepted": [{
                             "message": {
                                 "": "[nods]",
-                                "en_US": "[acena com a cabe\u00e7a]",
+                                "en_US": "[acena a cabeça]",
                                 "de_DE": "[nickt]",
                                 "fr_FR": "fr_FR",
                                 "langUid": 40,
@@ -6865,7 +6865,7 @@
                 }, {
                     "message": {
                         "": "[nods]",
-                        "en_US": "[acena com a cabe\u00e7a]",
+                        "en_US": "[acena a cabeça]",
                         "de_DE": "[nickt]",
                         "fr_FR": "fr_FR",
                         "langUid": 54,
@@ -6952,7 +6952,7 @@
                     }, {
                         "message": {
                             "": "[nods]",
-                            "en_US": "[acena com a cabe\u00e7a]",
+                            "en_US": "[acena a cabeça]",
                             "de_DE": "[nickt]",
                             "fr_FR": "fr_FR",
                             "langUid": 47,
@@ -7825,7 +7825,7 @@
                     }, {
                         "message": {
                             "": "[nods]",
-                            "en_US": "[acena com a cabe\u00e7a]",
+                            "en_US": "[acena a cabeça]",
                             "de_DE": "[nickt]",
                             "fr_FR": "fr_FR",
                             "langUid": 254,
@@ -7933,7 +7933,7 @@
                     }, {
                         "message": {
                             "": "[nods]",
-                            "en_US": "[acena com a cabe\u00e7a]",
+                            "en_US": "[acena a cabeça]",
                             "de_DE": "[nickt]",
                             "fr_FR": "fr_FR",
                             "langUid": 261,
@@ -8026,7 +8026,7 @@
                         "accepted": [{
                             "message": {
                                 "": "[nods]",
-                                "en_US": "[acena com a cabe\u00e7a]",
+                                "en_US": "[acena a cabeça]",
                                 "de_DE": "[nickt]",
                                 "fr_FR": "fr_FR",
                                 "langUid": 266,
@@ -9849,6 +9849,7 @@
                     "quest": [{
                         "name": {
                             "": "Jean",
+                            "en_US": "Jean",
                             "langUid": 574,
                             "de_DE": "Jean",
                             "fr_FR": "",

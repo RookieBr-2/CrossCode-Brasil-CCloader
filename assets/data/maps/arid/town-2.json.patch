@@ -6183,7 +6183,7 @@
           {
             "message": {
               "": "Japp, here it is. That large building right over there.",
-              "en_US": "Japp, aqui está. Aquele grande edifício ali.",
+              "en_US": "Japp, aqui está. É aquele prédio grande.",
               "langUid": 6,
               "zh_CN": "\u55ef\uff0c\u6211\u4eec\u5230\u4e86\u3002\u5c31\u662f\u90a3\u8fb9\u90a3\u4e2a\u5927\u697c\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Japp, hier ist es. Das gro\u00dfe Geb\u00e4ude dort dr\u00fcben.",
@@ -6706,7 +6706,7 @@
                       {
                         "message": {
                           "": "Hi. Welcome to this small little hellhole.",
-                          "en_US": "Oi. Bem-vindo a este pequeno inferno.",
+                          "en_US": "Oi. Bem-vinda a este pequeno inferno.",
                           "langUid": 65,
                           "zh_CN": "\u4f60\u597d\u3002\u6b22\u8fce\u6765\u5230\u8fd9\u4e2a\u9b3c\u5730\u65b9\u3002<<A<<[CHANGED 2017/10/10]",
                           "de_DE": "Hi. Herzlich willkommen in diesem kleinen niedlichen H\u00f6llenloch.",
@@ -7118,7 +7118,7 @@
             "entity": { "global": true, "name": "quadro1" },
             "text": {
               "": "No way!",
-              "en_US": "Sem chance!",
+              "en_US": "Caramba!",
               "langUid": 66,
               "zh_CN": "\u54c7\uff01<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Unglaublich!",
@@ -7157,7 +7157,7 @@
             "entity": { "global": true, "name": "quadro1" },
             "text": {
               "": "So good!",
-              "en_US": "Tão bom!",
+              "en_US": "Deve ser delicioso!",
               "langUid": 63,
               "zh_CN": "\u542c\u4e0a\u53bb\u592a\u7f8e\u5473\u4e86\uff01<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Einfach herrlich!",
@@ -7294,7 +7294,7 @@
           {
             "message": {
               "": "Hey, you two! What is it with this place?",
-              "en_US": "Ei, vocês dois! O que há com este lugar?",
+              "en_US": "Ei, vocês dois! O que tá rolando aqui?",
               "langUid": 68,
               "zh_CN": "\u4f60\u4eec\u4fe9\uff01\u8fd9\u5730\u65b9\u600e\u4e48\u56de\u4e8b\uff1f<<A<<[CHANGED 2020/06/17]",
               "de_DE": "Hey, ihr zwei! Was hat es mit diesem Ort auf sich?",
@@ -7399,7 +7399,7 @@
           {
             "message": {
               "": "Hey! Are you listening to me?",
-              "en_US": "Ei! Você está me ouvindo?",
+              "en_US": "Ei! Vocês estão me ouvindo?",
               "langUid": 71,
               "zh_CN": "\u563f\uff01\u4f60\u4eec\u4fe9\u5728\u542c\u6211\u8bf4\u8bdd\u5417\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Hey! H\u00f6rt ihr mir \u00fcberhaupt zu?",
@@ -7459,7 +7459,7 @@
           {
             "message": {
               "": "W-What the heck is wrong with you?!",
-              "en_US": "O-o que diabos está errado com você?!",
+              "en_US": "Q-qual o problema de vocês?!",
               "langUid": 74,
               "zh_CN": "\u4f60\u4eec\u4fe9\u600e\u4e48\u56de\u4e8b\uff1f\uff01<<A<<[CHANGED 2017/10/10]",
               "de_DE": "W-Was zum Teufel ist los mit euch?!",
@@ -7550,7 +7550,7 @@
           {
             "message": {
               "": "You... what is it with this place?!",
-              "en_US": "Você... o que há com esse lugar?",
+              "en_US": "Você... sabe o que tá rolando aqui?",
               "langUid": 76,
               "zh_CN": "\u4f60...\u8fd9\u5730\u65b9\u662f\u600e\u4e48\u56de\u4e8b?!<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Du... Was hat es mit diesem Ort auf sich?",
@@ -8653,7 +8653,7 @@
           {
             "message": {
               "": "Well, at least we won't die in real life when we die in-game. That's something.",
-              "en_US": "Bem, pelo menos não morreremos na vida real quando morrermos no jogo. Isso é alguma coisa.",
+              "en_US": "Bom, ainda bem que morrer no jogo não significa morrer na vida real. Isso é um alívio.",
               "langUid": 91,
               "zh_CN": "\u8d77\u7801\u6211\u4eec\u5728\u6e38\u620f\u91cc\u6b7b\u4e86\u4e0d\u4f1a\u5728\u73b0\u5b9e\u751f\u6d3b\u91cc\u4e5f\u6b7b\u6389\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Na ja, immerhin sterben wir nicht in echt, wenn wir hier im Spiel sterben. Das ist ja schon mal was.",
@@ -8776,7 +8776,7 @@
           {
             "message": {
               "": "Is it the same for you?",
-              "en_US": "É o mesmo para você?",
+              "en_US": "Isso acontece com você também?",
               "langUid": 99,
               "zh_CN": "\u4f60\u4e5f\u662f\u8fd9\u6837\u5417\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Ist das bei dir auch so?",
@@ -8851,7 +8851,7 @@
           {
             "message": {
               "": "Did... did it already happen for you?",
-              "en_US": "Será que... já aconteceu com você?",
+              "en_US": "Você... já passou por isso?",
               "langUid": 104,
               "zh_CN": "\u662f...\u56e0\u4e3a\u4f60\u5df2\u7ecf\u6709\u8fc7\u5148\u4f8b\u4e86?<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Hast du... Hast du das schon erlebt?",
@@ -9030,7 +9030,7 @@
           {
             "message": {
               "": "Maybe there is a way to properly rest in there, however that works.",
-              "en_US": "Talvez haja uma maneira de descansar adequadamente lá, pelo menos, isso funciona.",
+              "en_US": "Talvez a gente consiga descansar lá, de qualquer forma.",
               "langUid": 111,
               "zh_CN": "\u4e5f\u8bb8\u5230\u90a3\u91cc\u5c31\u80fd\u4f11\u606f\u4e86\uff0c\u867d\u7136\u6211\u4e5f\u4e0d\u77e5\u9053\u8be5\u600e\u4e48\u505a\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Vielleicht haben wir dort die M\u00f6glichkeit, uns tats\u00e4chlich auszuruhen, wie auch immer das funktioniert.",
@@ -9247,7 +9247,7 @@
           {
             "message": {
               "": "Lea, is something the matter?",
-              "en_US": "Lea, algo está acontecendo?",
+              "en_US": "Lea, tem algo errado?",
               "langUid": 118,
               "zh_CN": "\u8389\u4e9a\uff0c\u600e\u4e48\u4e86\uff1f<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Lea, stimmt irgendwas nicht?",
@@ -9300,7 +9300,7 @@
           {
             "message": {
               "": "Just go ahead, I will tell you later.",
-              "en_US": "Apenas vá em frente, eu vou te dizer mais tarde.",
+              "en_US": "Vá em frente, eu vou te dizer mais tarde.",
               "langUid": 119,
               "zh_CN": "\u4f60\u5148\u7ee7\u7eed\uff0c\u56de\u5934\u6211\u518d\u544a\u8bc9\u4f60\u3002<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Geh nur, ich erz\u00e4hle es dir sp\u00e4ter.",
@@ -9466,7 +9466,7 @@
                 {
                   "message": {
                     "": "The town doesn't really have a name, so let's just stick with \\c[3]Vermillion Town\\c[0] for now.",
-                    "en_US": "A cidade realmente não tem um nome, então vamos ficar com \\c[3]Cidade Carmesim\\c[0] por enquanto.",
+                    "en_US": "A cidade não tem um nome, então vamos ficar com \\c[3]Cidade Carmesim\\c[0] por enquanto.",
                     "langUid": 141,
                     "zh_CN": "\u8fd9\u9547\u5b50\u8fde\u540d\u5b57\u90fd\u6ca1\u6709\uff0c\u6240\u4ee5\u6211\u4eec\u5c31\u5148\u53eb\u5b83\\c[3]\u6731\u7ea2\u9547\\c[0]\u5427\u3002<<A<<[CHANGED 2018/09/19]",
                     "de_DE": "Die Stadt hat tats\u00e4chlich keinen eigenen Namen. Lass sie uns daher einfach \\c[3]Vermillonstadt\\c[0] nennen.",
@@ -9520,7 +9520,7 @@
                 {
                   "message": {
                     "": "Nobody actually knows what's in the pipes, though.\\. We're probably best off not knowing.",
-                    "en_US": "Ninguém sabe realmente o que está nos canos, no entanto.\\. Provavelmente é melhor não saber.",
+                    "en_US": "Ninguém sabe o que está nos canos,\\. e talvez seja melhor assim.",
                     "langUid": 144,
                     "zh_CN": "\u6ca1\u4eba\u77e5\u9053\u8fd9\u7ba1\u9053\u91cc\u5230\u5e95\u662f\u4ec0\u4e48\u3002\\.\u6211\u4eec\u6700\u597d\u4e5f\u522b\u592a\u6df1\u7a76\u3002<<A<<[CHANGED 2020/06/17]",
                     "de_DE": "Obwohl niemand wei\u00df, was in den Rohren eigentlich ist.\\. Ist wahrscheinlich auch besser so.",
@@ -9606,7 +9606,7 @@
                 {
                   "message": {
                     "": "But what am I saying? You saw what happened yesterday.",
-                    "en_US": "Mas o que estou dizendo? Você viu o que aconteceu ontem.",
+                    "en_US": "Digo isso por experiência própria.",
                     "langUid": 128,
                     "zh_CN": "\u4e0d\u8fc7\u597d\u50cf\u8fd9\u8bdd\u8bf4\u7684\u6709\u70b9\u591a\u4f59\uff0c\u7ed3\u679c\u4f60\u6628\u5929\u4e5f\u770b\u5230\u4e86\u3002<<A<<[CHANGED 2017/10/10]",
                     "de_DE": "Aber wem erz\u00e4hle ich das? Du hast ja gesehen, was gestern passiert ist.",
@@ -9663,7 +9663,7 @@
                 {
                   "message": {
                     "": "Also be especially careful about that area in the north. They really don't like you to be there.",
-                    "en_US": "Também tenha um cuidado especial com essa área no norte. Eles não gostam que você vá para lá.",
+                    "en_US": "Também tenha cuidado com a área no norte.\\. Eles não gostam que você vá lá.",
                     "langUid": 130,
                     "zh_CN": "\u8fd8\u6709\uff0c\u5230\u5317\u8fb9\u7684\u8bdd\u8981\u5c0f\u5fc3\u3002\u5b83\u4eec\u4e0d\u8ba9\u4eba\u53bb\u90a3\u91cc\u3002<<A<<[CHANGED 2017/10/10]",
                     "de_DE": "Au\u00dferdem k\u00f6nnen sie es partout nicht leiden, wenn jemand im Sperrgebiet herumschleicht. Sei also vorsichtig.",
@@ -9686,7 +9686,7 @@
                     {
                       "message": {
                         "": "Well, what am I saying? You already went ahead and explored the whole area, right?",
-                        "en_US": "Bem, o que estou dizendo? Você já foi em frente e explorou toda a área, certo?",
+                        "en_US": "Mas mesmo assim, você já foi lá e explorou o lugar, não é mesmo?",
                         "langUid": 131,
                         "zh_CN": "\u4e0d\u8fc7\u4f60\u5df2\u7ecf\u65e9\u5c31\u6765\u8fd9\u63a2\u7d22\u8fc7\u4e00\u904d\u4e86\u5bf9\u5427\uff1f<<A<<[CHANGED 2020/06/17]",
                         "de_DE": "Aber wem sag ich das! Du bist ja schon hinter den feindlichen Linien gewesen, um das Gebiet zu erkunden, nech?",
@@ -9734,7 +9734,7 @@
                     {
                       "message": {
                         "": "Then again, folks were talking about some nice treasure you can get when you manage to sneak past them.",
-                        "en_US": "Então, novamente, as pessoas estavam falando sobre um belo tesouro que você pode obter quando consegue passar por eles.",
+                        "en_US": "Por outro lado, dizem que você encontrará um tesouro se passar por eles sem chamar a atenção.",
                         "langUid": 133,
                         "zh_CN": "\u4e0d\u8fc7\u636e\u8bf4\u8981\u662f\u80fd\u7ed5\u8fc7\u5b83\u4eec\u7684\u8bdd\u80fd\u62ff\u5230\u5b9d\u85cf\u3002<<A<<[CHANGED 2017/10/10]",
                         "de_DE": "Andererseits erz\u00e4hlen sich die Leute hier, dass dort ein Schatz auf dich wartet, wenn du es schaffst, dich unbemerkt durchzuschlagen.",
@@ -9800,7 +9800,7 @@
                 {
                   "message": {
                     "": "Now let's exit the town \\c[3]to the west\\c[0]!",
-                    "en_US": "Agora vamos sair da cidade \\c[3]para oeste\\c[0]!",
+                    "en_US": "Vamos sair da cidade agora e seguir \\c[3]para o oeste\\c[0]!",
                     "langUid": 135,
                     "zh_CN": "\u73b0\u5728\u6211\u4eec\u79bb\u9547\u53bb\\c[3]\u897f\u8fb9\\c[0]\u5427!<<A<<[CHANGED 2017/10/10]",
                     "de_DE": "Lass uns die Stadt nun \\c[3]westw\u00e4rts\\c[0] verlassen.",
@@ -9984,7 +9984,7 @@
           {
             "message": {
               "": "Welcome to my little \\c[3]Vermillion Wasteland Tour\\c[0]!",
-              "en_US": "Bem-vindo a minha pequena \\c[3]Excursão do Deserto Carmesim\\c[0]!",
+              "en_US": "Bem-vinda a minha pequena \\c[3]Excursão do Deserto Carmesim\\c[0]!",
               "langUid": 138,
               "zh_CN": "\u6b22\u8fce\u8fdb\u884c\u6211\u7684\\c[3]\u6731\u7ea2\u5e9f\u571f\u65c5\u884c\\c[0]!<<A<<[CHANGED 2017/10/10]",
               "de_DE": "Willkommen zu meiner kleinen \\c[3]F\u00fchrung durch die Vermillonein\u00f6de\\c[0]!",

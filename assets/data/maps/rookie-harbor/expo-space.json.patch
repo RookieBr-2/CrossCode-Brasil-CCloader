@@ -358,7 +358,7 @@
           {
             "message": {
               "": "We're currently located on the natural satellite \\c[3]Shadoon\\c[0].",
-              "en_US": "No momento, estamos localizados na lua \\c[3]Shadoon\\c[0].",
+              "en_US": "No momento, estamos localizados no planeta \\c[3]Shadoon\\c[0].",
               "de_DE": "Wir befinden uns auf dem nat\u00fcrlichen Trabanten \\c[3]Shadoon\\c[0].",
               "fr_FR": "fr_FR",
               "langUid": 3,
@@ -950,7 +950,7 @@
           {
             "message": {
               "": "This device will record all of the knowledge you encounter on your journey.",
-              "en_US": "Este dispositivo irá registrar todas as descobertas que você encontrar em sua jornada.",
+              "en_US": "Este dispositivo irá registrar todas as descobertas que você fizer em sua jornada.",
               "de_DE": "Dieses Ger\u00e4t zeichnet dein ganzes Wissen auf, welches du auf deiner Reise sammelst.",
               "fr_FR": "fr_FR",
               "langUid": 20,
@@ -1504,7 +1504,7 @@
           {
             "message": {
               "": "Visit the first basement floor of the \\c[3]Info Hub in Rookie Harbor\\c[0] to use it.",
-              "en_US": "Visite o primeiro andar do porão do \\c[3]Centro de Informações do Porto do Novato\\c[0] para usá-lo.",
+              "en_US": "Visite o primeiro andar do porão da \\c[3]Central de Informações do Porto do Novato\\c[0] para usá-lo.",
               "de_DE": "Daf\u00fcr steht ein entsprechender Automat im 1. UG des \\c[3]Info-Hubs in Rookie Harbor\\c[0] bereit.",
               "zh_CN": "\u524d\u5f80\\c[3]\u65b0\u624b\u6e2f\u7684\u4fe1\u606f\u4e2d\u5fc3\\c[0]\u7684\u5730\u4e0b\u5ba4\u6765\u4f7f\u7528\u5b83\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u4f7f\u3046\u306b\u306f\u3001\\c[3]\u30eb\u30fc\u30ad\u30fc\u30cf\u30fc\u30d0\u30fc\u306e\n\u30a4\u30f3\u30d5\u30a9\u30cf\u30d6\\c[0]\u306e\u5730\u4e0b\u4e00\u968e\u3092\n\u8a2a\u308c\u308b\u3068\u3044\u3044\u3002<<A<<[CHANGED 2018/07/09]",

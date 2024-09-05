@@ -846,7 +846,7 @@
                 {
                   "message": {
                     "": "A visitor fresh from outside, eh?\\. No need to reply, I feel the sun's warmth still on you, child.",
-                    "en_US": "Um visitante de fora, é?\\. Não precisa falar, minha filha, ainda dá pra sentir o calor do sol em você.",
+                    "en_US": "Uma visitante de fora, é?\\. Não precisa falar, minha filha, ainda dá pra sentir o calor do sol em você.",
                     "de_DE": "Ein Besucher von drau\u00dfen, was?\\. Sag nichts, mein Kind, ich sp\u00fcre noch die W\u00e4rme der Sonne auf dir.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4f60\u662f\u6765\u81ea\u5916\u9762\u7684\u4e00\u4e2a\u65b0\u6e38\u5ba2\u5427\\.\u54e6\uff0c\u4f60\u4e0d\u9700\u8981\u56de\u7b54\uff0c\u6211\u611f\u89c9\u5230\u4f60\u8eab\u4e0a\u592a\u9633\u7684\u6e29\u6696\u4e86\uff0c\u5b69\u5b50\u3002",
@@ -1114,7 +1114,7 @@
                     {
                       "message": {
                         "": "Finally some good news.\\. Now, I guess I'd better tell you how to get rid of those indestructible pests, eh?",
-                        "en_US": "Finalmente boas notícias.\\. Agora vou te mostrar como acabar com essas pragas que indestrutíveis.",
+                        "en_US": "Finalmente boas notícias.\\. Agora vou te mostrar como acabar com essas pragas indestrutíveis.",
                         "de_DE": "T\u00f6ffte!\\. Dann verklicker' ich dir jetzt mal, wie man diese verfilzten Pestbeulen kaputt kriegt.",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u603b\u7b97\u6709\u597d\u6d88\u606f\u4e86\u3002\\.\u6211\u6765\u544a\u8bc9\u4f60\u600e\u6837\u6d88\u706d\u8fd9\u4e9b\u9ebb\u70e6\u7684\u5bb3\u866b\u3002<<A<<[CHANGED 2018/09/19]",

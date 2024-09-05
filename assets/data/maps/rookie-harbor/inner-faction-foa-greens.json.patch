@@ -1351,7 +1351,7 @@
                     {
                       "message": {
                         "": "Excellent. I will give you some bottles, filled with concentrated and fermented juice made from the fruits of our garden.",
-                        "en_US": "Excelente. Vou te dar algumas garrafas, cheias de seiva concentrada e fermentada feita com os frutos da nossa horta.",
+                        "en_US": "Excelente. Vou te dar algumas garrafas cheias de seiva concentrada e fermentada, feita com os frutos da nossa horta.",
                         "de_DE": "Prima! Ich werde dir einige Flaschen geben, die mit konzentriertem und fermentiertem Saft aus den Fr\u00fcchten unserer G\u00e4rten gef\u00fcllt sind.",
                         "fr_FR": "fr_FR",
                         "langUid": 258,
@@ -1376,7 +1376,7 @@
                     {
                       "message": {
                         "": "It has proven in the past to have a beneficial effect on the self-regulatory instincts of the Track.",
-                        "en_US": "No passado, foi provado que este suco tem um efeito benéfico sobre os instintos auto-reguladores da Trilha.",
+                        "en_US": "No passado, foi provado que esta seiva tem um efeito benéfico sobre os instintos auto-reguladores da Trilha.",
                         "de_DE": "Dieser Saft hat sich als Mittel zur Anregung der selbstregulierenden Kr\u00e4fte des Pfades schon mehrfach bew\u00e4hrt.",
                         "fr_FR": "fr_FR",
                         "langUid": 259,
@@ -1863,7 +1863,7 @@
                     {
                       "message": {
                         "": "Excellent. I will give you a cup, filled with a highly concentrated salve made from the fruits of our gardens.",
-                        "en_US": "Excelente. Vou te dar um frasco, cheio de seiva altamente concentrada feito com os frutos de nossos jardins.",
+                        "en_US": "Excelente. Vou te dar um frasco, cheio de seiva altamente concentrada, feita com os frutos de nossos jardins.",
                         "de_DE": "Gro\u00dfartig! Ich werde dir eine Tasse hochkonzentrierter Salbe mitgeben, die wir aus den Fr\u00fcchten unseres eigenen Gartens hergestellt haben.",
                         "fr_FR": "fr_FR",
                         "langUid": 268,
@@ -2440,7 +2440,7 @@
                     {
                       "message": {
                         "": "You can reach that location by travelling to the \\c[3]northeast of \\v[area.autumn-fall.name]\\c[0].",
-                        "en_US": "Você pode chegar a esse local viajando para o \\c[3]nordeste de \\v[area.autumn-fall.name]\\c[0].",
+                        "en_US": "Você pode chegar a esse local viajando para o \\c[3]nordeste do \\v[area.autumn-fall.name]\\c[0].",
                         "de_DE": "Du gelangst dorthin, wenn du dich \\c[3]in Autumn's Fall nord\u00f6stlich h\u00e4ltst\\c[0].",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u4f60\u53ef\u4ee5\u5728\\c[3]\\v[area.autumn-fall.name]\u7684\u4e1c\u5317\u65b9\\c[0]\u627e\u5230\u8be5\u5730\u70b9\u3002",
@@ -2560,7 +2560,7 @@
                     {
                       "message": {
                         "": "Much will be at stake if the rage of this once proud Bovine is not stopped.\\. Please rethink your decision!",
-                        "en_US": "Muito estará em jogo se a raiva deste Bovino, não for detida.\\. Por favor, repense sua decisão!",
+                        "en_US": "Muitas coisas estarão em risco se a raiva deste Bovino não for controlada.\\. Por favor, repense sua decisão!",
                         "de_DE": "Es steht viel auf dem Spiel, wenn die Wut des Rindes nicht bald gestoppt wird.\\. Bitte \u00fcberdenke deine Entscheidung!",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u795e\u725b\u82e5\u4e0d\u88ab\u963b\u6b62\uff0c\u6050\u6015\u707e\u96be\u8fd8\u4f1a\u6269\u5927\u3002\\.\u8bf7\u52a1\u5fc5\u91cd\u65b0\u8003\u8651\uff01",

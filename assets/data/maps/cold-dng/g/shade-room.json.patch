@@ -687,7 +687,7 @@
             "entity": { "global": true, "name": "hexaShocked" },
             "text": {
               "": "That whole dungeon was one large abyss!",
-              "en_US": "Toda aquela dungeon era um grande abismo!",
+              "en_US": "Essa dungeon era um grande abismo!",
               "de_DE": "Der ganze Dungeon war ein einziger Abgrund!",
               "fr_FR": "fr_FR",
               "langUid": 7,
@@ -715,7 +715,7 @@
             "entity": { "global": true, "name": "pentaComforting" },
             "text": {
               "": "Still, you made it.\\. I'm so proud of you!",
-              "en_US": "Mesmo assim, você conseguiu. \\. Estou tão orgulhoso de você!",
+              "en_US": "Mesmo assim, você conseguiu.\\. Estou tão orgulhoso de você!",
               "de_DE": "Trotzdem, du hast es geschafft.\\. Ich bin richtig stolz auf dich!",
               "fr_FR": "fr_FR",
               "langUid": 9,
@@ -2467,7 +2467,7 @@
               {
                 "message": {
                   "": "Solid as rock, smooth as silk.",
-                  "en_US": "Sólido como rocha, liso como seda.",
+                  "en_US": "Sólida como rocha, lisa como seda.",
                   "de_DE": "Hart wie Stein, geschmeidig wie Seide.",
                   "fr_FR": "fr_FR",
                   "langUid": 188,
@@ -2498,7 +2498,7 @@
               {
                 "message": {
                   "": "...And slippery.",
-                  "en_US": "... E escorregadio.",
+                  "en_US": "... E escorregadia.",
                   "de_DE": "... Und glitschig.",
                   "fr_FR": "fr_FR",
                   "langUid": 189,
@@ -2529,7 +2529,7 @@
               {
                 "message": {
                   "": "...Waaay too slippery!",
-                  "en_US": "... Supeeer escorregadio!",
+                  "en_US": "... Supeeer escorregadia!",
                   "de_DE": "... Vieeel zu glitschig!",
                   "fr_FR": "fr_FR",
                   "langUid": 190,

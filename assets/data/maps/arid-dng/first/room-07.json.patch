@@ -228,7 +228,7 @@
           {
             "message": {
               "": "Alright! That worked.",
-              "en_US": "Tudo bem! Isso funcionou.",
+              "en_US": "Muito bem! Isso funcionou.",
               "langUid": 23,
               "zh_CN": "\u8fd9\u4e0b\u6210\u4e86\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc88b\uc544! \uc81c\ub300\ub85c \ub410\uc5b4.<<A<<[CHANGED 2018/03/14]",
@@ -629,7 +629,7 @@
           {
             "message": {
               "": "There you are!",
-              "en_US": "Aí está você!",
+              "en_US": "Achei você!",
               "langUid": 32,
               "zh_CN": "\u627e\u5230\u4f60\u4e86\uff01<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc5ec\uae30 \uc788\uc5c8\uad70!<<A<<[CHANGED 2018/03/14]",
@@ -647,7 +647,7 @@
           {
             "message": {
               "": "This was certainly not meant to be seen by the likes of you.",
-              "en_US": "Isso certamente não era para ser visto por gente como você.",
+              "en_US": "Isso era uma coisa que você não deveria ver.",
               "langUid": 34,
               "zh_CN": "\u8fd9\u672c\u4e0d\u8be5\u8ba9\u4f60\u770b\u5230\u7684\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub108 \uac19\uc740 \ub140\uc11d\uc5d0\uac8c \ub4e4\ud0ac \uc0dd\uac01\uc740 \uc544\ub2c8\uc5c8\ub294\ub370.<<A<<[CHANGED 2018/03/14]",
@@ -665,7 +665,7 @@
           {
             "message": {
               "": "In this tower you shall abide to the constraints laid in front of you.",
-              "en_US": "Nesta torre, você deve cumprir as restrições colocadas à sua frente.",
+              "en_US": "Nesta torre, você deve respeitar as restrições que foram impostas.",
               "langUid": 35,
               "zh_CN": "\u8fd9\u5ea7\u5854\u662f\u4f60\u7684\u56da\u7b3c\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc774 \ud0d1 \uc548\uc5d0\uc11c\ub294 \ub124 \uc55e\uc5d0 \uc788\ub294 \uc81c\uc57d\ub9cc\uc744 \ub530\ub77c\uc57c\ub9cc \ud55c\ub2e4.<<A<<[CHANGED 2018/03/14]",
@@ -934,7 +934,7 @@
           {
             "message": {
               "": "Lea, you must not be caught up in one of his battles, we have to escape!",
-              "en_US": "Lea, você não deve se envolver em uma de suas batalhas, temos que escapar!",
+              "en_US": "Lea, não se envolva em batalhas, temos que sair daqui!",
               "de_DE": "Lea, du darfst dich auf keinen Fall in einen Kampf verwickeln lassen, wir m\u00fcssen fliehen!",
               "zh_CN": "\u8389\u4e9a\uff0c\u4f60\u53ef\u522b\u88ab\u6218\u6597\u7f20\u4f4f\u4e86\uff0c\u6211\u4eec\u5f97\u9003\u8dd1\uff01<<A<<[CHANGED 2018/10/04]",
               "ja_JP": "\u30ec\u30a2\u3001\u3084\u3064\u306e\u6226\u3044\u306b\u4e57\u3063\u3061\u3083\u30c0\u30e1\u3060\u3002\n\u9003\u3052\u51fa\u3055\u306a\u3044\u3068\uff01<<A<<[CHANGED 2018/10/04]",
@@ -1549,7 +1549,7 @@
           "icon": "INFO",
           "hoverText": {
             "": "Take off.",
-            "en_US": "Decolar.",
+            "en_US": "Decolar",
             "de_DE": "Auf und davon!",
             "zh_CN": "\u8131\u79bb\u3002<<A<<[CHANGED 2018/03/14]",
             "zh_TW": "\u812b\u96e2\u3002<<A<<[CHANGED 2018/03/14]",

@@ -1002,7 +1002,7 @@
             }, {
                 "message": {
                     "": "It's...\\. strangely familiar.\\. But I can't quite pinpoint it.",
-                    "en_US": "Soa...\\. estranhamente familiar.\\. Mas não consigo identificar bem.",
+                    "en_US": "É...\\. estranhamente familiar.\\. Mas não consigo lembrar.",
                     "langUid": 16,
                     "zh_CN": "\u6211...\\.\u6709\u79cd\u5947\u5999\u7684\u5373\u89c6\u611f\u3002\\.\u4f46\u662f\u60f3\u4e0d\u8d77\u6765\u662f\u5728\u54ea\u89c1\u8fc7\u4e86\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "Das kommt mir...\\. so seltsam bekannt vor.\\. Aber ich komm' nicht drauf.",
@@ -1149,7 +1149,7 @@
             }, {
                 "message": {
                     "": "...I don't know.\\. Something just feels very weird.",
-                    "en_US": "...Eu não sei.\\. Algo está soando muito estranho.",
+                    "en_US": "...Eu não sei.\\. Algo está muito estranho.",
                     "langUid": 20,
                     "zh_CN": "...\u6211\u4e0d\u77e5\u9053\u3002\\.\u5c31\u662f\u611f\u89c9\u4e0d\u5bf9\u52b2\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "... Keine Ahnung.\\. Das f\u00fchlt sich einfach nur komisch an.",
@@ -1297,7 +1297,7 @@
             }, {
                 "message": {
                     "": "Huh...\\. looks like we spent enough time in the room?",
-                    "en_US": "Huh...\\. parece que passamos tempo suficiente na sala?",
+                    "en_US": "Hmm...\\. parece que passamos tempo suficiente na sala.",
                     "langUid": 23,
                     "zh_CN": "\u55ef...\\.\u770b\u6765\u6211\u4eec\u5728\u623f\u95f4\u91cc\u5df2\u7ecf\u5f85\u4e86\u591f\u4e45\u4e86\uff1f<<A<<[CHANGED 2018\/09\/19]",
                     "de_DE": "H\u00f6h...?\\. Sieht so aus, als h\u00e4tten wir genug Zeit in diesem Raum verbracht?",
@@ -1314,7 +1314,7 @@
             }, {
                 "message": {
                     "": "So what exactly was the point of all this?",
-                    "en_US": "Então, qual era exatamente o objetivo de tudo isso?",
+                    "en_US": "Então, qual era o objetivo de tudo isso?",
                     "langUid": 24,
                     "zh_CN": "\u8fd9\u5230\u5e95\u662f\u600e\u4e48\u56de\u4e8b\uff1f<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "Was f\u00fcr einen Sinn hatte das alles hier?",

@@ -9952,7 +9952,7 @@
             }, {
                 "message": {
                     "": "That...\\. Lukas...\\. he does not remember what happened, correct?",
-                    "en_US": "Esse...\\. Lukas...\\. ele não se lembra do que aconteceu, correto?",
+                    "en_US": "Esse...\\. Lukas...\\. ele não se lembra do que aconteceu, não é?",
                     "langUid": 189,
                     "zh_CN": "\u90a3\u4e2a...\\.\u5362\u5361\u65af...\\.\u4ed6\u4e0d\u8bb0\u5f97\u53d1\u751f\u4ec0\u4e48\u4e86\u662f\u5427\uff1f<<A<<[CHANGED 2018/09/19]",
                     "ko_KR": "\ub8e8\uce74\uc2a4\uac00...\\. \ubb34\uc2a8 \uc77c\uc774 \uc788\uc5c8\ub294\uc9c0...\\. \uae30\uc5b5 \ubabb \ud558\ub294 \uac70\uc9c0?<<A<<[CHANGED 2018/09/19]",
@@ -10037,7 +10037,7 @@
             }, {
                 "message": {
                     "": "He was most likely another \\c[3]Evotar\\c[0].",
-                    "en_US": "Ele era muito provavelmente outro \\c[3]Evotar\\c[0].",
+                    "en_US": "Ele era provavelmente outro \\c[3]Evotar\\c[0].",
                     "langUid": 194,
                     "zh_CN": "\u5f88\u53ef\u80fd\u4e5f\u662f\u4e00\u540d\\c[3]\u8fdb\u5316\u8005\\c[0]\u3002<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\uc544\ub9c8 \ub2e4\ub978 \\c[3]\uc5d0\ubcf4\ud0c0\\c[0]\uc600\uc744 \uac00\ub2a5\uc131\uc774 \ucee4.<<A<<[CHANGED 2018/03/14]",
@@ -10071,7 +10071,7 @@
             }, {
                 "message": {
                     "": "In fact...\\. I suspect that was the case for all players we saw back there.",
-                    "en_US": "De fato...\\. Suspeito que esse era o caso de todos os jogadores que vimos lá atrás.",
+                    "en_US": "Além disso...\\. Suspeito que os jogadores que vimos antes também sejam Evotares.",
                     "langUid": 196,
                     "zh_CN": "\u5b9e\u9645\u4e0a...\\.\u6211\u6000\u7591\u6211\u4eec\u5728\u90a3\u91cc\u89c1\u5230\u7684\u6240\u6709\u73a9\u5bb6\u90fd\u662f\u3002<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\uc0ac\uc2e4...\\. \uadf8\ub54c \uc6b0\ub9ac\uac00 \ubcf8 \ubaa8\ub4e0 \ud50c\ub808\uc774\uc5b4\uac00 \uadf8\ub7f4 \uac70\ub85c \uc0dd\uac01\ud574.<<A<<[CHANGED 2018/03/14]",
@@ -10122,7 +10122,7 @@
             }, {
                 "message": {
                     "": "Do you...\\. not want to go back to them?",
-                    "en_US": "Você...\\. não quer voltar para eles?",
+                    "en_US": "Você...\\. não quer conversar com seus amigos?",
                     "langUid": 200,
                     "zh_CN": "\u4f60\u96be\u9053\u4e0d\u60f3...\\.\u56de\u53bb\u627e\u4ed6\u4eec\u5417\uff1f<<A<<[CHANGED 2018/09/19]",
                     "ko_KR": "\uce5c\uad6c\ub4e4\uc5d0\uac8c...\\. \ub3cc\uc544\uac00\uace0 \uc2f6\uc9c0 \uc54a\ub2c8?<<A<<[CHANGED 2018/09/19]",
@@ -10224,7 +10224,7 @@
             }, {
                 "message": {
                     "": "M-Maybe give it a bit of time.",
-                    "en_US": "T-Talvez dê um pouco de tempo.",
+                    "en_US": "T-Talvez seja melhor esperar um pouco.",
                     "langUid": 206,
                     "zh_CN": "\u4e5f\u8bb8\uff0c\u518d\u7ed9\u4ed6\u4eec\u4e00\u70b9\u65f6\u95f4\u3002<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\uc2dc, \uc2dc\uac04\uc744 \uc870\uae08\ub9cc \uc918 \ubd10.<<A<<[CHANGED 2018/03/14]",
@@ -10241,7 +10241,7 @@
             }, {
                 "message": {
                     "": "I am sure you will be able to reconcile eventually.",
-                    "en_US": "Tenho certeza de que você será capaz de se reconciliar eventualmente.",
+                    "en_US": "Tenho certeza de que você conseguirá fazer as pazes com eles em breve.",
                     "langUid": 207,
                     "zh_CN": "\u6211\u76f8\u4fe1\u4f60\u4eec\u6700\u7ec8\u4f1a\u548c\u89e3\u7684\u3002<<A<<[CHANGED 2018/09/19]",
                     "ko_KR": "\uadf8\ub7fc \uce5c\uad6c\ub4e4\uacfc \ud654\ud574\ud560 \uc218 \uc788\uc744 \uac70\uc57c.<<A<<[CHANGED 2018/09/19]",
@@ -10292,7 +10292,7 @@
             }, {
                 "message": {
                     "": "I suppose...\\. we should go to \\c[3]Gaia's Garden\\c[0] next?",
-                    "en_US": "Eu suponho...\\. que você dever ir para o \\c[3]Jardim de Gaia\\c[0] em seguida?",
+                    "en_US": "Que tal ir para o \\c[3]Jardim de Gaia\\c[0] agora?",
                     "langUid": 210,
                     "zh_CN": "\u6211\u60f3...\\.\u63a5\u4e0b\u6765\u6211\u4eec\u8981\u53bb\\c[3]\u76d6\u4e9a\u82b1\u56ed\\c[0]\uff1f<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\uc774\uc81c...\\. \\c[3]\uac00\uc774\uc544\uc758 \uc815\uc6d0\\c[0]\uc73c\ub85c \uac00\uc57c \ud558\uc9c0?<<A<<[CHANGED 2018/03/14]",
@@ -10326,7 +10326,7 @@
             }, {
                 "message": {
                     "": "Our goal is still to reach \\c[3]Sapphire Ridge\\c[0], correct?",
-                    "en_US": "Nosso objetivo ainda é chegar á \\c[3]Serra da Safira\\c[0], correto?",
+                    "en_US": "Nosso objetivo ainda é chegar á \\c[3]Serra da Safira\\c[0], não é?",
                     "langUid": 212,
                     "zh_CN": "\u6211\u4eec\u7684\u76ee\u6807\u662f\u524d\u5f80\\c[3]\u9752\u7389\u5c71\u8109\\c[0]\u5bf9\u5427\uff1f<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\uc6b0\ub9ac\uc758 \ubaa9\ud45c\ub294 \\c[3]\uc0ac\ud30c\uc774\uc5b4 \uc0b0\ub9e5\\c[0]\uae4c\uc9c0 \uac00\ub294 \uac70\uace0, \uadf8\ub807\uc9c0?<<A<<[CHANGED 2018/03/14]",
@@ -10377,7 +10377,7 @@
             }, {
                 "message": {
                     "": "I really should try to extend your vocabulary at least a little bit more.",
-                    "en_US": "Eu realmente deveria tentar ampliar seu vocabulário pelo menos um pouco mais...",
+                    "en_US": "Eu ainda tenho que ampliar seu vocabulário pelo menos um pouco mais...",
                     "langUid": 215,
                     "zh_CN": "\u6211\u771f\u8be5\u7ed9\u4f60\u7684\u8bcd\u6c47\u8868\u91cc\u518d\u52a0\u4e9b\u8bcd\u7684\u3002<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\ub124 \ub2e8\uc5b4\ub4e4\uc744 \uc870\uae08\uc774\ub77c\ub3c4 \ub354 \ub298\ub824\uc57c\uaca0\uc5b4.<<A<<[CHANGED 2018/03/14]",
@@ -10455,7 +10455,7 @@
             }, {
                 "message": {
                     "": "I will get on that while you make your way through \\c[3]Gaia's Garden\\c[0], alright?",
-                    "en_US": "Vou cuidar disso enquanto você faz seu caminho através do \\c[3]Jardim de Gaia\\c[0], certo?",
+                    "en_US": "Vou cuidar disso enquanto você explora o \\c[3]Jardim de Gaia\\c[0], está bem?",
                     "langUid": 218,
                     "zh_CN": "\u5728\u4f60\u901a\u8fc7\\c[3]\u76d6\u4e9a\u82b1\u56ed\\c[0]\u7684\u8fd9\u6bb5\u65f6\u95f4\u91cc\uff0c\u6211\u4f1a\u7814\u7a76\u7814\u7a76\uff0c\u597d\u5417\uff1f<<A<<[CHANGED 2018/09/19]",
                     "ko_KR": "\uadf8 \uc791\uc5c5\uc740 \ub124\uac00 \\c[3]\uac00\uc774\uc544\uc758 \uc815\uc6d0\\c[0]\uc744 \uac70\ub2c8\ub294 \ub3d9\uc548 \ud558\uace0 \uc788\uc744\uac8c. \uc54c\uaca0\uc9c0?<<A<<[CHANGED 2018/09/19]",
@@ -10561,7 +10561,7 @@
             }, {
                 "task": {
                     "": "Head to \\c[3]Gaia's Garden\\c[0] (north of \\c[3]Autumn's Fall\\c[0]) by yourself.",
-                    "en_US": "Vá para o \\c[3]Jardim de Gaia\\c[0] (ao norte de \\c[3]Autumn's Fall\\c[0]) sozinha.",
+                    "en_US": "Vá para o \\c[3]Jardim de Gaia\\c[0] (ao norte do \\c[3]Pôr do Outono\\c[0]) sozinha.",
                     "langUid": 860,
                     "zh_CN": "\u72ec\u81ea\u524d\u5f80\\c[3]\u76d6\u4e9a\u82b1\u56ed\\c[0]\uff08\\c[3]\u843d\u79cb\u6797\u5730\\c[3]\u7684\u5317\u65b9\uff09\u3002<<A<<[CHANGED 2018/08/28]",
                     "ko_KR": "\ud63c\uc790 \\c[3]\uac00\uc774\uc544\uc758 \uc815\uc6d0\\c[0] (\\c[3]\uac00\uc744\uc758 \ubab0\ub77d\\c[0] \ubd81\ucabd)\uc73c\ub85c \uc774\ub3d9\ud558\uc138\uc694.<<A<<[CHANGED 2018/08/28]",

@@ -9899,7 +9899,7 @@
             "entity": { "global": true, "name": "bullBla1" },
             "text": {
               "": "Do I look like some kind of brawler to you?",
-              "en_US": "Eu pareço algum tipo de lutador para você?",
+              "en_US": "Eu prefiro evitar combates corpo a corpo.",
               "langUid": 181,
               "ja_JP": "\u79c1\u304c\u305d\u3046\u3044\u3046\u30bf\u30a4\u30d7\u306b\u898b\u3048\u308b\uff1f<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\ub0b4\uac00 \ubb34\uc2a8 \uc2f8\uc6c0\uafbc\uc73c\ub85c \ubcf4\uc5ec?<<A<<[CHANGED 2018/09/19]",
@@ -9912,7 +9912,7 @@
             "entity": { "global": true, "name": "bullBla2" },
             "text": {
               "": "I don't think the Bovines care. All they understand is literal ass-kicking!",
-              "en_US": "Isso não faz diferença para os Bovinos. A única coisa que eles entendem é uma boa surra!",
+              "en_US": "Faça o que quiser. Só que a única coisa que os Bovinos entendem é uma boa surra!",
               "langUid": 182,
               "ja_JP": "\u30a6\u30b7\u305f\u3061\u304c\u305d\u308c\u3092\u6c17\u306b\u3059\u308b\u3068\u306f\n\u601d\u3048\u306a\u3044\u306d\u3002\u3042\u3044\u3064\u3089\u306f\u6587\u5b57\u901a\u308a\n\u30b1\u30c4\u3092\u8e74\u3063\u3066\u3084\u3089\u306a\u3044\u3068\u7406\u89e3\u3057\u306a\u3044\u3088\u3002<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\ub4e4\uc18c\ub4e4\uc740 \uc0c1\uad00\ud558\uc9c0 \uc54a\ub294 \uac83 \uac19\uc544. \uadf8\ub4e4\uc774 \uc0c1\uad00\ud558\ub294 \uac74 \ub9d0 \uadf8\ub300\ub85c \uc5c9\ub369\uc774 \ucc28\uae30\uc77c \ubfd0!<<A<<[CHANGED 2018/05/01]",

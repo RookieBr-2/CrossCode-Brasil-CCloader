@@ -521,7 +521,7 @@
             "message": {
               "de_DE": "Aber du verstehst mich, korrekt?",
               "": "But you understand me, correct?",
-              "en_US": "Mas você me entende, correto?",
+              "en_US": "Mas você me entende, não é?",
               "langUid": 10,
               "fr_FR": "",
               "zh_CN": "\u4e0d\u8fc7\u4f60\u80fd\u542c\u61c2\u6211\u8bf4\u7684\u8bdd\uff0c\u5bf9\u5417\uff1f",
@@ -557,7 +557,7 @@
               {
                 "message": {
                   "": "Wait...",
-                  "en_US": "Calma...",
+                  "en_US": "Espere...",
                   "de_DE": "Moment mal...",
                   "zh_CN": "\u7b49\u7b49...<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u3042\u308c\u3001\u5f85\u3066\u3088...<<A<<[CHANGED 2019/08/16]",
@@ -635,7 +635,7 @@
               {
                 "message": {
                   "": "Ugh...\\. this is not off to a great start.",
-                  "en_US": "Ugh...\\. Isso não é um bom começo.",
+                  "en_US": "Hmm...\\. Isso não é um bom começo.",
                   "de_DE": "Uff...\\. Das kann ja heiter werden...",
                   "zh_CN": "\u5509...\\.\u8fd9\u4e0b\u4e8b\u60c5\u6050\u6015\u6709\u70b9\u590d\u6742\u4e86\u3002<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u3042\u3042\u3082\u3046...\\.\n\u3053\u308c\u3058\u3083\u9806\u8abf\u306a\u30b9\u30bf\u30fc\u30c8\u3068\u306f\u8a00\u3048\u306a\u3044\u306a\u3002<<A<<[CHANGED 2019/08/16]",
@@ -672,7 +672,7 @@
             "message": {
               "de_DE": "Gut. Das kriegen wir schon irgendwie hin.",
               "": "Ok. We will make it work, somehow.",
-              "en_US": "OK. Vamos fazer funcionar, de alguma forma.",
+              "en_US": "Ok. Vamos fazer isso funcionar, de algum jeito.",
               "langUid": 12,
               "fr_FR": "",
               "zh_CN": "\u597d\u7684\u3002\u6211\u4eec\u4f1a\u8ba9\u5b83\u6062\u590d\u6b63\u5e38\u7684\u3002",
@@ -1392,7 +1392,7 @@
             "message": {
               "de_DE": "Lass uns die \u00dcbung wiederholen, nur um sicherzugehen...\\. Nun aus gr\u00f6\u00dferer Distanz.",
               "": "Well, just to be sure...\\.\nLet us repeat this exercise with an extended distance.",
-              "en_US": "Bom, só para ter certeza...\\.\nVamos repetir este exercicio com uma longa distância.",
+              "en_US": "Bom, só para ter certeza...\\.\nVamos repetir este exercicio com uma distância maior.",
               "langUid": 35,
               "fr_FR": "",
               "zh_CN": "\u55ef\uff0c\u4e3a\u4fdd\u9669\u8d77\u89c1\u2026\\.\u6211\u4eec\u62c9\u8fdc\u8ddd\u79bb\u4e4b\u540e\u518d\u91cd\u590d\u4e00\u6b21\u3002",
@@ -3267,7 +3267,7 @@
                 "text": {
                   "de_DE": "Bewege dich mit \\i[key-up]\\i[key-left]\\i[key-down]\\i[key-right].\nDr\u00fccke \\i[pause], um das Pausen-Men\u00fc zu \u00f6ffnen und das Spiel zu speichern.",
                   "": "Press \\i[key-up]\\i[key-left]\\i[key-down]\\i[key-right] to move around.\nPress  \\i[pause] to access the pause menu and save the game.",
-                  "en_US": "Use \\i[key-up]\\i[key-left]\\i[key-down]\\i[key-right] para se mover.\nAperte  \\i[pause] para acessar o menu de pausa e salvar o jogo.",
+                  "en_US": "Use \\i[key-up]\\i[key-left]\\i[key-down]\\i[key-right] para se mover.\nAperte \\i[pause] para acessar o menu de pausa e salvar o jogo.",
                   "langUid": 81,
                   "fr_FR": "",
                   "zh_CN": "\u6309\\i[key-up]\\i[key-left]\\i[key-down]\\i[key-right]\u79fb\u52a8\u3002 \u6309\\i[pause]\u8fdb\u5165\u6682\u505c\u83dc\u5355\u5e76\u4fdd\u5b58\u6e38\u620f\u3002",
@@ -3279,7 +3279,7 @@
                 "altText": {
                   "de_DE": "Bewege dich mit \\i[left-stick].\nDr\u00fccke \\i[pause], um das Pausen-Men\u00fc zu \u00f6ffnen und das Spiel zu speichern.",
                   "": "Use \\i[left-stick] to move around.\nPress  \\i[pause] to access the pause menu and save the game.",
-                  "en_US": "Use \\i[left-stick] para se mover.\nAperte  \\i[pause] para acessar o menu de pausa e salvar o jogo.",
+                  "en_US": "Use \\i[left-stick] para se mover.\nAperte \\i[pause] para acessar o menu de pausa e salvar o jogo.",
                   "langUid": 82,
                   "fr_FR": "",
                   "zh_CN": "\u4f7f\u7528\\i[left-stick]\u79fb\u52a8\u3002 \u6309\\i[pause]\u8fdb\u5165\u6682\u505c\u83dc\u5355\u5e76\u4fdd\u5b58\u6e38\u620f\u3002",
@@ -5309,7 +5309,7 @@
           {
             "message": {
               "": "Surprise!",
-              "en_US": "Supresa!",
+              "en_US": "Surpresa!",
               "langUid": 97,
               "zh_CN": "\u6ca1\u60f3\u5230\u5427\uff01<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc9dc\uc794!<<A<<[CHANGED 2018/03/14]",
@@ -5339,7 +5339,7 @@
           {
             "message": {
               "": "That means from now on you can travel back to the cargo hold whenever you like.",
-              "en_US": "Isso significa que a partir de agora você pode voltar ao o navio de carga, a qualquer momento que você quiser.",
+              "en_US": "Isso significa que a partir de agora você pode voltar ao o navio de carga, sempre que quiser.",
               "langUid": 99,
               "zh_CN": "\u4e5f\u5c31\u662f\u8bf4\u4ece\u73b0\u5728\u5f00\u59cb\u4f60\u53ef\u4ee5\u968f\u65f6\u4f20\u9001\u56de\u8d27\u8231\u4e86\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc774\uc81c\ubd80\ud130\ub294 \uc544\ubb34 \ub54c\ub098 \ud654\ubb3c\uc2e4\ub85c \ub3cc\uc544\uc62c \uc218 \uc788\ub2e4\ub294 \uc598\uae30\uc9c0.<<A<<[CHANGED 2018/03/14]",
@@ -5391,7 +5391,7 @@
           {
             "message": {
               "": "You are the only player that can enter this place.",
-              "en_US": "Você é única, dentre os jogadores que pode entrar nesse lugar.",
+              "en_US": "Você é a única, dentre os jogadores que pode entrar nesse lugar.",
               "langUid": 102,
               "zh_CN": "\u4f60\u662f\u552f\u4e00\u6709\u6743\u9650\u6765\u8fd9\u91cc\u7684\u73a9\u5bb6\u4eba\u7269\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uc774\uacf3\uc5d0 \ub4e4\uc5b4\uc62c \uc218 \uc788\ub294 \ud50c\ub808\uc774\uc5b4\ub294 \ub108\ubfd0\uc774\uac70\ub4e0.<<A<<[CHANGED 2018/09/19]",
@@ -5576,7 +5576,7 @@
           {
             "message": {
               "": "I suppose Sergey talked things through with you?",
-              "en_US": "Eu acho que Sergey falou com você sobre o assunto, certo?",
+              "en_US": "Sergey já contou tudo pra você, não é?",
               "langUid": 107,
               "zh_CN": "\u770b\u6765\u8c22\u5c14\u76d6\u628a\u4e8b\u60c5\u90fd\u8ddf\u4f60\u8bf4\u4e86\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc138\ub974\uac8c\uc774\uac00 \ub2e4 \uc124\uba85\ud574\uc92c\uaca0\uc9c0?<<A<<[CHANGED 2018/03/14]",
@@ -5666,7 +5666,7 @@
           {
             "message": {
               "": "Well then, let's get you back among all those other players!",
-              "en_US": "Bem então, vamos colocar você de volta com aqueles outros jogadores!",
+              "en_US": "Certo, vamos te colocar de volta com os outros jogadores!",
               "langUid": 113,
               "zh_CN": "\u597d\u5427\uff0c\u73b0\u5728\u628a\u4f60\u9001\u56de\u53bb\uff01<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uadf8\ub7fc \uc774\uc81c \uc800 \ud50c\ub808\uc774\uc5b4\ub4e4 \uc0ac\uc774\ub85c \ub2e4\uc2dc \ub4e4\uc5b4\uac08 \ub54c\uc57c!<<A<<[CHANGED 2018/03/14]",

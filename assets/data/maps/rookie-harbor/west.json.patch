@@ -6777,7 +6777,7 @@
                   {
                     "message": {
                       "": "See, Hina, told you I was helping someone!",
-                      "en_US": "Veja Hina, falei que estava ajudando alguém!",
+                      "en_US": "Viu Hina, falei que estava ajudando alguém!",
                       "de_DE": "Siehst du, Hina, ich hab doch gesagt, dass ich wem geholfen habe!<<A<<[CHANGED 2021/05/22]",
                       "fr_FR": "fr_FR",
                       "langUid": 224,
@@ -8092,7 +8092,7 @@
           {
             "message": {
               "": "In this shop here you can buy \\c[3]consumable items\\c[0].",
-              "en_US": "Nessa loja aqui você pode comprar \\c[3]itens consumiveis\\c[0].",
+              "en_US": "Nessa loja aqui vocês podem comprar \\c[3]itens consumiveis\\c[0].",
               "de_DE": "In diesem Laden hier k\u00f6nnt ihr \\c[3]Verbrauchsitems\\c[0] kaufen.",
               "fr_FR": "fr_FR",
               "langUid": 299,
@@ -8137,7 +8137,7 @@
           {
             "message": {
               "": "Further down you'll find an armory with basic \\c[3]equipment\\c[0].",
-              "en_US": "Lá em abaixo, você encontrará uma loja de armas com \\c[3]equipamentos\\c[0] básicos.",
+              "en_US": "Lá em abaixo, vocês encontrarão uma loja de armas com \\c[3]equipamentos\\c[0] básicos.",
               "de_DE": "Am Ende dieses Weges findet ihr ein Waffenladen mit einfacher \\c[3]Ausr\u00fcstung\\c[0].",
               "fr_FR": "fr_FR",
               "langUid": 300,
@@ -8182,7 +8182,7 @@
           {
             "message": {
               "": "And when you continue to the west from here you'll enter \\c[3]Autumn's Rise\\c[0].",
-              "en_US": "E quando você for para a saída oeste, você entrará no \\c[3]Nascer do Outono\\c[0].",
+              "en_US": "E quando vocês forem para a saída oeste, vocês entrarão no \\c[3]Nascer do Outono\\c[0].",
               "de_DE": "Und wenn ihr von hier aus weiter nach Westen geht, werdet ihr \\c[3]Autumn's Rise\\c[0] erreichen.",
               "fr_FR": "fr_FR",
               "langUid": 301,
@@ -8201,7 +8201,7 @@
           {
             "message": {
               "": "You'll find a lot of enemies along the way.",
-              "en_US": "Você encontrará muitos inimigos por lá.",
+              "en_US": "Vocês vão achar muitos inimigos por lá.",
               "de_DE": "Dort werdet ihr auf viele Gegner treffen.",
               "fr_FR": "fr_FR",
               "langUid": 302,
@@ -8220,7 +8220,7 @@
           {
             "message": {
               "": "Be careful not to take on too many \\c[3]Hedgehags\\c[0] at once, or those guys will eat you for breakfast!",
-              "en_US": "Tenha cuidado para não irritar muitos \\c[3]Ouriçados\\c[0] de uma vez, ou eles vão comer você no café da manhã!",
+              "en_US": "Tenham cuidado para não irritar muitos \\c[3]Ouriçados\\c[0] de uma vez, ou eles vão comer vocês no café da manhã!",
               "de_DE": "Passt nur auf, dass ihr euch nicht mit zu vielen \\c[3]Ig\u00f6lln\\c[0] auf einmal anlegt, sonst wischen die Jungs mit euch nachher den Boden auf!",
               "fr_FR": "fr_FR",
               "langUid": 303,
@@ -8239,7 +8239,7 @@
           {
             "message": {
               "": "Anyway, just follow that way to get to \\c[3]Bergen\\c[0].",
-              "en_US": "Enfim, depois do Nascer do Outono você vai chegar em \\c[3]Bergen\\c[0].",
+              "en_US": "Enfim, depois do Nascer do Outono vocês vão chegar em \\c[3]Bergen\\c[0].",
               "de_DE": "Jedenfalls m\u00fcsst ihr diesem Weg folgen, wenn ihr nach \\c[3]Bergen\\c[0] wollt.",
               "fr_FR": "fr_FR",
               "langUid": 285,
@@ -8308,7 +8308,7 @@
           {
             "message": {
               "": " By the way, do you two want to form a party?",
-              "en_US": " A propósito, vocês duas vão formar um grupo?",
+              "en_US": "A propósito, vocês duas vão formar um grupo?",
               "de_DE": "\u00dcbrigens, wollt ihr beide eine Party erstellen?",
               "fr_FR": "fr_FR",
               "langUid": 304,
@@ -8465,7 +8465,7 @@
               {
                 "message": {
                   "": "But Lea is \\c[1]high level\\c[0] as well!",
-                  "en_US": "Mas Lea também tem um \\c[1]nível alto!\\c[0]",
+                  "en_US": "Mas Lea também tem um \\c[1]nível alto\\c[0]!",
                   "de_DE": "Aber Leas Level ist doch auch \\c[1]hoch\\c[0]!",
                   "zh_CN": "\u53ef\u8389\u4e9a\u4e5f\u662f\\c[1]\u9ad8\u7b49\u7ea7\\c[0]\u554a!<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u3067\u3082\u3001\u30ec\u30a2\u3060\u3063\u3066\u540c\u3058\u304f\u3089\u3044\n\\c[1]\u9ad8\u30ec\u30d9\u30eb\\c[0]\u3058\u3083\u306a\u3044\uff01<<A<<[CHANGED 2019/08/16]",
@@ -8519,7 +8519,7 @@
               {
                 "message": {
                   "": "Nah, I'm sure Lea will leave a few enemies for me, right?",
-                  "en_US": "Nah, Eu confio que a Lea vai deixar alguns inimigos pra mim, certo?",
+                  "en_US": "Nah, Eu confio que a Lea vai deixar alguns inimigos pra mim, né?",
                   "de_DE": "Nee, Lea l\u00e4sst mir bestimmt ein paar \u00fcbrig, stimmt's?",
                   "zh_CN": "\u600e\u4e48\u4f1a\u5462\uff0c\u8389\u4e9a\u80af\u5b9a\u4f1a\u7ed9\u6211\u7559\u51e0\u53ea\u7684\uff0c\u5bf9\u5427\uff1f<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u3048\u30fc\u3063\u3001\u30ec\u30a2\u306f\u79c1\u306e\u305f\u3081\u306b\u4f55\u4f53\u304b\n\u6575\u3092\u3068\u3063\u3066\u304a\u3044\u3066\u304f\u308c\u308b\u3068\u601d\u3046\u3088\u3002\u306d\u3048\uff1f<<A<<[CHANGED 2019/08/16]",
@@ -8612,7 +8612,7 @@
               {
                 "message": {
                   "": "Japp.\\. That totally sounds like a lot of fun, doesn't it?",
-                  "en_US": "Japp.\\. Isso serio muito divertido...",
+                  "en_US": "Japp.\\. Isso seria muito divertido...",
                   "de_DE": "Jepp.\\. Glaube ich gern, dass euch das Spa\u00df machen w\u00fcrde.",
                   "fr_FR": "fr_FR",
                   "langUid": 266,

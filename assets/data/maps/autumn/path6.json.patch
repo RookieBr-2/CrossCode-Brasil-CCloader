@@ -14492,6 +14492,7 @@
           {
             "name": {
               "": "Tucos",
+              "en_US": "Tucos",
               "langUid": 134,
               "zh_CN": "\u56fe\u514b\u65af",
               "de_DE": "Tucos",
@@ -14608,7 +14609,7 @@
           {
             "message": {
               "": "Hey don't gimme that look.\\. I'd love to settle that score myself but extermination in the wild is Seeker business.",
-              "en_US": "Ei, não me olhe assim.\\. Adoraria acertar as contas sozinho, mas as batalhas são assuntos para os Seeker.",
+              "en_US": "Ei, não me olhe assim.\\. Adoraria acertar as contas sozinho, mas as batalhas são assuntos para os Seekers.",
               "de_DE": "Hey, sieh mich nicht so an.\\. Ich w\u00fcrd' das gerne auch alleine regeln, aber f\u00fcrs Jagen in der Wildnis seid ihr Seeker doch zust\u00e4ndig.",
               "fr_FR": "fr_FR",
               "langUid": 123,

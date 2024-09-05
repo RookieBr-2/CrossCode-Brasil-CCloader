@@ -2328,7 +2328,7 @@
                 "message": {
                   "de_DE": "Es ist eines der kleineren Schiffe der Solar-Klasse, aber es erf\u00fcllt seinen Zweck.",
                   "": "It's just one of the smaller ships of the Solar class but it does its job.",
-                  "en_US": "É um dos navios menores da classe Solar, mas cumpre bem seu papel.",
+                  "en_US": "Embora seja um dos navios menores da classe Solar, ele cumpre bem seu papel.",
                   "langUid": 20,
                   "fr_FR": "",
                   "zh_CN": "\u867d\u7136\u8fd9\u8258\u8239\u53ea\u662f\u592a\u9633\u7ea7\u4e2d\u6bd4\u8f83\u5c0f\u7684\u4e00\u79cd\uff0c\u4e0d\u8fc7\u5b83\u7684\u6027\u80fd\u53ef\u6ca1\u8bdd\u8bf4\u3002",
@@ -2563,7 +2563,7 @@
               {
                 "message": {
                   "": "Anyway, how was CrossWorlds so far? Was it fun?",
-                  "en_US": "Enfim, como foi CrossWorlds até agora? Foi divertido",
+                  "en_US": "Enfim, como foi CrossWorlds até agora? Foi divertido?",
                   "de_DE": "Tja, wie war CrossWorlds denn so bisher? Macht's Spa\u00df?",
                   "zh_CN": "\u603b\u4e4b\uff0c\u8fdc\u661f\u4e16\u754c\u600e\u4e48\u6837\uff1f\u597d\u73a9\u5417\uff1f<<A<<[CHANGED 2018/08/28]",
                   "ja_JP": "\u305d\u308c\u306f\u3068\u3082\u304b\u304f\u3001\u30af\u30ed\u30b9\u30ef\u30fc\u30eb\u30c9\u306f\n\u3069\u3046\u3060\u3063\u305f\uff1f\u697d\u3057\u304b\u3063\u305f\u304b\u3044\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -4349,7 +4349,7 @@
           {
             "message": {
               "": "She's an avatar, she shouldn't feel cold or anything like that...",
-              "en_US": "Ela é um avatar, ela não vai sentir frio ou algo do tipo...",
+              "en_US": "Ela é um avatar, ela não vai sentir frio ou algo assim...",
               "de_DE": "Sie ist ein Avatar, sie kann K\u00e4lte oder dergleichen doch gar nicht sp\u00fcren...",
               "zh_CN": "\u5979\u662f\u4e2a\u865a\u62df\u4eba\u7269\uff0c\u611f\u89c9\u4e0d\u5230\u51b7\u7684...<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u5f7c\u5973\u306f\u30a2\u30d0\u30bf\u30fc\u3060\u305e\u3001\u5bd2\u3055\u307f\u305f\u3044\u306a\n\u611f\u899a\u306f\u611f\u3058\u306a\u3044\u306f\u305a...<<A<<[CHANGED 2018/03/14]",
@@ -4390,7 +4390,7 @@
           {
             "message": {
               "": "She just looked like she needed this, alright? Stop nagging.",
-              "en_US": "Ela só parecia precisar disto, certo? Pare de reclamar.",
+              "en_US": "Ela parecia precisar disso, então eu trouxe. Pare de reclamar.",
               "de_DE": "Sie sah so aus, als ob sie das br\u00e4uchte, ok? H\u00f6r auf zu n\u00f6rgeln.",
               "zh_CN": "\u5979\u770b\u8d77\u6765\u5f88\u9700\u8981\u4e00\u5f20\u6bef\u5b50\u597d\u5417\uff1f\u522b\u5527\u5527\u6b6a\u6b6a\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u5f7c\u5973\u306b\u5fc5\u8981\u305d\u3046\u3060\u3063\u305f\u304b\u3089\n\u304b\u3051\u3066\u3042\u3052\u305f\u306e\u3002\u3046\u308b\u3055\u304f\u8a00\u308f\u306a\u3044\u3067\u3002<<A<<[CHANGED 2018/03/14]",
@@ -4787,7 +4787,7 @@
           {
             "message": {
               "": "Ending up in that place and all.",
-              "en_US": "Acabando naquele lugar e tudo mais.",
+              "en_US": "Como vocês foram parar naquele lugar?",
               "langUid": 68,
               "zh_CN": "\u600e\u4e48\u8dd1\u5230\u90a3\u5730\u65b9\u53bb\u7684\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uadf8\ub7f0 \uacf3\uc5d0\uc11c \uc788\uc5c8\ub2e4\ub2c8 \ub9d0\uc774\uc57c.<<A<<[CHANGED 2018/03/14]",
@@ -4990,7 +4990,7 @@
           {
             "message": {
               "": "It is because of... what you are.",
-              "en_US": "É por causa de... o que você é.",
+              "en_US": "É por causa do... que você realmente é.",
               "langUid": 79,
               "zh_CN": "\u56e0\u4e3a...\u4f60\u771f\u5b9e\u7684\u8eab\u4efd\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uadf8\uac74... \ub108\uc758 \uc874\uc7ac \ub54c\ubb38\uc774\uc57c.<<A<<[CHANGED 2018/03/14]",
@@ -5355,7 +5355,7 @@
           {
             "message": {
               "": "So, yes... that is what you are, Lea. An \\c[3]Evotar\\c[0] based on \\c[3]Shizuka\\c[0].",
-              "en_US": "Então, sim... isso é o que você é, Lea. Um \\c[3]Evotar\\c[0] baseado em \\c[3]Shizuka\\c[0].",
+              "en_US": "Então, sim... é isso que você é, Lea. Um \\c[3]Evotar\\c[0] baseado em \\c[3]Shizuka\\c[0].",
               "langUid": 91,
               "zh_CN": "\u6240\u4ee5\uff0c\u6ca1\u9519...\u8fd9\u5c31\u662f\u4f60\u7684\u771f\u5b9e\u8eab\u4efd\uff0c\u8389\u4e9a\u3002\u4e00\u4e2a\u57fa\u4e8e\\c[3]\u9759\\c[0]\u7684\\c[3]\u8fdb\u5316\u8005\\c[0]\u3002<<A<<[CHANGED 2021/01/12]",
               "ko_KR": "\uadf8\ub798... \ub124\uac00 \uc5d0\ubcf4\ud0c0\uc57c, \ub808\uc544. \\c[3]\uc2dc\uc988\uce74\\c[0]\ub97c \uae30\ubc18\uc73c\ub85c \ub9cc\ub4e0 \\c[3]\uc5d0\ubcf4\ud0c0\\c[0].<<A<<[CHANGED 2021/01/12]",
@@ -5415,7 +5415,7 @@
           {
             "message": {
               "": "Back in the day... Satoshi discovered that Evotars had problems handling the truth about themselves.",
-              "en_US": "Naquela época... Satoshi descobriu que Evotares tinha problemas para lidar com a verdade sobre eles mesmos.",
+              "en_US": "Naquela época... Satoshi descobriu que os Evotares tinham dificuldades para enfrentar a verdade sobre si mesmos.",
               "langUid": 95,
               "zh_CN": "\u5728\u6b64\u4e4b\u524d...\u667a\u53f2\u53d1\u73b0\u4e86\u8fdb\u5316\u8005\u7684\u4e00\u4e2a\u95ee\u9898\uff0c\u4ed6\u4eec\u65e0\u6cd5\u63a5\u53d7\u81ea\u5df1\u7684\u8eab\u4efd\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc608\uc804\uc5d0... \uc0ac\ud1a0\uc2dc\ub294 \uc5d0\ubcf4\ud0c0\uac00 \uc790\uc2e0\uc5d0 \ub300\ud55c \uc9c4\uc2e4\uc744 \ubc1b\uc544\ub4e4\uc774\ub294 \ub370 \ubb38\uc81c\uac00 \uc788\ub2e4\ub294 \uac78 \ubc1c\uacac\ud588\uac70\ub4e0.<<A<<[CHANGED 2018/03/14]",
@@ -5535,7 +5535,7 @@
           {
             "message": {
               "": "Things might have been easier if I told you right away... or it could have been an early end to everything.",
-              "en_US": "As coisas poderiam ter sido mais fáceis se eu lhe tivesse dito logo... ou poderia ter sido um fim precoce para tudo.",
+              "en_US": "Se eu tivesse contado isso desde o início, as coisas poderiam ter sido mais simples... ou poderia ter sido um fim antecipado para tudo.",
               "langUid": 103,
               "zh_CN": "\u4e5f\u8bb8\u6211\u8be5\u65e9\u70b9\u544a\u8bc9\u4f60\u8fd9\u4e9b\u7684...\u4f46\u4e5f\u6709\u53ef\u80fd\u628a\u4e00\u5207\u6bc1\u4e8e\u4e00\u65e6\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub0b4\uac00 \ubc14\ub85c \ub9d0\ud574\uc92c\ub354\ub77c\uba74 \uc77c\uc774 \ub354 \uc27d\uac8c \ud480\ub838\uc744 \ud150\ub370... \uc544\ub2c8\uba74 \uc801\uc5b4\ub3c4 \ub354 \ube68\ub9ac \ud574\uacb0\ud560 \uc218 \uc788\uc5c8\uac70\ub098.<<A<<[CHANGED 2018/03/14]",
@@ -5550,7 +5550,7 @@
           {
             "message": {
               "": "I just could not know what would happen... so I tried to be careful to minimize the risk.\n",
-              "en_US": "Eu simplesmente não podia saber o que aconteceria... então tentei ter cuidado para minimizar o risco.\n",
+              "en_US": "Eu não sabia o que poderia acontecer, por isso tentei ser cuidadoso para reduzir os riscos.\n",
               "langUid": 104,
               "zh_CN": "\u6211\u786e\u5b9e\u65e0\u6cd5\u9884\u6599\u4e8b\u60c5\u7684\u7ed3\u679c...\u6240\u4ee5\u6211\u53ea\u80fd\u8c28\u614e\u4e00\u4e9b\uff0c\u5c3d\u91cf\u5c06\u98ce\u9669\u964d\u4f4e\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\ub09c \uadf8\uc800 \uc5b4\ub5a4 \uc77c\uc774 \uc77c\uc5b4\ub0a0\uc9c0 \ubab0\ub77c\uc11c... \uc704\ud5d8\uc744 \ucd5c\uc18c\ud654\ud558\uae30 \uc704\ud574 \uc870\uc2ec\ud588\ub358 \uac70\uc57c.<<A<<[CHANGED 2018/09/19]",
@@ -5632,7 +5632,7 @@
           {
             "message": {
               "": "It...\\. It was the most logical option, though...",
-              "en_US": "Era...\\. Era a opção mais lógica, no entanto...",
+              "en_US": "Sim...\\. achei que era a opção mais lógica...",
               "langUid": 108,
               "zh_CN": "\u90a3...\\.\u90a3\u662f\u5f53\u65f6\u6700\u5408\u7406\u7684\u8bf4\u6cd5...<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uadf8...\\. \uadf8\uac8c \uadf8\ub098\ub9c8 \uc81c\uc77c \ub17c\ub9ac\uc801\uc778 \uc120\ud0dd\uc9c0\uc600\uc5b4...<<A<<[CHANGED 2018/03/14]",
@@ -5731,7 +5731,7 @@
           {
             "message": {
               "": "That is the other thing...\\. there really should not be any Evotars in CrossWorlds at all.",
-              "en_US": "Isso é a outra coisa...\\. não deveria haver nenhum Evotar em CrossWorlds.",
+              "en_US": "Na verdade, não deveria haver nenhum Evotar em CrossWorlds.",
               "langUid": 113,
               "zh_CN": "\u8fd9\u53c8\u53e6\u8bf4\u4e86...\\.\u7406\u8bba\u4e0a\u8fdc\u661f\u4e16\u754c\u4e0d\u5e94\u8be5\u6709\u4efb\u4f55\u8fdb\u5316\u8005\u5b58\u5728\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uadf8\uac74 \ub2e4\ub978 \ubb38\uc81c\uc57c...\\. \ud06c\ub85c\uc2a4\uc6d4\ub4dc\uc5d0 \uc5d0\ubcf4\ud0c0\ub77c\ub294 \uac74 \uc788\uc5b4\uc120 \uc548 \ub3fc.<<A<<[CHANGED 2018/09/19]",
@@ -5930,7 +5930,7 @@
           {
             "message": {
               "": "Anyway, it was not long afterwards that I entirely \\c[3]lost contact\\c[0] with them.",
-              "en_US": "De qualquer forma, não foi muito tempo depois que eu \\c[3]perdi completamente o contato\\c[0] com eles.",
+              "en_US": "De qualquer forma, não demorou muito até que eu \\c[3]perdesse completamente o contato\\c[0] com eles.",
               "langUid": 141,
               "zh_CN": "\u4e0d\u8fc7\u6ca1\u8fc7\u591a\u4e45\u6211\u5c31\u8ddf\u4ed6\u4eec\\c[3]\u5931\u53bb\u8054\u7cfb\\c[0]\u4e86\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uc544\ubb34\ud2bc, \uc5bc\ub9c8 \uc9c0\ub098\uc9c0 \uc54a\uc544 \uadf8\ub4e4\uacfc\uc758 \\c[3]\uc5f0\ub77d\uc774 \uc644\uc804\ud788 \ub04a\uacbc\uc5b4\\c[0].<<A<<[CHANGED 2018/09/19]",
@@ -5960,7 +5960,7 @@
           {
             "message": {
               "": "That was until recently... when I \\c[3]discovered Lea\\c[0], hidden within the game's database.",
-              "en_US": "Isso foi até recentemente... quando eu \\c[3]descobri a Lea\\c[0], escondida no banco de dados do jogo.",
+              "en_US": "Até que, recentemente, eu \\c[3]encontrei a Lea\\c[0], escondida no banco de dados do jogo.",
               "langUid": 143,
               "zh_CN": "\u76f4\u5230\u6700\u8fd1... \u6211\\c[3]\u53d1\u73b0\u4e86\u8389\u4e9a\\c[0]\uff0c\u85cf\u5728\u6e38\u620f\u7684\u6570\u636e\u5e93\u4e2d\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uac00\uc7a5 \ucd5c\uadfc\uc5d0 \uac8c\uc784 \ub0b4 \ub370\uc774\ud130\ubca0\uc774\uc2a4\uc5d0 \uc228\uaca8\uc9c4 \\c[3]\ub808\uc544\ub97c \ubc1c\uacac\\c[0]\ud560 \ub54c\uae4c\uc9c0\ub3c4 \ub9d0\uc774\uc57c.<<A<<[CHANGED 2018/03/14]",
@@ -6022,7 +6022,7 @@
           {
             "message": {
               "": "I know as much.",
-              "en_US": "Eu sei disso.",
+              "en_US": "Isso eu sei.",
               "langUid": 135,
               "zh_CN": "\u6211\u4e5f\u731c\u662f\u8fd9\u6837\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub098\ub3c4 \uadf8\uc815\ub3c4\ub294 \uc54c\uace0 \uc788\ub2e4.<<A<<[CHANGED 2018/03/14]",
@@ -6074,7 +6074,7 @@
           {
             "message": {
               "": "We were pulled into an area that was not supposed to be part of the official Playground... \\c[3]Vermillion Wasteland\\c[0].",
-              "en_US": "Fomos puxados para uma área que não deveria fazer parte oficialmente do Playground... \\c[3]Deserto Carmesim\\c[0].",
+              "en_US": "Fomos puxados para uma área que não deveria fazer parte oficialmente do Playground... o \\c[3]Deserto Carmesim\\c[0].",
               "langUid": 147,
               "zh_CN": "\u6211\u4eec\u8fdb\u5230\u4e86\u4e00\u7247\u975e\u5b98\u65b9\u56ed\u533a...\\c[3]\u6731\u7ea2\u5e9f\u571f\\c[0]\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uc6b0\ub9b0 \uacf5\uc2dd \ud50c\ub808\uc774\uadf8\ub77c\uc6b4\ub4dc\uc5d0 \uc18d\ud558\uc9c0 \uc54a\uc740 \uc5b4\ub5a4 \uc7a5\uc18c\ub85c \ud295\uaca8\uc838 \ub098\uc654\uc5c8\uc5b4... \\c[3]\uc8fc\ud64d\uc758 \ud669\ubb34\uc9c0\\c[0] \ub9d0\uc774\uc57c.<<A<<[CHANGED 2018/09/19]",
@@ -6209,7 +6209,7 @@
           {
             "message": {
               "": "I just barely escaped it by minimizing communication with Lea over the last few days.",
-              "en_US": "Mal escapei, minimizando a comunicação com Lea nos últimos dias.",
+              "en_US": "Por pouco, evitei isso ao limitar minha comunicação com a Lea recentemente.",
               "langUid": 156,
               "zh_CN": "\u6700\u540e\u51e0\u5929\u6211\u51cf\u5f31\u4e86\u4ea4\u6d41\u9891\u7387\uff0c\u624d\u9003\u8fc7\u4e86\u4ed6\u4eec\u7684\u8ffd\u8e2a\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc9c0\ub09c \uba70\uce60\uac04 \ub808\uc544\uc640\uc758 \ub300\ud654\ub97c \ucd5c\uc18c\ud654\ud558\uba74\uc11c \uac04\uc2e0\ud788 \ube60\uc838\ub098\uc62c \uc218 \uc788\uc5c8\uc5b4.<<A<<[CHANGED 2018/03/14]",
@@ -6323,7 +6323,7 @@
           {
             "message": {
               "": "Man, that really is a lot to take in, y'know?",
-              "en_US": "Cara, isso realmente é muita coisa para se absorver, sabe?",
+              "en_US": "Cara, isso realmente é muita coisa para se absorver, não acha?",
               "langUid": 166,
               "zh_CN": "\u54e5\u4eec\u513f\uff0c\u4f60\u8bf4\u7684\u4e1c\u897f\u5f88\u96be\u6d88\u5316\u554a\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ud734, \uc815\ub9d0 \uac10\ub2f9\ud574\uc57c \ud560 \uac8c \ub9ce\ub2e4\ub2c8\uae4c. \uadf8\ub807\uc9c0?<<A<<[CHANGED 2018/03/14]",
@@ -6369,7 +6369,7 @@
           {
             "message": {
               "": "Lea? Maybe a little stroll around the ship would help you to loosen up a bit?",
-              "en_US": "Lea? Talvez um pequeno passeio pelo navio te ajude se soltar um pouco?",
+              "en_US": "Lea? Que tal fazer um pequeno passeio pelo navio? Isso pode te animar um pouco.",
               "langUid": 168,
               "zh_CN": "\u8389\u4e9a\uff1f\u5e26\u4f60\u53bb\u8239\u4e0a\u901b\u901b\u653e\u677e\u4e00\u4e0b\u600e\u4e48\u6837\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub808\uc544? \uc544\ub2c8\uba74 \ubc30 \uc704\uc5d0\uc11c \uc870\uae08 \uc0b0\ucc45\ud558\ub294 \uac8c \ub354 \ub0ab\uaca0\uc5b4?<<A<<[CHANGED 2018/03/14]",
@@ -6400,7 +6400,7 @@
           {
             "message": {
               "": "Surely that's no problem, right Cap?",
-              "en_US": "Certamente isso não é problema, certo Cap?",
+              "en_US": "Tudo bem, Cap?",
               "langUid": 169,
               "zh_CN": "\u4f60\u6ca1\u4ec0\u4e48\u610f\u89c1\u5427\uff0c\u8239\u957f\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uadf8\ub798\ub3c4 \uc0c1\uad00\uc5c6\uc8e0, \uc120\uc7a5\ub2d8?<<A<<[CHANGED 2018/03/14]",
@@ -6421,8 +6421,8 @@
           },
           {
             "message": {
-              "": " I sure don't like ye deciding that by yerself...",
-              "en_US": "Não gosto muito que decida isso sozinha...",
+              "": "I sure don't like ye deciding that by yerself...",
+              "en_US": "Não gosto quando você decide essas coisas sozinha...",
               "langUid": 170,
               "zh_CN": "\u6211\u4e0d\u559c\u6b22\u4f60\u8fd9\u4e48\u81ea\u4f5c\u4e3b\u5f20...<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc5b4\ucc28\ud53c \ud63c\uc790 \uc815\ud560 \uac70\uba74\uc11c \ubb58 \ubb3c\uc5b4\ubd10...<<A<<[CHANGED 2018/03/14]",
@@ -6467,7 +6467,7 @@
           {
             "message": {
               "": "Why am I now...\\.",
-              "en_US": "Por que agora eu...\\.",
+              "en_US": "Por que eu...\\.",
               "langUid": 173,
               "zh_CN": "\u5e72\u561b\u662f\u6211...\\.<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc65c \ub0b4\uac00...\\.<<A<<[CHANGED 2018/03/14]",
@@ -6732,7 +6732,7 @@
           {
             "message": {
               "": "Something the poor girl is probably worrying about.",
-              "en_US": "Algo com que a pobre garota provavelmente está se preocupando.",
+              "en_US": "Algo com que a pobre garota provavelmente já está preocupada.",
               "langUid": 178,
               "zh_CN": "\u90a3\u59d1\u5a18\u53ef\u80fd\u5f88\u62c5\u5fc3\u7684\u4e8b\u60c5\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc800 \ubd88\uc30d\ud55c \uaf2c\ub9c8 \ub140\uc11d\uc774 \uac71\uc815\ud558\ub294 \uac83\uc5d0 \uad00\ud55c \uc9c8\ubb38\uc774\uc57c.<<A<<[CHANGED 2018/03/14]",
@@ -7981,7 +7981,7 @@
           {
             "message": {
               "": "You have been on this moon for quite some time now.",
-              "en_US": "Você já está nesta lua há bastante tempo.",
+              "en_US": "Você já está neste planeta há bastante tempo.",
               "langUid": 232,
               "zh_TW": "\u4f60\u5011\u5df2\u7d93\u5728\u9019\u500b\u661f\u7403\u4e0a\u5446\u4e86\u633a\u4e45\u4e86\u5427\u3002<<A<<[CHANGED 2021/03/05]",
               "ko_KR": "\ub124\uac00 \uc774 \ud589\uc131\uc5d0 \uc628 \uc9c0\ub3c4 \uc2dc\uac04\uc774 \uaf64 \ub9ce\uc774 \ud758\ub800\uc9c0.<<A<<[CHANGED 2021/03/05]",

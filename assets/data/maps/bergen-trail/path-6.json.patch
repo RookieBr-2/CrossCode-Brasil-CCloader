@@ -10382,7 +10382,7 @@
                 }, {
                     "message": {
                         "": "It's just a \\c[3]regular\\c[0] rock, though.",
-                        "en_US": "É apenas uma rocha \\c[3]quadrada\\c[0].",
+                        "en_US": "Mas só colocaram uma rocha \\c[3]quadrada\\c[0].",
                         "de_DE": "Stattdessen blo\u00df ein \\c[3]stinknormaler\\c[0] Stein.",
                         "zh_CN": " \n                                 \n\n\u53ef\u8fd9\u53ea\u662f\u4e00\u5757\\c[3]\u6b63\u5e38\u7684\\c[0]\u77f3\u5934\u800c\u5df2\u3002<<A<<[CHANGED 2018/09/19]",
                         "ja_JP": "\u3067\u3082\u3001\u3042\u308b\u306e\u306f\u3054\u304f\\c[3]\u666e\u901a\\c[0]\u306e\u5ca9\u3060\u3051\u3002<<A<<[CHANGED 2018/09/19]",

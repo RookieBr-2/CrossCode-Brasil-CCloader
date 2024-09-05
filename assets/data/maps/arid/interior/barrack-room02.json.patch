@@ -455,7 +455,7 @@
             }, {
                 "message": {
                     "": "Alright...",
-                    "en_US": "Certo...",
+                    "en_US": "Ok...",
                     "langUid": 8,
                     "zh_CN": "\u597d...<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "Alles klar...",
@@ -735,7 +735,7 @@
             }, {
                 "message": {
                     "": "I wonder what just happened. Sounded like somebody was fighting within the dormitory.",
-                    "en_US": "Eu me pergunto o que acabou de acontecer. Parecia que alguém estava lutando dentro do dormitório.",
+                    "en_US": "Eu queria saber o que acabou de acontecer. Parecia que alguém estava lutando dentro do dormitório.",
                     "langUid": 16,
                     "zh_CN": "\u4e0d\u77e5\u9053\u53d1\u751f\u4e86\u4ec0\u4e48\u3002\u597d\u50cf\u6709\u4eba\u5728\u5bbf\u820d\u91cc\u6253\u67b6\u4e86\u3002<<A<<[CHANGED 2018\/03\/14]",
                     "de_DE": "Ich frag mich, was da los war. H\u00f6rte sich so an, als ob jemand auf dem Flur gek\u00e4mpft h\u00e4tte.",
@@ -769,7 +769,7 @@
             }, {
                 "message": {
                     "": "Uhm...\\. is everything ok?",
-                    "en_US": "Uhm... \\. está tudo bem?",
+                    "en_US": "Hmm... \\. está tudo bem?",
                     "langUid": 18,
                     "zh_CN": "\u55ef...\\.\u4f60\u6ca1\u4e8b\u5427\uff1f<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "\u00d6hm...\\. Ist alles in Ordnung?",
@@ -888,7 +888,7 @@
             }, {
                 "message": {
                     "": "Uhm...\\. Should we just go to the quest hub for today's quest?",
-                    "en_US": "Hum...\\. Devemos apenas ir ao centro de missões para a missão de hoje?",
+                    "en_US": "Hmm...\\. Devemos ir direto para a central de missões hoje?",
                     "langUid": 25,
                     "zh_CN": "\u5443...\\.\u90a3\u6211\u4eec\u53bb\u4efb\u52a1\u4e2d\u5fc3\u770b\u770b\u4eca\u5929\u7684\u4efb\u52a1\uff1f<<A<<[CHANGED 2018\/10\/04]",
                     "de_DE": "\u00d6hm...\\. Sollen wir einfach zum Quest Hub gehen, um uns die heutige Quest zu holen?",
@@ -964,7 +964,7 @@
             }, {
                 "task": {
                     "": "Go to the \\c[3]Quest Hub\\c[0] in \\c[3]Vermillion Wasteland - West Town\\c[0] together with Lukas.",
-                    "en_US": "Vá para o \\c[3]Centro de Missões\\c[0] em \\c[3]Torre Oeste - Deserto Carmesim\\[0] junto com Lukas.",
+                    "en_US": "Vá para a \\c[3]Central de Missões\\c[0] em \\c[3]Torre Oeste - Deserto Carmesim\\[0] junto com Lukas.",
                     "langUid": 29,
                     "zh_CN": "\u4e0e\u5362\u5361\u65af\u4e00\u8d77\u524d\u5f80\\c[3]\u6731\u7ea2\u5e9f\u571f - \u897f\u57ce\\c[0]\u7684\\c[3]\u4efb\u52a1\u4e2d\u5fc3\\c[0]\u3002<<A<<[CHANGED 2018\/03\/14]",
                     "ko_KR": "\ub8e8\uce74\uc2a4\uc640 \ud568\uaed8 \\c[3]\uc8fc\ud64d\uc758 \ud669\ubb34\uc9c0 - \uc11c\ucabd \ub9c8\uc744\\c[0]\uc5d0 \uc788\ub294 \\c[3]\ud018\uc2a4\ud2b8 \ud5c8\ube0c\\c[0]\ub85c \uc774\ub3d9\ud558\uc138\uc694.<<A<<[CHANGED 2018\/03\/14]",

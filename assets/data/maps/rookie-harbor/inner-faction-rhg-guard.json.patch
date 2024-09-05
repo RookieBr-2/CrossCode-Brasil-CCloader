@@ -579,7 +579,7 @@
                     {
                       "message": {
                         "": "You can find the guard in question in the central area of the Marketplace, near the \\v[lore.title.seeker]-HUB.\\.",
-                        "en_US": "Você pode encontrar o guarda em questão no meio do centro comercial, próximo ao \\v[lore.title.seeker] Hub.\\.",
+                        "en_US": "Você pode encontrar o guarda em questão no meio do centro comercial, próximo à Central \\v[lore.title.seeker].",
                         "de_DE": "Du findest die diensthabende Wache im Zentrum des Marktplatzes, in der N\u00e4he des Seeker Hubs.",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u4f60\u5728\u5e02\u573a\u4e2d\u592e\u533a\u57df\u5c31\u80fd\u627e\u5230\u90a3\u4f4d\u6709\u9ebb\u70e6\u7684\u5b88\u536b\uff0c\u5c31\u5728\\v[lore.title.seeker]\u4e2d\u5fc3\u9644\u8fd1\u3002\\.",
@@ -1079,7 +1079,7 @@
                     {
                       "message": {
                         "": "Meet up with him at the harbor at \\c[3]Beginners Arc\\c[0] and he will brief you on the details.",
-                        "en_US": "Encontre-se com ele no \\c[3]Arco dos Iniciantes\\c[0] e ele irá informá-la sobre os detalhes",
+                        "en_US": "Encontre-se com ele no \\c[3]Arco dos Iniciantes\\c[0] e ele irá informá-la sobre os detalhes.",
                         "de_DE": "Du findest ihn am \\c[3]Anf\u00e4ngerbogen\\c[0] des Hafens. Er wird dich mit den Einzelheiten vertraut machen.",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u524d\u5f80\\c[3]\u65b0\u624b\u6865\\c[0]\u7684\u6e2f\u53e3\u4e0e\u4ed6\u89c1\u9762\uff0c\u4ed6\u4f1a\u8ddf\u4f60\u7b80\u8981\u8bf4\u660e\u8be6\u60c5\u7684\u3002<<A<<[CHANGED 2018/09/19]",

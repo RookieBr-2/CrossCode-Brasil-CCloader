@@ -5534,7 +5534,7 @@
             }, {
                 "message": {
                     "": "And this... is the cliff side.",
-                    "en_US": "E este... é o lado do penhasco.",
+                    "en_US": "E aqui... estão os penhascos.",
                     "langUid": 120,
                     "zh_CN": "\u55ef...\u5230\u8fd9\u91cc\u5c31\u662f\u60ac\u5d16\u4e86\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "Und hier... sind die Klippen.",
@@ -5602,7 +5602,7 @@
             }, {
                 "message": {
                     "": "And yes...\\. there is indeed no exit.",
-                    "en_US": "E sim...\\. não há realmente nenhuma saída.",
+                    "en_US": "E sim...\\. não existe nenhuma saída.",
                     "langUid": 131,
                     "zh_CN": "\u800c\u4e14\u6ca1\u9519...\\.\u8fd9\u91cc\u6ca1\u6709\u51fa\u53e3\u3002<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "Und ja...\\. es gibt tats\u00e4chlich keinen Ausgang.",
@@ -5636,7 +5636,7 @@
             }, {
                 "message": {
                     "": "Well actually...\\. There is that one door just over here!",
-                    "en_US": "Bem, na verdade...\\. Há aquela porta bem aqui!",
+                    "en_US": "Bem, na verdade...\\. Tem aquela porta bem ali!",
                     "langUid": 133,
                     "zh_CN": "\u7b49\u7b49...\\.\u90a3\u8fb9\u5c31\u6709\u4e00\u4e2a\u95e8\uff01<<A<<[CHANGED 2017\/10\/10]",
                     "de_DE": "Das hei\u00dft...\\. Warte mal...\\. Vielleicht diese eine T\u00fcr dort dr\u00fcben!",
@@ -5861,7 +5861,7 @@
                     }, {
                         "message": {
                             "": "I have no idea where it leads but it's as close as it gets to an exit.",
-                            "en_US": "Eu não faço ideia de onde isso leva, mas é o mais perto que chega de uma saída.",
+                            "en_US": "Eu não faço ideia pra onde ela leva, mas é o mais próximo de uma saída.",
                             "langUid": 149,
                             "zh_CN": "\u4e0d\u77e5\u9053\u8fd9\u6247\u95e8\u901a\u5411\u54ea\u91cc\uff0c\u4f46\u662f\u8d77\u7801\u6709\u51fa\u53e3\u4e86\u3002<<A<<[CHANGED 2017\/10\/10]",
                             "de_DE": "Ich habe keine Ahnung, wo sie hinf\u00fchrt, aber sie kommt einem Ausgang am n\u00e4chsten.",
@@ -5878,7 +5878,7 @@
                     }, {
                         "message": {
                             "": "Of course,\\. it's locked.",
-                            "en_US": "Claro,\\. está trancado.",
+                            "en_US": "Claro,\\. está trancada.",
                             "langUid": 150,
                             "zh_CN": "\u679c\u4e0d\u5176\u7136\uff0c\\.\u9501\u4f4f\u4e86\u3002<<A<<[CHANGED 2018\/09\/19]",
                             "de_DE": "Klar,\\. verschlossen.",
@@ -5976,7 +5976,7 @@
                     }, {
                         "message": {
                             "": "I didn't plan to end the tour on such a depressing note.",
-                            "en_US": "Eu não planejava terminar a excursão com uma nota tão deprimente.",
+                            "en_US": "Eu não planejava terminar a excursão de uma forma tão deprimente.",
                             "langUid": 152,
                             "zh_CN": "\u6211\u53ef\u6ca1\u60f3\u5c31\u8fd9\u4e48\u7ed3\u675f\u3002<<A<<[CHANGED 2017\/10\/10]",
                             "de_DE": "War nicht meine Absicht, die Tour mit so einer deprimierenden Erkenntnis zu beenden.",
@@ -5993,7 +5993,7 @@
                     }, {
                         "message": {
                             "": "Actually, now that I think about it...\\. there is one more thing I'd like to show you!",
-                            "en_US": "Na verdade, agora que penso nisso...\\. tem mais uma coisa que gostaria de mostrar para você!",
+                            "en_US": "Pensando bem...\\. tem mais uma coisa que eu queria mostrar para você!",
                             "langUid": 153,
                             "zh_CN": "\u5bf9\u4e86\u6211\u60f3\u8d77\u6765\u4e86...\\.\u6211\u8fd8\u6709\u4e2a\u4e1c\u897f\u8981\u7ed9\u4f60\u770b\uff01<<A<<[CHANGED 2017\/10\/10]",
                             "de_DE": "Oh! Da f\u00e4llt mir ein...\\. Eine Sache gibt es noch, die ich dir zeigen will!",
