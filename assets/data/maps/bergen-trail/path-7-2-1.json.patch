@@ -1039,7 +1039,7 @@
             }, {
                 "message": {
                     "": "Look at this bunny. It sure looks different don't you think?",
-                    "en_US": "Olhe para este coelho. Com certeza parece diferente, não acha?",
+                    "en_US": "Esse coelho... Ele parece muito diferente, não é?",
                     "langUid": 2,
                     "zh_CN": "\u5feb\u770b\u90a3\u53ea\u5154\u5b50\u3002\u5b83\u770b\u8d77\u6765\u6709\u4e9b\u7279\u522b\u5bf9\u5427\uff1f<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u3053\u306e\u30a6\u30b5\u30ae\u3092\u898b\u3066\u304f\u308c\u3088\u3002\n\u3069\u3053\u304b\u9055\u3063\u3066\u898b\u3048\u306a\u3044\u304b\u3044\uff1f<<A<<[CHANGED 2018/07/09]",
@@ -1055,7 +1055,7 @@
             }, {
                 "message": {
                     "": "Do not tell me there actually was a legendary bunny...",
-                    "en_US": "Não me diga que realmente havia um coelho lendário...",
+                    "en_US": "Não me diga que o tal coelhapo lendário realmente existia...",
                     "langUid": 3,
                     "zh_CN": "\u522b\u8ddf\u6211\u8bf4\u8fd9\u5c31\u662f\u4f20\u5947\u5154\u5b50...<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u672c\u5f53\u306b\u4f1d\u8aac\u306e\u30a6\u30b5\u30ae\u304c\u3044\u305f\u306a\u3093\u3066\n\u8a00\u308f\u306a\u3044\u3067\u304f\u308c\u3088...<<A<<[CHANGED 2018/09/19]",
@@ -1087,7 +1087,7 @@
             }, {
                 "message": {
                     "": "Let us agree to never tell Jean, okay?",
-                    "en_US": "Vamos concordar em nunca contar para Jean, certo?",
+                    "en_US": "É melhor não contar isso para Jean, certo?",
                     "langUid": 5,
                     "zh_CN": "\u5173\u4e8e\u8fd9\u4e8b\u6211\u4eec\u522b\u544a\u8bc9\u7b80\uff0c\u884c\u5427\uff1f<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u30b8\u30fc\u30f3\u306b\u306f\u8a00\u308f\u306a\u3044\u3067\u304a\u3053\u3046\u3001\n\u3044\u3044\u306d\uff1f<<A<<[CHANGED 2018/09/19]",
@@ -1119,7 +1119,7 @@
             }, {
                 "message": {
                     "": "Not like you could anyway I guess.",
-                    "en_US": "Não é como se você pudesse, eu acho.",
+                    "en_US": "Na verdade, você não conseguiria contar mesmo que tentasse...",
                     "langUid": 7,
                     "zh_CN": "\u6211\u89c9\u5f97\u4f60\u4e5f\u6ca1\u6cd5\u544a\u8bc9\u5979\u3002<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u305d\u3082\u305d\u3082\u3001\n\u8a00\u3044\u305f\u304f\u3066\u3082\u8a00\u3048\u306a\u3044\u3051\u308c\u3069\u306d\u3002<<A<<[CHANGED 2018/07/09]",

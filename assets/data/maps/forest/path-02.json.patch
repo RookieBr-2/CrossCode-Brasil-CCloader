@@ -2671,7 +2671,7 @@
           "icon": "INFO",
           "hoverText": {
             "": "\\i[arrow-w] Tunnel to \\v[area.autumn-fall.name]\n\\i[arrow-e] \\v[area.forest.name] Round trip\n\\i[arrow-s] The Cave Inn\n",
-            "en_US": "\\i[arrow-w] Túnel para o \\v[area.autumn-fall.name]\n\\i[arrow-e] \\v[area.forest.name] Ida e volta\n\\i[arrow-s] A Pousada Caverna",
+            "en_US": "\\i[arrow-w] Túnel para o \\v[area.autumn-fall.name]\n\\i[arrow-e] \\v[area.forest.name] Ida e volta\n\\i[arrow-s] A Pousada da Caverna",
             "langUid": 1,
             "zh_CN": "\\i[arrow-w] \u901a\u5f80 \\v[area.autumn-fall.name]\n\\i[arrow-e] \u901a\u5f80 \\v[area.forest.name]\n\\i[arrow-s] \u6d1e\u5929\u65c5\u9986<<A<<[CHANGED 2017/10/10]",
             "de_DE": "\\i[arrow-w] Tunnel nach Autumn's Fall\n\\i[arrow-e] Saphirgrat-Rundweg\n\\i[arrow-s] H\u00f6hlenherberge\n",

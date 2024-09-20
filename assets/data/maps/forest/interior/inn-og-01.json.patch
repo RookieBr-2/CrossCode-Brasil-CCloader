@@ -998,7 +998,7 @@
                 {
                   "message": {
                     "": "Brought me something, right?",
-                    "en_US": "Você me trouxe algo, certo?",
+                    "en_US": "Você veio me trazer algo, não é?",
                     "de_DE": "Hast was mitgebracht, richtig?",
                     "zh_CN": "\u6709\u4e1c\u897f\u7ed9\u6211\u5417\uff1f<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u79c1\u306b\u4f55\u304b\u6301\u3063\u3066\u304d\u305f\u3093\u3060\u308d\u3046\uff1f<<A<<[CHANGED 2018/07/09]",
@@ -1043,7 +1043,7 @@
                 {
                   "message": {
                     "": "Sensed something good in you. Also found my drill.",
-                    "en_US": "Senti algo de bom em você. Também encontrei minha broca.",
+                    "en_US": "Senti algo de bom em você. Além disso, você trouxe minha broca.",
                     "de_DE": "Sp\u00fcrte was Gutes in dir. Hast auch meinen Bohrer gefunden.",
                     "zh_CN": "\u89c9\u5f97\u4f60\u6709\u6240\u4e0d\u540c\u3002\u8fd8\u6709\uff0c\u4f60\u627e\u5230\u4e86\u6211\u7684\u94bb\u5934\u3002<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u541b\u304b\u3089\u3044\u3044\u3082\u306e\u3092\u611f\u3058\u305f\u304b\u3089\u306d\u3002\n\u79c1\u306e\u30c9\u30ea\u30eb\u3082\u898b\u3064\u3051\u3066\u304f\u308c\u305f\u3057\u3002<<A<<[CHANGED 2018/07/09]",
@@ -1058,7 +1058,7 @@
                 {
                   "message": {
                     "": "Feeling you're ready for its true power.",
-                    "en_US": "Acho que você está pronta para o seu verdadeiro poder.",
+                    "en_US": "Acho que você está pronta para usar o verdadeiro poder dela.",
                     "de_DE": "Denke, du bist bereit f\u00fcr seine wahre Kraft.",
                     "zh_CN": "\u6211\u60f3\u4f60\u5df2\u7ecf\u51c6\u5907\u597d\u63a5\u53d7\u5b83\u771f\u6b63\u7684\u529b\u91cf\u4e86\u3002<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u305d\u3044\u3064\u306e\u771f\u306e\u529b\u306b\u5bfe\u3059\u308b\u6e96\u5099\u3082\n\u3067\u304d\u3066\u3044\u308b\u3088\u3046\u3060\u306a\u3002<<A<<[CHANGED 2018/09/19]",
@@ -1103,7 +1103,7 @@
                 {
                   "message": {
                     "": "Rumor says each major settlement holds them.",
-                    "en_US": "Rumores dizem que todo assentamento tem uma delas.",
+                    "en_US": "Os rumores indicam que todas as colônias têm uma dessas.",
                     "de_DE": "Man sagt, jede gr\u00f6\u00dfere Siedlung hat einen.",
                     "zh_CN": "\u4f20\u8a00\u8bf4\u5b83\u4eec\u5728\u8fd9\u91cc\u7684\u4e94\u4e2a\u4e3b\u8981\u57ce\u9547\u4e2d\u3002<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u3046\u308f\u3055\u306b\u3088\u308b\u3068\u3001\u4e3b\u8981\u306a\u533a\u57df\u306b\n\u3072\u3068\u3064\u305a\u3064\u3042\u308b\u3089\u3057\u3044\u3002<<A<<[CHANGED 2018/07/09]",
@@ -1133,7 +1133,7 @@
                 {
                   "message": {
                     "": "Gotta work if ya want something good, aye?",
-                    "en_US": "Precisa trabalhar se você quer algo bom, não é?",
+                    "en_US": "É preciso trabalhar duro para obter algo de valor, não acha?",
                     "de_DE": "Erst die Arbeit, dann das Vergn\u00fcgen, woll?",
                     "zh_CN": "\u6709\u52b3\u624d\u6709\u83b7\u5bf9\u5427\uff1f<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u3044\u3044\u3082\u306e\u304c\u307b\u3057\u3051\u308c\u3070\n\u50cd\u304b\u306a\u3044\u3068\u306a\u3002\u305d\u3046\u3060\u308d\u3046\uff1f<<A<<[CHANGED 2018/07/09]",
@@ -1250,7 +1250,7 @@
               {
                 "message": {
                   "": "Rumor says each major settlement holds them.",
-                  "en_US": "Rumores dizem que todo assentamento tem uma delas.",
+                  "en_US": "Os rumores indicam que todas as colônias têm uma dessas.",
                   "de_DE": "Man sagt, jede gr\u00f6\u00dfere Siedlung hat einen.",
                   "zh_CN": "\u4f20\u8a00\u8bf4\u5b83\u4eec\u5728\u8fd9\u91cc\u7684\u4e94\u4e2a\u4e3b\u8981\u57ce\u9547\u4e2d\u3002<<A<<[CHANGED 2018/07/09]",
                   "ja_JP": "\u3046\u308f\u3055\u306b\u3088\u308b\u3068\u3001\u4e3b\u8981\u306a\u533a\u57df\u306b\n\u3072\u3068\u3064\u305a\u3064\u3042\u308b\u3089\u3057\u3044\u3002<<A<<[CHANGED 2018/07/09]",
@@ -1280,7 +1280,7 @@
               {
                 "message": {
                   "": "Gotta work if ya want something good, aye?",
-                  "en_US": "Precisa trabalhar se você quer algo bom, não é?",
+                  "en_US": "É preciso trabalhar duro para obter algo de valor, não acha?",
                   "de_DE": "Erst die Arbeit, dann das Vergn\u00fcgen, woll?",
                   "zh_CN": "\u6709\u52b3\u624d\u6709\u83b7\u5bf9\u5427\uff1f<<A<<[CHANGED 2018/07/09]",
                   "ja_JP": "\u3044\u3044\u3082\u306e\u304c\u307b\u3057\u3051\u308c\u3070\n\u50cd\u304b\u306a\u3044\u3068\u306a\u3002\u305d\u3046\u3060\u308d\u3046\uff1f<<A<<[CHANGED 2018/07/09]",
@@ -2508,7 +2508,7 @@
                 {
                   "message": {
                     "": "I must find this individual. Only once I see him can I check his account, I'm afraid.",
-                    "en_US": "Preciso encontrar este indivíduo. Somente quando eu o vir é que poderei verificar sua conta.",
+                    "en_US": "Preciso encontrar este indivíduo. Só então poderei checar sua conta.",
                     "de_DE": "Ich muss diese Person finden. Vorher kann ich ihn leider nicht \u00fcberpr\u00fcfen.",
                     "zh_CN": "\u6211\u5fc5\u987b\u627e\u5230\u8fd9\u540d\u73a9\u5bb6\u3002\u53ea\u6709\u89c1\u5230\u4ed6\u6211\u624d\u80fd\u68c0\u67e5\u4ed6\u7684\u8d26\u53f7\u3002<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u79c1\u306f\u305d\u3044\u3064\u3092\u898b\u3064\u3051\u306a\u3051\u308c\u3070\u3044\u3051\u307e\u305b\u3093\u3002\n\u4e00\u5ea6\u3084\u3064\u306b\u4f1a\u3048\u3070\u3001\u3084\u3064\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\n\u78ba\u8a8d\u3067\u304d\u308b\u306f\u305a\u306a\u306e\u3067\u3059\u304c\u3002<<A<<[CHANGED 2018/09/19]",
@@ -2595,7 +2595,7 @@
                 {
                   "message": {
                     "": "And there are also these odd probes. He managed to smuggle objects into the game that are obviously not allowed.",
-                    "en_US": "E há também aquelas sondas estranhas. Ele conseguiu contrabandear objetos para o jogo que obviamente não são permitidos.",
+                    "en_US": "Além disso, existem aquelas sondas estranhas. Ele conseguiu trazer objetos para o jogo que, evidentemente, não são autorizados.",
                     "de_DE": "Und diese Sonden. Irgendwie hat er es geschafft, Objekte ins Spiel zu schmuggeln, die nicht erlaubt sind.",
                     "zh_CN": "\u53e6\u5916\u4ed6\u8fd8\u6709\u4e00\u4e2a\u5947\u602a\u7684\u5c0f\u63a2\u673a\u3002\u4ed6\u628a\u4e00\u4e9b\u4e0d\u88ab\u5b98\u65b9\u5141\u8bb8\u7684\u4e1c\u897f\u5077\u8fd0\u8fdb\u4e86\u56ed\u533a\u3002<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u5947\u5999\u306a\u30d7\u30ed\u30fc\u30d6\u3082\u305d\u306e\u305f\u3081\u306e\u3082\u306e\u3067\u3057\u3087\u3046\u3002\n\u3084\u3064\u306f\u660e\u3089\u304b\u306b\u672a\u8a8d\u53ef\u3067\u3042\u308b\u30aa\u30d6\u30b8\u30a7\u30af\u30c8\u3092\n\u30b2\u30fc\u30e0\u5185\u306b\u6301\u3061\u8fbc\u3093\u3060\u306e\u3067\u3059\u3002<<A<<[CHANGED 2018/09/19]",
@@ -2704,7 +2704,7 @@
                     {
                       "message": {
                         "": "Henry might have done something to them, judging from my previous reports.",
-                        "en_US": "Henry poderia ter feito algo a eles, a julgar por meus relatórios anteriores.",
+                        "en_US": "Henry pode ter feito algo com eles, a julgar por meus relatórios anteriores.",
                         "langUid": 478,
                         "zh_CN": "\u6839\u636e\u6211\u4e4b\u524d\u7684\u62a5\u544a\uff0c\u6211\u89c9\u5f97\u4ea8\u5229\u53ef\u80fd\u5bf9\u8fd9\u4e9b\u5730\u6807\u505a\u4e86\u4e9b\u4ec0\u4e48\u3002<<A<<[CHANGED 2018/07/09]",
                         "ja_JP": "\u4ee5\u524d\u306e\u5831\u544a\u304b\u3089\u5224\u65ad\u3059\u308b\u306b\u3001\n\u30d8\u30f3\u30ea\u30fc\u306f\u30e9\u30f3\u30c9\u30de\u30fc\u30af\u306b\n\u306a\u306b\u304b\u3057\u3066\u3044\u308b\u3088\u3046\u3067\u3059\u3002<<A<<[CHANGED 2018/07/09]",
@@ -2773,7 +2773,7 @@
                     {
                       "message": {
                         "": "This is indeed troublesome.",
-                        "en_US": "Isto é realmente problemático.",
+                        "en_US": "Isso é muito preocupante.",
                         "langUid": 486,
                         "zh_CN": "\u8fd9\u7684\u786e\u5f88\u96be\u529e\u3002<<A<<[CHANGED 2018/07/09]",
                         "ja_JP": "\u307e\u3063\u305f\u304f\u3001\u5384\u4ecb\u306a\u8a71\u3060\u306d\u3002<<A<<[CHANGED 2018/07/09]",
@@ -3106,7 +3106,7 @@
                 {
                   "message": {
                     "": "Now, let's see... I can use a terminal to cross-reference your data, Lady Lea.",
-                    "en_US": "Vejamos... Eu posso usar um terminal para cruzar seus dados, Senhorita Lea.",
+                    "en_US": "Vamos ver... Eu posso usar um terminal para cruzar seus dados, Senhorita Lea.",
                     "de_DE": "Mal sehen... Ich kann ein Terminal benutzen, um Ihre Daten zu \u00fcberpr\u00fcfen, Fr\u00e4ulein Lea.<<A<<[CHANGED 2021/05/22]",
                     "zh_CN": "\u8ba9\u6211\u770b\u770b...\u6211\u80fd\u7528\u7ec8\u7aef\u673a\u5bf9\u4f60\u91c7\u96c6\u7684\u6570\u636e\u8fdb\u884c\u4ea4\u53c9\u5206\u6790\uff0c\u8389\u4e9a\u5c0f\u59d0\u3002<<A<<[CHANGED 2021/05/22]",
                     "ja_JP": "\u30c7\u30fc\u30bf\u3092\u898b\u305b\u3066\u304f\u3060\u3055\u3044...\n\u30bf\u30fc\u30df\u30ca\u30eb\u3092\u4f7f\u3063\u3066\u3001\u3042\u306a\u305f\u306e\n\u30c7\u30fc\u30bf\u3092\u53c2\u7167\u3057\u307e\u3059\u304b\u3089\u3002<<A<<[CHANGED 2021/05/22]",
@@ -3627,7 +3627,7 @@
                 {
                   "message": {
                     "": "Well, that is quite unexpected. I will just have to disconnect him from this terminal then.",
-                    "en_US": "Bem, isso foi inesperado. Vou simplesmente desconectá-lo através do terminal.",
+                    "en_US": "Bem, isso foi inesperado. Vou desconectá-lo através do terminal.",
                     "de_DE": "Das war unerwartet. Ich werde ihn einfach \u00fcber das Terminal sperren.",
                     "zh_CN": "\u5443\uff0c\u5c45\u7136\u8fd9\u4e48\u56a3\u5f20\u3002\u6211\u53ea\u8981\u628a\u4ed6\u4ece\u8fd9\u53f0\u7ec8\u7aef\u673a\u4e0a\u65ad\u5f00\u5c31\u884c\u4e86\u3002<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u3075\u3080\u3001\u3053\u3093\u306a\u5c55\u958b\u306f\u307e\u3063\u305f\u304f\n\u4e88\u60f3\u3057\u3066\u307e\u305b\u3093\u3067\u3057\u305f\u306d\u3002\n\u307e\u3042\u3001\u5f7c\u306e\u63a5\u7d9a\u3092\u3053\u306e\u30bf\u30fc\u30df\u30ca\u30eb\u304b\u3089\n\u5207\u65ad\u3059\u308c\u3070\u3044\u3044\u3060\u3051\u306e\u8a71\u3067\u3059\u304c\u3002<<A<<[CHANGED 2018/07/09]",
@@ -3812,7 +3812,7 @@
                 {
                   "message": {
                     "": "This should be simply impossible, Lady Lea.",
-                    "en_US": "Isto deveria ser praticamente impossível, Senhorita Lea.",
+                    "en_US": "Isto deveria ser impossível, Senhorita Lea.",
                     "de_DE": "Das sollte absolut unm\u00f6glich sein, Fr\u00e4ulein Lea.",
                     "zh_CN": "\u6709\u4e24\u4e2a\u53ef\u80fd\uff0c\u8389\u4e9a\u5c0f\u59d0\u3002<<A<<[CHANGED 2019/05/14]",
                     "ja_JP": "\u3053\u3093\u306a\u306e\u672c\u5f53\u306b\u3042\u308a\u3048\u306a\u3044\u3067\u3059\u3088\u3002<<A<<[CHANGED 2019/05/14]",
@@ -3830,7 +3830,7 @@
                 {
                   "message": {
                     "": "Either this fiend breached our security system quite severely, or...",
-                    "en_US": "Ou este diabinho violou nosso sistema de segurança bastante severamente, ou...",
+                    "en_US": "Ou este diabinho violou nosso sistema de segurança de forma bem severa, ou...",
                     "de_DE": "Entweder hat er unser Sicherheitssystem bereits geknackt oder...<<A<<[CHANGED 2021/05/22]",
                     "zh_CN": "\u8981\u4e48\u8fd9\u5bb6\u4f19\u5df2\u7ecf\u7a81\u7834\u4e86\u6211\u4eec\u7684\u5b89\u5168\u7cfb\u7edf...<<A<<[CHANGED 2021/05/22]",
                     "ja_JP": "\u3042\u306e\u60aa\u515a\u304c\u6211\u3005\u306e\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b7\u30b9\u30c6\u30e0\u3092\n\u3053\u3066\u3093\u3071\u3093\u306b\u3084\u3063\u3064\u3051\u305f\u304b...<<A<<[CHANGED 2021/05/22]",
@@ -4018,7 +4018,7 @@
                 {
                   "message": {
                     "": "Please see if you can find out anything from the players here in the Cave Inn.",
-                    "en_US": "Por favor, veja se você pode descobrir alguma coisa dos jogadores aqui na Pousada Caverna.",
+                    "en_US": "Por favor, veja se você consegue obter alguma informação dos jogadores aqui na Pousada da Caverna.",
                     "de_DE": "Seien Sie bitte so nett und befragen die Spieler in der Herberge hier.",
                     "zh_CN": "\u4f60\u770b\u770b\u80fd\u4e0d\u80fd\u4ece\u6d1e\u5929\u65c5\u9986\u7684\u73a9\u5bb6\u53e3\u4e2d\u6253\u63a2\u51fa\u4ec0\u4e48\u6d88\u606f\u3002<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u3042\u306a\u305f\u306f\u3001\u6d1e\u7a9f\u5bbf\u306b\u3044\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u304b\u3089\n\u306a\u306b\u304b\u805e\u304d\u51fa\u305b\u306a\u3044\u304b\u3084\u3063\u3066\u307f\u3066\u304f\u3060\u3055\u3044\u3002<<A<<[CHANGED 2018/07/09]",
@@ -4103,7 +4103,7 @@
                 {
                   "message": {
                     "": "I cannot find this user either and impersonating an Avatar just sounds too far-fetched.",
-                    "en_US": "Eu também não consigo encontrar este usuário e fazer-se passar por um Avatar parece muito rebuscado.",
+                    "en_US": "Eu também não consigo localizar esse usuário, e o fato dele fingir ser um Avatar é bem preocupante.",
                     "de_DE": "Ich kann den Nutzer auch nicht finden. Und einen Avatar zu imitieren, klingt zu weit hergeholt.<<A<<[CHANGED 2021/05/22]",
                     "zh_CN": "\u6211\u4e5f\u6ca1\u529e\u6cd5\u627e\u5230\u8fd9\u540d\u7528\u6237\uff0c\u4f46\u662f\u8981\u8bf4\u771f\u4eba\u4f2a\u88c5\u6210\u865a\u62df\u4eba\u7269\uff0c\u6211\u89c9\u5f97\u6709\u70b9\u4e0d\u592a\u53ef\u80fd\u3002<<A<<[CHANGED 2021/05/22]",
                     "ja_JP": "\u50d5\u3082\u5f7c\u3092\u898b\u3064\u3051\u3089\u308c\u306a\u3044\u3093\u3060\u3002\n\u4eba\u304c\u30a2\u30d0\u30bf\u30fc\u306b\u507d\u88c5\u3059\u308b\u306a\u3093\u3066\n\u307e\u305a\u3042\u308a\u3048\u306a\u3044\u8a71\u3060\u3002<<A<<[CHANGED 2021/05/22]",
@@ -4121,7 +4121,7 @@
                 {
                   "message": {
                     "": "Help Baxton, I will see what I can do on my end.",
-                    "en_US": "Ajude Baxton, Vou ver o que posso fazer.",
+                    "en_US": "Continue ajudando Baxton, enquanto isso, vou ver o que consigo fazer.",
                     "de_DE": "Hilf Baxton. Ich schaue, was ich tun kann.",
                     "zh_CN": "\u4f60\u7ee7\u7eed\u5e2e\u5df4\u514b\u897f\u987f\u5fd9\uff0c\u6211\u8fd9\u8fb9\u7ee7\u7eed\u67e5\u4e00\u4e0b\u3002<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u30d0\u30af\u30b9\u30c8\u30f3\u3092\u624b\u4f1d\u304a\u3046\u3002\n\u50d5\u3082\u306a\u306b\u304b\u3067\u304d\u306a\u3044\u304b\u3084\u3063\u3066\u307f\u308b\u3088\u3002<<A<<[CHANGED 2018/07/09]",
@@ -4227,7 +4227,7 @@
               {
                 "message": {
                   "": "Please see if you can find out anything from the players here in the Cave Inn.",
-                  "en_US": "Por favor, veja se você pode descobrir alguma coisa dos jogadores aqui na Pousada Caverna.",
+                  "en_US": "Por favor, veja se você pode descobrir alguma coisa dos jogadores aqui na Pousada da Caverna.",
                   "de_DE": "Seien Sie bitte so nett und befragen die Spieler in der Herberge hier.",
                   "zh_CN": "\u4f60\u770b\u770b\u80fd\u4e0d\u80fd\u4ece\u6d1e\u5929\u65c5\u9986\u7684\u73a9\u5bb6\u53e3\u4e2d\u6253\u63a2\u51fa\u4ec0\u4e48\u6d88\u606f\u3002<<A<<[CHANGED 2018/07/09]",
                   "ja_JP": "\u3042\u306a\u305f\u306f\u3001\u6d1e\u7a9f\u5bbf\u306b\u3044\u308b\u30d7\u30ec\u30a4\u30e4\u30fc\u304b\u3089\n\u306a\u306b\u304b\u805e\u304d\u51fa\u305b\u306a\u3044\u304b\u3084\u3063\u3066\u307f\u3066\u304f\u3060\u3055\u3044\u3002<<A<<[CHANGED 2018/07/09]",
@@ -4349,7 +4349,7 @@
                 {
                   "message": {
                     "": "Wonderful! What can you tell me?",
-                    "en_US": "Maravilhoso! O que você pode me dizer?",
+                    "en_US": "Ótimo! O que você pode me contar?",
                     "de_DE": "Wunderbar! Was k\u00f6nnen Sie mir sagen?",
                     "zh_CN": "\u592a\u597d\u4e86\uff0c\u8ddf\u6211\u8bf4\u8bf4\u5427\uff1f<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u3059\u3070\u3089\u3057\u3044\uff01\n\u805e\u304b\u305b\u3066\u3082\u3089\u3048\u307e\u3059\u304b\uff1f<<A<<[CHANGED 2018/07/09]",
@@ -4418,7 +4418,7 @@
                 {
                   "message": {
                     "": "Why, by using words, Lady Lea. Is something the matter?",
-                    "en_US": "Assim, usando palavras, Senhorita Lea. Há algum problema?",
+                    "en_US": "Usando palavras, Senhorita Lea. Há algum problema?",
                     "de_DE": "Mit Worten nat\u00fcrlich, Fr\u00e4ulein Lea. Stimmt etwas nicht?<<A<<[CHANGED 2021/05/22]",
                     "zh_CN": "\u4e3a\u4ec0\u4e48\u4e0d\u8bf4\u8bdd\u3002\u8389\u4e9a\u5c0f\u59d0\uff0c\u4f60\u9047\u5230\u4ec0\u4e48\u9ebb\u70e6\u4e86\u5417\uff1f<<A<<[CHANGED 2021/05/22]",
                     "ja_JP": "\u8a00\u8449\u3067\u4f1d\u3048\u3066\u304f\u308c\u308c\u3070\u3051\u3063\u3053\u3046\u3067\u3059\u3088\u3001\n\u30ec\u30a2\u3055\u3093\u3002\u306a\u306b\u304b\u554f\u984c\u3067\u3082\uff1f<<A<<[CHANGED 2021/05/22]",
@@ -4532,7 +4532,7 @@
                 {
                   "message": {
                     "": "I'm terribly sorry to hear that. What a cumbersome circumstance, indeed...",
-                    "en_US": "Lamento imensamente ouvir isso. Que circunstância incômoda, de fato..",
+                    "en_US": "Lamento imensamente ouvir isso. Que circunstância incômoda...",
                     "de_DE": "Tut mir wirklich leid, das zu h\u00f6ren. Das muss gewiss ein l\u00e4stiger Umstand f\u00fcr Sie sein...",
                     "zh_CN": "\u5f88\u4e3a\u4f60\u62b1\u6b49\u3002\u90a3\u73b0\u5728\u6211\u4eec\u4ea4\u6d41\u8d77\u6765\u5c31\u6bd4\u8f83\u9ebb\u70e6\u4e86\u3002<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u305d\u308c\u306f\u672c\u5f53\u306b\u6b8b\u5ff5\u3067\u3059\u306d\u3002\n\u5b9f\u306b\u5384\u4ecb\u306a\u554f\u984c\u3067\u3059...<<A<<[CHANGED 2018/09/19]",
@@ -4550,7 +4550,7 @@
                 {
                   "message": {
                     "": "However, am I right to assume you are able to track our perpetrator?",
-                    "en_US": "No entanto, estou certo ao assumir que você é capaz de rastrear o nosso infrator?",
+                    "en_US": "Porém, estou confiante de que você pode seguir o rastro do nosso infrator.",
                     "de_DE": "Doch ich vermute, dass Sie nun in der Lage sind, den Fl\u00fcchtigen zu finden?",
                     "zh_CN": "\u4e0d\u8fc7\uff0c\u6211\u60f3\u4f60\u80fd\u591f\u7ee7\u7eed\u8ffd\u67e5\u90a3\u4e2a\u5165\u4fb5\u8005\uff0c\u662f\u5427\uff1f<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u3067\u3082\u3001\u3042\u306a\u305f\u304c\u72af\u4eba\u3092\n\u8ffd\u3046\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u3088\u306d\uff1f<<A<<[CHANGED 2018/09/19]",
@@ -6595,7 +6595,7 @@
                 {
                   "message": {
                     "": "So if I have these materials, I can just put them together...",
-                    "en_US": "Então, se eu tiver esses materiais, posso simplesmente juntá-los...",
+                    "en_US": "Então, se eu tiver esses materiais, posso juntá-los...",
                     "langUid": 594,
                     "de_DE": "Wenn ich diese Materialien habe, kann ich das einfach zusammenbauen...",
                     "ja_JP": "\u3053\u3053\u306b\u66f8\u304b\u308c\u305f\u6750\u6599\u3055\u3048\u3042\u308c\u3070\u3001\n\u3053\u3044\u3064\u3092\u4f5c\u308c\u308b\u305e...<<A<<[CHANGED 2018/08/28]",
@@ -7757,7 +7757,7 @@
             "entity": { "global": true, "name": "daugther" },
             "text": {
               "": "Grandpa's Armor is still shiny as ever. ",
-              "en_US": "A Armadura do vovô ainda brilha como sempre.",
+              "en_US": "A Armadura do vovô continua brilhando como sempre.",
               "langUid": 614,
               "de_DE": "Opas R\u00fcstung gl\u00e4nzt wie immer.",
               "ja_JP": "\u304a\u3058\u3044\u3061\u3083\u3093\u306e\u93a7\u306f\n\u3042\u3044\u304b\u308f\u3089\u305a\u30d4\u30ab\u30d4\u30ab\u306d\u3002<<A<<[CHANGED 2018/09/02]",
@@ -7967,7 +7967,7 @@
               {
                 "message": {
                   "": "I'm still getting used to his family's traditions...",
-                  "en_US": "Ainda estou me acostumando às tradições de sua família...",
+                  "en_US": "E ainda estou me acostumando às tradições da família dele...",
                   "de_DE": "Ich habe mich immer noch nicht an diese ganzen Traditionen gew\u00f6hnt...",
                   "zh_CN": "\u8fd8\u6ca1\u4e60\u60ef\u8fd9\u91cc\u7684\u4f20\u7edf...<<A<<[CHANGED 2018/11/28]",
                   "ja_JP": "\u5f7c\u306e\u5bb6\u65cf\u306b\u6163\u308c\u308b\u306e\u306f\u307e\u3060\u6642\u9593\u304c\u5fc5\u8981\u3060\u3051\u3069...<<A<<[CHANGED 2019/01/10]",
@@ -8003,7 +8003,7 @@
               {
                 "message": {
                   "": "They said I don't have to do this, as they respect where I'm coming from...",
-                  "en_US": "Eles disseram que eu não tenho que fazer isso, pois respeitam a minha origem...",
+                  "en_US": "Eles disseram que eu não preciso fazer isso, pois respeitam a minha origem...",
                   "de_DE": "Alle meinten, ich m\u00fcsse das nicht tun, da sie meine eigene Herkunft respektieren...",
                   "zh_CN": "\u4ed6\u4eec\u8bf4\u6211\u4e0d\u5fc5\u8fd9\u4e48\u505a\uff0c\u56e0\u4e3a\u4ed6\u4eec\u5c0a\u91cd\u6211\u81ea\u5df1\u7684\u4f20\u7edf\u548c\u4e60\u4fd7...<<A<<[CHANGED 2018/09/02]",
                   "ja_JP": "\u307f\u3093\u306a\u305d\u3093\u306a\u3053\u3068\u3059\u308b\u5fc5\u8981\u306f\n\u306a\u3044\u3063\u3066\u8a00\u3046\u3093\u3067\u3059\u3001\u79c1\u306e\u30eb\u30fc\u30c4\u3092\n\u5c0a\u91cd\u3059\u308b\u304b\u3089\u3063\u3066...<<A<<[CHANGED 2018/09/02]",
@@ -8021,7 +8021,7 @@
               {
                 "message": {
                   "": "B-But how can I do that when they are all such nice people?",
-                  "en_US": "M-Mas como posso fazer isso quando todos eles são pessoas tão amáveis comigo?",
+                  "en_US": "Mas como eu poderia deixar de fazer isso se todos são tão gentis comigo?”",
                   "de_DE": "A-Aber wie k\u00f6nnte ich das nicht tun, wenn sie alle so freundlich zu mir sind?",
                   "zh_CN": "\u4f46\u662f\u4ed6\u4eec\u5bf9\u6211\u8fd9\u4e48\u597d\uff0c\u6211\u4e0d\u505a\u7684\u8bdd\u4e0d\u662f\u53cd\u800c\u4e0d\u592a\u597d\u5417\uff1f<<A<<[CHANGED 2018/09/02]",
                   "ja_JP": "\u3067\u3001\u3067\u3082\u3001\u305d\u3093\u306a\u306b\u3059\u3066\u304d\u306a\u4eba\u305f\u3061\u306b\n\u56f2\u307e\u308c\u3066\u3001\u5f7c\u3089\u306e\u4f1d\u7d71\u3092\u5c0a\u91cd\u3057\u306a\u3044\n\u308f\u3051\u306b\u306f\u3044\u304b\u306a\u3044\u3067\u3057\u3087\u3046\uff1f<<A<<[CHANGED 2018/09/02]",
@@ -8057,7 +8057,7 @@
               {
                 "message": {
                   "": "A-Anyway, I hope it is okay if I return to my prayer for now.",
-                  "en_US": "E-Enfim, espero que não haja problema se eu voltar à minha oração por enquanto.",
+                  "en_US": "B-Bem, espero que não seja um problema eu continuar minha oração por enquanto.",
                   "de_DE": "W-Wie dem auch sei, ich w\u00fcrde mich jetzt gerne wieder meinem Gebet widmen.",
                   "zh_CN": "\u603b-\u603b\u4e4b\uff0c\u5982\u679c\u4f60\u6ca1\u6709\u4ec0\u4e48\u8981\u7d27\u4e8b\u7684\u8bdd\uff0c\u6211\u5148\u7ee7\u7eed\u7948\u798f\u4e86\u3002<<A<<[CHANGED 2018/09/02]",
                   "ja_JP": "\u3068\u3001\u3068\u306b\u304b\u304f\u3001\u4eca\u306f\u304a\u7948\u308a\u306b\n\u623b\u308a\u305f\u3044\u3093\u3067\u3059\u3051\u3069\u3001\u3044\u3044\u3067\u3057\u3087\u3046\u304b\u3002<<A<<[CHANGED 2018/09/02]",
@@ -8266,7 +8266,7 @@
             "entity": { "global": true, "name": "Inlaw" },
             "text": {
               "": "Well, yes... \\.\\.\\. I want to make sure that I get it right.",
-              "en_US": "Bem, sim... \\.\\.\\. Quero ter certeza de que estou fazendo corretamente.",
+              "en_US": "Sim... \\.\\.\\. Quero ter certeza de que estou fazendo tudo certo.",
               "langUid": 633,
               "de_DE": "Ja...\\.\\.\\. Ich will sichergehen, dass ich es richtig mache.",
               "ja_JP": "\u3048\u3048\u3001\u307e\u3042...\\.\\.\\.\u3061\u3083\u3093\u3068\n\u3057\u3066\u304a\u304d\u305f\u304f\u3066\u3002<<A<<[CHANGED 2018/09/02]",
@@ -8305,7 +8305,7 @@
             "entity": { "global": true, "name": "daugther" },
             "text": {
               "": "Alright, I'll leave you to it. But don't overdo it, okay?",
-              "en_US": "Muito bem, vou deixá-la à vontade. Mas não exagere, está bem?",
+              "en_US": "Tudo bem, vou deixá-la à vontade. Mas não exagere, está bem?",
               "langUid": 636,
               "de_DE": "Gut, ich lass dich mal machen. Aber \u00fcbertreib's nicht, in Ordnung?",
               "ja_JP": "\u305d\u308c\u3058\u3083\u3042\u3001\u304a\u7948\u308a\u3092\u7d9a\u3051\u3066\u3002\n\u3067\u3082\u3084\u308a\u3059\u304e\u306a\u3044\u3088\u3046\u306b\u306d\u3001\u3044\u3044\uff1f<<A<<[CHANGED 2018/09/02]",
@@ -8359,7 +8359,7 @@
             "entity": { "global": true, "name": "daugther" },
             "text": {
               "": "Which reminds me... \\.\\.\\. where is Jing?",
-              "en_US": "O que me faz lembrar... \\.\\.\\. onde está o Jing?",
+              "en_US": "Falando nisso... \\.\\.\\. onde está o Jing?",
               "langUid": 639,
               "de_DE": "Apropos...\\.\\.\\. Wo ist eigentlich Jing?",
               "ja_JP": "\u305d\u3046\u3044\u3048\u3070...\\.\\.\\.\n\u30b8\u30f3\u306f\u3069\u3053\u304b\u3057\u3089\uff1f<<A<<[CHANGED 2018/09/02]",

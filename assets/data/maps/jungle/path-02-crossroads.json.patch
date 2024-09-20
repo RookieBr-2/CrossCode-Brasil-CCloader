@@ -8871,7 +8871,7 @@
               {
                 "message": {
                   "": "At t-this point, someone might t-think you're stalking me.",
-                  "en_US": "N-neste momento, alguém poderia p-pensar que você está me seguindo.",
+                  "en_US": "N-Neste momento, alguém poderia a-achar que você está me seguindo.",
                   "de_DE": "So la-la-langsam k\u00f6nnte m-m-man meinen, du verfo-fo-folgst mich.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u8981\u662f\u4e00\u822c\u4eba\uff0c\u90fd\u3001\u90fd\u89c9\u5f97\u88ab\u4f60\u8ddf\u8e2a\u4e86\u3002",
@@ -8998,7 +8998,7 @@
               {
                 "message": {
                   "": "It j-j-just means I don't have much t-t-time left.",
-                  "en_US": "Isso a-a-apenas significa que não me resta muito t-t-tempo.",
+                  "en_US": "Isso a-a-apenas mostra que que meu t-tempo está se esgotando.",
                   "de_DE": "Das b-b-bedeutet nur, d-d-dass mir nur noch w-w-wenig Zeit bleibt.",
                   "fr_FR": "fr_FR",
                   "zh_CN": "\u53ea\u3001\u53ea\u662f\u8fd9\u4ee3\u8868\u6211\u3001\u6211\u5feb\u6ca1\u65f6\u95f4\u4e86\u3002",
@@ -9474,7 +9474,7 @@
           {
             "message": {
               "": "Reports in this area have been made by dutiful players that a strange player was seen here.",
-              "en_US": "Relatórios nesta área têm sido feitos por jogadores atentos que um jogador estranho foi visto aqui.",
+              "en_US": "Relatórios desta área indicam que jogadores atentos viram um jogador estranho por aqui.",
               "de_DE": "Es gab Berichte von Spielern, die in dieser Gegend einen seltsamen Spieler gesehen haben.",
               "zh_CN": "\u636e\u6570\u540d\u4e09\u597d\u73a9\u5bb6\u7684\u53cd\u9988\uff0c\u8fd9\u7247\u533a\u57df\u6709\u4e00\u540d\u5947\u602a\u7684\u73a9\u5bb6\u51fa\u6ca1\u3002<<A<<[CHANGED 2017/12/12]",
               "ko_KR": "\uc131\uc2e4\ud55c \ud50c\ub808\uc774\uc5b4\ub4e4\uc774 \uc774\uacf3\uc5d0\uc11c \uc774\uc0c1\ud55c \ud50c\ub808\uc774\uc5b4\ub97c \ubd24\ub2e4\ub294 \uc2e0\uace0\uac00 \ub4e4\uc5b4\uc654\uc2b5\ub2c8\ub2e4.<<A<<[CHANGED 2017/11/16]",
@@ -9561,7 +9561,7 @@
           {
             "message": {
               "": "Well, this is quite unsettling. You are the third person to report so. ",
-              "en_US": "Bem, isto é bastante inquietante. Você é a terceira pessoa a relatar isso.",
+              "en_US": "Isso é realmente preocupante. Você é a terceira pessoa a relatar isso.",
               "de_DE": "Das wird langsam doch etwas besorgniserregend. Sie sind schon die dritte Person, die das best\u00e4tigt.<<A<<[CHANGED 2021/05/22]",
               "zh_CN": "\u770b\u6765\u60c5\u51b5\u4e0d\u5999\u3002\u4f60\u5df2\u7ecf\u662f\u7b2c\u4e09\u540d\u5982\u6b64\u53cd\u9988\u7684\u73a9\u5bb6\u4e86\u3002<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\uc774\uac70 \uc880 \ubd88\uc548\ud558\uad70\uc694. \ub2f9\uc2e0\uc774 \uadf8 \uc138 \ubc88\uc9f8 \ub300\uc0c1\uc785\ub2c8\ub2e4.<<A<<[CHANGED 2017/11/16]",
@@ -9579,7 +9579,7 @@
           {
             "message": {
               "": "I fear we have a person with malicious intent here.",
-              "en_US": "Receio que tenhamos aqui uma pessoa com intenções maliciosas.",
+              "en_US": "Parece que temos alguém com intenções maliciosas entre nós.",
               "de_DE": "Ich f\u00fcrchte, wir haben hier eine Person mit b\u00f6sartigen Absichten.",
               "zh_CN": "\u6050\u6015\u6b64\u4eba\u5fc3\u6000\u9b3c\u80ce\uff0c\u52a8\u673a\u4e0d\u7eaf\u3002<<A<<[CHANGED 2017/12/12]",
               "ko_KR": "\ub204\uad70\uac00 \uc77c\ubd80\ub7ec \ub098\uc05c \uc758\ub3c4\ub97c \uac00\uc9c0\uace0 \uadf8\ub7ec\ub294 \uac83 \uac19\uc2b5\ub2c8\ub2e4.<<A<<[CHANGED 2017/11/16]",
@@ -9612,7 +9612,7 @@
           {
             "message": {
               "": "Ah, fear not, Lady Lea. I do not believe you are involved in such shady business.",
-              "en_US": "Ah, não tema, Senhorita Lea. Não acredito que você esteja envolvida em negócios tão obscuros.",
+              "en_US": "Ah, não se preocupe, Senhorita Lea. Não acredito que você esteja envolvida em assuntos tão obscuros.",
               "de_DE": "Ach, Fr\u00e4ulein Lea, ich wei\u00df doch, dass Sie nicht absichtlich darin verwickelt sind.<<A<<[CHANGED 2021/05/22]",
               "zh_CN": "\u554a\uff0c\u8389\u4e9a\u5c0f\u59d0\u4f60\u65e0\u987b\u62c5\u5fc3\u3002\u6211\u76f8\u4fe1\u4f60\u6ca1\u6709\u53c2\u4e0e\u975e\u6cd5\u884c\u4e3a\u3002<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\uc544, \uac71\uc815\ud558\uc9c0\ub294 \ub9c8\uc138\uc694, \ub808\uc544 \uc591. \ub2f9\uc2e0\uc774 \uc774\ub7f0 \uc218\uc0c1\ud55c \uc77c\uc5d0 \uc5f0\ub8e8\ub418\uc5b4 \uc788\ub2e4\uace0\ub294 \uc0dd\uac01 \uc548 \ud558\ub2c8\uae4c\uc694.<<A<<[CHANGED 2018/09/19]",
@@ -9630,7 +9630,7 @@
           {
             "message": {
               "": "I must, however, follow procedure and file a report against this player.",
-              "en_US": "Devo, no entanto, seguir o procedimento e apresentar um relatório contra este jogador.",
+              "en_US": "Ainda assim, devo seguir o procedimento e fazer um relatório a respeito deste jogador.",
               "de_DE": "Dennoch muss ich leider die Vorschriften befolgen und den Spieler melden.<<A<<[CHANGED 2021/05/22]",
               "zh_CN": "\u4f46\u662f\u6839\u636e\u89c4\u5b9a\uff0c\u6211\u5fc5\u987b\u63d0\u4ea4\u9488\u5bf9\u6b64\u73a9\u5bb6\u7684\u6c47\u62a5\u3002<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\uadf8\ub807\uc9c0\ub9cc \uc804 \uc808\ucc28\uc5d0 \ub530\ub77c \uc774 \ud50c\ub808\uc774\uc5b4\uc640 \uad00\ub828\ub41c \ubcf4\uace0\ub97c \ud574\uc57c\ub9cc \ud569\ub2c8\ub2e4.<<A<<[CHANGED 2017/11/16]",
@@ -9684,7 +9684,7 @@
           {
             "message": {
               "": "I am following a lead that will take me all the way to \\c[3]\\v[area.forest.name]\\c[0]. ",
-              "en_US": "Estou seguindo uma pista que veio da \\c[3]\\v[area.forest.name]\\c[0].",
+              "en_US": "E vou seguir uma pista que veio da \\c[3]\\v[area.forest.name]\\c[0].",
               "de_DE": "Ich folge gerade einem Hinweis, der vom \\c[3]Saphirgrat\\c[0] kam.",
               "zh_CN": "\u7ebf\u7d22\u4e00\u8def\u5ef6\u4f38\u5230\u4e86\\c[3]\\v[area.forest.name]\\c[0]\uff0c\u6211\u4f1a\u4e00\u8def\u8ffd\u8e2a\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uadf8\ub7f0 \ub2e4\uc74c, \\c[3]\\v[area.forest.name]\\c[0]\uc73c\ub85c \uc774\ub044\ub294 \ub2e8\uc11c\ub97c \ub530\ub77c\uac00\uc57c\uaca0\uc5b4\uc694.<<A<<[CHANGED 2018/09/19]",
@@ -9702,7 +9702,7 @@
           {
             "message": {
               "": "May we meet again under more pleasant circumstances next time, Lady Lea. Goodbye! ",
-              "en_US": "Que possamos nos encontrar novamente sob circunstâncias mais agradáveis da próxima vez, Senhorita Lea. Adeus, Senhorita Lea.",
+              "en_US": "Que possamos nos encontrar sob condições mais agradáveis na próxima vez, Senhorita Lea. Até logo.",
               "de_DE": "M\u00f6gen wir uns unter gl\u00fccklicheren Umst\u00e4nden wiedertreffen, Fr\u00e4ulein Lea. Auf Wiedersehen!",
               "zh_CN": "\u5e0c\u671b\u6211\u4eec\u4e0b\u6b21\u89c1\u9762\u65f6\u60c5\u51b5\u4e0d\u4f1a\u8fd9\u4e48\u5c34\u5c2c\u3002 \u518d\u89c1\u4e86\uff0c\u8389\u4e9a\u5c0f\u59d0\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u6b21\u306f\u3082\u3063\u3068\u697d\u3057\u3044\u72b6\u6cc1\u3067\u4f1a\u3048\u308b\u3068\u3044\u3044\u306a\u3001\n\u30ec\u30a2\u3055\u3093\u3002\u305d\u308c\u3058\u3083\u3001\u307e\u305f\uff01<<A<<[CHANGED 2018/07/09]",

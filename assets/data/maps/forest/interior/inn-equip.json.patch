@@ -896,7 +896,7 @@
                 {
                   "message": {
                     "": "Weapon best quality of Shad, but now foremost we produce for human being.",
-                    "en_US": "Armas da melhor qualidade dos Shads, mas agora nós produzimos principalmente para humanos.",
+                    "en_US": "Venha ver armas excelentes dos Shad, mas agora focamos na produção para humanos.",
                     "de_DE": "Waffen beste Qualit\u00e4t der Shad, aber jetzt wir haupts\u00e4chlich produzieren f\u00fcr Menschen.<<A<<[CHANGED 2021/05/22]",
                     "zh_CN": "\u6c99\u5fb7\uff0c\u8d28\u91cf\u6700\u597d\u6b66\u5668\u3002\u4f46\u662f\u73b0\u5728\uff0c\u5356\u7ed9\u4eba\u7c7b\u3002<<A<<[CHANGED 2021/05/22]",
                     "langUid": 265,
@@ -1593,7 +1593,7 @@
             "entity": { "global": true, "name": "c2" },
             "text": {
               "": "Some \\c[3]player with the lab coat skin\\c[0] walked by, mumbling about it and stuff.",
-              "en_US": "Um \\c[3]jogador usando um jaleco de laboratório\\c[0] estava cochichando algo sobre isso.",
+              "en_US": "Um \\c[3]jogador de jaleco branco\\c[0] estava cochichando algo sobre isso.",
               "langUid": 523,
               "zh_CN": "\u6709\u4e9b\u88c5\u5907\u7740\\c[3]\u767d\u5927\u8902\u76ae\u80a4\u7684\u73a9\u5bb6\\c[0]\u8def\u8fc7\u65f6\u6211\u542c\u4ed6\u4eec\u8bf4\u7684\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\\c[3]\u767d\u8863\u3092\u7740\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\\c[0]\u304c\u3001\n\u3059\u308c\u9055\u3044\u3056\u307e\u306b\u901a\u8def\u306e\u3053\u3068\u3092\n\u3064\u3076\u3084\u3044\u3066\u305f\u306e\u3002<<A<<[CHANGED 2018/09/19]",
@@ -1637,7 +1637,7 @@
               {
                 "message": {
                   "": "What's up, wanna know about that path, too?",
-                  "en_US": "E aí, quer saber também sobre esse caminho?",
+                  "en_US": "E aí, quer saber sobre esse caminho também?",
                   "langUid": 518,
                   "zh_CN": "\u4ec0\u4e48\u4e8b\uff0c\u4f60\u4e5f\u60f3\u77e5\u9053\u90a3\u6761\u5bc6\u9053\u7684\u4e8b\uff1f<<A<<[CHANGED 2021/05/22]",
                   "ja_JP": "\u3084\u3042\u3001\u3042\u306a\u305f\u3082\u96a0\u3057\u901a\u8def\u306b\u3064\u3044\u3066\u77e5\u308a\u305f\u3044\u306e\uff1f<<A<<[CHANGED 2021/05/22]",
@@ -1670,7 +1670,7 @@
               {
                 "message": {
                   "": "It's somewhere in the eastern cavern system if I understood correctly.",
-                  "en_US": "Está em algum lugar do conjunto das cavernas orientais, se eu entendi corretamente.",
+                  "en_US": "Se eu não estiver enganado, está em algum lugar no complexo de cavernas no leste.",
                   "langUid": 524,
                   "zh_CN": "\u5982\u679c\u6211\u6ca1\u641e\u9519\u7684\u8bdd\uff0c\u5e94\u8be5\u5c31\u5728\u4e1c\u8fb9\u7684\u6d1e\u7a74\u91cc\u3002<<A<<[CHANGED 2018/07/09]",
                   "ja_JP": "\u79c1\u306e\u8a18\u61b6\u304c\u6b63\u3057\u3051\u308c\u3070\u3001\u6771\u5074\u306e\u6d1e\u7a9f\u306b\n\u96a0\u3055\u308c\u305f\u901a\u8def\u304c\u3042\u308b\u3089\u3057\u3044\u3088\u3002<<A<<[CHANGED 2018/07/09]",

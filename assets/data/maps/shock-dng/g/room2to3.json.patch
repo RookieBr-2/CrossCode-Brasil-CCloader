@@ -966,7 +966,7 @@
           {
             "message": {
               "": "I think it's \\c[3]Wave\\c[0] because you use the Wave element, non?",
-              "en_US": "Acho que é da \\c[3]Onda\\c[0] porque você usa o elemento Onda, non?",
+              "en_US": "Acho que é da \\c[3]Onda\\c[0] porque usamos o elemento Onda, non?",
               "de_DE": "Ich glaube, dass es \\c[3]Welle\\c[0] ist, weil du das Welle-Element benutzen musst, non?",
               "zh_CN": "\u6211\u89c9\u5f97\u8fd9\u91cc\u662f\\c[3]\u6ce2\\c[0]\u795e\u5e99\uff0c\u56e0\u4e3a\u8981\u7528\u6ce2\u5143\u7d20\uff0c\u5bf9\u5427\uff1f<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u79c1\u306f\\c[3]\u6ce2\u52d5\\c[0]\u3060\u3068\u601d\u3046\u3002\n\u3060\u3063\u3066\u3001\u6ce2\u52d5\u306e\u30a8\u30ec\u30e1\u30f3\u30c8\u3092\n\u4f7f\u308f\u305b\u3066\u304f\u308b\u3058\u3083\u306a\u3044\uff1f<<A<<[CHANGED 2018/03/14]",
@@ -981,7 +981,7 @@
           {
             "message": {
               "": "Those weird balls phasing through the walls are Wave, right?",
-              "en_US": "Essas bolas estranhas que atravessam as paredes são Onda, certo?",
+              "en_US": "Essas bolas estranhas que atravessam as paredes são Onda, né?",
               "de_DE": "Diese komischen Wirbelb\u00e4lle, die durch W\u00e4nde fliegen, sind doch Welle, oder?",
               "zh_CN": "\u90a3\u4e9b\u4f1a\u7a7f\u5899\u7684\u602a\u7403\u5c31\u662f\u6ce2\uff0c\u5bf9\u5427\uff1f<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u3042\u306e\u58c1\u3092\u629c\u3051\u308b\n\u5999\u306a\u30dc\u30fc\u30eb\u3063\u3066\u6ce2\u52d5\u3067\u3057\u3087\uff1f<<A<<[CHANGED 2018/03/14]",
@@ -1041,7 +1041,7 @@
           {
             "message": {
               "": "Like getting Heat in the \\c[3]Temple Mine\\c[0] which is all cold and frozen.",
-              "en_US": "Como conseguir Fogo na \\c[3]Mina do Templo\\c[0] que é toda fria e congelada.",
+              "en_US": "Como pegar o elemento Fogo na \\c[3]Mina do Templo\\c[0] que é toda fria e congelada.",
               "de_DE": "So wie wir Hitze in der \\c[3]Tempelmine\\c[0] bekommen haben, wo es \u00fcberall kalt und eisig war.",
               "zh_CN": "\u6bd4\u65b9\u8bf4\u51b0\u5bd2\u7684\\c[3]\u795e\u5e99\u77ff\u4e95\\c[0]\u91cc\u83b7\u5f97\u7684\u5c31\u662f\u706b\u5143\u7d20\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u5bd2\u304f\u3066\u51cd\u3063\u3066\u3044\u305f\\c[3]\u795e\u6bbf\u9271\u5c71\\c[0]\u3067\n\u706b\u708e\u306e\u30a8\u30ec\u30e1\u30f3\u30c8\u3092\n\u624b\u306b\u5165\u308c\u305f\u3088\u3046\u306b\u3002<<A<<[CHANGED 2018/03/14]",
@@ -1086,7 +1086,7 @@
           {
             "message": {
               "": "That place is literally filled with ovens and heated coals!",
-              "en_US": "Aquele lugar está literalmente cheio de fornos e brasas aquecidas!",
+              "en_US": "Aquele lugar é cheio de fornos e brasas aquecidas!",
               "de_DE": "Da wimmelt es doch nur vor \u00d6fen und erhitzter Kohle!",
               "zh_CN": "\u90a3\u5730\u65b9\u7b80\u76f4\u70ed\u7684\u8ddf\u70e4\u7089\u4e00\u6837\uff01<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u3042\u305d\u3053\u306f\u3001\u30aa\u30fc\u30d6\u30f3\u3068\u71b1\u3044\u77f3\u70ad\u3067\n\u3044\u3063\u3071\u3044\u3060\u3063\u305f\u3058\u3083\u306a\u3044\u3067\u3059\u304b\uff01<<A<<[CHANGED 2018/03/14]",

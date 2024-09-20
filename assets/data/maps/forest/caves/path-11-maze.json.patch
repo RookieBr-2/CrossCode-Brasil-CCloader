@@ -3349,7 +3349,7 @@
           {
             "message": {
               "": "Is it here?\\. Is the entrance in this area?",
-              "en_US": "Está aqui?\\. A entrada está nesta área?",
+              "en_US": "Aqui?\\. A entrada fica nessa parte?",
               "langUid": 7,
               "zh_CN": "\u662f\u8fd9\u91cc\u5417\uff1f\\.\u662f\u8fd9\u4e2a\u533a\u57df\u91cc\u7684\u5165\u53e3\u5417\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc5ec\uae30 \uc788\uc5b4?\\. \uc785\uad6c\uac00 \uc5ec\uae30 \uc788\ub2e4\ub294 \uac70\uc57c?<<A<<[CHANGED 2018/03/14]",
@@ -3379,7 +3379,7 @@
           {
             "message": {
               "": "Alright...\\. now...",
-              "en_US": "Certo...\\. agora...",
+              "en_US": "Certo...",
               "langUid": 9,
               "zh_CN": "\u597d\u5427...\\.\u90a3\u4e48...<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc88b\uc544...\\. \uadf8\ub7fc \uc774\uc81c...<<A<<[CHANGED 2018/03/14]",
@@ -3514,7 +3514,7 @@
           {
             "message": {
               "": "It is alright, we will just try our best.",
-              "en_US": "Está tudo bem, vamos apenas fazer o melhor que pudermos.",
+              "en_US": "Está tudo bem, vamos seguir em frente e ver o que conseguimos fazer.",
               "langUid": 18,
               "zh_CN": "\u6ca1\u4e8b\uff0c\u6211\u4eec\u5c3d\u529b\u4e86\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uad1c\ucc2e\uc544, \ud560 \uc218 \uc788\ub294 \ub370\uae4c\uc9c0 \ud574\ubcf4\uc790.<<A<<[CHANGED 2018/03/14]",
@@ -5508,7 +5508,7 @@
               {
                 "message": {
                   "": "It sounded like we did something right.",
-                  "en_US": "Isto soou como se tivéssemos feito algo certo.",
+                  "en_US": "Isso parecia um sinal de que fizemos algo certo.",
                   "langUid": 31,
                   "zh_CN": "\u770b\u6765\u6211\u4eec\u7684\u65b9\u6cd5\u662f\u5bf9\u7684\u3002<<A<<[CHANGED 2018/09/19]",
                   "ko_KR": "\uc6b0\ub9ac \uc81c\ub300\ub85c \ud55c \uac8c \ub9de\ub098 \ubd10.<<A<<[CHANGED 2018/09/19]",

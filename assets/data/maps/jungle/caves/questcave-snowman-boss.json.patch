@@ -905,7 +905,7 @@
           {
             "text": {
               "": "There is no way to break that icy wall alone. \\c[3]Report back to Mrs. Basu in \\v[area.jungle-city.name]!\\c[0]",
-              "en_US": "Não há como quebrar esse muro gelado sozinha. \\c[3]Relate à Sra. Basu na \\v[area.jungle-city.name]!\\c[0]",
+              "en_US": "Não há como quebrar esse muro gelado sozinha. \\c[3]Fale com a Sra. Basu na \\v[area.jungle-city.name]\\c[0]!",
               "langUid": 461,
               "de_DE": "Die Eiswand l\u00e4sst sich allein nicht durchbrechen. \\c[3]Erstatte Frau Basu in Burg Bassin Bericht!\\c[0]",
               "ja_JP": "\u3072\u3068\u308a\u3067\u6c37\u306e\u58c1\u3092\u7a81\u7834\u3059\u308b\u306e\u306f\u7121\u7406\u3060\u3002\n\\c[3]\\v[area.jungle-city.name]\u306b\u3044\u308b\n\u30df\u30bb\u30b9\u30fb\u30d0\u30b9\u306b\u5831\u544a\u3057\u306b\u623b\u308d\u3046\uff01\\c[0]<<A<<[CHANGED 2021/03/05]",
@@ -1099,7 +1099,7 @@
               {
                 "task": {
                   "": "Use the \\c[3]Hyperforce Plasmaoven\\c[0]  to melt the icy walls.\n\\c[3]Teleport it with charged Wave projectiles\\c[0] and \\c[3]trigger heat-explosions with repeated Shock attacks\\c[0].",
-                  "en_US": "Use o \\c[3]Forno de Plasma de Hiperforça\\c[0] para derreter as paredes de gelo.\n\\c[3]Teleporte-o com projéteis de Ondas carregadas\\c[0] e \\c[3]acione as explosões de calor com repetidos ataques de Choque\\c[0].",
+                  "en_US": "Use o \\c[3]Forno de Plasma de Hiperforça\\c[0] para derreter as paredes de gelo.\n\\c[3]Teleporte-o com projéteis de Ondas carregados\\c[0] e \\c[3]acione as explosões de calor com repetidos ataques de Choque\\c[0].",
                   "langUid": 435,
                   "de_DE": "Nutze den \\c[3]H\u00f6llenglut-Plasmaofen\\c[0], um die eisige Wand zu schmelzen.\n\\c[3]Teleportiere ihn mit geladenen Welleprojektilen\\c[0] und \\c[3]l\u00f6se Explosionen durch wiederholte Schock-Attacken aus\\c[0].",
                   "ja_JP": "\\c[3]\u30cf\u30a4\u30d1\u30fc\u30d5\u30a9\u30fc\u30b9\u30fb\u30d7\u30e9\u30ba\u30de\u30aa\u30fc\u30d6\u30f3\\c[0]\u3092\n\u4f7f\u3063\u3066\u6c37\u306e\u58c1\u3092\u6eb6\u304b\u305d\u3046\u3002\n\\c[3]\u6ce2\u52d5\u5c5e\u6027\u306e\u30c1\u30e3\u30fc\u30b8\u5f3e\u3067\n\u30c6\u30ec\u30dd\u30fc\u30c8\\c[0]\u3055\u305b\u305f\u3089\u3001\n\\c[3]\u96fb\u6483\u5c5e\u6027\u306e\u653b\u6483\u3092\u7e70\u308a\u8fd4\u3057\u5f53\u3066\u3066\n\u71b1\u7206\u767a\\c[0]\u3092\u8d77\u3053\u305d\u3046\u3002<<A<<[CHANGED 2018/08/01]",
@@ -1464,7 +1464,7 @@
           {
             "message": {
               "": "O-oh, I-I am s-sorry.\\. W-waiting in this c-c-cold m-might have g-gotten to m-me.\\. P-please exc-cuse me for a s-second.",
-              "en_US": "A-ah, M-me p-perdoe.\\. F-ficar espeando nesse f-f-frio a-acabou me a-afetando.\\. P-por favor me dê lic-cença por um s-segundo.",
+              "en_US": "M-me p-perdoe.\\. F-ficar esperando nesse f-f-frio a-acabou me a-afetando.\\. Me dê lic-cença por um s-segundo.",
               "de_DE": "O-Oh, tut m-m-mir leid.\\. In dieser K-K-K\u00e4lte zu w-warten hat m-mir ga-ga-ganz sch\u00f6n zugesetzt.\\. Einen Mo-Mo-Moment bitte.",
               "zh_CN": "\u54e6-\u6211-\u6211\u5f88\u62b1-\u62b1\u6b49\u3002\\. \u8fd9-\u8fd9\u5730\u65b9\u5b9e-\u5b9e\u5728\u592a\u51b7\u4e86\u3002\\.\u8bf7\u7a0d-\u7a0d\u7b49\u6211\u4e00\u4e0b\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u3042\u3001\u3042\u3042\u3001\u3059\u3001\u3059\u3044\u307e\u305b\u3093\u3002\\.\n\u3055\u3001\u3055\u3001\u5bd2\u3044\u4e2d\u3067\u305a\u3063\u3068\n\u307e\u3001\u5f85\u3063\u3066\u305f\u3082\u306e\u3067\u3059\u304b\u3089\u3002\\.\n\u3061\u3087\u3001\u3061\u3087\u3063\u3068\u5931\u793c\u3057\u3001\u3057\u307e\u3059\u306d\u3002<<A<<[CHANGED 2018/09/19]",
@@ -1548,7 +1548,7 @@
           {
             "message": {
               "": "Alright, much better.\\. I am sorry, these temperatures may have frozen my professionalism along with my tongue.",
-              "en_US": "Ufa, bem melhor.\\. Desculpe, essa temperatura pode ter congelado meu profissionalismo junto com minha língua.",
+              "en_US": "Ufa, bem melhor.\\. Desculpe, essa temperatura congelou meu profissionalismo junto com minha língua.",
               "de_DE": "Ahh, viel besser!\\. Entschuldige, durch die K\u00e4lte ist wohl meine Zunge samt meiner Professionalit\u00e4t eingefroren.",
               "zh_CN": "\u54e6\uff0c\u8fd9\u6837\u597d\u591a\u4e86\u3002\\.\u62b1\u6b49\uff0c\u8fd9\u51b7\u7684\u771f\u662f\u628a\u6211\u820c\u5934\u90fd\u8981\u51bb\u50f5\u4e86\u3002<<A<<[CHANGED 2018/08/01]",
               "ja_JP": "\u3042\u3042\u3001\u305a\u3044\u3076\u3093\u3088\u304f\u306a\u308a\u307e\u3057\u305f\u3002\\.\n\u3059\u3044\u307e\u305b\u3093\u3001\u3053\u306e\u6c17\u6e29\u3067\u79c1\u306e\u30d7\u30ed\u610f\u8b58\u3082\n\u820c\u3082\u51cd\u308a\u4ed8\u3044\u3066\u3057\u307e\u3063\u305f\u3088\u3046\u3067\u3002<<A<<[CHANGED 2018/08/01]",
@@ -1672,7 +1672,7 @@
           {
             "message": {
               "": "Our engineers called it the \\c[3]Hyperforce Plasma Oven\\c[0].\\. A ridiculous name, to be sure, but its heating capacities are truly unmatched.",
-              "en_US": "Nossos engenheiros deram o nome de \\c[3]Forno de Plasma de Híperforça\\c[0].\\. Um nome ridículo, com certeza, mas suas capacidades de aquecimento são realmente inigualáveis.",
+              "en_US": "Nossos engenheiros deram o nome de \\c[3]Forno de Plasma de Híperforça\\c[0].\\. É um nome ridículo, mas suas capacidades de aquecimento são realmente incomparáveis.",
               "de_DE": "Unsere Ingenieure nennen es den \\c[3]H\u00f6llenglut-Plasmaofen\\c[0].\\. Ein l\u00e4cherlicher Name, ich wei\u00df. Aber seine Heizkapazit\u00e4ten sind unvergleichlich!",
               "zh_CN": "\u6211\u4eec\u7684\u5de5\u7a0b\u5e08\u53eb\u5b83\\c[3]\u8d85\u7ea7\u7535\u78c1\u6696\u7089\\c[0]\u3002\\.\u6211\u77e5\u9053\u540d\u5b57\u542c\u8d77\u6765\u5f88\u626f\uff0c\u4f46\u662f\u5236\u70ed\u80fd\u529b\u786e\u5b9e\u4e00\u6d41\u3002<<A<<[CHANGED 2021/03/05]",
               "ja_JP": "\u3046\u3061\u306e\u30a8\u30f3\u30b8\u30cb\u30a2\u306f\u3001\u3053\u308c\u3092\n\\c[3]\u30cf\u30a4\u30d1\u30fc\u30d5\u30a9\u30fc\u30b9\u30fb\u30d7\u30e9\u30ba\u30de\u30aa\u30fc\u30d6\u30f3\\c[0]\u3068\n\u547c\u3093\u3067\u3044\u307e\u3059\u3002\\.\u3075\u3056\u3051\u305f\u540d\u524d\u3067\u3059\u304c\u3001\n\u305d\u306e\u540d\u306b\u53cd\u3057\u3066\u52a0\u71b1\u6a5f\u80fd\u306f\u78ba\u5b9f\u3067\u3059\u3002<<A<<[CHANGED 2021/03/05]",
@@ -1705,7 +1705,7 @@
           {
             "message": {
               "": "It's finely attuned to Trackwalker, meaning that you, \\v[lore.title.seeker], will be able to control it with your abilities.",
-              "en_US": "Está perfeitamente sintonizado com a Trilha, o que significa que você, \\v[lore.title.seeker], será capaz de controlá-lo com suas habilidades.",
+              "en_US": "Ele é adaptado ao sistema da Trilha. O que significa que você, \\v[lore.title.seeker], será capaz de controlá-lo com suas habilidades.",
               "de_DE": "Er ist ans Pfadl\u00e4ufersystem angepasst, damit du ihn mit deinen F\u00e4higkeiten bedienen kannst, Seeker.",
               "zh_CN": "\u5b83\u5df2\u7ecf\u88ab\u8c03\u6574\u8fc7\u4e86\uff0c\\v[lore.title.seeker]\uff0c\u4f60\u80fd\u591f\u4f7f\u7528\u4f60\u7684\u5404\u79cd\u80fd\u529b\u6765\u64cd\u63a7\u5b83\u3002<<A<<[CHANGED 2018/08/01]",
               "ja_JP": "\u3053\u308c\u306f\u8ecc\u8de1\u3092\u6b69\u304f\u8005\u3001\u3064\u307e\u308a\u3042\u306a\u305f\u304c\u305f\n\\v[lore.title.seeker]\u306b\u5408\u308f\u305b\u3066\u8abf\u6574\u3055\u308c\u3066\u3044\u3066\u3001\n\u305d\u306e\u80fd\u529b\u3067\u5236\u5fa1\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002<<A<<[CHANGED 2018/08/01]",
@@ -1738,7 +1738,7 @@
           {
             "message": {
               "": "It is too heavy to move, but a \\c[3]charged Wave projectile\\c[0] will start a teleportation sequence that \\c[3]relocates it to your position\\c[0].",
-              "en_US": "Ele é muito pesado para mover, mas um \\c[3]projétil de Onda carregado\\c[0] iniciará uma seqüência de teletransporte que o \\c[3]recoloca onde você estiver\\c[0].",
+              "en_US": "Para movê-lo, dispare um \\c[3]projétil de Onda carregado\\c[0], que ativará o teletransporte, \\c[3]trazendo-o até você\\c[0].",
               "de_DE": "Zum Bewegen ist er viel zu schwer, aber ein \\c[3]geladenes Welleprojektil\\c[0] teleportiert ihn \\c[3]an deine Position\\c[0].",
               "zh_CN": "\u5b83\u592a\u6c89\u4e86\u65e0\u6cd5\u79fb\u52a8\uff0c\u4f46\u662f\\c[3]\u84c4\u529b\u6ce2\u7403\\c[0]\u53ef\u4ee5\u8ba9\u5176\\c[3]\u4f20\u9001\u5230\u4f60\u5f53\u524d\u7684\u4f4d\u7f6e\\c[0]\u3002<<A<<[CHANGED 2018/08/01]",
               "ja_JP": "\u52d5\u304b\u3059\u306b\u306f\u91cd\u3059\u304e\u307e\u3059\u304c\u3001\\c[3]\u6ce2\u52d5\u5c5e\u6027\u306e\n\u30c1\u30e3\u30fc\u30b8\u5f3e\u3092\u5f53\u3066\u308b\\c[0]\u3053\u3068\u3067\n\u30c6\u30ec\u30dd\u30fc\u30c8\u30b7\u30fc\u30af\u30a8\u30f3\u30b9\u304c\u8d77\u52d5\u3057\u3001\n\\c[3]\u3042\u306a\u305f\u306e\u3044\u308b\u5834\u6240\u3078\u79fb\u52d5\\c[0]\u3057\u307e\u3059\u3002<<A<<[CHANGED 2018/08/01]",
@@ -2052,7 +2052,7 @@
           {
             "text": {
               "": "Use the \\c[3]Hyperforce Plasma Oven\\c[0]  to melt the icy walls.\n\\c[3]Teleport it with charged Wave projectiles\\c[0] and \\c[3]trigger heat-explosions with repeated Shock attacks\\c[0].",
-              "en_US": "Use o \\c[3]Forno de Plasma de Hiperforça\\c[0] para derreter as paredes de gelo.\n\\c[3]Teleporte-o com projéteis de Ondas carregadas\\c[0] e \\c[3]acione as explosões de calor com repetidos ataques de Choque\\c[0].",
+              "en_US": "Use o \\c[3]Forno de Plasma de Hiperforça\\c[0] para derreter as paredes de gelo.\n\\c[3]Teleporte-o com projéteis de Ondas carregados\\c[0] e \\c[3]acione as explosões de calor com repetidos ataques de Choque\\c[0].",
               "langUid": 464,
               "de_DE": "Nutze den \\c[3]H\u00f6llenglut-Plasmaofen\\c[0], um die eisige Wand zu schmelzen.\n\\c[3]Teleportiere ihn mit geladenen Welleprojektilen\\c[0] und \\c[3]l\u00f6se Explosionen mit wiederholten Schock-Attacken aus\\c[0].",
               "ja_JP": "\\c[3]\u30cf\u30a4\u30d1\u30fc\u30d5\u30a9\u30fc\u30b9\u30fb\u30d7\u30e9\u30ba\u30de\u30aa\u30fc\u30d6\u30f3\\c[0]\u3092\u4f7f\u3063\u3066\n\u6c37\u306e\u58c1\u3092\u6eb6\u304b\u305d\u3046\u3002\\c[3]\u6ce2\u52d5\u5c5e\u6027\u306e\u30c1\u30e3\u30fc\u30b8\u5f3e\u3067\n\u30c6\u30ec\u30dd\u30fc\u30c8\\c[0]\u3055\u305b\u305f\u3089\u3001\\c[3]\u96fb\u6483\u5c5e\u6027\u306e\u653b\u6483\u3092\n\u7e70\u308a\u8fd4\u3057\u5f53\u3066\u3066\u71b1\u7206\u767a\\c[0]\u3092\u8d77\u3053\u305d\u3046\u3002<<A<<[CHANGED 2021/03/05]",
@@ -2711,7 +2711,7 @@
               {
                 "message": {
                   "": "I am protecting the civilians from monsters.\\. Please do your job before the cold gets them.",
-                  "en_US": "Eu estou protegendo os civis de monstros.\\, Por favor, faça seu trabalho antes que o frio os alcance.",
+                  "en_US": "Eu estou protegendo os civis de monstros.\\. Por favor, faça seu trabalho antes que o frio os alcance.",
                   "de_DE": "Ich besch\u00fctze die Zivilisten vor Monstern.\\. Mach dich besser an die Arbeit, bevor die K\u00e4lte sie erwischt.",
                   "zh_CN": "\u6211\u6b63\u5728\u4fdd\u62a4\u5e02\u6c11\u4eec\u4e0d\u53d7\u602a\u7269\u88ad\u51fb\u3002\\.\u8bf7\u4f60\u4e5f\u5c3d\u804c\u5c3d\u8d23\u3002<<A<<[CHANGED 2018/08/01]",
                   "ja_JP": "\u79c1\u306f\u5e02\u6c11\u305f\u3061\u3092\u30e2\u30f3\u30b9\u30bf\u30fc\u304b\u3089\u5b88\u308a\u307e\u3059\u3002\\.\n\u51b7\u6c17\u304c\u5c4a\u304f\u524d\u306b\u4f7f\u547d\u3092\u679c\u305f\u3057\u3066\u304f\u3060\u3055\u3044\u3002<<A<<[CHANGED 2018/08/01]",

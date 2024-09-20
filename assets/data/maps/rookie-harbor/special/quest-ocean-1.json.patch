@@ -2359,7 +2359,7 @@
           {
             "text": {
               "": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
-              "en_US": "\\c[1]FALHA NA QUEST\\c[0]\n\nRecomece a tarefa para tentar novamente",
+              "en_US": "\\c[1]FALHA NA MISSÂO\\c[0]\n\nRecomece a tarefa para tentar novamente",
               "de_DE": "\\c[1]QUEST GESCHEITERT\\c[0]\n\nVersuch's nochmal!",
               "fr_FR": "fr_FR",
               "langUid": 176,

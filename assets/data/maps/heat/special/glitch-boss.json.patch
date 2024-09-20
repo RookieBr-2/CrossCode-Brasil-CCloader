@@ -324,7 +324,7 @@
           {
             "message": {
               "": "And it ended with this mess of a boss fight that breaks the majority of our design guidelines.",
-              "en_US": "E terminou com esta confusão de uma luta contra um chefe que quebra a maioria de nossas diretrizes de projeto.",
+              "en_US": "E terminou com este chefe horrível que quebra a maioria de nossas diretrizes.",
               "langUid": 5,
               "zh_CN": "\u6700\u7ec8\u53d8\u6210\u4e86\u4e00\u573a\u6253\u7834\u4e86\u6211\u4eec\u6240\u6709\u8bbe\u8ba1\u89c4\u5219\u7684\u6df7\u4e71boss\u6218\u3002<<A<<[CHANGED 2019/05/14]",
               "ko_KR": "\uacb0\uad6d \ub514\uc790\uc778 \uac00\uc774\ub4dc\ub77c\uc778\uc758 \ub300\ubd80\ubd84\uc744 \uc5b4\uae30\ub294 \uc774\ub7f0 \uc5c9\ub9dd\uc9c4\ucc3d\uc778 \ubcf4\uc2a4 \uc804\ud22c\uac00 \ub098\uc628 \uac70\uace0.<<A<<[CHANGED 2019/05/14]",
@@ -338,7 +338,7 @@
           {
             "message": {
               "": "But they were really proud of their creation, so of course they would just hide it somewhere!",
-              "en_US": "Mas eles estavam realmente orgulhosos de sua criação, então é claro que eles simplesmente a escondiam em algum lugar!",
+              "en_US": "Mas eles estavam tão orgulhosos da criação que, naturalmente, tiveram que escondê-la em algum lugar!",
               "langUid": 6,
               "zh_CN": "\u4f46\u662f\u4ed6\u4eec\u73a9\u5f97\u5b9e\u5728\u592a\u5f00\u5fc3\u4e86\uff0c\u4e5f\u96be\u602a\u4f1a\u627e\u4e2a\u5730\u65b9\u628a\u5b83\u85cf\u8d77\u6765\uff01<<A<<[CHANGED 2019/05/14]",
               "ko_KR": "\uc5b4\uca0c\ub4e0 \ub9cc\ub4e0 \uac74 \uc790\ub791\uc2a4\ub7ec\uc6b8 \ud14c\ub2c8 \uc5b4\ub518\uac00\uc5d0 \uc228\uaca8\ub193\uc740 \uac70\uc600\uc5b4!<<A<<[CHANGED 2019/05/14]",
@@ -2102,7 +2102,7 @@
           {
             "message": {
               "": "Good riddance.",
-              "en_US": "Boa viagem.",
+              "en_US": "Nós nos livramos dele.",
               "langUid": 9,
               "zh_CN": "\u6211\u662f\u771f\u6ca1\u60f3\u5230\u554a\u3002<<A<<[CHANGED 2019/04/16]",
               "ko_KR": "\uc18d\uc774 \ub2e4 \uc2dc\uc6d0\ud558\ub124.<<A<<[CHANGED 2019/04/16]",

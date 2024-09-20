@@ -5302,7 +5302,7 @@
               {
                 "message": {
                   "": "Lea, dear. No need to feel bad about this.",
-                  "en_US": "Lea, querida. Não há necessidade de se sentir mal com isso.",
+                  "en_US": "Lea, querida. Não precisa se sentir mal com isso.",
                   "de_DE": "Lea, Liebes. Du musst deswegen kein schlechtes Gewissen haben.",
                   "zh_CN": "\u8389\u4e9a\u4eb2\uff0c\u4e0d\u5fc5\u89c9\u5f97\u62b1\u6b49\u3002<<A<<[CHANGED 2018/09/02]",
                   "ja_JP": "\u30ec\u30a2\u3061\u3083\u3093\u3002\n\u6c17\u3092\u60aa\u304f\u3059\u308b\u3053\u3068\u306a\u3044\u306e\u3088\u3002<<A<<[CHANGED 2018/09/02]",
@@ -5338,7 +5338,7 @@
               {
                 "message": {
                   "": "If raids aren't fun to you, there is no point to drag you with us, eh?",
-                  "en_US": "Se raids não são divertidas pra você, não teria lógica em arrastar você com a gente, né?",
+                  "en_US": "Se raids não são divertidas pra você, não faz sentido forçar você a participar, né?",
                   "de_DE": "Wenn dir Raids keinen Spa\u00df machen, hat es keinen Zweck, dich dazu zu n\u00f6tigen.",
                   "zh_CN": "\u5982\u679c\u4f60\u4e0d\u559c\u6b22\u6253\u526f\u672c\u7684\u8bdd\uff0c\u90a3\u81ea\u7136\u4e0d\u5e94\u8be5\u62fd\u7740\u4f60\u6765\uff0c\u5bf9\u4e0d\uff1f<<A<<[CHANGED 2018/09/02]",
                   "ja_JP": "\u3042\u306a\u305f\u304c\u697d\u3057\u3081\u306a\u3044\u306a\u3089\u3001\n\u30ec\u30a4\u30c9\u3092\u3055\u305b\u308b\u610f\u5473\u306f\u306a\u3044\u3067\u3057\u3087\u3002\u306d\uff1f<<A<<[CHANGED 2018/09/02]",
@@ -5578,7 +5578,7 @@
               {
                 "message": {
                   "": "Hmpf. Today really isn't the best day, eh?",
-                  "en_US": "Hmpf. Hoje não é realmente o melhor dia, né?",
+                  "en_US": "Aff. Hoje não está sendo o melhor dia, né?",
                   "langUid": 1514,
                   "de_DE": "Hmpf. Heute ist aber auch irgendwie der Wurm drin!",
                   "ja_JP": "\u3075\u3046\u3002\u305d\u308c\u306b\u3057\u3066\u3082\u3001\n\u4eca\u65e5\u306f\u3064\u3044\u3066\u306a\u3044\u3093\u3060\u3088\u306d\u3002<<A<<[CHANGED 2018/08/28]",
@@ -5614,7 +5614,7 @@
               {
                 "message": {
                   "": "Not only is Tronny going to leave, but I had to cancel a special end-game quest I was planning to partake in together with \\c[3]Albert\\c[0].",
-                  "en_US": "Não só apenas o fato de Tronny estar indo embora, como eu vou ter que cancelar uma missão especial de fim de jogo, que estava planejando em fazer junto com \\c[3]Albert\\c[0].",
+                  "en_US": "Além do fato do Tronny estar indo embora, ainda vou ter que cancelar uma missão especial de fim de jogo que eu planejava fazer com \\c[3]Albert\\c[0].",
                   "langUid": 1516,
                   "de_DE": "Nicht nur, dass Tronny bald geht, heute ist auch eine besondere Endphasen-Quest ins Wasser gefallen, die \\c[3]Albert\\c[0] und ich eigentlich zusammen machen wollten.",
                   "ja_JP": "\u30c8\u30ed\u30cb\u30fc\u304c\u30b2\u30fc\u30e0\u3092\u96e2\u308c\u308b\u306e\u3082\u305d\u3046\u3060\u3051\u3069\u3001\n\\c[3]\u30a2\u30eb\u30d0\u30fc\u30c8\\c[0]\u3068\u4e00\u7dd2\u306b\u7279\u5225\u306a\n\u30a8\u30f3\u30c9\u30b3\u30f3\u30c6\u30f3\u30c4\u30af\u30a8\u30b9\u30c8\u306b\n\u53c2\u52a0\u3059\u308b\u306f\u305a\u3060\u3063\u305f\u306e\u3092\n\u30ad\u30e3\u30f3\u30bb\u30eb\u3055\u308c\u3061\u3083\u3063\u305f\u306e\u3002<<A<<[CHANGED 2018/08/28]",
@@ -5665,7 +5665,7 @@
               {
                 "message": {
                   "": "I'm not supposed to tell anybody, but why should I care when he just drops our plans so quickly~",
-                  "en_US": "Eu não deveria dizer isso a ninguém, mas por que me importar quando ele abandona nossos planos tão rapidamente?",
+                  "en_US": "Eu não devia dizer isso a ninguém, mas por que me importar quando ele deixa nossos planos de lado?",
                   "langUid": 1519,
                   "de_DE": "Das sollte ich eigentlich niemandem erz\u00e4hlen, aber nachdem er mir so Knall auf Fall abgesagt hat...",
                   "ja_JP": "\u672c\u5f53\u306f\u6559\u3048\u3061\u3083\u30c0\u30e1\u306a\u3093\u3060\u3051\u3069\u3001\n\u5f7c\u3063\u305f\u3089\u3042\u3063\u3055\u308a\u79c1\u305f\u3061\u306e\u8a08\u753b\u3092\n\u653e\u308a\u51fa\u3057\u3061\u3083\u3063\u305f\u3093\u3060\u3082\u306e\u3001\n\u3053\u308c\u304f\u3089\u3044\u3044\u3044\u3088\u306d\uff5e<<A<<[CHANGED 2018/08/28]",
@@ -5698,7 +5698,7 @@
               {
                 "message": {
                   "": "Just make sure not to tell Buggy about it. Al would be really angry, otherwise.",
-                  "en_US": "Não conte nada ao Buggy sobre isso. Al ficaria muito zangado, por conta disso.",
+                  "en_US": "Não conte nada ao Buggy sobre isso. Al ficaria muito zangado comigo.",
                   "langUid": 1521,
                   "de_DE": "Erz\u00e4hl es aber bitte nicht Buggy. Al w\u00e4re sonst richtig sauer auf mich.",
                   "ja_JP": "\u7d76\u5bfe\u30d0\u30ae\u30fc\u306b\u3053\u306e\u3053\u3068\u306f\u8a00\u308f\u306a\u3044\u3067\u306d\u3002\n\u305d\u3093\u306a\u3053\u3068\u3057\u305f\u3089\u30a2\u30eb\u304c\u6012\u3063\u3061\u3083\u3046\u304b\u3089\u3002<<A<<[CHANGED 2018/08/28]",
@@ -19136,7 +19136,7 @@
           {
             "message": {
               "": "No one here? They're probably upstairs.",
-              "en_US": "Não tem ninguém aqui? Eles provavelmente estão lá em cima.",
+              "en_US": "Não tem ninguém aqui? Eles devem estar lá em cima.",
               "langUid": 909,
               "zh_CN": "\u4e00\u4e2a\u4eba\u4e5f\u6ca1\u6709\uff1f\u4ed6\u4eec\u662f\u4e0d\u662f\u5728\u697c\u4e0a\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc544\ubb34\ub3c4 \uc5c6\ub124? \uc704\uce35\uc5d0 \uc788\ub098 \ubcf4\ub2e4.<<A<<[CHANGED 2018/03/14]",
@@ -19425,7 +19425,7 @@
           {
             "message": {
               "": "Lea, ch\u00e9rie!\\. Perfect timing!",
-              "en_US": "Lea, ch\u00e9rie!\\. Hora perfeita!",
+              "en_US": "Lea, ch\u00e9rie!\\. Você chegou bem na hora!",
               "de_DE": "Lea, Ch\u00e9rie!\\. Du kommst geraaade richtig!",
               "zh_CN": "\u8389\u4e9a\u4eb2\uff01\\.\u6765\u5f97\u6b63\u597d\uff01<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3084\u3063\u307b\u30fc\u3001\u30ec\u30a2\uff01\\.\n\u30bf\u30a4\u30df\u30f3\u30b0\u3070\u3063\u3061\u308a\u3060\u306d\uff01<<A<<[CHANGED 2018/07/09]",
@@ -19462,7 +19462,7 @@
           {
             "message": {
               "": "I heard you've just been at the top of Grand Krys'kajo?",
-              "en_US": "Ouvi dizer que você acabou de estar no topo do Grand Krys'kajo?",
+              "en_US": "Ouvi dizer que você chegou no topo do Grand Krys'kajo, é verdade?",
               "de_DE": "Ich habe geh\u00f6rt, ihr wart auf der Krone des Gro\u00dfen Krys'kajo?",
               "zh_CN": "\u6211\u542c\u8bf4\u4f60\u521a\u6253\u901a\u5927\u51ef\u65af\u5361\u7f57\uff1f<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u805e\u3044\u305f\u3088\u3001\u30af\u30ea\u30e5\u30b9\u30fb\u30ab\u30fc\u30e8\u5927\u795e\u6bbf\u306e\n\u3066\u3063\u307a\u3093\u307e\u3067\u884c\u3063\u305f\u3093\u3060\u3063\u3066\uff1f<<A<<[CHANGED 2018/07/09]",
@@ -19510,7 +19510,7 @@
           {
             "message": {
               "": "Floating high up in space, meeting all of the Ancient gods together...",
-              "en_US": "Flutuando alto no espaço, encontrando todos os deuses antigos juntos...",
+              "en_US": "Flutuando no espaço, com todos os deuses antigos reunidos...",
               "de_DE": "Du schwebst hoch oben im All, triffst alle Ahnen-G\u00f6tter auf einmal...",
               "zh_CN": "\u9ad8\u9ad8\u98d8\u5728\u592a\u7a7a\uff0c\u8ddf\u53e4\u4ee3\u795e\u7075\u5bf9\u8bdd...<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u7a7a\u306e\u304b\u306a\u305f\u306b\u6d6e\u304b\u3073\u4e0a\u304c\u3063\u3066\u3001\n\u3059\u3079\u3066\u306e\u53e4\u4ee3\u795e\u3068\u51fa\u4f1a\u3046\u5834\u6240...<<A<<[CHANGED 2018/07/09]",
@@ -19528,7 +19528,7 @@
           {
             "message": {
               "": "Oui, oui! It's great. Anyway, we got \\c[3]awesome news\\c[0], Lea!",
-              "en_US": "Oui, oui! Isso é ótimo. De qualquer forma, nós temos \\c[3]ótimas notícias\\c[0], Lea!",
+              "en_US": "Oui, oui! Isso foi ótimo. Aliás, nós temos \\c[3]ótimas notícias\\c[0], Lea!",
               "de_DE": "Oui, oui! Ganz wunderbar. Jedenfalls, wir haben \\c[3]fantastische Neuigkeiten\\c[0], Lea!",
               "zh_CN": "\u662f\u7684\u662f\u7684\uff01\u5f88\u68d2\u3002\u6211\u4eec\u6709\u4e2a\\c[3]\u60ca\u5929\u597d\u6d88\u606f\\c[0]\u8981\u544a\u8bc9\u4f60\uff0c\u8389\u4e9a\uff01<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u305d\u3046\u305d\u3046\uff01\u307b\u3093\u3068\u3059\u3054\u304b\u3063\u305f\u3002\n\u3068\u3053\u308d\u3067\u3001\u3042\u306a\u305f\u306b\\c[3]\u3044\u3044\u30cb\u30e5\u30fc\u30b9\\c[0]\u304c\n\u3042\u308b\u3093\u3060\u3001\u30ec\u30a2\uff01<<A<<[CHANGED 2018/07/09]",
@@ -19615,7 +19615,7 @@
           {
             "message": {
               "": "Anyway, she's right.",
-              "en_US": "Enfim, ela está certa.",
+              "en_US": "Sim, ela está certa.",
               "langUid": 984,
               "zh_CN": "\u4e0d\u8fc7\u662f\u7684\uff0c\u5979\u8bf4\u7684\u6ca1\u9519\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3068\u306f\u3044\u3048\u3001\u8a00\u3063\u3066\u308b\u3053\u3068\u306f\u6b63\u3057\u3044\u3088\u3002<<A<<[CHANGED 2018/07/09]",
@@ -19695,7 +19695,7 @@
           {
             "message": {
               "": "No need to be so humble, you looked it up and told us about it.",
-              "en_US": "Não é preciso ser tão humilde, você procurou e nos falou sobre isso.",
+              "en_US": "Não precisa ser tão humilde, você procurou e nos falou sobre isso.",
               "langUid": 987,
               "zh_CN": "\u522b\u8fd9\u4e48\u8c26\u865a\u3002\u6bd5\u7adf\u662f\u4f60\u67e5\u5230\u7684\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u305d\u3046\u9060\u616e\u3057\u306a\u3044\u3067\u3002\n\u30c1\u30e3\u30f3\u30b9\u3092\u898b\u3064\u3051\u3066\u304f\u308c\u305f\u306e\u306f\n\u3042\u306a\u305f\u306a\u3093\u3060\u304b\u3089\u3002<<A<<[CHANGED 2018/07/09]",
@@ -19755,7 +19755,7 @@
           {
             "message": {
               "": "Lukas isn't around at the moment, so Albert will join instead.",
-              "en_US": "Lukas não está por perto no momento, então Albert vai entrar no lugar dele.",
+              "en_US": "Lukas não está por aqui no momento, então Albert vai entrar no lugar dele.",
               "langUid": 989,
               "zh_CN": "\u8fd9\u6b21\u5362\u5361\u65af\u4e0d\u5728\uff0c\u6240\u4ee5\u57c3\u5c14\u4f2f\u7279\u4f1a\u9876\u66ff\u4ed6\u7684\u4f4d\u7f6e\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u30eb\u30fc\u30ab\u30b9\u306f\u4e88\u5b9a\u304c\u5408\u308f\u306a\u3044\u304b\u3089\u3001\n\u4ee3\u308f\u308a\u306b\u30a2\u30eb\u30d0\u30fc\u30c8\u304c\u5165\u308b\u306e\u3002<<A<<[CHANGED 2018/07/09]",
@@ -19770,7 +19770,7 @@
           {
             "message": {
               "": "That is, if you have the time, Lea.",
-              "en_US": "Isto é, se você tiver tempo, Lea.",
+              "en_US": "Isso, se você tiver tempo para fazer a raid amanhã, Lea.",
               "langUid": 990,
               "zh_CN": "\u90a3\u4e48\uff0c\u4f60\u6709\u65f6\u95f4\u5417\uff0c\u8389\u4e9a\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3069\u3046\u304b\u306a\u3002\n\u53c2\u52a0\u3067\u304d\u308b\u3001\u30ec\u30a2\u3061\u3083\u3093\uff1f<<A<<[CHANGED 2018/07/09]",
@@ -19922,7 +19922,7 @@
           {
             "message": {
               "": "I have this suspicion you see.",
-              "en_US": "...!",
+              "en_US": "Estou desconfiado.",
               "de_DE": "Ich habe da so einen Verdacht, wei\u00dft du.",
               "zh_CN": "\u6211\u73b0\u5728\u6709\u4e00\u4e2a\u731c\u6d4b\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u5b89\u5168\u6027\u304c\u7591\u308f\u3057\u3044\u304b\u3089\u3060\u3088\u3002<<A<<[CHANGED 2018/07/09]",
@@ -19937,7 +19937,7 @@
           {
             "message": {
               "": "It looks like the current raid system has a \\c[3]security hole\\c[0] enabling a third person to drag you out of it.",
-              "en_US": "Parece que o atual sistema de raid tem um \\c[3]buraco na segurança\\c[0] permitindo que uma terceira pessoa a arraste para fora dela.",
+              "en_US": "Parece que o sistema da raid tem uma \\c[3]brecha na segurança\\c[0] que permite que uma terceira pessoa a arraste para fora dela.",
               "de_DE": "Das derzeitige Raid-System hat vermutlich eine \\c[3]Sicherheitsl\u00fccke\\c[0], die ein Dritter dazu nutzen kann, dich aus dem Raid herauszuziehen.",
               "zh_CN": "\u5f53\u524d\u526f\u672c\u7cfb\u7edf\u4f3c\u4e4e\u6709\u4e00\u4e2a\\c[3]\u5b89\u5168\u6f0f\u6d1e\\c[0]\uff0c\u6709\u4eba\u80fd\u5229\u7528\u8fd9\u4e2a\u6f0f\u6d1e\u5f3a\u5236\u628a\u4f60\u62c9\u51fa\u526f\u672c\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u73fe\u5728\u306e\u30ec\u30a4\u30c9\u30b7\u30b9\u30c6\u30e0\u306b\u306f\u3001\n\u7b2c\u4e09\u8005\u304c\u541b\u3092\u9023\u308c\u51fa\u3059\u3053\u3068\u306e\u3067\u304d\u308b\n\\c[3]\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u306e\u7a74\\c[0]\u304c\u3042\u308b\u3088\u3046\u3060\u3002<<A<<[CHANGED 2018/07/09]",
@@ -19982,7 +19982,7 @@
           {
             "message": {
               "": "And we really cannot afford to end up there a second time.",
-              "en_US": "E nós realmente não podemos nos dar ao luxo de acabar lá uma segunda vez.",
+              "en_US": "E nós não podemos nos dar ao luxo de acabar lá uma segunda vez.",
               "de_DE": "Und wir k\u00f6nnen es wirklich nicht riskieren, dort ein zweites Mal zu landen.",
               "zh_CN": "\u6211\u4eec\u4e0d\u80fd\u8ba9\u8fd9\u79cd\u60c5\u51b5\u518d\u6b21\u53d1\u751f\u4e86\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "2\u56de\u76ee\u3082\u307e\u305f\u6355\u307e\u308b\u3053\u3068\u306f\n\u306a\u3093\u3068\u3057\u3066\u3067\u3082\u907f\u3051\u305f\u3044\u3002<<A<<[CHANGED 2018/09/19]",
@@ -19997,7 +19997,7 @@
           {
             "message": {
               "": "Especially right now when we are so close to reaching that place in your dreams.",
-              "en_US": "Especialmente agora, quando estamos tão perto de chegar a esse lugar em seus sonhos.",
+              "en_US": "Especialmente agora, quando estamos tão perto de encontrar o local que você viu nos seus sonhos.",
               "de_DE": "Gerade jetzt, wo wir kurz davor sind, die Orte aus deinen Tr\u00e4umen aufzusuchen.",
               "zh_CN": "\u6211\u4eec\u73b0\u5728\u5982\u6b64\u63a5\u8fd1\u4f60\u68a6\u4e2d\u7684\u5730\u70b9\uff0c\u6211\u4eec\u4e0d\u80fd\u6709\u4efb\u4f55\u95ea\u5931\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u3068\u308a\u308f\u3051\u3001\u541b\u304c\u5922\u3067\u898b\u305f\u5834\u6240\u3078\n\u884c\u304f\u3053\u3068\u304c\u3067\u304d\u305d\u3046\u306a\u4eca\u3053\u306e\u6642\u306f\u306d\u3002<<A<<[CHANGED 2018/09/19]",
@@ -20232,7 +20232,7 @@
           {
             "message": {
               "": "Come on... this was likely just a random issue.",
-              "en_US": "Vamos lá... isso foi provavelmente apenas um problema aleatório.",
+              "en_US": "Que isso... provavelmente foi só um problema aleatório.",
               "de_DE": "Ach, komm schon... Das war wahrscheinlich blo\u00df ein dummer Zufall.",
               "zh_CN": "\u6ca1\u4e8b\u7684...\u90a3\u5c31\u662f\u4e2a\u610f\u5916\u800c\u5df2\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u5927\u4e08\u592b\u3067\u3059\u3088...\n\u3042\u308c\u306f\u305f\u3060\u306e\u5076\u7136\u3067\u3059\u3063\u3066\u3002<<A<<[CHANGED 2018/07/09]",
@@ -20310,7 +20310,7 @@
           {
             "message": {
               "": "Aww man... that's a shame.\\. But what can you do?",
-              "en_US": "Aww cara... que pena.\\. Mas o que você pode fazer?",
+              "en_US": "Aww cara... que pena.\\. Mas fazer o que né?",
               "langUid": 1031,
               "zh_CN": "\u5509\uff0c\u771f\u662f\u9057\u61be\u3002\\.\u4f46\u6211\u4e5f\u4e0d\u80fd\u5f3a\u8feb\u4f60\u6765\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3061\u3047\u3063\u3001\u307e\u3063\u305f\u304f...\u6b8b\u5ff5\u3060\u306a\u3002\\.\n\u3067\u3082\u3001\u3057\u3087\u3046\u304c\u306a\u3044\u3088\u306a\u3002<<A<<[CHANGED 2018/07/09]",
@@ -20325,7 +20325,7 @@
           {
             "message": {
               "": "Raids really are no fun if people are forced into them.",
-              "en_US": "As raids não são realmente divertidas se as pessoas forem forçadas a entrar nelas.",
+              "en_US": "Se as raids viram uma obrigação, elas deixam de ser divertidas.",
               "langUid": 1032,
               "zh_CN": "\u5f3a\u626d\u7684\u74dc\u4e0d\u751c\u561b\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3084\u308c\u3063\u3066\u5f37\u5236\u3055\u308c\u305f\u3089\u3001\n\u30ec\u30a4\u30c9\u306f\u697d\u3057\u304f\u306a\u304f\u306a\u3063\u3061\u307e\u3046\u304b\u3089\u306a\u3002<<A<<[CHANGED 2018/07/09]",
@@ -20429,7 +20429,7 @@
           {
             "message": {
               "": "Fine, if you really don't want to.",
-              "en_US": "Tudo bem, se você realmente não quiser.",
+              "en_US": "Tudo bem, se você não quiser.",
               "langUid": 1036,
               "zh_CN": "\u597d\u5427\uff0c\u5982\u679c\u4f60\u771f\u7684\u4e0d\u60f3\u6765\u5c31\u7b97\u4e86\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u308f\u304b\u3063\u305f\u3088\u3001\u3084\u308a\u305f\u304f\u306a\u3044\u3063\u3066\u3044\u3046\u306a\u3089\n\u3057\u304b\u305f\u306a\u3044\u3088\u306d\u3002<<A<<[CHANGED 2018/07/09]",
@@ -20444,7 +20444,7 @@
           {
             "message": {
               "": "Well...\\. I suppose it's just a bit too soon, after all?",
-              "en_US": "Bem...\\. Eu acho que ainda é cedo para iniciarmos uma raid, depois de tudo o que aconteceu, certo?",
+              "en_US": "Pensando bem...\\. ainda é cedo para iniciarmos uma raid, depois de tudo o que aconteceu, não é?",
               "langUid": 1037,
               "zh_CN": "\u5514...\\.\u53ef\u80fd\u662f\u6211\u6709\u70b9\u592a\u5fc3\u6025\u4e86\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3048\u3063\u3068...\\.\u518d\u6311\u6226\u3059\u308b\u306b\u306f\n\u3061\u3087\u3063\u3068\u65e9\u3059\u304e\u305f\u306e\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u306d\u3002<<A<<[CHANGED 2018/07/09]",
@@ -20534,7 +20534,7 @@
           {
             "message": {
               "": "Well then...\\. I suppose it's time to explore \\c[3]Sapphire Ridge\\c[0] now?",
-              "en_US": "Bom...\\. Eu acho que é hora de explorar a \\c[3]Serra da Safira\\c[0] agora?",
+              "en_US": "Eu acho que é hora de explorar a \\c[3]Serra da Safira\\c[0] non?",
               "langUid": 1043,
               "zh_CN": "\u597d\u5427...\\.\u90a3\u4e48\u6211\u60f3\u73b0\u5728\u6211\u4eec\u5c31\u53bb\\c[3]\u9752\u7389\u5c71\u8109\\c[0]\u901b\u901b\u5427\uff1f<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u305d\u308c\u3058\u3083...\\.\u4ee3\u308f\u308a\u306b\n\\c[3]\u30b5\u30d5\u30a1\u30a4\u30a2\u5cf0\\c[0]\u3092\u63a2\u7d22\u3057\u306a\u3044\uff1f<<A<<[CHANGED 2018/07/09]",
@@ -20567,7 +20567,7 @@
           {
             "message": {
               "": "Ohhh! You're at that point now. Nice.",
-              "en_US": "Ohhh! Agora você está nesse ponto. Legal.",
+              "en_US": "Ahhh! Agora você chegou nessa parte. Legal.",
               "langUid": 1044,
               "zh_CN": "\u5662\uff01\u4f60\u4e5f\u6253\u5230\u90a3\u4e86\u3002\u633a\u597d\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u304a\u304a\uff01\u304a\u524d\u3089\u3001\u305d\u3053\u307e\u3067\n\u305f\u3069\u308a\u3064\u3044\u305f\u306e\u304b\u3002\u3044\u3044\u306d\u3002<<A<<[CHANGED 2018/09/19]",
@@ -20735,7 +20735,7 @@
           {
             "message": {
               "": "Same for me, see you around!",
-              "en_US": "O mesmo para mim, nos vemos por aí!",
+              "en_US": "Eu também, nos vemos por aí!",
               "langUid": 1051,
               "zh_CN": "\u6211\u4e5f\u662f\uff0c\u8bb0\u5f97\u53eb\u6211\uff0c\u56de\u89c1\uff01<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u50d5\u3082\u5f85\u3063\u3066\u307e\u3059\u3002\u305d\u308c\u3058\u3083\uff01<<A<<[CHANGED 2018/07/09]",
@@ -20896,7 +20896,7 @@
           {
             "message": {
               "": "I know you would have liked to do the raid, but we really have to be careful about this.",
-              "en_US": "Eu sei que você gostaria de ter participado da raid, mas realmente temos que ter cuidado com isso.",
+              "en_US": "Eu sei que você gostaria de participar da raid, mas temos que ter cuidado com isso.",
               "langUid": 1054,
               "zh_CN": "\u6211\u77e5\u9053\u4f60\u5f88\u60f3\u53c2\u4e0e\u8fd9\u6b21\u7684\u526f\u672c\u4efb\u52a1\uff0c\u4f46\u6211\u4eec\u5fc5\u987b\u591a\u52a0\u8c28\u614e\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u30ec\u30a4\u30c9\u306b\u53c2\u52a0\u3057\u305f\u3044\u306e\u306f\u308f\u304b\u308b\u3051\u3069\u3001\n\u30ea\u30b9\u30af\u3092\u72af\u3059\u3053\u3068\u306f\u3067\u304d\u306a\u3044\u3093\u3060\u3002<<A<<[CHANGED 2018/09/19]",
@@ -21030,7 +21030,7 @@
           {
             "message": {
               "": "Okay, nobody seems to be here right now. Perfect.",
-              "en_US": "Ok, ninguém parece estar aqui neste momento. Perfeito.",
+              "en_US": "Ok, ninguém está aqui por enquanto. Perfeito.",
               "de_DE": "Gut, es scheint gerade niemand da zu sein. Perfekt.",
               "zh_CN": "\u73b0\u5728\u6ca1\u6709\u4eba\u5728\uff0c\u5f88\u597d\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3088\u3057\u3001\u4eca\u306f\u3060\u308c\u3082\n\u3044\u306a\u3044\u307f\u305f\u3044\u3060\u306a\u3002\u5b8c\u74a7\u3060\u3002<<A<<[CHANGED 2018/07/09]",
@@ -21174,7 +21174,7 @@
           {
             "message": {
               "": "Alright, I have the model number. One moment please...",
-              "en_US": "Muito bem, eu tenho o número do modelo. Um momento, por favor...",
+              "en_US": "Tudo bem, anotei o número. Só um momento...",
               "de_DE": "Alles klar, habe mir die Seriennummer notiert. Einen Moment...",
               "zh_CN": "\u5f88\u597d\uff0c\u77e5\u9053\u4e86\u578b\u53f7\u3002\u7a0d\u7b49...<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u3084\u3063\u305f\u3001\u30e2\u30c7\u30eb\u756a\u53f7\u304c\u308f\u304b\u3063\u305f\u305e\u3002\n\u3061\u3087\u3063\u3068\u5f85\u3063\u3066\u304f\u308c...<<A<<[CHANGED 2018/09/19]",
@@ -21301,7 +21301,7 @@
           {
             "message": {
               "": "Satoshi told me how to connect to any projector inside the playground.",
-              "en_US": "Satoshi me disse como se conectar a qualquer projetor dentro do playground.",
+              "en_US": "Satoshi me mostrou como acessar qualquer projetor dentro do playground.",
               "de_DE": "Satoshi hat mir erkl\u00e4rt, wie ich mich mit jedem beliebigen Projektor im Spiel verbinden kann.",
               "zh_CN": "\u667a\u53f2\u66fe\u7ecf\u6559\u8fc7\u6211\uff0c\u53ef\u4ee5\u8fde\u63a5\u56ed\u533a\u91cc\u7684\u4efb\u4f55\u4e00\u53f0\u6295\u5f71\u4eea\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u30d7\u30ec\u30a4\u30b0\u30e9\u30a6\u30f3\u30c9\u5185\u306e\u30d7\u30ed\u30b8\u30a7\u30af\u30bf\u30fc\u306b\n\u63a5\u7d9a\u3059\u308b\u65b9\u6cd5\u3092\u30b5\u30c8\u30b7\u304b\u3089\n\u6559\u3048\u3066\u3082\u3089\u3063\u305f\u3093\u3060\u3002<<A<<[CHANGED 2018/07/09]",
@@ -21361,7 +21361,7 @@
           {
             "message": {
               "": "Well... it is still too early to get into the details right now.",
-              "en_US": "Bem... é muito cedo para entrar em detalhes agora.",
+              "en_US": "É muito cedo para entrar em detalhes agora.",
               "de_DE": "Tja... Es ist noch zu fr\u00fch, dich in die Details einzuweihen.",
               "zh_CN": "\u5443...\u73b0\u5728\u89e3\u91ca\u7ec6\u8282\u8fd8\u592a\u65e9\u4e86\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u305d\u308c\u306f...\u8a73\u7d30\u3092\u8a71\u3059\u306b\u306f\n\u307e\u3060\u65e9\u3044\u304b\u306a\u3002<<A<<[CHANGED 2018/07/09]",
@@ -21391,7 +21391,7 @@
           {
             "message": {
               "": "Anyway... should we call it a day?",
-              "en_US": "De qualquer forma... devemos dar o dia por terminado?",
+              "en_US": "Bom... devemos dar o dia por terminado?",
               "de_DE": "Ja, ich wei\u00df. Sollen wir f\u00fcr heute Schluss machen?",
               "zh_CN": "\u603b\u4e4b\u5462...\u6211\u770b\u4eca\u5929\u5c31\u5230\u8fd9\u91cc\u5427\uff1f<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3068\u308a\u3042\u3048\u305a...\u4eca\u65e5\u306f\u3053\u306e\u3078\u3093\u306b\n\u3057\u3066\u304a\u3044\u305f\u307b\u3046\u304c\n\u3044\u3044\u3093\u3058\u3083\u306a\u3044\u304b\u3044\uff1f<<A<<[CHANGED 2018/07/09]",
@@ -21406,7 +21406,7 @@
           {
             "message": {
               "": "I will need a bit more time thinking about all of this myself.",
-              "en_US": "Eu precisarei de um pouco mais de tempo para pensar sobre tudo isso.",
+              "en_US": "Preciso de mais tempo para pensar sobre tudo isso.",
               "de_DE": "Ich brauche ein wenig Zeit, das alles nochmal zu durchdenken.",
               "zh_CN": "\u6211\u9700\u8981\u70b9\u65f6\u95f4\u597d\u597d\u60f3\u60f3\u8fd9\u4e8b\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u50d5\u3082\u3053\u306e\u4ef6\u306b\u3064\u3044\u3066\u8003\u3048\u308b\u6642\u9593\u304c\n\u3082\u3046\u5c11\u3057\u5fc5\u8981\u3060\u3057\u3002<<A<<[CHANGED 2018/09/19]",
@@ -21805,7 +21805,7 @@
           {
             "message": {
               "": "Oh...\\. I am sorry to hear that.",
-              "en_US": "Oh...\\. Sinto muito ouvir isso.",
+              "en_US": "Sinto muito ouvir isso.",
               "de_DE": "Oh...\\. Das tut mir leid.",
               "zh_CN": "\u55ef...\\.\u5f88\u62b1\u6b49\u542c\u5230\u8fd9\u4e2a\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u305d\u3046\u304b...\\.\u305d\u308c\u306f\u6c17\u306e\u6bd2\u306b\u3002<<A<<[CHANGED 2018/09/19]",
@@ -22003,7 +22003,7 @@
           {
             "message": {
               "": "We just keep running into each other recently, don't we?",
-              "en_US": "Continuamos nos encontrando recentemente, não é mesmo?",
+              "en_US": "Nos encontramos várias vezes ultimamente, não foi?",
               "de_DE": "Irgendwie laufen wir uns in letzter Zeit immer wieder \u00fcber den Weg, oder?",
               "zh_CN": "\u6700\u8fd1\u6211\u4eec\u8001\u662f\u649e\u89c1\u554a\u54c8\u54c8\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u50d5\u305f\u3061\u6700\u8fd1\u3001\n\u3070\u3063\u305f\u308a\u4f1a\u3046\u3053\u3068\u304c\n\u591a\u304f\u306a\u3044\u3067\u3059\u304b\uff1f<<A<<[CHANGED 2018/07/09]",
@@ -22033,7 +22033,7 @@
           {
             "message": {
               "": "Actually, this is very convenient, since I wanted to speak with you.",
-              "en_US": "Na verdade, isso é muito conveniente, já que eu queria falar com você.",
+              "en_US": "Na verdade, isso é ótimo, porque eu queria falar com você.",
               "de_DE": "Das passt gerade wunderbar, weil ich mit dir reden wollte.",
               "zh_CN": "\u4e0d\u8fc7\u6b63\u597d\uff0c\u6211\u6709\u8bdd\u8ddf\u4f60\u8bf4\u3002<<A<<[CHANGED 2019/02/01]",
               "ja_JP": "\u307e\u3042\u3001\u3042\u306a\u305f\u306b\u8a71\u3057\u305f\u3044\u3053\u3068\u304c\n\u3042\u3063\u305f\u306e\u3067\u3061\u3087\u3046\u3069\u3044\u3044\u3093\u3067\u3059\u3051\u3069\u3002<<A<<[CHANGED 2019/02/01]",
@@ -22093,7 +22093,7 @@
           {
             "message": {
               "": "That means I won't be around for some time.",
-              "en_US": "Isso significa que eu não estarei por perto por algum tempo.",
+              "en_US": "Isso significa que ficarei ausente por um tempo.",
               "de_DE": "Das hei\u00dft, ich werde eine Weile lang nicht mit euch spielen k\u00f6nnen.",
               "zh_CN": "\u8fd9\u6bb5\u65f6\u95f4\u6211\u4eec\u53ef\u80fd\u89c1\u4e0d\u4e86\u9762\u4e86\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3064\u307e\u308a\u3001\u3057\u3070\u3089\u304f\n\u4f1a\u3048\u306a\u304f\u306a\u3063\u3061\u3083\u3046\u3093\u3067\u3059\u3088\u3002<<A<<[CHANGED 2018/07/09]",
@@ -22168,7 +22168,7 @@
           {
             "message": {
               "": "I will still be around the next few days though, if there's anything else you'd like to do.",
-              "en_US": "Mas ainda estarei por perto nos próximos dias, se houver algo mais que você gostaria de fazer.",
+              "en_US": "Mas ainda estarei por perto nos próximos dias, se você precisar de mim.",
               "de_DE": "Die n\u00e4chsten paar Tage werde ich aber noch da sein, falls du mich brauchst.",
               "zh_CN": "\u5728\u6b64\u4e4b\u524d\u6211\u8fd8\u4f1a\u73a9\u51e0\u5929\uff0c\u6240\u4ee5\u6709\u4ec0\u4e48\u5b89\u6392\u7684\u8bdd\u53ef\u4ee5\u9080\u8bf7\u6211\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u306a\u306b\u304b\u3084\u308a\u305f\u3044\u3053\u3068\u304c\u3042\u308c\u3070\u3001\n\u4eca\u65e5\u304b\u3089\u6570\u65e5\u306e\u3042\u3044\u3060\u306f\n\u307e\u3060\u30d7\u30ec\u30a4\u3057\u3066\u307e\u3059\u304b\u3089\u3002<<A<<[CHANGED 2018/07/09]",
@@ -22198,7 +22198,7 @@
           {
             "message": {
               "": "As usual, just call me via D-Link! See you!",
-              "en_US": "Como sempre, basta me ligar via D-Link! Até a próxima!",
+              "en_US": "Como sempre, é só me ligar via D-Link! Até a próxima!",
               "de_DE": "Wie gehabt, ruf mich einfach via D-Link an! Bis dann!",
               "zh_CN": "\u8001\u6837\u5b50\uff0c\u6709\u9700\u8981\u7528\u76f4\u8fde\u627e\u6211\u5c31\u597d\uff01\u56de\u89c1\u4e86\uff01<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3044\u3064\u3082\u3069\u304a\u308a\u3001\u30c0\u30a4\u30ec\u30af\u30c8\u30ea\u30f3\u30af\u3067\n\u9023\u7d61\u3092\u304f\u3060\u3055\u3044\uff01\u305d\u308c\u3067\u306f\uff01<<A<<[CHANGED 2018/07/09]",
@@ -22341,7 +22341,7 @@
           {
             "message": {
               "": "Well...\\. we should not forget that we are logged into an MMO. ",
-              "en_US": "Bem... \\. nós não devemos esquecer que estamos logados em um MMO.",
+              "en_US": "Bem... \\. é importante lembrar que estamos dentro de um MMO.",
               "de_DE": "Tja...\\. Wir sollten nicht vergessen, dass wir uns in einem MMO befinden.",
               "zh_CN": "\u5443...\\.\u8389\u4e9a\uff0c\u522b\u5fd8\u4e86\u6211\u4eec\u53ea\u662f\u5728\u73a9\u6e38\u620f\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3046\u3093...\\.\u50d5\u305f\u3061\u304c\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u308b\u306e\u306f\nMMO\u306a\u3093\u3060\u3063\u3066\u3053\u3068\u3092\n\u5fd8\u308c\u306a\u3044\u3088\u3046\u306b\u3057\u306a\u3044\u3068\u306d\u3002<<A<<[CHANGED 2018/07/09]",
@@ -22356,7 +22356,7 @@
           {
             "message": {
               "": "There is still that real life out there... for the others at least.",
-              "en_US": "Ainda há aquela vida real lá fora... pelo menos para os outros.",
+              "en_US": "Ainda existe vida real lá fora... Pelo menos para os outros.",
               "de_DE": "Es gibt dort drau\u00dfen immer noch das reale Leben... Zumindest f\u00fcr die anderen.",
               "zh_CN": "\u73b0\u5b9e\u751f\u6d3b\u8fd8\u662f\u8981\u8fc7\u7684... \u8d77\u7801\u5176\u4ed6\u4eba\u662f\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u30b2\u30fc\u30e0\u306e\u5916\u306b\u306f\u73fe\u5b9f\u306e\u66ae\u3089\u3057\u304c\u3042\u308b\u3093\u3060...\n\u5c11\u306a\u304f\u3068\u3082\u4ed6\u306e\u4eba\u305f\u3061\u306b\u306f\u306d\u3002<<A<<[CHANGED 2018/07/09]",
@@ -22401,7 +22401,7 @@
           {
             "message": {
               "": "Uhm... sorry.\\. I should have worded that differently.",
-              "en_US": "Uhm... desculpe.\\. Eu deveria ter dito isso de outra forma.",
+              "en_US": "Hm... desculpe.\\. Eu deveria ter dito isso de outra forma.",
               "de_DE": "Entschuldige.\\. Das h\u00e4tte ich so nicht sagen sollen.",
               "zh_CN": "\u5443...\u62b1\u6b49\u3002\\.\u6211\u4e0d\u8be5\u8fd9\u4e48\u63aa\u8f9e\u7684\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u305d\u306e...\u3059\u307e\u306a\u3044\u3002\\.\n\u9055\u3046\u8a00\u3044\u65b9\u3092\u3059\u3079\u304d\u3060\u3063\u305f\u306d\u3002<<A<<[CHANGED 2018/09/19]",
@@ -22416,7 +22416,7 @@
           {
             "message": {
               "": "Actually, I have good news.",
-              "en_US": "Na verdade, eu tenho boas notícias.",
+              "en_US": "Mas agora, eu tenho boas notícias.",
               "de_DE": "\u00dcbrigens, ich habe gute Neuigkeiten.",
               "zh_CN": "\u5176\u5b9e\uff0c\u6211\u6709\u4e00\u4e2a\u597d\u6d88\u606f\u8981\u544a\u8bc9\u4f60\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3068\u3053\u308d\u3067\u3001\u5b9f\u306f\n\u3044\u3044\u30cb\u30e5\u30fc\u30b9\u304c\u3042\u308b\u3093\u3060\u3002<<A<<[CHANGED 2018/07/09]",
@@ -22461,7 +22461,7 @@
           {
             "message": {
               "": "We will have to \\c[3]storm Vermillion Wasteland\\c[0] together with a lot of other players.",
-              "en_US": "Teremos que \\c[3]invadir o Deserto Carmesim\\c[0] junto com muitos outros jogadores.",
+              "en_US": "Teremos que \\c[3]invadir o Deserto Carmesim\\c[0] junto com outros jogadores.",
               "de_DE": "Wir werden die \\c[3]Vermillonein\u00f6de\\c[0] zusammen mit einigen anderen Spielern \\c[3]st\u00fcrmen\\c[0].",
               "zh_CN": "\u6211\u4eec\u9700\u8981\u8ddf\u5927\u91cf\u73a9\u5bb6\u4e00\u8d77\\c[3]\u653b\u6253\u6731\u7ea2\u5e9f\u571f\\c[0]\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u305f\u304f\u3055\u3093\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u305f\u3061\u3068\n\u3044\u3063\u3057\u3087\u306b\u3001\\c[3]\u6731\u67d3\u306e\u8352\u5730\u3092\u653b\u3081\u308b\\c[0]\u3093\u3060\u3002<<A<<[CHANGED 2018/07/09]",
@@ -22476,7 +22476,7 @@
           {
             "message": {
               "": "You remember how strong some of the enemies were over there, correct?",
-              "en_US": "Você se lembra de como alguns dos inimigos eram fortes ali, correto?",
+              "en_US": "Você se lembra de como alguns dos inimigos de lá eram fortes, não é?",
               "de_DE": "Du erinnerst dich wahrscheinlich, wie stark einige der Gegner dort waren, korrekt?",
               "zh_CN": "\u4f60\u8fd8\u8bb0\u5f97\u90a3\u5730\u65b9\u6709\u5f88\u591a\u5f3a\u529b\u654c\u4eba\u5bf9\u5427\uff1f<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u3042\u305d\u3053\u306b\u3044\u305f\u6575\u304c\n\u3069\u308c\u304f\u3089\u3044\u5f37\u529b\u3060\u3063\u305f\u304b\u306f\n\u899a\u3048\u3066\u308b\u3060\u308d\u3046\uff1f<<A<<[CHANGED 2018/09/19]",
@@ -22506,7 +22506,7 @@
           {
             "message": {
               "": "There is still enough \\c[3]time to prepare\\c[0]. You should make sure your \\c[3]stats\\c[0] and \\c[3]equipment level\\c[0] are as high as possible.",
-              "en_US": "Ainda há \\c[3]tempo suficiente\\c[0] para nos preparamos. Você deve se certificar que os seus \\c[3]atributos\\c[0] e \\c[3]níveis de equipamento\\c[0] estejam bastante altos.",
+              "en_US": "Ainda temos \\c[3]tempo suficiente\\c[0] para nos prepararmos. Verifique se seus \\c[3]atributos\\c[0] e \\c[3]níveis de equipamento\\c[0] estão altos.",
               "de_DE": "Es bleibt uns noch gen\u00fcgend \\c[3]Zeit zum Vorbereiten\\c[0]. Deine \\c[3]Stats\\c[0] und dein \\c[3]Ausr\u00fcstungslevel\\c[0] sollten daf\u00fcr so hoch wie m\u00f6glich sein.",
               "zh_CN": "\u6211\u4eec\u8fd8\u6709\u65f6\u95f4\\c[3]\u8fdb\u884c\u51c6\u5907\\c[0]\u3002\u4f60\u9700\u8981\u5c3d\u91cf\u63d0\u9ad8\u4f60\u7684\\c[3]\u5c5e\u6027\\c[0]\uff0c\u5c3d\u53ef\u80fd\u7684\u63d0\u9ad8\\c[3]\u88c5\u5907\u7b49\u7ea7\\c[0]\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\\c[3]\u6e96\u5099\u3059\u308b\u6642\u9593\\c[0]\u306f\u307e\u3060\u5341\u5206\u306b\u3042\u308b\u3002\n\\c[3]\u30b9\u30c6\u30fc\u30bf\u30b9\\c[0]\u3068\\c[3]\u88c5\u5099\u54c1\u306e\u30ec\u30d9\u30eb\\c[0]\u306f\n\u3042\u3052\u3089\u308c\u308b\u3060\u3051\u3042\u3052\u3066\u304a\u3044\u305f\u307b\u3046\u304c\u3044\u3044\u3002<<A<<[CHANGED 2018/07/09]",
@@ -22541,7 +22541,7 @@
               {
                 "message": {
                   "": "Then again...\\. with the \\c[1]amount of damage\\c[0] you always deal I think you might be good to go.",
-                  "en_US": "Então, novamente...\\. se prepare para lidar com a \\c[1]quantidade alta de dano\\c[0] e então você estará pronta para ir.",
+                  "en_US": "Mas, com a \\c[1]quantidade alta de dano\\c[0] que você causa, não devemos ter problemas.",
                   "de_DE": "Wobei...\\. mit \\c[1]dem hohen Schaden\\c[0], den du die ganze Zeit machst, d\u00fcrfte sich das wohl er\u00fcbrigen.",
                   "zh_CN": "\u4e0d\u8fc7...\\.\u8003\u8651\u5230\u4f60\u7684\\c[1]\u4f24\u5bb3\u7834\u8868\\c[0]\uff0c\u6211\u89c9\u5f97\u6ca1\u6709\u4ec0\u4e48\u95ee\u9898\u3002<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u3067\u3082...\\.\u307e\u3042\u3001\u666e\u6bb5\u304b\u3089\u541b\u304c\u767a\u63ee\u3057\u3066\u308b\n\\c[1]\u653b\u6483\u529b\u306e\u9ad8\u3055\\c[0]\u3092\u8003\u3048\u308b\u3068\u3001\n\u5927\u4e08\u592b\u304b\u3082\u3057\u308c\u306a\u3044\u3051\u3069\u3055\u3002<<A<<[CHANGED 2019/08/16]",
@@ -22558,7 +22558,7 @@
           {
             "message": {
               "": "Once you feel ready, let us go back to the \\c[3]Hideout\\c[0] and discuss the remaining details with Satoshi and Shizuka.",
-              "en_US": "Quando você se sentir preparada, voltaremos para o \\c[3]Esconderijo\\c[0] para discutir os detalhes finais com Satoshi e Shizuka.",
+              "en_US": "Quando você se sentir pronta, voltaremos ao \\c[3]Esconderijo\\c[0] para discutir os detalhes finais com Satoshi e Shizuka.",
               "de_DE": "Sobald du bereit bist, kehren wir zur\u00fcck zum \\c[3]Alten Versteck\\c[0] und kl\u00e4ren die restlichen Details mit Satoshi und Shizuka.",
               "zh_CN": "\u4e00\u65e6\u4f60\u51c6\u5907\u5c31\u7eea\uff0c\u5c31\u56de\u5230\\c[3]\u85cf\u8eab\u5904\\c[0]\uff0c\u8ddf\u9759\u548c\u667a\u53f2\u8c08\u4e00\u8c08\u540e\u7eed\u7684\u4e8b\u60c5\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u6e96\u5099\u304c\u3067\u304d\u305f\u3068\u601d\u3063\u305f\u3089\\c[3]\u96a0\u308c\u5bb6\\c[0]\u306b\n\u623b\u3063\u3066\u3001\u6b8b\u308a\u306e\u8a73\u7d30\u3092\u30b7\u30ba\u30ab\u3084\u30b5\u30c8\u30b7\u3068\n\u3044\u3063\u3057\u3087\u306b\u716e\u8a70\u3081\u3088\u3046\u3002<<A<<[CHANGED 2018/09/19]",

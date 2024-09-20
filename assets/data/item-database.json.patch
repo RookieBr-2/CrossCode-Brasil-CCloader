@@ -12068,7 +12068,7 @@
       "order": 52,
       "name": {
         "": "Burglar's Rope",
-        "en_US": "Corda de Assaltante",
+        "en_US": "Corda do Ladrão",
         "de_DE": "R\u00e4uberseil",
         "fr_FR": "undefined",
         "zh_CN": "\u76d7\u8d3c\u7ef3<<A<<[CHANGED 2019/07/31]",
@@ -12222,7 +12222,7 @@
       "order": 59,
       "name": {
         "": "Bigger Stick",
-        "en_US": "Bastão maior",
+        "en_US": "Bastão Enorme",
         "de_DE": "Gr\u00f6\u00dferer Stock",
         "fr_FR": "undefined",
         "zh_CN": "\u5de8\u68cd",
@@ -19013,6 +19013,7 @@
       "order": 13,
       "name": {
         "": "Nanopoint Needle",
+        "en_US": "Agulha Nanoponto",
         "de_DE": "Nanospitz-Nadel",
         "fr_FR": "undefined",
         "zh_CN": "\u9ea6\u8292<<A<<[CHANGED 2021/02/24]",
@@ -19023,6 +19024,7 @@
       },
       "description": {
         "": "Flexible blade that is nigh-invisible from the side. Pierces anything on a good hit. \\i[ascended]",
+        "en_US": "Lâmina flexível que é quase invisível de lado. Penetra qualquer coisa. \\i[ascended]",
         "de_DE": "Flexible Klinge, von der Seite fast unsichtbar. Durchbohrt bei Volltreffer alles. \\i[ascended]",
         "fr_FR": "undefined",
         "zh_CN": "\u4ece\u4fa7\u9762\u770b\u53bb\u51e0\u4e4e\u9690\u5f62\u7684\u67d4\u97e7\u5200\u5203\u3002\u524a\u94c1\u5982\u6ce5\u3002\\i[ascended]<<A<<[CHANGED 2021/02/24]",

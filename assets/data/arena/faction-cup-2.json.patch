@@ -214,7 +214,7 @@
       "coins": 1000,
       "objective": {
         "": "Defeat the \\c[3]\\v[combat.name.jungle/special/snowman-jungle-boss]\\c[0] who has resettled to \\c[3]\\v[area.jungle.name]\\c[0]!\nBreak his defense by using the teleporting \\c[3]\\v[combat.name.jungle/special/heater]\\c[0]!",
-        "en_US": "Derrote o \\c[3]\\v[combat.name.jungle/special/snowman-jungle-boss]\\c[0] que se instalou no \\c[3]\\v[area.jungle.name]\\c[0]!\nQuebre a defesa dele usando o teleporte[???]\\c[3]\\v[combat.name.jungle/special/heater]\\c[0]!",
+        "en_US": "Derrote o \\c[3]\\v[combat.name.jungle/special/snowman-jungle-boss]\\c[0] que se instalou no \\c[3]\\v[area.jungle.name]\\c[0]!\nQuebre a defesa dele teleportando o\\c[3]\\v[combat.name.jungle/special/heater]\\c[0]!",
         "de_DE": "Besiege den \\c[3]Karotto Fruchtsucher\\c[0], der nach \\c[3]Gaias Garten\\c[0] umgezogen ist!\nDurchbrich seine Verteidigung mittels des \\c[3]H\u00f6llenglut-Plasmaofens\\c[0]!",
         "zh_CN": "\u51fb\u8d25\u5b9a\u5c45\u5728\\c[3]\\v[area.jungle.name]\\c[0]\u7684\\c[3]\\v[combat.name.jungle/special/snowman-jungle-boss]\\c[0]!\n\u4f20\u9001\\c[3]\\v[combat.name.jungle/special/heater]\\c[0]\u6765\u7834\u574f\u5176\u9632\u5fa1!<<A<<[CHANGED 2019/07/31]",
         "ja_JP": "\\c[3]\\v[area.jungle.name]\\c[0]\u306b\u4f4f\u307f\u7740\u3044\u305f\\c[3]\\v[combat.name.jungle/special/snowman-jungle-boss]\\c[0]\u3092\u5012\u305b\uff01\n\\c[3]\\v[combat.name.jungle/special/heater]\\c[0]\u3092\u5229\u7528\u3057\u3066\u3001\u6575\u306e\u9632\u5fa1\u3092\u7121\u52b9\u5316\u3057\u3088\u3046\uff01<<A<<[CHANGED 2019/07/31]",

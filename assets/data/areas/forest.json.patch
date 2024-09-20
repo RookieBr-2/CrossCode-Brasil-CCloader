@@ -390,7 +390,7 @@
             "path": "forest.path-04-hostel",
             "name": {
                 "": "The Cave Inn",
-                "en_US": "Pousada Caverna",
+                "en_US": "Pousada da Caverna",
                 "langUid": 21,
                 "zh_CN": "\u6d1e\u5929\u65c5\u9986<<A<<[CHANGED 2017\/10\/10]",
                 "de_DE": "H\u00f6hlenherberge",
@@ -476,7 +476,7 @@
             "path": "forest.path-07",
             "name": {
                 "": "Flower Lake",
-                "en_US": "Lago de Flores",
+                "en_US": "Lago das Flores",
                 "langUid": 45,
                 "zh_CN": "\u82b1\u6e56<<A<<[CHANGED 2017\/10\/10]",
                 "de_DE": "Blumensee",
@@ -595,7 +595,7 @@
             "path": "forest.interior.inn-01",
             "name": {
                 "": "Cave Inn EG",
-                "en_US": "Pousada Caverna EG",
+                "en_US": "Pousada da Caverna P",
                 "langUid": 91,
                 "de_DE": "H\u00f6hlenherberge",
                 "zh_CN": "\u6d1e\u5929\u65c5\u9986EG<<A<<[CHANGED 2017\/10\/13]",
@@ -612,7 +612,7 @@
             "path": "forest.interior.inn-equip",
             "name": {
                 "": "Cave Inn Mall",
-                "en_US": "Pousada Caverna Shopping",
+                "en_US": "Shopping da Pousada",
                 "langUid": 92,
                 "de_DE": "H\u00f6hlenherberge \/ H\u00e4ndlerhaus",
                 "zh_CN": "\u6d1e\u5929\u65c5\u9986\u8d2d\u7269\u5927\u5385<<A<<[CHANGED 2017\/10\/13]",
@@ -629,7 +629,7 @@
             "path": "forest.interior.inn-item",
             "name": {
                 "": "Cave Inn Store",
-                "en_US": "Pousada Caverna Loja",
+                "en_US": "Loja da Pousada",
                 "langUid": 94,
                 "de_DE": "H\u00f6hlenherberge \/ Laden",
                 "zh_CN": "\u6d1e\u5929\u65c5\u9986\u5546\u5e97<<A<<[CHANGED 2017\/10\/13]",
@@ -646,7 +646,7 @@
             "path": "forest.interior.inn-storage",
             "name": {
                 "": "Cave Inn Storage",
-                "en_US": "Pousada Carverna Armazem",
+                "en_US": "Armazém da Pousada",
                 "langUid": 100,
                 "de_DE": "H\u00f6hlenherberge \/ Lagerraum",
                 "zh_CN": "\u6d1e\u5929\u65c5\u9986\u50a8\u85cf\u5ba4<<A<<[CHANGED 2017\/10\/13]",
@@ -1433,7 +1433,7 @@
             "path": "forest.interior.inn-og-01",
             "name": {
                 "": "Cave Inn 1F",
-                "en_US": "Pousada Caverna 1F",
+                "en_US": "Pousada da Caverna 1A",
                 "langUid": 107,
                 "de_DE": "H\u00f6hlenherberge \/ 1. OG",
                 "zh_CN": "\u6d1e\u5929\u65c5\u99861\u697c<<A<<[CHANGED 2018\/07\/09]",
@@ -1455,7 +1455,7 @@
             "dungeon": "",
             "name": {
                 "": "The Cave Inn",
-                "en_US": "A Pousada Caverna",
+                "en_US": "A Pousada da Caverna",
                 "langUid": 169,
                 "de_DE": "H\u00f6hlenherberge",
                 "zh_CN": "\u6d1e\u5929\u65c5\u9986<<A<<[CHANGED 2018\/07\/09]",
@@ -1469,7 +1469,7 @@
             "zMin": 3,
             "name": {
                 "": "The Cave Inn",
-                "en_US": "A Pousada Caverna",
+                "en_US": "A Pousada da Caverna",
                 "langUid": 199,
                 "de_DE": "H\u00f6hlenherberge",
                 "zh_CN": "\u6d1e\u5929\u65c5\u9986<<A<<[CHANGED 2018\/08\/01]",
@@ -1488,7 +1488,7 @@
             "zMin": 3,
             "name": {
                 "": "The Cave Inn",
-                "en_US": "A Pousada Caverna",
+                "en_US": "A Pousada da Caverna",
                 "langUid": 170,
                 "de_DE": "H\u00f6hlenherberge",
                 "zh_CN": "\u6d1e\u5929\u65c5\u9986<<A<<[CHANGED 2018\/07\/09]",
@@ -1664,7 +1664,7 @@
             "zMin": 5,
             "name": {
                 "": "The Cave Inn",
-                "en_US": "A Pousada Caverna",
+                "en_US": "A Pousada da Caverna",
                 "langUid": 167,
                 "zh_CN": "\u6d1e\u5929\u65c5\u9986<<A<<[CHANGED 2018\/07\/09]",
                 "ja_JP": "\u6d1e\u7a9f\u5bbf<<A<<[CHANGED 2018\/07\/09]",

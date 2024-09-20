@@ -2841,7 +2841,7 @@
           {
             "message": {
               "": "Does that mean...\\. is he with you as well?",
-              "en_US": "Isso significa que...\\. ele está com você também?",
+              "en_US": "Isso significa que...\\. ele está com você?",
               "langUid": 39,
               "ja_JP": "\u3068\u3044\u3046\u3053\u3068\u306f\u3064\u307e\u308a...\\.\n\u5f7c\u3082\u4e00\u7dd2\u306a\u306e\u304b\u3044\uff1f<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\uadf8\ub807\ub2e4\ub294 \uac74...\\. \uadf8\ub3c4 \ub108\uc640 \ud568\uaed8 \uc788\ub2e4\ub294 \uac74\uac00?<<A<<[CHANGED 2018/05/01]",
@@ -2969,7 +2969,7 @@
           {
             "message": {
               "": "Make sure he can read the number of this device.",
-              "en_US": "Certifique-se de que ele consegue ler o número deste dispositivo.",
+              "en_US": "Aproxime-se para que ele consiga ver o número neste dispositivo.",
               "langUid": 45,
               "ja_JP": "\u3053\u306e\u30c7\u30d0\u30a4\u30b9\u306b\u8868\u793a\u3055\u308c\u308b\u6570\u5b57\u3092\n\u5f7c\u304c\u8aad\u3081\u308b\u3088\u3046\u306b\u3057\u3066\u304f\u308c\u3002<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\uadf8\uac00 \uc774 \uc7a5\uce58\uc758 \ubc88\ud638\ub97c \uc77d\uc744 \uc218 \uc788\ub294\uc9c0 \ud655\uc778\ud574\uc918.<<A<<[CHANGED 2018/05/01]",
@@ -3000,7 +3000,7 @@
           {
             "message": {
               "": "It's possible to connect to it using an IDN-Client.",
-              "en_US": "É possível conectar-se a ele usando um IDN-Client.",
+              "en_US": "Assim ele poderá se conectar usando um IDN-Client.",
               "langUid": 46,
               "ja_JP": "IDN\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u3092\u4f7f\u3048\u3070\n\u63a5\u7d9a\u3067\u304d\u308b\u306f\u305a\u3060\u3002<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "IDN-\ud074\ub77c\uc774\uc5b8\ud2b8\ub97c \uc0ac\uc6a9\ud558\uba74 \uc5f0\uacb0\ud560 \uc218 \uc788\uc5b4.<<A<<[CHANGED 2018/05/01]",
@@ -3022,7 +3022,7 @@
           {
             "message": {
               "": "Oh? Just make sure to look closely at the number, Lea!",
-              "en_US": "Ah? Olhe atentamente para o número, por favor, Lea!",
+              "en_US": "Ah? Por favor, Lea, olhe o número de perto!",
               "de_DE": "Oh? Schau bitte genau auf die Nummer, Lea!",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u662f\u8fd9\u6837\u5417\uff1f\u90a3\u4f60\u53ef\u5f97\u4ed4\u7ec6\u770b\u4e86\uff0c\u8389\u4e9a\uff01<<A<<[CHANGED 2018/05/01]",
@@ -3212,7 +3212,7 @@
           {
             "message": {
               "": "Satoshi...\\. I am so glad to see you again.",
-              "en_US": "Satoshi...\\. Estou tão em ver você novamente.",
+              "en_US": "Satoshi...\\. Estou tão feliz em ver você novamente.",
               "langUid": 52,
               "ja_JP": "\u30b5\u30c8\u30b7...\\.\n\u307e\u305f\u541b\u3068\u4f1a\u3048\u3066\u3046\u308c\u3057\u3044\u3088\u3002<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\uc0ac\ud1a0\uc2dc...\\. \ub2e4\uc2dc \ubcfc \uc218 \uc788\uac8c \ub418\uc5b4 \ub2e4\ud589\uc774\uc57c.<<A<<[CHANGED 2018/05/01]",
@@ -3244,7 +3244,7 @@
           {
             "message": {
               "": "Same for me.\\. It has been too long...",
-              "en_US": "O mesmo para mim.\\. Já faz muito tempo...",
+              "en_US": "Igualmente.\\. Já faz muito tempo...",
               "langUid": 55,
               "ja_JP": "\u50d5\u3082\u3060\u3088\u3002\\.\u305a\u3044\u3076\u3093\u6642\u304c\n\u7d4c\u3063\u3066\u3057\u307e\u3063\u305f\u306d...<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\ub098\ub3c4 \ub9c8\ucc2c\uac00\uc9c0\uc57c.\\. \ub108\ubb34 \uc624\ub79c \uc2dc\uac04\uc774 \uc9c0\ub0ac\uc9c0...<<A<<[CHANGED 2018/05/01]",
@@ -3299,7 +3299,7 @@
           {
             "message": {
               "": "S-Sergey?\\. Is that you?",
-              "en_US": "S-Sergey?\\. Esse é você?",
+              "en_US": "S-Sergey?\\. É você?",
               "langUid": 54,
               "ja_JP": "\u30bb\u3001\u30bb\u30eb\u30b2\u30a4\uff1f\\.\n\u3042\u306a\u305f\u306a\u306e\uff1f<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\uc138, \uc138\ub974\uac8c\uc774?\\. \uc815\ub9d0 \ub108\uc57c?<<A<<[CHANGED 2018/05/01]",
@@ -3331,7 +3331,7 @@
           {
             "message": {
               "": "I'm sure you have a lot of questions, but before we continue, let me start a little program.",
-              "en_US": "Tenho certeza de que você tem muitas perguntas, mas antes de continuarmos, me deixe rodar um pequeno programa.",
+              "en_US": "Sei que você deve ter muitas perguntas, mas antes de prosseguirmos, deixe-me rodar um pequeno programa.",
               "langUid": 56,
               "ja_JP": "\u8cea\u554f\u3057\u305f\u3044\u3053\u3068\u306f\u305f\u304f\u3055\u3093\u3042\u308b\u3060\u308d\u3046\u306d\u3002\n\u3067\u3082\u8a71\u3092\u7d9a\u3051\u308b\u524d\u306b\u3001\u3061\u3087\u3063\u3068\u3057\u305f\n\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u5b9f\u884c\u3055\u305b\u3066\u304f\u308c\u3002<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\uc9c8\ubb38\uc774 \ub9ce\uc744 \uac70\ub77c\uace0 \uc0dd\uac01\ud558\uc9c0\ub9cc, \uacc4\uc18d\ud558\uae30 \uc804\uc5d0 \uac04\ub2e8\ud55c \ud504\ub85c\uadf8\ub7a8\uc744 \uba3c\uc800 \uc2dc\uc791\ud560\uac8c.<<A<<[CHANGED 2018/05/01]",
@@ -3570,7 +3570,7 @@
           {
             "message": {
               "": "Alright, let's stay close and talk quietly.",
-              "en_US": "Tudo bem, vamos ficar perto e conversar baixinho.",
+              "en_US": "Tudo bem, vamos ficar próximos e conversar baixinho.",
               "langUid": 62,
               "ja_JP": "\u3088\u3057\u3001\u8fd1\u304f\u306b\u5bc4\u3063\u3066\u3001\n\u5c0f\u3055\u3044\u58f0\u3067\u8a71\u3057\u3066\u304f\u308c\u3002<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\uc88b\uc544, \uac00\uae4c\uc774\uc11c \uc870\uc6a9\ud788 \uc598\uae30\ud558\uc790\uace0.<<A<<[CHANGED 2018/05/01]",
@@ -3675,7 +3675,7 @@
           {
             "message": {
               "": "Is Lea...\\. aware about herself as well?",
-              "en_US": "Lea está...\\. consciente sobre si mesma também?",
+              "en_US": "Lea está...\\. consciente do que ela é?",
               "langUid": 107,
               "ja_JP": "\u30ec\u30a2\u306f...\\.\u81ea\u5206\u304c\u305d\u3046\u3060\u3068\n\u6c17\u3065\u3044\u3066\u3044\u308b\u306e\u304b\uff1f<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\ub808\uc544\ub3c4...\\. \uc790\uc2e0\uc5d0 \ub300\ud574 \uc54c\uace0 \uc788\ub098?<<A<<[CHANGED 2018/05/01]",
@@ -3720,7 +3720,7 @@
           {
             "message": {
               "": "Good...\\. this will make things much easier.",
-              "en_US": "Bom...\\. isso vai facilitar muito as coisas.",
+              "en_US": "Ótimo...\\. isso vai facilitar muito as coisas.",
               "langUid": 110,
               "ja_JP": "\u3088\u304b\u3063\u305f...\\.\n\u305d\u306e\u307b\u3046\u304c\u8a71\u304c\u65e9\u3044\u3002<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\uc88b\uc544...\\. \uadf8\ub807\ub2e4\uba74 \uc77c\uc774 \uc21c\uc870\ub86d\uac8c \uc9c4\ud589\ub418\uaca0\uc5b4.<<A<<[CHANGED 2018/05/01]",
@@ -3735,7 +3735,7 @@
           {
             "message": {
               "": "Lea, let me start by saying that you are, in fact, the \\c[3]very first functional Evotar\\c[0].\n",
-              "en_US": "Lea, deixe-me começar dizendo que você é, de fato, a \\c[3]primeira Evotar funcional\\c[0].\n",
+              "en_US": "Lea, de fato, você é a \\c[3]primeira Evotar funcional\\c[0].\n",
               "langUid": 111,
               "ja_JP": "\u30ec\u30a2\u3001\u541b\u306e\u8a71\u304b\u3089\u59cb\u3081\u3055\u305b\u3066\u304f\u308c\u3002\n\u541b\u306f\u4e8b\u5b9f\u4e0a\u3001\\c[3]\u30a8\u30f4\u30a9\u30bf\u30fc\u521d\u306e\n\u6210\u529f\u4f8b\\c[0]\u306a\u3093\u3060\u3002<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\ub808\uc544, \uc0ac\uc2e4\uc740 \ub124\uac00 \\c[3]\ucd5c\ucd08\uc758 \uae30\ub2a5\uc744 \ud558\ub294 \uc5d0\ubcf4\ud0c0\\c[0]\uc600\ub2e4\ub294 \uac78\ub85c \uc598\uae30\ub97c \uc2dc\uc791\ud560\uac8c.<<A<<[CHANGED 2018/05/01]",
@@ -3750,7 +3750,7 @@
           {
             "message": {
               "": "Minus a few remaining technical issues... like your \\c[3]malfunctioning speech module\\c[0].",
-              "en_US": "Tirando seus problemas técnicos... como seu \\c[3]módulo de fala com defeito\\c[0].",
+              "en_US": "Tirando seus problemas técnicos... como seu \\c[3]módulo de fala defeituoso\\c[0].",
               "langUid": 112,
               "ja_JP": "\u6280\u8853\u7684\u306a\u554f\u984c\u306f\u3044\u304f\u3064\u304b\n\u6b8b\u3063\u3066\u3057\u307e\u3063\u305f\u3051\u3069\u306d...\u4f8b\u3048\u3070\u3001\n\\c[3]\u4f1a\u8a71\u30e2\u30b8\u30e5\u30fc\u30eb\u306e\u4e0d\u5177\u5408\\c[0]\u304c\u305d\u3046\u3060\u3002<<A<<[CHANGED 2018/05/01]",
               "ko_KR": "\uba87 \uac00\uc9c0 \uae30\uc220\uc801 \ubb38\uc81c\ub97c \uc81c\uc678\ud558\uace0 \ub9d0\uc774\uc57c... \ub124 \\c[3]\ub300\ud654 \ubaa8\ub4c8 \uc624\uc791\ub3d9\\c[0]\ucc98\ub7fc.<<A<<[CHANGED 2018/05/01]",
@@ -3795,7 +3795,7 @@
           {
             "message": {
               "": "Partially... I hard-coded a few words into her module.",
-              "en_US": "Parcialmente... Codifiquei algumas palavras no módulo dela.",
+              "en_US": "Sim, parcialmente...\\. Codifiquei algumas palavras no módulo dela.",
               "langUid": 115,
               "ja_JP": "\u90e8\u5206\u7684\u306b\u306f\u306d...\u8a00\u8449\u3092\u3044\u304f\u3064\u304b\u3001\n\u5f7c\u5973\u306e\u30e2\u30b8\u30e5\u30fc\u30eb\u306b\n\u76f4\u63a5\u30b3\u30fc\u30c7\u30a3\u30f3\u30b0\u3057\u305f\u306e\u3055\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\ubd80\ubd84\uc801\uc73c\ub85c\ub9cc \ub9d0\ud560 \uc218 \uc788\uc5b4... \ubaa8\ub4c8\uc5d0 \uba87 \uac00\uc9c0 \ub2e8\uc5b4\ub97c \ud558\ub4dc\ucf54\ub529 \ud574\ub450\uc5c8\uac70\ub4e0.<<A<<[CHANGED 2018/09/19]",
@@ -3810,7 +3810,7 @@
           {
             "message": {
               "": "I wasn't even aware that was an option...",
-              "en_US": "Eu nem sabia que era uma opção...",
+              "en_US": "Eu nem sabia que isso era possível...",
               "langUid": 116,
               "ja_JP": "\u305d\u3093\u306a\u3084\u308a\u65b9\u304c\u3042\u308b\u3068\u306f\n\u6c17\u3065\u304d\u3082\u3057\u306a\u304b\u3063\u305f\u3088...<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uc774\ub7f0 \ubc29\ubc95\uc774 \uc788\ub294 \uc904\uc740 \ubab0\ub790\ub124...<<A<<[CHANGED 2018/09/19]",
@@ -3900,7 +3900,7 @@
               {
                 "message": {
                   "": "\\c[1]Great work\\c[0].\\. That duel sure was a lot of fun.",
-                  "en_US": "\\c[1]Ótimo trabalho\\c[0].\\. Esse duelo com certeza foi muito divertido.",
+                  "en_US": "\\c[1]Bom trabalho\\c[0].\\. Aquele duelo foi muito \"divertido\".",
                   "de_DE": "\\c[1]Gut gemacht, Sergey!\\c[0]\\. Selten so viel Spa\u00df gehabt bei einem Duell, ehrlich!",
                   "zh_CN": "\u771f\u662f\\c[1]\u5e72\u5f97\u6f02\u4eae\\c[0]\u3002\\.\u975e\u5e38\u6709\u8da3\u7684\u4e00\u573a\u51b3\u6597\u3002<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\\c[1]\u304a\u898b\u4e8b\\c[0]\u306d\u3002\\.\u307e\u3063\u305f\u304f\u3082\u3063\u3066\u3001\n\u5b9f\u306b\u697d\u3057\u3044\u6c7a\u95d8\u3060\u3063\u305f\u308f\u3002<<A<<[CHANGED 2019/08/16]",
@@ -4920,7 +4920,7 @@
               {
                 "text": {
                   "": "We Shad a very noble folks, related to Ancients!",
-                  "en_US": "Nós Shads um povo muito nobre, relacionado aos Anciões!",
+                  "en_US": "Nós Shad, somos um povo muito nobre, ligado aos Antigos!",
                   "langUid": 89,
                   "ja_JP": "\u79c1\u305f\u3061\u30b7\u30e3\u30c3\u30c9\u3001\u3068\u3066\u3082\u9ad8\u8cb4\u3002\n\u53e4\u4ee3\u4eba\u306e\u8840\u3092\u5f15\u3044\u3066\u308b\uff01<<A<<[CHANGED 2018/05/01]",
                   "ko_KR": "\uc6b0\ub9ac \uc0e4\ub4dc\ub294 \uace0\ub300\uc778\uacfc \uad00\ub828\ub41c \ub9e4\uc6b0 \uace0\uadc0\ud55c \uc874\uc7ac\uc785\ub2c8\ub2e4!<<A<<[CHANGED 2018/05/01]",
@@ -4937,7 +4937,7 @@
               {
                 "text": {
                   "": "Yes, but we have trouble with Human tongue!",
-                  "en_US": "Sim, mas isso porque a língua humana realmente incomoda alguns. ",
+                  "en_US": "Sim, mas língua humana é complicada.",
                   "langUid": 90,
                   "ja_JP": "\u78ba\u304b\u306b\u3002\u3067\u3082\u79c1\u305f\u3061\u3001\n\u4eba\u9593\u306e\u8a00\u8449\u82e6\u624b\uff01<<A<<[CHANGED 2018/05/01]",
                   "ko_KR": "\ub9de\uc544\uc694, \ud558\uc9c0\ub9cc \uc778\uac04\uc758 \uc5b8\uc5b4\ub85c \ubb38\uc81c\ub97c \uacaa\uace0 \uc788\uc2b5\ub2c8\ub2e4!<<A<<[CHANGED 2018/05/01]",
@@ -4955,7 +4955,7 @@
               {
                 "text": {
                   "": "Yes, but that because human tongue really trouble some. Too many word and weird rules!",
-                  "en_US": "Sim, mas isso porque a língua humana realmente incomoda alguns. Muitas palavras e regras estranhas!",
+                  "en_US": "Sim, língua humana incomoda alguns. Muitas palavras e regras estranhas!",
                   "langUid": 91,
                   "ja_JP": "\u305d\u306e\u901a\u308a\u3002\u3067\u3082\u3001\u305d\u308c\u306f\n\u4eba\u9593\u306e\u8a00\u8449\u304c\u304a\u304b\u3057\u3044\u304b\u3089\u3002\n\u5358\u8a9e\u306f\u591a\u3044\u3057\u3001\u6587\u6cd5\u306f\u5909\uff01<<A<<[CHANGED 2018/05/01]",
                   "ko_KR": "\ub9de\uc2b5\ub2c8\ub2e4, \uadf8\uac74 \uc778\uac04\uc758 \uc5b8\uc5b4\uac00 \uc774\uc0c1\ud558\uae30 \ub54c\ubb38\uc774\uc8e0. \ub108\ubb34 \ub9ce\uc740 \ub2e8\uc5b4\uc640 \uc774\uc0c1\ud55c \uaddc\uce59\uc744 \uc0ac\uc6a9\ud569\ub2c8\ub2e4!<<A<<[CHANGED 2018/05/01]",
@@ -4972,7 +4972,7 @@
               {
                 "text": {
                   "": "So true! We should help human make language simple!",
-                  "en_US": "Isso é verdade! Devemos ajudar as pessoas, tornar a linguagem mais fácil!",
+                  "en_US": "Isso é verdade! Devemos ajudar humanos, tornar linguagem mais fácil!",
                   "langUid": 92,
                   "ja_JP": "\u305d\u3046\u305d\u3046\uff01\u4eba\u9593\u306e\u8a00\u8449\u304c\n\u30b7\u30f3\u30d7\u30eb\u306b\u306a\u308b\u3088\u3046\u3001\n\u79c1\u305f\u3061\u52a9\u3051\u306a\u3044\u3068\uff01<<A<<[CHANGED 2018/05/01]",
                   "ko_KR": "\ub9de\uc2b5\ub2c8\ub2e4! \uc778\uac04\uc774 \uc5b8\uc5b4\ub97c \uac04\ub2e8\ud558\uac8c \ub9cc\ub4e4 \uc218 \uc788\ub3c4\ub85d \uc6b0\ub9ac\uac00 \ub3c4\uc640\uc57c \ud569\ub2c8\ub2e4!<<A<<[CHANGED 2018/05/01]",
@@ -5077,7 +5077,7 @@
               {
                 "text": {
                   "": "We Shad a very noble folks, related to Ancients!",
-                  "en_US": "Nós Shads um povo muito nobre, relacionado aos Anciões!",
+                  "en_US": "Nós Shad, somos um povo muito nobre, ligado aos Antigos!",
                   "langUid": 94,
                   "ja_JP": "\u79c1\u305f\u3061\u30b7\u30e3\u30c3\u30c9\u3001\u3068\u3066\u3082\u9ad8\u8cb4\u3002\n\u53e4\u4ee3\u4eba\u306e\u8840\u3092\u5f15\u3044\u3066\u308b\uff01<<A<<[CHANGED 2018/05/01]",
                   "ko_KR": "\uc6b0\ub9ac \uc0e4\ub4dc\ub294 \uace0\ub300\uc778\uacfc \uad00\ub828\ub41c \ub9e4\uc6b0 \uace0\uadc0\ud55c \uc874\uc7ac\uc785\ub2c8\ub2e4!<<A<<[CHANGED 2018/05/01]",
@@ -5094,7 +5094,7 @@
               {
                 "text": {
                   "": "Yes, but we have trouble with Human tongue!",
-                  "en_US": "Sim, mas temos problemas com a língua humana!",
+                  "en_US": "Sim, mas língua humana é complicada.",
                   "langUid": 95,
                   "ja_JP": "\u78ba\u304b\u306b\u3002\u3067\u3082\u79c1\u305f\u3061\u3001\n\u4eba\u9593\u306e\u8a00\u8449\u82e6\u624b\uff01<<A<<[CHANGED 2018/05/01]",
                   "ko_KR": "\ub9de\uc544\uc694, \ud558\uc9c0\ub9cc \uc778\uac04\uc758 \uc5b8\uc5b4\ub85c \ubb38\uc81c\ub97c \uacaa\uace0 \uc788\uc2b5\ub2c8\ub2e4!<<A<<[CHANGED 2018/05/01]",
@@ -5112,7 +5112,7 @@
               {
                 "text": {
                   "": "Yes, but that because human tongue really trouble some. Too many word and weird rules!",
-                  "en_US": "Sim, mas isso porque a língua humana realmente incomoda alguns. Muitas palavras e regras estranhas!",
+                  "en_US": "Sim, língua humana incomoda alguns. Muitas palavras e regras estranhas!",
                   "langUid": 96,
                   "ja_JP": "\u305d\u306e\u901a\u308a\u3002\u3067\u3082\u3001\u305d\u308c\u306f\n\u4eba\u9593\u306e\u8a00\u8449\u304c\u304a\u304b\u3057\u3044\u304b\u3089\u3002\n\u5358\u8a9e\u306f\u591a\u3044\u3057\u3001\u6587\u6cd5\u306f\u5909\uff01<<A<<[CHANGED 2018/05/01]",
                   "ko_KR": "\ub9de\uc2b5\ub2c8\ub2e4, \uadf8\uac74 \uc778\uac04\uc758 \uc5b8\uc5b4\uac00 \uc774\uc0c1\ud558\uae30 \ub54c\ubb38\uc774\uc8e0. \ub108\ubb34 \ub9ce\uc740 \ub2e8\uc5b4\uc640 \uc774\uc0c1\ud55c \uaddc\uce59\uc744 \uc0ac\uc6a9\ud569\ub2c8\ub2e4!<<A<<[CHANGED 2018/05/01]",
@@ -5129,7 +5129,7 @@
               {
                 "text": {
                   "": "So true! We should help human make language simple!",
-                  "en_US": "Tão verdadeiro! Devemos ajudar os humanos a tornar a linguagem simples!",
+                  "en_US": "Isso é verdade! Devemos ajudar humanos, tornar linguagem mais fácil!",
                   "langUid": 97,
                   "ja_JP": "\u305d\u3046\u305d\u3046\uff01\u4eba\u9593\u306e\u8a00\u8449\u304c\n\u30b7\u30f3\u30d7\u30eb\u306b\u306a\u308b\u3088\u3046\u3001\n\u79c1\u305f\u3061\u52a9\u3051\u306a\u3044\u3068\uff01<<A<<[CHANGED 2018/05/01]",
                   "ko_KR": "\ub9de\uc2b5\ub2c8\ub2e4! \uc778\uac04\uc774 \uc5b8\uc5b4\ub97c \uac04\ub2e8\ud558\uac8c \ub9cc\ub4e4 \uc218 \uc788\ub3c4\ub85d \uc6b0\ub9ac\uac00 \ub3c4\uc640\uc57c \ud569\ub2c8\ub2e4!<<A<<[CHANGED 2018/05/01]",
@@ -5839,7 +5839,7 @@
           {
             "message": {
               "": "Well...\\. Not that it mattered to me.",
-              "en_US": "Bem...\\. Não que isso me importasse.",
+              "en_US": "Só que...\\. isso não faria diferença para mim.",
               "de_DE": "Nur...\\. dass das bei mir keinen Unterschied gemacht h\u00e4tte.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u4e0d\u8fc7...\\.\u548c\u6211\u6ca1\u5173\u7cfb\u4e86\u3002<<A<<[CHANGED 2018/05/01]",
@@ -5855,7 +5855,7 @@
           {
             "message": {
               "": "Do you mean...\\. your heart disease?\\. Please do not tell me...",
-              "en_US": "Você quer dizer...\\. sua doença cardíaca?\\. Por favor, não me diga...",
+              "en_US": "Você está se referindo à...\\. sua doença cardíaca?\\. Por favor, não me diga...",
               "de_DE": "Meinst du...\\. dein Herzleiden?\\. Bitte sag mir jetzt nicht, dass...",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u4f60\u662f\u8bf4...\\.\u4f60\u7684\u5fc3\u810f\u75c5\uff1f\\.\u522b\u544a\u8bc9\u6211...<<A<<[CHANGED 2018/09/19]",
@@ -5951,7 +5951,7 @@
           {
             "message": {
               "": "I was naive to ever think he'd fulfill his end of the agreement.",
-              "en_US": "Eu era ingênuo em pensar que ele cumpriria sua parte do acordo.",
+              "en_US": "Eu fui ingênuo em pensar que ele cumpriria sua parte do acordo.",
               "de_DE": "Ich war naiv genug zu glauben, dass er seinen Teil der Vereinbarung einhalten w\u00fcrde.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u6211\u4ee5\u4e3a\u4ed6\u4f1a\u5151\u73b0\u627f\u8bfa\u771f\u662f\u592a\u5929\u771f\u4e86\u3002<<A<<[CHANGED 2018/05/01]",
@@ -6022,7 +6022,7 @@
           {
             "message": {
               "": "Nothing could have been done about my disease anyway.",
-              "en_US": "Nada poderia ter sido feito sobre minha doença de qualquer forma.",
+              "en_US": "Não havia nada que pudesse ser feito em relação à minha doença.",
               "de_DE": "Es h\u00e4tte ohnehin nichts mehr f\u00fcr mich getan werden k\u00f6nnen.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u6211\u7684\u75c5\u672c\u6765\u5c31\u6ca1\u6551\u4e86\u3002<<A<<[CHANGED 2018/05/01]",
@@ -6601,7 +6601,7 @@
           {
             "message": {
               "": "Though there is one more thing.",
-              "en_US": "Embora haja mais uma coisa.",
+              "en_US": "Mas ainda há um ponto a ser discutido.",
               "de_DE": "Obwohl, eine Sache f\u00e4llt mir noch ein.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u4e0d\u8fc7\u8fd8\u6709\u4e00\u4ef6\u4e8b\u3002<<A<<[CHANGED 2018/05/01]",
@@ -6617,7 +6617,7 @@
           {
             "message": {
               "": "Shizuka, how is \\c[3]Gautham\\c[0] doing these days?",
-              "en_US": "Shizuka, como está o \\c[3]Gautham\\c[0] atualmente?",
+              "en_US": "Shizuka, como o \\c[3]Gautham\\c[0] está?",
               "de_DE": "Shizuka, wie geht es \\c[3]Gautham\\c[0] in letzter Zeit?",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u9759\uff0c\\c[3]\u9ad8\u8c2d\\c[0]\u8fd1\u51b5\u5982\u4f55\uff1f<<A<<[CHANGED 2018/05/01]",
@@ -6633,7 +6633,7 @@
           {
             "message": {
               "": "Well...\\. I didn't speak much with him recently.",
-              "en_US": "Bem...\\. Eu não falei muito com ele recentemente.",
+              "en_US": "Eu não falei muito com ele recentemente.",
               "de_DE": "Tja...\\. Ich habe in letzter Zeit nicht viel mit ihm geredet.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u5443...\\.\u6211\u6700\u8fd1\u6ca1\u4ec0\u4e48\u548c\u4ed6\u6765\u5f80\u3002<<A<<[CHANGED 2018/05/01]",
@@ -6665,7 +6665,7 @@
           {
             "message": {
               "": "He seems content enough.",
-              "en_US": "Ele parece satisfeito o suficiente.",
+              "en_US": "Ele parece estar bem satisfeito.",
               "de_DE": "Er scheint sich damit zu begn\u00fcgen.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u4f3c\u4e4e\u5f88\u5f00\u5fc3\u3002<<A<<[CHANGED 2018/05/01]",
@@ -6681,7 +6681,7 @@
           {
             "message": {
               "": "Gautham... it might be especially difficult to get him out of this.",
-              "en_US": "Gautham... pode ser especialmente difícil tirá-lo disso.",
+              "en_US": "Gautham... pode ser muito complicado tirá-lo dessa situação.",
               "de_DE": "Gautham... Es k\u00f6nnte extrem schwierig werden, ihn zum Ausstieg zu bewegen.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u9ad8\u8c2d...\u4ed6\u53ef\u80fd\u662f\u6700\u96be\u6551\u7684\u4e00\u4e2a\u3002<<A<<[CHANGED 2018/05/01]",
@@ -6790,7 +6790,7 @@
           {
             "message": {
               "": "We did in fact meet him while we were in Evotarground.",
-              "en_US": "Nós vimos ele de fato enquanto estávamos no Evotarground.",
+              "en_US": "Nós vimos ele enquanto estávamos em Evotarground.",
               "de_DE": "Wir sind ihm sogar begegnet, als wir auf dem Evotarplatz waren.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u6211\u4eec\u4e4b\u524d\u5728\u8fdb\u5316\u8005\u56ed\u533a\u89c1\u8fc7\u4ed6\u3002<<A<<[CHANGED 2018/09/19]",
@@ -6806,7 +6806,7 @@
           {
             "message": {
               "": "From what we saw... it looked like he is physically located in the Playground. Could that be the case?",
-              "en_US": "Pelo que vimos... parecia que ele está fisicamente localizado no Playground. Pode ser este o caso?",
+              "en_US": "Pelo que vimos... parece que ele estava fisicamente no Playground. Isso é possível?",
               "de_DE": "Es sah allerdings so aus, als ob er sich tats\u00e4chlich selbst auf dem Spielplatz aufh\u00e4lt. W\u00e4re das m\u00f6glich?",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u6839\u636e\u6211\u4eec\u7684\u6240\u89c1...\u4ed6\u53ef\u80fd\u672c\u4eba\u5c31\u5728\u6e38\u4e50\u56ed\u533a\u57df\u91cc\u3002\u662f\u8fd9\u6837\u5417\uff1f<<A<<[CHANGED 2018/05/01]",
@@ -6854,7 +6854,7 @@
           {
             "message": {
               "": "And well...\\. Gautham was always excited about creating his own worlds.",
-              "en_US": "E bem...\\. Gautham estava sempre empolgado em criar seus próprios mundos.",
+              "en_US": "Além disso...\\. Gautham estava sempre empolgado em criar seus próprios mundos.",
               "de_DE": "Hinzu kommt...\\. dass Gautham schon immer begeistert davon war, seine eigenen Welten zu erschaffen.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u800c\u4e14...\\.\u9ad8\u8c2d\u4e00\u76f4\u90fd\u5f88\u60f3\u521b\u9020\u5c5e\u4e8e\u4ed6\u81ea\u5df1\u7684\u4e16\u754c\u3002<<A<<[CHANGED 2018/05/01]",
@@ -6893,7 +6893,7 @@
           {
             "message": {
               "": "Really...\\. I think he's a lost cause.",
-              "en_US": "Realmente...\\. Acho que ele é uma causa perdida.",
+              "en_US": "Sim...\\. acho que ele é uma causa perdida.",
               "de_DE": "Ich glaube, er ist wirklich ein hoffnungsloser Fall.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u8981\u6211\u8bf4...\\.\u6211\u89c9\u5f97\u4ed6\u4e0d\u9760\u8c31\u3002<<A<<[CHANGED 2018/05/01]",
@@ -6957,7 +6957,7 @@
           {
             "message": {
               "": "That is... unexpected. He acts like such a different character.",
-              "en_US": "Isso é... inesperado. Ele age como um personagem tão diferente.",
+              "en_US": "Isso é... inesperado. Ele age como se fosse outra pessoa.",
               "de_DE": "Das \u00fcberrascht mich jetzt... Er verh\u00e4lt sich wie ein ganz anderer Mensch.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u8fd9\u771f\u662f...\u51fa\u4e4e\u610f\u6599\u3002\u4ed6\u548c\u4ece\u524d\u7b80\u76f4\u5224\u82e5\u4e24\u4eba\u3002<<A<<[CHANGED 2018/09/19]",
@@ -6989,7 +6989,7 @@
           {
             "message": {
               "": "In any case, we should try to figure out if he's on our side with this or not.",
-              "en_US": "De qualquer forma, devemos tentar descobrir se ele está do nosso lado com isso ou não.",
+              "en_US": "Enfim, temos que descobrir se ele está do nosso lado ou não.",
               "de_DE": "Jedenfalls sollten wir herausfinden, ob er auf unserer Seite steht oder nicht.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u603b\u4e4b\uff0c\u6211\u4eec\u5f97\u5f04\u6e05\u695a\u4ed6\u8ddf\u6211\u4eec\u662f\u4e0d\u662f\u4e00\u8fb9\u7684\u3002<<A<<[CHANGED 2018/05/01]",
@@ -7021,7 +7021,7 @@
           {
             "message": {
               "": "Just hinting at what is happening?",
-              "en_US": "Apenas insinuando o que está acontecendo?",
+              "en_US": "Mencionando de forma sutil o que está ocorrendo?",
               "de_DE": "Nur ein paar Andeutungen \u00fcber das aktuelle Geschehen hier machen?",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u6697\u793a\u4e00\u4e0b\u73b0\u5728\u7684\u60c5\u51b5\uff1f<<A<<[CHANGED 2018/09/19]",
@@ -7071,7 +7071,7 @@
           {
             "message": {
               "": "Well then... I think I have a good grasp of the situation now.",
-              "en_US": "Bem, então... acho que agora tenho uma boa noção da situação.",
+              "en_US": "Então... acredito que agora tenho uma visão clara da situação.",
               "de_DE": "Nun gut... Ich glaube, ich bin jetzt \u00fcber die Situation ganz gut im Bilde.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u90a3\u4e48...\u6211\u60f3\u60c5\u51b5\u6211\u5df2\u7ecf\u57fa\u672c\u4e86\u89e3\u4e86\u3002<<A<<[CHANGED 2018/05/01]",
@@ -7110,7 +7110,7 @@
           {
             "message": {
               "": "Certainly. If you have any more questions, you know how to reach me.",
-              "en_US": "Certamente. Se você tiver mais alguma dúvida, sabe como entrar em contato comigo.",
+              "en_US": "Claro. Se você tiver mais alguma dúvida, sabe como entrar em contato comigo.",
               "de_DE": "Allerdings. Wenn du noch irgendeine Frage hast, wei\u00dft du, wie du mich erreichst.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u5f53\u7136\u3002\u5982\u679c\u4f60\u8fd8\u6709\u4ec0\u4e48\u95ee\u9898\uff0c\u5c31\u5c3d\u7ba1\u95ee\u5427\u3002<<A<<[CHANGED 2018/05/01]",
@@ -7142,7 +7142,7 @@
           {
             "message": {
               "": "Same for me.",
-              "en_US": "O mesmo para mim.",
+              "en_US": "Eu também.",
               "de_DE": "Das bin ich auch.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u6211\u4e5f\u662f\u3002<<A<<[CHANGED 2018/05/01]",
@@ -7158,7 +7158,7 @@
           {
             "message": {
               "": "One last thing, though.",
-              "en_US": "Uma última coisa, no entanto.",
+              "en_US": "Só mais uma coisa",
               "de_DE": "Eine letzte Sache noch.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u8fd8\u6709\u6700\u540e\u4e00\u4ef6\u4e8b\u3002<<A<<[CHANGED 2018/05/01]",
@@ -7190,7 +7190,7 @@
           {
             "message": {
               "": "Looking at what Sidwell accomplished so far, I'm certain he has specific ways to track your actions.",
-              "en_US": "Olhando para o que Sidwell realizou até agora, tenho certeza de que ele tem maneiras específicas de rastrear suas ações.",
+              "en_US": "Com base no que Sidwell fez até agora, tenho certeza de que ele tem métodos específicos para rastrear suas ações.",
               "de_DE": "Wenn ich bedenke, was Sidwell bisher erreicht hat, muss er einen Weg gefunden haben, deine Spuren zu verfolgen.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u901a\u8fc7\u89c2\u5bdf\u897f\u5fb7\u5a01\u5c14\u5230\u76ee\u524d\u4e3a\u6b62\u7684\u4e3e\u52a8\uff0c\u6211\u786e\u4fe1\u4ed6\u6709\u7279\u6b8a\u7684\u529e\u6cd5\u53ef\u4ee5\u8ffd\u8e2a\u4f60\u7684\u884c\u52a8\u3002<<A<<[CHANGED 2018/05/01]",
@@ -7206,7 +7206,7 @@
           {
             "message": {
               "": "Because of that, please be extra careful if you plan to involve any other player.",
-              "en_US": "Por isso, tenha cuidado extra se você planeja envolver qualquer outro jogador.",
+              "en_US": "Por isso, tenha cuidado extra se for envolver qualquer outro jogador.",
               "de_DE": "Darum sei bitte besonders vorsichtig, falls du vorhast, noch jemanden ins Vertrauen zu ziehen.",
               "fr_FR": "Satoshi!",
               "zh_CN": "\u56e0\u6b64\uff0c\u4f60\u5728\u4e0e\u5176\u4ed6\u73a9\u5bb6\u4e92\u52a8\u7684\u65f6\u5019\u8bf7\u4e00\u5b9a\u8981\u591a\u52a0\u5c0f\u5fc3\u3002<<A<<[CHANGED 2019/05/14]",

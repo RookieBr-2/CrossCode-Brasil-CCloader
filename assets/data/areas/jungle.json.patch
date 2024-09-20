@@ -1117,7 +1117,7 @@
             "path": "jungle.right.right-path-01",
             "name": {
                 "": "Splitting Stumps",
-                "en_US": "Dividindo Tocos",
+                "en_US": "Troncos Partidos",
                 "de_DE": "Gespaltene St\u00fcmpfe",
                 "fr_FR": "fr_FR",
                 "langUid": 83,
@@ -1207,7 +1207,7 @@
             "path": "jungle.right.right-path-02",
             "name": {
                 "": "Clinging River",
-                "en_US": "Rio Agarrado",
+                "en_US": "Rio Parado",
                 "de_DE": "Schmiegender Fluss",
                 "fr_FR": "fr_FR",
                 "langUid": 188,
@@ -1369,7 +1369,7 @@
             "path": "jungle.infested.infested-path-06",
             "name": {
                 "": "Foul Cavity",
-                "en_US": "Cavidade Suja",
+                "en_US": "Cavidade Sinistra",
                 "de_DE": "Fauler Hohlraum",
                 "fr_FR": "fr_FR",
                 "langUid": 236,
@@ -1545,7 +1545,7 @@
             "path": "jungle.dng.lou-office",
             "name": {
                 "": "Lou's Office",
-                "en_US": "Escritório do Lou",
+                "en_US": "Escritório da Dra. Lou",
                 "langUid": 311,
                 "ja_JP": "\u30eb\u30fc\u306e\u30aa\u30d5\u30a3\u30b9<<A<<[CHANGED 2017\/12\/11]",
                 "ko_KR": "\ub8e8\uc758 \uc5f0\uad6c\uc2e4<<A<<[CHANGED 2017\/12\/12]",

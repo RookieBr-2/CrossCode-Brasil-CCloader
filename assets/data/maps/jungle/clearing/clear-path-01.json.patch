@@ -9032,7 +9032,7 @@
               {
                 "message": {
                   "": "Sal'ton, human. I am sorry, but great eldest has forbidden to sell goods to humans.",
-                  "en_US": "Salve, humana. Sinto muito, mas o grande ancião proibiu a venda de mercadorias a humanos.",
+                  "en_US": "Salve, humana. Sinto muito, mas grande anciã proibiu venda de mercadorias a humanos.",
                   "de_DE": "Salve, Mensch! Mir tun leid, aber Gro\u00dfe \u00c4lteste hat verkaufen an Mensch verboten.",
                   "fr_FR": "fr_FR",
                   "langUid": 1,
@@ -9409,7 +9409,7 @@
                   {
                     "message": {
                       "": "Sal'ton human. You helped Shad so we will help you.",
-                      "en_US": "Salve humana. Você ajudou os Shad e nós ajudamos você.",
+                      "en_US": "Salve humana. Você ajudou Shad e nós ajudamos você.",
                       "de_DE": "Salve, Mensch! Du geholfen Shad also wir helfen dir.",
                       "zh_CN": "\u591a\u8c22\u4eba\u7c7b\u3002\u4f60\u5e2e\u6c99\u5fb7\uff0c\u6c99\u5fb7\u5e2e\u4f60\u3002<<A<<[CHANGED 2018/08/28]",
                       "ja_JP": "\u307f\u306b\u304f\u3044\u4eba\u9593\u3002\u304a\u524d\u305f\u3061\u3001\n\u30b7\u30e3\u30c3\u30c9\u3092\u52a9\u3051\u305f\u3002\u30b7\u30e3\u30c3\u30c9\u3082\n\u304a\u524d\u305f\u3061\u52a9\u3051\u308b\u3002<<A<<[CHANGED 2018/08/28]",
@@ -9570,7 +9570,7 @@
               {
                 "message": {
                   "": "Humans have broken trust of Shad. Now we avoid them.",
-                  "en_US": "Os seres humanos quebraram a confiança dos Shad. Agora nós os evitamos.",
+                  "en_US": "Humanos quebraram a confiança dos Shad. Agora nós os evitamos.",
                   "de_DE": "Mensch gebrochen Vertrauen von Shad. Jetzt wir meiden Mensch.",
                   "fr_FR": "fr_FR",
                   "langUid": 5,
@@ -9665,7 +9665,7 @@
               {
                 "message": {
                   "": "Great thanks, but still not trust humans fully.",
-                  "en_US": "Muito obrigado, mas ainda não confio plenamente nos seres humanos.",
+                  "en_US": "Muito obrigado, mas ainda não confio plenamente nos humanos.",
                   "de_DE": "Gro\u00dfes Danke, vertrauen Mensch aber immer noch nicht ganz.",
                   "zh_CN": "\u5f88\u611f\u8c22\uff0c\u4f46\u6211\u4eec\u8fd8\u662f\u4e0d\u6562\u5b8c\u5168\u4fe1\u4efb\u4eba\u7c7b\u3002<<A<<[CHANGED 2017/12/12]",
                   "ko_KR": "\uc815\ub9d0 \uace0\ub9d9\uad70. \ud558\uc9c0\ub9cc \uadf8\ub807\ub2e4\uace0 \uc544\uc9c1 \uc778\uac04\uc744 \uc644\uc804\ud788 \ubbff\uc9c0\ub294 \uc54a\uc544.<<A<<[CHANGED 2017/11/16]",
@@ -9830,7 +9830,7 @@
               {
                 "message": {
                   "": "This is Shad trade place. But we do not trade with untruthful humans anymore.",
-                  "en_US": "Este é o local de comércio dos Shad. Mas nós não negociamos mais com seres humanos traiçoeiros.",
+                  "en_US": "Este é local de comércio dos Shad. Mas não negociamos mais com humanos traiçoeiros.",
                   "de_DE": "Dies sein Handelsplatz von Shad. Aber nicht handeln mit unehrlich Menschen mehr.",
                   "zh_CN": "\u8fd9\u91cc\u662f\u6c99\u5fb7\u7684\u8d38\u6613\u4e4b\u5730\u3002\u4f46\u662f\u6211\u4eec\u4e0d\u4f1a\u518d\u548c\u4e0d\u5b88\u4fe1\u7528\u7684\u4eba\u7c7b\u4ea4\u6613\u4e86\u3002",
                   "ko_KR": "\uc774\uacf3\uc740 \uc0e4\ub4dc\uc758 \uac70\ub798 \uc7a5\uc18c\ub2e4. \ud558\uc9c0\ub9cc \ubbff\uc744 \uc218 \uc5c6\ub294 \uc778\uac04\uacfc\ub294 \ub354 \uc774\uc0c1 \uac70\ub798\ud558\uc9c0 \uc54a\ub294\ub2e4.",
@@ -10094,7 +10094,7 @@
               {
                 "message": {
                   "": "Once humans and Shad were friends. Now many Shad here believe humans are evil.",
-                  "en_US": "Antigamente os humanos e os Shad eram amigos. Agora muitos Shad aqui acreditam que os humanos são maus.",
+                  "en_US": "Antigamente humanos e Shad eram amigos. Agora muitos Shad aqui acreditam que humanos são maus.",
                   "de_DE": "Einst Mensch und Shad Freunde. Jetzt viele Shad glauben Mensch sein b\u00f6se.",
                   "fr_FR": "fr_FR",
                   "langUid": 20,
@@ -10159,7 +10159,7 @@
               {
                 "message": {
                   "": "Village is free of black fiends.",
-                  "en_US": "A aldeia está livre de monstros negros.",
+                  "en_US": "Aldeia está livre de monstros negros.",
                   "de_DE": "Dorf sein frei von schwarze Monster.",
                   "zh_CN": "\u6ca1\u6709\u9ed1\u602a\u518d\u6765\u9a9a\u6270\u6751\u5e84\u4e86\u3002<<A<<[CHANGED 2017/12/12]",
                   "ko_KR": "\ub9c8\uc744\uc774 \uac80\uc740 \uc545\ub9c8\ub4e4\ub85c\ubd80\ud130 \uc790\uc720\ub85c\uc6cc\uc84c\ub2e4.<<A<<[CHANGED 2017/11/16]",
@@ -10314,7 +10314,7 @@
                   {
                     "message": {
                       "": "But same humans also \\c[3]defeated black monsters\\c[0] in village.",
-                      "en_US": "Mas a humana também \\c[3]derrotou os monstros negros\\c[0] na aldeia.",
+                      "en_US": "Mas a humana \\c[3]derrotou os monstros negros\\c[0] na aldeia.",
                       "de_DE": "Aber gleiche Mensch auch \\c[3]besiegt schwarze Monster\\c[0] in Dorf.",
                       "zh_CN": "\u4f46\u6d88\u706d\u6751\u91cc\\c[3]\u9ed1\u8272\u602a\u7269\\c[0]\u7684\u4eba\u4e5f\u662f\u4eba\u7c7b\u3002<<A<<[CHANGED 2018/08/28]",
                       "ja_JP": "\u3067\u3082\u540c\u3058\u4eba\u9593\u304c\n\u6751\u306e\\c[3]\u9ed2\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5012\u3057\u305f\\c[0]\u3002<<A<<[CHANGED 2018/08/28]",
@@ -10733,7 +10733,7 @@
                 {
                   "message": {
                     "": "What is Human doing here?",
-                    "en_US": "O que a humana está fazendo aqui?",
+                    "en_US": "O que humana está fazendo aqui?",
                     "langUid": 28,
                     "ko_KR": "\uc778\uac04\uc774 \uc5ec\uae30\uc11c \ubb58 \ud558\ub294 \uac70\uc9c0?<<A<<[CHANGED 2017/11/16]",
                     "ja_JP": "\u4eba\u9593\u3001\u3053\u3053\u3067\u306a\u306b\u3092\n\u3057\u3066\u3044\u308b\u306e\u3067\u3059\uff1f<<A<<[CHANGED 2017/11/27]",
@@ -10863,7 +10863,7 @@
                 {
                   "message": {
                     "": "So you work with humans against my will?",
-                    "en_US": "Então você cooperou com os humanos contra a minha vontade?",
+                    "en_US": "Então você cooperou com humanos contra minha vontade?",
                     "langUid": 35,
                     "ko_KR": "\uadf8\ub7fc \ub0b4 \uba85\ub839\uc744 \uac70\uc5ed\ud558\uace0 \uc778\uac04\uacfc \ud611\ub825\ud588\ub2e4\ub294 \uac70\ub2c8?<<A<<[CHANGED 2017/11/16]",
                     "ja_JP": "\u305d\u308c\u3067\u306f\u3001\u304a\u524d\u306f\u79c1\u306e\u610f\u601d\u306b\n\u305d\u3080\u3044\u3066\u4eba\u9593\u3068\u52d5\u3044\u3066\u3044\u305f\u306e\u3067\u3059\u304b\uff1f<<A<<[CHANGED 2017/11/27]",
@@ -10928,7 +10928,7 @@
                 {
                   "message": {
                     "": "I know child, but defeating Wiccats will be no solution for long.",
-                    "en_US": "Eu sei criança, mas derrotar o Wiccats não será solução por muito tempo.",
+                    "en_US": "Eu sei criança, mas derrotar Wiccats não será solução por muito tempo.",
                     "langUid": 38,
                     "ko_KR": "\uc548\ub2e8\ub2e4. \ud558\uc9c0\ub9cc \uc705\ucea3\uc744 \ucc98\uce58\ud55c\ub2e4\uace0 \ubb38\uc81c\uac00 \ud574\uacb0\ub418\ub294 \uac8c \uc544\ub2c8\uc57c.<<A<<[CHANGED 2017/11/16]",
                     "ja_JP": "\u308f\u304b\u3063\u3066\u3044\u307e\u3059\u3001\u6211\u304c\u5b50\u3088\u3002\n\u3057\u304b\u3057\u30a6\u30a3\u30ad\u30e3\u30c3\u30c8\u3092\u5012\u3057\u3066\u3082\u3001\n\u9577\u3044\u76ee\u3067\u898b\u308b\u3068\u6839\u672c\u7684\u306a\u89e3\u6c7a\u306b\u306f\u3001\n\u306a\u308a\u307e\u305b\u3093\u3002<<A<<[CHANGED 2017/11/27]",
@@ -10946,7 +10946,7 @@
                 {
                   "message": {
                     "": "As long as humans poison jungle, our struggle will continue.",
-                    "en_US": "Enquanto os humanos envenenarem a selva, nossa luta continuará.",
+                    "en_US": "Enquanto humanos envenenarem selva, nossa luta continuará.",
                     "langUid": 39,
                     "ko_KR": "\uc778\uac04\uc774 \uc815\uae00\uc744 \ub9dd\uac00\ub728\ub9ac\ub294 \ud55c, \uc6b0\ub9ac\uc758 \ub178\ub825\uc740 \uacc4\uc18d\ub420 \uac70\uc57c.<<A<<[CHANGED 2017/11/16]",
                     "ja_JP": "\u4eba\u9593\u304c\u30b8\u30e3\u30f3\u30b0\u30eb\u3092\u6bd2\u3057\u7d9a\u3051\u308b\n\u9650\u308a\u3001\u6211\u3005\u306e\u6226\u3044\u3001\u304d\u3063\u3068\n\u7d9a\u304f\u3067\u3057\u3087\u3046\u3002<<A<<[CHANGED 2017/11/27]",
@@ -10964,7 +10964,7 @@
                 {
                   "message": {
                     "": "Still... It is great relief that our village has been freed.",
-                    "en_US": "Ainda assim... É um grande alívio que nossa aldeia tenha sido libertada.",
+                    "en_US": "Ainda assim... É grande alívio que nossa aldeia tenha sido libertada.",
                     "langUid": 40,
                     "ko_KR": "\ubb50... \uc6b0\ub9ac \ub9c8\uc744\uc774 \uc790\uc720\ub85c\uc6cc\uc838\uc11c \ub2e4\ud589\uc774\uae30\ub294 \ud558\ub2e4\ub9cc.<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u305d\u308c\u3067\u3082...\u79c1\u305f\u3061\u306e\u6751\u304c\n\u81ea\u7531\u306b\u306a\u3063\u3066\u3001\u3068\u3066\u3082\u5b89\u5fc3\u3057\u307e\u3057\u305f\u3002<<A<<[CHANGED 2018/09/19]",
@@ -11015,7 +11015,7 @@
                 {
                   "message": {
                     "": "You helped Shad. For that, we are thankful. I wish your kindness was more common for your kind.",
-                    "en_US": "Você ajudou os Shad. Por isso, estamos gratos. Gostaria que sua gentileza fosse mais comum em sua espécie.",
+                    "en_US": "Você ajudou Shad. Por isso, estamos gratos. Gostaria que sua gentileza fosse mais comum em sua espécie.",
                     "langUid": 43,
                     "ko_KR": "\ub2f9\uc2e0\uc740 \uc0e4\ub4dc\ub97c \ub3c4\uc640\uc8fc\uc5c8\uc2b5\ub2c8\ub2e4. \uadf8\uac74 \uac10\uc0ac\ud558\uac8c \uc0dd\uac01\ud569\ub2c8\ub2e4. \ub2e4\ub978 \uc778\uac04\ub4e4\ub3c4 \ub2f9\uc2e0\ucc98\ub7fc \uce5c\uc808\ud588\uc73c\uba74 \uc88b\uaca0\uad70\uc694.<<A<<[CHANGED 2017/11/16]",
                     "ja_JP": "\u3042\u306a\u305f\u3001\u30b7\u30e3\u30c3\u30c9\u3092\u52a9\u3051\u305f\u3002\n\u3086\u3048\u306b\u3001\u6211\u3089\u306f\u611f\u8b1d\u3057\u307e\u3059\u3002\n\u305d\u306e\u89aa\u5207\u5fc3\u304c\u3001\u3042\u306a\u305f\u306e\u7a2e\u65cf\u306e\n\u5e38\u3067\u3042\u308c\u3070\u3088\u3044\u306e\u3067\u3059\u304c\u3002<<A<<[CHANGED 2017/11/27]",
@@ -11033,7 +11033,7 @@
                 {
                   "message": {
                     "": "I will order Shad to free way to sacred temple.",
-                    "en_US": "Vou ordenar aos Shad que liberem o caminho para o templo sagrado.",
+                    "en_US": "Vou ordenar Shad que liberem caminho para templo sagrado.",
                     "langUid": 44,
                     "ko_KR": "\uc0e4\ub4dc\uc5d0\uac8c \uc2e0\uc131\ud55c \uc0ac\uc6d0\uc73c\ub85c \uac00\ub294 \uae38\uc744 \uc5f4\uc5b4\ub450\ub77c\uace0 \ud558\uaca0\uc2b5\ub2c8\ub2e4.<<A<<[CHANGED 2017/11/16]",
                     "ja_JP": "\u30b7\u30e3\u30c3\u30c9\u305f\u3061\u306b\u3001\u8056\u306a\u308b\u795e\u6bbf\u3078\u306e\u9053\u3001\n\u958b\u3051\u308b\u3088\u3046\u8a00\u3044\u307e\u3059\u3002<<A<<[CHANGED 2017/11/27]",
@@ -11084,7 +11084,7 @@
                 {
                   "message": {
                     "": "Should your poisoning continue and Wiccats return, there will be no more compromises.",
-                    "en_US": "Se seu envenenamento continuar e os Wiccats voltarem, não haverá mais concessões.",
+                    "en_US": "Se envenenamento continuar e Wiccats voltarem, não haverá mais concessões.",
                     "langUid": 47,
                     "ko_KR": "\ub2f9\uc2e0\ub4e4\uc774 \uacc4\uc18d\ud574\uc11c \uc815\uae00\uc744 \ub9dd\uac00\ub728\ub9ac\uace0, \uc705\ucea3\uc774 \ub3cc\uc544\uc628\ub2e4\uba74 \ub354 \uc774\uc0c1\uc758 \ud0c0\ud611\uc740 \uc5c6\uc744 \uac81\ub2c8\ub2e4.<<A<<[CHANGED 2017/11/16]",
                     "ja_JP": "\u30b8\u30e3\u30f3\u30b0\u30eb\u3092\u6bd2\u3057\u7d9a\u3051\u3001\u30a6\u30a3\u30ad\u30e3\u30c3\u30c8\u3092\n\u547c\u3073\u623b\u3057\u305f\u306a\u3089\u3001\u3082\u3046\u4ea4\u6e09\u306e\u4f59\u5730\u3001\n\u3042\u308a\u307e\u305b\u3093\u3002<<A<<[CHANGED 2017/11/27]",
@@ -11117,7 +11117,7 @@
                 {
                   "message": {
                     "": "I will go to old home now. K'tara, you will come, too. Need to talk.",
-                    "en_US": "Vou agora para a velha casa. K'tara, você também virá. Preciso conversar.",
+                    "en_US": "Vou agora para velha casa. K'tara, você também virá. Precisamos conversar.",
                     "langUid": 49,
                     "ko_KR": "\uc804 \uc774\uc81c \uc6d0\ub798 \uc9d1\uc73c\ub85c \ub3cc\uc544\uac00\uc57c\uaca0\uad70\uc694. \ud06c\ud0c0\ub77c, \ub108\ub3c4 \uc640\uc57c\uc9c0? \uc598\uae30 \uc880 \ud558\uc790\uafb8\ub098.<<A<<[CHANGED 2017/11/16]",
                     "ja_JP": "\u79c1\u3001\u53e4\u304d\u5bb6\u306b\u5e30\u308a\u307e\u3057\u3087\u3046\u3002\n\u30af\u30fb\u30bf\u30e9\u3001\u4e00\u7dd2\u306b\u6765\u306a\u3055\u3044\u3002\n\u8a71\u3059\u3053\u3068\u304c\u3042\u308b\u3060\u304b\u3089\u3002<<A<<[CHANGED 2021/05/22]",
@@ -11201,7 +11201,7 @@
                 {
                   "message": {
                     "": "I hope we can meet again! For now, it seems I have a good scolding ahead of me.",
-                    "en_US": "Espero que voltemos a nos encontrar! Por enquanto, parece que tenho uma boa repreensão à minha espera.",
+                    "en_US": "Espero que a gente se encontre de novo em breve! Enquanto isso, parece que tenho uma boa bronca à minha espera.",
                     "langUid": 52,
                     "ko_KR": "\ub2e4\uc2dc \ub9cc\ub0ac\uc73c\uba74 \uc88b\uaca0\ub2e4! \uc9c0\uae08\uc740 \uc880 \ud63c\ub0a0 \uac83 \uac19\uc544\uc11c \ub9d0\uc774\uc57c.<<A<<[CHANGED 2017/11/16]",
                     "ja_JP": "\u307e\u305f\u304a\u4f1a\u3044\u3067\u304d\u308b\u3053\u3068\u3092\u9858\u3044\u307e\u3059\uff01\n\u4eca\u306e\u3068\u3053\u308d\u306f\u3001\u79c1\u306f\u305f\u3063\u3077\u308a\n\u8aac\u6559\u3092\u55b0\u3089\u3046\u3053\u3068\u306b\u306a\u308a\u305d\u3046\u3067\u3059\u3002<<A<<[CHANGED 2017/11/27]",
@@ -11434,7 +11434,7 @@
                 {
                   "message": {
                     "": "Like how you tried to join those conversations and they just ignored you.",
-                    "en_US": "Especialmente quando você tentou se envolver na conversa e eles simplesmente o ignoraram.",
+                    "en_US": "Especialmente quando você tentou se envolver na conversa e eles te ignoraram.",
                     "langUid": 94,
                     "zh_CN": "\u4f60\u8fd9\u4e48\u5356\u529b\u8ddf\u4ed6\u4eec\u8bf4\u8bdd\uff0c\u4ed6\u4eec\u5374\u5b8c\u5168\u4e0d\u7406\u4f60\u3002<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\ub10c \uc800\ub4e4\uc758 \ub300\ud654\uc5d0 \ub07c\ub824\uace0 \ud588\uc9c0\ub9cc \uc800\ub4e4\uc740 \ub110 \ubb34\uc2dc\ud588\ub2e4\uace0.<<A<<[CHANGED 2018/03/14]",
@@ -11452,7 +11452,7 @@
                 {
                   "message": {
                     "": "Ugh...\\. Well yeah.",
-                    "en_US": "Ugh...\\. Bem sim.",
+                    "en_US": "Hmm...\\. Lamentável.",
                     "langUid": 95,
                     "zh_CN": "\u5567...\\.\u4e0d\u8fc7\u786e\u5b9e\u5982\u6b64\u3002<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\uc73d...\\. \ub9de\uc544, \uadf8\ub7ac\uc9c0.<<A<<[CHANGED 2018/03/14]",
@@ -11470,7 +11470,7 @@
                 {
                   "message": {
                     "": "I assume it's because Lea is our party leader and the NPCs expect her to not answer in the first place.",
-                    "en_US": "Presumo que seja porque Lea é a líder do nosso grupo e os NPCs esperam que ela responda em primeiro lugar.",
+                    "en_US": "Deve ser porque Lea é a líder do nosso grupo e os NPCs esperam que ela responda primeiro.",
                     "langUid": 96,
                     "zh_CN": "\u6211\u60f3\u8fd9\u53ef\u80fd\u662f\u56e0\u4e3a\u8389\u4e9a\u662f\u6211\u4eec\u7684\u961f\u957f\uff0c\u800c\u8fd9\u4e9bNPC\u4e0d\u7ba1\u5979\u4f1a\u4e0d\u4f1a\u8bf4\u8bdd\u90fd\u4f1a\u81ea\u52a8\u53d9\u4e8b\u3002<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\uadf8\uac74 \uc544\ub9c8 \ub808\uc544\uac00 \uc6b0\ub9ac \ud30c\ud2f0\uc7a5\uc774\uc9c0\ub9cc NPC\ub4e4\uc774 \ubcf4\uae30\uc5d4 \ub808\uc544\uac00 \ub300\ub2f5\uc744 \uc548 \ud55c\ub2e4\uace0 \uc0dd\uac01\ud574\uc11c\uac00 \uc544\ub2d0\uae4c.<<A<<[CHANGED 2018/03/14]",
@@ -11503,7 +11503,7 @@
                 {
                   "message": {
                     "": "Anyway, we're now free to enter the Temples to the north!",
-                    "en_US": "De qualquer forma, agora estamos livres para entrar nos Templos ao norte!",
+                    "en_US": "Enfim, agora estamos livres para entrar nos Templos ao norte!",
                     "langUid": 98,
                     "zh_CN": "\u603b\u4e4b\uff0c\u6211\u4eec\u73b0\u5728\u53ef\u4ee5\u81ea\u7531\u8fdb\u5165\u5317\u90e8\u7684\u795e\u5e99\u4e86\uff01<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\uc544\ubb34\ud2bc, \uc774\uc81c \ubd81\ucabd\uc5d0 \uc788\ub294 \uc0ac\uc6d0\uc5d0 \ub4e4\uc5b4\uac08 \uc218 \uc788\uaca0\uc5b4!<<A<<[CHANGED 2018/03/14]",
@@ -11521,7 +11521,7 @@
                 {
                   "message": {
                     "": "Hm...\\. but I think we played enough for today, Polly.",
-                    "en_US": "Hm...\\. mas acho que jogamos o suficiente por hoje, Polly.",
+                    "en_US": "Hm...\\. mas acho que jogamos muito hoje, Polly.",
                     "langUid": 99,
                     "zh_CN": "\u55ef...\\.\u4f46\u6211\u89c9\u5f97\u4eca\u5929\u5df2\u7ecf\u73a9\u4e86\u592a\u4e45\u4e86\uff0c\u963f\u6ce2\u3002<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\ud760...\\. \ud558\uc9c0\ub9cc \uc624\ub298\uc740 \uc774\ubbf8 \ucda9\ubd84\ud788 \ub17c \uac83 \uac19\uc544, \ud3f4\ub9ac.<<A<<[CHANGED 2018/03/14]",
@@ -11567,7 +11567,7 @@
                 {
                   "message": {
                     "": "Thanks for joining us, Lea. ",
-                    "en_US": "Obrigado por se juntar a nós, Lea. ",
+                    "en_US": "Obrigado por se juntar a nós, Lea.",
                     "langUid": 101,
                     "zh_CN": "\u611f\u8c22\u4f60\u8ddf\u6211\u4eec\u4e00\u8d77\uff0c\u8389\u4e9a\u3002<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\uc6b0\ub9ac\uc640 \ud568\uaed8 \ud574\uc918\uc11c \uace0\ub9c8\uc6cc, \ub808\uc544.<<A<<[CHANGED 2018/03/14]",
@@ -11585,7 +11585,7 @@
                 {
                   "message": {
                     "": "And...\\. it also seems you lightened up a little.",
-                    "en_US": "E...\\. também parece que você se animou um pouco.",
+                    "en_US": "E...\\. parece que você se animou um pouco.",
                     "langUid": 102,
                     "zh_CN": "\u800c\u4e14...\\.\u4f3c\u4e4e\u4f60\u4e5f\u5f00\u5fc3\u4e86\u4e0d\u5c11\u3002<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\uadf8\ub9ac\uace0...\\. \uc544\uae4c\ubcf4\ub2e8 \uae30\uc6b4\uc744 \uc880 \ucc28\ub9b0 \uac83 \uac19\uad6c\ub098.<<A<<[CHANGED 2018/03/14]",
@@ -12976,7 +12976,7 @@
             "entity": { "global": true, "name": "p-1" },
             "text": {
               "": "What is Seeker doing here?",
-              "en_US": "O que um Seeker está fazendo aqui?",
+              "en_US": "O que Seeker está fazendo aqui?",
               "langUid": 84,
               "zh_CN": "\u63a2\u7d22\u8005\u6765\u8fd9\u91cc\u5e72\u4ec0\u4e48\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc2dc\ucee4\uac00 \uc5ec\uae30\uc11c \ubb50 \ud558\ub294 \uac70\uc9c0?<<A<<[CHANGED 2018/03/14]",
@@ -12989,7 +12989,7 @@
             "entity": { "global": true, "name": "p-2" },
             "text": {
               "": "She is just human.",
-              "en_US": "Ela é apenas humana.",
+              "en_US": "Humana teimosa.",
               "langUid": 85,
               "zh_CN": "\u5979\u662f\u4e2a\u4eba\u7c7b\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc800 \uc5ec\uc790\ub3c4 \uadf8\ub0e5 \uc778\uac04\uc774\uc57c.<<A<<[CHANGED 2018/03/14]",
@@ -13002,7 +13002,7 @@
             "entity": { "global": true, "name": "p-2" },
             "text": {
               "": "Human just human.",
-              "en_US": "Humanos apenas humanos.",
+              "en_US": "Humanos sendo humanos.",
               "langUid": 86,
               "zh_CN": "\u4eba\u7c7b\u5c31\u662f\u4eba\u7c7b\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc778\uac04\uc740 \uadf8\ub0e5 \uc778\uac04\uc77c \ubfd0\uc774\uace0.<<A<<[CHANGED 2018/03/14]",
@@ -13015,7 +13015,7 @@
             "entity": { "global": true, "name": "p-2" },
             "text": {
               "": "They come into jungle filled with dreams and aspiration!",
-              "en_US": "Eles entram na selva cheia de sonhos e aspirações!",
+              "en_US": "Eles entram na selva cheios de sonhos e aspirações!",
               "langUid": 87,
               "zh_CN": "\u4ed6\u4eec\u6ee1\u8111\u5b50\u7f8e\u68a6\u5730\u6765\u5230\u4e1b\u6797\uff01<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uadf8\ub4e4\uc740 \uafc8\uacfc \ud76c\ub9dd\uc744 \uac16\uace0 \uc774 \uc815\uae00\uc5d0 \ub4e4\uc5b4\uc624\uc9c0!<<A<<[CHANGED 2018/03/14]",
@@ -13028,7 +13028,7 @@
             "entity": { "global": true, "name": "p-2" },
             "text": {
               "": "They want it all and try to use power of Ancients, the Track and power of Technology!",
-              "en_US": "Eles querem tudo isso e tentam usar o poder dos Antigos, a Trilha e o poder da Tecnologia!",
+              "en_US": "Eles querem tudo e tentam usar poder dos Antigos, a Trilha e poder da Tecnologia!",
               "langUid": 116,
               "zh_CN": "\u60f3\u8981\u83b7\u53d6\u5148\u7956\u7684\u79d1\u6280\u548c\u529b\u91cf\uff01<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc800\ub4e4\uc740 \uc774\uacf3\uc744 \ucc28\uc9c0\ud558\uae30 \uc704\ud574 \uace0\ub300\uc778\uacfc \uace0\ub300\uc778\uc758 \uae38\uacfc \uae30\uc220\uc758 \ud798\uc744 \uc0ac\uc6a9\ud558\ub824\uace0 \ud560 \uac70\uc57c!<<A<<[CHANGED 2018/03/14]",
@@ -13401,7 +13401,7 @@
           {
             "message": {
               "": "Okay...\\. here is my hypothesis about all this.",
-              "en_US": "Certo...\\. aqui está minha hipótese sobre tudo isso.",
+              "en_US": "Certo...\\. eu tenho uma teoria sobre isso.",
               "de_DE": "Okay...\\. Ich habe eine Hypothese dazu entwickelt.",
               "zh_CN": "\u597d\u7684...\\.\u8fd9\u662f\u6211\u7684\u731c\u60f3\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u305d\u3046\u304b...\\.\u3053\u308c\u304b\u3089\u8a00\u3046\u3053\u3068\u306f\n\u5168\u90e8\u50d5\u306e\u4eee\u8aac\u306a\u3093\u3060\u3051\u3069\u3002<<A<<[CHANGED 2018/09/19]",
@@ -13506,7 +13506,7 @@
           {
             "message": {
               "": "I figured that, assuming they are still working on Evotars, they need a place within the Playground to properly test them.",
-              "en_US": "Eu imaginei isso, supondo que ainda estejam trabalhando nos Evotares, eles precisam de um lugar dentro do Playground para testá-los adequadamente.",
+              "en_US": "Eu imaginei que, se ainda estão trabalhando nos Evotares, eles precisariam de um espaço dentro do Playground para testá-los corretamente.",
               "de_DE": "Das dachte ich mir. Denn wenn sie immer noch an Evotaren arbeiten, brauchen sie einen Ort innerhalb des Spielplatzes, um sie zu testen.",
               "zh_CN": "\u6211\u5c31\u731c\u5230\uff0c\u6211\u60f3\u4ed6\u4eec\u53ef\u80fd\u4ecd\u5728\u7ee7\u7eed\u8fdb\u5316\u8005\u7684\u7814\u7a76\uff0c\u4ed6\u4eec\u9700\u8981\u5728\u6e38\u4e50\u56ed\u5185\u4e00\u4e2a\u5730\u65b9\u6765\u8fdb\u884c\u6d4b\u8bd5\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u305d\u3046\u3058\u3083\u306a\u3044\u304b\u3068\u601d\u3063\u305f\u3093\u3060\u3002\n\u307e\u3060\u30a8\u30f4\u30a9\u30bf\u30fc\u3092\u958b\u767a\u3057\u3066\u3044\u308b\u306a\u3089\u3001\n\u5f7c\u3089\u306b\u306f\u30d7\u30ec\u30a4\u30b0\u30e9\u30a6\u30f3\u30c9\u5185\u306b\n\u305d\u308c\u3092\u30c6\u30b9\u30c8\u3059\u308b\u5834\u6240\u304c\u5fc5\u8981\u3060\u304b\u3089\u306d\u3002<<A<<[CHANGED 2018/03/14]",
@@ -13521,7 +13521,7 @@
           {
             "message": {
               "": "Now...\\. there is Vermillion Wasteland, which seems to be used for that.",
-              "en_US": "Então...\\. Existe o Deserto Carmesim, que parece ser usado para este fim.",
+              "en_US": "Então...\\. tem o Deserto Carmesim, que parece ser usado para este fim.",
               "de_DE": "Also...\\. Es gibt die Vermillonein\u00f6de, die daf\u00fcr anscheinend genutzt wird.",
               "zh_CN": "\u73b0\u5728...\\.\u6731\u7ea2\u5e9f\u571f\u4f3c\u4e4e\u5c31\u662f\u4ed6\u4eec\u7528\u6765\u6d4b\u8bd5\u7684\u5730\u70b9\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u3064\u307e\u308a...\\.\u6731\u67d3\u306e\u8352\u5730\u3053\u305d\u304c\u3001\n\u30c6\u30b9\u30c8\u306e\u305f\u3081\u306b\u4f7f\u308f\u308c\u3066\u3044\u305f\n\u5834\u6240\u3060\u3068\u601d\u3046\u3002<<A<<[CHANGED 2018/03/14]",
@@ -13657,7 +13657,7 @@
           {
             "message": {
               "": "I'm glad to see you're back again.\\. You've been missed for quite some time.",
-              "en_US": "Fico feliz em ver que você está de volta.\\. Já faz um bom tempo que sentimos a sua falta.",
+              "en_US": "Que bom que você voltou!\\. Sentimos muito a sua falta.",
               "de_DE": "Ich bin froh, dass du wieder da bist.\\. Du wurdest eine ganze Weile vermisst!",
               "zh_CN": "\u5f88\u9ad8\u5174\u4f60\u53c8\u56de\u6765\u4e86\u3002\\.\u4f60\u6d88\u5931\u597d\u4e45\u4e86\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u623b\u3063\u3066\u304d\u3066\u304f\u308c\u3066\u5b09\u3057\u3044\u3067\u3059\u3002\\.\n\u3042\u306a\u305f\u306f\u9577\u3044\u3053\u3068\u884c\u65b9\u4e0d\u660e\u3067\u3057\u305f\u304b\u3089\u306d\u3002<<A<<[CHANGED 2018/03/14]",
@@ -13781,7 +13781,7 @@
           {
             "message": {
               "": "I was in fact...\\. uhm...\\. planning to run one of them today!",
-              "en_US": "Eu estava de fato...\\. uhm...\\. planejando me aventurar em uma delas hoje!",
+              "en_US": "Eu estava...\\. pensando...\\. em explorar uma delas hoje!",
               "de_DE": "Ich habe mir aber...\\. \u00f6hm...\\. f\u00fcr heute vorgenommen, einen von denen zu machen!",
               "zh_CN": "\u6211\u5176\u5b9e...\\.\u5443...\\.\u8ba1\u5212\u4eca\u5929\u53bb\u6253\u5730\u7262\uff01<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u3068\u3044\u3046\u304b...\\.\u3048\u3063\u3068...\\.\u3069\u308c\u304b\u3072\u3068\u3064\u3092\n\u4eca\u65e5\u30af\u30ea\u30a2\u3057\u3088\u3046\u3068\u601d\u3063\u3066\u305f\u3093\u3067\u3059\uff01<<A<<[CHANGED 2018/03/14]",
@@ -13796,7 +13796,7 @@
           {
             "message": {
               "": "So how about...\\. we meet up in front of the dungeons?",
-              "en_US": "Então, que tal...\\. nos encontrarmos em frente às dungeons?",
+              "en_US": "Então, vamos nos encontrar na entrada das dungeons?\\. O que acha?",
               "de_DE": "Wie w\u00e4re es also...\\. wenn wir uns vor den Dungeons treffen?",
               "zh_CN": "\u90a3\u4e48\u662f\u4e0d\u662f...\\.\u6211\u4eec\u80fd\u4e00\u8d77\u7ec4\u961f\uff1f<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u305d\u308c\u3067\u3001\u3069\u3046\u3067\u3057\u3087\u3046...\\.\n\u30c0\u30f3\u30b8\u30e7\u30f3\u306e\u524d\u3067\u5f85\u3061\u5408\u308f\u305b\u3057\u307e\u305b\u3093\u304b\uff1f<<A<<[CHANGED 2018/03/14]",
@@ -13932,7 +13932,7 @@
           {
             "message": {
               "": "Does he want to run the dungeon together with you?",
-              "en_US": "Ele quer entrar nas dungeon junto com você?",
+              "en_US": "Ele quer entrar nas dungeons junto com você?",
               "de_DE": "Will er den Dungeon jetzt mit dir zusammen machen?",
               "zh_CN": "\u4ed6\u60f3\u8ddf\u4f60\u4e00\u8d77\u6253\u5730\u7262\u5417\uff1f<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u5f7c\u306f\u541b\u3068\u4e00\u7dd2\u306b\u30c0\u30f3\u30b8\u30e7\u30f3\u3092\n\u653b\u7565\u3057\u305f\u3044\u3093\u3058\u3083\u306a\u3044\u304b\u3044\uff1f<<A<<[CHANGED 2018/03/14]",
@@ -13962,7 +13962,7 @@
           {
             "message": {
               "": "Uhm...\\. I wanted to extend your vocabulary, but I am still not ready.",
-              "en_US": "Uhm...\\. Eu queria ampliar seu vocabulário, mas ainda não estou pronto.",
+              "en_US": "Hmm...\\. Eu queria ampliar seu vocabulário, mas ainda não estou pronto.",
               "de_DE": "\u00d6hm...\\. Ich wollte eigentlich dein Vokabular noch erweitern, aber ich bin noch nicht so weit.",
               "zh_CN": "\u5443\u55ef...\\.\u6211\u5f88\u60f3\u7ed9\u4f60\u7684\u8bcd\u5e93\u518d\u52a0\u70b9\u8bcd\uff0c\u4f46\u6211\u73b0\u5728\u8fd8\u6ca1\u5f04\u597d\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u3046\u30fc\u3093...\\.\u541b\u304c\u3057\u3083\u3079\u308c\u308b\u8a00\u8449\u3092\n\u5897\u3084\u3057\u3066\u3042\u3052\u305f\u3044\u3051\u3069\u3001\n\u307e\u3060\u6e96\u5099\u304c\u3067\u304d\u3066\u306a\u3044\u3093\u3060\u3002<<A<<[CHANGED 2018/03/14]",
@@ -14305,7 +14305,7 @@
           {
             "message": {
               "": "Oh, we're back in the village of the bird people!",
-              "en_US": "Ah, voltamos à aldeia do povo pássaro!",
+              "en_US": "Ah, voltamos à aldeia dos escamosos!",
               "langUid": 872,
               "de_DE": "Oh, wir sind wieder im Dorf der Vogelmenschen!",
               "ja_JP": "\u308f\u3042\u3001\u9ce5\u4eba\u9593\u305f\u3061\u306e\u6751\u306b\n\u623b\u3063\u3066\u304d\u305f\u3093\u3060\u306d\uff01<<A<<[CHANGED 2018/09/02]",

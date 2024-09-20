@@ -345,7 +345,7 @@
                 {
                   "message": {
                     "": "Your goal is to find a way to the exit south of here without a guard noticing you.",
-                    "en_US": "Seu objetivo é encontrar um caminho para a saída ao sul daqui sem que um guarda perceba você.",
+                    "en_US": "Seu objetivo é encontrar uma saída para o sul sem ser vista pelos guardas.",
                     "de_DE": "Dein Ziel ist es, einen Weg zum s\u00fcdlichen Ausgang zu finden, ohne dass die Wachen dich bemerken.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u4f60\u7684\u76ee\u6807\u5c31\u662f\u627e\u5230\u8def\u524d\u5f80\u5357\u8fb9\u7684\u51fa\u53e3\uff0c\u5e76\u4e14\u4e0d\u8981\u8ba9\u5b88\u536b\u53d1\u73b0\u4f60\u3002",
@@ -418,7 +418,7 @@
                 {
                   "message": {
                     "": "Oh wait, before my dad yells at me again. Here's a \\c[3]Smokaway\\c[0] and some \\c[3]Intel on the Guards\\c[0] our men found.",
-                    "en_US": "Ah, espere, antes que meu pai grite comigo novamente. Aqui está uma \\c[3]Bomba de fumaça\\c[0] e algumas \\c[3]informações sobre os guardas\\c[0] que nossos homens encontraram.",
+                    "en_US": "Ah, espere, antes que meu pai grite comigo de novo. Pegue essa \\c[3]Bomba de fumaça\\c[0] e algumas \\c[3]informações sobre os guardas\\c[0] que nossos homens encontraram.",
                     "de_DE": "Oh warte, bevor mein Vater wieder w\u00fctend wird: Hier ist eine \\c[3]Rauchbombe\\c[0] und ein paar \\c[3]Infos \u00fcber die Wachen\\c[0].",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u54e6\u7b49\u4e0b\uff0c\u4e3a\u4e86\u786e\u4fdd\u6211\u7239\u4e0d\u518d\u543c\u6211\u3002\u8fd9\u662f\u9897\\c[3]\u70df\u96fe\u5f39\\c[0]\uff0c\u8fd8\u6709\u6211\u7684\u4eba\u627e\u5230\u7684\u4e00\u4e9b\\c[3]\u5b88\u536b\u4fe1\u606f\\c[0]\u3002",
@@ -531,7 +531,7 @@
                 {
                   "message": {
                     "": "Good, ready when you are.",
-                    "en_US": "Bom, estarei pronto quando você estiver.",
+                    "en_US": "Bom, me avise quando estiver pronta.",
                     "de_DE": "Gut, bereit, wenn du es bis'.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u5f88\u597d\uff0c\u51c6\u5907\u597d\u4e86\u8bf4\u4e00\u58f0\u3002",
@@ -859,7 +859,7 @@
                     {
                       "message": {
                         "": "Don't waste my time woman. Get on with it already.",
-                        "en_US": "Não me faça perder tempo garota. Apresse-se já.",
+                        "en_US": "Não me faça perder tempo garota. Vai logo.",
                         "de_DE": "Verschwend nich' meine Zeit, Fr\u00e4ulein. Beeil dich endlich.",
                         "fr_FR": "fr_FR",
                         "zh_CN": "\u522b\u6d6a\u8d39\u6211\u7684\u65f6\u95f4\u3002\u6293\u7d27\u65f6\u95f4\u3002",
@@ -7498,7 +7498,7 @@
           {
             "message": {
               "": "Mh... Oh, it's you. Did ya find a way?",
-              "en_US": "Hm... Ah, é você. Você encontrou uma saída?",
+              "en_US": "Hm... Ah, é você. Encontrou uma saída?",
               "de_DE": "Mh... Ah, du bist's. 'nen Weg gefunden?<<A<<[CHANGED 2021/05/22]",
               "fr_FR": "fr_FR",
               "langUid": 21,
@@ -7665,7 +7665,7 @@
           {
             "message": {
               "": "Damn, woman, was this really the only way?",
-              "en_US": "Droga, garota, esse era realmente o único caminho?",
+              "en_US": "Droga, garota, esse era o único caminho?",
               "de_DE": "Boah, M\u00e4del, ey, gab's keinen anderen Weg?<<A<<[CHANGED 2021/05/22]",
               "fr_FR": "fr_FR",
               "langUid": 27,
@@ -7681,7 +7681,7 @@
           {
             "message": {
               "": "So much walking... \\.\\.\\. Thankfully, I don't have to carry the goods. That would be just awful.",
-              "en_US": "É uma caminhada longa... \\.\\.\\.Felizmente, eu não tenho que carregar a mercadoria. Isso seria horrível.",
+              "en_US": "É um longo caminho...\\.\\.\\. Felizmente, eu não tenho que carregar a mercadoria. Isso seria horrível.",
               "de_DE": "Da muss ich ja voll weit laufen... \\.\\.\\. Zum Gl\u00fcck muss ich die Ware nicht tragen. Das w\u00e4r' noch die Kr\u00f6nung.<<A<<[CHANGED 2021/05/22]",
               "fr_FR": "fr_FR",
               "langUid": 28,
@@ -7713,7 +7713,7 @@
           {
             "message": {
               "": "Don't give me that look, will ya?",
-              "en_US": "Não me olhe assim, está bem?",
+              "en_US": "Não me olhe assim, capiche?",
               "de_DE": "Sieh mich gef\u00e4lligst nich' so an, ja?",
               "fr_FR": "fr_FR",
               "langUid": 30,
@@ -7811,7 +7811,7 @@
               {
                 "message": {
                   "": "I *knew* I could count on ya. Now off you go, the rest is just a long small tunnel anyway.",
-                  "en_US": "Eu *sabia* que eu poderia contar com você. Agora saia, o resto é apenas um túnel estreito afinal.",
+                  "en_US": "Eu *sabia* que eu podia contar com você. Agora saia, o resto é apenas um túnel estreito afinal.",
                   "de_DE": "Ich *wusste*, dass ich auf dich z\u00e4hlen kann! Dann verdufte, der Rest ist eh nur noch ein schmaler Tunnel.",
                   "fr_FR": "fr_FR",
                   "langUid": 37,
@@ -7848,7 +7848,7 @@
               {
                 "message": {
                   "": "You... what? Come on... at least have some mercy, will ya?",
-                  "en_US": "Você... o quê? Vamos lá... pelo menos tenha um pouco de misericórdia, caramba.",
+                  "en_US": "Você... o quê? Qual é... pelo menos tenha um pouco de misericórdia, caramba.",
                   "de_DE": "Du... was? Ach, komm schon... zeig ma' 'n bisschen Gnade, ja?",
                   "fr_FR": "fr_FR",
                   "langUid": 38,

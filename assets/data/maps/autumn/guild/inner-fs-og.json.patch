@@ -7430,7 +7430,7 @@
           {
             "message": {
               "": "Dear, what exactly happened to you back then?",
-              "en_US": "Querida, o que exatamente aconteceu com você antes?",
+              "en_US": "Querida, o que aconteceu com você antes?",
               "de_DE": "Liebes, was genau ist eigentlich passiert?",
               "zh_CN": "\u4eb2\u7231\u7684\uff0c\u5f53\u65f6\u5230\u5e95\u53d1\u751f\u4ec0\u4e48\u4e8b\u4e86\uff1f<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u30ec\u30a2\u3061\u3083\u3093\u3001\u3042\u306a\u305f\u306b\n\u3044\u3063\u305f\u3044\u4f55\u304c\u3042\u3063\u305f\u306e\uff1f<<A<<[CHANGED 2018/03/14]",
@@ -7505,7 +7505,7 @@
           {
             "message": {
               "": "Well...\\. we couldn't really figure out the details.",
-              "en_US": "Bem...\\. não conseguíamos realmente descobrir os detalhes.",
+              "en_US": "Não conseguíamos descobrir os detalhes.",
               "de_DE": "Na ja...\\. Was genau passiert ist, ist schwer zu sagen.",
               "zh_CN": "\u55ef...\\.\u867d\u7136\u6211\u4eec\u4e0d\u77e5\u9053\u5177\u4f53\u662f\u600e\u4e48\u56de\u4e8b\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u3048\u3063\u3068...\\.\u8a73\u3057\u3044\u3053\u3068\u307e\u3067\u306f\n\u308f\u304b\u3089\u306a\u3044\u3093\u3067\u3059\u3051\u3069\u3002<<A<<[CHANGED 2018/03/14]",
@@ -7591,7 +7591,7 @@
           {
             "message": {
               "": "Well...\\. There really wasn't.",
-              "en_US": "Bem...\\. Realmente não havia.",
+              "en_US": "Bem...\\. Realmente não tinha.",
               "de_DE": "Tja...\\. Den gab's wohl wirklich nicht.",
               "zh_CN": "\u55ef...\\.\u4f60\u4e00\u5b9a\u4e0d\u662f\u6545\u610f\u7684\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u307e\u3042...\\.\u3084\u3063\u3071\u308a\u305d\u3046\u3060\u3088\u306d\u3002<<A<<[CHANGED 2018/03/14]",
@@ -7609,7 +7609,7 @@
           {
             "message": {
               "": "I was just stubborn.\\. I'm sorry, Lea.",
-              "en_US": "Eu fui muito cabeça-dura.\\. Me perdoe, Lea.",
+              "en_US": "Eu fui muito cabeça-dura.\\. Me desculpa, Lea.",
               "de_DE": "Ich war einfach nur bockig.\\. Tut mir leid, Lea.",
               "zh_CN": "\u662f\u6211\u592a\u5014\u4e86\u3002\\.\u62b1\u6b49\u8389\u4e9a\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u79c1\u3082\u30d8\u30f3\u306a\u610f\u5730\u5f35\u3063\u3061\u3083\u3063\u305f\u3002\\.\n\u3054\u3081\u3093\u306d\u3001\u30ec\u30a2\u3002<<A<<[CHANGED 2018/03/14]",
@@ -7689,7 +7689,7 @@
           {
             "message": {
               "": "So that's all well and great, but one major question remains.",
-              "en_US": "Enfim, tudo isso está resolvido, mas uma grande dúvida permanece.",
+              "en_US": "Então, tudo isso está resolvido, mas uma grande dúvida permanece.",
               "de_DE": "Tja, das ist ja alles sch\u00f6n und gut, aber eine Frage h\u00e4tte ich da doch noch.",
               "zh_CN": "\u5f88\u597d\uff0c\u5927\u5bb6\u90fd\u6ca1\u4e8b\u4e86\uff0c\u4f46\u8fd8\u6709\u4e00\u4e2a\u95ee\u9898\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u3055\u3066\u3001\u305d\u3044\u3064\u306f\u7d50\u69cb\u3060\u304c\u3001\n\u5927\u304d\u306a\u8b0e\u304c\u3072\u3068\u3064\u6b8b\u3063\u3066\u308b\u305e\u3002<<A<<[CHANGED 2018/03/14]",
@@ -7970,7 +7970,7 @@
           {
             "message": {
               "": "Whoa...\\. I'm joking, just joking!",
-              "en_US": "Calma...\\. Eu estou apenas brincando!",
+              "en_US": "Calma...\\. Eu só estou brincando!",
               "de_DE": "Hey...\\. Das war ein Witz, nur ein Witz!",
               "zh_CN": "\u54c7...\\.\u6211\u5c31\u662f\u5f00\u4e2a\u73a9\u7b11\uff0c\u73a9\u7b11\u800c\u5df2\uff01<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u304a\u3063\u3068...\\.\u5197\u8ac7\u3060\u3088\u3001\n\u5197\u8ac7\u3060\u3063\u3066\u3070\uff01<<A<<[CHANGED 2018/09/19]",
@@ -8038,7 +8038,7 @@
           {
             "message": {
               "": "Why make a big deal out of it? Maybe she just likes to hug people...",
-              "en_US": "Por que fazer drama em torno disso? Talvez ela só goste de abraçar pessoas...",
+              "en_US": "Por que fazer drama em torno disso? Talvez ela só goste de abraçar as pessoas...",
               "de_DE": "Warum ist das so wichtig? Vielleicht umarmt sie einfach nur gern Leute...",
               "zh_CN": "\u8fd9\u53c8\u4e0d\u662f\u4ec0\u4e48\u5927\u4e8b\uff1f\u641e\u4e0d\u597d\u5979\u5c31\u662f\u559c\u6b22\u62b1\u4eba\u800c\u5df2...<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u3069\u3046\u3057\u3066\u305d\u3046\u5927\u3052\u3055\u306b\u8a00\u3046\u3093\u3067\u3059\uff1f\n\u5f7c\u5973\u306f\u5358\u306b\u30cf\u30b0\u304c\u597d\u304d\u306a\u306e\u304b\u3082\n\u3057\u308c\u306a\u3044\u3058\u3083\u306a\u3044\u3067\u3059\u304b...<<A<<[CHANGED 2018/03/14]",
@@ -8314,7 +8314,7 @@
           {
             "message": {
               "": "Why would he care about individual user issues like this?",
-              "en_US": "Por que ele se preocuparia com problemas individuais de usuários como este?",
+              "en_US": "Por que ele se importaria com alguns problemas individuais como esse?",
               "de_DE": "Warum sollte er sich um solche Einzelf\u00e4lle k\u00fcmmern?",
               "zh_CN": "\u4ed6\u600e\u4e48\u4f1a\u5173\u5fc3\u4e00\u4e2a\u73a9\u5bb6\u51fa\u73b0\u7684\u5c0f\u6545\u969c\uff1f<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u5f7c\u304c\u3053\u3093\u306a\u30e6\u30fc\u30b6\u30fc1\u4eba\u306e\u554f\u984c\u3092\n\u6c17\u306b\u304b\u3051\u308b\u3068\u601d\u3046\u304b\uff1f<<A<<[CHANGED 2018/09/19]",
@@ -9937,7 +9937,7 @@
           {
             "message": {
               "": "He was the spitting image of how I remember him from real life.",
-              "en_US": "Ele era a imagem cuspida de como eu recordo dele na vida real.",
+              "en_US": "Ele era exatamente como eu me lembrava dele na vida real.",
               "de_DE": "Er sah genau so aus, wie ich mich an ihn aus dem Real Life erinnere.",
               "zh_CN": "\u4ed6\u8ddf\u6211\u8bb0\u5fc6\u4e2d\u73b0\u5b9e\u751f\u6d3b\u4e2d\u7684\u4ed6\u4e00\u6a21\u4e00\u6837\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u5f7c\u306e\u5916\u898b\u306f\n\u50d5\u304c\u73fe\u5b9f\u306e\u66ae\u3089\u3057\u3067\u898b\u305f\u5f7c\u3001\n\u305d\u3063\u304f\u308a\u305d\u306e\u307e\u307e\u3060\u3063\u305f\u3093\u3060\u3002<<A<<[CHANGED 2018/03/14]",
@@ -10009,7 +10009,7 @@
           {
             "message": {
               "": "So Gautham...\\. he is indeed not an avatar? Is he himself located right in the Playground?",
-              "en_US": "Então Gautham...\\. ele não é de fato um avatar? Mesmo ele estando localizado no Playground?",
+              "en_US": "Então Gautham...\\. não é de fato um avatar? Mesmo ele estando no Playground?",
               "de_DE": "Also ist Gautham...\\. tats\u00e4chlich kein Avatar? Er ist selbst hier auf dem Spielplatz?",
               "zh_CN": "\u8fd9\u4e48\u8bf4\u9ad8\u8c2d...\\.\u4ed6\u7684\u786e\u4e0d\u662f\u865a\u62df\u4eba\u7269\uff1f\u4ed6\u672c\u4eba\u8dd1\u5230\u56ed\u533a\u6765\u4e86\uff1f<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u305d\u308c\u3058\u3083\u3042\u30ac\u30a6\u30bf\u30e0\u306f...\\.\u672c\u5f53\u306b\n\u30a2\u30d0\u30bf\u30fc\u3058\u3083\u306a\u3044\u306e\u304b\uff1f\n\u30d7\u30ec\u30a4\u30b0\u30e9\u30a6\u30f3\u30c9\u306e\u4e2d\u306b\n\u8eab\u3092\u7f6e\u3044\u3066\u3044\u308b\u3068\u3067\u3082\uff1f<<A<<[CHANGED 2018/03/14]",
@@ -10382,7 +10382,7 @@
           {
             "message": {
               "": "Not much further until we finally reach \\c[3]Sapphire Ridge\\c[0].",
-              "en_US": "Não muito mais até que finalmente cheguemos a \\c[3]Serra da Safira\\c[0].",
+              "en_US": "Estamos quase chegando à \\c[3]Serra da Safira\\c[0].",
               "de_DE": "Nicht mehr lange und wir sind am \\c[3]Saphirgrat\\c[0]!",
               "zh_CN": "\u6211\u4eec\u7528\u4e0d\u4e86\u591a\u4e45\u5c31\u80fd\u5230\u8fbe\\c[3]\u9752\u7389\u5c71\u8109\\c[0]\u4e86\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\\c[3]\u30b5\u30d5\u30a1\u30a4\u30a2\u5cf0\\c[0]\u306b\u5230\u7740\u3059\u308b\u307e\u3067\n\u3082\u3046\u305d\u3046\u9060\u304f\u306a\u3044\u305e\u3002<<A<<[CHANGED 2018/09/19]",

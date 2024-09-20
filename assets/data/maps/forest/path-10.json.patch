@@ -9662,7 +9662,7 @@
           },
           "title": {
             "": "\\c[3]The Old Dojo\\c[0]",
-            "en_US": "\\c[3]O Antigo Dojo\\c[0]",
+            "en_US": "\\c[3]O Dojo Antigo\\c[0]",
             "langUid": 202,
             "zh_CN": "\\c[3]\u65e7\u9053\u573a\\c[0]<<A<<[CHANGED 2018/07/09]",
             "ja_JP": "\\c[3]\u53e4\u3073\u305f\u9053\u5834\\c[0]<<A<<[CHANGED 2018/07/09]",
@@ -9730,7 +9730,7 @@
               {
                 "message": {
                   "": "Okay, we are at the \\c[3]Old Dojo\\c[0] now. The hidden entrance should be somewhere towards the \\c[3]east\\c[0].",
-                  "en_US": "Ok, estamos agora no \\c[3]Antigo Dojo\\c[0]. A entrada escondida deve estar em algum lugar em direção ao \\c[3]leste\\c[0].",
+                  "en_US": "Ok, estamos agora no \\c[3]Dojo Antigo\\c[0]. A entrada escondida deve estar em algum lugar em direção ao \\c[3]leste\\c[0].",
                   "langUid": 275,
                   "zh_CN": "\u597d\u7684\uff0c\u8fd9\u91cc\u5c31\u662f\\c[3]\u65e7\u9053\u573a\\c[0]\u4e86\uff0c\u90a3\u4e2a\u9690\u85cf\u7684\u5165\u53e3\u5c31\u5728\\c[3]\u4e1c\u8fb9\\c[0]\u67d0\u5904\u3002<<A<<[CHANGED 2018/09/19]",
                   "ja_JP": "\u3088\u3057\u3001\\c[3]\u53e4\u3073\u305f\u9053\u5834\\c[0]\u306b\u7740\u3044\u305f\u306d\u3002\n\u96a0\u3055\u308c\u305f\u5165\u308a\u53e3\u306f\u3053\u3053\u304b\u3089\n\\c[3]\u6771\\c[0]\u306e\u3068\u3053\u308d\u306b\u3042\u308b\u306f\u305a\u3060\u3002<<A<<[CHANGED 2018/09/19]",
@@ -10198,7 +10198,7 @@
           {
             "message": {
               "": "I would like to try something out.",
-              "en_US": "Eu gostaria de tentar fazer algo.",
+              "en_US": "Eu gostaria de testar uma coisa.",
               "langUid": 292,
               "zh_CN": "\u6211\u6709\u70b9\u4e1c\u897f\u8981\u6d4b\u8bd5\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u8a66\u3057\u305f\u3044\u3053\u3068\u304c\u3042\u308b\u3093\u3060\u3002<<A<<[CHANGED 2018/07/09]",

@@ -1895,7 +1895,7 @@
                   "msgType": "OBTAINED",
                   "object": {
                     "": "\\c[3]\\v[item.377.name]\\c[0]",
-                    "": "\\c[3]\\v[item.377.name]\\c[0]",
+                    "en_US": "\\c[3]\\v[item.377.name]\\c[0]",
                     "de_DE": "\\c[3]Gaia-Sonde\\c[0]",
                     "zh_CN": "\\c[3]\\v[item.377.name]\\c[0]<<A<<[CHANGED 2017/12/12]",
                     "ko_KR": "\\c[3]\\v[item.377.name]\\c[0]<<A<<[CHANGED 2017/11/16]",

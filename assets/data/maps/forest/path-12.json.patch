@@ -9662,7 +9662,7 @@
             "entity": { "global": true, "name": "advisor" },
             "text": {
               "": "We are currently hard at work to make this Temple accessible in the near future.",
-              "en_US": "Atualmente estamos trabalhando arduamente para tornar este Templo acessível em um futuro próximo.",
+              "en_US": "Estamos trabalhando arduamente para tornar este Templo acessível em um futuro próximo.",
               "langUid": 205,
               "de_DE": "Wir arbeiten hart daran, diesen Tempel in naher Zukunft freizuschalten zu k\u00f6nnen.",
               "ja_JP": "\u73fe\u5728\u79c1\u305f\u3061\u306f\u3001\u3053\u306e\u795e\u6bbf\u304c\u8fd1\u3044\u5c06\u6765\n\u30a2\u30af\u30bb\u30b9\u53ef\u80fd\u306b\u306a\u308b\u3088\u3046\n\u4e00\u751f\u61f8\u547d\u53d6\u308a\u7d44\u3093\u3067\u3044\u307e\u3059\u3002<<A<<[CHANGED 2018/09/19]",
@@ -9727,7 +9727,7 @@
             "entity": { "global": true, "name": "tri1" },
             "text": {
               "": "Let me in!!!",
-              "en_US": "Me deixe entrar!!!",
+              "en_US": "Me deixa entrar!!!",
               "langUid": 210,
               "de_DE": "Lass mich rein!!!",
               "ja_JP": "\u4e2d\u306b\u5165\u308c\u3055\u305b\u3066\u3088\uff01\uff01\uff01<<A<<[CHANGED 2018/09/02]",

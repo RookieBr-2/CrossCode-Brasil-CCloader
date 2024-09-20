@@ -8741,7 +8741,7 @@
                 {
                   "message": {
                     "": "Urgh, finally you're here.",
-                    "en_US": "Urgh, finalmente você está aqui.",
+                    "en_US": "Aff, finalmente você chegou.",
                     "de_DE": "Pff, da bis'u ja endlich.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u554a\uff0c\u4f60\u7ec8\u4e8e\u6765\u4e86\u3002",
@@ -8795,7 +8795,7 @@
                 {
                   "message": {
                     "": "Now, come on. Let's get this over with. And stay out of my way, capiche?",
-                    "en_US": "Agora, vamos lá. Vamos acabar com isso. E fique fora do meu caminho, capiche?",
+                    "en_US": "Agora, vamos acabar com isso. E fique fora do meu caminho, capiche?",
                     "de_DE": "Also los, weiter geht's. Und komm mir nich' in die Quere, kapische?",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u5feb\u70b9\uff0c\u6211\u4eec\u8d76\u7d27\u628a\u8fd9\u4e8b\u641e\u5b9a\u5427\u3002\u9000\u540e\uff0c\u660e\u767d\u5417\uff1f<<A<<[CHANGED 2021/03/05]",
@@ -9578,7 +9578,7 @@
           {
             "message": {
               "": "That's right! We are within the \\c[3]infested jungle\\c[0]! A mysterious disease has befallen this part of the forest!",
-              "en_US": "Isso mesmo! Estamos dentro da \\c[3]floresta infestada\\c[0]! Uma misteriosa doença afetou essa parte da floresta!",
+              "en_US": "Isso mesmo! Estamos dentro da \\c[3]floresta infestada\\c[0]! Uma misteriosa doença afetou essa região!",
               "langUid": 8,
               "de_DE": "Stimmt genau! Wir sind im \\c[3]infizierten Dschungel\\c[0]! Eine mysteri\u00f6se Krankheit hat diesen Teil des Waldes befallen.",
               "ja_JP": "\u305d\u306e\u901a\u308a\uff01\u4ffa\u305f\u3061\u304c\u3044\u308b\u306e\u306f\n\\c[3]\u6d78\u98df\u3055\u308c\u305f\u30b8\u30e3\u30f3\u30b0\u30eb\\c[0]\u3060\uff01\u8b0e\u3081\u3044\u305f\u75c5\u304c\n\u68ee\u306e\u3053\u306e\u90e8\u5206\u3092\u4fb5\u3057\u3066\u3044\u308b\u306e\u3060\uff01<<A<<[CHANGED 2018/09/02]",

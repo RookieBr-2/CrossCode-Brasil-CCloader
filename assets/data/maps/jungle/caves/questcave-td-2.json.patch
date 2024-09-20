@@ -3248,7 +3248,7 @@
           {
             "message": {
               "": "\\v[lore.title.seeker], my analysis shows that the enemies are \\c[3]weak to Shock on the left\\c[0] and \\c[3]to Wave on the right side\\c[0]!",
-              "en_US": "\\v[lore.title.seeker], minhas análises mostram que os inimigos na \\c[3]esquerda são fracos contra Choque\\c[0] e os inimigos na \\c[3]direita são fracos contra Onda\\c[0]",
+              "en_US": "\\v[lore.title.seeker], minhas análises mostram que os inimigos na \\c[3]esquerda são fracos contra Choque\\c[0] e os inimigos na \\c[3]direita são fracos contra Onda\\c[0]!",
               "de_DE": "Seeker, die Analyse sagt, die Gegner \\c[3]zur Linken sind gegen Schock\\c[0] und die \\c[3]zur Rechten gegen Welle anf\u00e4llig\\c[0]!",
               "zh_CN": "\\v[lore.title.seeker]\uff0c\u6211\u7684\u5206\u6790\u663e\u793a\\c[3]\u5de6\u65b9\u654c\u4eba\u5f31\u7535\\c[0]\uff0c\\c[3]\u53f3\u65b9\u654c\u4eba\u5f31\u6ce2\\c[0]!<<A<<[CHANGED 2018/08/28]",
               "ja_JP": "\\v[lore.title.seeker]\u3055\u3093\u3001\u79c1\u306e\u5206\u6790\u306b\u3088\u308b\u3068\u3001\n\\c[3]\u5de6\u304b\u3089\u6765\u308b\u6575\u306f\u96fb\u6483\u306b\u5f31\u304f\u3066\\c[0]\u3001\n\\c[3]\u53f3\u304b\u3089\u6765\u308b\u6575\u306f\u6ce2\u52d5\u306b\u5f31\u3044\\c[0]\u307f\u305f\u3044\uff01<<A<<[CHANGED 2018/08/28]",
@@ -3265,7 +3265,7 @@
           {
             "message": {
               "": "You should plan your turrets accordingly!",
-              "en_US": "Você deve preparar suas torres de acordo!",
+              "en_US": "Prepare suas torres pensando nisso!",
               "de_DE": "Du solltest deine Gesch\u00fctze entsprechend vorbereiten!",
               "zh_CN": "\u8bf7\u5408\u7406\u5b89\u6392\u4f60\u7684\u70ae\u53f0\uff01<<A<<[CHANGED 2018/10/04]",
               "ja_JP": "\u30bf\u30ec\u30c3\u30c8\u306f\u8a08\u753b\u7684\u306b\u8d77\u52d5\u3057\u3066\u306d\uff01<<A<<[CHANGED 2018/10/04]",
@@ -3561,7 +3561,7 @@
           {
             "message": {
               "": "Careful, \\v[lore.title.seeker]!\\. Something big is \\c[3]approaching from the right\\c[0]!",
-              "en_US": "Cuidado,  \\v[lore.title.seeker]!\\. Algo grande está \\c[3]se apriximando pela direita\\c[0]!",
+              "en_US": "Cuidado, \\v[lore.title.seeker]!\\. Algo grande está \\c[3]se apriximando pela direita\\c[0]!",
               "de_DE": "Vorsicht, Seeker!\\. Etwas Gro\u00dfes \\c[3]n\u00e4hert sich von rechts\\c[0]!",
               "zh_CN": "\u5c0f\u5fc3\uff0c\\v[lore.title.seeker]\uff01\\. \u6709\u5927\u5bb6\u4f19\\c[3]\u4ece\u53f3\u8fb9\u6765\u4e86\\c[0]\uff01<<A<<[CHANGED 2018/08/01]",
               "ja_JP": "\u6c17\u3092\u4ed8\u3051\u3066\u3001\\v[lore.title.seeker]\u3055\u3093\uff01\\.\n\u306a\u306b\u304b\u3067\u304b\u3044\u3084\u3064\u304c\\c[3]\u53f3\u5074\u304b\u3089\u6765\u308b\\c[0]\u3088\uff01<<A<<[CHANGED 2018/08/01]",
@@ -3992,7 +3992,7 @@
           {
             "message": {
               "": "Fourth group incoming, again from both sides.\\. Hang in there, we should be almost done.",
-              "en_US": "Quarto grupo chegando, novamente de ambos os lados.\\. Aguente firme, devemos estar quase terminando.",
+              "en_US": "A quarta onda está vindo pelos dois lados.\\. Aguente firme, devemos estar perto do fim.",
               "de_DE": "Vierte Gruppe kommt, wieder von beiden Seiten.\\. Halt durch, wir haben's fast geschafft!",
               "zh_CN": "\u7b2c\u56db\u6ce2\u654c\u4eba\u6765\u4e86\uff0c\u53c8\u662f\u4e24\u8fb9\u4e00\u8d77\u3002\\.\u575a\u6301\u4f4f\uff0c\u6211\u4eec\u9a6c\u4e0a\u5c31\u597d\u4e86\u3002<<A<<[CHANGED 2018/10/04]",
               "ja_JP": "\u7b2c4\u6ce2\u304c\u307e\u305f\u4e21\u30b5\u30a4\u30c9\u304b\u3089\u6765\u308b\u3088\u3002\\.\n\u6301\u3061\u3053\u305f\u3048\u3066\u306d\u3001\u3042\u3068\u5c11\u3057\u3060\u304b\u3089\u3002<<A<<[CHANGED 2018/10/04]",
@@ -5859,7 +5859,7 @@
           {
             "message": {
               "": "\\c[3]Come back to me for a second\\c[0], so we can finish this off!",
-              "en_US": "\\c[3]Venha aqui por um momento\\c[0] para que possamos terminar a missão!",
+              "en_US": "\\c[3]Venha aqui\\c[0] para que possamos terminar a missão!",
               "de_DE": "\\c[3]Komm kurz r\u00fcber\\c[0], damit wir die Mission abschlie\u00dfen k\u00f6nnen!",
               "zh_CN": "\u5e72\u5f97\u597d\uff0c\\v[lore.title.seeker]\u3002\\. \\c[3]\u56de\u6765\u5427\\c[0]\uff0c\u8ba9\u6211\u4eec\u770b\u770b\u7ed3\u679c\uff01<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\\c[3]\u3061\u3087\u3063\u3068\u3053\u3063\u3061\u306b\u623b\u3063\u3066\u304d\u3066\\c[0]\u3002\n\u305d\u308c\u3067\u7d42\u308f\u308a\u306b\u3057\u307e\u3057\u3087\u3046\uff01<<A<<[CHANGED 2018/09/19]",
@@ -6161,7 +6161,7 @@
           {
             "text": {
               "": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
-              "en_US": "\\c[1]FALHA NA QUEST\\c[0]\n\nRecomece a tarefa para tentar novamente",
+              "en_US": "\\c[1]FALHA NA MISSÂO\\c[0]\n\nRecomece a tarefa para tentar novamente",
               "de_DE": "\\c[1]QUEST GESCHEITERT\\c[0]\n\nVersuch's nochmal!",
               "fr_FR": "fr_FR",
               "langUid": 176,
@@ -6588,7 +6588,7 @@
                   "side": "LEFT",
                   "message": {
                     "": "[ Greetings customer of our TURRET Inc defensive product line. ]",
-                    "en_US": "[ Saudações, usuário da nossa linha de produtos defensivos da Corp. TURRE. ]",
+                    "en_US": "[ Saudações, usuária da nossa linha de produtos defensivos da Corp. TURRE. ]",
                     "langUid": 825,
                     "zh_CN": "[ \u6b22\u8fce\u4f7f\u7528\u70ae\u53f0\u516c\u53f8\u9632\u5fa1\u4ea7\u54c1\u3002 ]<<A<<[CHANGED 2019/04/16]",
                     "ko_KR": "[ \ud3ec\ud0d1 \uc8fc\uc2dd\ud68c\uc0ac \ubc29\uc5b4 \uc81c\ud488 \ub77c\uc778 \uace0\uac1d \uc5ec\ub7ec\ubd84 \uc5b4\uc11c \uc624\uc2ed\uc2dc\uc624. ]<<A<<[CHANGED 2019/04/16]",
@@ -6618,7 +6618,7 @@
                   "side": "LEFT",
                   "message": {
                     "": "[ Since you have already successfully used our products, are you interested in their advanced recreational functionality? ]",
-                    "en_US": "[ Já que você já utilizou nossos produtos com sucesso, você está interessado na funcionalidade recreativa avançada deles? ]",
+                    "en_US": "[ Já que você já utilizou nossos produtos com sucesso, você está interessada na funcionalidade recreativa avançada deles? ]",
                     "langUid": 819,
                     "zh_CN": "[ \u60a8\u5df2\u7ecf\u6210\u529f\u7684\u4f7f\u7528\u4e86\u6211\u4eec\u7684\u4ea7\u54c1\uff0c\u8bf7\u95ee\u662f\u5426\u611f\u5174\u8da3\u5c1d\u8bd5\u4e00\u4e0b\u5176\u9ad8\u7ea7\u5a31\u4e50\u529f\u80fd\uff1f ]<<A<<[CHANGED 2019/04/16]",
                     "ko_KR": "[ \uc774\ubbf8 \uc131\uacf5\uc801\uc73c\ub85c \uc800\ud76c \uc81c\ud488\uc744 \uc0ac\uc6a9\ud558\uc168\uc73c\ub2c8, \ud574\ub2f9 \uc81c\ud488\uc758 \uace0\uae09 \uc624\ub77d \uae30\ub2a5\uc744 \uc0ac\uc6a9\ud574 \ubcf4\uc2dc\uaca0\uc2b5\ub2c8\uae4c? ]<<A<<[CHANGED 2019/04/16]",
@@ -7372,7 +7372,7 @@
                       {
                         "message": {
                           "": "Careful though, because they'll all have \\c[3]shields that reflect damage\\c[0].\\. So just attacking blindly won't be an option.",
-                          "en_US": "Mas cuidado, porque todos eles possuem \\c[3]escudos que refletem dano\\c[0].\\. Portanto, atacar de forma aleatória não será uma opção.",
+                          "en_US": "Mas cuidado, porque todos eles possuem \\c[3]escudos que refletem dano\\c[0].\\. Então atacar de forma aleatória não vai funcionar.",
                           "de_DE": "Aber Vorsicht, sie haben alle \\c[3]einen Schild, der Schaden reflektiert\\c[0].\\. Einfach drauflosballern ist also nicht die cleverste Option.",
                           "zh_CN": "\u4f60\u9700\u8981\u5c0f\u5fc3\uff0c\u56e0\u4e3a\u5b83\u4eec\u90fd\u62e5\u6709\u53ef\u4ee5\\c[3]\u53cd\u5c04\u4f24\u5bb3\u7684\u62a4\u76fe\\c[0]\u3002\\.\u76f2\u76ee\u7684\u4e71\u5c04\u662f\u4e0d\u884c\u7684\u3002<<A<<[CHANGED 2019/04/16]",
                           "ja_JP": "\u3067\u3082\u6c17\u3092\u3064\u3051\u3066\u304f\u308c\u3001\u6575\u306f\\c[3]\u653b\u6483\u3092\n\u8df3\u306d\u8fd4\u3059\u30b7\u30fc\u30eb\u30c9\\c[0]\u3092\u5f35\u3063\u3066\u3044\u308b\u3002\\.\n\u3084\u307f\u304f\u3082\u306b\u653b\u6483\u3057\u3066\u3082\u52b9\u679c\u306f\u306a\u3044\u305e\u3002<<A<<[CHANGED 2019/04/16]",
@@ -7408,7 +7408,7 @@
                       {
                         "message": {
                           "": "Thankfully we prepared some automated \\c[3]defensive turrets\\c[0] here.",
-                          "en_US": "Felizmente, preparamos algumas \\c[3]torres defensivas\\c[0] automáticas aqui.",
+                          "en_US": "Felizmente, preparamos algumas \\c[3]torres de defesa\\c[0] aqui.",
                           "de_DE": "Wir haben hier aber ein paar automatisierte \\c[3]Defensivgesch\u00fctze\\c[0] vorbereitet.",
                           "zh_CN": "\u4e0d\u8fc7\u6211\u4eec\u51c6\u5907\u4e86\u53ef\u4ee5\u81ea\u52a8\u5c04\u51fb\u7684\\c[3]\u9632\u5fa1\u70ae\u5854\\c[0]\u3002<<A<<[CHANGED 2019/04/16]",
                           "ja_JP": "\u5e78\u3044\u306a\u3053\u3068\u306b\u3001\u3053\u3063\u3061\u306b\u306f\n\u81ea\u52d5\\c[3]\u9632\u885b\u30bf\u30ec\u30c3\u30c8\\c[0]\u3092\u7528\u610f\u3057\u3066\u3042\u308b\u3002<<A<<[CHANGED 2019/04/16]",
@@ -7462,7 +7462,7 @@
                       {
                         "message": {
                           "": "Later I'll also unlock \\c[3]elemental modes\\c[0] that will \\c[3]cause more damage instead of disrupting the shields\\c[0].",
-                          "en_US": "Mais tarde também vou desbloquear os \\c[3]modos elementais\\c[0] que causarão mais dano em vez de romper os escudos.",
+                          "en_US": "Mais tarde, vou desbloquear os \\c[3]modos elementais\\c[0] que causan mais dano em vez de romper os escudos.",
                           "de_DE": "Sp\u00e4ter werde ich auch \\c[3]Elementar-Modi\\c[0] freischalten, die \\c[3]mehr Schaden verursachen, aber keine Schilde aufl\u00f6sen\\c[0].",
                           "zh_CN": "\u4e4b\u540e\u6211\u4f1a\u4e3a\u4f60\u89e3\u9501\\c[3]\u5143\u7d20\u653b\u51fb\u6a21\u5f0f\\c[0]\uff0c\u867d\u7136\u5b83\u4eec\\c[3]\u4e0d\u80fd\u524a\u5f31\u62a4\u76fe\uff0c\u4f46\u662f\u4f24\u5bb3\u4f1a\u66f4\u9ad8\\c[0]\u3002<<A<<[CHANGED 2019/04/16]",
                           "ja_JP": "\u3057\u3070\u3089\u304f\u7d4c\u3063\u305f\u3089\u3001\\c[3]\u5c5e\u6027\u653b\u6483\u30e2\u30fc\u30c9\\c[0]\u3092\n\u30a2\u30f3\u30ed\u30c3\u30af\u3059\u308b\u3002\u3053\u308c\u306f\\c[3]\u30b7\u30fc\u30eb\u30c9\u3092\n\u89e3\u9664\u3067\u304d\u306a\u3044\u304c\u3001\u4ee3\u308f\u308a\u306b\n\u5927\u304d\u306a\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u3089\u308c\u308b\\c[0]\u3002<<A<<[CHANGED 2019/04/16]",
@@ -7516,7 +7516,7 @@
                       {
                         "message": {
                           "": "You should pay attention to that and learn which one works best on which position!",
-                          "en_US": "Você deve prestar atenção a isso e aprender qual funciona melhor em qual posição!",
+                          "en_US": "Você deve prestar atenção nisso e aprender qual funciona melhor em qual posição!",
                           "de_DE": "Achte also darauf und probier einfach aus, welcher wo am besten funktioniert!",
                           "zh_CN": "\u4f60\u6700\u597d\u4ed4\u7ec6\u89c2\u5bdf\uff0c\u770b\u770b\u5728\u54ea\u4e2a\u70b9\u4e0a\u653e\u54ea\u79cd\u70ae\u53f0\u6700\u597d\uff01<<A<<[CHANGED 2018/08/28]",
                           "ja_JP": "\u653b\u6483\u30d1\u30bf\u30fc\u30f3\u306b\u6ce8\u610f\u3057\u3066\u3001\n\u3069\u306e\u30bf\u30ec\u30c3\u30c8\u3092\u3069\u3053\u306b\u7f6e\u304f\u306e\u304c\n\u30d9\u30b9\u30c8\u306a\u306e\u304b\u5b66\u3093\u3067\u306d\uff01<<A<<[CHANGED 2018/08/28]",
@@ -7611,7 +7611,7 @@
                       {
                         "text": {
                           "": "All turrets cost \\c[3]\\v[tmp.tdCostTurret1] Energy\\c[0] to activate, regardless of element.\n\nFor \\c[3]\\v[tmp.tdUpgradeCost] Energy\\c[0] all turrets will upgrade their attack power. This will happen automatically upon reaching that amount.",
-                          "en_US": "Todas as torres custam \\c[3]\\v[tmp.tdCostTurret1] de Energia\\c[0] para ativar, independente do elemento.\n\nPor \\c[3]\\v[tmp.tdUpgradeCost] de Energia\\c[0] todas os torres irão aumentar seu poder de ataque. Isso acontecerá automaticamente ao atingir essa quantidade.",
+                          "en_US": "Todas as torres custam \\c[3]\\v[tmp.tdCostTurret1] de Energia\\c[0] para ativar, independente do elemento.\n\nPor \\c[3]\\v[tmp.tdUpgradeCost] de Energia\\c[0] todas as torres irão aumentar seu poder de ataque. Isso acontecerá automaticamente ao atingir essa quantidade.",
                           "de_DE": "Alle Gesch\u00fctze brauchen zur Aktivierung \\c[3]\\v[tmp.tdCostTurret1] Energie\\c[0], unabh\u00e4ngig vom Element.\n\nWenn du \\c[3]\\v[tmp.tdUpgradeCost] Energie\\c[0] erreichst, verbessert sich automatisch die Angriffskraft aller Gesch\u00fctze.",
                           "langUid": 887,
                           "ko_KR": "\ubaa8\ub4e0 \ud3ec\ud0d1\uc740 \uc18d\uc131\uacfc \uc0c1\uad00\uc5c6\uc774 \ud65c\uc131\ud654\ud558\ub294 \ub370 \\c[3]\\v[tmp.tdCostTurret1] \uc5d0\ub108\uc9c0\\c[0]\uac00 \ub4ed\ub2c8\ub2e4.\n\n\\c[3]\\v[tmp.tdUpgradeCost] \uc5d0\ub108\uc9c0\\c[0]\ub97c \uc0ac\uc6a9\ud558\uba74 \ud3ec\ud0d1\uc758 \uacf5\uaca9\ub825\uc774 \uc99d\uac00\ud569\ub2c8\ub2e4. \uc774\ub294 \uc774 \uc5d0\ub108\uc9c0\uc5d0 \ub3c4\ub2ec\ud588\uc744 \uacbd\uc6b0, \uc790\ub3d9\uc73c\ub85c \uc218\ud589\ub429\ub2c8\ub2e4.<<A<<[CHANGED 2019/04/30]",
@@ -7893,7 +7893,7 @@
                 {
                   "message": {
                     "": "Okay, there you are.\\. So I guess we can finally push through the last hurdle.",
-                    "en_US": "Pronto, aí está você.\\. Então, acho que podemos finalmente superar o último obstáculo.",
+                    "en_US": "Agora que você veio, acho que podemos finalmente superar o último obstáculo.",
                     "de_DE": "Ah, da bist du ja.\\. Dann wollen wir uns mal an die letzte H\u00fcrde wagen.",
                     "zh_CN": "\u54e6\uff0c\u4f60\u6765\u5566\u3002\\.\u6211\u4eec\u603b\u7b97\u80fd\u5f00\u59cb\u6700\u540e\u7684\u5de5\u4f5c\u4e86\u3002<<A<<[CHANGED 2018/08/28]",
                     "ja_JP": "\u3088\u3057\u3001\u3084\u3063\u3068\u6765\u3066\u304f\u308c\u305f\u306d\u3002\\.\n\u3053\u308c\u3067\u3068\u3046\u3068\u3046\u6700\u5f8c\u306e\u96e3\u95a2\u3092\n\u4e57\u308a\u8d8a\u3048\u3089\u308c\u305d\u3046\u3060\u306d\u3002<<A<<[CHANGED 2018/08/28]",
@@ -8073,7 +8073,7 @@
                 {
                   "message": {
                     "": "Of course, as you'd expect, starting the extraction will provoke hordes of monsters to attack us.",
-                    "en_US": "Claro que, como seria de se esperar, iniciar a extração vai provocar hordas de monstros para nos atacar.",
+                    "en_US": "Como era de se esperar, iniciar a extração vai atrair hordas de monstros para nos atacar.",
                     "de_DE": "Wie nicht anders zu erwarten, wird diese Extraktion Horden von Monstern gegen uns aufbringen.",
                     "zh_CN": "\u5f53\u7136\uff0c\u5982\u4f60\u6240\u60f3\uff0c\u62bd\u53d6\u8fc7\u7a0b\u4f1a\u5438\u5f15\u5927\u91cf\u602a\u7269\u88ad\u51fb\u3002<<A<<[CHANGED 2018/08/28]",
                     "ja_JP": "\u3082\u3061\u308d\u3093\u3054\u60f3\u50cf\u306e\u901a\u308a\u3001\u62bd\u51fa\u3092\u59cb\u3081\u308b\u3068\n\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u5927\u7fa4\u304c\u6012\u308a\u72c2\u3063\u3066\u3001\n\u79c1\u305f\u3061\u3092\u653b\u6483\u3057\u3066\u304f\u308b\u3088\u3002<<A<<[CHANGED 2018/08/28]",
@@ -8091,7 +8091,7 @@
                 {
                   "message": {
                     "": "Yeah, typical Track-tantrums, am I right?\\. In any case, you will have to defend it, \\v[lore.title.seeker].",
-                    "en_US": "Sim, típico problema da Trilha, não é?\\. Enfim, você terá que proteger o dispositivo, \\v[lore.title.seeker].",
+                    "en_US": "Sim, típico problema da Trilha, não é?\\. Por isso, você terá que proteger o dispositivo, \\v[lore.title.seeker].",
                     "de_DE": "Da wird dem Pfad mal wieder m\u00e4chtig der Kragen platzen.\\. Aber zum Gl\u00fcck haben wir ja dich, Seeker!",
                     "zh_CN": "\u5f88\u5178\u578b\u7684\u5148\u7956\u4e4b\u8def\u53cd\u5e94\u5bf9\u5427\uff1f\\.\u603b\u4e4b\uff0c\u4f60\u9700\u8981\u5b88\u536b\u8fd9\u4e2a\u88c5\u7f6e\uff0c\\v[lore.title.seeker]\u3002<<A<<[CHANGED 2019/07/31]",
                     "ja_JP": "\u305d\u3046\u3001\u5178\u578b\u7684\u306a\u8ecc\u8de1\u306e\u3057\u3063\u307a\u8fd4\u3057\u3060\u3088\u306d\u3002\\.\n\u3044\u305a\u308c\u306b\u305b\u3088\u3001\u3042\u306a\u305f\u306b\u9632\u885b\u3057\u3066\n\u3082\u3089\u308f\u306a\u3044\u3068\u306d\u3001\\v[lore.title.seeker]\u3055\u3093\u3002<<A<<[CHANGED 2019/07/31]",
@@ -8109,7 +8109,7 @@
                 {
                   "message": {
                     "": "Though this time those sly beasts will come from two paths at once!",
-                    "en_US": "Embora desta vez essas bestas astutas venham de dois caminhos ao mesmo tempo!",
+                    "en_US": "Dessa vez, aquelas bestas astutas vão atacar por dois caminhos diferentes ao mesmo tempo!",
                     "de_DE": "Dieses Mal allerdings werden die schlauen Biester von beiden Seiten gleichzeitig angreifen!",
                     "zh_CN": "\u4e0d\u8fc7\u8fd9\u6b21\uff0c\u602a\u7269\u4f1a\u4ece\u4e24\u6761\u8def\u7ebf\u540c\u65f6\u6765\u88ad\uff01<<A<<[CHANGED 2018/08/28]",
                     "ja_JP": "\u3067\u3082\u4eca\u56de\u306f\u3001\u3042\u306e\u305a\u308b\u8ce2\u3044\u7363\u305f\u3061\u306f\n2\u3064\u306e\u65b9\u5411\u304b\u3089\u4e00\u5ea6\u306b\u653b\u3081\u3066\u304f\u308b\u3088\uff01<<A<<[CHANGED 2018/08/28]",
@@ -8324,7 +8324,7 @@
                 {
                   "message": {
                     "": "Well, you should get how this works by now.\\. Just talk to me again once you want to start.",
-                    "en_US": "Bem, você já sabe como isso funciona.\\. Basta falar comigo novamente quando você quiser começar.",
+                    "en_US": "Você já sabe como isso funciona.\\. Fale comigo novamente quando você quiser começar.",
                     "de_DE": "Aber das solltest du ja mittlerweile aus dem Effeff k\u00f6nnen.\\. Sag mir Bescheid, wann's losgehen kann.",
                     "zh_CN": "\u884c\u4e86\uff0c\u51c6\u5907\u5f00\u59cb\u5de5\u4f5c\u5427\u3002\\.\u60f3\u5f00\u59cb\u7684\u8bdd\u8ddf\u6211\u8bf4\u4e00\u58f0\u5c31\u884c\u3002<<A<<[CHANGED 2018/08/28]",
                     "ja_JP": "\u306f\u3058\u3081\u305f\u304f\u306a\u3063\u305f\u3089\u8a71\u3057\u304b\u3051\u3066\u304f\u308c\u3002\\.\n\u3042\u3068\u306f\u5b9f\u969b\u306b\u3084\u3063\u3066\u307f\u308c\u3070\n\u30b3\u30c4\u304c\u308f\u304b\u308b\u3060\u308d\u3046\u3002<<A<<[CHANGED 2018/08/28]",
@@ -8540,7 +8540,7 @@
                     {
                       "message": {
                         "": "Okay, waves should start as soon as I release the safety.",
-                        "en_US": "Certo, as ondas devem começar assim que eu liberar a segurança.",
+                        "en_US": "As ondas devem vir assim que eu liberar a segurança.",
                         "de_DE": "Also, die Gegnerwellen kommen, sobald ich den Sicherungsschalter loslasse.",
                         "zh_CN": "\u53ea\u8981\u6211\u4e00\u6253\u5f00\u4fdd\u9669\uff0c\u654c\u4eba\u5c31\u4f1a\u5f00\u59cb\u6d8c\u6765\u3002<<A<<[CHANGED 2018/09/19]",
                         "ja_JP": "\u3088\u3057\u3001\u79c1\u304c\u5b89\u5168\u88c5\u7f6e\u3092\u89e3\u9664\u3057\u305f\u3089\u3001\n\u3059\u3050\u306b\u30a6\u30a7\u30fc\u30d6\u304c\u3084\u3063\u3066\u304f\u308b\u3088\u3002<<A<<[CHANGED 2018/09/19]",
@@ -8785,7 +8785,7 @@
                     {
                       "message": {
                         "": "Careful though, because they'll all have \\c[3]shields that reflect damage\\c[0].\\. So just attacking blindly won't be an option.",
-                        "en_US": "Mas cuidado, porque todos eles possuem \\c[3]escudos que refletem dano\\c[0].\\. Portanto, atacar de forma aleatória não será uma opção.",
+                        "en_US": "Mas cuidado, porque todos eles possuem \\c[3]escudos que refletem dano\\c[0].\\. Então, atacar de forma aleatória não vai funcionar.",
                         "de_DE": "Aber Vorsicht, sie haben alle \\c[3]einen Schild, der Schaden reflektiert\\c[0].\\. Einfach drauflosballern ist also nicht die cleverste Option.",
                         "zh_CN": "\u4f60\u9700\u8981\u5c0f\u5fc3\uff0c\u56e0\u4e3a\u5b83\u4eec\u90fd\u62e5\u6709\u53ef\u4ee5\\c[3]\u53cd\u5c04\u4f24\u5bb3\u7684\u62a4\u76fe\\c[0]\u3002\\.\u76f2\u76ee\u7684\u4e71\u5c04\u662f\u4e0d\u884c\u7684\u3002<<A<<[CHANGED 2019/04/16]",
                         "ja_JP": "\u3067\u3082\u6c17\u3092\u3064\u3051\u3066\u304f\u308c\u3001\u6575\u306f\\c[3]\u653b\u6483\u3092\n\u8df3\u306d\u8fd4\u3059\u30b7\u30fc\u30eb\u30c9\\c[0]\u3092\u5f35\u3063\u3066\u3044\u308b\u3002\\.\n\u3084\u307f\u304f\u3082\u306b\u653b\u6483\u3057\u3066\u3082\u52b9\u679c\u306f\u306a\u3044\u305e\u3002<<A<<[CHANGED 2019/04/16]",
@@ -8896,7 +8896,7 @@
                     {
                       "message": {
                         "": "Thankfully we prepared some automated \\c[3]defensive turrets\\c[0] here.",
-                        "en_US": "Felizmente, preparamos algumas \\c[3]torres defensivas\\c[0] automáticas aqui.",
+                        "en_US": "Felizmente, preparamos algumas \\c[3]torres de defesa\\c[0] aqui.",
                         "de_DE": "Wir haben hier aber ein paar automatisierte \\c[3]Defensivgesch\u00fctze\\c[0] vorbereitet.",
                         "zh_CN": "\u4e0d\u8fc7\u6211\u4eec\u51c6\u5907\u4e86\u53ef\u4ee5\u81ea\u52a8\u5c04\u51fb\u7684\\c[3]\u9632\u5fa1\u70ae\u5854\\c[0]\u3002<<A<<[CHANGED 2019/04/16]",
                         "ja_JP": "\u5e78\u3044\u306a\u3053\u3068\u306b\u3001\u3053\u3063\u3061\u306b\u306f\n\u81ea\u52d5\\c[3]\u9632\u885b\u30bf\u30ec\u30c3\u30c8\\c[0]\u3092\u7528\u610f\u3057\u3066\u3042\u308b\u3002<<A<<[CHANGED 2019/04/16]",
@@ -8950,7 +8950,7 @@
                     {
                       "message": {
                         "": "Later I'll also unlock \\c[3]elemental modes\\c[0] that will \\c[3]cause more damage instead of disrupting the shields\\c[0].",
-                        "en_US": "Mais tarde também vou desbloquear os \\c[3]modos elementais\\c[0] que causarão mais dano em vez de romper os escudos.",
+                        "en_US": "Mais tarde, vou desbloquear os \\c[3]modos elementais\\c[0] que causan mais dano em vez de romper os escudos.",
                         "de_DE": "Sp\u00e4ter werde ich auch \\c[3]Elementar-Modi\\c[0] freischalten, die \\c[3]mehr Schaden verursachen, aber keine Schilde aufl\u00f6sen\\c[0].",
                         "zh_CN": "\u4e4b\u540e\u6211\u4f1a\u4e3a\u4f60\u89e3\u9501\\c[3]\u5143\u7d20\u653b\u51fb\u6a21\u5f0f\\c[0]\uff0c\u867d\u7136\u5b83\u4eec\\c[3]\u4e0d\u80fd\u524a\u5f31\u62a4\u76fe\uff0c\u4f46\u662f\u4f24\u5bb3\u4f1a\u66f4\u9ad8\\c[0]\u3002<<A<<[CHANGED 2019/04/16]",
                         "ja_JP": "\u3057\u3070\u3089\u304f\u7d4c\u3063\u305f\u3089\u3001\\c[3]\u5c5e\u6027\u653b\u6483\u30e2\u30fc\u30c9\\c[0]\u3092\n\u30a2\u30f3\u30ed\u30c3\u30af\u3059\u308b\u3002\u3053\u308c\u306f\\c[3]\u30b7\u30fc\u30eb\u30c9\u3092\n\u89e3\u9664\u3067\u304d\u306a\u3044\u304c\u3001\u4ee3\u308f\u308a\u306b\n\u5927\u304d\u306a\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u3089\u308c\u308b\\c[0]\u3002<<A<<[CHANGED 2019/04/16]",
@@ -9004,7 +9004,7 @@
                     {
                       "message": {
                         "": "You should pay attention to that and learn which one works best on which position!",
-                        "en_US": "Você deve prestar atenção a isso e aprender qual funciona melhor em qual posição!",
+                        "en_US": "Você deve prestar atenção nisso e aprender qual funciona melhor em qual posição!",
                         "de_DE": "Achte also darauf und probier einfach aus, welcher wo am besten funktioniert!",
                         "zh_CN": "\u4f60\u6700\u597d\u4ed4\u7ec6\u89c2\u5bdf\uff0c\u770b\u770b\u5728\u54ea\u4e2a\u70b9\u4e0a\u653e\u54ea\u79cd\u70ae\u53f0\u6700\u597d\uff01<<A<<[CHANGED 2019/04/16]",
                         "ja_JP": "\u653b\u6483\u30d1\u30bf\u30fc\u30f3\u306b\u6ce8\u610f\u3057\u3066\u3001\n\u3069\u306e\u30bf\u30ec\u30c3\u30c8\u3092\u3069\u3053\u306b\u7f6e\u304f\u306e\u304c\n\u30d9\u30b9\u30c8\u306a\u306e\u304b\u5b66\u3093\u3067\u306d\uff01<<A<<[CHANGED 2019/04/16]",
@@ -9134,7 +9134,7 @@
                     {
                       "message": {
                         "": "Here, take a look at this sheet that came with the manual.\\. It should give you a good overview.",
-                        "en_US": "Aqui, dê uma olhada nessa folha que veio com o manual.\\. Ele deve lhe dar uma boa visão geral.",
+                        "en_US": "Aqui, dê uma olhada nessa página do manual.\\. Ela tem mais detalhes sobre as torres.",
                         "langUid": 801,
                         "zh_CN": "\u4f60\u6765\u770b\u770b\u8fd9\u4efd\u624b\u518c\u4e0a\u7684\u8bf4\u660e\u5427\u3002\\. \u770b\u5b8c\u5e94\u8be5\u5c31\u660e\u767d\u4e86\u3002<<A<<[CHANGED 2018/11/28]",
                         "ko_KR": "\uc790, \ub9e4\ub274\uc5bc\uc774 \uc801\ud78c \uc774 \uc885\uc774\ub97c \ubd10\ubd10.\\. \uc5ec\uae30\uc11c \uac1c\uc694\ub97c \ubcfc \uc218 \uc788\uc5b4.<<A<<[CHANGED 2019/01/10]",
@@ -9341,7 +9341,7 @@
                 {
                   "message": {
                     "": "\\v[lore.title.seeker], our machine is running smoothly and has already gathered lots of the Ancient energy!",
-                    "en_US": "\\v[lore.title.seeker], nossa máquina está funcionando sem problemas e já reuniu muita da energia dos Antigos!",
+                    "en_US": "\\v[lore.title.seeker], nossa máquina está funcionando sem problemas e já reuniu muita energia dos Antigos!",
                     "de_DE": "Die Maschine l\u00e4uft einwandfrei und hat bereits viel Ahnen-Energie gesammelt!",
                     "zh_CN": "\\v[lore.title.seeker]\uff0c\u6211\u4eec\u7684\u88c5\u7f6e\u8fd0\u8f6c\u987a\u5229\uff0c\u5df2\u7ecf\u6536\u96c6\u5230\u4e86\u4e0d\u5c11\u5148\u7956\u80fd\u91cf\uff01<<A<<[CHANGED 2018/08/28]",
                     "ja_JP": "\\v[lore.title.seeker]\u3055\u3093\u3001\u79c1\u305f\u3061\u306e\u88c5\u7f6e\u306f\u30b9\u30e0\u30fc\u30ba\u306b\n\u8d77\u52d5\u3057\u3066\u3001\u3059\u3067\u306b\u53e4\u4ee3\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\n\u305f\u304f\u3055\u3093\u96c6\u3081\u3066\u308b\u3088\uff01<<A<<[CHANGED 2018/08/28]",
@@ -9377,7 +9377,7 @@
                 {
                   "message": {
                     "": "Truly a fantastic piece of tech, this baby.\\. Moments like this make all the trouble seem worth it.",
-                    "en_US": "Essa belezinha aqui é uma verdadeira obra tecnológica.\\. Momentos como este fazem com que todos os problemas pareçam valer a pena.",
+                    "en_US": "Essa belezinha aqui é uma verdadeira obra tecnológica.\\. Esses momentos fazem todos os problemas valerem a pena.",
                     "de_DE": "Echt ein fantastisches St\u00fcck Technologie, das Baby hier.\\. Momente wie diese machen all die M\u00fche wert.",
                     "zh_CN": "\u8fd9\u5b9d\u8d1d\u513f\u771f\u662f\u79d1\u6280\u7684\u6770\u4f5c\u3002\\.\u5c31\u662f\u8fd9\u6837\u7684\u8868\u73b0\u624d\u4e0d\u6789\u8d39\u6211\u4eec\u7684\u529f\u592b\u3002<<A<<[CHANGED 2018/11/28]",
                     "ja_JP": "\u3053\u306e\u5b50\u306f\u672c\u5f53\u306b\u3059\u3070\u3089\u3057\u3044\u6280\u8853\u306e\n\u7d50\u6676\u3060\u306d\u3002\\.\u3053\u3093\u306a\u77ac\u9593\u304c\u6765\u308b\u3068\u3001\n\u82e6\u52b4\u3057\u305f\u304b\u3044\u304c\u3042\u3063\u305f\u3063\u3066\u601d\u3046\u3088\u3002<<A<<[CHANGED 2019/01/10]",
@@ -9428,7 +9428,7 @@
                 {
                   "message": {
                     "": "Oh, yeah.\\. You also did fine.\\. This operation would have been difficult without your protection.\\. So, thanks!",
-                    "en_US": "Ah, sim.\\. Você também se saiu bem.\\. Essa operação teria sido difícil sem sua proteção. Então, obrigada!",
+                    "en_US": "Ah, sim.\\. Você também se saiu bem.\\. Essa operação teria sido difícil sem sua proteção.\\. Então, obrigada!",
                     "de_DE": "Ach ja.\\. Deine Arbeit war auch gut.\\. Das Ganze w\u00e4re ohne dich echt schwer gewesen.\\. Also danke!",
                     "zh_CN": "\u54e6\u54e6\u3002\\.\u4f60\u4e5f\u505a\u5f97\u633a\u597d\u3002\\.\u8981\u662f\u6ca1\u6709\u4f60\u8ba1\u5212\u4e5f\u65e0\u6cd5\u987a\u5229\u5b9e\u65bd\u3002\\.\u591a\u8c22\u5566\u3002<<A<<[CHANGED 2018/11/28]",
                     "ja_JP": "\u3042\u3042\u3001\u305d\u3046\u3060\u3088\u306d\u3002\\.\u3042\u306a\u305f\u306f\n\u3088\u304f\u3084\u3063\u3066\u304f\u308c\u305f\u3088\u3002\\.\u3042\u306a\u305f\u304c\n\u8b77\u885b\u3057\u3066\u304f\u308c\u306a\u304b\u3063\u305f\u3089\u3001\u3053\u306e\u4f5c\u6226\u306f\n\u56f0\u96e3\u3060\u3063\u305f\u3068\u601d\u3046\u3002\\.\u3060\u304b\u3089\u3001\u3042\u308a\u304c\u3068\u3046\uff01<<A<<[CHANGED 2019/01/10]",
@@ -9461,7 +9461,7 @@
                 {
                   "message": {
                     "": "So, yes.\\. Report back to our HQ to get your reward!\\. And until next time.",
-                    "en_US": "Então, sim.\\. Reporte-se em nossa sede para receber sua recompensa.",
+                    "en_US": "Vá até a nossa sede para receber sua recompensa.",
                     "de_DE": "Melde dich im Hauptquartier f\u00fcr deine Belohnung!\\. Bis zum n\u00e4chsten Mal!",
                     "zh_CN": "\u5c31\u8fd9\u6837\u3002\\.\u8bf7\u5411\u603b\u90e8\u62a5\u544a\u9886\u8d4f\u5427\uff01\\.\u4e0b\u6b21\u518d\u89c1\u3002<<A<<[CHANGED 2018/11/28]",
                     "ja_JP": "\u3046\u3093\u3001\u305d\u3046\u3060\u306d\u3002\\.\u672c\u90e8\u306b\u5831\u544a\u3057\u3066\n\u5831\u916c\u3092\u53d7\u3051\u53d6\u3063\u3066\u306d\uff01\\.\u3058\u3083\u3042\u3001\u307e\u305f\u306d\u3002<<A<<[CHANGED 2019/01/10]",
@@ -9770,7 +9770,7 @@
           {
             "message": {
               "": "Ah, there you are, \\v[lore.title.seeker]!",
-              "en_US": "Ah, aí está você, \\v[lore.title.seeker]!",
+              "en_US": "Olá, \\v[lore.title.seeker]!",
               "de_DE": "Ah, da bist du ja, Seeker!",
               "zh_CN": "\u54e6\uff0c\\v[lore.title.seeker]\uff0c\u4f60\u6765\u5566!<<A<<[CHANGED 2018/08/28]",
               "ja_JP": "\u3042\u3042\u3001\u305d\u3053\u306b\u3044\u305f\u306e\u3001\n\\v[lore.title.seeker]\u3055\u3093\uff01<<A<<[CHANGED 2018/08/28]",
@@ -9887,7 +9887,7 @@
           {
             "message": {
               "": "Well, let's not stand around here, wasting time.\\. I will be waiting for you on standby at the machine.",
-              "en_US": "Bem, não vamos ficar por aqui, perdendo tempo.\\. Estarei esperando por você na máquina.",
+              "en_US": "Não vamos ficar aqui só perdendo tempo.\\. Estarei te aguardando perto da máquina.",
               "de_DE": "Dann lass uns mal gleich ans Werk.\\. Ich warte neben der Maschine auf dich.",
               "zh_CN": "\u884c\u4e86\uff0c\u522b\u7ad9\u5728\u8fd9\u6d6a\u8d39\u65f6\u95f4\u4e86\u3002\\.\u6211\u5728\u88c5\u7f6e\u90a3\u91cc\u7b49\u4f60\u3002<<A<<[CHANGED 2018/08/28]",
               "ja_JP": "\u307b\u3089\u3001\u30dc\u30b5\u30c3\u3068\u7a81\u3063\u7acb\u3063\u3066\u306a\u3044\u3067\u3002\n\u6642\u9593\u306e\u7121\u99c4\u3060\u3088\u3002\\.\u79c1\u306f\u88c5\u7f6e\u306e\u305d\u3070\u3067\n\u3042\u306a\u305f\u3092\u5f85\u3063\u3066\u308b\u304b\u3089\u306d\u3002<<A<<[CHANGED 2018/08/28]",

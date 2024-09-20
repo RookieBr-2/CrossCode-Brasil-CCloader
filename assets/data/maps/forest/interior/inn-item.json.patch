@@ -418,7 +418,7 @@
             "entity": { "global": true, "name": "c2" },
             "text": {
               "": "And this strange device in one of the storage rooms upstairs.",
-              "en_US": "E este dispositivo estranho em um dos depósitos no andar de cima.",
+              "en_US": "E um dispositivo estranho nos depósitos do andar de cima.",
               "langUid": 516,
               "zh_CN": "\u697c\u4e0a\u7684\u50a8\u85cf\u5ba4\u8fd8\u53d1\u73b0\u4e86\u8fd9\u4e2a\u5947\u602a\u7684\u88c5\u7f6e\u3002<<A<<[CHANGED 2020/07/08]",
               "ja_JP": "\u305d\u308c\u3068\u3001\u4e0a\u306e\u968e\u306e\u5009\u5eab\u306e\u4e2d\u306b\u3042\u3063\u305f\n\u3053\u306e\u5909\u306a\u30c7\u30d0\u30a4\u30b9\u3060\u3051\u3002<<A<<[CHANGED 2020/07/08]",
@@ -444,7 +444,7 @@
             "entity": { "global": true, "name": "c1" },
             "text": {
               "": "That's a feels bad...",
-              "en_US": "Isso não parece bom de qualquer forma...",
+              "en_US": "É sério? que estranho...",
               "langUid": 518,
               "zh_CN": "\u8fd9\u4e1c\u897f\u611f\u89c9...<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u305d\u308c\u306f\u3054\u6101\u50b7\u69d8...<<A<<[CHANGED 2018/09/19]",
@@ -457,7 +457,7 @@
             "entity": { "global": true, "name": "c2" },
             "text": {
               "": "Don't even start.",
-              "en_US": "Nem mesmo está ligando.",
+              "en_US": "Devia estar quebrado.",
               "langUid": 519,
               "zh_CN": "\u505c\u4e0b\u522b\u8bf4\u4e86\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u6c17\u6301\u3061\u3060\u3051\u3082\u3089\u3063\u3066\u304a\u304f\u3088\u3002<<A<<[CHANGED 2018/07/09]",
@@ -649,7 +649,7 @@
             "entity": { "global": true, "name": "c2" },
             "text": {
               "": "I'm fresh \\c[5]out of credits\\c[0], too... ",
-              "en_US": "Eu estou \\c[5]sem créditos\\c[0], também...",
+              "en_US": "E estou \\c[5]sem créditos\\c[0] agora...",
               "de_DE": "Au\u00dferdem bin ich auch \\c[5]klamm an Credits\\c[0]... ",
               "zh_CN": "\u6211\u73b0\u5728\u5df2\u7ecf\\c[5]\u4e00\u7a77\u4e8c\u767d\\c[0]... <<A<<[CHANGED 2019/01/10]",
               "ja_JP": "\u3053\u3063\u3061\u3082\u3061\u3087\u3046\u3069\u3001\n\\c[5]\u30af\u30ec\u30b8\u30c3\u30c8\u304c\u3059\u3063\u304b\u3089\u304b\u3093\\c[0]\u3060\u3088...<<A<<[CHANGED 2019/01/10]",
@@ -773,7 +773,7 @@
               {
                 "message": {
                   "": "I already told you, they got rid of credits trading ages ago.",
-                  "en_US": "Eu já disse, eles se livraram do comércio de créditos há séculos.",
+                  "en_US": "Eu já falei, o comércio de créditos foi removido há séculos.",
                   "langUid": 532,
                   "ko_KR": "\uc804\uc5d0\ub3c4 \ub9d0\ud588\uc9c0\ub9cc, \ud06c\ub808\ub527 \uac70\ub798\ub294 \uc774\ubbf8 \uc624\ub798 \uc804\uc5d0 \uc5c6\uc5b4\uc84c\uc5b4.<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u6211\u90fd\u8ddf\u4f60\u8bf4\u4e86\uff0c\u4ed6\u4eec\u8001\u65e9\u5c31\u628a\u73b0\u91d1\u4ea4\u6613\u79fb\u9664\u4e86\u3002<<A<<[CHANGED 2019/01/10]",

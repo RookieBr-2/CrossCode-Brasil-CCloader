@@ -12194,7 +12194,7 @@
                 {
                   "message": {
                     "": "The bird is trying to find a worm, but a \\c[3]bug\\c[0] is what it needs to catch.",
-                    "en_US": "O pássaro está tentando encontrar uma minhoca, mas um \\c[3]inseto\\c[0] é o que ele precisa pegar.",
+                    "en_US": "O pássaro está tentando encontrar uma minhoca, mas, na verdade, o que ele precisa é de um \\c[3]inseto\\c[0].",
                     "de_DE": "Der Vogel sucht einen Wurm, doch es ist ein \\c[3]K\u00e4fer\\c[0], den er fangen muss.",
                     "zh_CN": "\u9e1f\u513f\u60f3\u8981\u866b\u5b50\uff0c\u5b83\u9700\u8981\u5148\u6293\u4e9b\\c[3]\u866b\u5b50\\c[0]\u3002<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u5c0f\u9ce5\u306f\u30df\u30df\u30ba\u3092\u63a2\u3057\u3066\u3044\u308b\u3051\u3069\u3001\n\u672c\u5f53\u306b\u6355\u307e\u3048\u308b\u3079\u304d\u306a\u306e\u306f\\c[3]\u866b\\c[0]\u3060\u3002<<A<<[CHANGED 2018/07/09]",
@@ -12212,7 +12212,7 @@
                 {
                   "message": {
                     "": "To the \\c[3]south\\c[0] is where the bird needs to fly, through \\c[3]bamboo trees\\c[0] and beyond.",
-                    "en_US": "Para o \\c[3]sul\\c[0] é onde o pássaro precisa voar, através das \\c[3]árvores de bambu\\c[0] e mais além.",
+                    "en_US": "O pássaro deve voar para o \\c[3]sul\\c[0], atravessando as \\c[3]árvores de bambu\\c[0] e indo mais além.",
                     "de_DE": "Nach \\c[3]S\u00fcden\\c[0] muss der Vogel fliegen, durch \\c[3]Bambushaine\\c[0] und dar\u00fcber hinaus.",
                     "zh_CN": "\u9e1f\u513f\u9700\u8981\u5148\u98de\u5f80\\c[3]\u5357\u65b9\\c[0]\uff0c\u7a7f\u8fc7\\c[3]\u7af9\u6797\\c[0]\u3002<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u3053\u3053\u306e\\c[3]\u5357\u5074\\c[0]\u3001\\c[3]\u7af9\u306e\u3057\u3052\u307f\\c[0]\u3092\n\u8d8a\u3048\u305f\u5834\u6240\u306b\u3001\u5c0f\u9ce5\u304c\u98db\u3093\u3067\u3044\u304f\u3079\u304d\n\u5834\u6240\u304c\u3042\u308b\u3088\u3002<<A<<[CHANGED 2018/07/09]",
@@ -12230,7 +12230,7 @@
                 {
                   "message": {
                     "": "And by \\c[3]a pond and a fire\\c[0] it needs to land.",
-                    "en_US": "E entre \\c[3]um lago e uma fogueira\\c[0] precisa pousar.",
+                    "en_US": "E precisa pousar entre \\c[3]um lago e uma fogueira\\c[0].",
                     "de_DE": "Und bei \\c[3]einem Teich mit einem Feuer\\c[0] muss er landen.",
                     "zh_CN": "\u5728\\c[3]\u6c34\u5858\u4e0e\u706b\\c[0]\u4e4b\u5904\u843d\u4e0b\u3002<<A<<[CHANGED 2018/07/09]",
                     "ja_JP": "\u7740\u5730\u3059\u308b\u3079\u304d\u3068\u3053\u308d\u306e\u305d\u3070\u306b\u306f\u3001\n\\c[3]\u6c60\u3068\u708e\\c[0]\u304c\u3042\u308b\u3053\u3068\u3060\u308d\u3046\u3002<<A<<[CHANGED 2018/07/09]",
@@ -12332,7 +12332,7 @@
                 {
                   "task": {
                     "": "Fly to the \\c[3]south\\c[0] through the \\c[3]bamboo trees\\c[0] or something? Maybe someone in the \\c[3]Cave Inn\\c[0] can explain.",
-                    "en_US": "Voar para o \\c[3]sul\\c[0] através das \\c[3]árvores de bambu\\c[0] ou algo assim? Talvez alguém na \\c[3]Pousada Caverna\\c[0] possa explicar.",
+                    "en_US": "Voar para o \\c[3]sul\\c[0] através das \\c[3]árvores de bambu\\c[0]? Talvez alguém na \\c[3]Pousada da Caverna\\c[0] possa explicar.",
                     "de_DE": "Nach \\c[3]S\u00fcden\\c[0] durch das \\c[3]Bambusdickicht\\c[0] fliegen? Vielleicht kann jemand in der \\c[3]H\u00f6hlenherberge\\c[0] das erkl\u00e4ren. ",
                     "zh_CN": "\u5728\\c[3]\u9752\u7389\u5c71\u8109\u5317\u65b9\\c[0]\u8fdb\u884c\u641c\u5bfb\uff0c\u627e\u5230\u4f60\u5728\u68a6\u4e2d\u89c1\u5230\u7684\u5730\u65b9\u3002<<A<<[CHANGED 2018/08/28]",
                     "ja_JP": "\\c[3]\u7af9\u3084\u3076\\c[0]\u3092\u629c\u3051\u3066\\c[3]\u5357\\c[0]\u306b\u98db\u3093\u3067\u3044\u3051\uff1f\n\\c[3]\u6d1e\u7a9f\u5bbf\\c[0]\u306e\u4eba\u304c\u8aac\u660e\u3057\u3066\u304f\u308c\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3002<<A<<[CHANGED 2018/08/28]",
@@ -12382,7 +12382,7 @@
               {
                 "message": {
                   "": "To the \\c[3]south\\c[0] is where the bird needs to fly, through \\c[3]bamboo trees\\c[0] and beyond.",
-                  "en_US": "Para o \\c[3]sul\\c[0] é onde o pássaro precisa voar, através das \\c[3]árvores de bambu\\c[0] e mais além.",
+                  "en_US": "O pássaro deve voar para o \\c[3]sul\\c[0], atravessando as \\c[3]árvores de bambu\\c[0] e indo mais além.",
                   "de_DE": "Nach \\c[3]S\u00fcden\\c[0] muss der Vogel fliegen, \u00fcber \\c[3]Bambushaine\\c[0] und dar\u00fcber hinaus.",
                   "zh_CN": "\u9e1f\u513f\u9700\u8981\u5148\u98de\u5f80\\c[3]\u5357\u65b9\\c[0]\uff0c\u7a7f\u8fc7\\c[3]\u7af9\u6797\\c[0]\u3002<<A<<[CHANGED 2018/07/09]",
                   "ja_JP": "\u3053\u3053\u306e\\c[3]\u5357\u5074\\c[0]\u3001\\c[3]\u7af9\u306e\u3057\u3052\u307f\\c[0]\u3092\n\u8d8a\u3048\u305f\u5834\u6240\u306b\u3001\u5c0f\u9ce5\u304c\u98db\u3093\u3067\u3044\u304f\u3079\u304d\n\u5834\u6240\u304c\u3042\u308b\u3088\u3002<<A<<[CHANGED 2018/07/09]",
@@ -12400,7 +12400,7 @@
               {
                 "message": {
                   "": "And by \\c[3]a pond and a fire\\c[0] it needs to land.",
-                  "en_US": "E entre \\c[3]um lago e uma fogueira\\c[0] precisa pousar.",
+                  "en_US": "E precisa pousar entre \\c[3]um lago e uma fogueira\\c[0].",
                   "de_DE": "Und bei \\c[3]einem Teich mit einem Feuer\\c[0] muss er landen.",
                   "zh_CN": "\u5728\\c[3]\u6c34\u5858\u4e0e\u706b\\c[0]\u4e4b\u5904\u843d\u4e0b\u3002<<A<<[CHANGED 2018/07/09]",
                   "ja_JP": "\u7740\u5730\u3059\u308b\u3079\u304d\u3068\u3053\u308d\u306e\u305d\u3070\u306b\u306f\u3001\n\\c[3]\u6c60\u3068\u708e\\c[0]\u304c\u3042\u308b\u3053\u3068\u3060\u308d\u3046\u3002<<A<<[CHANGED 2018/07/09]",
@@ -12656,7 +12656,7 @@
               {
                 "message": {
                   "": "The Bird again? Hm...",
-                  "en_US": "O Pássaro novamente? Hm...",
+                  "en_US": "O Pássaro voltou? Hm...",
                   "de_DE": "Der kleine Vogel wieder? Hm...",
                   "zh_CN": "\u5c0f\u5c0f\u9e1f\u53c8\u6765\u4e86\uff1f\u55ef...<<A<<[CHANGED 2018/07/09]",
                   "ja_JP": "\u307e\u305f\u5c0f\u9ce5\u3055\u3093\uff1f\u3075\u3080...<<A<<[CHANGED 2018/07/09]",
@@ -12674,7 +12674,7 @@
               {
                 "message": {
                   "": "I see the worm found the falling rock.",
-                  "en_US": "Vejo que a minhoca encontrou a rocha que cai.",
+                  "en_US": "Parece que a minhoca encontrou a rocha que caiu.",
                   "de_DE": "Ich sehe, dass der Wurm den fallenden Felsen gefunden hat.",
                   "zh_CN": "\u6211\u5728\u843d\u77f3\u4e2d\u770b\u5230\u4e86\u8815\u866b\u3002<<A<<[CHANGED 2018/07/09]",
                   "ja_JP": "\u30df\u30df\u30ba\u306f\u843d\u3061\u308b\u77f3\u3092\u898b\u3064\u3051\u305f\u3088\u3046\u3060\u306d\u3002<<A<<[CHANGED 2018/07/09]",
@@ -12725,7 +12725,7 @@
               {
                 "message": {
                   "": "Now, don't clip your wings my bird, yes yes.",
-                  "en_US": "Agora, não corte suas asas meu pássaro, sim, sim.",
+                  "en_US": "Não corte suas asas agora, meu pássaro.",
                   "de_DE": "Also, stutze dir nicht deine Fl\u00fcgel, mein kleiner Vogel, ja ja.",
                   "zh_CN": "\u73b0\u5728\uff0c\u4e0d\u8981\u505c\u4e0b\u4f60\u7684\u7fc5\u8180\uff0c\u6211\u7684\u5c0f\u5c0f\u9e1f\uff0c\u662f\u7684\u662f\u7684\u3002<<A<<[CHANGED 2018/07/09]",
                   "ja_JP": "\u3055\u3042\u3001\u81ea\u5206\u306e\u7ffc\u3092\u5207\u3063\u3061\u3083\u3042\n\u3044\u3051\u306a\u3044\u3088\u3001\u5c0f\u9ce5\u3055\u3093\u3002\u3088\u3057\u3088\u3057\u3002<<A<<[CHANGED 2018/07/09]",
@@ -12853,7 +12853,7 @@
             "entity": { "global": true, "name": "c2" },
             "text": {
               "": "You mean the player offering real cash?",
-              "en_US": "Você quer dizer o jogador que ofereceu dinheiro real?",
+              "en_US": "Você está falando do jogador que ofereceu dinheiro de verdade?",
               "langUid": 515,
               "zh_CN": "\u4f60\u662f\u8bf4\u6709\u73a9\u5bb6\u8981\u7ed9\u4f60\u73b0\u91d1\uff1f<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u73fe\u5b9f\u306e\u304a\u91d1\u3092\n\u652f\u6255\u3046\u3063\u3066\u53d6\u5f15\u306e\u3053\u3068\uff1f<<A<<[CHANGED 2018/07/09]",
@@ -12879,7 +12879,7 @@
             "entity": { "global": true, "name": "c2" },
             "text": {
               "": "Sounded \\c[3]way too shady\\c[0] for my taste.",
-              "en_US": "Parecia \\c[3]muito suspeito\\c[0] para o meu gosto.",
+              "en_US": "Ele parecia \\c[3]suspeito demais\\c[0] para o meu gosto.",
               "langUid": 517,
               "zh_CN": "\u542c\u8d77\u6765\u6709\u70b9\\c[3]\u4e0d\u9760\u8c31\\c[0]\u5450\u3002<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u306a\u3093\u3060\u304b\\c[3]\u602a\u3057\u3044\\c[0]\u3063\u3066\n\u601d\u3063\u305f\u304b\u3089\u3055\u3002<<A<<[CHANGED 2018/09/19]",
@@ -12923,7 +12923,7 @@
               {
                 "message": {
                   "": "Oh, hey. You mean the money thing?",
-                  "en_US": "Ah, ei. Você quer dizer a parada do dinheiro?",
+                  "en_US": "Ah, ei. Você quer saber sobre a parada do dinheiro?",
                   "langUid": 518,
                   "zh_CN": "\u5662\u563f\u3002\u4f60\u662f\u8bf4\u94b1\u7684\u4e8b\u60c5\uff1f<<A<<[CHANGED 2021/05/22]",
                   "ja_JP": "\u3042\u3042\u3001\u3084\u3042\u3002\u304a\u91d1\u306e\u8a71\u304c\n\u6c17\u306b\u306a\u308b\u306e\u304b\u3044\uff1f<<A<<[CHANGED 2021/05/22]",
@@ -12956,7 +12956,7 @@
               {
                 "message": {
                   "": "Yeah, some dude just offered me money to deliver some kind of package.",
-                  "en_US": "Sim, algum cara acabou de me oferecer dinheiro para entregar algum tipo de pacote.",
+                  "en_US": "Sim, um cara acabou de me oferecer dinheiro para entregar algum tipo de pacote.",
                   "langUid": 520,
                   "zh_CN": "\u554a\u662f\u7684\u6ca1\u9519\uff0c\u6709\u5bb6\u4f19\u4ed8\u94b1\u7ed9\u6211\u8ba9\u6211\u5e2e\u4ed6\u4eec\u9001\u51e0\u4e2a\u5305\u88f9\u3002<<A<<[CHANGED 2018/09/19]",
                   "ja_JP": "\u3042\u308b\u4eba\u304c\u306d\u3001\u73fe\u91d1\u3092\u6255\u3046\u304b\u3089\n\u3042\u308b\u5305\u307f\u3092\u904b\u3093\u3067\u304f\u308c\u3063\u3066\n\u983c\u3093\u3067\u304d\u305f\u306e\u3055\u3002<<A<<[CHANGED 2018/09/19]",
@@ -13438,7 +13438,7 @@
               {
                 "message": {
                   "": "Look, there is some perfectly regular bamboo right in that river, cute.",
-                  "en_US": "Olha, tem um bambu perfeitamente comum no rio, que fofo.",
+                  "en_US": "Olha, tem um bambu quadradão no rio, que fofo.",
                   "langUid": 652,
                   "de_DE": "Guck mal, da ist ganz gew\u00f6hnlicher Bambus, mitten im Fluss, wie s\u00fc\u00df.",
                   "ja_JP": "\u898b\u3066\u3001\u3042\u306e\u5ddd\u306e\u3068\u3053\u308d\u306b\u3059\u3066\u304d\u306a\n\u666e\u901a\u306e\u7af9\u304c\u751f\u3048\u3066\u308b\u3088\u3002\u304b\u308f\u3044\u3044\u306d\u3002<<A<<[CHANGED 2018/09/02]",
@@ -13722,7 +13722,7 @@
             "entity": { "global": true, "name": "p2" },
             "text": {
               "": "Says it keeps him fit.",
-              "en_US": "Diz que o mantém em forma.",
+              "en_US": "E diz que isso o deixa em forma.",
               "langUid": 535,
               "de_DE": "Sagt, es h\u00e4lt ihn in Form.<<A<<[CHANGED 2021/05/22]",
               "ja_JP": "\u3042\u308c\u3067\u5065\u5eb7\u3092\n\u4fdd\u3063\u3066\u308b\u3093\u3060\u3063\u3066\u3055\u3002<<A<<[CHANGED 2021/05/22]",
@@ -13735,7 +13735,7 @@
             "entity": { "global": true, "name": "p1" },
             "text": {
               "": "Fit? We are inside a game, how does that work?",
-              "en_US": "Em forma? Estamos em um jogo, como podemos fazer isso?",
+              "en_US": "Em forma? Estamos em um jogo, como isso é possível?",
               "langUid": 536,
               "de_DE": "In Form? Wir sind in einem Spiel, wie soll das gehen?",
               "ja_JP": "\u5065\u5eb7\u3092\u4fdd\u3064\uff1f\u30b2\u30fc\u30e0\u306e\u4e2d\u306a\u306e\u306b\u3001\n\u3069\u3046\u3044\u3046\u3075\u3046\u306b\u52b9\u679c\u304c\u3042\u308b\u3093\u3060\uff1f<<A<<[CHANGED 2018/09/02]",
@@ -14298,7 +14298,7 @@
           {
             "message": {
               "": "I see you've arrived at the Cave Inn.",
-              "en_US": "Vejo que você chegou na Pousada Caverna.",
+              "en_US": "Parece que você chegou na Pousada da Caverna.",
               "langUid": 666,
               "ko_KR": "\ub3d9\uad74 \uc5ec\uad00\uc5d0 \ub3c4\ucc29\ud588\uad6c\ub098.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u4f60\u5230\u6d1e\u5929\u65c5\u9986\u4e86\u5427\u3002<<A<<[CHANGED 2019/01/10]",
@@ -14349,7 +14349,7 @@
           {
             "message": {
               "": "Yeah, it's like Wervyn says, there's a fine line between being early, late, and right on time.",
-              "en_US": "Sim, é como diz Wervyn, há uma linha tênue entre chegar cedo, tarde e bem na hora certa.",
+              "en_US": "Sim, é como diz Wervyn, há uma linha tênue entre chegar cedo demais, tarde demais e bem na hora certa.",
               "langUid": 669,
               "ko_KR": "\uadf8\ub798, \uc640\uc774\ubc88 \uac00\ub77c\uc0ac\ub300 \uac19\uc740 \uac70\uc9c0. \ub108\ubb34 \uc77c\ucc0d\uc774\ub098 \ub2a6\uac8c \ub3c4\ucc29\ud558\ub294 \uac83\uacfc \uc81c \uc2dc\uac04\uc5d0 \ub3c4\ucc29\ud558\ub294 \uac74 \uc885\uc774 \ud55c \uc7a5 \ucc28\uc774\uac70\ub4e0.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u6ca1\u9519\uff0c\u5c31\u50cf\u7ef4\u6587\u8bf4\u7684\u90a3\u6837\uff0c\u65f6\u673a\u7684\u65e9\u665a\u975e\u5e38\u91cd\u8981\u3002<<A<<[CHANGED 2019/01/10]",
@@ -14436,7 +14436,7 @@
           {
             "message": {
               "": "Thanks again, Lea!\\. PuellaDocta out!",
-              "en_US": "Obrigado novamente, Lea!\\. PuellaDocta se retirando!",
+              "en_US": "Obrigada mais uma vez, Lea!\\. PuellaDocta se retirando!",
               "langUid": 674,
               "ko_KR": "\ub2e4\uc2dc \ud55c\ubc88 \uace0\ub9c8\uc6cc, \ub808\uc544!\\. \ud478\uc5d8\ub77c\ub3c5\ud0c0\ub294 \uc774\ub9cc!<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u8c22\u5566\uff0c\u8389\u4e9a\uff01\\.\u7b49\u597d\u54e6\uff01<<A<<[CHANGED 2019/01/10]",
@@ -14541,7 +14541,7 @@
                   {
                     "message": {
                       "": "Well... I suppose waiting is all there is to do now.",
-                      "en_US": "Bem... Suponho que esperar é tudo o que resta a fazer agora.",
+                      "en_US": "Bem... acho que a única coisa que resta é esperar.",
                       "langUid": 679,
                       "ko_KR": "\ubb50... \uc9c0\uae08\uc740 \uadf8\ub0e5 \uae30\ub2e4\ub9ac\ub294 \uc218\ubc16\uc5d0 \uc5c6\ub294 \uac83 \uac19\ub124.<<A<<[CHANGED 2019/01/10]",
                       "zh_CN": "\u770b\u6765...\u73b0\u5728\u6211\u4eec\u80fd\u505a\u7684\u53ea\u6709\u7b49\u7740\u4e86\u3002<<A<<[CHANGED 2019/01/10]",
@@ -14611,7 +14611,7 @@
                   {
                     "message": {
                       "": "Hm... No surprise they have trouble finding volunteers doing this kind of work.",
-                      "en_US": "Hm... Não me surpreende que eles tenham dificuldade em encontrar voluntários que façam este tipo de trabalho.",
+                      "en_US": "Hm... Não me espanta que seja difícil encontrar pessoas dispostas a fazer esse tipo de trabalho.",
                       "langUid": 682,
                       "ko_KR": "\ud760... \uc774\ub7f0 \uc2dd\uc758 \uc77c\uc774\ub77c\uba74 \uc65c \uadf8\ub3d9\uc548 \uc9c0\uc6d0\uc790\ub97c \ucc3e\ub294 \uac8c \ud798\ub4e4\uc5c8\ub294\uc9c0 \uc54c\uaca0\ub124.<<A<<[CHANGED 2019/01/10]",
                       "zh_CN": "\u96be\u602a\u4ed6\u4eec\u627e\u5fd7\u613f\u8005\u8fd9\u4e48\u96be\u3002<<A<<[CHANGED 2019/01/10]",
@@ -14701,7 +14701,7 @@
           {
             "message": {
               "": "A fellow player is in dire need in \\c[3]River Road\\c[0] right to the \\c[3]west\\c[0]!",
-              "en_US": "Um companheiro de jogo está em extrema necessidade no \\c[3]Caminho do Rio\\c[0], direto para o \\c[3]oeste!\\c[0]",
+              "en_US": "Um companheiro de jogo está em extrema necessidade no \\c[3]Caminho do Rio\\c[0], a \\c[3]oeste\\c[0] daqui!",
               "langUid": 685,
               "ko_KR": "\\c[3]\uc11c\ucabd\\c[0]\uc758 \\c[3]\uac15\uac00\\c[0]\uc5d0\uc11c \ub3d9\ub8cc \ud50c\ub808\uc774\uc5b4\uac00 \uc808\uc2e4\ud55c \ub3c4\uc6c0\uc774 \ud544\uc694\ud574!<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u5728\\c[3]\u897f\u8fb9\\c[0]\u7684\\c[3]\u6cb3\u9053\\c[0]\u6709\u4e00\u540d\u73a9\u5bb6\u9700\u8981\u5e2e\u52a9\uff01<<A<<[CHANGED 2019/01/10]",
@@ -14888,7 +14888,7 @@
           {
             "message": {
               "": "Uh...\\. Lea?\\. Remember that guy from before?",
-              "en_US": "Uh...\\. Lea?\\. Você se lembra daquele cara de antes?",
+              "en_US": "Hmm...\\. Lea?\\. Você se lembra daquele cara de antes?",
               "langUid": 692,
               "ko_KR": "\uc5b4...\\. \ub808\uc544?\\. \uc544\uae4c \ubd24\ub358 \uadf8 \uc0ac\ub78c \uae30\uc5b5\ub098?<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u5443...\\.\u8389\u4e9a\uff1f\\.\u8fd8\u8bb0\u5f97\u4e4b\u524d\u90a3\u4e2a\u4eba\u5417\uff1f<<A<<[CHANGED 2019/01/10]",
@@ -14939,7 +14939,7 @@
           {
             "message": {
               "": "Heck if I know!\\. Anyway he's currently in \\c[3]North East Path\\c[0]! ",
-              "en_US": "Não faço ideia!\\. De qualquer forma, ele está atualmente no \\c[3]Caminho Nordeste\\c[0]!",
+              "en_US": "Não faço ideia!\\. Enfim, ele está agora no \\c[3]Caminho Nordeste\\c[0]!",
               "langUid": 695,
               "ko_KR": "\uadf8\uac74 \ubaa8\ub974\uaca0\uc5b4!\\. \uc544\ubb34\ud2bc \uc9c0\uae08 \\c[3]\ubd81\ub3d9\ucabd \uae38\\c[0]\uc5d0 \uc788\ub2e4\ub098 \ubd10!<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u6211\u600e\u4e48\u77e5\u9053\uff01\\.\u4ed6\u73b0\u5728\u5728\\c[3]\u4e1c\u5317\u5c0f\u8def\\c[0]\uff01<<A<<[CHANGED 2019/01/10]",
@@ -15212,7 +15212,7 @@
                     {
                       "message": {
                         "": "But there is something you should know about this first.",
-                        "en_US": "Mas tem algo que você deve saber sobre isso primeiro.",
+                        "en_US": "Mas você precisa saber de uma coisa primeiro.",
                         "langUid": 706,
                         "ko_KR": "\ud558\uc9c0\ub9cc \uadf8 \uc804\uc5d0 \uba3c\uc800 \uc54c\uc544\uc57c \ud560 \uac8c \uc788\uc5b4.<<A<<[CHANGED 2019/01/10]",
                         "zh_CN": "\u5728\u8fd9\u4e4b\u524d\u6709\u4e9b\u4e1c\u897f\u8981\u548c\u4f60\u8bf4\u6e05\u695a\u3002<<A<<[CHANGED 2019/01/10]",
@@ -15230,7 +15230,7 @@
                     {
                       "message": {
                         "": "Let's just say we might see a few things that no one is supposed to see.",
-                        "en_US": "Digamos apenas que podemos ver algumas coisas que ninguém deve ver.",
+                        "en_US": "Digamos apenas que vamos ver coisas que ninguém deve ver.",
                         "langUid": 707,
                         "ko_KR": "\uc608\ub97c \ub4e4\uc5b4, \ub2e4\ub978 \uc0ac\ub78c\uc740 \ubcf4\uba74 \uc548 \ub418\ub294 \uac78 \uc6b0\ub9ac\uac00 \ubd10\uc57c \ud55c\ub2e4\uace0 \uce58\uc790.<<A<<[CHANGED 2019/01/10]",
                         "zh_CN": "\u8fd9\u4e48\u8bf4\u5427\uff0c\u6211\u4eec\u4f1a\u89c1\u5230\u4e0d\u5e94\u8be5\u89c1\u5230\u7684\u4e1c\u897f\u3002<<A<<[CHANGED 2019/01/10]",
@@ -15320,7 +15320,7 @@
                     {
                       "message": {
                         "": "We'll both be fine as long as we handle it confidentially.",
-                        "en_US": "Vamos ficar bem, desde que isso permaneça confidencial.",
+                        "en_US": "Vamos ficar bem, desde que isso seja um segredo.",
                         "langUid": 712,
                         "ko_KR": "\uc544\ubb34\ub3c4 \ubaa8\ub974\uac8c \uc9c4\ud589\ud558\uba74 \uc6b0\ub9ac \ub458 \ub2e4 \uad1c\ucc2e\uc744 \uac70\ub2c8\uae4c.<<A<<[CHANGED 2019/01/10]",
                         "zh_CN": "\u53ea\u8981\u653e\u5fc3\u53bb\u505a\u5c31\u4e0d\u4f1a\u6709\u4e8b\u3002<<A<<[CHANGED 2019/01/10]",
@@ -15338,7 +15338,7 @@
                     {
                       "message": {
                         "": "We just have to make sure none of the officials learn about this.",
-                        "en_US": "Só temos que garantir que nenhum dos funcionários fique sabendo disso.",
+                        "en_US": "Só temos que ter cuidado para que nenhum funcionário descubra isso.",
                         "langUid": 713,
                         "ko_KR": "\uad00\uacc4\uc790\ub4e4\ub9cc \ubaa8\ub974\uac8c \ud558\uba74 \ub3fc.<<A<<[CHANGED 2019/01/10]",
                         "zh_CN": "\u4f46\u6211\u4eec\u5fc5\u987b\u786e\u4fdd\u4e0d\u88ab\u5b98\u65b9\u53d1\u73b0\u3002<<A<<[CHANGED 2019/01/10]",
@@ -15579,7 +15579,7 @@
                     {
                       "message": {
                         "": "Uhm, Lea?",
-                        "en_US": "Uhm, Lea?",
+                        "en_US": "Hm, Lea?",
                         "langUid": 726,
                         "ko_KR": "\uc74c, \ub808\uc544?<<A<<[CHANGED 2019/01/10]",
                         "zh_CN": "\u55ef...\u8389\u4e9a\uff1f<<A<<[CHANGED 2019/01/10]",
@@ -15640,7 +15640,7 @@
                         {
                           "message": {
                             "": "Great!\\. In that case, let's meet in \\c[3]Maroon Valley - Barren Arcs\\c[0]! ",
-                            "en_US": "Ótimo!\\. Nesse caso, vamos nos encontrar nos \\c[3]Arcos Áridos - Vale Castanho\\c[0]!",
+                            "en_US": "Ótimo!\\. Vamos nos encontrar nos \\c[3]Arcos Áridos\\c[0] no Vale Castanho!",
                             "langUid": 728,
                             "ko_KR": "\uc88b\uc544!\\. \uadf8\ub7fc \\c[3]\ub9c8\ub8ec \ubc38\ub9ac - \ubd88\ubaa8\uc758 \ud638\\c[0]\uc5d0\uc11c \ub9cc\ub098\uc790!<<A<<[CHANGED 2019/01/10]",
                             "zh_CN": "\u592a\u597d\u4e86\uff01\\.\u90a3\u6211\u4eec\u5728\\c[3]\u8910\u7ea2\u5ce1\u8c37 - \u8d2b\u7620\u62f1\u5ca9\\c[0]\u89c1\u9762\u5427\uff01 <<A<<[CHANGED 2019/01/10]",
@@ -15676,7 +15676,7 @@
                         {
                           "message": {
                             "": "Oh and just so you know, I'll need to switch my avatar.",
-                            "en_US": "Ah, e só para que você saiba, vou precisar trocar meu avatar.",
+                            "en_US": "Ah, e só para avisar, vou ter que mudar meu avatar.",
                             "langUid": 730,
                             "ko_KR": "\uc544, \uadf8\ub9ac\uace0 \ubbf8\ub9ac \uc54c\ub824\uc904\uac8c. \ub09c \uc544\ubc14\ud0c0\ub97c \ubc14\uafd4\uc11c \uc62c \uac70\uc57c.<<A<<[CHANGED 2019/01/10]",
                             "zh_CN": "\u54e6\uff0c\u987a\u5e26\u4e00\u63d0\uff0c\u6211\u4f1a\u5f00\u5c0f\u53f7\u8fc7\u53bb\u3002<<A<<[CHANGED 2019/01/10]",
@@ -15748,7 +15748,7 @@
                         {
                           "message": {
                             "": "I'll contact you via D-Link when you arrive!",
-                            "en_US": "Entrarei em contato com você via D-Link quando você chegar!",
+                            "en_US": "Entrarei em contato com você via D-Link quando você chegar lá!",
                             "de_DE": "Ich werde dich via D-Link kontaktieren, sobald du da bist!",
                             "zh_CN": "\u7b49\u4f60\u5230\u5730\u65b9\u4e86\u6211\u4f1a\u7528\u76f4\u8fde\u8054\u7cfb\u4f60\u7684\uff01<<A<<[CHANGED 2019/04/16]",
                             "ja_JP": "\u3042\u306a\u305f\u304c\u7740\u3044\u305f\u3089\n\u30c0\u30a4\u30ec\u30af\u30c8\u30ea\u30f3\u30af\u3067\u9023\u7d61\u3059\u308b\u306d\uff01<<A<<[CHANGED 2019/04/16]",
@@ -15892,7 +15892,7 @@
                         {
                           "message": {
                             "": "Lea...?\\. Are you really sure this is a good idea?",
-                            "en_US": "Lea...?\\. Você tem certeza de que essa é realmente uma boa idéia?",
+                            "en_US": "Lea...?\\. Você tem certeza de que essa é realmente uma boa ideia?",
                             "langUid": 745,
                             "ko_KR": "\ub808\uc544...?\\. \uc774\uac8c \uc815\ub9d0 \uc88b\uc740 \uc0dd\uac01\uc77c\uae4c?<<A<<[CHANGED 2020/07/08]",
                             "zh_CN": "\u8389\u4e9a...?\\.\u4f60\u786e\u5b9a\u8fd9\u662f\u4e2a\u597d\u4e3b\u610f\uff1f<<A<<[CHANGED 2020/07/08]",
@@ -15928,7 +15928,7 @@
                         {
                           "message": {
                             "": "I honestly have no idea what this player is up to.",
-                            "en_US": "Sinceramente, não tenho idéia do que este jogador está fazendo.",
+                            "en_US": "Sinceramente, não tenho idéia do que esta jogadora está fazendo.",
                             "langUid": 748,
                             "ko_KR": "\uc774 \ud50c\ub808\uc774\uc5b4\ub294 \ubb34\uc2a8 \uc0dd\uac01\uc778\uc9c0 \ubaa8\ub974\uaca0\uc5b4.<<A<<[CHANGED 2019/01/10]",
                             "zh_CN": "\u4f46\u6211\u771f\u7684\u4e0d\u77e5\u9053\u8fd9\u4e2a\u73a9\u5bb6\u6709\u4f55\u56fe\u8c0b\u3002<<A<<[CHANGED 2019/01/10]",

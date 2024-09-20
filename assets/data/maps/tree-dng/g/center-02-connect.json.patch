@@ -1254,7 +1254,7 @@
           {
             "text": {
               "": "Another strange visitor has arrived at the roots.",
-              "en_US": "Outro chapinha chegou nas raízes.",
+              "en_US": "Outra chapinha chegou nas raízes.",
               "de_DE": "Einer hat die Wurzeln erreicht.",
               "fr_FR": "fr_FR",
               "zh_CN": "\u53c8\u4e00\u4f4d\u5f02\u57df\u6765\u5ba2\u56de\u5f52\u6545\u91cc\u3002<<A<<[CHANGED 2017/10/13]",
@@ -1601,7 +1601,7 @@
           {
             "message": {
               "": "It's a mysterious yet honorable creature of ancient origin.",
-              "en_US": "É uma criatura misteriosa mas honrada, de origem antiga.",
+              "en_US": "É uma criatura misteriosa e honrada, de origem antiga.",
               "de_DE": "Eine mysteri\u00f6se, aber ehrenwerte Kreatur aus alter Zeit.",
               "zh_CN": "\u5b83\u795e\u79d8\u9ad8\u8d35\uff0c\u51fa\u8eab\u53e4\u8001\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u3044\u306b\u3057\u3048\u306b\u8d77\u6e90\u3092\u6301\u3064\u3001\n\u795e\u79d8\u7684\u3067\u9ad8\u8cb4\u306a\u751f\u304d\u7269\u306a\u3093\u3060\u3002<<A<<[CHANGED 2018/03/14]",
@@ -1652,7 +1652,7 @@
           {
             "message": {
               "": "Fine, then. Let's properly start the race, already.",
-              "en_US": "Muito bem, então. Vamos começar a corrida de forma adequada, já.",
+              "en_US": "Não importa, vamos começar a corrida direito agora.",
               "de_DE": "Wie du meinst. Nun lasst uns aber endlich mit dem Rennen beginnen.<<A<<[CHANGED 2021/05/22]",
               "zh_CN": "\u597d\u5427\u3002\u8ba9\u6211\u4eec\u7ee7\u7eed\u6bd4\u8d5b\u5427\u3002<<A<<[CHANGED 2021/05/22]",
               "ja_JP": "\u3082\u3046\u3044\u3044\u3002\u3055\u3063\u3055\u3068\u30ec\u30fc\u30b9\u3092\n\u958b\u59cb\u3057\u3088\u3046\u3058\u3083\u306a\u3044\u304b\u3002<<A<<[CHANGED 2021/05/22]",

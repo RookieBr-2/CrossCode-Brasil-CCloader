@@ -1816,7 +1816,7 @@
             }, {
                 "task": {
                     "": "Solve the quest \\c[3]The Southern Trial Building\\c[0] together with Lukas.",
-                    "en_US": "Resolva a missão \\c[3]O Edifício de Teste Sul\\c[0] junto com Lukas",
+                    "en_US": "Conclua a missão \\c[3]O Edifício de Teste Sul\\c[0] junto com Lukas",
                     "langUid": 859,
                     "zh_CN": "\u4e0e\u5362\u5361\u65af\u4e00\u8d77\u5b8c\u6210\\c[3]\u5357\u90e8\u8bd5\u7ec3\u573a\\c[0]\u7684\u4efb\u52a1\u3002<<A<<[CHANGED 2018\/03\/14]",
                     "ko_KR": "\ub8e8\uce74\uc2a4\uc640 \ud568\uaed8 \\c[3]\ub0a8\ubd80 \uc2dc\ud5d8\uc758 \uac74\ubb3c\\c[0] \ud018\uc2a4\ud2b8\ub97c \ud574\uacb0\ud558\uc138\uc694.<<A<<[CHANGED 2018\/03\/14]",
@@ -4830,7 +4830,7 @@
             }, {
                 "task": {
                     "": "Solve the quest \\c[3]The Northern Trial Building\\c[0] together with Lukas.",
-                    "en_US": "Resolva a missão \\c[3]O Edifício de Teste Norte\\c[0] junto com Lukas.",
+                    "en_US": "Conclua a missão \\c[3]O Edifício de Teste Norte\\c[0] junto com Lukas.",
                     "langUid": 29,
                     "zh_CN": "\u4e0e\u5362\u5361\u65af\u4e00\u8d77\u5b8c\u6210\\c[3]\u5317\u90e8\u8bd5\u7ec3\u573a\\c[0]\u7684\u4efb\u52a1\u3002<<A<<[CHANGED 2018\/03\/14]",
                     "ko_KR": "\ub8e8\uce74\uc2a4\uc640 \ud568\uaed8 \\c[3]\ubd81\ubd80 \uc2dc\ud5d8\uc758 \uac74\ubb3c\\c[0] \ud018\uc2a4\ud2b8\ub97c \ud574\uacb0\ud558\uc138\uc694.<<A<<[CHANGED 2018\/03\/14]",

@@ -8235,7 +8235,7 @@
           {
             "message": {
               "": "Well... we're at the border of the \\c[3]infested jungle\\c[0].",
-              "en_US": "Bem... estamos na fronteira da \\c[3]floresta infestada\\c[0].",
+              "en_US": "Pois é, estamos na fronteira da \\c[3]floresta infestada\\c[0].",
               "langUid": 696,
               "zh_CN": "\u6bd5\u7adf\u6211\u4eec\u73b0\u5728\u4e5f\u5730\u5904\\c[3]\u53d7\u611f\u67d3\u68ee\u6797\\c[0]\u7684\u8fb9\u5883\u4e86\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc9c0\uae08 \uc6b0\ub9b0 \\c[3]\uac10\uc5fc\ub41c \uc815\uae00\\c[0] \ub044\ud2b8\uba38\ub9ac\uc5d0 \uc788\ub294 \uac70\ub124.<<A<<[CHANGED 2018/03/14]",
@@ -8265,7 +8265,7 @@
           {
             "message": {
               "": "That's what the Shad believe anyway.",
-              "en_US": "É nisso que os Shad acreditam pelo menos.",
+              "en_US": "Pelo menos. é nisso que os Shad acreditam.",
               "langUid": 698,
               "zh_CN": "\u6c99\u5fb7\u4eba\u662f\u8fd9\u4e48\u89c9\u5f97\u7684\u3002<<A<<[CHANGED 2019/05/14]",
               "ko_KR": "\uc0e4\ub4dc\uac00 \uc0dd\uac01\ud558\uae30\uc5d4 \uadf8\ub807\ub300.<<A<<[CHANGED 2019/05/14]",
@@ -8490,7 +8490,7 @@
           {
             "message": {
               "": "Well, well. You certainly match the description.",
-              "en_US": "Ora, ora, ora. Você certamente corresponde à descrição.",
+              "en_US": "Ora, ora, ora. Você claramente se encaixa na descrição.",
               "langUid": 691,
               "ja_JP": "\u3088\u3057\u3088\u3057\u3002\n\u8aac\u660e\u901a\u308a\u306e\u5916\u898b\u3060\u306d\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc774\uc57c, \uc5ed\uc2dc \uc124\uba85 \ub300\ub85c\ub124.<<A<<[CHANGED 2018/03/14]",
@@ -8630,7 +8630,7 @@
           {
             "message": {
               "": "Of course, the Shad are a tad off in their thesis that the power plant is the root cause for this strange \"infestation\".",
-              "en_US": "É claro que os Shad estão um pouco por fora na tese de que a usina elétrica é a causa raiz desta estranha \"infestação\".",
+              "en_US": "É evidente que os Shad estão um pouco equivocados na tese de que a usina elétrica é a causa principal desta estranha \"infestação\".",
               "langUid": 14,
               "ja_JP": "\u3082\u3061\u308d\u3093\u3001\u30d1\u30ef\u30fc\u30d7\u30e9\u30f3\u30c8\u304c\u3053\u306e\u5947\u5999\u306a\n\u300c\u4fb5\u98df\u300d\u306e\u6839\u6e90\u3060\u3068\u3044\u3046\u30b7\u30e3\u30c3\u30c9\u305f\u3061\u306e\n\u4e3b\u5f35\u306f\u3001\u3044\u3055\u3055\u304b\u6839\u62e0\u306b\u304b\u3051\u308b\u3082\u306e\u3060\u3002<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\ubb3c\ub860 \uc0e4\ub4dc\ub294 \ubc1c\uc804\uc18c\uac00 \uc774 \uc774\uc0c1\ud55c \"\uce68\ub7b5\"\uc758 \uc8fc\ub41c \uc6d0\uc778\uc774\ub77c\uace0 \uac00\uc124\uc744 \uc138\uc6b0\uace0 \uc788\uc5b4.<<A<<[CHANGED 2018/09/19]",
@@ -8645,7 +8645,7 @@
           {
             "message": {
               "": "I would know, it's my obligation to make sure of it.",
-              "en_US": "Eu deveria saber, já que é meu trabalho cuidar disso.",
+              "en_US": "Isso eu posso garantir, já que é meu trabalho cuidar disso.",
               "langUid": 15,
               "ja_JP": "\u305d\u308c\u304c\u672c\u5f53\u304b\u3069\u3046\u304b\n\u78ba\u304b\u3081\u308b\u306e\u304c\u79c1\u306e\u4f7f\u547d\u3055\u3002<<A<<[CHANGED 2017/11/27]",
               "ko_KR": "\uadf8\ub9ac\uace0 \uc774\ub7f0 \uac78 \ud655\uc2e4\ud558\uac8c \ud574\uc57c \ud558\ub294 \uac8c \ub098\uc758 \uc784\ubb34\uc9c0.<<A<<[CHANGED 2017/11/30]",
@@ -9495,7 +9495,7 @@
                 {
                   "message": {
                     "": "Perfect. I took some measurements and things are behaving exactly as I expected.",
-                    "en_US": "Perfeito. Tomei algumas medidas e as coisas estão se comportando exatamente como eu esperava.",
+                    "en_US": "Perfeito. Fiz algumas medições e as coisas estão se comportando exatamente como eu imaginava.",
                     "langUid": 69,
                     "ja_JP": "\u5b8c\u74a7\u3060\u3002\u3044\u304f\u3064\u304b\u6e2c\u5b9a\u3092\u3057\u3066\u307f\u305f\u3051\u3069\u3001\n\u3069\u308c\u3082\u4e88\u60f3\u901a\u308a\u306e\u7d50\u679c\u3060\u3088\u3002<<A<<[CHANGED 2017/12/11]",
                     "ko_KR": "\uc644\ubcbd\ud574. \ub0b4\uac00 \uce21\uc815\ud574 \ubd24\ub294\ub370 \uc815\ub9d0 \ub0b4\uac00 \uc608\uc0c1\ud55c \ub300\ub85c \ud589\ub3d9\ud558\uace0 \uc788\uc5b4.<<A<<[CHANGED 2017/12/12]",
@@ -9513,7 +9513,7 @@
                 {
                   "message": {
                     "": "You see, you might think the \\c[3]\\v[combat.name.minibosses/shockcat-black]s\\c[0] and their source are already defeated.",
-                    "en_US": "É possível pensar que os \\c[3]\\v[combat.name.minibosses/shockcat-black]s\\c[0] e sua fonte já estão acabados.",
+                    "en_US": "Pode parecer que os \\c[3]\\v[combat.name.minibosses/shockcat-black]s\\c[0] e sua fonte foram vencidos.",
                     "langUid": 71,
                     "ja_JP": "\u3044\u3044\u304b\u3044\u3001\u3042\u3093\u305f\u306f\\c[3]\\v[combat.name.minibosses/shockcat-black]\\c[0]\u3068\n\u305d\u306e\u6839\u6e90\u3092\u3082\u3046\u5012\u3057\u305f\u3068\n\u601d\u3063\u3066\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3002<<A<<[CHANGED 2018/09/19]",
                     "ko_KR": "\ub10c \\c[3]\\v[combat.name.minibosses/shockcat-black]\\c[0]\uacfc \uadf8\ub4e4\uc758 \uc6d0\ucc9c\uc744 \ub2e4 \ucc98\ub9ac\ud588\ub2e4\uace0 \uc0dd\uac01\ud588\uaca0\uc9c0.<<A<<[CHANGED 2018/09/19]",
@@ -9549,7 +9549,7 @@
                 {
                   "message": {
                     "": "Next step, take this device.\n",
-                    "en_US": "Próximo passo, pegue este dispositivo.\n",
+                    "en_US": "Agora, pegue este dispositivo.\n",
                     "langUid": 73,
                     "ja_JP": "\u3058\u3083\u3042\u6b21\u306f\u3001\u3053\u306e\u30c7\u30d0\u30a4\u30b9\u3092\n\u6301\u3063\u3066\u304a\u304f\u308c\u3002<<A<<[CHANGED 2017/12/11]",
                     "ko_KR": "\ub2e4\uc74c\uc740 \uc774 \uc7a5\uce58\ub97c \uc0ac\uc6a9\ud560 \uac70\uc57c.<<A<<[CHANGED 2017/12/12]",
@@ -9642,7 +9642,7 @@
                 {
                   "message": {
                     "": "This device is able to disrupt a rather large field around you.",
-                    "en_US": "Este dispositivo é capaz de romper um campo bastante grande ao seu redor.",
+                    "en_US": "Esse dispositivo é capaz de interferir nos sinais de uma ampla área ao seu redor.",
                     "langUid": 78,
                     "ja_JP": "\u3053\u306e\u30c7\u30d0\u30a4\u30b9\u306f\u3001\u304b\u306a\u308a\u5e83\u3044\u7bc4\u56f2\u306e\n\u5468\u6ce2\u6570\u3068\u96fb\u6d41\u3092\u304b\u304d\u4e71\u305b\u308b\u3093\u3060\u3088\u3002<<A<<[CHANGED 2017/12/11]",
                     "ko_KR": "\uc774 \uc7a5\uce58\uac00 \ub124 \uc8fc\ubcc0\uc5d0 \uc788\ub294 \uac70\ub300\ud55c \uc7a5\uc744 \ubc29\ud574\ud560 \uac70\uc57c.<<A<<[CHANGED 2017/12/12]",
@@ -9928,7 +9928,7 @@
                 {
                   "message": {
                     "": "Go ahead, Seeker! But be careful, these poles are the real thing. They might behave differently!",
-                    "en_US": "Vá em frente, Seeker! Mas tenha cuidado, esses pólos são o perigo de fato. Eles podem se comportar de maneira diferente!",
+                    "en_US": "Continue, Seeker! Mas esteja alerta, esses pólos são realmente perigosos e podem ter comportamentos inesperados!",
                     "langUid": 87,
                     "ja_JP": "\u3055\u3042\u3001\u3084\u3063\u3061\u3083\u3044\u306a\u3001\u63a2\u7d22\u8005\u3055\u3093\uff01\n\u3067\u3082\u6c17\u3092\u3064\u3051\u3066\u304a\u304f\u308c\u3001\u3053\u306e\u68d2\u305f\u3061\u306f\n\u672c\u7269\u3060\u3002\u4eca\u307e\u3067\u306e\u6575\u3068\u306f\u9055\u3046\u52d5\u304d\u3092\n\u3059\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3088\uff01<<A<<[CHANGED 2017/12/11]",
                     "ko_KR": "\uac00\ub77c, \uc2dc\ucee4! \ud558\uc9c0\ub9cc \uc870\uc2ec\ud574. \uc774 \ub9c9\ub300\uae30\ub294 \uc7a5\ub09c \uc544\ub2c8\ub2c8\uae4c. \uc800\ub4e4\uc740 \ub2e4\ub974\uac8c \ud589\ub3d9\ud560 \uc218\ub3c4 \uc788\uc5b4!<<A<<[CHANGED 2017/12/12]",
@@ -10020,7 +10020,7 @@
               {
                 "message": {
                   "": "Go ahead, Seeker! But be careful, these poles are the real thing. They might behave differently!",
-                  "en_US": "Vá em frente, Seeker! Mas tenha cuidado, esses pólos são o perigo de fato. Eles podem se comportar de maneira diferente!",
+                  "en_US": "Continue, Seeker! Mas esteja alerta, esses pólos são realmente perigosos e podem ter comportamentos inesperados!",
                   "langUid": 90,
                   "ja_JP": "\u3055\u3042\u3001\u3084\u3063\u3061\u3083\u3044\u306a\u3001\u63a2\u7d22\u8005\u3055\u3093\uff01\n\u3067\u3082\u6c17\u3092\u3064\u3051\u3066\u304a\u304f\u308c\u3001\u3053\u306e\u68d2\u305f\u3061\u306f\n\u672c\u7269\u3060\u3002\u4eca\u307e\u3067\u306e\u6575\u3068\u306f\u9055\u3046\u52d5\u304d\u3092\n\u3059\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3088\uff01<<A<<[CHANGED 2017/12/11]",
                   "ko_KR": "\uac00\ub77c, \uc2dc\ucee4! \ud558\uc9c0\ub9cc \uc870\uc2ec\ud574. \uc774 \ub9c9\ub300\uae30\ub294 \uc7a5\ub09c \uc544\ub2c8\ub2c8\uae4c. \uc800\ub4e4\uc740 \ub2e4\ub974\uac8c \ud589\ub3d9\ud560 \uc218\ub3c4 \uc788\uc5b4!<<A<<[CHANGED 2017/12/12]",
@@ -10141,7 +10141,7 @@
                 {
                   "message": {
                     "": "This was quite educational. ",
-                    "en_US": "Isso foi bastante educativo.",
+                    "en_US": "Isso foi bastante informativo.",
                     "zh_CN": "\u786e\u5b9e\u8ba9\u4eba\u957f\u89c1\u8bc6\u3002<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u3053\u3044\u3064\u306f\u3044\u308d\u3044\u308d\u3068\n\u53c2\u8003\u306b\u306a\u3063\u305f\u306d\u3002<<A<<[CHANGED 2018/09/19]",
                     "ko_KR": "\uaf64 \uad50\uc721\uc801\uc778 \uc0ac\uc548\uc774\uc5c8\ub124.<<A<<[CHANGED 2018/09/19]",
@@ -10412,7 +10412,7 @@
                 {
                   "message": {
                     "": "This pole here pointed downwards, right? ",
-                    "en_US": "Este pólo aqui apontado para baixo, certo?",
+                    "en_US": "Esse pólo apontou para aquela direção, não foi?",
                     "zh_CN": "\u8fd9\u67f1\u5b50\u662f\u671d\u4e0b\u7684\u5bf9\u5427\uff1f<<A<<[CHANGED 2017/12/14]",
                     "ja_JP": "\u3053\u306e\u68d2\u306f\u4e0b\u3092\u6307\u3057\u3066\n\u3044\u308b\u3088\u3046\u3060\u306d\uff1f<<A<<[CHANGED 2017/12/14]",
                     "ko_KR": "\uc5ec\uae30 \ub9c9\ub300\uae30\ub4e4\uc774 \uc544\ub798\ucabd\uc744 \ud45c\uc2dc\ud558\uace0 \uc788\ub294 \uac70 \ub9de\uc9c0?<<A<<[CHANGED 2017/12/14]",
@@ -10445,7 +10445,7 @@
                 {
                   "message": {
                     "": "So this means there are more of these, maybe they lead to a kind of root from which all these poles originated.",
-                    "en_US": "Portanto, isto significa que há mais destes, talvez eles levem a uma espécie de raiz da qual todos estes pólos se originaram.",
+                    "en_US": "Isso indica que existem mais deles, e talvez eles conduzam a uma fonte comum de onde todos esses pólos surgiram.",
                     "zh_CN": "\u8fd9\u610f\u5473\u7740\u8fd8\u6709\u66f4\u591a\u67f1\u5b50\uff0c\u4e5f\u8bb8\u4f1a\u901a\u5f80\u67d0\u4e2a\u6240\u6709\u67f1\u5b50\u8bde\u751f\u7684\u6e90\u5934\u3002<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u3064\u307e\u308a\u3001\u540c\u3058\u3082\u306e\u304c\u3082\u3063\u3068\u3042\u308b\u3063\u3066\n\u308f\u3051\u3060\u306d\u3002\u3082\u3057\u304b\u3057\u305f\u3089\u68d2\u3092\u751f\u307f\u51fa\u3059\u3001\n\u6839\u6e90\u306e\u3088\u3046\u306a\u3082\u306e\u306b\u3064\u306a\u304c\u3063\u3066\n\u3044\u308b\u306e\u304b\u3082\u3057\u308c\u306a\u3044\u3002<<A<<[CHANGED 2018/09/19]",
                     "ko_KR": "\uc800 \uc544\ub798\uc5d0 \ub354 \ub9ce\uc740 \ub9c9\ub300\uae30\ub4e4\uc774 \uc788\ub294 \uac83 \uac19\uc544. \uc544\ub9c8 \uc774 \ub9c9\ub300\uae30\ub4e4\uc774 \ucc98\uc74c \uc0dd\uae34 \uacf3\uc73c\ub85c \uc774\ub044\ub294 \uac78\uc9c0\ub3c4 \ubaa8\ub974\uaca0\uc5b4.<<A<<[CHANGED 2018/09/19]",
@@ -10463,7 +10463,7 @@
                 {
                   "message": {
                     "": "In which case you must find it!",
-                    "en_US": "Nesse caso, você deve encontrá-lo!",
+                    "en_US": "Nesse caso, você deve encontrá-la!",
                     "zh_CN": "\u4f60\u5fc5\u987b\u627e\u5230\u5b83\uff01<<A<<[CHANGED 2017/12/14]",
                     "ja_JP": "\u305d\u308c\u3058\u3083\u3001\u3042\u3093\u305f\u304c\n\u898b\u3064\u3051\u3066\u304a\u304f\u308c\uff01<<A<<[CHANGED 2017/12/14]",
                     "ko_KR": "\uadf8 \ub9d0\uc740, \ub124\uac00 \uadf8\uac78 \ucc3e\uc544\ub0b4\uc57c \ud55c\ub2e4\ub294 \uac70\uc9c0!<<A<<[CHANGED 2017/12/14]",
@@ -10481,7 +10481,7 @@
                 {
                   "message": {
                     "": "Please come back and report your findings once you do, okay?",
-                    "en_US": "Por favor, volte e informe suas descobertas assim que terminar, certo?",
+                    "en_US": "Entre em contato comigo quando encontrar algo, combinado?",
                     "zh_CN": "\u627e\u5230\u4e86\u4e4b\u540e\u8bf7\u52a1\u5fc5\u56de\u6765\u8ddf\u6211\u8bf4\uff01<<A<<[CHANGED 2017/12/14]",
                     "ja_JP": "\u306a\u306b\u304b\u898b\u3064\u3051\u305f\u3089\u3001\u5831\u544a\u3057\u306b\n\u623b\u3063\u3066\u304d\u3066\u304a\u304f\u308c\u3088\u3002\u3044\u3044\u304b\u3044\uff1f<<A<<[CHANGED 2017/12/14]",
                     "ko_KR": "\ubc1c\uacac\ud558\uba74 \ub098\uc5d0\uac8c \ub3cc\uc544\uc640\uc11c \ubcf4\uace0\ud558\ub294 \uac70 \uc78a\uc9c0 \ub9c8, \uc54c\uc558\uc9c0?<<A<<[CHANGED 2017/12/14]",
@@ -10547,7 +10547,7 @@
                 {
                   "message": {
                     "": "Great! I'll be in my office again, pondering on what we found so far.",
-                    "en_US": "Ótimo! Estarei novamente em meu escritório, ponderando sobre o que encontramos até agora.",
+                    "en_US": "Ótimo! Estarei de volta ao meu escritório, refletindo sobre o que encontramos até agora.",
                     "zh_CN": "\u592a\u597d\u4e86\uff01\u6211\u4f1a\u5728\u529e\u516c\u5ba4\u91cc\u5206\u6790\u8fc4\u4eca\u4e3a\u6b62\u83b7\u5f97\u7684\u6570\u636e\u3002<<A<<[CHANGED 2017/12/14]",
                     "ja_JP": "\u3088\u3057\uff01\u79c1\u306f\u30aa\u30d5\u30a3\u30b9\u306b\u623b\u3063\u3066\u3001\n\u898b\u3064\u3051\u305f\u3082\u306e\u306b\u3064\u3044\u3066\u3088\u304f\u8003\u3048\u3066\u304a\u304f\u3088\u3002<<A<<[CHANGED 2017/12/14]",
                     "ko_KR": "\uc88b\uc544! \ub09c \ub2e4\uc2dc \uc5f0\uad6c\uc2e4\ub85c \ub3cc\uc544\uac00\uc11c \uc9c0\uae08\uae4c\uc9c0 \ubc1c\uacac\ud55c \uac78 \uc798 \uc54c\uc544\ubcf4\uace0 \uc788\uc744\uac8c.<<A<<[CHANGED 2017/12/14]",
@@ -10712,7 +10712,7 @@
               {
                 "message": {
                   "": "Dr. Cretia told us to close off this area for now.",
-                  "en_US": "A Dra. Cretia nos disse para fecharmos esta área por enquanto",
+                  "en_US": "A Dra. Cretia nos disse para fecharmos esta área por enquanto.",
                   "langUid": 38,
                   "ja_JP": "\u30c9\u30af\u30bf\u30fc\u30fb\u30af\u30ec\u30c4\u30a3\u30a2\u304b\u3089\u3001\n\u4eca\u306f\u3053\u306e\u30a8\u30ea\u30a2\u3092\u9589\u9396\u3059\u308b\u3088\u3046\u306b\u3068\n\u8a00\u308f\u308c\u307e\u3057\u305f\u3002<<A<<[CHANGED 2018/09/19]",
                   "ko_KR": "\ud06c\ub808\ud2f0\uc544 \ubc15\uc0ac\uac00 \ub2f9\ubd84\uac04 \uc774 \uc9c0\uc5ed\uc758 \ucd9c\uc785\uc744 \ud1b5\uc81c\ud558\ub77c\uace0 \ud558\uc168\ub2e4.<<A<<[CHANGED 2018/09/19]",
@@ -10836,7 +10836,7 @@
               {
                 "message": {
                   "": "Dr. Cretia told us to close off this area for now.",
-                  "en_US": "A Dra. Cretia nos disse para fecharmos esta área por enquanto",
+                  "en_US": "A Dra. Cretia nos disse para fecharmos esta área por enquanto.",
                   "langUid": 39,
                   "ja_JP": "\u30c9\u30af\u30bf\u30fc\u30fb\u30af\u30ec\u30c4\u30a3\u30a2\u304b\u3089\u3001\n\u4eca\u306f\u3053\u306e\u30a8\u30ea\u30a2\u3092\u9589\u9396\u3059\u308b\u3088\u3046\u306b\u3068\n\u8a00\u308f\u308c\u307e\u3057\u305f\u3002<<A<<[CHANGED 2018/09/19]",
                   "ko_KR": "\ud06c\ub808\ud2f0\uc544 \ubc15\uc0ac\uac00 \ub2f9\ubd84\uac04 \uc774 \uc9c0\uc5ed\uc758 \ucd9c\uc785\uc744 \ud1b5\uc81c\ud558\ub77c\uace0 \ud558\uc168\ub2e4.<<A<<[CHANGED 2018/09/19]",
@@ -11433,7 +11433,7 @@
           {
             "message": {
               "": "So much data... Come back to me, Seeker.",
-              "en_US": "Tantos dados... Venha até mim, Seeker.",
+              "en_US": "Nossa, quantos dados... Volte aqui, Seeker.",
               "langUid": 67,
               "ja_JP": "\u30c7\u30fc\u30bf\u304c\u3053\u3093\u306a\u306b\u305f\u304f\u3055\u3093...\n\u623b\u3063\u3066\u304d\u3066\u304a\u304f\u308c\u3001\u63a2\u7d22\u8005\u3055\u3093\u3002<<A<<[CHANGED 2017/12/11]",
               "ko_KR": "\uc790\ub8cc\uac00 \uc5c4\uccad \ub9ce\uad70... \ub2e4\uc2dc \ub3cc\uc544\uc640, \uc2dc\ucee4.<<A<<[CHANGED 2017/12/12]",

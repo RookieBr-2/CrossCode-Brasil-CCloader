@@ -468,7 +468,7 @@
               {
                 "message": {
                   "": "Spheromancer Lea! There you are!",
-                  "en_US": "Esferomante Lea! Aí está você!",
+                  "en_US": "Esferomante Lea! Você chegou!",
                   "de_DE": "Spheromancer Lea! Du hast es also auch geschafft!",
                   "zh_CN": "\u6c14\u5706\u4f7f\u8005\u8389\u4e9a\uff01\u4f60\u6765\u4e86\uff01<<A<<[CHANGED 2018/03/14]",
                   "ja_JP": "\u30b9\u30d5\u30a3\u30ed\u30de\u30f3\u30b5\u30fc\u306e\u30ec\u30a2\uff01\n\u3088\u3046\u3084\u304f\u6765\u305f\u306a\uff01<<A<<[CHANGED 2018/03/14]",
@@ -486,7 +486,7 @@
               {
                 "message": {
                   "": "It looks like the Spheromancers are leading the race as of now!",
-                  "en_US": "Parece que os Esferomantes estão liderando a corrida a partir de agora!",
+                  "en_US": "Parece que os Esferomantes estão liderando a corrida!",
                   "de_DE": "Damit f\u00fchren die Spheromancer in diesem Rennen!",
                   "zh_CN": "\u770b\u6765\u6bd4\u8d5b\u662f\u6c14\u5706\u4f7f\u8005\u9886\u5148\uff01<<A<<[CHANGED 2018/03/14]",
                   "ja_JP": "\u4eca\u306e\u3068\u3053\u308d\u3001\u30b9\u30d5\u30a3\u30ed\u30de\u30f3\u30b5\u30fc\u305f\u3061\u304c\n\u4e00\u6b69\u30ea\u30fc\u30c9\u3057\u3066\u3044\u308b\u3088\u3046\u3060\u306a\uff01<<A<<[CHANGED 2018/03/14]",
@@ -504,7 +504,7 @@
               {
                 "message": {
                   "": "Let's continue before that Pentafist catches up-",
-                  "en_US": "Vamos continuar antes que a Pentapunho nos alcance-",
+                  "en_US": "Vamos continuar antes que a Pentapunho nos alcance...",
                   "de_DE": "Lass uns weitermachen, bevor dieser Pentafist uns einhol-",
                   "zh_CN": "\u6211\u4eec\u6700\u597d\u5728\u90a3\u4e2a\u6b66\u661f\u62f3\u624b\u6765\u4e4b...<<A<<[CHANGED 2018/03/14]",
                   "ja_JP": "\u3042\u306e\u30da\u30f3\u30bf\u30d5\u30a3\u30b9\u30c8\u304c\n\u3084\u3063\u3066\u304f\u308b\u524d\u306b\u7d9a\u304d\u3092\u2015<<A<<[CHANGED 2018/03/14]",
@@ -623,7 +623,7 @@
               {
                 "message": {
                   "": "Oh! Another shared outdoor area?",
-                  "en_US": "Ah! Outra área externa compartilhada?",
+                  "en_US": "Olha só! Outra área ao ar livre...",
                   "de_DE": "Oh! Noch ein uninstanzierter Au\u00dfenbereich?",
                   "zh_CN": "\u54e6\uff1f\u53c8\u4e00\u7247\u5171\u4eab\u6237\u5916\u533a\u57df\uff01<<A<<[CHANGED 2018/03/14]",
                   "ja_JP": "\u3042\u308c\uff1f\u5171\u6709\u3055\u308c\u305f\n\u5916\u90e8\u30a8\u30ea\u30a2\u304b\u306a\uff1f<<A<<[CHANGED 2018/03/14]",
@@ -857,7 +857,7 @@
               {
                 "message": {
                   "": "Spheromancer Lea! There you are!",
-                  "en_US": "Esferomante Lea! Aí está você!",
+                  "en_US": "Esferomante Lea! Você finalmente apareceu!",
                   "de_DE": "Spheromancer Lea! Da bist du ja!",
                   "zh_CN": "\u6c14\u5706\u4f7f\u8005\u8389\u4e9a\uff01\u4f60\u6765\u4e86\uff01<<A<<[CHANGED 2018/03/14]",
                   "ja_JP": "\u30b9\u30d5\u30a3\u30ed\u30de\u30f3\u30b5\u30fc\u306e\u30ec\u30a2\uff01\n\u3088\u3046\u3084\u304f\u6765\u305f\u306a\uff01<<A<<[CHANGED 2018/03/14]",
@@ -944,7 +944,7 @@
               {
                 "message": {
                   "": "Who knows, maybe this Pentafist Scrub will end up overtaking you as well!",
-                  "en_US": "Quem sabe, talvez a gentalha Pentapunho acabe ultrapassando você também!",
+                  "en_US": "Quem sabe, a gentalha Pentapunho acabe ultrapassando você também!",
                   "de_DE": "Wer wei\u00df, vielleicht \u00fcberholt der Pentafist-Amateur am Ende auch dich!",
                   "zh_CN": "\u8bf4\u4e0d\u5b9a\u6700\u540e\u80dc\u5229\u7684\u4f1a\u662f\u4f60\u770b\u4e0d\u8d77\u7684\u6b66\u661f\u62f3\u624b\u5462\uff01<<A<<[CHANGED 2018/03/14]",
                   "ja_JP": "\u3072\u3087\u3063\u3068\u3057\u305f\u3089\u3001\n\u3053\u306e\u30da\u30f3\u30bf\u30d5\u30a3\u30b9\u30c8\u306e\u96d1\u9b5a\u304c\n\u3042\u306a\u305f\u3082\u8ca0\u304b\u3057\u3061\u3083\u3046\u304b\u3082\u3088\uff01<<A<<[CHANGED 2018/03/14]",
@@ -1023,7 +1023,7 @@
           {
             "message": {
               "": "Anyway, we all just crossed blades with the Son of the East.",
-              "en_US": "De qualquer forma, todos nós acabamos de duelar com o Filho do Oriente.",
+              "en_US": "Então, todos nós acabamos de duelar com o Filho do Oriente.",
               "de_DE": "Jedenfalls haben wir soeben alle die Klingen mit dem Sohn des Ostens gekreuzt.",
               "zh_CN": "\u603b\u4e4b\uff0c\u6211\u4eec\u521a\u521a\u90fd\u4e0e\u4e1c\u65b9\u4e4b\u5b50\u4ea4\u8fc7\u624b\u3002<<A<<[CHANGED 2018/03/14]",
               "ja_JP": "\u3068\u3053\u308d\u3067\u3001\u307f\u306a\u6771\u306e\u5fa1\u5b50\u3068\u306f\n\u5203\u3092\u4ea4\u3048\u305f\u3068\u601d\u3046\u306e\u3060\u304c\u3002<<A<<[CHANGED 2018/03/14]",
@@ -1449,7 +1449,7 @@
             "entity": { "global": true, "name": "view1" },
             "text": {
               "": "Told you, right? Great view!",
-              "en_US": "Eu te falei, né? Grande vista!",
+              "en_US": "Olha só essa bela vista!",
               "langUid": 685,
               "de_DE": "Hab ich doch gesagt, oder? Gro\u00dfartige Aussicht!",
               "ja_JP": "\u8a00\u3063\u305f\u3067\u3057\u3087\u3001\n\u3059\u3054\u3044\u773a\u3081\u3060\u3063\u3066\uff01<<A<<[CHANGED 2018/08/28]",
@@ -1462,7 +1462,7 @@
             "entity": { "global": true, "name": "view2" },
             "text": {
               "": "You can barely see anything through the leaves...",
-              "en_US": "Quase não se vê nada através das folhas...",
+              "en_US": "Não dá pra ver nada através das folhas...",
               "langUid": 689,
               "de_DE": "Durch die Bl\u00e4tter sieht man fast nix...",
               "ja_JP": "\u6728\u306e\u8449\u3067\u3055\u3048\u304e\u3089\u308c\u3066\n\u307b\u3068\u3093\u3069\u306a\u306b\u3082\u898b\u3048\u306a\u3044\u3088...<<A<<[CHANGED 2018/08/28]",
@@ -1624,7 +1624,7 @@
               {
                 "message": {
                   "": "Like green clouds, up in the sky.",
-                  "en_US": "Como nuvens verdes, lá no céu.",
+                  "en_US": "Como nuvens verdes, no céu.",
                   "langUid": 694,
                   "de_DE": "Wie gr\u00fcne Wolken am Himmel.",
                   "ja_JP": "\u307e\u308b\u3067\u7a7a\u306b\u6d6e\u304b\u3076\n\u7dd1\u306e\u96f2\u306e\u3088\u3046\u306b\u3002<<A<<[CHANGED 2018/08/28]",
@@ -1908,7 +1908,7 @@
             "entity": { "global": true, "name": "shokats2" },
             "text": {
               "": "There are...\\. too many of them...\\. and too little space...",
-              "en_US": "Há..\\. muitas delas...\\. e muito pouco espaço...",
+              "en_US": "Tinha...\\. um monte de gatos...\\. e pouco espaço...",
               "langUid": 696,
               "de_DE": "Da sind...\\. zu viele von denen...\\. auf viel zu engem Raum...",
               "ja_JP": "\u3042\u3044\u3064\u3089\u304c...\\.\u3042\u3044\u3064\u3089\u304c\n\u3042\u3093\u306a\u306b\u305f\u304f\u3055\u3093...\\.\n\u305d\u308c\u3082\u305b\u307e\u3044\u5834\u6240\u306b...<<A<<[CHANGED 2018/08/28]",
@@ -1921,7 +1921,7 @@
             "entity": { "global": true, "name": "shokats1" },
             "text": {
               "": "Don't give up, pal! I know you can do it!",
-              "en_US": "Não desista, cara! Eu sei que você pode fazer isso!",
+              "en_US": "Não desiste, cara! Eu sei que você consegue!",
               "langUid": 697,
               "de_DE": "Nicht aufgeben, ich glaub' an dich!",
               "ja_JP": "\u3042\u304d\u3089\u3081\u308b\u306a\uff01\n\u541b\u306a\u3089\u3067\u304d\u308b\uff01<<A<<[CHANGED 2018/08/28]",
@@ -1934,7 +1934,7 @@
             "entity": { "global": true, "name": "shokats2" },
             "text": {
               "": "And once I thought they were cute...",
-              "en_US": "E antes eu achava eles bonitinhos...",
+              "en_US": "E eu achava eles fofos...",
               "langUid": 698,
               "de_DE": "Und ich dachte mal, die w\u00e4ren s\u00fc\u00df...!",
               "ja_JP": "\u4e00\u5ea6\u304b\u308f\u3044\u3044\u306a\u3063\u3066\n\u601d\u3063\u3061\u3083\u3046\u3068...<<A<<[CHANGED 2018/08/28]",
@@ -1974,7 +1974,7 @@
             "entity": { "global": true, "name": "hexaHeights" },
             "text": {
               "": "Of course they'd make us climb it up and walk on those narrow branches!!",
-              "en_US": "Claro que eles nos fariam subir e caminhar sobre aqueles ramos estreitos!!",
+              "en_US": "É óbvio que nos fariam subir e caminhar por esses ramos estreitos!!",
               "langUid": 700,
               "de_DE": "Dass wir da hochklettern und \u00fcber das d\u00fcnne Ge\u00e4st balancieren m\u00fcssen!",
               "ja_JP": "\u9ad8\u3044\u3068\u3053\u308d\u307e\u3067\u767b\u3089\u305b\u3066\u3001\u3053\u3093\u306a\u306b\n\u7d30\u3044\u679d\u306e\u4e0a\u3092\u6b69\u304b\u305b\u308b\u306a\u3093\u3066\uff01\n\u305d\u3046\u3060\u308d\u3046\u3068\u601d\u3063\u305f\uff01\uff01<<A<<[CHANGED 2018/08/28]",
@@ -1987,7 +1987,7 @@
             "entity": { "global": true, "name": "hexaHeights" },
             "text": {
               "": "Those stupid game designers with their stupid heights!!",
-              "en_US": "Esses estúpidos designers de jogos com suas estúpidas alturas!!",
+              "en_US": "Que ódio desses malditos designers de jogos e seus fetiches de criar alturas absurdas!!",
               "langUid": 701,
               "de_DE": "Diese bekloppten Spieledesigner mit ihren d\u00e4mlichen H\u00f6hen!!",
               "ja_JP": "\u30d0\u30ab\u3052\u305f\u9ad8\u3055\u307e\u3067\u767b\u3089\u305b\u308b\u306a\u3093\u3066\u3001\n\u30b2\u30fc\u30e0\u30c7\u30b6\u30a4\u30ca\u30fc\u305f\u3061\u306f\n\u30d0\u30ab\u306a\u3093\u3058\u3083\u306a\u3044\u306e\uff01\uff01<<A<<[CHANGED 2018/08/28]",
@@ -2000,7 +2000,7 @@
             "entity": { "global": true, "name": "pentaComforting" },
             "text": {
               "": "Now, now there...",
-              "en_US": "Calma, mano...",
+              "en_US": "Calma amiga...",
               "langUid": 702,
               "de_DE": "Tja... \u00e4h... tjoa...",
               "ja_JP": "\u307e\u3042\u307e\u3042...<<A<<[CHANGED 2018/08/28]",
@@ -2122,7 +2122,7 @@
                   {
                     "message": {
                       "": "Right? What were developers thinking!",
-                      "en_US": "Não é? O que os desenvolvedores tinham na cabeça!",
+                      "en_US": "Não é? O que os desenvolvedores tinham na cabeça?",
                       "langUid": 711,
                       "zh_CN": "\u5bf9\u5427\uff0c\u5f00\u53d1\u8005\u5728\u60f3\u4ec0\u4e48\u5462\uff01<<A<<[CHANGED 2019/04/16]",
                       "ko_KR": "\uadf8\ub807\uc9c0? \ub300\uccb4 \uac1c\ubc1c\uc790\ub4e4\uc740 \ubb34\uc2a8 \uc0dd\uac01\uc744 \ud558\ub294 \uac74\uc9c0!<<A<<[CHANGED 2019/04/16]",

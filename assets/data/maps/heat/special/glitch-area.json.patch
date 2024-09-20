@@ -5848,7 +5848,7 @@
           {
             "message": {
               "": "I bet this was the hellspawn of a few over-ambitious interns.",
-              "en_US": "Aposto que este foi o inferno de uns poucos estagiários excessivamente ambiciosos.",
+              "en_US": "Aposto que isso foi ideia de alguns estagiários muito ambiciosos.",
               "langUid": 813,
               "zh_CN": "\u4f30\u8ba1\u662f\u4e00\u5e2e\u5b9e\u4e60\u5458\u5de5\u641e\u51fa\u6765\u7684\u73a9\u610f\u3002<<A<<[CHANGED 2019/01/31]",
               "ko_KR": "\uc57c\ub9dd\uc774 \uacfc\ud55c \uc778\ud134\ub4e4\uc774 \ub9cc\ub4e0 \uad34\ubb3c\uc778\uac00.<<A<<[CHANGED 2019/01/31]",
@@ -5954,7 +5954,7 @@
           {
             "message": {
               "": "Well then, let's go!",
-              "en_US": "Bem, então vamos nessa!",
+              "en_US": "Então, bora lá!",
               "langUid": 821,
               "zh_CN": "\u55ef\uff0c\u6211\u4eec\u8d70\u5427\uff01<<A<<[CHANGED 2019/01/31]",
               "ko_KR": "\uc88b\uc544, \uac00\ubcf4\uc790!<<A<<[CHANGED 2019/01/31]",
@@ -6092,7 +6092,7 @@
           {
             "message": {
               "": "I heard this area has been optimized for \\c[3]single players\\c[0].",
-              "en_US": "Ouvi dizer que essa área foi otimizada para \\c[3]jogadores individuais\\c[0].",
+              "en_US": "Ouvi dizer que essa área foi projetada para \\c[3]apenas um jogador\\c[0].",
               "langUid": 824,
               "zh_CN": "\u6211\u542c\u8bf4\u8fd9\u7247\u533a\u57df\u662f\u4e3a\\c[3]\u5355\u4e00\u73a9\u5bb6\\c[0]\u5236\u4f5c\u7684\u3002<<A<<[CHANGED 2019/01/31]",
               "ko_KR": "\uc774 \uc9c0\uc5ed\uc740 \\c[3]\uc2f1\uae00 \ud50c\ub808\uc774\uc5b4\\c[0]\uc5d0 \ucd5c\uc801\ud654\ub418\uc5b4 \uc788\ub2e4\uace0 \ub4e4\uc5c8\uc5b4.<<A<<[CHANGED 2019/01/31]",
@@ -6107,7 +6107,7 @@
           {
             "message": {
               "": "Though it seems they didn't bother making it a proper instance.",
-              "en_US": "Embora pareça que eles não se deram ao trabalho de criar uma instância apropriada.",
+              "en_US": "Apesar disso, parece que não se deram ao trabalho de fazer uma instância adequada para cada jogador.",
               "langUid": 825,
               "zh_CN": "\u4f46\u662f\u4ed6\u4eec\u6ca1\u6709\u4e13\u95e8\u4e3a\u8fd9\u5730\u65b9\u505a\u526f\u672c\u3002<<A<<[CHANGED 2019/01/31]",
               "ko_KR": "\uadf8\ub807\uae34 \ud574\ub3c4 \uc544\uc608 \uac1c\ubcc4 \ub358\uc804\uc73c\ub85c \ub9cc\ub4e4\uc9c4 \uc54a\uc740 \uac83 \uac19\uc9c0\ub9cc.<<A<<[CHANGED 2019/01/31]",
@@ -6122,7 +6122,7 @@
           {
             "message": {
               "": "In any case...\\. we better go through this level one after another.\\. Just to be safe.",
-              "en_US": "Enfim...\\. é melhor a gente passar por esse nível um de cada vez. Só por segurança.",
+              "en_US": "Enfim...\\. é melhor a gente passar por esse nível uma depois da outra.\\. Só por segurança.",
               "langUid": 826,
               "zh_CN": "\u6240\u4ee5...\\.\u6211\u4eec\u6700\u597d\u8fd8\u662f\u4e00\u4e2a\u4eba\u4e00\u4e2a\u4eba\u8fdb\u53bb\u3002\\.\u5b89\u5168\u4f18\u5148\u3002<<A<<[CHANGED 2019/01/31]",
               "ko_KR": "\ub9cc\uc77c\uc5d0 \ub300\ube44\ud574\uc11c...\\. \ud55c \uba85\uc529 \uac00\ub294 \uac8c \uc88b\uaca0\uc5b4.\\. \ud639\uc2dc \ubaa8\ub974\ub2c8\uae4c.<<A<<[CHANGED 2019/01/31]",
@@ -6367,7 +6367,7 @@
               {
                 "message": {
                   "": "You're still here?\\. That last challenge is waiting for you!",
-                  "en_US": "O que você está fazendo?\\,. O último desafio está esperando por você!",
+                  "en_US": "O que você está fazendo?\\. O último desafio está esperando por você!",
                   "de_DE": "Du bist immer noch hier?\\. Die letzte Herausforderung wartet auf dich!",
                   "zh_CN": "\u4f60\u600e\u4e48\u8fd8\u5728\u8fd9?\\.\u6700\u540e\u7684\u6311\u6218\u5728\u7b49\u7740\u4f60\u5462\uff01<<A<<[CHANGED 2019/04/30]",
                   "ja_JP": "\u307e\u3060\u3053\u3053\u306b\u3044\u305f\u306e\uff1f\\.\n\u6700\u5f8c\u306e\u30c1\u30e3\u30ec\u30f3\u30b8\u304c\u5f85\u3063\u3066\u308b\u3088\uff01<<A<<[CHANGED 2019/04/30]",
@@ -7744,7 +7744,7 @@
           {
             "message": {
               "": "Nice going!\\. ...\\. Dang it, I should stop watching! I don't want to spoil the solution for myself.",
-              "en_US": "Boa!\\. ..\\. Droga, eu deveia parar de olhar! Eu não quero estragar a solução para mim.",
+              "en_US": "Boa!\\. Ah, eu devia parar de olhar! Não quero estragar a solução para mim.",
               "langUid": 834,
               "zh_CN": "\u5f88\u597d\uff01\\....\\.\u554a\uff0c\u6211\u770b\u4e2a\u4ec0\u4e48\u52b2\u5462\uff01\u6211\u5e94\u8be5\u81ea\u5df1\u89e3\u7684\u3002<<A<<[CHANGED 2019/05/14]",
               "ko_KR": "\uc798\ud558\uace0 \uc788\uc5b4!\\. ...\\. \uc774\ub7f0, \uc774\uc81c \uadf8\ub9cc \ubd10\uc57c\uc9c0! \ubbf8\ub9ac \ub2f5\uc744 \uc54c\uace0 \uc2f6\uc9c0\ub294 \uc54a\uc73c\ub2c8\uae4c.<<A<<[CHANGED 2019/05/14]",
@@ -8149,7 +8149,7 @@
               {
                 "message": {
                   "": "So you know how to use \\c[3]JADC\\c[0]!\\. Cool!",
-                  "en_US": "Então você sabe como usar o \\c[3]JADC\\c[0]!\\. Legal!",
+                  "en_US": "Você sabe usar o \\c[3]JADC\\c[0]!\\. Legal!",
                   "langUid": 855,
                   "zh_CN": "\u539f\u6765\u4f60\u4e5f\u4f1a\u7528\\c[3]JADC\\c[0]!\\.\u53ef\u4ee5\uff01<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\\c[3]JADC\\c[0]\ub97c \uc5b4\ub5bb\uac8c \uc0ac\uc6a9\ud558\ub294\uc9c0 \uc544\ub124?\\. \uba4b\uc838!<<A<<[CHANGED 2019/04/16]",
@@ -8179,7 +8179,7 @@
               {
                 "message": {
                   "": "Don't you feel like doing this area the proper way?",
-                  "en_US": "Você não quer concluir essa área da maneira correta?",
+                  "en_US": "Você não quer concluir essa área da forma correta?",
                   "langUid": 857,
                   "zh_CN": "\u4f60\u60f3\u7528\u6b63\u5e38\u65b9\u6cd5\u6253\u8fd9\u4e2a\u533a\u57df\u5417\uff1f<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\uc81c\ub300\ub85c \ub41c \uae38\ub85c \ud55c\ubc88 \uac00\ubcf4\ub294 \uac8c \uc5b4\ub54c?<<A<<[CHANGED 2019/04/16]",
@@ -8212,7 +8212,7 @@
               {
                 "message": {
                   "": "Well...\\. I actually might give it a try anyway.",
-                  "en_US": "Bem...\\. Na verdade, eu poderia fazer uma tentativa.",
+                  "en_US": "Bom...\\. eu vou fazer uma tentativa.",
                   "langUid": 858,
                   "zh_CN": "\u597d\u5427...\\.\u8bf4\u4e0d\u5b9a\u6211\u8fd8\u771f\u4f1a\u8bd5\u8bd5\u7684\u3002<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\ubb50...\\. \ub09c \ud55c\ubc88\ucbe4 \ub3c4\uc804\ud574\ubcfc \uac70\uc57c.<<A<<[CHANGED 2019/04/16]",
@@ -8266,7 +8266,7 @@
               {
                 "message": {
                   "": "I'm kinda surprised they missed such an obvious shortcut.",
-                  "en_US": "Estou meio surpresa que eles tenham perdido um atalho tão óbvio.",
+                  "en_US": "Estou meio surpresa que eles tenham deixado um atalho tão óbvio.",
                   "langUid": 846,
                   "zh_CN": "\u4ed6\u4eec\u5c45\u7136\u4f1a\u6ca1\u53d1\u73b0\u8fd9\u4e48\u660e\u663e\u7684\u6f0f\u6d1e\u3002<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\uadf8\ub4e4\uc774 \uc774\ub807\uac8c \ub2f9\uc5f0\ud55c \uc9c0\ub984\uae38\uc744 \uac04\uacfc\ud588\ub2e4\ub2c8 \uc870\uae08 \ub180\ub77c\uc6cc.<<A<<[CHANGED 2019/04/16]",
@@ -8281,7 +8281,7 @@
               {
                 "message": {
                   "": "Then again...\\. it IS just a testing area...",
-                  "en_US": "Novamente...\\. isso é apenas uma área de testes...",
+                  "en_US": "Mas ok...\\. isso é apenas uma área de testes...",
                   "langUid": 847,
                   "zh_CN": "\u4e0d\u8fc7\u53c8\u8bf4\u56de\u6765...\\.\u8fd9\u6bd5\u7adf\u53ea\u662f\u4e2a\u6d4b\u8bd5\u533a\u57df...<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\uadf8\ub7ec\ub2e4\uac00...\\. \uadf8\ub0e5 \uadf8\ub807\uac8c \ud14c\uc2a4\ud2b8 \uc9c0\uc5ed\uc774 \ub418\uc5b4\ubc84\ub9ac\uace0...<<A<<[CHANGED 2019/04/16]",
@@ -8311,7 +8311,7 @@
               {
                 "message": {
                   "": "Oh well, I might as well try to do this the proper way.",
-                  "en_US": "Bem, eu poderia muito bem tentar fazer isso da maneira correta.",
+                  "en_US": "Bom, agora vou fazer da maneira correta.",
                   "langUid": 849,
                   "zh_CN": "\u7b97\u4e86\uff0c\u6211\u8fd8\u662f\u6309\u6b63\u5e38\u6765\u5427\u3002<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\ubb50, \ub098\ub3c4 \uc81c\ub300\ub85c \ub41c \uae38\ub85c \uc640\ubcfc\uac8c.<<A<<[CHANGED 2019/04/16]",
@@ -8343,7 +8343,7 @@
           {
             "message": {
               "": "There's supposed to be a very nice challenge after this!",
-              "en_US": "Supostamente, ainda tem um grande desafio pela frente!",
+              "en_US": "Ainda tem um grande desafio no final!",
               "langUid": 851,
               "zh_CN": "\u636e\u8bf4\u540e\u9762\u6709\u4e2a\u60ca\u559c\uff01<<A<<[CHANGED 2019/04/16]",
               "ko_KR": "\uc774 \ub4a4\uc5d0 \uc544\uc8fc \uc7ac\ubbf8\uc788\ub294 \ucc4c\ub9b0\uc9c0\uac00 \uc788\uc744 \uac70\ub2c8\uae4c!<<A<<[CHANGED 2019/04/16]",

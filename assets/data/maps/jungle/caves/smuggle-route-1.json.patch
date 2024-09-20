@@ -1326,7 +1326,7 @@
                 {
                   "message": {
                     "": "I hate this cave. Way too gloomy and wet. Ruins ma suit, ya know?",
-                    "en_US": "Eu odeio essa caverna. Ela é muito sombria e úmida. Prefiro ruínas, sabe?",
+                    "en_US": "Eu odeio essa caverna. Ela é muito sombria e úmida, prefiro ruínas.",
                     "de_DE": "Ich hasse diese H\u00f6hle. Viel zu d\u00fcster und nass. Ruinen liegen mir mehr, wei\u00dfte?",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u6211\u8ba8\u538c\u8fd9\u4e2a\u6d1e\u7a74\u3002\u53c8\u6e7f\u53c8\u6f6e\u3002\u6211\u7684\u897f\u88c5\u90fd\u8981\u6bc1\u4e86\u3002<<A<<[CHANGED 2017/07/11]",
@@ -1361,7 +1361,7 @@
                 {
                   "message": {
                     "": "Yeah... Never assumed you'd understand.",
-                    "en_US": "Sim... Nunca pensei que você entenderia.",
+                    "en_US": "Sim... Não pensei que você fosse entender.",
                     "de_DE": "Ja... H\u00e4tte nich' gedacht, dass du das verstehs'.",
                     "fr_FR": "fr_FR",
                     "zh_CN": "\u597d\u5427\u2026\u4e5f\u4e0d\u671f\u671b\u4f60\u4f1a\u660e\u767d\u3002",

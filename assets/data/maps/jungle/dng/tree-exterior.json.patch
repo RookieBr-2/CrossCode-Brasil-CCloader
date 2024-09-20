@@ -4703,7 +4703,7 @@
           {
             "message": {
               "": "So that's the Grand Krys'kajo? Certainly majestic.",
-              "en_US": "Então esse é o Grand Krys'kajo? Certamente majestoso.",
+              "en_US": "Então esse é o Grand Krys'kajo? É majestoso.",
               "langUid": 5,
               "zh_CN": "\u8fd9\u5c31\u662f\u5927\u51ef\u65af\u5361\u7f57\u4e86\uff1f\u771f\u662f\u58ee\u89c2\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc800\uac8c \uadf8\ub79c\ub4dc \ud06c\ub9ac\uc2a4\uce74\uc870\uc778\uac00? \uc815\ub9d0 \uc7a5\uc5c4\ud558\ub124.<<A<<[CHANGED 2018/03/14]",
@@ -4790,7 +4790,7 @@
           {
             "message": {
               "": "Uhm...\\. actually...",
-              "en_US": "Uhm...\\. na verdade...",
+              "en_US": "Hmm...\\. na verdade...",
               "langUid": 7,
               "zh_CN": "\u5443...\\.\u5176\u5b9e...<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc74c...\\. \uc0ac\uc2e4\uc740 \ub9d0\uc774\uc57c...<<A<<[CHANGED 2018/03/14]",
@@ -4907,7 +4907,7 @@
           {
             "message": {
               "": "I still have things to prepare for an assignment tomorrow...",
-              "en_US": "Ainda tenho coisas a preparar para uma tarefa amanhã...",
+              "en_US": "Preciso preparar umas coisas para uma tarefa amanhã...",
               "langUid": 13,
               "zh_CN": "\u6211\u8fd8\u5f97\u4e3a\u660e\u5929\u7684\u4f5c\u4e1a\u505a\u4e9b\u51c6\u5907...<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub0b4\uc77c \uacfc\uc81c \ub54c\ubb38\uc5d0 \uc900\ube44\ud574\uc57c \ud560 \uac8c \uc788\uac70\ub4e0...<<A<<[CHANGED 2018/03/14]",
@@ -4937,7 +4937,7 @@
           {
             "message": {
               "": "Sorry...\\. But, you know...\\. It's fine if you two continue the run without me.",
-              "en_US": "Desculpe...\\. Mas, você sabe...\\. Tudo bem se vocês duas continuarem a corrida sem mim.",
+              "en_US": "Desculpe...\\. Mas sabe de uma coisa?\\. Tudo bem se vocês duas continuarem a corrida sem mim.",
               "langUid": 15,
               "zh_CN": "\u62b1\u6b49...\\.\u4f60\u4fe9\u73a9\u5427...\\.\u6ca1\u6211\u4f60\u4eec\u4e00\u6837\u80fd\u884c\u7684\u3002<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\ubbf8\uc548...\\. \uc544\ub2c8\uba74...\\. \ub098 \uc5c6\uc774 \ub108\ud76c \ub458\uc774 \uacc4\uc18d \uc2dc\ud569\ud574\ub3c4 \ub3fc.<<A<<[CHANGED 2018/03/14]",
@@ -4982,7 +4982,7 @@
           {
             "message": {
               "": "Except, I wasn't there when you ran the Temple Mine, right?",
-              "en_US": "Exceto quando eu não estava lá quando vocês correram na Mina do Templo, certo?",
+              "en_US": "Mas eu não estava lá quando vocês correram na Mina do Templo, não é?",
               "langUid": 18,
               "zh_CN": "\u8bb0\u5f97\u4f60\u4eec\u6253\u795e\u5e99\u77ff\u4e95\u90a3\u6b21\u5417\uff0c\u6211\u4e0d\u5728\u7684\u5440\u3002<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\uc0ac\uc6d0 \uad11\uc0b0\uc5d0\uc11c\ub294 \ub0b4\uac00 \ud568\uaed8\ud558\uc9c0 \ubabb\ud588\uc5c8\ub294\ub370\ub3c4?<<A<<[CHANGED 2018/03/14]",
@@ -4997,7 +4997,7 @@
           {
             "message": {
               "": "Well...\\. true.",
-              "en_US": "Bem...\\. verdade.",
+              "en_US": "Bem...\\. é verdade.",
               "langUid": 19,
               "zh_CN": "\u5443...\\.\u8fd9\u5012\u662f\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ubb50...\\. \uadf8\uac74 \uadf8\ub807\uc9c0\ub9cc.<<A<<[CHANGED 2018/03/14]",
@@ -5042,7 +5042,7 @@
           {
             "message": {
               "": "We can do the run together tomorrow if you like, but again, it's fine if you continue without me.",
-              "en_US": "Podemos fazer a corrida juntos amanhã, se você quiser, mas novamente, tudo bem se você continuar sem mim.",
+              "en_US": "A gente pode correr amanhã juntos, ou se preferirem, vocês podem fazer isso hoje sem mim.",
               "langUid": 22,
               "zh_CN": "\u660e\u5929\u7684\u8bdd\u53ef\u4ee5\u4e00\u8d77\uff0c\u4e0d\u8fc7\u4f60\u4eec\u4eca\u5929\u53ef\u4ee5\u5148\u73a9\u4e5f\u6ca1\u95ee\u9898\u7684\u3002<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\ub0b4\uc77c \ub0b4\uac00 \ub4e4\uc5b4\uc624\uace0 \ub098\uc11c \uac19\uc774 \ud574\ub3c4 \ub418\uace0, \uc544\ub2c8\uba74 \ub098 \uc5c6\uc774 \ud574\ub3c4 \uad1c\ucc2e\uc544.<<A<<[CHANGED 2018/03/14]",
@@ -5072,7 +5072,7 @@
           {
             "message": {
               "": "Anyway, see you two soon!\\. Goodbye!",
-              "en_US": "De qualquer forma, nos vemos em breve! Adeus!",
+              "en_US": "Enfim, nos vemos em breve!\\. Adeus!",
               "langUid": 24,
               "zh_CN": "\u90a3\uff0c\u4e8c\u4f4d\u660e\u5929\u89c1\u5566\uff01\\.\u518d\u89c1\uff01<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\uc544\ubb34\ud2bc, \ub098\uc911\uc5d0 \ubcf4\uc790! \uc548\ub155!<<A<<[CHANGED 2018/03/14]",
@@ -5270,7 +5270,7 @@
           {
             "message": {
               "": "Anyway, what should we do?\\. Should we continue the race or not?",
-              "en_US": "Enfim, o que devemos fazer?\\. Devemos continuar a corrida ou não?",
+              "en_US": "Enfim, o que devemos fazer?\\. Vamos continuar a corrida ou não?",
               "langUid": 495,
               "zh_CN": "\u90a3\u73b0\u5728\u6211\u4eec\u5e72\u561b\uff1f\\. \u6211\u4fe9\u7ee7\u7eed\u6bd4\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc544\ubb34\ud2bc, \uadf8\ub7fc \uc6b0\ub9b0 \uc5b4\ub5a1\ud560\uae4c?\\. \uacc4\uc18d \uc2dc\ud569\ud560\ub798 \uc544\ub2c8\uba74 \ub098\uc911\uc5d0 \ud560\ub798?<<A<<[CHANGED 2018/03/14]",
@@ -5357,7 +5357,7 @@
           {
             "message": {
               "": "Here we are!",
-              "en_US": "Aqui estamos nós!",
+              "en_US": "Chegamos!",
               "langUid": 33,
               "zh_CN": "\u7ec8\u4e8e\u5230\u4e86\uff01<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub3c4\ucc29\ud588\uad70!<<A<<[CHANGED 2018/03/14]",
@@ -5403,7 +5403,7 @@
           {
             "message": {
               "": "Finally.\\. They sure added enough obstacles along the way.",
-              "en_US": "Finalmente.\\. Eles com certeza adicionaram obstáculos suficientes ao longo do caminho.",
+              "en_US": "Finalmente.\\. Foi uma burocracia para chegarmos até aqui.",
               "langUid": 497,
               "zh_CN": "\u7ec8\u4e8e\u5230\u4e86\u3002\\.\u8fd9\u4e00\u8def\u4e0a\u7684\u8270\u96be\u9669\u963b\u8fd8\u771f\u4e0d\u5c11\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub4dc\ub514\uc5b4.\\. \uc5ec\uae30\uae4c\uc9c0 \uc624\ub294 \ub370 \ub108\ubb34 \uac78\ub9bc\ub3cc\uc774 \ub9ce\uc558\uc5b4.<<A<<[CHANGED 2018/03/14]",
@@ -5462,7 +5462,7 @@
           {
             "message": {
               "": "Well then, ready for the final run?",
-              "en_US": "Bem, então, pronto para a corrida final?",
+              "en_US": "Então, pronto para a corrida final?",
               "langUid": 498,
               "zh_CN": "\u597d\u4e86\uff0c\u51c6\u5907\u597d\u6700\u540e\u7684\u6bd4\u8bd5\u4e86\u5417\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub9c8\uc9c0\ub9c9\uc73c\ub85c \ub2ec\ub9b4 \uc900\ube44 \ub410\ub098?<<A<<[CHANGED 2018/03/14]",
@@ -5513,7 +5513,7 @@
           {
             "message": {
               "": "I've had enough for today. We just ran two whole dungeons in a row.",
-              "en_US": "Já tive o suficiente por hoje. Acabamos de correr em duas dungeons inteiras seguidas.",
+              "en_US": "Já tive o suficiente por hoje. Acabamos de explorar duas dungeons seguidas.",
               "langUid": 501,
               "zh_CN": "\u6211\u4eca\u5929\u73a9\u4e0d\u52a8\u4e86\u3002\u6211\u4eec\u521a\u8fde\u7eed\u8dd1\u4e86\u4e24\u4e2a\u5730\u7262\u554a\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uc624\ub298\uc740 \ub108\ubb34 \ub9ce\uc774 \ud588\uc5b4. \ub358\uc804 \ub450 \uac1c\ub97c \ud55c\uaebc\ubc88\uc5d0 \ud588\uc796\uc544.<<A<<[CHANGED 2018/09/19]",
@@ -5531,7 +5531,7 @@
           {
             "message": {
               "": "Also the whole thing is a bit too stressful for my taste.",
-              "en_US": "E também tudo isso é um pouco estressante demais para o meu gosto.",
+              "en_US": "E também fazer isso foi estressante demais para o meu gosto.",
               "langUid": 502,
               "zh_CN": "\u8fd9\u4fe9\u5730\u7262\u5df2\u7ecf\u591f\u6211\u53d7\u7684\u4e86\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uadf8 \ubaa8\ub4e0 \uacfc\uc815\uc774 \ub0b4\uac90 \uc880 \uc2a4\ud2b8\ub808\uc2a4\uc600\uc5b4.<<A<<[CHANGED 2018/09/19]",
@@ -5567,7 +5567,7 @@
           {
             "message": {
               "": "No, I mean your constant nagging while you waited for me.",
-              "en_US": "Não, eu me refiro à sua constante preocupação enquanto esperava por mim.",
+              "en_US": "Não, estou falando da sua impaciência enquanto esperava por mim.",
               "langUid": 504,
               "zh_CN": "\u4e0d\u662f\uff0c\u6211\u662f\u8bf4\u4f60\u603b\u662f\u50ac\u6211\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc544\ub2c8, \uadf8\uac8c \uc544\ub2c8\ub77c \ub124\uac00 \ub0a0 \uae30\ub2e4\ub9ac\ub294 \ub3d9\uc548 \uacc4\uc18d \ud6c8\uc218 \ub450\ub2c8\uae4c \uadf8\ub807\uc9c0.<<A<<[CHANGED 2018/03/14]",
@@ -5585,7 +5585,7 @@
           {
             "message": {
               "": "Oh...\\. I was just wondering whether you were stuck.",
-              "en_US": "Oh...\\. Eu estava apenas me perguntando onde você estava preso.",
+              "en_US": "Oh...\\. Eu só queria saber onde você estava preso.",
               "langUid": 505,
               "zh_CN": "\u554a...\\.\u6211\u53ea\u662f\u60f3\u77e5\u9053\u4f60\u662f\u4e0d\u662f\u5361\u5728\u54ea\u513f\u4e86\u3002<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\uc544...\\. \ub09c \ub124\uac00 \ud37c\uc990 \ud480\ub2e4\uac00 \ub9c9\ud78c \uc904 \uc54c\uace0.<<A<<[CHANGED 2018/03/14]",
@@ -5603,7 +5603,7 @@
           {
             "message": {
               "": "I didn't ask for help.\\. I just like to take things slow.",
-              "en_US": "Eu não pedi ajuda.\\. Só gosto de levar as coisas devagar.",
+              "en_US": "Eu não pedi ajuda.\\. Só gosto de ir com calma.",
               "langUid": 506,
               "zh_CN": "\u6211\u53ef\u6ca1\u8981\u4f60\u5e2e\u6211\u554a\u3002\\.\u6211\u53ea\u662f\u60f3\u6162\u6162\u6253\u800c\u5df2\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub3c4\uc640\ub2ec\ub77c\uace0 \ud558\uc9c0 \uc54a\uc558\uac70\ub4e0.\\. \ub09c \uc6d0\ub798 \ucc9c\ucc9c\ud788 \ud558\ub294 \uc2a4\ud0c0\uc77c\uc774\uc57c.<<A<<[CHANGED 2018/03/14]",
@@ -5657,7 +5657,7 @@
           {
             "message": {
               "": "That's a shame. I was looking forward to running it today.",
-              "en_US": "É uma pena. Hoje eu estava ansioso para correr lá.",
+              "en_US": "É uma pena. Hoje eu estava ansioso para entrar lá.",
               "langUid": 509,
               "zh_CN": "\u592a\u9057\u61be\u4e86\u3002\u6211\u8fd8\u8bf4\u4eca\u5929\u80fd\u6253\u901a\u5462\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uc544\uc27d\ub124. \uc624\ub298 \ud558\ub294 \uac78 \uae30\ub300\ud588\ub294\ub370.<<A<<[CHANGED 2018/09/19]",
@@ -5711,7 +5711,7 @@
           {
             "message": {
               "": "And that's really fine with you?",
-              "en_US": "E isso é realmente bom para você?",
+              "en_US": "E isso é realmente o que você quer?",
               "langUid": 512,
               "zh_CN": "\u4f60\u786e\u5b9a\u81ea\u5df1\u80fd\u884c\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc815\ub9d0 \uadf8\ub798\ub3c4 \ub3fc?<<A<<[CHANGED 2018/03/14]",
@@ -5838,7 +5838,7 @@
           {
             "message": {
               "": "Oh, look who's over there. Hi, Lea!",
-              "en_US": "Ah, veja quem está aqui. Oi, Lea!",
+              "en_US": "Ah, olha quem está aqui. Oi, Lea!",
               "langUid": 36,
               "zh_CN": "\u563f\uff0c\u770b\u770b\u8c01\u5728\u90a3\u513f\u3002\u597d\u554a\u8389\u4e9a\uff01<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\uc624, \uc800\uae30 \uc880 \ubd10. \uc548\ub155, \ub808\uc544!<<A<<[CHANGED 2018/03/14]",
@@ -6026,7 +6026,7 @@
           {
             "message": {
               "": "Here's an idea: how about you join Lea's party again and run the dungeon with her?\n",
-              "en_US": "Tive uma ideia: que tal você se juntar novamente ao grupo de Lea e correr na dungeon com ela?",
+              "en_US": "Tive uma ideia: que tal você se juntar ao grupo da Lea de novo e correr na dungeon com ela?",
               "langUid": 516,
               "zh_CN": "\u8981\u4e0d\u8fd9\u6837\uff1a\u4f60\u518d\u52a0\u5230\u8389\u4e9a\u7684\u961f\u4f0d\u91cc\uff0c\u8ddf\u5979\u4eec\u4e00\u8d77\u73a9\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc774\ub807\uac8c \ud558\ub294 \uac8c \uc5b4\ub54c. \ub2e4\uc2dc \ub808\uc544\uc758 \ud30c\ud2f0\uc5d0 \ud569\ub958\ud574\uc11c \ub808\uc544\uc640 \ud568\uaed8 \uc2dc\ud569\ud558\ub294 \uac70\uc57c.<<A<<[CHANGED 2018/03/14]",
@@ -6089,7 +6089,7 @@
           {
             "message": {
               "": "Anyway, I'm off.\\. Bye!",
-              "en_US": "De qualquer maneira, estou de saída.\\. Tchau!",
+              "en_US": "Certo, estou de saída.\\. Tchau!",
               "langUid": 518,
               "zh_CN": "\u770b\u4f60\u5427\uff0c\u6211\u5f97\u95ea\u4e86\u3002\\.\u62dc\uff01<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc544\ubb34\ud2bc, \ub09c \uac04\ub2e4.\\. \uc548\ub155!<<A<<[CHANGED 2018/03/14]",
@@ -6294,7 +6294,7 @@
           {
             "message": {
               "": "Oh, you're here, too?",
-              "en_US": "Oh, você também está aqui?",
+              "en_US": "Ah, você também está aqui?",
               "langUid": 523,
               "zh_CN": "\u54c8\uff0c\u4f60\u4eec\u4e5f\u6765\u6253\u8fd9\u4e2a\u4e86\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ubb50\uc57c, \ub108\ub3c4 \uc788\uc5c8\ub0d0?<<A<<[CHANGED 2018/03/14]",
@@ -6312,7 +6312,7 @@
           {
             "message": {
               "": "What did your friend just say, there? Join Lea's party... \\c[3]again\\c[0]?",
-              "en_US": "O que o seu amigo acabou de dizer? Entre no grupo da Lea... \\c[3]novamente\\c[0]?",
+              "en_US": "O que o seu amigo acabou de dizer? Que tal você se juntar ao grupo da Lea... \\c[3]de novo?\\c[0]?",
               "langUid": 524,
               "zh_CN": "\u521a\u4f60\u670b\u53cb\u8bf4\u5565\u6765\u7740\uff1f\\c[3]\u518d\\c[0]...\u52a0\u5230\u8389\u4e9a\u7684\u961f\u4f0d\u91cc\uff1f<<A<<[CHANGED 2021/05/22]",
               "ko_KR": "\ub124 \uce5c\uad6c\uac00 \uc544\uae4c \ubb50\ub77c\uace0 \ud55c \uac70\uc57c? \\c[3]\ub2e4\uc2dc\\c[0] \ub808\uc544\uc758 \ud30c\ud2f0\uc5d0... \ud569\ub958\ud558\ub77c\uace0?<<A<<[CHANGED 2018/03/14]",
@@ -6495,7 +6495,7 @@
           {
             "message": {
               "": "Indeed. We had a most formidable party just two days ago!",
-              "en_US": "De fato. Formamos um grupo formidável há apenas dois dias!",
+              "en_US": "De fato. Formamos um grupo formidável há dois dias atrás!",
               "langUid": 528,
               "zh_CN": "\u6ca1\u9519\u3002\u4e24\u5929\u524d\u6211\u4eec\u73a9\u8fc7\u4e00\u6b21\uff01<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uadf8\ub7ac\uc9c0. \uace0\uc791 \uc774\ud2c0 \uc804\uc5d0 \uc5b4\ub9c8\uc5b4\ub9c8\ud55c \ud30c\ud2f0\ub97c \ub9fa\uc5c8\uc5c8\ub2e4\uace0.<<A<<[CHANGED 2018/03/14]",
@@ -6518,7 +6518,7 @@
               {
                 "message": {
                   "": "How was it?\\. Did Lea \\c[1]keep sniping away all the enemies\\c[0]?",
-                  "en_US": "Como foi?\\. Será que a Lea \\c[1]ficou espantando todos os inimigos?\\c[0]",
+                  "en_US": "Como foi?\\. Será que a Lea \\c[1]ficou estompando todos os inimigos?\\c[0]",
                   "de_DE": "Und wie war's?\\. Hat Lea \\c[1]alle Gegner einfach weggeschnippt\\c[0]?",
                   "zh_CN": "\u600e\u4e48\u4e86?\\.\u96be\u9053\u662f\u8389\u4e9a\\c[1]\u8fdc\u7a0b\u72d9\u6740\u4e86\u6240\u6709\u654c\u4eba\\c[0]?<<A<<[CHANGED 2019/08/16]",
                   "ja_JP": "\u3069\u3046\u3060\u3063\u305f\uff1f\\.\u305a\u30fc\u3063\u3068\u30ec\u30a2\u304c\n\\c[1]\u6575\u3092\u4e00\u6383\u3059\u308b\u3070\u3063\u304b\u308a\\c[0]\u3060\u3063\u305f\u3067\u3057\u3087\uff1f<<A<<[CHANGED 2019/08/16]",
@@ -6687,7 +6687,7 @@
           {
             "message": {
               "": "You actually make a competition out of this? That's cute.",
-              "en_US": "Vocês realmente fazem disso uma competição? Isso é fofo.",
+              "en_US": "Vocês fazem disso uma competição? Isso é fofo.",
               "langUid": 535,
               "zh_CN": "\u4f60\u771f\u60f3\u8ddf\u6211\u6bd4\u8d5b\uff1f\u5929\u771f\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc774\uac78\ub85c \uc815\ub9d0 \uacbd\uc7c1\uc744 \ud55c\ub2e4\uace0? \ucc38 \uadc0\uc5fd\uad70.<<A<<[CHANGED 2018/03/14]",
@@ -6889,7 +6889,7 @@
           {
             "task": {
               "": "It's time to finally run the \\c[3]Grand Krys'kajo\\c[0] together with \\c[3]Emilie\\c[0] and... \\c[3]Apollo\\c[0]?",
-              "en_US": "É hora de finalmente correr no \\c[3]Grand Krys'kajo\\c[0] junto com \\c[3]Emilie\\c[0] e... \\c[3]Apollo\\c[0]?",
+              "en_US": "É hora de finalmente entrar no \\c[3]Grand Krys'kajo\\c[0] junto com \\c[3]Emilie\\c[0] e... \\c[3]Apollo\\c[0]?",
               "langUid": 658,
               "zh_CN": "\u8ddf\\c[3]\u827e\u7c73\u8389\\c[0]\u548c...\\c[3]\u963f\u6ce2\u7f57\\c[0]\u4e00\u8d77\u901a\u5173\\c[3]\u5927\u51ef\u65af\u5361\u7f57\\c[0]\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub4dc\ub514\uc5b4 \\c[3]\uadf8\ub79c\ub4dc \ud06c\ub9ac\uc2a4\uce74\uc870\\c[0]\ub97c \ub2ec\ub9b4 \uc2dc\uac04\uc785\ub2c8\ub2e4. \\c[3]\uc5d0\ubc00\ub9ac\\c[0]\uc640... \\c[3]\uc544\ud3f4\ub85c\\c[0]\uc640 \ud568\uaed8 \ub9d0\uc774\uc8e0.<<A<<[CHANGED 2018/03/14]",
@@ -7076,7 +7076,7 @@
               {
                 "message": {
                   "": "Please, this is the \\c[3]Grand Krys'kajo\\c[0], the most sacred place in Gaia's Garden.",
-                  "en_US": "Por favor, este é o \\c[3]Grand Krys'kajo\\c[0], o lugar mais sagrado do Jardim de Gaia.",
+                  "en_US": "Por favor, esse é o \\c[3]Grand Krys'kajo\\c[0], o lugar mais sagrado do Jardim de Gaia.",
                   "de_DE": "Ich darf doch bitten! Das ist der \\c[3]Gro\u00dfe Krys'kajo\\c[0], der heiligste Ort in Gaias Garten.",
                   "zh_CN": "\u8bf7\u4e0d\u8981\u4eb5\u6e0e\\c[3]\u5927\u51ef\u65af\u5361\u7f57\\c[0]\uff0c\u8fd9\u662f\u76d6\u4e9a\u82b1\u56ed\u6700\u795e\u5723\u7684\u5730\u65b9\u3002<<A<<[CHANGED 2018/03/14]",
                   "ja_JP": "\u304a\u3044\u3001\u3053\u3053\u306f\\c[3]\u30af\u30ea\u30e5\u30b9\u30fb\u30ab\u30fc\u30e8\u5927\u795e\u6bbf\\c[0]\u3060\u305e\u3002\n\u30ac\u30a4\u30a2\u306e\u5712\u3067\u3082\u3063\u3068\u3082\u795e\u8056\u306a\u5834\u6240\u306a\u3093\u3060\u3001\n\u8a00\u8449\u306b\u306f\u6c17\u3092\u3064\u3051\u308b\u3093\u3060\u306a\u3002<<A<<[CHANGED 2018/03/14]",
@@ -7094,7 +7094,7 @@
               {
                 "message": {
                   "": "Oui, oui, but are you ready though?",
-                  "en_US": "Oui, oui, mas você está pronto?",
+                  "en_US": "Oui, oui, vocês estão prontos ou não?",
                   "de_DE": "Oui, oui, seid ihr nun bereit oder nicht?",
                   "zh_CN": "\u597d\u597d\u597d\uff0c\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1f<<A<<[CHANGED 2018/03/14]",
                   "ja_JP": "\u306f\u3044\u306f\u3044\u3001\u305d\u308c\u3067\n\u6e96\u5099\u306f\u3067\u304d\u305f\u306e\uff1f<<A<<[CHANGED 2018/03/14]",
@@ -7130,7 +7130,7 @@
                   {
                     "message": {
                       "": "Ready when you are!",
-                      "en_US": "Pronto quando você estiver!",
+                      "en_US": "Estou sempre pronto!",
                       "de_DE": "Bereit, wenn ihr es seid!",
                       "zh_CN": "\u65e9\u51c6\u5907\u597d\u4e86\uff01<<A<<[CHANGED 2018/03/14]",
                       "ja_JP": "\u5168\u54e1\u3001\u6e96\u5099\u306f\u3044\u3044\u304b\uff1f<<A<<[CHANGED 2018/03/14]",

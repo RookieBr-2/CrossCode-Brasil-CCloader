@@ -1779,7 +1779,7 @@
                 {
                   "task": {
                     "": "Just walk through the \\c[3]bamboo trees\\c[0] south of the \\c[3]Cave Inn\\c[0] to find somebody.",
-                    "en_US": "Caminhe pelas \\c[3]árvores de bambu\\c[0] ao sul da \\c[3]Pousada Caverna\\c[0] para encontrar alguém.",
+                    "en_US": "Caminhe pelas \\c[3]árvores de bambu\\c[0] ao sul da \\c[3]Pousada da Caverna\\c[0] para encontrar alguém.",
                     "de_DE": "Einfach durch den \\c[3]Bambuswald\\c[0] s\u00fcdlich der \\c[3]H\u00f6hlenherberge\\c[0] gehen. Da findest du jemanden.",
                     "zh_CN": "\u7a7f\u8fc7\\c[3]\u6d1e\u5929\u65c5\u9986\\c[0]\u5357\u8fb9\u7684\\c[3]\u7af9\u6797\\c[0]\uff0c\u53bb\u627e\u67d0\u4e2a\u4eba\u3002<<A<<[CHANGED 2018/08/28]",
                     "ja_JP": "\\c[3]\u6d1e\u7a9f\u5bbf\\c[0]\u306e\u5357\u5074\u306e\\c[3]\u7af9\u3084\u3076\\c[0]\u3092\n\u901a\u308a\u629c\u3051\u3066\u3001\u4eba\u3092\u63a2\u305d\u3046\u3002<<A<<[CHANGED 2018/08/28]",
@@ -2298,7 +2298,7 @@
             "entity": { "global": true, "name": "c1" },
             "text": {
               "": "What a rude guy!",
-              "en_US": "Que cara desagradável!",
+              "en_US": "Que cara mal-educado!",
               "langUid": 528,
               "zh_CN": "\u771f\u662f\u4e2a\u7c97\u9c81\u7684\u5bb6\u4f19\uff01<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u5931\u793c\u306a\u3084\u3064\u3060\u306a\uff01<<A<<[CHANGED 2018/09/19]",
@@ -2311,7 +2311,7 @@
             "entity": { "global": true, "name": "c3" },
             "text": {
               "": "Typical self-centered player if you ask me.",
-              "en_US": "Ele é o típico jogador egocêntrico, se quer saber.",
+              "en_US": "Ele é daquele tipinho de gente egocêntrica.",
               "langUid": 529,
               "zh_CN": "\u8981\u6211\u8bf4\uff0c\u5c31\u662f\u90a3\u79cd\u5178\u578b\u7684\u53ea\u987e\u81ea\u5df1\u7684\u73a9\u5bb6\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u8a00\u308f\u305b\u3066\u3082\u3089\u3048\u3070\u3001\u5178\u578b\u7684\u306a\n\u81ea\u5df1\u4e2d\u30d7\u30ec\u30a4\u30e4\u30fc\u3060\u306d\u3002<<A<<[CHANGED 2018/07/09]",
@@ -2324,7 +2324,7 @@
             "entity": { "global": true, "name": "c4" },
             "text": {
               "": "You'd think he would have seen me \\c[3]with those big glasses\\c[0].",
-              "en_US": "Como se ele não tivesse me visto \\c[3]com seus óculos grossos\\c[0].",
+              "en_US": "Sim, aquele pateta \\c[3]de óculos grossos\\c[0] quase me derrubou.",
               "langUid": 530,
               "zh_CN": "\\c[3]\u6234\u7740\u5927\u773c\u955c\\c[0]\u8fd8\u770b\u4e0d\u5230\u4eba\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\\c[3]\u3042\u306e\u5927\u304d\u306a\u30e1\u30ac\u30cd\\c[0]\u306f\u306a\u3093\u306e\u305f\u3081\u306b\n\u639b\u3051\u3066\u308b\u3093\u3060\u3088\u3001\u3063\u3066\u611f\u3058\u3060\u306a\u3002<<A<<[CHANGED 2018/07/09]",
@@ -2401,7 +2401,7 @@
               {
                 "message": {
                   "": "He just ran past, even pushing me to the side.",
-                  "en_US": "Ele acabou de passar correndo, me empurrando para o lado.",
+                  "en_US": "Ele acabou de passar correndo e me deu um empurrão.",
                   "langUid": 524,
                   "zh_CN": "\u4ed6\u521a\u8dd1\u8fc7\u53bb\u4e86\uff0c\u8fd8\u63a8\u4e86\u6211\u4e00\u628a\u3002<<A<<[CHANGED 2018/07/09]",
                   "ja_JP": "\u3042\u3044\u3064\u306f\u4ffa\u3092\u62bc\u3057\u306e\u3051\u3066\n\u8d70\u308a\u629c\u3051\u3066\u3044\u3063\u305f\u3093\u3060\u3002<<A<<[CHANGED 2018/07/09]",
@@ -2599,7 +2599,7 @@
             "entity": { "global": true, "name": "proTableChan" },
             "text": {
               "": "It's... all about the can...",
-              "en_US": "É... tudo sobre a lata...",
+              "en_US": "Não... só acho essa lata bonita...",
               "langUid": 545,
               "de_DE": "Es geht mir... nur um die Dose...",
               "ja_JP": "\u3044\u3084...\u305f\u3060\u7f36\u304c\u3042\u308b\u304b\u3089\n\u5ea7\u3063\u3066\u308b\u3093\u3060\u3088...<<A<<[CHANGED 2018/09/02]",
@@ -2612,7 +2612,7 @@
             "entity": { "global": true, "name": "proFloorChan" },
             "text": {
               "": "Why won't you simply admit it? You like to sit on tables.",
-              "en_US": "Por que você simplesmente não admite? Você gosta de sentar nas mesas.",
+              "en_US": "Por que você não admite? Você gosta de sentar nas mesas.",
               "langUid": 546,
               "de_DE": "Warum gibst du es nicht einfach zu? Du sitzt gerne auf Tischen!",
               "ja_JP": "\u3069\u3046\u3057\u3066\u305f\u3060\u8a8d\u3081\u306a\u3044\u306e\uff1f\n\u3042\u306a\u305f\u3001\u30c6\u30fc\u30d6\u30eb\u306b\u5ea7\u308b\u306e\u304c\n\u597d\u304d\u306a\u3093\u3067\u3057\u3087\u3002<<A<<[CHANGED 2018/09/02]",
@@ -2810,7 +2810,7 @@
               {
                 "message": {
                   "": "I mean sure... it's weird. But we're in a game. We're here to have fun.",
-                  "en_US": "Digo, claro... é estranho. Mas nós estamos em um jogo. Estamos aqui para nos divertir.",
+                  "en_US": "Na verdade... é estranho. Mas nós estamos em um jogo. Estamos aqui para nos divertir.",
                   "langUid": 555,
                   "de_DE": "Ich meine, klar... merkw\u00fcrdig ist es schon. Aber wir sind hier in einem Spiel. Hier geht's um Spa\u00df!",
                   "ja_JP": "\u307e\u3042...\u5909\u306a\u306e\u306f\u78ba\u304b\u3060\u3051\u3069\u3002\n\u3067\u3082\u3053\u308c\u3063\u3066\u30b2\u30fc\u30e0\u306e\u4e2d\u3067\u3057\u3087\u3002\n\u79c1\u305f\u3061\u3001\u697d\u3057\u3080\u305f\u3081\u306b\n\u3053\u3053\u306b\u3044\u308b\u3093\u3058\u3083\u306a\u3044\u3002<<A<<[CHANGED 2018/09/02]",
@@ -2828,7 +2828,7 @@
               {
                 "message": {
                   "": "If sitting on tables is your idea of fun then more power to you!",
-                  "en_US": "Se sentar em mesas é sua idéia de diversão, então vá em frente!!",
+                  "en_US": "Se sentar em mesas é divertido pra você, então vá em frente!!",
                   "langUid": 556,
                   "de_DE": "Und wenn dir auf Tischen sitzen Spa\u00df macht, dann nur zu!",
                   "ja_JP": "\u3082\u3057\u30c6\u30fc\u30d6\u30eb\u306b\u5ea7\u308b\u3063\u3066\u3044\u3046\u306e\u304c\n\u3042\u306a\u305f\u306e\u697d\u3057\u307f\u65b9\u306a\u3089\u3001\u3082\u3063\u3068\n\u5ea7\u308c\u3070\u3044\u3044\u3058\u3083\u306a\u3044\uff01<<A<<[CHANGED 2018/09/02]",
@@ -2864,7 +2864,7 @@
               {
                 "message": {
                   "": "Who cares, we're in CrossWorlds! This is a place to screw around and let loose!",
-                  "en_US": "Bem, quem se importa? nós estamos em CrossWorlds! O lugar perfeito para ficar um pouco louco!",
+                  "en_US": "E daí? nós estamos em CrossWorlds! O lugar perfeito para ficar um pouco louco!",
                   "langUid": 558,
                   "de_DE": "Wen k\u00fcmmert's? Wir sind in CrossWorlds! Der ideale Ort, um mal etwas durchzudrehen!",
                   "ja_JP": "\u8ab0\u304c\u6c17\u306b\u3059\u308b\u306e\u3001\u79c1\u305f\u3061\u30af\u30ed\u30b9\u30ef\u30fc\u30eb\u30c9\u306b\n\u3044\u308b\u3093\u3060\u3088\uff01\u304f\u3060\u3089\u306a\u3044\u3053\u3068\u3057\u3066\u6642\u9593\u3092\n\u3064\u3076\u3057\u3066\u3082\u3044\u3044\u3001\u305d\u308c\u304c\u3053\u306e\u4e16\u754c\u3067\u3057\u3087\uff01<<A<<[CHANGED 2018/09/19]",
@@ -2882,7 +2882,7 @@
               {
                 "message": {
                   "": "And I definitely never saw any player being banned for sitting on a table.",
-                  "en_US": "E eu definitivamente nunca vi um jogador ser banido por sentar em uma mesa.",
+                  "en_US": "E eu nunca vi um jogador ser banido por sentar em uma mesa.",
                   "langUid": 559,
                   "de_DE": "Und ich habe noch keinen Spieler gesehen, der gebannt wurde, weil er auf Tischen sa\u00df.",
                   "ja_JP": "\u305d\u308c\u306b\u3001\u30c6\u30fc\u30d6\u30eb\u306b\u5ea7\u3063\u305f\u304b\u3089\u3063\u3066\n\u30a2\u30ab\u30a6\u30f3\u30c8\u505c\u6b62\u3092\u304f\u3089\u3063\u305f\u30d7\u30ec\u30a4\u30e4\u30fc\u306a\u3093\u3066\n\u305c\u3093\u305c\u3093\u3001\u4e00\u5ea6\u3082\u898b\u305f\u3053\u3068\u306a\u3044\u3088\u3002<<A<<[CHANGED 2018/09/02]",
@@ -2936,7 +2936,7 @@
               {
                 "message": {
                   "": "Alright!",
-                  "en_US": "Certo!",
+                  "en_US": "Tá bom!",
                   "langUid": 562,
                   "de_DE": "Na gut!",
                   "ja_JP": "\u3088\u30fc\u3057\uff01<<A<<[CHANGED 2018/09/02]",
@@ -3167,7 +3167,7 @@
               {
                 "message": {
                   "": "Huh?",
-                  "en_US": "Hã?",
+                  "en_US": "Que?",
                   "langUid": 566,
                   "de_DE": "H\u00e4h?",
                   "ja_JP": "\u3048\uff1f<<A<<[CHANGED 2018/09/02]",
@@ -3689,7 +3689,7 @@
               {
                 "message": {
                   "": "This is the \\c[3]Cave Inn\\c[0], a hostel built inside a house from the very beginnings of human activity on Planet Shadoon.",
-                  "en_US": "Esta é a \\c[3]Pousada Caverna\\c[0], uma hospedaria construída dentro de uma casa desde o início da atividade humana no Planeta Shadoon.",
+                  "en_US": "Esta é a \\c[3]Pousada da Caverna\\c[0], uma hospedaria construída dentro de uma casa desde o início da atividade humana no Planeta Shadoon.",
                   "de_DE": "Dies ist die \\c[3]H\u00f6hlenherberge\\c[0]. Das Haus stammt noch von den fr\u00fchen Anf\u00e4ngen der menschlichen Zivilisation auf diesem Planeten.",
                   "zh_CN": "\u8fd9\u91cc\u662f\\c[3]\u6d1e\u5929\u65c5\u9986\\c[0]\uff0c\u4e00\u4e2a\u81ea\u4eba\u7c7b\u5728\u6c99\u5fb7\u9686\u6d3b\u52a8\u5f00\u59cb\u5c31\u5b58\u5728\u7684\u65c5\u9986\u3002<<A<<[CHANGED 2018/09/19]",
                   "ja_JP": "\u3053\u3053\u306f\\c[3]\u6d1e\u7a9f\u5bbf\\c[0]\u3002\u4eba\u9593\u304c\u60d1\u661f\u30b7\u30e3\u30c9\u30a5\u30fc\u30f3\u3067\n\u6d3b\u52d5\u3092\u59cb\u3081\u305f\u3054\u304f\u521d\u671f\u306e\u3053\u308d\u306b\n\u5efa\u3066\u3089\u308c\u305f\u5bb6\u3092\u5229\u7528\u3057\u3066\u4f5c\u3089\u308c\u305f\n\u30db\u30c6\u30eb\u3067\u3059\u3002<<A<<[CHANGED 2018/09/19]",
@@ -3740,7 +3740,7 @@
               {
                 "message": {
                   "": "...Is what I would say if there was actually any room free...",
-                  "en_US": "...é o que eu diria se realmente houvesse algum espaço livre...",
+                  "en_US": "...Isso é o que eu diria se houvesse vagas disponíveis...",
                   "de_DE": "... h\u00e4tte ich jetzt zu dir gesagt, wenn wir tats\u00e4chlich noch ein Zimmer frei h\u00e4tten...",
                   "zh_CN": "...\u524d\u63d0\u662f\u6709\u7a7a\u623f\u95f4\u7684\u8bdd...<<A<<[CHANGED 2018/09/02]",
                   "ja_JP": "...\u3068\u3001\u7a7a\u3044\u3066\u3044\u308b\u90e8\u5c4b\u304c\u3042\u308c\u3070\n\u305d\u3046\u8a00\u3046\u3068\u3053\u308d\u306a\u306e\u3067\u3059\u304c...<<A<<[CHANGED 2018/09/02]",
@@ -3773,7 +3773,7 @@
               {
                 "message": {
                   "": "I'm afraid business is going up for us \\c[3]Ling's\\c[0], again.",
-                  "en_US": "Receio que os negócios estejam indo bem para nós \\c[3]Ling's\\c[0], novamente.",
+                  "en_US": "Parece que os negócios estão indo bem para nós, da família \\c[3]Ling\\c[0].",
                   "de_DE": "Bedauerlicherweise l\u00e4uft das Gesch\u00e4ft f\u00fcr uns \\c[3]Lings\\c[0] mal wieder zu gut.<<A<<[CHANGED 2021/05/22]",
                   "zh_CN": "\u56e0\u4e3a\u6700\u8fd1\u6211\u4eec\\c[3]\u7075\u5bb6\\c[0]\u751f\u610f\u706b\u7206\u3002<<A<<[CHANGED 2021/05/22]",
                   "ja_JP": "\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u304c\u3001\n\u79c1\u305f\u3061\\c[3]\u30ea\u30f3\u5bb6\\c[0]\u306f\n\u304a\u304b\u3052\u69d8\u3067\u5927\u7e41\u76db\u3067\u3057\u3066\u3002<<A<<[CHANGED 2021/05/22]",
@@ -3809,7 +3809,7 @@
               {
                 "message": {
                   "": "However, our very own 24-7 shop, as well as a trade hub, are at your disposal.",
-                  "en_US": "No entanto, nossa própria loja 24 horas por dia, 7 dias por semana, bem como um centro de comércio, estão à sua disposição.",
+                  "en_US": "No entanto, a loja que opera 24 horas por dia, 7 dias por semana, assim como o centro de comércio, estão à sua disposição.",
                   "de_DE": "Nichtsdestotrotz stehen dir nat\u00fcrlich noch unser 24/7-Laden und die H\u00e4ndler zur Verf\u00fcgung!",
                   "zh_CN": "\u5f53\u7136\uff0c\u6211\u4eec\u7684\u5546\u5e97\u5168\u5929\u5f00\u4e1a\uff0c\u5404\u8def\u5546\u4eba\u4e5f\u5c06\u4f9b\u60a8\u5dee\u4f7f\u3002<<A<<[CHANGED 2018/11/28]",
                   "ja_JP": "\u3068\u306f\u3044\u3048\u3001\u3053\u3053\u306b\u306f\u79c1\u305f\u3061\u306e\n24\u6642\u9593\u55b6\u696d\u306e\u30b7\u30e7\u30c3\u30d7\u3084\u3001\u540c\u3058\u304f\u81ea\u7531\u306b\n\u5229\u7528\u3067\u304d\u308b\u30c8\u30ec\u30fc\u30c0\u30fc\u90e8\u5c4b\u304c\u3042\u308a\u307e\u3059\u3002<<A<<[CHANGED 2019/01/10]",
@@ -4044,7 +4044,7 @@
               {
                 "message": {
                   "": "And we don't regret it! My wife still has some trouble getting used to our traditions, but she always wanted to live somewhere calm and peaceful.",
-                  "en_US": "E nós não nos arrependemos! Minha esposa ainda tem alguns problemas para se acostumar com nossas tradições, mas sempre quis viver em um lugar calmo e pacífico.",
+                  "en_US": "E não nos arrependemos! Minha esposa ainda enfrenta alguns desafios para se adaptar às nossas tradições, mas sempre sonhou em viver num lugar calmo e pacífico.",
                   "de_DE": "Und wir bereuen es nicht! Meine Frau muss sich noch an die Traditionen gew\u00f6hnen, aber sie wollte schon immer an einem ruhigen und friedlichen Ort leben.",
                   "zh_CN": "\u5bf9\u6b64\u6211\u4eec\u6beb\u4e0d\u540e\u6094\uff01\u6211\u7684\u59bb\u5b50\u5728\u63a5\u7eb3\u6211\u4eec\u7684\u4e60\u4fd7\u4e0a\u8fd8\u662f\u6709\u70b9\u56f0\u96be\uff0c\u4f46\u5979\u4e5f\u4e00\u76f4\u5f88\u60f3\u4f4f\u5728\u8fd9\u6837\u5b81\u9759\u5b89\u8be6\u7684\u5730\u65b9\u3002<<A<<[CHANGED 2018/09/02]",
                   "ja_JP": "\u5f8c\u6094\u306f\u3057\u3066\u3044\u306a\u3044\u3088\uff01\u59bb\u306f\u3046\u3061\u306e\u4f1d\u7d71\u306b\n\u306a\u3058\u3080\u306e\u306b\u307e\u3060\u82e6\u52b4\u3057\u3066\u3044\u308b\u304c\u3001\n\u9759\u304b\u3067\u5e73\u548c\u306a\u5834\u6240\u3067\u66ae\u3089\u3059\u3053\u3068\u306b\n\u524d\u304b\u3089\u61a7\u308c\u3066\u3044\u305f\u3089\u3057\u3044\u304b\u3089\u306a\u3002<<A<<[CHANGED 2018/09/02]",
@@ -4102,7 +4102,7 @@
             "entity": { "global": true, "name": "sitTalk2" },
             "text": {
               "": "Because they are actually useful! In most games they are purely decorative and you can't really sit on them.",
-              "en_US": "Eles são realmente úteis! Na maioria dos jogos eles são puramente decorativos e não se pode realmente sentar neles.",
+              "en_US": "Eles são realmente úteis! Na maioria dos jogos, são só decorativos e você nem pode se sentar neles de verdade.",
               "langUid": 606,
               "ko_KR": "\uc65c\ub0d0\ud558\uba74 \uc9c4\uc9dc\ub85c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc73c\ub2c8\uae4c! \ub300\ubd80\ubd84 \uac8c\uc784\uc5d0\uc11c\ub294 \uadf8\uc800 \uafb8\ubbf8\ub294 \uc6a9\ub3c4\ub77c \uadf8 \uc704\uc5d0 \uc549\uc744 \uc218 \uc5c6\uac70\ub4e0.<<A<<[CHANGED 2020/07/08]",
               "zh_CN": "\u56e0\u4e3a\u677f\u51f3\u771f\u7684\u6709\u7528\uff01\u5176\u4ed6\u6e38\u620f\u91cc\u57fa\u672c\u90fd\u662f\u7528\u6765\u505a\u88c5\u9970\u7684\uff0c\u4e5f\u4e0d\u80fd\u62ff\u6765\u5750\u3002<<A<<[CHANGED 2020/07/08]",
@@ -4115,7 +4115,7 @@
             "entity": { "global": true, "name": "sitTalk1" },
             "text": {
               "": "Yeah, it's true that avatars allow proper sitting.",
-              "en_US": "Sim, isso mesmo, você pode realmente sentar com avatares.",
+              "en_US": "Sim, é possível sentar nesse jogo.",
               "langUid": 607,
               "ko_KR": "\ub9de\uc544, \uc5ec\uae30\uc11c\ub294 \uc544\ubc14\ud0c0\uac00 \uc704\uc5d0 \uc549\ub294 \uac8c \uac00\ub2a5\ud558\uc9c0.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u55ef\uff0c\u6211\u4eec\u7684\u865a\u62df\u4eba\u7269\u786e\u5b9e\u53ef\u4ee5\u5750\u4e0b\u3002<<A<<[CHANGED 2019/01/10]",
@@ -4154,7 +4154,7 @@
             "entity": { "global": true, "name": "sitTalk2" },
             "text": {
               "": "I feel like everyone in this game is trying to sit at the strangest place they can find.",
-              "en_US": "Acho que todos nesse jogo estão tentando sentar no lugar mais estranho que podem encontrar.",
+              "en_US": "Acho que todo mundo nesse jogo está tentando sentar no lugar mais estranho que conseguir achar.",
               "langUid": 610,
               "ko_KR": "\uc774 \uac8c\uc784 \uc548\uc5d0 \uc788\ub294 \uc0ac\ub78c\ub4e4\uc740 \uc804\ubd80 \uc774\uc0c1\ud55c \uacf3\uc5d0 \uc549\uace0 \uc2f6\uc5b4 \ud558\ub294 \uac83 \uac19\uac70\ub4e0.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u6211\u89c9\u5f97\u8fd9\u6e38\u620f\u91cc\u7684\u6240\u6709\u4eba\u90fd\u4f1a\u627e\u6700\u5947\u602a\u7684\u5730\u65b9\u5750\u3002<<A<<[CHANGED 2019/01/10]",
@@ -4180,7 +4180,7 @@
             "entity": { "global": true, "name": "sitTalk2" },
             "text": {
               "": "Right...\\. But I was thinking of someone else.",
-              "en_US": "Sim...\\. Mas eu estava pensando em outra pessoa.",
+              "en_US": "Sim...\\. Mas eu estava falando de outra pessoa...",
               "langUid": 612,
               "ko_KR": "\uadf8\uac83\ub3c4 \uadf8\ub7f0\ub370...\\. \ub09c \ub2e4\ub978 \uc0ac\ub78c\uc744 \ub9d0\ud55c \uac70\uc57c.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u55ef...\\.\u4e0d\u8fc7\u6211\u60f3\u5230\u7684\u662f\u53e6\u4e00\u4e2a\u4eba\u3002<<A<<[CHANGED 2019/01/10]",

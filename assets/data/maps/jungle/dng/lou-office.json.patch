@@ -624,7 +624,7 @@
               {
                 "message": {
                   "": "Simple and clean energy. Quite brilliant if I do say so myself.",
-                  "en_US": "Energia simples e limpa. Bastante brilhante se me permite dizer.",
+                  "en_US": "Energia simples e limpa. De fato, um projeto brilhante.",
                   "langUid": 9,
                   "ja_JP": "\u30b7\u30f3\u30d7\u30eb\u3067\u30af\u30ea\u30fc\u30f3\u306a\u30a8\u30cd\u30eb\u30ae\u30fc\u3002\n\u81ea\u5206\u3067\u8a00\u3046\u306e\u3082\u306a\u3093\u3060\u3051\u3069\u3001\n\u3068\u3066\u3082\u898b\u4e8b\u306a\u30b7\u30b9\u30c6\u30e0\u3067\u306d\u3002<<A<<[CHANGED 2017/12/11]",
                   "ko_KR": "\uac04\ub2e8\uba85\ub8cc\ud55c \uc5d0\ub108\uc9c0. \uc774\ub807\uac8c \ub9d0\ud558\ub2e4\ub2c8 \ub098 \ub108\ubb34 \ub611\ub611\ud55c \uac83 \uac19\uc544.<<A<<[CHANGED 2017/12/12]",
@@ -979,7 +979,7 @@
                 {
                   "message": {
                     "": "Meaning they SHOULD behave like Shokats. But they don't.",
-                    "en_US": "O que significa que eles DEVEM se comportar como Shokats. Mas eles não se comportam.",
+                    "en_US": "O que significa que eles DEVERIAM se comportar como Shokats. Mas eles não se comportam.",
                     "langUid": 22,
                     "ja_JP": "\u3064\u307e\u308a\u3001\u9023\u4e2d\u306f\u30b7\u30e7\u30fc\u30ad\u30e3\u30c3\u30c8\u3068\n\u540c\u3058\u3075\u308b\u307e\u3044\u3092\u3059\u308b\u306f\u305a\u306a\u3093\u3060\u3002\n\u3067\u3082\u3001\u305d\u3046\u306f\u306a\u3089\u306a\u304b\u3063\u305f\u3002<<A<<[CHANGED 2018/09/19]",
                     "ko_KR": "\uadf8 \ub9d0\uc740, \uadf8\ub4e4\ub3c4 \uc1fc\ucea3\uacfc \ub611\uac19\uc774 \ud589\ub3d9\ud574\uc57c\ub9cc \ud55c\ub2e4\ub294 \uac70\uc57c. \ud558\uc9c0\ub9cc \uadf8\ub807\uc9c0 \uc54a\uc544.<<A<<[CHANGED 2018/09/19]",
@@ -1015,7 +1015,7 @@
                 {
                   "message": {
                     "": "This got me thinking: \\c[3]Where have I seen this before?\\c[0]",
-                    "en_US": "Isto me fez pensar: \\c[3]Onde eu já vi isso antes?\\c[0]",
+                    "en_US": "Então eu pensei: \\c[3]Onde eu já vi isso antes?\\c[0]",
                     "langUid": 24,
                     "ja_JP": "\u305d\u3053\u3067\u79c1\u306f\u8003\u3048\u305f\u3002\n\\c[3]\u3069\u3053\u304b\u3067\u4f3c\u305f\u3088\u3046\u306a\u73fe\u8c61\u3092\n\u898b\u306a\u304b\u3063\u305f\u3063\u3051\uff1f\\c[0]\u3063\u3066\u306d\u3002<<A<<[CHANGED 2018/09/19]",
                     "ko_KR": "\uadf8\ub798\uc11c \uc774\ub7f0 \uc0dd\uac01\uc774 \ub4e4\uc5c8\uc9c0. \\c[3]\ub0b4\uac00 \uc774\uac78 \uc5b4\ub514\uc11c \ubd24\ub354\ub77c?\\c[0]\ud558\uace0 \ub9d0\uc774\uc57c.<<A<<[CHANGED 2018/09/19]",
@@ -1033,7 +1033,7 @@
                 {
                   "message": {
                     "": "Well, the \\c[3]Bergen Mine\\c[0], of course!",
-                    "en_US": "Bem, a \\c[3]Mina de Bergen\\c[0], é claro!",
+                    "en_US": "Na \\c[3]Mina de Bergen\\c[0], é claro!",
                     "langUid": 25,
                     "ja_JP": "\u305d\u3046\u3001\u3082\u3061\u308d\u3093\n\\c[3]\u30d9\u30eb\u30b2\u30f3\u306e\u9271\u5c71\\c[0]\u3055\uff01<<A<<[CHANGED 2021/05/22]",
                     "ko_KR": "\uadf8\uac74 \ubc14\ub85c \\c[3]\ubca0\ub974\uac90 \uad11\uc0b0\\c[0]\uc774\uc5c8\uc5b4!<<A<<[CHANGED 2017/12/12]",
@@ -1255,7 +1255,7 @@
                 {
                   "message": {
                     "": "Ah, there you are!",
-                    "en_US": "Ah, aí está você!",
+                    "en_US": "Ah, achei!",
                     "langUid": 35,
                     "ja_JP": "\u3042\u3042\u3001\u3042\u3063\u305f\u3042\u3063\u305f\uff01<<A<<[CHANGED 2017/12/11]",
                     "ko_KR": "\uc544, \uc5ec\uae30 \uc788\ub2e4!<<A<<[CHANGED 2017/12/12]",
@@ -1481,7 +1481,7 @@
               {
                 "message": {
                   "": "Please come back and report your findings once you do, okay?",
-                  "en_US": "Por favor, volte e informe suas descobertas assim que conseguir, certo?",
+                  "en_US": "Entre em contato comigo quando encontrar algo, combinado?",
                   "zh_CN": "\u6709\u65b0\u6d88\u606f\u4e86\u8bf7\u8bb0\u5f97\u56de\u6765\u544a\u8bc9\u6211\uff01<<A<<[CHANGED 2017/12/14]",
                   "ja_JP": "\u306a\u306b\u304b\u898b\u3064\u3051\u305f\u3089\u3001\u5831\u544a\u3057\u306b\n\u623b\u3063\u3066\u304d\u3066\u304a\u304f\u308c\u3088\u3002\u3044\u3044\u304b\u3044\uff1f<<A<<[CHANGED 2017/12/14]",
                   "ko_KR": "\ubc1c\uacac\ud558\uba74 \ub098\uc5d0\uac8c \ub3cc\uc544\uc640\uc11c \ubcf4\uace0\ud558\ub294 \uac70 \uc78a\uc9c0 \ub9c8, \uc54c\uc558\uc9c0?<<A<<[CHANGED 2017/12/14]",
@@ -1552,7 +1552,7 @@
                 {
                   "message": {
                     "": "Well, hello, Seeker. You have been gone quite a while.",
-                    "en_US": "Bem, olá, Seeker. Você esteve ausente por um bom tempo.",
+                    "en_US": "Olá, Seeker. Você esteve ausente por um bom tempo.",
                     "de_DE": "Ah, hallo, Seeker. Du warst recht lange fort.<<A<<[CHANGED 2021/05/22]",
                     "zh_CN": "\u4f60\u597d\uff0c\u63a2\u7d22\u8005\u3002\u4f60\u5df2\u7ecf\u53bb\u4e86\u597d\u4e45\u3002<<A<<[CHANGED 2021/05/22]",
                     "ja_JP": "\u3084\u3042\u3053\u3093\u306b\u3061\u306f\u3001\u63a2\u7d22\u8005\u3055\u3093\u3002\n\u3057\u3070\u3089\u304f\u3076\u308a\u3060\u306d\u3002<<A<<[CHANGED 2021/05/22]",
@@ -1588,7 +1588,7 @@
                 {
                   "message": {
                     "": "Somehow the Mayor thinks it's necessary... As if I needed it.",
-                    "en_US": "De alguma forma o prefeito acha necessário... Como se eu precisasse.",
+                    "en_US": "O prefeito achou que é necessário... Mas eu não preciso disso.",
                     "de_DE": "Aber der B\u00fcrgermeister glaubt, dass es n\u00f6tig w\u00e4re... Als ob ich das n\u00f6tig h\u00e4tte.",
                     "zh_CN": "\u4e0d\u77e5\u9053\u4e3a\u4ec0\u4e48\uff0c\u5e02\u957f\u8ba4\u4e3a\u6211\u4f3c\u4e4e\u9700\u8981\u4fdd\u62a4\u3002<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u3069\u3046\u3044\u3046\u308f\u3051\u304b\u3001\u5e02\u9577\u306f\u30dc\u30c7\u30a3\u30fc\u30ac\u30fc\u30c9\u304c\n\u5fc5\u8981\u3060\u3068\u601d\u3063\u305f\u307f\u305f\u3044\u3067\u306d...\u3002\n\u5225\u306b\u5fc5\u8981\u3068\u306f\u3057\u3066\u306a\u3044\u3093\u3060\u3051\u3069\u3055\u3002<<A<<[CHANGED 2018/09/19]",
@@ -1708,7 +1708,7 @@
                 {
                   "message": {
                     "": "It was doing something to a part of the track?",
-                    "en_US": "Ela estava fazendo algo a uma parte da trilha?",
+                    "en_US": "E ela estava danificando uma parte da trilha?",
                     "de_DE": "Es hat sich an einem Teil des Pfades zu schaffen gemacht?",
                     "zh_CN": "\u4ed6\u5728\u5bf9\u5148\u7956\u4e4b\u8def\u505a\u67d0\u4e9b\u4e8b\uff1f<<A<<[CHANGED 2018/03/14]",
                     "ja_JP": "\u305d\u3044\u3064\u304c\u8ecc\u8de1\u306b\u5bfe\u3057\u3066\n\u306a\u306b\u304b\u3057\u3066\u3044\u305f\u3060\u3063\u3066\uff1f<<A<<[CHANGED 2018/03/14]",
@@ -1726,7 +1726,7 @@
                 {
                   "message": {
                     "": "A pole appeared and repaired part of the temple?",
-                    "en_US": "Apareceu um pólo e reparou parte do templo?",
+                    "en_US": "No fim, apareceu um pólo e reparou parte do templo?",
                     "de_DE": "Ein Stab erschien und reparierte diesen Teil anschlie\u00dfend?",
                     "zh_CN": "\u8fd8\u51fa\u73b0\u4e86\u4e00\u53ea\u67f1\u5b50\u602a\uff0c\u5728\u7ef4\u4fee\u795e\u5e99\uff1f<<A<<[CHANGED 2018/03/14]",
                     "ja_JP": "\u68d2\u304c\u73fe\u308c\u3066\u795e\u6bbf\u306e\u4e00\u90e8\u3092\n\u4fee\u5fa9\u3057\u3066\u3044\u305f\uff1f<<A<<[CHANGED 2018/03/14]",
@@ -1792,7 +1792,7 @@
                 {
                   "message": {
                     "": "Could it be that these poles were triggered as a certain counter-measure? ",
-                    "en_US": "Será que esses pólos foram acionados como uma certa contra-medida?",
+                    "en_US": "Será que esses pólos foram acionados como uma medida de defesa?",
                     "de_DE": "K\u00f6nnte es sein, dass diese St\u00e4be als eine Art Abwehrreaktion beschworen wurden?",
                     "zh_CN": "\u4f1a\u4e0d\u4f1a\u662f\u56e0\u4e3a\u89e6\u53d1\u4e86\u67d0\u79cd\u4fdd\u62a4\u7cfb\u7edf\u624d\u5bfc\u81f4\u8fd9\u4e9b\u67f1\u5b50\u602a\u51fa\u73b0\u7684\uff1f<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u3072\u3087\u3063\u3068\u3057\u3066\u305d\u306e\u68d2\u305f\u3061\u306f\u3001\n\u7279\u5b9a\u306e\u6761\u4ef6\u4e0b\u3067\u306e\u5bfe\u5fdc\u7b56\u3068\u3057\u3066\n\u8d77\u52d5\u3057\u305f\u3093\u3058\u3083\u306a\u3044\u304b\u3044\uff1f<<A<<[CHANGED 2018/09/19]",
@@ -1828,7 +1828,7 @@
                 {
                   "message": {
                     "": "I analyzed the data I got from the poles you fought here. ",
-                    "en_US": "Analisei os dados que obtive dos pólos que vocês combateram aqui.",
+                    "en_US": "Analisei os dados que consegui dos pólos que você enfrentou aqui.",
                     "de_DE": "Ich habe die Daten der St\u00e4be analysiert, die du hier bek\u00e4mpft hast.",
                     "zh_CN": "\u6211\u5206\u6790\u4e86\u8ddf\u4f60\u6218\u6597\u7684\u67f1\u5b50\u602a\u7684\u6570\u636e\u3002<<A<<[CHANGED 2018/03/14]",
                     "ja_JP": "\u3042\u3093\u305f\u304c\u3053\u3053\u3067\u6226\u3063\u305f\n\u68d2\u306e\u30c7\u30fc\u30bf\u3092\u5206\u6790\u3057\u3066\u307f\u305f\u3093\u3060\u3002<<A<<[CHANGED 2018/03/14]",
@@ -1862,7 +1862,7 @@
                 {
                   "message": {
                     "": "These poles act very much like a form of debugging process.",
-                    "en_US": "Estes pólos agem de uma forma de depuração.",
+                    "en_US": "Esses pólos funcionam quase como um processo de depuração.",
                     "de_DE": "Diese St\u00e4be agieren im Grunde wie ein Fehlersuchmechanismus.",
                     "zh_CN": "\u8fd9\u4e9b\u67f1\u5b50\u602a\u7684\u884c\u4e3a\u6a21\u5f0f\u5f88\u50cf\u662f\u4e00\u79cdDebug\u7a0b\u5e8f\u3002<<A<<[CHANGED 2018/03/14]",
                     "ja_JP": "\u68d2\u306e\u3075\u308b\u307e\u3044\u306f\n\u30c7\u30d0\u30c3\u30b0\u306e\u30d7\u30ed\u30bb\u30b9\u306b\n\u3059\u3054\u304f\u4f3c\u3066\u308b\u3002<<A<<[CHANGED 2018/03/14]",
@@ -1898,7 +1898,7 @@
                 {
                   "message": {
                     "": "When it can't find a \"problem\", it extends the search by creating more poles. ",
-                    "en_US": "Quando não conseguem encontrar um \"problema\", ampliam a busca, criando mais pólos. ",
+                    "en_US": "Quando não conseguem encontrar um \"problema\", ampliam a busca, criando mais pólos.",
                     "de_DE": "Wenn es kein \"Problem\" finden kann, erweitert es seine Suche, indem es mehr St\u00e4be generiert.<<A<<[CHANGED 2021/05/22]",
                     "zh_CN": "\u5982\u679c\u5b83\u4eec\u627e\u5230\u4e86\u95ee\u9898\uff0c\u5b83\u4eec\u5c31\u4f1a\u521b\u9020\u66f4\u591a\u7684\u67f1\u5b50\u602a\u8fdb\u884c\u8fdb\u4e00\u6b65\u7684\u641c\u7d22\u3002<<A<<[CHANGED 2021/05/22]",
                     "ja_JP": "\u3082\u3057\u300c\u554f\u984c\u300d\u304c\u898b\u3064\u304b\u3089\u306a\u304b\u3063\u305f\u3089\u3001\n\u68d2\u3092\u3055\u3089\u306b\u5897\u3084\u3059\u3053\u3068\u3067\n\u63a2\u3059\u7bc4\u56f2\u3092\u5e83\u3052\u308b\u306e\u3055\u3002<<A<<[CHANGED 2021/05/22]",
@@ -1934,7 +1934,7 @@
                 {
                   "message": {
                     "": "Which isn't too far fetched, judging from our experience with the mine...",
-                    "en_US": "O que não é muito rebuscado, a julgar pela nossa experiência com a mina.",
+                    "en_US": "O que não é tão improvável, a julgar pela nossa experiência com a mina.",
                     "de_DE": "Was nebenbei bemerkt nicht so weit hergeholt ist, unserer Erfahrung mit der Mine nach zu urteilen...",
                     "zh_CN": "\u6839\u636e\u77ff\u5751\u76f8\u5173\u7684\u4e8b\u4ef6\uff0c\u8fd9\u4e0d\u96be\u731c\u5230...<<A<<[CHANGED 2018/09/19]",
                     "ja_JP": "\u9271\u5c71\u3067\u8d77\u304d\u305f\u3053\u3068\u3092\u8003\u3048\u308c\u3070\u3001\n\u305d\u3046\u3042\u308a\u3048\u306a\u3044\u8a71\u3067\u3082\u306a\u3044...<<A<<[CHANGED 2018/09/19]",
@@ -1952,7 +1952,7 @@
                 {
                   "message": {
                     "": "Ironic that the actual cause was right in front of them. ",
-                    "en_US": "Irônico que a causa real estivesse bem na frente deles.",
+                    "en_US": "É irônico que a causa real estivesse bem na frente deles.",
                     "de_DE": "Ironischerweise stand die tats\u00e4chliche Ursache genau vor ihrer Nase.",
                     "zh_CN": "\u8bbd\u523a\u7684\u662f\uff0c\u5b83\u4eec\u6ca1\u53d1\u73b0\u771f\u6b63\u7684\u95ee\u9898\u5176\u5b9e\u5c31\u5728\u5b83\u4eec\u773c\u76ae\u5b50\u5e95\u4e0b\u3002<<A<<[CHANGED 2018/03/14]",
                     "ja_JP": "\u8ecc\u8de1\u306e\u76ee\u306e\u524d\u306b\u672c\u5f53\u306e\u539f\u56e0\u304c\n\u3042\u3063\u305f\u3068\u306f\u76ae\u8089\u306a\u8a71\u3060\u306d\u3002<<A<<[CHANGED 2018/03/14]",
@@ -2001,7 +2001,7 @@
                 {
                   "message": {
                     "": "Well, anyway. Since no more poles are spawning I think we can assume we \"calmed\" the track.",
-                    "en_US": "Bem, de qualquer forma. Já que não há mais pólos surgindo, acho que podemos assumir que \"acalmamos\" a trilha.",
+                    "en_US": "Bom, já que os pólos não estão mais aparecendo, acho que podemos concluir que \"acalmamos\" a trilha.",
                     "de_DE": "Sei's drum. Da keine weiteren St\u00e4be generiert wurden, k\u00f6nnen wir annehmen, dass wir den Pfad \"beruhigt\" haben.",
                     "zh_CN": "\u4e0d\u8fc7\u5462\u3002\u65e2\u7136\u73b0\u5728\u6ca1\u6709\u51fa\u73b0\u66f4\u591a\u7684\u67f1\u5b50\u602a\uff0c\u90a3\u4e48\u6211\u4eec\u6709\u7406\u7531\u8ba4\u4e3a\u5148\u7956\u4e4b\u8def\u5df2\u7ecf\u201c\u5e73\u9759\u201d\u4e0b\u6765\u4e86\u3002<<A<<[CHANGED 2018/03/14]",
                     "ja_JP": "\u307e\u3042\u3001\u305d\u308c\u306f\u7f6e\u3044\u3068\u3044\u3066\u3002\n\u3082\u3046\u68d2\u304c\u51fa\u3066\u3053\u306a\u3044\u3063\u3066\u3053\u3068\u306f\u3001\n\u8ecc\u8de1\u3092\u300c\u306a\u3060\u3081\u308b\u300d\u3053\u3068\u304c\n\u3067\u304d\u305f\u3063\u3066\u3053\u3068\u3060\u3068\u601d\u3046\u306d\u3002<<A<<[CHANGED 2018/03/14]",
@@ -2019,7 +2019,7 @@
                 {
                   "message": {
                     "": "Still, I will make my way there now to make sure my assumptions are correct.",
-                    "en_US": "Ainda assim, irei para lá agora para me certificar de que minhas suposições estejam corretas.",
+                    "en_US": "Mesmo assim, irei para lá agora para me certificar de que minhas suposições estejam corretas.",
                     "de_DE": "Ich werde mich jetzt trotzdem auf den Weg dorthin machen, um meine Vermutung zu best\u00e4tigen.",
                     "zh_CN": "\u6211\u56de\u53bb\u5b9e\u5730\u770b\u770b\u6211\u7684\u5047\u8bbe\u662f\u4e0d\u662f\u6b63\u786e\u3002<<A<<[CHANGED 2018/03/14]",
                     "ja_JP": "\u305d\u308c\u3067\u3082\u3001\u5b9f\u969b\u306b\u305d\u3053\u306b\u884c\u3063\u3066\u307f\u3066\u3001\n\u79c1\u306e\u4eee\u8aac\u304c\u6b63\u3057\u3044\u304b\u78ba\u304b\u3081\u3066\u304f\u308b\u3088\u3002<<A<<[CHANGED 2018/03/14]",
@@ -2055,7 +2055,7 @@
                 {
                   "message": {
                     "": "Probably take Vince along to \"protect\" me from the evil track.",
-                    "en_US": "Provavelmente vou levar Vince comigo para me \"proteger\" da trilha do mal.",
+                    "en_US": "Talvez eu leve Vince comigo para me \"proteger\" da trilha do mal.",
                     "de_DE": "Ich nehme Vince wahrscheinlich mit, damit er mich vor dem b\u00f6sen Pfad \"besch\u00fctzen\" kann.",
                     "zh_CN": "\u8fd9\u8d9f\u6216\u8bb8\u5f97\u5e26\u4e0a\u6587\u65af\uff0c\u6211\u5f97\u9632\u8303\u4e00\u4e0b\u8fd9\u90aa\u6076\u7684\u5148\u7956\u4e4b\u8def\u3002<<A<<[CHANGED 2018/03/14]",
                     "ja_JP": "\u90aa\u60aa\u306a\u8ecc\u8de1\u304b\u3089\u79c1\u3092\u300c\u5b88\u308b\u300d\u305f\u3081\u306b\u3001\n\u30f4\u30a3\u30f3\u30b9\u3092\u9023\u308c\u3066\u3044\u304f\u3068\u3059\u308b\u304b\u306d\u3002<<A<<[CHANGED 2018/03/14]",
@@ -2193,7 +2193,7 @@
                 {
                   "task": {
                     "": "You can now finally access the \\c[3]Grand Krys'kajo\\c[0] for real!",
-                    "en_US": "Agora de fato, você pode finalmente ter acesso ao \\c[3]Grand Krys'kajo\\c[0]!",
+                    "en_US": "Agora de fato, você pode finalmente entrar no \\c[3]Grand Krys'kajo\\c[0]!",
                     "langUid": 895,
                     "zh_CN": "\u4f60\u73b0\u5728\u53ef\u4ee5\u524d\u5f80\\c[3]\u5927\u51ef\u65af\u5361\u7f57\\c[0]\u4e86\uff01<<A<<[CHANGED 2018/03/14]",
                     "ko_KR": "\uc774\uc81c \ub4dc\ub514\uc5b4 \\c[3]\uadf8\ub79c\ub4dc \ud06c\ub9ac\uc2a4\uce74\uc870\\c[0]\uc5d0 \ub4e4\uc5b4\uac08 \uc218 \uc788\uc2b5\ub2c8\ub2e4!<<A<<[CHANGED 2018/03/14]",

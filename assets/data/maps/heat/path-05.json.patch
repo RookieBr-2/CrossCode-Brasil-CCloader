@@ -3939,7 +3939,7 @@
           {
             "text": {
               "": "\\c[1]QUEST FAILED\\c[0]\n\nRestart task to try again",
-              "en_US": "\\c[1]FALHA NA QUEST\\c[0]\n\nRecomece a tarefa para tentar novamente",
+              "en_US": "\\c[1]FALHA NA MISSÂO\\c[0]\n\nRecomece a tarefa para tentar novamente",
               "de_DE": "\\c[1]QUEST GESCHEITERT\\c[0]\n\nVersuch's nochmal!",
               "fr_FR": "fr_FR",
               "langUid": 176,
@@ -9241,7 +9241,7 @@
           {
             "message": {
               "": "This is Kit!",
-              "en_US": "Isso é a Kit!",
+              "en_US": "Sou eu! Kit!",
               "langUid": 731,
               "ko_KR": "\ub098 \ud0b7\uc774\uc57c!<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u6211\u662f\u57fa\u7279\uff01",
@@ -9256,7 +9256,7 @@
           {
             "message": {
               "": "I see you arrived in \\c[3]Barren Arcs\\c[0]!",
-              "en_US": "Vejo que você chegou nos \\c[3]Arcos Áridos\\c[0]!",
+              "en_US": "Vi que você chegou nos \\c[3]Arcos Áridos\\c[0]!",
               "langUid": 732,
               "ko_KR": "\\c[3]\ubd88\ubaa8\uc758 \ud638\\c[0]\uc5d0 \ub3c4\ucc29\ud588\ub098 \ubcf4\ub124!<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u6211\u5728\\c[3]\u8d2b\u7620\u62f1\u5ca9\\c[0]\u770b\u5230\u4f60\u4e86\uff01",
@@ -9286,7 +9286,7 @@
           {
             "message": {
               "": "Okay, first look for a \\c[3]lonely pillar\\c[0] in a \\c[3]nearby chasm\\c[0]...",
-              "en_US": "Certo, primeiro procure por um \\c[3]pilar isolado\\c[0] em um \\c[3]abismo próximo\\c[0]...",
+              "en_US": "Para começar, encontre um \\c[3]pilar isolado\\c[0] em um \\c[3]abismo próximo\\c[0]...",
               "langUid": 738,
               "ko_KR": "\uc88b\uc544, \uba3c\uc800 \\c[3]\uadfc\ucc98\uc5d0 \uc788\ub294 \ud2c8\\c[0]\uc5d0 \\c[3]\ub2e8\uc77c \uae30\ub465\\c[0]\uc774 \uc788\ub098 \ubd10\ubd10...<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u597d\uff0c\u4f60\u5148\u5230\\c[3]\u9644\u8fd1\u7684\u5ce1\u8c37\\c[0]\u627e\u5230\\c[3]\u72ec\u67f1\\c[0]...",
@@ -9301,7 +9301,7 @@
           {
             "message": {
               "": "From there, just head \\c[3]straight to the south\\c[0]!",
-              "en_US": "De lá, basta ir \\c[3]direto para o sul\\c[0]",
+              "en_US": "De lá, vá \\c[3]direto para o sul\\c[0].",
               "langUid": 734,
               "ko_KR": "\uac70\uae30\uc11c \\c[3]\ub0a8\ucabd\uc73c\ub85c \ucb49\\c[0] \uac00\uba74 \ub3fc!<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u7136\u540e\u4ece\u90a3\u91cc\\c[3]\u5411\u5357\u76f4\u8d70\\c[0]!",
@@ -9366,7 +9366,7 @@
               {
                 "message": {
                   "": "Oh... and also please make sure you are \\c[3]by yourself\\c[0].",
-                  "en_US": "Oh... e também, por favor, certifique-se de que você vá \\c[3]sozinha\\c[0].",
+                  "en_US": "Ah, e não se esqueça de ir \\c[3]sozinha\\c[0].",
                   "de_DE": "Oh... und sorge bitte daf\u00fcr, dass du \\c[3]alleine\\c[0] kommst.",
                   "zh_CN": "\u54e6\u5bf9\u4e86\uff0c\u8bf7\u786e\u4fdd\u4f60\u662f\\c[3]\u4e00\u4e2a\u4eba\\c[0]\u3002",
                   "ja_JP": "\u3042\u3042...\u305d\u308c\u3068\u3001\u304a\u9858\u3044\u3060\u304b\u3089\n\\c[3]\u3042\u306a\u305f\u3072\u3068\u308a\u3060\u3051\\c[0]\u3067\u6765\u3066\u306d\u3002<<A<<[CHANGED 2019/04/16]",
@@ -9381,7 +9381,7 @@
               {
                 "message": {
                   "": "We need to keep this confidential!",
-                  "en_US": "Precisamos manter isto em sigilo!",
+                  "en_US": "Precisamos manter isto em segredo!",
                   "de_DE": "Wir m\u00fcssen das f\u00fcr uns behalten!",
                   "zh_CN": "\u8fd9\u4e8b\u5f97\u4fdd\u5bc6\uff01",
                   "ja_JP": "\u3053\u308c\u306f\u79d8\u5bc6\u306b\u3057\u3066\u304a\u304b\u306a\u304d\u3083\n\u3044\u3051\u306a\u3044\u304b\u3089\uff01<<A<<[CHANGED 2019/04/16]",
@@ -9418,7 +9418,7 @@
           {
             "message": {
               "": "Lea, again, are you really sure about this?",
-              "en_US": "Lea, novamente, você tem certeza de que quer mesmo fazer isso?",
+              "en_US": "Lea, você tem certeza de que quer mesmo fazer isso?",
               "langUid": 810,
               "zh_CN": "\u8389\u4e9a\uff0c\u518d\u786e\u8ba4\u4e00\u6b21\uff0c\u4f60\u771f\u7684\u8981\u8fd9\u4e48\u505a\u5417\uff1f",
               "ko_KR": "\ub808\uc544, \ub2e4\uc2dc \ud55c\ubc88 \ubb3c\uc5b4\ubcfc\uac8c. \uc815\ub9d0\ub85c \uad1c\ucc2e\uaca0\uc5b4?<<A<<[CHANGED 2019/01/31]",
@@ -9615,7 +9615,7 @@
               {
                 "message": {
                   "": "Once you do that, I'll give you instructions to find exactly the \\c[3]right spot\\c[0]!",
-                  "en_US": "Quando fizer isso, eu lhe darei instruções para encontrar o \\c[3]lugar certo\\c[0].",
+                  "en_US": "Depois que você fizer isso, eu te darei as instruções para encontrar o \\c[3]lugar certo\\c[0].",
                   "langUid": 771,
                   "ko_KR": "\uadf8\ub7f0 \ub2e4\uc74c, \\c[3]\uc815\ud655\ud55c \uc7a5\uc18c\\c[0]\uac00 \uc5b4\ub514\uc5d0 \uc788\ub294\uc9c0 \uac00\ub294 \uae38\uc744 \uc54c\ub824\uc904\uac8c!<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u7b49\u5230\u4e86\\c[3]\u5730\u65b9\\c[0]\u6211\u4f1a\u7ed9\u4f60\u6307\u4ee4\u7684!",
@@ -10042,7 +10042,7 @@
               {
                 "message": {
                   "": "There you are!",
-                  "en_US": "Aí está você!",
+                  "en_US": "Oi Lea!",
                   "langUid": 743,
                   "ko_KR": "\uc654\ub124!<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u4f60\u6765\u4e86\uff01",
@@ -10073,7 +10073,7 @@
               {
                 "message": {
                   "": "Ha...\\. you look confused.\\. That makes sense.",
-                  "en_US": "Ha...\\. você parece confusa.\\. Isso faz sentido.",
+                  "en_US": "Ha...\\. você parece confusa...",
                   "langUid": 745,
                   "ko_KR": "\ud558...\\. \ud63c\ub780\uc2a4\ub7ec\uc6b4 \uc5bc\uad74\uc778\uac78.\\. \uadf8\ub7f4 \ub9cc\ub3c4 \ud558\uc9c0.<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u54c8...\\.\u4f60\u770b\u4e0a\u53bb\u4e00\u8138\u61f5\u903c\u554a\u3002\\.\u4e5f\u4e0d\u602a\u4f60\u3002",
@@ -10088,7 +10088,7 @@
               {
                 "message": {
                   "": "You don't see avatars like mine around here that often, do you?",
-                  "en_US": "Você não vê um avatar como o meu por aí com tanta frequência, não é mesmo?",
+                  "en_US": "Não é todo dia que você vê um avatar como o meu por aí, não é mesmo?",
                   "langUid": 746,
                   "ko_KR": "\uc5ec\uae30\uc11c \ub098 \uac19\uc740 \uc544\ubc14\ud0c0\ub294 \ubcf8 \uc801\uc774 \uac70\uc758 \uc5c6\uc73c\ub2c8\uae4c, \uadf8\ub807\uc9c0?<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u8fd9\u91cc\u5f88\u5c11\u89c1\u5230\u6211\u8fd9\u6837\u7684\u865a\u62df\u4eba\u7269\u5427\u3002",
@@ -10118,7 +10118,7 @@
               {
                 "message": {
                   "": "Well...\\. there are some tricks you can use to get an avatar like this.",
-                  "en_US": "Bem...\\. tem alguns truques que você pode usar para conseguir um avatar como esse.",
+                  "en_US": "Você pode usar alguns truques para conseguir um avatar como esse.",
                   "langUid": 748,
                   "ko_KR": "\ubb50...\\. \uc18d\uc784\uc218\ub97c \uc0ac\uc6a9\ud558\uba74 \ub098 \uac19\uc740 \uc544\ubc14\ud0c0\uac00 \ub420 \uc218 \uc788\uc5b4.<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u5176\u5b9e...\\.\u7528\u67d0\u79cd\u65b9\u6cd5\u5c31\u80fd\u628a\u865a\u62df\u4eba\u7269\u5f04\u6210\u8fd9\u6837\u3002",
@@ -10133,7 +10133,7 @@
               {
                 "message": {
                   "": "Though this isn't exactly allowed.\\. Which is why I can't just walk around all willy-nilly!",
-                  "en_US": "Embora isso não seja permitido.\\. E é por isso que eu não posso andar desse jeito por aí à vontade!",
+                  "en_US": "Embora isso não seja permitido.\\. Por isso não posso andar desse jeito por aí.",
                   "langUid": 749,
                   "ko_KR": "\ud569\ubc95\uc801\uc778 \uac74 \uc544\ub2c8\uc9c0\ub9cc.\\. \uadf8\ub798\uc11c \ub0b4\uac00 \uc544\ubb34\ub370\ub098 \ub9c9 \ub3cc\uc544\ub2e4\ub2d0 \uc218 \uc5c6\ub294 \uac70\uc57c!<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u4f46\u662f\u4e25\u683c\u6765\u8bf4\u8fd9\u5e76\u4e0d\u7b26\u5408\u89c4\u5219\u3002\\.\u6240\u4ee5\u6211\u4e5f\u4e0d\u80fd\u968f\u5fc3\u6240\u6b32\u7684\u7528\u8fd9\u4e2a\u5f62\u8c61\u5230\u5904\u8d70\u52a8\uff01",
@@ -10181,7 +10181,7 @@
               {
                 "message": {
                   "": "Huh?\\. Why am I using this Avatar then?",
-                  "en_US": "Hã?\\. Por que eu estou usando um Avatar como esse?",
+                  "en_US": "Hã?\\. Por que eu estou usando esse Avatar?",
                   "langUid": 752,
                   "ko_KR": "\uc751?\\. \ub0b4\uac00 \uc65c \uc774 \uc544\ubc14\ud0c0\ub97c \uc0ac\uc6a9\ud558\ub0d0\uace0?<<A<<[CHANGED 2019/05/14]",
                   "zh_CN": "\u55ef\uff1f\\.\u4f60\u662f\u8bf4\u6211\u4e3a\u4ec0\u4e48\u8981\u628a\u81ea\u5df1\u5f04\u6210\u8fd9\u6837\uff1f",
@@ -10211,7 +10211,7 @@
               {
                 "message": {
                   "": "Well...\\. it's cute, don't you think?",
-                  "en_US": "Bem...\\. porque é fofo, você não acha?",
+                  "en_US": "Porque é fofo, você não acha?",
                   "langUid": 773,
                   "ko_KR": "\uc74c...\\. \uadc0\uc5fd\uc796\uc544. \uc544\ub2c8\uc57c?<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u5443...\\.\u4f60\u4e0d\u89c9\u5f97\u8fd9\u6837\u5f88\u53ef\u7231\u5417\uff1f",
@@ -10256,7 +10256,7 @@
               {
                 "message": {
                   "": "There is a reason they don't want modded avatars like this.",
-                  "en_US": "Há uma razão para que eles não queiram avatares modificados como este.",
+                  "en_US": "Existe um motivo para eles não aceitarem avatares modificados como este.",
                   "langUid": 756,
                   "ko_KR": "\ubaa8\ub4dc\ub97c \uc50c\uc6b4 \uc774\ub7f0 \uc544\ubc14\ud0c0\ub97c \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\uac8c \ud558\ub294 \ub370\uc5d0\ub294 \uc774\uc720\uac00 \uc788\uc5b4.<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u4ed6\u4eec\u4e0d\u8ba9\u6211\u4eec\u4fee\u6539\u865a\u62df\u4eba\u7269\u5f62\u8c61\u662f\u6709\u539f\u56e0\u7684\u3002",
@@ -10271,7 +10271,7 @@
               {
                 "message": {
                   "": "The game tends to glitch...\\. just a little bit easier!",
-                  "en_US": "O jogo tende a bugar...\\. com mais facilidade!",
+                  "en_US": "Eles fazem o jogo bugar...\\. com mais facilidade!",
                   "langUid": 757,
                   "ko_KR": "\uac8c\uc784\uc5d0 \ubc84\uadf8\uac00 \ub354...\\. \uc27d\uac8c \uc0dd\uae30\uae30 \ub54c\ubb38\uc774\uc9c0!<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u56e0\u4e3a\u4f1a\u51fa\u73b0bug...\\.\u4e00\u70b9\u70b9\u800c\u5df2\uff01",
@@ -10301,7 +10301,7 @@
               {
                 "message": {
                   "": "Oh yeah, I probably should explain what we're doing today!",
-                  "en_US": "Ah sim, eu devia explicar o que vamos fazer hoje!",
+                  "en_US": "Ah sim, vou o que vamos fazer hoje!",
                   "langUid": 759,
                   "ko_KR": "\uc544, \ub9de\ub2e4. \uc624\ub298 \ubb58 \ud558\uae30 \uc704\ud574 \uc5ec\uae30 \uc628 \uac74\uc9c0 \uc124\uba85\ud574\uc904\uac8c!<<A<<[CHANGED 2019/05/14]",
                   "zh_CN": "\u55ef\uff0c\u6211\u4e5f\u8be5\u89e3\u91ca\u4e00\u4e0b\u4eca\u5929\u6211\u4eec\u8981\u505a\u4ec0\u4e48\u4e86\uff01",
@@ -10316,7 +10316,7 @@
               {
                 "message": {
                   "": "We'll explore some \\c[3]new and unknown territory\\c[0]!",
-                  "en_US": "Nós vamos explorar alguns \\c[3]territórios novos e desconhecidos\\c[0]!",
+                  "en_US": "Nós vamos explorar um \\c[3]território novo e desconhecido\\c[0]!",
                   "langUid": 760,
                   "ko_KR": "\uc6b0\ub9b0 \\c[3]\uc0c8\ub85c\uc6b4 \ubbf8\uac1c\ucc99\uc9c0\\c[0]\ub97c \ud0d0\ud5d8\ud560 \uac70\uc57c!<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u6211\u4eec\u5c06\u8981\u63a2\u7d22\u4e00\u4e9b\\c[3]\u672a\u77e5\u9886\u57df\\c[0]\uff01",
@@ -10361,7 +10361,7 @@
               {
                 "message": {
                   "": "And it's supposed to be quite the experience!",
-                  "en_US": "E é provável que seja uma experiência e tanto!",
+                  "en_US": "E me falaram que vale a pena conferir!",
                   "langUid": 763,
                   "ko_KR": "\uaf64 \uc88b\uc740 \uacbd\ud5d8\uc774 \ub420 \uac70\uc57c!<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u6ca1\u4eba\u89c1\u8fc7\u662f\u4ec0\u4e48\u6837\u7684\uff01",
@@ -10391,7 +10391,7 @@
               {
                 "message": {
                   "": "We'll just have to do a few things...\\. very precisely...\\. to get there.",
-                  "en_US": "Temos que fazer algumas coisas...\\. muito precisas...\\. para chegar lá.",
+                  "en_US": "Temos que fazer umas coisas...\\. muito precisas...\\. para chegar lá.",
                   "langUid": 765,
                   "ko_KR": "\uadf8\uacf3\uc5d0 \uac00\ub824\uba74...\\. \uc544\uc8fc \uc815\ud655\ud558\uac8c...\\. \uba87 \uac00\uc9c0\ub9cc \ud558\uba74 \ub3fc.<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u6211\u4eec\u9700\u8981\u505a\u4e9b...\\.\u51c6\u5907...\\.\u624d\u80fd\u8fdb\u5165\u90a3\u91cc\u3002",
@@ -10550,7 +10550,7 @@
               {
                 "message": {
                   "": "I suggest you just keep running against this wall and I'll give more detailed instructions for your position!",
-                  "en_US": "Sugiro que você continue correndo contra esta parede e eu darei instruções mais detalhadas sobre a sua posição!",
+                  "en_US": "Continue correndo contra esta parede e eu darei instruções mais detalhadas sobre a sua posição!",
                   "langUid": 769,
                   "ko_KR": "\uc774 \ubcbd\uc744 \ud5a5\ud574 \uacc4\uc18d \ub2ec\ub9ac\uba74 \uc774\ub530\uac00 \ub354 \uc790\uc138\ud788 \uc124\uba85\ud574\uc904\uac8c!<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u6211\u5efa\u8bae\u4f60\u5c31\u987a\u7740\u5899\u4e00\u76f4\u8dd1\uff0c\u7b49\u5230\u4e86\u5730\u65b9\u4f1a\u7ed9\u4f60\u8fdb\u4e00\u6b65\u6307\u793a\uff01",
@@ -11279,7 +11279,7 @@
           {
             "message": {
               "": "In case you are wondering...\\. it's due to a little workaround they added in the early days.",
-              "en_US": "Caso você queria saber...\\. Isso é devido a um pouco de trabalho que eles fizeram nos primeiros dias.",
+              "en_US": "Caso você queria saber...\\. isso acontece por causa de uma correção que foi implementada antes.",
               "langUid": 785,
               "de_DE": "Das ist durch einen kleinen Workaround aus der Anfangsphase m\u00f6glich geworden...",
               "zh_CN": "\u81f3\u4e8e\u539f\u56e0\u561b...\\.\u8fd9\u662f\u56e0\u4e3a\u4ed6\u4eec\u5728\u6e38\u620f\u65e9\u671f\u52a0\u5165\u7684\u4e00\u4e2a\u529f\u80fd\u3002",
@@ -11309,7 +11309,7 @@
           {
             "message": {
               "": "Well...\\. back then players sometimes got stuck in arbitrary locations.",
-              "en_US": "Bem...\\. naquela época, os jogadores às vezes ficavam presos em locais aleatórios.",
+              "en_US": "Antigamente, era comum que os jogadores ficassem presos em locais aleatórios.",
               "langUid": 787,
               "de_DE": "Na ja...\\. Anfangs sind Spieler an beliebigen Stellen einfach steckengeblieben.",
               "zh_CN": "\u55ef...\\.\u4ee5\u524d\u6709\u73a9\u5bb6\u4f1a\u5361\u5728\u5730\u56fe\u91cc\u7684\u5404\u79cd\u5730\u65b9\u3002<<A<<[CHANGED 2020/07/08]",
@@ -11324,7 +11324,7 @@
           {
             "message": {
               "": "The workaround would just slightly teleport them forward if they were stuck for too long.",
-              "en_US": "A alternativa seria teletransportar eles um pouco mais pra frente se ficassem presos por muito tempo.",
+              "en_US": "Então, eles implementaram uma correção que teleportava os jogadores um pouco para frente caso ficassem presos por muito tempo.",
               "langUid": 788,
               "de_DE": "Der Workaround sorgte daf\u00fcr, dass sie ein St\u00fcck vorw\u00e4rts teleportiert wurden, wenn sie zu lange feststeckten.",
               "zh_CN": "\u4e3a\u6b64\uff0c\u4ed6\u4eec\u52a0\u5165\u4e86\u4e00\u4e2a\u529f\u80fd\uff0c\u5982\u679c\u73a9\u5bb6\u539f\u5730\u5361\u5728\u4e00\u4e2a\u5730\u65b9\u5f88\u4e45\u5e76\u4e14\u5f80\u67d0\u4e00\u4e2a\u65b9\u5411\u79fb\u52a8\uff0c\u5c31\u4f1a\u5c06\u8be5\u73a9\u5bb6\u7684\u4f4d\u7f6e\u5f80\u524d\u4f20\u9001\u4e00\u70b9\u70b9\u3002",
@@ -11354,7 +11354,7 @@
           {
             "message": {
               "": "And it seems they never managed to fix the bug entirely! ",
-              "en_US": "E parece que eles nunca conseguiram consertar o bug por completo!",
+              "en_US": "E parece que eles nunca conseguiram consertar o bug dessa correção!",
               "langUid": 790,
               "de_DE": "Und wie es aussieht, haben sie den Bug nie richtig gefixt!",
               "zh_CN": "\u800c\u4e14\u540e\u6765\u8fd9\u4e2abug\u4e5f\u4e00\u76f4\u6ca1\u6709\u4fee\u590d\uff01",
@@ -11369,7 +11369,7 @@
           {
             "message": {
               "": "Yes, yes.\\. It is really complicated, you see?",
-              "en_US": "Sim, sim.\\. É realmente complicado, entende?",
+              "en_US": "Sim, sim.\\. É realmente complicado.",
               "de_DE": "Ja, ganz genau.\\. Das ist n\u00e4mlich wirklich kompliziert, verstehst du?",
               "zh_CN": "\u662f\u8fd9\u6837\u6ca1\u9519\u3002\\.\u5177\u4f53\u539f\u56e0\u5f88\u590d\u6742\u3002",
               "ko_KR": "\uadf8\ub798, \uadf8\ub798.\\. \uc815\ub9d0 \ubcf5\uc7a1\ud55c \uc77c\uc774\uc9c0.<<A<<[CHANGED 2019/01/31]",
@@ -11384,7 +11384,7 @@
           {
             "message": {
               "": "Sometimes you still see other players just running against walls, right?",
-              "en_US": "Às vezes você ainda vê outros jogadores correndo contra as paredes, certo?",
+              "en_US": "Às vezes você ainda vê outros jogadores correndo contra as paredes, não é?",
               "langUid": 791,
               "de_DE": "Man sieht ja manchmal immer noch Spieler, die gegen W\u00e4nde laufen, stimmt's?",
               "zh_CN": "\u4f60\u73b0\u5728\u8fd8\u5076\u5c14\u80fd\u770b\u5230\u73a9\u5bb6\u5bf9\u7740\u5899\u8dd1\u5bf9\u5427\uff1f",
@@ -11399,7 +11399,7 @@
           {
             "message": {
               "": "And that's why the workaround is still active, it's just much harder to trigger than it used to be.",
-              "en_US": "E é por isso que o trabalho ainda está ativo. Mas, agora é muito mais difícil de acionar.",
+              "en_US": "É por causa dese bug. Mas, agora é muito mais difícil de acionar.",
               "langUid": 792,
               "de_DE": "Deswegen ist der Workaround noch aktiv. Allerdings l\u00e4sst er sich jetzt deutlich schwerer triggern.",
               "zh_CN": "\u8fd9\u4e2a\u9632\u5361\u529f\u80fd\u5230\u73b0\u5728\u4e5f\u4f9d\u7136\u6709\u6548\uff0c\u53ea\u662f\u6bd4\u4ee5\u524d\u66f4\u96be\u89e6\u53d1\u4e86\u3002<<A<<[CHANGED 2021/01/12]",
@@ -11414,7 +11414,7 @@
           {
             "message": {
               "": "Well it should be!\\. We tried really hard to make it impossible to abuse.",
-              "en_US": "Bem, deveria ser!\\. Nós nos esforçamos muito para tornar impossível o uso abusivo desse bug.",
+              "en_US": "Deveria ser!\\. Nós nos esforçamos muito para tornar impossível o uso abusivo desse bug.",
               "de_DE": "Das war auch so beabsichtigt!\\. Wir haben alles daf\u00fcr getan, dass man ihn nicht mehr ausnutzen kann.",
               "zh_CN": "\u672c\u6765\u5c31\u4e0d\u5e94\u8be5\uff01\\.\u6211\u4eec\u4e3a\u4e86\u9632\u6b62\u73a9\u5bb6\u6ee5\u7528\u8fd9\u4e2a\u529f\u80fd\u4e0d\u77e5\u9053\u4e0b\u4e86\u591a\u5c11\u529f\u592b\u3002",
               "ko_KR": "\uc554, \uadf8\ub798\uc57c\uc9c0!\\. \uc6b0\ub9ac\uac00 \uc545\uc6a9\uc744 \ubd88\uac00\ub2a5\ud558\uac8c \ub9cc\ub4dc\ub290\ub77c \uc5bc\ub9c8\ub098 \ub178\ub825\ud588\ub294\ub370.<<A<<[CHANGED 2019/05/14]",
@@ -11429,7 +11429,7 @@
           {
             "message": {
               "": "It's actually close to impossible to trigger it on your own.",
-              "en_US": "Na verdade, é quase impossível acioná-lo por conta própria.",
+              "en_US": "Na verdade, é quase impossível acioná-lo sozinho.",
               "langUid": 793,
               "de_DE": "Es ist fast unm\u00f6glich, ihn als einzelner Spieler zu triggern.",
               "zh_CN": "\u73b0\u5728\u60f3\u8981\u81ea\u5df1\u5355\u4eba\u89e6\u53d1\u8fd9\u4e2a\u51e0\u4e4e\u4e0d\u53ef\u80fd\u3002",
@@ -11444,7 +11444,7 @@
           {
             "message": {
               "": "Of course, we never considered multiple players would cooperate to make it work.",
-              "en_US": "Naturalmente, nunca consideramos que múltiplos jogadores cooperassem juntos para que funcionasse.",
+              "en_US": "E nunca imaginamos que múltiplos jogadores iriam cooperar juntos pare que isso funcionasse.",
               "de_DE": "Wir w\u00e4ren nat\u00fcrlich nie auf die Idee gekommen, dass sich mehrere Spieler zusammentun k\u00f6nnten, um ihn zu triggern.",
               "zh_CN": "\u4e0d\u8fc7\u6211\u4eec\u786e\u5b9e\u6ca1\u60f3\u5230\u4f1a\u6709\u591a\u4e2a\u73a9\u5bb6\u5408\u4f5c\u6765\u5b9e\u73b0\u8fd9\u4e2abug\u3002",
               "ko_KR": "\ubb3c\ub860 \uc5ec\ub7ec \ud50c\ub808\uc774\uc5b4\uac00 \ud569\uc2ec\ud574\uc11c \uc791\ub3d9\ub418\uac8c \ub9cc\ub4e4\uac70\ub77c\uace0\ub294 \uc0dd\uac01 \ubabb \ud588\uc9c0\ub9cc.<<A<<[CHANGED 2019/01/31]",
@@ -11536,7 +11536,7 @@
           {
             "message": {
               "": "Seriously Lea!\\. We might really get into trouble if anyone spots you doing this!",
-              "en_US": "Sério Lea!\\. Podemos realmente ter problemas se alguém te ver fazendo isso!",
+              "en_US": "Lea, é sério!\\. Podemos ter problemas sérios se alguém te ver fazendo isso!",
               "langUid": 814,
               "zh_CN": "\u8389\u4e9a\uff0c\u8bf4\u771f\u7684\uff01\\.\u8981\u662f\u88ab\u4eba\u53d1\u73b0\u7684\u8bdd\u4f60\u4f1a\u60f9\u4e0a\u9ebb\u70e6\u7684!",
               "ko_KR": "\ub18d\ub2f4 \uc544\ub2c8\uc57c, \ub808\uc544!\\. \ub124\uac00 \uc774\ub7ec\uace0 \uc788\ub294 \uac78 \ub204\uac00 \ubcf4\uae30\ub77c\ub3c4 \ud55c\ub2e4\uba74 \uc5b4\ub5a1\ud558\ub824\uace0!<<A<<[CHANGED 2019/01/31]",

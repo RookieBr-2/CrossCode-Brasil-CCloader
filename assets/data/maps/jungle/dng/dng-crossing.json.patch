@@ -4762,7 +4762,7 @@
               {
                 "message": {
                   "": "A white Shad came a while back and all the Shad left.",
-                  "en_US": "Um Shad branco veio há algum tempo e todos os Shad partiram.",
+                  "en_US": "Uma Shad branca veio há algum tempo e todos os Shad partiram.",
                   "de_DE": "Eine wei\u00dfe Shad kam vor einer Weile und alle Shad sind daraufhin gegangen.",
                   "zh_CN": "\u524d\u6bb5\u65f6\u95f4\uff0c\u6c99\u5fb7\u4eba\u90fd\u79bb\u5f00\u4e86\u4e4b\u540e\uff0c\u4e00\u4e2a\u767d\u8272\u7684\u6c99\u5fb7\u4eba\u6765\u5230\u4e86\u8fd9\u91cc\u3002<<A<<[CHANGED 2017/12/12]",
                   "ko_KR": "\ud558\uc580 \uc0e4\ub4dc\uac00 \uc870\uae08 \uc804\uc5d0 \uc654\uc5c8\uace0, \ub2e4\ub978 \uc0e4\ub4dc\ub4e4\uc740 \uc804\ubd80 \ub3cc\uc544\uac14\uc5b4.<<A<<[CHANGED 2017/11/16]",
@@ -6858,7 +6858,7 @@
           {
             "message": {
               "": "P-Please calm down...",
-              "en_US": "P-por favor se acalme...",
+              "en_US": "P-por favor se acalmem...",
               "langUid": 224,
               "ja_JP": "\u305f\u3001\u983c\u3080\u304b\u3089\u843d\u3061\u7740\u3044\u3066\u304f\u3060\u3055\u3044...<<A<<[CHANGED 2017/11/04]",
               "ko_KR": "\uc5ec\ub7ec\ubd84, \uc9c0, \uc9c4\uc815\ud558\uc138\uc694...<<A<<[CHANGED 2017/11/16]",
@@ -6876,7 +6876,7 @@
           {
             "message": {
               "": "Shad will not stand down! Humans have poisoned great jungle.",
-              "en_US": "Shad não vai parar! Os humanos envenenaram a grande selva.",
+              "en_US": "Shad não vai parar! Humanos envenenaram a grande selva.",
               "langUid": 208,
               "ja_JP": "\u30b7\u30e3\u30c3\u30c9\u3001\u3057\u308a\u305e\u304b\u306a\u3044\uff01\n\u4eba\u9593\u305f\u3061\u3001\u5049\u5927\u306a\u30b8\u30e3\u30f3\u30b0\u30eb\u3001\u6bd2\u3067\u4fb5\u3057\u305f\uff01<<A<<[CHANGED 2017/11/04]",
               "ko_KR": "\uc0e4\ub4dc\ub294 \ubb3c\ub7ec\uc11c\uc9c0 \uc54a\uc744 \uac83\uc774\ub2e4! \uc778\uac04\uc774 \uc774 \uc704\ub300\ud55c \uc815\uae00\uc744 \ub9dd\uac00\ub728\ub838\ub2e4.<<A<<[CHANGED 2017/11/16]",
@@ -6894,7 +6894,7 @@
           {
             "message": {
               "": "No more! We block entrance for all to save jungle!",
-              "en_US": "Basta! Bloqueamos a entrada de todos para salvar a selva!",
+              "en_US": "Basta! Bloqueamos a entrada para salvar a selva!",
               "langUid": 210,
               "ja_JP": "\u3082\u3046\u8a31\u3055\u306a\u3044\uff01\u5165\u53e3\u3075\u3055\u3044\u3067\u3001\u30b8\u30e3\u30f3\u30b0\u30eb\u5b88\u308b\uff01<<A<<[CHANGED 2017/11/04]",
               "ko_KR": "\ub354 \uc774\uc0c1\uc740 \uc548 \ub3fc! \uc815\uae00\uc744 \uad6c\ud558\uae30 \uc704\ud574 \ubaa8\ub4e0 \ucd9c\uc785\uad6c\ub97c \ub9c9\uaca0\ub2e4!<<A<<[CHANGED 2017/11/16]",
@@ -6912,7 +6912,7 @@
           {
             "message": {
               "": "This is too much for a single guard...\n",
-              "en_US": "É muito caos para um único guarda...\n",
+              "en_US": "É muito caos para guarda só...\n",
               "langUid": 211,
               "ja_JP": "\u3053\u308c\u306f\u3001\u885b\u51751\u4eba\u3058\u3083\u3069\u3046\u306b\u3082\u3067\u304d\u306a\u3044...<<A<<[CHANGED 2017/11/04]",
               "ko_KR": "\ub098 \ud63c\uc790 \uc0c1\ub300\ud558\uae30\uc5d0\ub294 \ub108\ubb34 \ub9ce\uc740\ub370...<<A<<[CHANGED 2017/11/16]",
@@ -7074,7 +7074,7 @@
           {
             "message": {
               "": "I fear that as long as they're acting this way, no Seeker can progress any further.\n",
-              "en_US": "Temo que enquanto eles estiverem agindo dessa maneira, nenhum Seeker possa avançar mais.\n",
+              "en_US": "Temo que, enquanto agirem assim, nenhum Seeker vai conseguir passar.\n",
               "langUid": 217,
               "ja_JP": "\u3053\u306e\u307e\u307e\u3053\u3093\u306a\u3053\u3068\u304c\u7d9a\u3044\u305f\u3089\u3001\u3069\u306e\u63a2\u7d22\u8005\u3082\u5148\u3078\u9032\u3081\u306a\u3044\u3093\u3058\u3083\u306a\u3044\u304b\u3068\u5fc3\u914d\u3067\u3059\u3002<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uadf8\ub4e4\uc774 \uc774\uacf3\uc744 \ub9c9\uace0 \uc788\ub294 \ud55c, \uc5b4\ub5a4 \uc2dc\ucee4\ub3c4 \uc55e\uc73c\ub85c \ub098\uac08 \uc218 \uc5c6\uc744 \uac70\uc57c.<<A<<[CHANGED 2018/09/19]",
@@ -7266,7 +7266,7 @@
           {
             "message": {
               "": "Let us quickly seek an audition with the mayor before this conflict escalates any further!",
-              "en_US": "Vamos procurar rapidamente uma audição com o prefeito antes que este conflito se agrave ainda mais!",
+              "en_US": "Vamos solicitar uma audiência com o prefeito para evitar que este conflito se intensifique!",
               "langUid": 304,
               "zh_CN": "\u6211\u4eec\u5f97\u8d76\u5728\u51b2\u7a81\u5347\u7ea7\u4e4b\u524d\u8ddf\u5e02\u957f\u8c08\u4e00\u8c08\uff01<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\ubb38\uc81c\uac00 \ub354 \ucee4\uc9c0\uae30 \uc804\uc5d0 \uc5b4\uc11c \uc2dc\uc7a5\ub2d8\uaed8 \ud68c\uacac\uc744 \uc694\uccad\ud558\uc790!<<A<<[CHANGED 2018/09/19]",
@@ -8647,7 +8647,7 @@
           {
             "message": {
               "": "Oh, you have got to be kidding!",
-              "en_US": "Ah, você só pode tá brincando!",
+              "en_US": "Ah, tá de sacanagem!",
               "de_DE": "Ah, das darf doch nicht wahr sein!<<A<<[CHANGED 2021/05/22]",
               "zh_CN": "\u6211\u64e6\u561e\u4e0d\u662f\u5427\uff01<<A<<[CHANGED 2021/05/22]",
               "ja_JP": "\u30a6\u30bd\u3001\u5197\u8ac7\u3067\u3057\u3087\uff01<<A<<[CHANGED 2021/05/22]",
@@ -8662,7 +8662,7 @@
           {
             "message": {
               "": "Not the bird people. Again.",
-              "en_US": "Não. As pessoas pássaros de novo não.",
+              "en_US": "Não. Os escamosos de novo não.",
               "de_DE": "Nicht die Vogelmenschen. Schon wieder.",
               "zh_CN": "\u53c8\u662f\u90a3\u4e9b\u9e1f\u4eba\u3002<<A<<[CHANGED 2018/08/01]",
               "ja_JP": "\u9ce5\u4eba\u9593\u306f\u3082\u3046\u3084\u3081\u3066\u3088\u3002<<A<<[CHANGED 2018/08/01]",
@@ -9598,7 +9598,7 @@
           {
             "message": {
               "": "Oui, oui. It would have been too easy otherwise, I guess!",
-              "en_US": "Oui, oui. Teria sido muito fácil de outra forma, eu acho!",
+              "en_US": "Oui, oui. Mais uma missão chata pra gente.",
               "langUid": 902,
               "de_DE": "Oui, oui. Alles andere w\u00e4re ja auch zu einfach gewesen!",
               "ja_JP": "\u30a6\u30a3\u3001\u30a6\u30a3\u3002\u306a\u3093\u3060\u304b\n\u7c21\u5358\u3059\u304e\u308b\u3068\u601d\u3063\u305f\u3093\u3060\u3088\u306d\uff01<<A<<[CHANGED 2018/08/01]",
@@ -9612,7 +9612,7 @@
           {
             "task": {
               "": "Solve the quest \\c[3]The Root Cause\\c[0] to get access to \\c[3]Grand Krys'kajo\\c[0]!",
-              "en_US": "Solucione a missão \\c[3]A Causa Raiz\\c[0] para ganhar acesso ao \\c[3]Grand Krys'kajo\\c[0]!",
+              "en_US": "Complete a missão \\c[3]A Raiz de Tudo\\c[0] para ganhar acesso ao \\c[3]Grand Krys'kajo\\c[0]!",
               "langUid": 895,
               "zh_CN": "\u5b8c\u6210\u4efb\u52a1\\c[3]\u95ee\u9898\u6839\u6e90\\c[0]\uff0c\u83b7\u5f97\u8fdb\u5165\\c[3]\u5927\u51ef\u65af\u5361\u7f57\\c[0]\u7684\u8d44\u683c\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\\c[3]\uadfc\ubcf8 \uc6d0\uc778\\c[0] \ud018\uc2a4\ud2b8\ub97c \ud574\uacb0\ud574 \\c[3]\uadf8\ub79c\ub4dc \ud06c\ub9ac\uc2a4\uce74\uc870\\c[0]\uc5d0 \ub4e4\uc5b4\uac00\uc138\uc694!<<A<<[CHANGED 2018/03/14]",
@@ -10340,7 +10340,7 @@
               {
                 "message": {
                   "": "Anyway, if she's that confident I'm sure she has a plan that will help us all.",
-                  "en_US": "Seja como for, se ela está assim tão confiante, tenho certeza de que tem um plano que vai ajudar a todos nós.",
+                  "en_US": "Enfim, se ela está assim tão confiante, é porque tem um plano para nos ajudar.",
                   "langUid": 293,
                   "ko_KR": "\uc544\ubb34\ud2bc, \uadf8\ub140\uac00 \uc800\ub807\uac8c \ub9d0\ud558\ub294 \uac78 \ubcf4\uba74 \uc6b0\ub9ac\ub97c \ub3c4\uc640\uc904 \uacc4\ud68d\uc774 \uc788\ub294 \uac8c \ubd84\uba85\ud574.<<A<<[CHANGED 2017/11/30]",
                   "ja_JP": "\u3068\u306b\u304b\u304f\u3001\u5f7c\u5973\u306f\u3042\u3093\u306a\u306b\n\u81ea\u4fe1\u6e80\u3005\u306a\u306e\u3067\u3059\u304b\u3089\u3001\n\u304d\u3063\u3068\u306a\u306b\u304b\u7b56\u304c\u3042\u308b\u306b\n\u9055\u3044\u3042\u308a\u307e\u305b\u3093\u3002<<A<<[CHANGED 2017/12/02]",
@@ -11235,7 +11235,7 @@
           {
             "message": {
               "": "Well, yeah...\\. we could do that.",
-              "en_US": "Bem, sim.....\\. nós podíamos fazer isso.",
+              "en_US": "Sim...\\. nós podíamos fazer isso.",
               "langUid": 328,
               "zh_CN": "\u55ef\uff0c\u662f...\\. \u53bb\u90a3\u8fb9\u4e5f\u884c\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ubb50, \uadf8\ub798...\\. \uadf8\ub798\ub3c4 \ub418\uc9c0.<<A<<[CHANGED 2018/03/14]",
@@ -11503,7 +11503,7 @@
           {
             "message": {
               "": "Here we are again...",
-              "en_US": "Aqui estamos de novo...",
+              "en_US": "Voltamos...",
               "langUid": 556,
               "zh_CN": "\u53c8\u5230\u8fd9\u5730\u65b9\u4e86...<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub2e4\uc2dc \uc774\ucabd\uc73c\ub85c \ub098\uc654\ub124...<<A<<[CHANGED 2018/03/14]",
@@ -11518,7 +11518,7 @@
           {
             "message": {
               "": "So...\\. should we start another dungeon now?",
-              "en_US": "Então...\\. devemos iniciar outra dungeon agora?",
+              "en_US": "Então...\\. vamos iniciar outra dungeon agora?",
               "langUid": 557,
               "zh_CN": "\u90a3\u4e48...\\.\u6211\u4eec\u5e94\u8be5\u5f00\u59cb\u53e6\u4e00\u4e2a\u5730\u7262\u5417\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uadf8\ub7fc...\\. \ub2f9\uc7a5 \ub2e4\ub978 \ub358\uc804\uc744 \uc2dc\uc791\ud560\uae4c?<<A<<[CHANGED 2018/03/14]",
@@ -11533,7 +11533,7 @@
           {
             "message": {
               "": "Well...\\. It is a bit late, isn't it?",
-              "en_US": "Bem...\\. É um pouco tarde, não é?",
+              "en_US": "É um pouco tarde, não é?",
               "langUid": 558,
               "zh_CN": "\u5443...\\.\u65f6\u95f4\u5df2\u7ecf\u6709\u70b9\u665a\u4e86\u5427\uff1f<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uc74c...\\. \uc624\ub298\uc740 \uc870\uae08 \ub2a6\uc740 \uac83 \uac19\uc9c0 \uc54a\uc544?<<A<<[CHANGED 2018/03/14]",
@@ -11548,7 +11548,7 @@
           {
             "message": {
               "": "I'm afraid I have to logout soon.",
-              "en_US": "Receio ter que me desconectar em breve.",
+              "en_US": "Preciso sair em breve.",
               "langUid": 559,
               "zh_CN": "\u6211\u53ef\u80fd\u7b49\u7b49\u5c31\u8981\u4e0b\u7ebf\u4e86\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub09c \uc774\uc81c \uace7 \ub85c\uadf8\uc544\uc6c3 \ud574\ubd10\uc57c \ud560 \uac83 \uac19\uac70\ub4e0.<<A<<[CHANGED 2018/03/14]",
@@ -11608,7 +11608,7 @@
           {
             "message": {
               "": "Before we log off, we should drop by the headquarters and say hello to Lin and the others.",
-              "en_US": "Antes de sairmos, devemos passar pelo QG e cumprimentar Lin e os outros.",
+              "en_US": "Antes de sairmos, vamos passar no QG e cumprimentar Lin e os outros.",
               "langUid": 563,
               "zh_CN": "\u5728\u6211\u4eec\u4e0b\u7ebf\u4e4b\u524d\uff0c\u6211\u4eec\u5e94\u8be5\u5148\u53bb\u4e00\u8d9f\u603b\u90e8\uff0c\u8ddf\u7433\u8fd8\u6709\u5176\u4ed6\u4eba\u6253\u4e2a\u62db\u547c\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub85c\uadf8\uc544\uc6c3 \ud558\uae30 \uc804\uc5d0 \ubcf8\ubd80\uc5d0 \ub4e4\ub7ec\uc11c \ub9b0\uc774\ub791 \ub2e4\ub978 \uc560\ub4e4\uc5d0\uac8c \uc778\uc0ac\ud558\uace0 \uac00\ub294 \uac70\uc57c.<<A<<[CHANGED 2018/03/14]",
@@ -11623,7 +11623,7 @@
           {
             "message": {
               "": "Just let them know that Lea is back again and ready for action.",
-              "en_US": "Só pra avisá-los que Lea está de volta e pronta para a ação.",
+              "en_US": "Só pra avisar que Lea está de volta e pronta para a ação.",
               "langUid": 564,
               "zh_CN": "\u8ba9\u4ed6\u4eec\u90fd\u77e5\u9053\u8389\u4e9a\u56de\u6765\u4e86\uff0c\u5927\u5bb6\u597d\u4e00\u8d77\u73a9\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\uac00\uc11c \ub808\uc544\uac00 \ub3cc\uc544\uc654\uace0, \ub2e4\uc2dc \uc6b0\ub9ac\uc640 \ud568\uaed8\ud560 \uc900\ube44\uac00 \ub410\ub2e4\uace0 \uc54c\ub824\uc8fc\ub294 \uac70\uc9c0.<<A<<[CHANGED 2018/03/14]",
@@ -11683,7 +11683,7 @@
           {
             "message": {
               "": "D'accord! Let's not wait too long, then.",
-              "en_US": "D'accord! Não vamos esperar muito, então.",
+              "en_US": "D'accord! Não demorar muito, então.",
               "langUid": 568,
               "zh_CN": "\u597d\u7684\uff01\u90a3\u51fa\u53d1\u5427\uff01<<A<<[CHANGED 2018/09/19]",
               "ko_KR": "\uc88b\uc558\uc5b4! \uadf8\ub7fc \ub354 \uc774\uc0c1 \uae30\ub2e4\ub9b4 \ud544\uc694 \uc5c6\uc9c0.<<A<<[CHANGED 2018/09/19]",
@@ -12043,7 +12043,7 @@
           {
             "message": {
               "": "I already talked to my people and for now they at least will let you Seekers to the tree.",
-              "en_US": "Já falei com meu povo e por enquanto, pelo menos, eles deixarão vocês Seekers entrarem na árvore.",
+              "en_US": "Já falei com meu povo e por enquanto, eles deixarão vocês Seekers entrarem na árvore.",
               "langUid": 577,
               "zh_CN": "\u6211\u5df2\u7ecf\u544a\u8bc9\u4e86\u6211\u7684\u65cf\u4eba\uff0c\u73b0\u5728\u4ed6\u4eec\u5141\u8bb8\u63a2\u7d22\u8005\u8fdb\u5165\u4e1b\u6797\u4e86\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ub0b4 \uc0ac\ub78c\ub4e4\uc5d0\uac8c \ub9d0\ud574\ub480\uc73c\ub2c8 \ub108\ud76c \uc2dc\ucee4\ub4e4\uc744 \ub098\ubb34\ub85c \ub4e4\uc5ec\ubcf4\ub0b4 \uc904 \uac70\uc57c.<<A<<[CHANGED 2018/03/14]",
@@ -12061,7 +12061,7 @@
           {
             "message": {
               "": "However, it might take a while until they all see the fruits of your labor.",
-              "en_US": "Porém, pode levar algum tempo até que todos eles vejam os frutos de seu trabalho.",
+              "en_US": "Porém, pode levar algum tempo até que todos eles vejam os frutos do seu trabalho.",
               "langUid": 578,
               "zh_CN": "\u4e0d\u8fc7\uff0c\u8981\u8ba9\u4ed6\u4eec\u660e\u767d\u4f60\u4e3a\u6b64\u505a\u51fa\u7684\u52aa\u529b\uff0c\u53ef\u80fd\u8fd8\u8981\u5047\u4ee5\u65f6\u65e5\u3002<<A<<[CHANGED 2018/03/14]",
               "ko_KR": "\ud558\uc9c0\ub9cc, \uadf8\ub4e4\uc774 \ub108\ud76c\ub4e4\uc758 \ub178\ub3d9\uc758 \uacfc\uc2e4\uc744 \uc9c1\uc811 \ubcf4\uae30 \uc804\uae4c\uc9c4 \uc2dc\uac04\uc774 \uc880 \uac78\ub9b4 \uac70\uc57c.<<A<<[CHANGED 2018/03/14]",

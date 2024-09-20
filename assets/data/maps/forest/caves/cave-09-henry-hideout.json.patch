@@ -556,7 +556,7 @@
           {
             "message": {
               "": "There is absolutely no way out for you. ",
-              "en_US": "Não há absolutamente nenhuma saída para você.",
+              "en_US": "Não existe saída alguma para você.",
               "langUid": 13,
               "zh_CN": "\u4f60\u9003\u4e0d\u4e86\u4e86\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3082\u3046\u9003\u3052\u5834\u306f\u3069\u3053\u306b\u3082\u3042\u308a\u307e\u305b\u3093\u3088\u3002<<A<<[CHANGED 2018/07/09]",
@@ -625,7 +625,7 @@
           {
             "message": {
               "": "Quite so, I'm afraid. How you managed to stay hidden, however, is still a mystery to me.",
-              "en_US": "É verdade, receio. Como você conseguiu ficar escondido, no entanto, ainda é um mistério para mim.",
+              "en_US": "Receio que sim. Como você conseguiu ficar escondido, no entanto, ainda é um mistério para mim.",
               "langUid": 17,
               "zh_CN": "\u6050\u6015\u662f\u7684\u3002\u81f3\u4e8e\u4f60\u600e\u4e48\u6f5c\u5165\u5230\u8fd9\u91cc\u7684\uff0c\u6211\u5012\u662f\u4e0d\u592a\u6e05\u695a\u3002<<A<<[CHANGED 2021/05/22]",
               "ja_JP": "\u79c1\u306f\u305d\u3046\u306b\u3089\u3093\u3067\u3044\u307e\u3059\u3002\n\u3069\u3046\u3084\u3063\u3066\u96a0\u308c\u304a\u304a\u305b\u3066\u304d\u305f\u306e\u304b\u306f\n\u307e\u3060\u8b0e\u306e\u307e\u307e\u3067\u3059\u304c\u3002<<A<<[CHANGED 2021/05/22]",
@@ -936,7 +936,7 @@
           {
             "message": {
               "": "I can't seem to just d-delete you...",
-              "en_US": "Parece que não posso simplesmente te apagar...",
+              "en_US": "Parece que não posso te a-apagar...",
               "langUid": 26,
               "zh_CN": "\u867d\u7136\u6211\u6ca1\u6cd5\u76f4\u63a5\u628a\u4f60\u5220\u6389...<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3042\u306a\u305f\u3092\u3057\u3087\u3001\u6d88\u53bb\u3059\u308b\u3053\u3068\u306f\n\u3067\u304d\u305d\u3046\u306b\u306a\u3044...<<A<<[CHANGED 2018/07/09]",
@@ -1338,7 +1338,7 @@
           {
             "message": {
               "": "He seems to be just... waiting? ",
-              "en_US": "Ele parece estar apenas... esperando?",
+              "en_US": "Ele parece estar... esperando?",
               "langUid": 4,
               "zh_CN": "\u4ed6\u597d\u50cf\u5728...\u7b49\u6211\u4eec\uff1f<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3042\u305d\u3053\u3067\u6211\u3005\u3092...\u5f85\u3063\u3066\u3044\u305f\u306e\u304b\uff1f<<A<<[CHANGED 2018/07/09]",
@@ -3111,7 +3111,7 @@
           {
             "message": {
               "": "You successfully completed the quest line created by the \\c[3]IHSO\\c[0] in celebration of the \\c[3]2205th International Hackspace Convention\\c[0]. ",
-              "en_US": "Você completou com sucesso a série de missões definidas pela \\c[3]IHSO\\c[0] em celebração do \\c[3]2205º Congresso Internacional do Espaço Hacker\\c[0]. ",
+              "en_US": "Você completou com sucesso a série de missões criadas pela \\c[3]IHSO\\c[0] em celebração do \\c[3]2205º Congresso Internacional do Espaço Hacker\\c[0]. ",
               "langUid": 70,
               "zh_CN": "\u4f60\u6210\u529f\u5b8c\u6210\u4e86\u7531\\c[3]\u56fd\u9645\u9a87\u5ba2\u7ec4\u7ec7\\c[0]\u4e3a\u5e86\u795d\\c[3]\u7b2c2205\u5c4a\u56fd\u9645\u9ed1\u5ba2\u5927\u4f1a\\c[0]\u800c\u5f00\u53d1\u7684\u4efb\u52a1\u7ebf\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3042\u306a\u305f\u306f\\c[3]\u7b2c2205\u56de\n\u56fd\u969b\u30cf\u30c3\u30af\u30b9\u30da\u30fc\u30b9\u5927\u4f1a\\c[0]\u306e\u304a\u795d\u3044\u3068\u3057\u3066\n\\c[3]IHSO\\c[0]\u304c\u4f5c\u6210\u3057\u305f\u30af\u30a8\u30b9\u30c8\u3092\n\u30af\u30ea\u30a2\u3059\u308b\u3053\u3068\u306b\u6210\u529f\u3057\u307e\u3057\u305f\uff01<<A<<[CHANGED 2018/07/09]",
@@ -3225,7 +3225,7 @@
           {
             "message": {
               "": "I'm but a tiny fraction of it. My makers wish to congratulate you on coming this far!",
-              "en_US": "Eu sou apenas uma pequena fração disso. Meus criadores desejam parabenizá-la por ter chegado tão longe!",
+              "en_US": "Eu sou apenas uma pequena parte disso. Meus criadores querem parabenizá-la por ter chegado tão longe!",
               "langUid": 77,
               "zh_CN": "\u6211\u662f\u8fd9\u6761\u4efb\u52a1\u7ebf\u7684\u4e00\u5c0f\u90e8\u5206\u3002\u4f60\u7adf\u7136\u8d70\u4e86\u8fd9\u4e48\u8fdc\uff0c\u6211\u7684\u521b\u9020\u8005\u795d\u8d3a\u4f60\uff01<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u79c1\u306f\u3053\u306e\u30b7\u30ca\u30ea\u30aa\u306e\u307b\u3093\u306e\u4e00\u90e8\u3067\u3059\u3002\n\u79c1\u306e\u4f5c\u308a\u624b\u305f\u3061\u306f\u3001\u3042\u306a\u305f\u304c\u3053\u3053\u307e\u3067\n\u6765\u308c\u305f\u3053\u3068\u3092\u559c\u3093\u3067\u3044\u307e\u3059\u3088\uff01<<A<<[CHANGED 2018/09/19]",
@@ -3403,7 +3403,7 @@
           {
             "message": {
               "": "I was really concerned that we had a hacker in the game.",
-              "en_US": "Eu estava realmente preocupado que tivéssemos um hacker no jogo.",
+              "en_US": "Fiquei muito preocupado com a possibilidade de termos um hacker no jogo.",
               "de_DE": "Ich dachte wirklich, wir h\u00e4tten einen Hacker im Spiel.",
               "zh_CN": "\u6211\u8fd8\u771f\u7684\u4ee5\u4e3a\u6709\u9ed1\u5ba2\u8fdb\u5230\u6e38\u620f\u91cc\u6765\u4e86\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u672c\u5f53\u306b\u30b2\u30fc\u30e0\u5185\u306b\u30cf\u30c3\u30ab\u30fc\u304c\n\u3044\u308b\u3093\u3058\u3083\u306a\u3044\u304b\u3063\u3066\n\u5fc3\u914d\u3057\u3066\u305f\u3093\u3060\u3088\u3002<<A<<[CHANGED 2018/07/09]",
@@ -3818,7 +3818,7 @@
                   {
                     "message": {
                       "": "C-come my darlings!",
-                      "en_US": "V-venham meus queridos!",
+                      "en_US": "V-venham minhas queridas!",
                       "langUid": 45,
                       "zh_CN": "\u6765-\u6765\u5427\u4eb2\u7231\u7684\uff01<<A<<[CHANGED 2018/07/09]",
                       "ja_JP": "\u3044\u3001\u3044\u3044\u5b50\u3060\u306d\u3001\u304a\u3044\u3067\uff01<<A<<[CHANGED 2018/07/09]",
@@ -4205,7 +4205,7 @@
           {
             "message": {
               "": "I'll just change its party s-s-settings so you c-can't attack, hehe!",
-              "en_US": "Eu vou apenas mudar a configuração de grupo para que você não possa atacar, hehe!",
+              "en_US": "Eu vou mudar a configuração de grupo para que você não possa atacar, hehe!",
               "langUid": 66,
               "zh_CN": "\u6211\u6539-\u6539\u4e86\u5c0f\u961f\u8bbe\u7f6e\uff0c\u4f60\u6ca1\u6cd5\u8fdb\u884c\u653b\u51fb\uff0c\u5475\u5475\uff01<<A<<[CHANGED 2018/09/19]",
               "ja_JP": "\u30d1\u30fc\u30c6\u30a3\u30fc\u306e\u305b\u3001\u305b\u3001\u8a2d\u5b9a\u3092\u5909\u3048\u3066\u3001\n\u304a\u3001\u304a\u524d\u304c\u653b\u6483\u3067\u304d\u306a\u3044\u3088\u3046\u306b\n\u3057\u3066\u3084\u308b\u3001\u3078\u3078\u3078\uff01<<A<<[CHANGED 2018/09/19]",
@@ -4626,7 +4626,7 @@
               {
                 "message": {
                   "": "You successfully completed the quest line created by the \\c[3]IHSO\\c[0] in celebration of the \\c[3]2205th International Hackspace Convention\\c[0]. ",
-                  "en_US": "Você completou com sucesso a série de missões definidas pela \\c[3]IHSO\\c[0] em celebração do \\c[3]2205º Congresso Internacional do Espaço Hacker\\c[0]. ",
+                  "en_US": "Você completou com sucesso a série de missões criadas pela \\c[3]IHSO\\c[0] em celebração do \\c[3]2205º Congresso Internacional do Espaço Hacker\\c[0]. ",
                   "langUid": 593,
                   "zh_CN": "\u4f60\u6210\u529f\u5b8c\u6210\u4e86\u7531\\c[3]\u56fd\u9645\u9a87\u5ba2\u7ec4\u7ec7\\c[0]\u4e3a\u5e86\u795d\\c[3]\u7b2c2205\u5c4a\u56fd\u9645\u9ed1\u5ba2\u5927\u4f1a\\c[0]\u800c\u5f00\u53d1\u7684\u4efb\u52a1\u7ebf\u3002<<A<<[CHANGED 2018/08/28]",
                   "ja_JP": "\u3042\u306a\u305f\u306f\\c[3]\u7b2c2205\u56de\n\u56fd\u969b\u30cf\u30c3\u30af\u30b9\u30da\u30fc\u30b9\u5927\u4f1a\\c[0]\u306e\u304a\u795d\u3044\u3068\u3057\u3066\n\\c[3]IHSO\\c[0]\u304c\u4f5c\u6210\u3057\u305f\u30af\u30a8\u30b9\u30c8\u3092\n\u30af\u30ea\u30a2\u3059\u308b\u3053\u3068\u306b\u6210\u529f\u3057\u307e\u3057\u305f\uff01<<A<<[CHANGED 2018/08/28]",
@@ -4734,7 +4734,7 @@
               {
                 "message": {
                   "": "I'm but a tiny fraction of it. My makers wish to congratulate you on coming this far!",
-                  "en_US": "Eu sou apenas uma pequena fração disso. Meus criadores desejam parabenizá-la por ter chegado tão longe!",
+                  "en_US": "Eu sou apenas uma pequena parte disso. Meus criadores querem parabenizá-la por ter chegado tão longe!",
                   "langUid": 598,
                   "zh_CN": "\u6211\u662f\u8fd9\u6761\u4efb\u52a1\u7ebf\u7684\u4e00\u5c0f\u90e8\u5206\u3002\u4f60\u7adf\u7136\u8d70\u4e86\u8fd9\u4e48\u8fdc\uff0c\u6211\u7684\u521b\u9020\u8005\u795d\u8d3a\u4f60\uff01<<A<<[CHANGED 2019/05/14]",
                   "ja_JP": "\u79c1\u306f\u3053\u306e\u30b7\u30ca\u30ea\u30aa\u306e\u307b\u3093\u306e\u4e00\u90e8\u3067\u3059\u3002\n\u79c1\u306e\u4f5c\u308a\u624b\u305f\u3061\u306f\u3001\u3042\u306a\u305f\u304c\u3053\u3053\u307e\u3067\n\u6765\u308c\u305f\u3053\u3068\u3092\u559c\u3093\u3067\u3044\u307e\u3059\u3088\uff01<<A<<[CHANGED 2019/05/14]",

@@ -334,7 +334,7 @@
             "path": "jungle-city.interior.questhub-01",
             "name": {
                 "": "Seeker Hub 1st Floor",
-                "en_US": "Central de Comando 1º Andar",
+                "en_US": "Central Seeker 1º Andar",
                 "langUid": 54,
                 "ja_JP": "\u63a2\u7d22\u8005\u30cf\u30d61\u968e<<A<<[CHANGED 2018\/08\/01]",
                 "ko_KR": "\uc2dc\ucee4 \ud5c8\ube0c 1\uce35<<A<<[CHANGED 2018\/08\/01]",
@@ -368,7 +368,7 @@
             "path": "jungle-city.interior.faction-guard-1",
             "name": {
                 "": "Basin Police Force HQ",
-                "en_US": "Sede Policial de Basin",
+                "en_US": "QG da Polícia",
                 "langUid": 69,
                 "zh_CN": "\u5df4\u8f9b\u8b66\u5c40\u603b\u90e8<<A<<[CHANGED 2018\/03\/14]",
                 "ko_KR": "\uc720\uc5ed \uacbd\ucc30 \ubd80\ub300 \ubcf8\ubd80<<A<<[CHANGED 2018\/03\/14]",
@@ -385,7 +385,7 @@
             "path": "jungle-city.interior.faction-adv-1",
             "name": {
                 "": "Woodland Vanguard HQ",
-                "en_US": "Sede Vanguarda da Floresta",
+                "en_US": "QG Vanguarda da Floresta",
                 "langUid": 68,
                 "zh_CN": "\u6797\u5730\u5148\u950b\u603b\u90e8<<A<<[CHANGED 2018\/03\/14]",
                 "ko_KR": "\uc0bc\ub9bc\uc9c0 \uc120\ubd09\ub300 \ubcf8\ubd80<<A<<[CHANGED 2018\/03\/14]",
@@ -402,7 +402,7 @@
             "path": "jungle-city.interior.faction-greens-1",
             "name": {
                 "": "Gaia's Gardeners HQ",
-                "en_US": "QG dos Jardineiros de Gaia",
+                "en_US": "QG Jardineiros de Gaia",
                 "langUid": 72,
                 "ja_JP": "\u30ac\u30a4\u30a2\u30fb\u30ac\u30fc\u30c7\u30ca\u30fc\u30ba\u672c\u90e8<<A<<[CHANGED 2018\/05\/01]",
                 "ko_KR": "\uac00\uc774\uc544\uc758 \uc815\uc6d0\uc0ac \ubcf8\ubd80<<A<<[CHANGED 2018\/05\/01]",

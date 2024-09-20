@@ -6500,7 +6500,7 @@
               {
                 "message": {
                   "": "Weather still hot, however.\\. Human cooling box would be a useful.",
-                  "en_US": "O tempo ainda está quente, no entanto.\\. A caixa de resfriamento dos humanos seria útil.",
+                  "en_US": "Mas clima ainda está quente.\\. A caixa de resfriamento dos humanos seria útil.",
                   "de_DE": "Wetter trotzdem noch hei\u00df.\\. K\u00fchlbox von Mensch jetzt n\u00fctzlich w\u00e4ren.",
                   "zh_CN": "\u4f46\u5929\u6c14\u4f9d\u7136\u708e\u70ed\u3002\\.\u4eba\u7c7b\u51b7\u7bb1\u5b50\u4f1a\u6709\u7528\u3002<<A<<[CHANGED 2020/06/17]",
                   "ja_JP": "\u5929\u6c17\u3001\u307e\u3060\u6691\u3044\u3051\u308c\u3069\u3002\n\\.\u4eba\u9593\u306e\u51b7\u5374\u7bb1\u3001\u5f79\u306b\u7acb\u3063\u305f\u3002<<A<<[CHANGED 2020/06/17]",
@@ -6574,7 +6574,7 @@
                 {
                   "message": {
                     "": "Weather still hot, however.\\. Human cooling box would be a useful.",
-                    "en_US": "O tempo ainda está quente, no entanto.\\. A caixa de resfriamento dos humanos seria útil.",
+                    "en_US": "Mas clima ainda está quente.\\. A caixa de resfriamento dos humanos seria útil.",
                     "de_DE": "Wetter trotzdem noch hei\u00df.\\. K\u00fchlbox von Mensch jetzt n\u00fctzlich w\u00e4ren.",
                     "zh_CN": "\u4f46\u5929\u6c14\u4f9d\u7136\u708e\u70ed\u3002\\.\u4eba\u7c7b\u51b7\u7bb1\u5b50\u4f1a\u6709\u7528\u3002<<A<<[CHANGED 2020/06/17]",
                     "ja_JP": "\u5929\u6c17\u3001\u307e\u3060\u6691\u3044\u3051\u308c\u3069\u3002\n\\.\u4eba\u9593\u306e\u51b7\u5374\u7bb1\u3001\u5f79\u306b\u7acb\u3063\u305f\u3002<<A<<[CHANGED 2020/06/17]",
@@ -9575,7 +9575,7 @@
                     {
                       "message": {
                         "": "I saw you getting rid of the \\v[combat.name.minibosses/shockcat-black]s from here, thanks for that!",
-                        "en_US": "Eu vi você eliminando os \\v[combat.name.minibosses/shockcat-black]s daqui, obrigada por isso!",
+                        "en_US": "Eu vi você eliminando os \\v[combat.name.minibosses/shockcat-black]s, obrigada por isso!",
                         "langUid": 76,
                         "ko_KR": "\uc5ec\uae30\uc11c \ub124\uac00 \\v[combat.name.minibosses/shockcat-black]\uc744 \ucc98\uce58\ud558\ub294 \uac78 \ubd24\uc5b4. \uace0\ub9c8\uc6cc!<<A<<[CHANGED 2018/09/19]",
                         "ja_JP": "\u3042\u306a\u305f\u304c\u305f\u304c\\v[combat.name.minibosses/shockcat-black]\u3092\n\u99c6\u9664\u3057\u3066\u3044\u305f\u306e\u3092\u898b\u307e\u3057\u305f\u3088\u3002\n\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\uff01<<A<<[CHANGED 2018/09/19]",
@@ -9772,7 +9772,7 @@
                 {
                   "message": {
                     "": "Following the \\c[3]right path\\c[0] to the Grand Krys'kajo at \\c[3]Clinging River\\c[0] there's a small tree.",
-                    "en_US": "Seguindo o \\c[3]caminho direito\\c[0] para o Grand Krys'kajo no \\c[3]Rio Agarrado\\c[0] há uma pequena árvore.",
+                    "en_US": "No \\c[3]caminho direito\\c[0] para o Grand Krys'kajo, há uma pequena árvore no \\c[3]Rio Parado\\c[0].",
                     "langUid": 88,
                     "ko_KR": "\\c[3]\uc758\uc874\ud558\ub294 \uac15\\c[0]\uc5d0\uc11c \uadf8\ub79c\ub4dc \ud06c\ub9ac\uc2a4\uce74\uc870\ub85c \ud5a5\ud558\ub294 \\c[3]\uc624\ub978\ucabd \uae38\\c[0]\uc744 \ub530\ub77c\uac00\ub2e4 \ubcf4\uba74 \uc791\uc740 \ub098\ubb34\uac00 \uc788\uc744 \uac70\uc57c.<<A<<[CHANGED 2018/03/14]",
                     "ja_JP": "\u30af\u30ea\u30e5\u30b9\u30fb\u30ab\u30fc\u30e8\u5927\u795e\u6bbf\u306b\u5411\u304b\u3046\n\\c[3]\u53f3\u5074\u306e\u9053\\c[0]\u306e\\c[3]\u57f7\u7740\u306e\u5ddd\\c[0]\u306b\u306f\n\u5c0f\u3055\u306a\u6728\u304c\u3042\u308a\u307e\u3059\u3002<<A<<[CHANGED 2018/03/14]",
