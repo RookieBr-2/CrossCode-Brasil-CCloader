@@ -1,0 +1,27 @@
+{
+    "id": "CrossCode-Brasil",
+    "version": "1.0.0",
+    "title": {
+        "en_US": "Tradução em PT-BR",
+        "de_DE": "Tradução em PT-BR",
+        "fr_FR": "Tradução em PT-BR",
+        "zh_CN": "Tradução em PT-BR",
+        "zh_TW": "Tradução em PT-BR",
+        "ja_JP": "Tradução em PT-BR",
+        "ko_KR": "Tradução em PT-BR"
+    },
+    "description": {
+        "en_US": "Experiêncie o CrossCode em Português!",
+        "de_DE": "Experiêncie o CrossCode em Português!",
+        "fr_FR": "Experiêncie o CrossCode em Português!",
+        "zh_CN": "Experiêncie o CrossCode em Português!",
+        "zh_TW": "Experiêncie o CrossCode em Português!",
+        "ja_JP": "Experiêncie o CrossCode em Português!",
+        "ko_KR": "Experiêncie o CrossCode em Português!"
+    },
+    "icons": {
+        "24":"icon.png"
+    },
+    "prestart": "prestart.js",
+    "dependencies": {}
+}

@@ -1,0 +1,6 @@
+{
+    "name": "crosscode-brasil",
+    "ccmodHumanName": "CrossCode-Brasil",
+    "version": "1.0.0",
+    "prestart": "prestart.js"
+  }
