@@ -10644,7 +10644,7 @@
             "entity": { "global": true, "name": "g2" },
             "text": {
               "": "Oof, that's harsh... ",
-              "en_US": "Nossa, isso é drástico...",
+              "en_US": "Nossa, isso é terrível...",
               "langUid": 30,
               "zh_CN": "\u5509... <<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3048\u3048\u3063\u3001\u305d\u308c\u306f\u3072\u3069\u3044\u306a\u3042...<<A<<[CHANGED 2018/07/09]",
@@ -10657,7 +10657,7 @@
             "entity": { "global": true, "name": "g1" },
             "text": {
               "": "And the kicker: They said most people just enjoy hitting plants more.",
-              "en_US": "E a razão disso é que as pessoas preferem acertar as plantas....",
+              "en_US": "E o motivo disso é que as pessoas preferem bater nas plantas...",
               "langUid": 31,
               "zh_CN": "\u66f4\u8ba8\u538c\u7684\u662f\u4ed6\u4eec\u8bf4\u73a9\u5bb6\u4eec\u559c\u6b22\u6253\u690d\u7269\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u3057\u304b\u3082\u305d\u306e\u4e0a\u3001\u690d\u7269\u3092\n\u5208\u308a\u53d6\u308b\u307b\u3046\u304c\u307f\u3093\u306a\n\u597d\u304d\u3060\u308d\u3046\u3063\u3066\u8a00\u3063\u305f\u3093\u3060\u3088\u3002<<A<<[CHANGED 2018/07/09]",
@@ -10670,7 +10670,7 @@
             "entity": { "global": true, "name": "g1" },
             "text": {
               "": "But what about us? Some just want some peace and tranquility while fishing.",
-              "en_US": "Mas e a gente? Alguns só querem um pouco de paz e tranqüilidade durante a pesca.",
+              "en_US": "Mas e a gente? Algumas pessoas preferem o sossego e a tranquilidade de pescar!",
               "langUid": 32,
               "zh_CN": "\u4e5f\u4e0d\u66ff\u6211\u4eec\u8fd9\u4e9b\u559c\u6b22\u9493\u9c7c\u7684\u73a9\u5bb6\u8003\u8651\u4e00\u4e0b\u3002<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\u79c1\u305f\u3061\u307f\u305f\u3044\u306a\u4eba\u306f\u3069\u3046\u306a\u308b\u306e\uff1f\n\u305f\u3060\u5e73\u548c\u3067\u9759\u304b\u306b\u91e3\u308a\u3092\u3057\u305f\u3044\u3060\u3051\u306e\n\u4eba\u3082\u3044\u308b\u306e\u306b\u3002<<A<<[CHANGED 2018/07/09]",
@@ -15401,7 +15401,7 @@
                     {
                       "message": {
                         "": "He wants to find out just how advanced of an AI you really are.",
-                        "en_US": "Ele quer descobrir o quão avançada você realmente é em relação a uma IA.",
+                        "en_US": "Ele quer ver o quão avançada você é como IA.",
                         "langUid": 58,
                         "de_DE": "Er m\u00f6chte wissen, wie weit fortgeschritten du als KI bist.",
                         "ja_JP": "\u5f7c\u306f\u304a\u524d\u304c\u3069\u308c\u3060\u3051\u9032\u3093\u3060\nAI\u306a\u306e\u304b\u77e5\u308a\u305f\u304c\u3063\u3066\u3044\u305f\u3088\u3002<<A<<[CHANGED 2018/08/28]",
@@ -15437,7 +15437,7 @@
                     {
                       "message": {
                         "": "Well...\\. just try to \\c[3]act naturally\\c[0]. Human-like.",
-                        "en_US": "Bem...\\. tente \\c[3]agir naturalmente\\c[0]... como uma humana.",
+                        "en_US": "Tente \\c[3]agir naturalmente\\c[0]...\\. como uma humana.",
                         "langUid": 60,
                         "de_DE": "Verhalte dich einfach \\c[3]nat\u00fcrlich\\c[0]. Menschlich.",
                         "ja_JP": "\u307e\u3042...\\.\u305f\u3060\\c[3]\u81ea\u7136\u306b\n\u632f\u308b\u307e\u3048\u3070\u3044\u3044\\c[0]\u3002\n\u4eba\u9593\u307f\u305f\u3044\u306b\u306a\u3002<<A<<[CHANGED 2018/08/28]",
@@ -15452,7 +15452,7 @@
                     {
                       "message": {
                         "": "Pretty much like you did so far.",
-                        "en_US": "Bem parecido com o que você fez até agora.",
+                        "en_US": "Do mesmo jeito que você tem feito até então.",
                         "langUid": 61,
                         "de_DE": "Im Grunde genauso wie bisher.",
                         "ja_JP": "\u4eca\u307e\u3067\u901a\u308a\u306b\n\u3057\u3066\u3044\u308c\u3070\u5927\u4e08\u592b\u3060\u3002<<A<<[CHANGED 2018/08/28]",
@@ -15588,7 +15588,7 @@
               {
                 "message": {
                   "": "Good luck in there.",
-                  "en_US": "Boa sorte aí dentro.",
+                  "en_US": "Boa sorte lá dentro.",
                   "langUid": 69,
                   "de_DE": "Viel Erfolg.",
                   "ja_JP": "\u5e78\u904b\u3092\u7948\u3063\u3066\u308b\u3002<<A<<[CHANGED 2018/08/28]",
@@ -15888,7 +15888,7 @@
               {
                 "message": {
                   "": "If we can convince him of the potential of Evotars, we might get Instatainment to support the research after all.",
-                  "en_US": "Se conseguirmos convencê-lo do potencial dos Evotares, poderemos conseguir que a Instatainment apoie a pesquisa, afinal de contas.",
+                  "en_US": "Se o convencermos sobre o potencial dos Evotares, podemos conseguir o apoio da Instatainment para a pesquisa.",
                   "langUid": 77,
                   "de_DE": "Wenn wir ihn vom Potential der Evotare \u00fcberzeugen k\u00f6nnen, bekommen wir die Unterst\u00fctzung von Instatainment vielleicht doch.",
                   "ja_JP": "\u3082\u3057\u5f7c\u306b\u30a8\u30f4\u30a9\u30bf\u30fc\u306e\u53ef\u80fd\u6027\u306b\u3064\u3044\u3066\n\u7d0d\u5f97\u3055\u305b\u3089\u308c\u305f\u3089\u3001\u6700\u7d42\u7684\u306b\u306f\n\u30a4\u30f3\u30b9\u30bf\u30c6\u30a4\u30f3\u30e1\u30f3\u30c8\u793e\u304b\u3089\n\u7814\u7a76\u306e\u652f\u63f4\u3092\u3082\u304e\u3068\u308c\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3002<<A<<[CHANGED 2018/09/19]",
@@ -16000,7 +16000,7 @@
               {
                 "message": {
                   "": "Hm...\\. we will just have to see how it turns out.",
-                  "en_US": "Hm...\\ teremos apenas que ver como isso vai terminar.",
+                  "en_US": "Hm...\\ vamos ver como isso vai terminar.",
                   "langUid": 84,
                   "de_DE": "Hm...\\. Wir werden sehen, was daraus wird.",
                   "ja_JP": "\u3075\u3080...\\.\u7d50\u679c\u304c\u3069\u3046\u306a\u308b\u306e\u304b\n\u898b\u3066\u307f\u306a\u3044\u3068\u3044\u3051\u306a\u3044\u306a\u3002<<A<<[CHANGED 2018/09/19]",
@@ -16025,7 +16025,7 @@
               {
                 "message": {
                   "": "Honestly...\\. Lea?",
-                  "en_US": "Sinceramente...\\. Lea?",
+                  "en_US": "É Sério...\\. Lea?",
                   "langUid": 85,
                   "de_DE": "Ach,\\. Lea...",
                   "ja_JP": "\u305d\u306e...\\.\u30ec\u30a2\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -16225,7 +16225,7 @@
               {
                 "message": {
                   "": "I am afraid saying sorry will not fix this.",
-                  "en_US": "Receio que pedir desculpas não resolva isso.",
+                  "en_US": "Infelizmente, pedir desculpas não vai solucionar isso.",
                   "langUid": 97,
                   "de_DE": "Dass es dir jetzt leidtut, wird uns leider nicht helfen.",
                   "ja_JP": "\u8b1d\u3063\u3066\u3082\n\u4e8b\u614b\u306f\u3088\u304f\u306a\u3089\u306a\u3044\u3088\u3002<<A<<[CHANGED 2018/08/28]",
@@ -16285,7 +16285,7 @@
               {
                 "message": {
                   "": "We will have to see if more opportunities come up.",
-                  "en_US": "Teremos que ver se surgirão mais oportunidades.",
+                  "en_US": "Vamos ver se mais oportunidades aparecerão no futuro.",
                   "langUid": 101,
                   "de_DE": "Wir werden sehen, ob sich andere M\u00f6glichkeiten ergeben werden.",
                   "ja_JP": "\u4ed6\u306e\u30c1\u30e3\u30f3\u30b9\u304c\u304f\u308b\u304b\u3069\u3046\u304b\u306f\u3001\n\u305d\u306e\u6642\u306b\u306a\u3063\u3066\u307f\u306a\u3044\u3068\u308f\u304b\u3089\u306a\u3044\u306a\u3002<<A<<[CHANGED 2018/08/28]",
@@ -16474,7 +16474,7 @@
           {
             "message": {
               "": "Anyway, next I suppose you have to resolve this whole \"Evotarground\" situation, right?",
-              "en_US": "Enfim, a seguir suponho que você tem que resolver toda esta situação de \"Evotarground\", certo?",
+              "en_US": "Enfim, agora você vai lidar com toda essa situação de \"Evotarground\", não é?",
               "langUid": 111,
               "de_DE": "Dann steht als N\u00e4chstes wohl das \"Evotarplatz\"-Problem an, oder?",
               "ja_JP": "\u305d\u308c\u3067\u3001\u601d\u3046\u306b\u6b21\u306f\n\u300c\u30a8\u30f4\u30a9\u30bf\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9\u300d\u306e\n\u554f\u984c\u3092\u89e3\u6c7a\u3059\u308b\u3093\u3060\u308d\u3046\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -16489,7 +16489,7 @@
           {
             "message": {
               "": "Right, and we are on it.",
-              "en_US": "Certo, e nós estamos nisso.",
+              "en_US": "Sim, e já estamos trabalhando nisso.",
               "langUid": 112,
               "de_DE": "Richtig, da sind wir gerade dabei.",
               "ja_JP": "\u3042\u3042\u3001\u3053\u308c\u304b\u3089\n\u53d6\u308a\u7d44\u3080\u3068\u3053\u308d\u3060\u3088\u3002<<A<<[CHANGED 2018/09/19]",
@@ -16504,7 +16504,7 @@
           {
             "message": {
               "": "Please make sure not to tell anyone else about Lea just yet.",
-              "en_US": "Por favor, certifique-se de não contar a ninguém mais sobre Lea por enquanto.",
+              "en_US": "Por favor, não revele nada sobre Lea a mais ninguém, pelo menos por enquanto.",
               "langUid": 113,
               "de_DE": "Bitte erz\u00e4hle vorerst niemandem von Lea.",
               "ja_JP": "\u4eca\u306e\u3068\u3053\u308d\u306f\u3001\n\u30ec\u30a2\u306b\u3064\u3044\u3066\u306e\u8a71\u306f\n\u4ed6\u4eba\u306b\u8a71\u3055\u306a\u3044\u3067\u304f\u308c\u3002<<A<<[CHANGED 2018/08/28]",
@@ -16519,7 +16519,7 @@
           {
             "message": {
               "": "It is important that we keep things secret for now.",
-              "en_US": "É importante que mantenhamos as coisas em segredo por enquanto.",
+              "en_US": "É importante mantermos as coisas em segredo por enquanto.",
               "langUid": 114,
               "de_DE": "Es ist wichtig, dass wir das alles jetzt noch geheim halten.",
               "ja_JP": "\u4eca\u306f\u79d8\u5bc6\u306b\u3057\u3066\u304a\u304f\u3053\u3068\u304c\n\u91cd\u8981\u306a\u3093\u3060\u3002<<A<<[CHANGED 2018/09/19]",
@@ -16708,7 +16708,7 @@
           {
             "message": {
               "": "Right. \\c[3]Getting ready to re-enter Vermillion Wasteland\\c[0].",
-              "en_US": "Certo. \\c[3]Nos preparar para entrar novamente no Deserto Carmesim\\c[0].",
+              "en_US": "Ah sim... \\c[3]devemos nos preparar para voltar ao Deserto Carmesim\\c[0].",
               "langUid": 1492,
               "de_DE": "Genau. \\c[3]Die Vorbereitung auf die R\u00fcckkehr in die Vermillonein\u00f6de\\c[0].",
               "ja_JP": "\u305d\u3046\u3060\u3002\\c[3]\u6731\u67d3\u306e\u8352\u5730\u306b\n\u518d\u7a81\u5165\u3059\u308b\u6e96\u5099\u3092\u3057\u3088\u3046\\c[0]\u3002<<A<<[CHANGED 2018/09/19]",
@@ -16723,7 +16723,7 @@
           {
             "message": {
               "": "Once you feel prepared, let us visit Shizuka and Satoshi again at the \\c[3]Old Hideout\\c[0].",
-              "en_US": "Quando estiver pronta, vamos visitar Shizuka e Satoshi novamente no \\c[3]Velho Esconderijo\\c[0].",
+              "en_US": "Quando estiver pronta, vamos visitar Shizuka e Satoshi novamente no \\c[3]Esconderijo Velho\\c[0].",
               "langUid": 1493,
               "de_DE": "Wenn du so weit bist, lass uns noch einmal Shizuka und Satoshi im \\c[3]Alten Versteck\\c[0] besuchen.",
               "ja_JP": "\u6e96\u5099\u304c\u3067\u304d\u305f\u3068\u611f\u3058\u305f\u3089\u3001\n\\c[3]\u53e4\u3044\u96a0\u308c\u5bb6\\c[0]\u306b\u3044\u308b\u30b7\u30ba\u30ab\u3068\n\u30b5\u30c8\u30b7\u3092\u3082\u3046\u4e00\u5ea6\u305f\u305a\u306d\u3066\u304f\u308c\u3002<<A<<[CHANGED 2018/09/19]",
@@ -16754,7 +16754,7 @@
           {
             "task": {
               "": "Prepare yourself for reentering Vermillion Wasteland. Talk to \\c[3]Satoshi\\c[0] at the \\c[3]Hideout\\c[0] when ready.",
-              "en_US": "Prepare-se para voltar ao Deserto Carmesin. Fale com \\c[3]Satoshi\\c[0] no \\c[3]Velho Esconderijo\\c[0] quando estiver pronta.",
+              "en_US": "Prepare-se para voltar ao Deserto Carmesin. Fale com \\c[3]Satoshi\\c[0] no \\c[3]Esconderijo\\c[0] quando estiver pronta.",
               "de_DE": "Bereite dich auf die R\u00fcckkehr in die Vermillonein\u00f6de vor. Rede mit \\c[3]Satoshi\\c[0] im \\c[3]Alten Versteck\\c[0], wenn du so weit bist.",
               "zh_CN": "\u6700\u597d\u518d\u6b21\u8fdb\u5165\u6731\u7ea2\u5e9f\u571f\u7684\u51c6\u5907\u3002\u51c6\u5907\u5c31\u7eea\u4e4b\u540e\u5728\\c[3]\u85cf\u8eab\u5904\\c[0]\u8ddf\\c[3]\u667a\u53f2\\c[0]\u8c08\u4e00\u8c08\u3002<<A<<[CHANGED 2018/08/28]",
               "ja_JP": "\u6731\u67d3\u306e\u8352\u5730\u3078\u518d\u7a81\u5165\u3059\u308b\u6e96\u5099\u3092\u3057\u3088\u3046\u3002\n\u6e96\u5099\u304c\u3067\u304d\u305f\u3089\u3001\\c[3]\u96a0\u308c\u5bb6\\c[0]\u306b\u3044\u308b\\c[3]\u30b5\u30c8\u30b7\\c[0]\u3068\n\u8a71\u305d\u3046\u3002<<A<<[CHANGED 2018/08/28]",

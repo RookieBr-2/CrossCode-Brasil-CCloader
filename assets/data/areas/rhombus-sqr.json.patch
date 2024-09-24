@@ -429,7 +429,7 @@
             "path": "rhombus-sqr.arena-1",
             "name": {
                 "": "Arena Plaza",
-                "en_US": "Arena Plaza",
+                "en_US": "Praça da Arena",
                 "langUid": 187,
                 "zh_CN": "\u7ade\u6280\u573a\u5e7f\u573a<<A<<[CHANGED 2019/01/30]",
                 "ja_JP": "\u30a2\u30ea\u30fc\u30ca\u30d7\u30e9\u30b6<<A<<[CHANGED 2019/01/31]",
@@ -566,7 +566,7 @@
             "path": "rhombus-sqr.interior.booster",
             "name": {
                 "": "Boost Lounge",
-                "en_US": "Salão do Reforço",
+                "en_US": "Salão do Boost",
                 "langUid": 220,
                 "de_DE": "Booster Lounge",
                 "ja_JP": "\u30d6\u30fc\u30b9\u30c8\u30e9\u30a6\u30f3\u30b8<<A<<[CHANGED 2018/08/01]",
@@ -583,7 +583,7 @@
             "path": "rhombus-sqr.interior.equipment",
             "name": {
                 "": "Gear Store GF",
-                "en_US": "Loja de Ferramentas GF",
+                "en_US": "Loja de Equipamentos T",
                 "langUid": 221,
                 "de_DE": "Ausr\u00fcstungsgesch\u00e4ft / EG",
                 "ja_JP": "\u30a2\u30a4\u30c6\u30e0\u30b9\u30c8\u30a2 \u5730\u968e<<A<<[CHANGED 2018/08/28]",
@@ -600,7 +600,7 @@
             "path": "rhombus-sqr.interior.items",
             "name": {
                 "": "Buy Land GF",
-                "en_US": "Comprar Terreno GF",
+                "en_US": "Mercadão T",
                 "langUid": 222,
                 "de_DE": "Kaufland / EG",
                 "ja_JP": "\u88c5\u5099\u5c4b \u5730\u968e<<A<<[CHANGED 2018/08/28]",
@@ -668,7 +668,7 @@
             "path": "rhombus-sqr.interior.hidden-shop",
             "name": {
                 "": "Books 'n Worms",
-                "en_US": "Books 'n Worms",
+                "en_US": "Livros e Minhocas",
                 "langUid": 251,
                 "ko_KR": "\ucc45\uacfc \ubc8c\ub808<<A<<[CHANGED 2019/01/10]",
                 "zh_CN": "\u4e66\u866b\u4e4b\u5bb6<<A<<[CHANGED 2019/01/10]",
@@ -1429,7 +1429,7 @@
             "path": "rhombus-sqr.interior.equipment-f1",
             "name": {
                 "": "Gear Store 1F",
-                "en_US": "Loja de Ferramentas 1F",
+                "en_US": "Loja de Equipamentos A1",
                 "langUid": 226,
                 "de_DE": "Ausr\u00fcstungsgesch\u00e4ft / 1. OG",
                 "ja_JP": "\u88c5\u5099\u5c4b1\u968e<<A<<[CHANGED 2018/08/01]",
@@ -1463,7 +1463,7 @@
             "path": "rhombus-sqr.interior.items-f1",
             "name": {
                 "": "Buy Land F1",
-                "en_US": "Comprar Terreno F1",
+                "en_US": "Mercadão A1",
                 "langUid": 378,
                 "de_DE": "Kaufland / 1. OG",
                 "ja_JP": "\u88c5\u5099\u5c4b 1\u968e<<A<<[CHANGED 2021/03/10]",
@@ -1622,7 +1622,7 @@
             "path": "rhombus-sqr.interior.equipment-f2",
             "name": {
                 "": "Gear Store 2F",
-                "en_US": "Loja de Ferramentas 2F",
+                "en_US": "Loja de Equipamentos A2",
                 "langUid": 303,
                 "de_DE": "Ausr\u00fcstungsgesch\u00e4ft / 2. OG",
                 "ja_JP": "\u5e74\u8001\u3044\u305f\u935b\u51b6\u5c4b2\u968e<<A<<[CHANGED 2021/02/26]",

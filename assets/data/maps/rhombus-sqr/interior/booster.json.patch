@@ -466,7 +466,7 @@
                 {
                   "message": {
                     "": "Welcome to the \\c[3]Boost Lounge\\c[0], Seeker!",
-                    "en_US": "Bem-vinda ao \\c[3]Salão do Reforço\\c[0], Seeker!",
+                    "en_US": "Bem-vinda ao \\c[3]Salão do Boost\\c[0], Seeker!",
                     "langUid": 3,
                     "de_DE": "Willkommen in der \\c[3]Booster Lounge\\c[0], Seeker!",
                     "ja_JP": "\\c[3]\u30d6\u30fc\u30b9\u30c8\u30e9\u30a6\u30f3\u30b8\\c[0]\u3078\u3088\u3046\u3053\u305d\u3001\n\u63a2\u7d22\u8005\u3055\u3093\uff01<<A<<[CHANGED 2018/08/01]",
@@ -484,7 +484,7 @@
                 {
                   "message": {
                     "": "Here you can acquire the Booster Item introduced in Version 1.35-1 of CrossWorlds.",
-                    "en_US": "Aqui você pode adquirir o Item de Reforço introduzido na Versão 1.35-1 do CrossWorlds.",
+                    "en_US": "Aqui você pode adquirir os Itens de Boost introduzidos na Versão 1.35-1 de CrossWorlds.",
                     "langUid": 4,
                     "de_DE": "Hier kann man die Booster Items kaufen, welche in Version 1.35-1 eingef\u00fchrt wurden.",
                     "ja_JP": "\u3053\u3053\u3067\u306f\u3001\u30af\u30ed\u30b9\u30ef\u30fc\u30eb\u30c9\u306e\n\u30d0\u30fc\u30b8\u30e7\u30f31.35-1\u3067\u767b\u5834\u3057\u305f\n\u30d6\u30fc\u30b9\u30bf\u30fc\u30a2\u30a4\u30c6\u30e0\u3092\n\u624b\u306b\u5165\u308c\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002<<A<<[CHANGED 2018/09/19]",
@@ -562,7 +562,7 @@
                 {
                   "message": {
                     "": "These Traders behind me hold a\\c[3] Booster Add-On\\c[0] for each one of the major areas.",
-                    "en_US": "Estes Comerciantes atrás de mim vendem uma \\c[3]Extensão de Reforço\\c[0] para cada uma das principais áreas.",
+                    "en_US": "Estes comerciantes atrás de mim vendem uma \\c[3]Extensão de Boost\\c[0] para cada uma das principais áreas.",
                     "langUid": 7,
                     "de_DE": "Diese H\u00e4ndler hinter mir haben f\u00fcr jedes gr\u00f6\u00dfere Gebiet ein \\c[3]Booster Add-On\\c[0].",
                     "ja_JP": "\u3053\u3053\u306b\u3044\u308b\u30c8\u30ec\u30fc\u30c0\u30fc\u305f\u3061\u306f\u3001\n\u4e3b\u8981\u306a\u30a8\u30ea\u30a2\u306e\\c[3]\u30d6\u30fc\u30b9\u30bf\u30fc\u30a2\u30c9\u30aa\u30f3\\c[0]\u3092\n\u6271\u3063\u3066\u3044\u307e\u3059\u3002<<A<<[CHANGED 2018/09/19]",
@@ -598,7 +598,7 @@
                 {
                   "message": {
                     "": "They will also \\c[3]drop rare gem stones used in various trading offers\\c[0] around \\v[area.rhombus-sqr.name].",
-                    "en_US": "Eles também \\c[3]deixarão cair pedras preciosas raras usadas em várias ofertas comerciais\\c[0] na \\v[area.rhombus-sqr.name].",
+                    "en_US": "Assim, eles vão dropar \\c[3]jóias raras\\c[0], que podem ser usadas em várias trocas na \\v[area.rhombus-sqr.name].",
                     "langUid": 9,
                     "de_DE": "Sie werden auch \\c[3]seltene Edelsteine\\c[0] hinterlassen, mit welchen man \\c[3]in Rhombus Square handeln\\c[0] kann.",
                     "ja_JP": "\u5f37\u5316\u3055\u308c\u305f\u6575\u306f\u3001\\v[area.rhombus-sqr.name]\u306e\n\\c[3]\u30c8\u30ec\u30fc\u30c9\u3067\u4f7f\u3048\u308b\u30ec\u30a2\u306a\u5b9d\u77f3\u3092\n\u30c9\u30ed\u30c3\u30d7\\c[0]\u3057\u307e\u3059\u3002<<A<<[CHANGED 2018/08/01]",
@@ -656,7 +656,7 @@
                 {
                   "message": {
                     "": "However, each trader requires a \\c[3]legendary item\\c[0] that can be \\c[3]found in the affected area\\c[0].",
-                    "en_US": "Entretanto, cada comerciante exige um \\c[3]item lendário\\c[0] que pode ser \\c[3]encontrado na área afetada\\c[0].",
+                    "en_US": "Entretanto, cada comerciante precisa de um \\c[3]item lendário\\c[0] que pode ser encontrado nas \\c[3]respectivas áreas\\c[0].",
                     "langUid": 11,
                     "de_DE": "Jeder H\u00e4ndler setzt jedoch ein \\c[3]legend\u00e4res Item\\c[0] voraus, welches in den \\c[3]jeweiligen Gebieten gefunden werden kann\\c[0].",
                     "ja_JP": "\u3057\u304b\u3057\u3001\u30a2\u30c9\u30aa\u30f3\u3092\u624b\u306b\u5165\u308c\u308b\u306b\u306f\u3001\n\\c[3]\u5404\u30a8\u30ea\u30a2\u3067\u624b\u306b\u5165\u308c\u308b\\c[0]\u3053\u3068\u306e\u3067\u304d\u308b\n\\c[3]\u4f1d\u8aac\u306e\u30a2\u30a4\u30c6\u30e0\\c[0]\u304c\u5fc5\u8981\u3067\u3059\u3002<<A<<[CHANGED 2018/10/16]",
@@ -674,7 +674,7 @@
                 {
                   "message": {
                     "": "They are very well hidden! Try communicating with other players in order to locate them!",
-                    "en_US": "Eles estão muito bem escondidos! Tente comunicar-se com outros jogadores a fim de localizá-los!",
+                    "en_US": "Eles estão bem escondidos! Tente trocar informações com outros jogadores para encontrá-los!",
                     "langUid": 12,
                     "de_DE": "Und die sind sehr gut versteckt! Tausche dich mit anderen Spielern aus, um sie zu finden!",
                     "ja_JP": "\u4f1d\u8aac\u306e\u30a2\u30a4\u30c6\u30e0\u306f\u5de7\u5999\u306b\u96a0\u3055\u308c\u3066\u3044\u307e\u3059\uff01\n\u4ed6\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u60c5\u5831\u4ea4\u63db\u3057\u3066\u3001\n\u30a2\u30a4\u30c6\u30e0\u3092\u898b\u3064\u3051\u51fa\u3057\u3066\u304f\u3060\u3055\u3044\u3002<<A<<[CHANGED 2018/09/19]",
@@ -788,7 +788,7 @@
               {
                 "message": {
                   "": "Welcome to the \\c[3]Boost Lounge\\c[0], Seeker!",
-                  "en_US": "Bem-vinda ao \\c[3]Salão do Reforço\\c[0], Seeker!",
+                  "en_US": "Bem-vinda ao \\c[3]Salão do Boost\\c[0], Seeker!",
                   "langUid": 15,
                   "de_DE": "Willkommen in der \\c[3]Booster Lounge\\c[0], Seeker!",
                   "ja_JP": "\\c[3]\u30d6\u30fc\u30b9\u30c8\u30e9\u30a6\u30f3\u30b8\\c[0]\u3078\u3088\u3046\u3053\u305d\u3001\n\u63a2\u7d22\u8005\u3055\u3093\uff01<<A<<[CHANGED 2018/08/01]",
@@ -806,7 +806,7 @@
               {
                 "message": {
                   "": "Here you can acquire the \\c[3]Booster Items\\c[0] introduced in Version 1.35-1 of CrossWorlds.",
-                  "en_US": "Aqui você pode adquirir o \\c[3]Item de Reforço\\c[0] introduzido na Versão 1.35-1 do CrossWorlds.",
+                  "en_US": "Aqui você pode adquirir os \\c[3]Itens de Boost\\c[0] introduzidos na Versão 1.35-1 de CrossWorlds.",
                   "langUid": 16,
                   "de_DE": "Hier kann man die Booster Items kaufen, welche in Version 1.35-1 eingef\u00fchrt wurden.",
                   "ja_JP": "\u3053\u3053\u3067\u306f\u3001\u30af\u30ed\u30b9\u30ef\u30fc\u30eb\u30c9\u306e\n\u30d0\u30fc\u30b8\u30e7\u30f31.35-1\u3067\u767b\u5834\u3057\u305f\n\\c[3]\u30d6\u30fc\u30b9\u30bf\u30fc\u30a2\u30a4\u30c6\u30e0\\c[0]\u3092\n\u624b\u306b\u5165\u308c\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002<<A<<[CHANGED 2018/10/16]",
@@ -824,7 +824,7 @@
               {
                 "message": {
                   "": "Do you need a refresher on how to acquire and use Booster Items?",
-                  "en_US": "Você precisa de uma revisão sobre como adquirir e usar os Itens de Reforço?",
+                  "en_US": "Você precisa de uma revisão sobre como adquirir e usar os Itens de Boost?",
                   "langUid": 17,
                   "de_DE": "Soll ich dir noch einmal erkl\u00e4ren, wie man Booster Items erh\u00e4lt und einsetzt?",
                   "ja_JP": "\u30d6\u30fc\u30b9\u30bf\u30fc\u30a2\u30a4\u30c6\u30e0\u306e\u5165\u624b\u6cd5\u306b\n\u3064\u3044\u3066\u304a\u3055\u3089\u3044\u3057\u305f\u3044\u3067\u3059\u304b\uff1f<<A<<[CHANGED 2018/08/01]",
@@ -886,7 +886,7 @@
                   {
                     "message": {
                       "": "These Traders behind me, hold a\\c[3] Booster Add-On\\c[0] for each one of the major areas.",
-                      "en_US": "Estes Comerciantes atrás de mim vendem uma \\c[3]extensão de reforço\\c[0] para cada uma das principais áreas.",
+                      "en_US": "Estes Comerciantes atrás de mim vendem uma \\c[3]extensão de boost\\c[0] para cada uma das principais áreas.",
                       "langUid": 18,
                       "de_DE": "Diese H\u00e4ndler hinter mir haben f\u00fcr jedes gr\u00f6\u00dfere Gebiet ein \\c[3]Booster Add-On\\c[0].",
                       "ja_JP": "\u3053\u3053\u306b\u3044\u308b\u30c8\u30ec\u30fc\u30c0\u30fc\u305f\u3061\u306f\u3001\n\u4e3b\u8981\u306a\u30a8\u30ea\u30a2\u306e\\c[3]\u30d6\u30fc\u30b9\u30bf\u30fc\u30a2\u30c9\u30aa\u30f3\\c[0]\u3092\n\u6271\u3063\u3066\u3044\u307e\u3059\u3002<<A<<[CHANGED 2018/08/01]",
@@ -922,7 +922,7 @@
                   {
                     "message": {
                       "": "They will also \\c[3]drop rare gem stones used in various trading offers\\c[0] around \\v[area.rhombus-sqr.name].",
-                      "en_US": "Eles também \\c[3]deixarão cair pedras preciosas raras usadas em várias ofertas comerciais\\c[0] na \\v[area.rhombus-sqr.name].",
+                      "en_US": "Assim, eles vão dropar \\c[3]jóias raras\\c[0], que podem ser usadas em várias trocas na \\v[area.rhombus-sqr.name].",
                       "langUid": 20,
                       "de_DE": "Sie werden auch \\c[3]seltene Edelsteine\\c[0] hinterlassen, mit welchen man \\c[3]in Rhombus Square handeln\\c[0] kann.",
                       "ja_JP": "\u5f37\u5316\u3055\u308c\u305f\u6575\u306f\u3001\\v[area.rhombus-sqr.name]\u306e\n\\c[3]\u30c8\u30ec\u30fc\u30c9\u3067\u4f7f\u3048\u308b\u30ec\u30a2\u306a\u5b9d\u77f3\u3092\n\u30c9\u30ed\u30c3\u30d7\\c[0]\u3057\u307e\u3059\u3002<<A<<[CHANGED 2018/08/01]",
@@ -1001,7 +1001,7 @@
                   {
                     "message": {
                       "": "They are very well hidden! Try communicating with other players in order to locate them!",
-                      "en_US": "Eles estão muito bem escondidos! Tente comunicar-se com outros jogadores a fim de localizá-los!",
+                      "en_US": "Eles estão bem escondidos! Tente trocar informações com outros jogadores para encontrá-los!",
                       "langUid": 23,
                       "de_DE": "Und die sind sehr gut versteckt! Tausche dich mit anderen Spielern aus, um sie zu finden!",
                       "ja_JP": "\u4f1d\u8aac\u306e\u30a2\u30a4\u30c6\u30e0\u306f\u5de7\u5999\u306b\u96a0\u3055\u308c\u3066\u3044\u307e\u3059\uff01\n\u4ed6\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u60c5\u5831\u4ea4\u63db\u3057\u3066\u3001\n\u30a2\u30a4\u30c6\u30e0\u3092\u898b\u3064\u3051\u51fa\u3057\u3066\u304f\u3060\u3055\u3044\u3002<<A<<[CHANGED 2018/10/04]",

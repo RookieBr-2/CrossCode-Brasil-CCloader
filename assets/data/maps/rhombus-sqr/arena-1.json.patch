@@ -11156,7 +11156,7 @@
             "entity": { "global": true, "name": "sooth1" },
             "text": {
               "": "I miss it so dearly...",
-              "en_US": "Sinto tanta falta...",
+              "en_US": "Sinto tanta falta deles...",
               "langUid": 67,
               "de_DE": "Das vermisse ich wirklich...",
               "ja_JP": "\u5fc3\u304b\u3089\u604b\u3057\u3044\u3088...<<A<<[CHANGED 2018/09/14]",
@@ -11169,7 +11169,7 @@
             "entity": { "global": true, "name": "sooth1" },
             "text": {
               "": "If only more Seekers would jump into the water for me.",
-              "en_US": "Se ao menos mais Seekers pulassem na água por mim.",
+              "en_US": "Se ao menos mais Seekers pulassem na água pra mim.",
               "langUid": 68,
               "de_DE": "Wenn doch nur mehr Seeker f\u00fcr mich ins Wasser springen w\u00fcrden.",
               "ja_JP": "\u63a2\u7d22\u8005\u304c\u79c1\u306e\u305f\u3081\u306b\u3082\u3063\u3068\u6c34\u306b\n\u98db\u3073\u8fbc\u3093\u3067\u3055\u3048\u304f\u308c\u305f\u3089\u306a\u3042\u3002<<A<<[CHANGED 2018/09/19]",

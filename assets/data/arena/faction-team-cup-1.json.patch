@@ -48,7 +48,7 @@
     {
       "name": {
         "": "Hillkat Hoodlums",
-        "en_US": "Bandidos Hillkats",
+        "en_US": "Topeiras Bandidas",
         "de_DE": "Hillkat-Halunken",
         "zh_CN": "\u5730\u9f20\u6d41\u6c13<<A<<[CHANGED 2019/07/31]",
         "ja_JP": "\u6975\u9053\u30d2\u30eb\u30ad\u30e3\u30c3\u30c8<<A<<[CHANGED 2019/07/31]",
@@ -62,7 +62,7 @@
       "coins": 1000,
       "objective": {
         "": "Refight the \\c[3]\\v[combat.name.meerkat-special-command-1]\\c[0] and his gang of \\c[3]Hillkats\\c[0] in their cave in \\c[3]\\v[area.autumn-area.name]\\c[0]!",
-        "en_US": "Lute contra o \\c[3]\\v[combat.name.meerkat-special-command-1]\\c[0] e sua gangue de \\c[3]Hillkats\\c[0] na carvena no \\c[3]\\v[area.autumn-area.name]\\c[0]!",
+        "en_US": "Lute contra a \\c[3]\\v[combat.name.meerkat-special-command-1]\\c[0] e sua gangue de \\c[3]Topeiras\\c[0] na carvena no \\c[3]\\v[area.autumn-area.name]\\c[0]!",
         "de_DE": "Bek\u00e4mpfe nochmals den \\c[3]Hillkat-Anf\u00fchrer\\c[0] und seine Bande von \\c[3]Hillkats\\c[0] in ihrer H\u00f6hle in \\c[3]Autumn's Rise\\c[0]!",
         "zh_CN": "\u5728\\c[3]\\v[area.autumn-area.name]\\c[0]\u7684\u6d1e\u7a74\u4e2d\u518d\u6b21\u4e0e\\c[3]\\v[combat.name.meerkat-special-command-1]\\c[0]\u548c\u4ed6\u7684\\c[3]\u5730\u9f20\\c[0]\u8d70\u72d7\u4eec\u5bf9\u6218!<<A<<[CHANGED 2019/07/31]",
         "ja_JP": "\\c[3]\\v[area.autumn-area.name]\\c[0]\u306e\u6d1e\u7a9f\u3067\u51fa\u4f1a\u3063\u305f\\c[3]\\v[combat.name.meerkat-special-command-1]\\c[0]\u3068\u5b50\u5206\u306e\\c[3]\u30d2\u30eb\u30ad\u30e3\u30c3\u30c8\\c[0]\u305f\u3061\u3068\u3082\u3046\u4e00\u5ea6\u6226\u3048\uff01<<A<<[CHANGED 2019/07/31]",
