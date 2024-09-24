@@ -620,7 +620,7 @@
               {
                 "message": {
                   "": "Welcome to \\c[3]Rhombus Arena\\c[0]!",
-                  "en_US": "Bem-vinda para a \\c[3]Arena Losango\\c[0]!",
+                  "en_US": "Bem-vinda à \\c[3]Arena Losango\\c[0]!",
                   "de_DE": "Willkommen in der \\c[3]Rhombus Arena\\c[0]!",
                   "zh_CN": "\u6b22\u8fce\u6765\u5230\\c[3]\u7f57\u59c6\u5e03\u65af\u7ade\u6280\u573a\\c[0]!<<A<<[CHANGED 2019/04/16]",
                   "ja_JP": "\\c[3]\u30ed\u30f3\u30d0\u30b9\u30a2\u30ea\u30fc\u30ca\\c[0]\u3078\u3088\u3046\u3053\u305d\uff01<<A<<[CHANGED 2019/04/16]",
@@ -674,7 +674,7 @@
                   {
                     "message": {
                       "": "All challenges of the arena can be accessed through \\c[3]cups\\c[0].",
-                      "en_US": "Todos os desafios da arena podem ser acessados através de \\c[3]Copas\\c[0].",
+                      "en_US": "Todos os desafios da arena podem ser acessados através das \\c[3]Copas\\c[0].",
                       "de_DE": "Du kannst \u00fcber die \\c[3]Pokale\\c[0] auf alle Herausforderungen der Arena zugreifen.",
                       "zh_CN": "\u6240\u6709\u7ade\u6280\u573a\u6311\u6218\u90fd\u53ef\u4ee5\u901a\u8fc7\\c[3]\u676f\u8d5b\\c[0]\u8bbf\u95ee\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u30a2\u30ea\u30fc\u30ca\u306b\u304a\u3051\u308b\u3059\u3079\u3066\u306e\n\u30c1\u30e3\u30ec\u30f3\u30b8\u306f\u3001\\c[3]\u30ab\u30c3\u30d7\\c[0]\u306b\n\u53c2\u52a0\u3059\u308b\u5f62\u3067\u884c\u3044\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -692,7 +692,7 @@
                   {
                     "message": {
                       "": "Each cup offers a list of \\c[3]rounds\\c[0] that you can tackle in \\c[3]two ways\\c[0].",
-                      "en_US": "Cada copa oferece uma lsita de \\c[3]rodadas\\c[0] que você pode enfrentar de \\c[3]duas formas\\c[0].",
+                      "en_US": "Cada copa oferece uma lista de \\c[3]rodadas\\c[0] que você pode enfrentar de \\c[3]duas formas\\c[0].",
                       "de_DE": "Jeder Pokal besteht aus mehreren \\c[3]Runden\\c[0], die du auf \\c[3]zwei Arten\\c[0] angehen kannst.",
                       "zh_CN": "\u6bcf\u4e2a\u676f\u8d5b\u90fd\u62e5\u6709\u6570\u4e2a\\c[3]\u56de\u5408\\c[0]\uff0c\u4f60\u53ef\u4ee5\u901a\u8fc7\\c[3]\u4e24\u79cd\u65b9\u5f0f\\c[0]\u8fdb\u884c\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u30ab\u30c3\u30d7\u306f\u305d\u308c\u305e\u308c\u4e00\u9023\u306e\\c[3]\u30e9\u30a6\u30f3\u30c9\\c[0]\u3067\n\u69cb\u6210\u3055\u308c\u3066\u304a\u308a\u3001\\c[3]2\u3064\u306e\u65b9\u6cd5\\c[0]\u3067\n\u30c1\u30e3\u30ec\u30f3\u30b8\u3059\u308b\u3053\u3068\u304c\u53ef\u80fd\u3067\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -710,7 +710,7 @@
                   {
                     "message": {
                       "": "The \\c[3]first\\c[0] is to simply pick each round \\c[3]individually\\c[0] and repeat it as often as you like.",
-                      "en_US": "A \\c[3]primeira\\c[0] é simplesmente escolher cada rodada \\c[3]individualmente\\c[0] e repeti-la quantas vezes quiser.",
+                      "en_US": "A \\c[3]primeira\\c[0] é escolher cada rodada \\c[3]individualmente\\c[0] e repeti-la quantas vezes quiser.",
                       "de_DE": "Die \\c[3]erste\\c[0] w\u00e4re, dass du dir jede Runde \\c[3]einzeln\\c[0] vornimmst und so oft wiederholst, wie du m\u00f6chtest.",
                       "zh_CN": "\\c[3]\u7b2c\u4e00\u79cd\\c[0]\u662f\u624b\u52a8\u9009\u62e9\u56de\u5408\u5e76\u65e0\u9650\u6b21\u91cd\u590d\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\\c[3]\u3072\u3068\u3064\u3081\\c[0]\u306f\u3001\u5358\u7d14\u306b\\c[3]\u3072\u3068\u3064\u305a\u3064\\c[0]\n\u30e9\u30a6\u30f3\u30c9\u3092\u9078\u3073\u3001\u597d\u304d\u306a\u3060\u3051\n\u30c1\u30e3\u30ec\u30f3\u30b8\u3092\u7e70\u308a\u8fd4\u3059\u65b9\u6cd5\u3067\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -746,7 +746,7 @@
                   {
                     "message": {
                       "": "The \\c[3]second way\\c[0] to beat a cup is in \\c[3]Rush Mode\\c[0], where you fight through all rounds in order and only recover \\c[3]50% of your HP\\c[0] between rounds.",
-                      "en_US": "A \\c[3]segunda maneira\\c[0] de vencer uma copa é no \\c[3]Modo Rápido\\c[0], onde você luta em todos as rodadas em ordem e só recupera \\c[3]50% do seu HP\\c[0] entre as rodadas.",
+                      "en_US": "A \\c[3]segunda maneira\\c[0] de vencer uma copa é pelo \\c[3]Modo Rápido\\c[0], onde você enfrenta todas as rodadas em sequência e recupera apenas \\c[3]50% do seu HP\\c[0] entre elas.",
                       "de_DE": "Die \\c[3]zweite\\c[0] ist der \\c[3]Rush-Modus\\c[0]. Hier k\u00e4mpfst du dich durch alle Runden hintereinander, wobei nur \\c[3]50%\\c[0] deiner HP zwischen den Runden regeneriert werden.",
                       "zh_CN": "\\c[3]\u7b2c\u4e8c\u79cd\\c[0]\u662f\\c[3]\u8fde\u6218\u6a21\u5f0f\\c[0]\uff0c\u4f60\u5fc5\u987b\u6309\u987a\u5e8f\u4e00\u6b21\u5b8c\u6210\u6240\u6709\u56de\u5408\uff0c\u6bcf\u4e2a\u56de\u5408\u6062\u590d\\c[3]50% HP\\c[0]\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\\c[3]\u3075\u305f\u3064\u3081\u306e\u65b9\u6cd5\\c[0]\u306f\u3001\\c[3]\u30e9\u30c3\u30b7\u30e5\u30e2\u30fc\u30c9\\c[0]\u3067\n\u30ab\u30c3\u30d7\u3092\u30af\u30ea\u30a2\u3059\u308b\u3053\u3068\u3067\u3059\u3002\u3053\u306e\n\u30e2\u30fc\u30c9\u3067\u306f\u3059\u3079\u3066\u306e\u30e9\u30a6\u30f3\u30c9\u3092\u9806\u756a\u306b\n\u52dd\u3061\u9032\u3080\u5fc5\u8981\u304c\u3042\u308a\u3001\u30e9\u30a6\u30f3\u30c9\u306e\u5408\u9593\u306b\n\\c[3]HP\u306f50%\u3057\u304b\\c[0]\u56de\u5fa9\u3057\u307e\u305b\u3093\u3002<<A<<[CHANGED 2019/04/16]",
@@ -781,7 +781,7 @@
                   {
                     "message": {
                       "": "\\c[3]Solo cups\\c[0] offer challenges for a single player, while \\c[3]team cups\\c[0] can be tackled by the whole party.",
-                      "en_US": "\\c[3]Copas individuais\\c[0] oferecem desafios para um único jogador, enquanto \\c[3]Copas de equipe\\c[0] podem ser feitos em grupo.",
+                      "en_US": "\\c[3]Copas individuais\\c[0] são voltadas para um jogador, enquanto \\c[3]Copas de equipe\\c[0] podem ser jogadas em grupo.",
                       "de_DE": "\\c[3]Einzelpokale\\c[0] sind eine Herausforderung f\u00fcr Einzelspieler, w\u00e4hrend bei \\c[3]Teampokalen\\c[0] die ganze Party k\u00e4mpft.",
                       "zh_CN": "\\c[3]\u5355\u4eba\u676f\u8d5b\\c[0]\u63d0\u4f9b\u5355\u4eba\u6311\u6218\uff0c\u800c \\c[3]\u56e2\u961f\u676f\u8d5b\\c[0]\u53ef\u4ee5\u4ee5\u5c0f\u961f\u53c2\u4e0e\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\\c[3]\u30bd\u30ed\u30ab\u30c3\u30d7\\c[0]\u306f1\u4eba\u7528\u30d7\u30ec\u30a4\u3068\u3057\u3066\n\u8a2d\u5b9a\u3055\u308c\u305f\u30c1\u30e3\u30ec\u30f3\u30b8\u3067\u3059\u304c\u3001\n\\c[3]\u30c1\u30fc\u30e0\u30ab\u30c3\u30d7\\c[0]\u3067\u306f\u30d1\u30fc\u30c6\u30a3\u30fc\u5168\u54e1\u3067\n\u30c1\u30e3\u30ec\u30f3\u30b8\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -799,7 +799,7 @@
                   {
                     "message": {
                       "": "Note that for \\c[3]team cups\\c[0] defeated members will not respawn until the end of the round.",
-                      "en_US": "Note que para as \\c[3]copas de equipe\\c[0] os membros derrotados não serão revividos novamente até o final da rodada.",
+                      "en_US": "Saiba que nas \\c[3]copas de equipe\\c[0] os membros derrotados não serão revividos até o final da rodada.",
                       "de_DE": "Bitte beachte bei \\c[3]Teampokalen\\c[0], dass deine gefallenen Mitstreiter erst am Ende der Runde wiederbelebt werden.",
                       "zh_CN": "\u6ce8\u610f\\c[3]\u56e2\u961f\u676f\u8d5b\\c[0]\u4e2d\u88ab\u51fb\u8d25\u7684\u961f\u53cb\u76f4\u5230\u56de\u5408\u7ed3\u675f\u624d\u80fd\u590d\u6d3b\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\\c[3]\u30c1\u30fc\u30e0\u30ab\u30c3\u30d7\\c[0]\u306e\u653b\u7565\u4e2d\u306b\u30e1\u30f3\u30d0\u30fc\u304c\n\u5012\u308c\u305f\u5834\u5408\u306f\u3001\u305d\u306e\u30e9\u30a6\u30f3\u30c9\u304c\u7d42\u308f\u308b\u307e\u3067\n\u5fa9\u6d3b\u3057\u306a\u3044\u306e\u3067\u6c17\u3092\u4ed8\u3051\u3066\u304f\u3060\u3055\u3044\u3002<<A<<[CHANGED 2019/04/16]",
@@ -890,7 +890,7 @@
                   {
                     "message": {
                       "": "\\c[3]Regular Cups\\c[0] are available by default and can be accessed at the \\c[3]left counter\\c[0].",
-                      "en_US": "As \\c[3]Copas Regulares\\c[0] estão disponíveis por padrão e podem ser acessadas no \\c[3]contador à esquerda\\c[0].",
+                      "en_US": "As \\c[3]Copas Padrão\\c[0] já estão disponíveis e podem ser acessadas no \\c[3]balcão à esquerda\\c[0].",
                       "de_DE": "\\c[3]Regul\u00e4re Pokale\\c[0] sind von Anfang an verf\u00fcgbar und k\u00f6nnen am \\c[3]linken Schalter\\c[0] aufgerufen werden.",
                       "zh_CN": "\\c[3]\u666e\u901a\u676f\u8d5b\\c[0]\u9ed8\u8ba4\u5f00\u653e\uff0c\u53ef\u4ee5\u4ece\\c[3]\u5de6\u8fb9\u67dc\u53f0\\c[0]\u53c2\u52a0\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\\c[3]\u30ec\u30ae\u30e5\u30e9\u30fc\u30ab\u30c3\u30d7\\c[0]\u306f\u3044\u3064\u3067\u3082\u53c2\u52a0\u53ef\u80fd\u306a\n\u30c7\u30d5\u30a9\u30eb\u30c8\u306e\u30ab\u30c3\u30d7\u3067\u3001\\c[3]\u5de6\u5074\u306e\n\u30ab\u30a6\u30f3\u30bf\u30fc\\c[0]\u304b\u3089\u7533\u3057\u8fbc\u307f\u3067\u304d\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -928,7 +928,7 @@
                   {
                     "message": {
                       "": "And on the \\c[3]right\\c[0] you find \\c[3]Custom Cups\\c[0]!",
-                      "en_US": "E na \\c[3]direita\\c[0] você enconta os \\c[3]Copas Customizados\\c[0]!",
+                      "en_US": "E na \\c[3]direita\\c[0] você encontra as \\c[3]Copas Customizadas\\c[0]!",
                       "de_DE": "Und auf der \\c[3]rechten Seite\\c[0] findest du die \\c[3]Spezialpokale\\c[0]!",
                       "zh_CN": "\u800c\\c[3]\u53f3\u8fb9\\c[0]\u7684\u662f\\c[3]\u81ea\u5b9a\u4e49\u676f\u8d5b\\c[0]!<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u305d\u3057\u3066\\c[3]\u53f3\u5074\u306e\u30ab\u30a6\u30f3\u30bf\u30fc\\c[0]\u3067\u306f\u3001\n\\c[3]\u30ab\u30b9\u30bf\u30e0\u30ab\u30c3\u30d7\\c[0]\u3092\u3054\u5229\u7528\u3044\u305f\u3060\u3051\u307e\u3059\uff01<<A<<[CHANGED 2019/04/16]",
@@ -946,7 +946,7 @@
                   {
                     "message": {
                       "": "Those are unique cups created \\c[3]by players for other players\\c[0]!",
-                      "en_US": "Essas são copas únicos criados \\c[3]por jogadores para outros jogadores\\c[0]!",
+                      "en_US": "Essas são copas únicas criadas \\c[3]por jogadores para outros jogadores\\c[0]!",
                       "de_DE": "Das sind individuelle Pokale, die \\c[3]von Spielern f\u00fcr andere Spieler\\c[0] erstellt worden sind!",
                       "zh_CN": "\u8fd9\u4e9b\u676f\u8d5b\u662f\u7531\\c[3]\u5176\u4ed6\u73a9\u5bb6\u6784\u5efa\u7684\\c[0]!<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u3053\u3061\u3089\u3067\u306f\u3001\\c[3]\u30d7\u30ec\u30a4\u30e4\u30fc\u304b\u3089\n\u4ed6\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u5411\u3051\u3066\\c[0]\u3001\n\u30aa\u30ea\u30b8\u30ca\u30eb\u306e\u30ab\u30c3\u30d7\u3092\u4f5c\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\uff01<<A<<[CHANGED 2019/04/16]",
@@ -1007,7 +1007,7 @@
                   {
                     "message": {
                       "": "Note that players have to purchase a \\c[3]Custom Cup Toolkit\\c[0] to create their own custom cup.",
-                      "en_US": "Note que os jogadores têm que comprar um \\c[3]Kit de Ferramentas de Copa Personalizada\\c[0] para criar sua própria copa personalizada.",
+                      "en_US": "É necessário que os jogadores comprem um \\c[3]Kit de Ferramentas de Copa Customizada\\c[0] para criar suas próprias copas customizadas.",
                       "de_DE": "Bitte beachte, dass du einen \\c[3]Spezialpokal-Bausatz\\c[0] brauchst, um deinen eigenen Pokal zu erstellen.",
                       "zh_CN": "\u8bf7\u6ce8\u610f\u73a9\u5bb6\u9700\u8981\u8d2d\u4e70\\c[3]\u81ea\u5b9a\u4e49\u676f\u8d5b\u5de5\u5177\u7ec4\\c[0]\u624d\u80fd\u521b\u5efa\u81ea\u5df1\u7684\u81ea\u5b9a\u4e49\u676f\u8d5b\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u81ea\u5206\u306e\u30ab\u30b9\u30bf\u30e0\u30ab\u30c3\u30d7\u3092\u4f5c\u308b\u306b\u306f\u3001\n\\c[3]\u30ab\u30b9\u30bf\u30e0\u30ab\u30c3\u30d7\u30c4\u30fc\u30eb\u30ad\u30c3\u30c8\\c[0]\u306e\u3054\u8cfc\u5165\u304c\n\u5fc5\u8981\u3067\u3059\u306e\u3067\u3054\u4e86\u627f\u304f\u3060\u3055\u3044\u3002<<A<<[CHANGED 2019/04/16]",
@@ -1040,7 +1040,7 @@
                       {
                         "message": {
                           "": "Sorry Lea...\\. Evotars have not received permission to create Custom Cups, yet.",
-                          "en_US": "Desculpe Lea...\\. Evotars ainda não receberam permissão para criar Copas Personalizadas.",
+                          "en_US": "Desculpe Lea...\\. Evotares ainda não receberam permissão para criar Copas Customizadas.",
                           "de_DE": "Tut mir leid, Lea...\\. Es ist Evotaren noch nicht erlaubt, Spezialpokale zu erstellen.",
                           "zh_CN": "\u62b1\u6b49\uff0c\u8389\u4e9a...\\.\u8fdb\u5316\u8005\u4e0d\u80fd\u521b\u5efa\u81ea\u5b9a\u4e49\u676f\u8d5b\u5462\u3002<<A<<[CHANGED 2021/05/04]",
                           "zh_TW": "\u62b1\u6b49\uff0c\u8389\u4e9e...\\.\u8cfc\u8cb7\u9019\u6a23\u7684\u5de5\u5177\u7d44\u6703\u5728\u7cfb\u7d71\u4e2d\u7559\u4e0b\u592a\u591a\u7684\u75d5\u8de1\u3002<<A<<[CHANGED 2021/05/04]",
@@ -1078,7 +1078,7 @@
                       {
                         "message": {
                           "": "Sorry Lea...\\. buying such a Toolkit will leave all kinds of traces on the system.",
-                          "en_US": "Lamento Lea...\\. A compra de tal kit de ferramentas deixará todos os tipos de traços no sistema.",
+                          "en_US": "Lamento Lea...\\. Comprar esse kit irá deixar diversos rastros no sistema.",
                           "de_DE": "Tut mir leid, Lea...\\. aber so einen Bausatz zu kaufen w\u00fcrde alle m\u00f6glichen Spuren im System hinterlassen.",
                           "zh_CN": "\u62b1\u6b49\uff0c\u8389\u4e9a...\\.\u8d2d\u4e70\u8fd9\u6837\u7684\u5de5\u5177\u7ec4\u4f1a\u5728\u7cfb\u7edf\u4e2d\u7559\u4e0b\u592a\u591a\u7684\u75d5\u8ff9\u3002<<A<<[CHANGED 2019/05/14]",
                           "ja_JP": "\u60aa\u3044\u306d\u3001\u30ec\u30a2...\\.\u305d\u3046\u3044\u3046\u30c4\u30fc\u30eb\u30ad\u30c3\u30c8\u3092\n\u8cb7\u3046\u3068\u3001\u30b7\u30b9\u30c6\u30e0\u306b\u3042\u308a\u3068\u3042\u3089\u3086\u308b\u75d5\u8de1\u304c\n\u6b8b\u3063\u3061\u3083\u3046\u3093\u3060\u3002<<A<<[CHANGED 2019/05/14]",
@@ -1131,7 +1131,7 @@
                   {
                     "message": {
                       "": "But maybe you will find other players creating custom cups for you...",
-                      "en_US": "Mas talvez você encontre outros jogadores criando copas personalizadas para você...",
+                      "en_US": "Mas talvez você encontre outros jogadores criando copas customizadas para você...",
                       "de_DE": "Aber vielleicht k\u00f6nnen ja andere Spieler Spezialpokale f\u00fcr dich erstellen...",
                       "zh_CN": "\u4e0d\u8fc7\u4e5f\u8bb8\u4f60\u80fd\u627e\u5230\u5176\u4ed6\u73a9\u5bb6\u5e2e\u4f60\u521b\u5efa\u81ea\u5b9a\u4e49\u676f\u8d5b...<<A<<[CHANGED 2019/05/14]",
                       "ja_JP": "\u3067\u3082\u3001\u4ed6\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u304c\u4f5c\u3063\u305f\n\u30ab\u30b9\u30bf\u30e0\u30ab\u30c3\u30d7\u3092\u63a2\u3059\u3053\u3068\u306f\n\u3067\u304d\u308b\u304b\u3082\u306d...<<A<<[CHANGED 2019/05/14]",
@@ -1234,7 +1234,7 @@
                     "0": " ",
                     "label": {
                       "": "Regular and Custom Cups",
-                      "en_US": "Copa Regular e Customizada",
+                      "en_US": "Copa Padrão e Customizada",
                       "langUid": 16151,
                       "zh_CN": "\u666e\u901a\u4e0e\u81ea\u5b9a\u4e49\u676f\u8d5b<<A<<[CHANGED 2019/04/16]",
                       "ko_KR": "\uc77c\ubc18/\ucee4\uc2a4\ud140 \ub300\ud68c<<A<<[CHANGED 2019/04/16]",
@@ -1456,7 +1456,7 @@
                     {
                       "message": {
                         "": "Welcome to the \\c[3]Rhombus Arena\\c[0], Seeker!",
-                        "en_US": "Bem-vinda para a \\c[3]Arena Losango\\c[0], Seeker!",
+                        "en_US": "Bem-vinda à \\c[3]Arena Losango\\c[0], Seeker!",
                         "de_DE": "Willkommen in der \\c[3]Rhombus-Arena\\c[0], Seeker!",
                         "zh_CN": "\u6b22\u8fce\u6765\u5230\\c[3]\u7f57\u59c6\u5e03\u65af\u7ade\u6280\u573a\\c[0]!<<A<<[CHANGED 2019/04/16]",
                         "ja_JP": "\u63a2\u7d22\u8005\u3055\u3093\u3001\n\\c[3]\u30ed\u30f3\u30d0\u30b9\u30a2\u30ea\u30fc\u30ca\\c[0]\u3078\u3088\u3046\u3053\u305d\uff01<<A<<[CHANGED 2019/04/16]",
@@ -1704,7 +1704,7 @@
                         {
                           "text": {
                             "": "To the left you can see a summary of your progress in each round. You can also see what score you need to achieve to obtain a silver or gold medal.",
-                            "en_US": "À esquerda, você pode ver um resumo de seu progresso em cada rodada. Você também pode ver que pontuação você precisa alcançar para obter uma medalha de prata ou ouro.",
+                            "en_US": "À esquerda, tem um resumo do seu progresso por rodada. E você consegue ver qual pontuação precisa pra conseguir a medalha de prata ou ouro.",
                             "de_DE": "Links siehst du eine Zusammenfassung deines Fortschritts f\u00fcr jede Runde und wie viele Punkte du f\u00fcr eine Silber- oder Goldmedaille brauchst.",
                             "zh_CN": "\u5de6\u8fb9\u663e\u793a\u4e86\u4f60\u6bcf\u4e2a\u56de\u5408\u4e2d\u7684\u8fdb\u5ea6\u3002\u4f60\u4e5f\u53ef\u4ee5\u5728\u5176\u4e2d\u770b\u5230\u8fbe\u5230\u767d\u94f6\u6216\u8005\u9ec4\u91d1\u5956\u7ae0\u6240\u9700\u8981\u7684\u5206\u6570\u3002<<A<<[CHANGED 2019/04/16]",
                             "ja_JP": "\u5de6\u5074\u3067\u306f\u30e9\u30a6\u30f3\u30c9\u3054\u3068\u306e\u9032\u307f\u5177\u5408\u306e\n\u307e\u3068\u3081\u3068\u3001\u30b7\u30eb\u30d0\u30fc\u30e1\u30c0\u30eb\u3001\n\u30b4\u30fc\u30eb\u30c9\u30e1\u30c0\u30eb\u3092\u7372\u5f97\u3059\u308b\u306e\u306b\n\u5fc5\u8981\u306a\u30b9\u30b3\u30a2\u3092\u78ba\u8a8d\u3067\u304d\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -4296,7 +4296,7 @@
                     {
                       "message": {
                         "": "Note that each item is only available once and cannot be sold. ",
-                        "en_US": "Observe que cada item só está disponível uma vez e não pode ser vendido.",
+                        "en_US": "Observe que cada item só pode ser comprado uma vez e não pode ser vendido.",
                         "langUid": 16108,
                         "zh_CN": "\u8bf7\u6ce8\u610f\u6240\u6709\u7269\u54c1\u53ea\u80fd\u8d2d\u4e70\u4e00\u6b21\uff0c\u5e76\u4e14\u65e0\u6cd5\u51fa\u552e\u3002<<A<<[CHANGED 2019/04/16]",
                         "ko_KR": "\uac01 \uc544\uc774\ud15c\uc740 \ud55c \ubc88\ub9cc \uc774\uc6a9\ud560 \uc218 \uc788\uc73c\uba70 \ud310\ub9e4\ud560 \uc218 \uc5c6\ub2e4\ub294 \uc810\uc744 \uc5fc\ub450\uc5d0 \ub450\uc138\uc694.<<A<<[CHANGED 2019/04/16]",
@@ -6811,7 +6811,7 @@
           {
             "message": {
               "": "If I understand this correctly you can configure custom cups and do PvP battle challenges that way!",
-              "en_US": "Se eu entendi isso corretamente, você pode configurar copas personalizadas e fazer desafios de batalha PvP dessa forma!",
+              "en_US": "Se eu entendi isso corretamente, você pode configurar copas customizadas e fazer desafios de batalha PvP dessa forma!",
               "langUid": 16125,
               "zh_CN": "\u636e\u6211\u6240\u77e5\uff0c\u4f60\u53ef\u4ee5\u5728\u90a3\u91cc\u8c03\u6574\u81ea\u5b9a\u4e49\u676f\u8d5b\uff0c\u6216\u8005\u8fdb\u884cPVP\uff01<<A<<[CHANGED 2019/04/16]",
               "ko_KR": "\ub0b4\uac00 \uc54c\uace0 \uc788\ub294 \uac8c \ub9de\ub2e4\uba74, \uc5ec\uae30\uc11c \ucee4\uc2a4\ud140 \ub300\ud68c\ub97c \uc124\uacc4\ud558\uace0 PvP \uc804\ud22c \ucc4c\ub9b0\uc9c0\ub97c \ud560 \uc218 \uc788\uc744 \uac70\uc57c!<<A<<[CHANGED 2019/04/16]",
@@ -6985,7 +6985,7 @@
           {
             "message": {
               "": "Just select \\c[3]PvP vs Lily\\c[0] among the \\c[3]Custom Cups\\c[0] to the right.",
-              "en_US": "Basta selecionar \\c[3]PvP vs Lily\\c[0] entre os \\c[3]Copas Customizados\\c[0] à direita.",
+              "en_US": "Selecione \\c[3]PvP vs Lily\\c[0] entre as \\c[3]Copas Customizadas\\c[0] à direita.",
               "de_DE": "W\u00e4hle einfach den \\c[3]PvP vs. Lily\\c[0]-Pokal unter den \\c[3]Spezialpokalen\\c[0] auf der rechten Seite.",
               "zh_CN": "\u5728\\c[3]\u81ea\u5b9a\u4e49\u676f\u8d5b\\c[0]\u4e2d\u9009\u62e9\\c[3]PvP vs \u8389\u8389\\c[0]\u5c31\u884c\u3002<<A<<[CHANGED 2021/01/12]",
               "zh_TW": "\u5728\\c[3]\u81ea\u5b9a\u7fa9\u676f\u8cfd\\c[0]\u4e2d\u9078\u64c7\\c[3]\u8389\u8389\u676f\\c[0]\u5c31\u884c\u3002<<A<<[CHANGED 2021/01/12]",
@@ -7737,7 +7737,7 @@
               {
                 "message": {
                   "": "Welcome to \\c[3]Rhombus Arena\\c[0]!",
-                  "en_US": "Bem-vinda para a \\c[3]Arena Losango\\c[0]!",
+                  "en_US": "Bem-vinda à \\c[3]Arena Losango\\c[0]!",
                   "de_DE": "Willkommen in der \\c[3]Rhombus-Arena\\c[0]!",
                   "zh_CN": "\u6b22\u8fce\u6765\u5230\\c[3]\u7f57\u59c6\u5e03\u65af\u7ade\u6280\u573a\\c[0]!<<A<<[CHANGED 2019/04/16]",
                   "ja_JP": "\\c[3]\u30ed\u30f3\u30d0\u30b9\u30a2\u30ea\u30fc\u30ca\\c[0]\u3078\u3088\u3046\u3053\u305d\uff01<<A<<[CHANGED 2019/04/16]",
@@ -7827,7 +7827,7 @@
                   {
                     "message": {
                       "": "You get extra points for dealing \\c[3]effective damage\\c[0] using your enemy's weakness.",
-                      "en_US": "Você ganha pontos extras por causar \\c[3]danos efetivos\\c[0] usando a fraqueza de seu inimigo.",
+                      "en_US": "Você ganha pontos extras ao causar \\c[3]danos efetivos\\c[0] explorando a fraqueza do seu inimigo.",
                       "de_DE": "Du bekommst Bonuspunkte f\u00fcr \\c[3]Effektivschaden\\c[0], indem du die Schw\u00e4chen des Gegners ausnutzt.",
                       "zh_CN": "\u4f60\u8fd8\u53ef\u4ee5\u901a\u8fc7\u5bf9\u654c\u4eba\u7684\u5f31\u70b9\u9020\u6210\\c[3]\u6709\u6548\u4f24\u5bb3\\c[0]\u6765\u83b7\u5f97\u989d\u5916\u5206\u6570\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u6575\u306e\u5f31\u70b9\u5c5e\u6027\u3092\u7528\u3044\u3066\\c[3]\u52b9\u679c\u7684\u306a\u30c0\u30e1\u30fc\u30b8\\c[0]\u3092\n\u4e0e\u3048\u308b\u3053\u3068\u3067\u3001\u8ffd\u52a0\u306e\u30b9\u30b3\u30a2\u30dd\u30a4\u30f3\u30c8\u3092\n\u5f97\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -7845,7 +7845,7 @@
                   {
                     "message": {
                       "": "Also, your score further increases for specific combat actions such as \\c[3]perfect guards\\c[0], \\c[3]perfect dodges\\c[0] and \\c[3]inflicting status effects\\c[0].",
-                      "en_US": "Além disso, sua pontuação aumenta ainda mais para ações de combate específicas, como por exemplo, \\c[3]defesas perfeitas\\c[0], \\c[3]esquivas perfeitas\\c[0] e \\c[0]efeitos de status infligidos\\c[0].",
+                      "en_US": "Além disso, sua pontuação aumenta ainda mais para ações de combate específicas, como \\c[3]defesas perfeitas\\c[0], \\c[3]esquivas perfeitas\\c[0] e \\c[0]efeitos de status infligidos\\c[0].",
                       "de_DE": "Au\u00dferdem erh\u00f6ht sich deine Punktzahl durch bestimmte Aktionen im Kampf wie \\c[3]Perfektes Blocken\\c[0], \\c[3]Perfektes Ausweichen\\c[0] und durch \\c[3]Zuf\u00fcgen von Statuseffekten\\c[0].",
                       "zh_CN": "\u53e6\u5916\uff0c\u4f60\u8fd8\u53ef\u4ee5\u901a\u8fc7\u5728\u6218\u6597\u4e2d\u505a\u51fa\\c[3]\u5b8c\u7f8e\u683c\u6321\\c[0]\uff0c\\c[3]\u5b8c\u7f8e\u95ea\u907f\\c[0]\u548c\\c[3]\u9020\u6210\u72b6\u6001\u6548\u679c\\c[0]\u6765\u8fdb\u4e00\u6b65\u63d0\u9ad8\u5206\u6570\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u307e\u305f\u3001\\c[3]\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u30ac\u30fc\u30c9\\c[0]\u3084\n\\c[3]\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u30c9\u30c3\u30b8\\c[0]\u3001\\c[3]\u30b9\u30c6\u30fc\u30bf\u30b9\u7570\u5e38\u306e\n\u4ed8\u4e0e\\c[0]\u306e\u3088\u3046\u306a\u7279\u5b9a\u306e\u30a2\u30af\u30b7\u30e7\u30f3\u3092\n\u3068\u308b\u3053\u3068\u3067\u3001\u30b9\u30b3\u30a2\u3092\u3055\u3089\u306b\u4f38\u3070\u305b\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -7863,7 +7863,7 @@
                   {
                     "message": {
                       "": "\\c[3]Breaking enemies\\c[0] gives you extra points as well. However, note that you will get these points only \\c[3]once per enemy or boss phase\\c[0]!",
-                      "en_US": "A \\c[3]quebra de inimigos\\c[0] também lhe dá pontos extras. Entretanto, note que você receberá estes pontos apenas \\c[3]uma vez por cada fase do inimigo ou do chefe\\c[0]!",
+                      "en_US": "\\c[3]Atordoar inimigos\\c[0] também gera pontos extras, mas você receberá esses pontos apenas \\c[3]uma vez por cada fase do inimigo ou do chefe\\c[0]!",
                       "de_DE": "\\c[3]Gebrochene Gegner\\c[0] geben ebenfalls Bonuspunkte. Die erh\u00e4ltst du allerdings nur \\c[3]einmal pro Gegner- oder Bossphase\\c[0]!",
                       "zh_CN": "\\c[3]\u7834\u9632\\c[0]\u4e5f\u4f1a\u7ed9\u4f60\u989d\u5916\u5206\u6570\u3002\u4f46\u662f\\c[3]\u6bcf\u4e2a\u654c\u4eba/Boss\u9636\u6bb5\u7684\u7834\u9632\u5206\u6570\u53ea\u4f1a\u5956\u52b1\u4e00\u6b21\\c[0]!<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u3055\u3089\u306b\u3001\\c[3]\u6575\u3092\u30d6\u30ec\u30a4\u30af\u72b6\u614b\u306b\u3057\u3066\u3082\\c[0]\n\u30dd\u30a4\u30f3\u30c8\u3092\u5f97\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\u305f\u3060\u3057\u3001\n\u3053\u306e\u30dd\u30a4\u30f3\u30c8\u306f\\c[3]\u65751\u4f53\u307e\u305f\u306f\u30dc\u30b9\u30d5\u30a7\u30a4\u30ba\n\u3072\u3068\u3064\\c[0]\u3054\u3068\u306b\u3057\u304b\u3064\u304b\u306a\u3044\u306e\u3067\n\u6ce8\u610f\u3057\u3066\u304f\u3060\u3055\u3044\uff01<<A<<[CHANGED 2019/04/16]",
@@ -7881,7 +7881,7 @@
                   {
                     "message": {
                       "": "\\c[3]Receiving damage\\c[0], on the other hand, will \\c[3]quickly decrease your score\\c[0], so better watch out!",
-                      "en_US": "Por outro lado,\\c[3]receber danos\\c[0], \\c[3]diminuirá rapidamente sua pontuação\\c[0], então é melhor ter cuidado!",
+                      "en_US": "Entretanto, \\c[3]receber danos\\c[0], \\c[3]diminuirá rapidamente sua pontuação\\c[0], então é melhor ter cuidado!",
                       "de_DE": "\\c[3]Erlittener Schaden\\c[0] dagegen wird deine \\c[3]Punktzahl schnell senken\\c[0], pass also gut auf!",
                       "zh_CN": "\\c[3]\u53d7\u5230\u4f24\u5bb3\\c[0]\u5219\u4f1a\\c[3]\u5feb\u901f\u964d\u4f4e\u5206\u6570\\c[0]\uff0c\u6240\u4ee5\u5c0f\u5fc3\u70b9\uff01<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u4e00\u65b9\u3067\u3001\\c[3]\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\\c[0]\u3068\n\\c[3]\u30b9\u30b3\u30a2\u306f\u6025\u901f\u306b\u6e1b\u3063\u3066\\c[0]\u3057\u307e\u3044\u307e\u3059\u3002\n\u3069\u3046\u304b\u6c17\u3092\u3064\u3051\u3066\u304f\u3060\u3055\u3044\uff01<<A<<[CHANGED 2019/04/16]",
@@ -7899,7 +7899,7 @@
                   {
                     "message": {
                       "": "Same when your enemies manage to \\c[3]heal themselves\\c[0] or when you reach an \\c[3]Elemental Overload\\c[0].",
-                      "en_US": "O mesmo quando seus inimigos conseguem se \\c[3]curar\\c[0] ou quando você atinge uma \\c[3]Sobrecarga Elemental\\c[0].",
+                      "en_US": "O mesmo acontece quando seus inimigos conseguem se \\c[3]curar\\c[0] ou quando você atinge uma \\c[3]Sobrecarga Elemental\\c[0].",
                       "de_DE": "Das Gleiche gilt auch bei einer \\c[3]Element\u00fcberladung\\c[0], oder wenn Gegner es schaffen, \\c[3]sich zu heilen\\c[0].",
                       "zh_CN": "\u800c\u654c\u4eba\\c[3]\u81ea\u6211\u6cbb\u7597\\c[0]\u6216\u8005\u4f60\u89e6\u53d1\\c[3]\u5143\u7d20\u8fc7\u8f7d\\c[0]\u4e5f\u4f1a\u6263\u5206\uff01<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\\c[3]\u30a8\u30ec\u30e1\u30f3\u30bf\u30eb\u30aa\u30fc\u30d0\u30fc\u30ed\u30fc\u30c9\u306b\u306a\u3063\u3066\n\u3057\u307e\u3063\u305f\u3068\u304d\\c[0]\u3084\u3001\\c[3]\u6575\u304c\u81ea\u5df1\u56de\u5fa9\u3057\u305f\u3068\u304d\\c[0]\u3082\n\u540c\u69d8\u306b\u3001\u30b9\u30b3\u30a2\u306f\u6e1b\u3063\u3066\u3057\u307e\u3044\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -7919,7 +7919,7 @@
                   {
                     "message": {
                       "": "[nods kills and chains question]",
-                      "en_US": "[acena para questão de mortes e combos]",
+                      "en_US": "[acena para questão de eliminações e combos]",
                       "de_DE": "[nickt Ketten und Kettenkombo-Frage]",
                       "zh_CN": "[\u70b9\u5934\uff0c\u8be2\u95ee\u51fb\u6740\u548c\u8fde\u6740\u95ee\u9898]<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "[\u30ad\u30eb\u3068\u30c1\u30a7\u30a4\u30f3\u306b\u3064\u3044\u3066\u3046\u306a\u305a\u304f]<<A<<[CHANGED 2019/04/16]",
@@ -7952,7 +7952,7 @@
                   {
                     "message": {
                       "": "Additionally, defeating enemies will \\c[3]increase your chain\\c[0].",
-                      "en_US": "Além disso, eliminar inimigos \\c[0]aumentará seu combo\\c[0]",
+                      "en_US": "Além disso, eliminar inimigos \\c[0]aumentará seu combo\\c[0].",
                       "de_DE": "Au\u00dferdem erh\u00f6ht jeder besiegte Gegner \\c[3]deine Kettenkombo\\c[0].",
                       "zh_CN": "\u8fde\u7eed\u51fb\u8d25\u654c\u4eba\u5c06\\c[3]\u63d0\u9ad8\u8fde\u6740\u6570\\c[0].<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u3055\u3089\u306b\u3001\u6575\u3092\u5012\u3059\u3068\n\\c[3]\u30c1\u30a7\u30a4\u30f3\u304c\u5897\u3048\u307e\u3059\\c[0]\u3002<<A<<[CHANGED 2019/04/16]",
@@ -7970,7 +7970,7 @@
                   {
                     "message": {
                       "": "The points of each defeated enemy are subsequently \\c[3]multiplied with your chain\\c[0].",
-                      "en_US": "Os pontos de cada inimigo derrotado são subseqüentemente \\c[3]multiplicados com seu combo\\c[0].",
+                      "en_US": "Os pontos de cada inimigo derrotado serão \\c[3]multiplicados com seu combo\\c[0].",
                       "de_DE": "Die Punkte jedes besiegten Gegners werden \\c[3]mit deiner Kettenkombo multipliziert\\c[0].",
                       "zh_CN": "\u6bcf\u4e2a\u88ab\u51fb\u8d25\u7684\u654c\u4eba\u90fd\u5c06\\c[3]\u6839\u636e\u8fde\u6740\u6570\u83b7\u5f97\u4e58\u5206\\c[0]\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u6575\u3092\u5012\u3057\u305f\u3068\u304d\u306b\u624b\u306b\u5165\u308b\u30dd\u30a4\u30f3\u30c8\u306f\u3001\n\\c[3]\u30c1\u30a7\u30a4\u30f3\u306e\u6570\u304c\u591a\u3044\u307b\u3069\u5897\u52a0\\c[0]\u3057\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -7988,7 +7988,7 @@
                   {
                     "message": {
                       "": "You will keep your chain as long as you \\c[3]remain active in combat\\c[0] without being hit \\c[3]too often\\c[0].",
-                      "en_US": "Você manterá seu combo enquanto permanecer \\c[3]ativo no combate\\c[0] sem ser atingido com \\c[3]muita freqüência\\c[0].",
+                      "en_US": "Seu combo será mantido enquanto você permanecer \\c[3]ativa no combate\\c[0] e não levar \\c[3]muitos golpes\\c[0].",
                       "de_DE": "Solange du \\c[3]im Kampf aktiv bleibst\\c[0] und dich nicht \\c[3]zu oft treffen l\u00e4sst\\c[0], bleibt deine Kette aufrecht erhalten.",
                       "zh_CN": "\u53ea\u8981\\c[3]\u4fdd\u6301\u6218\u6597\u72b6\u6001\\c[0]\u5e76\u4e14\\c[3]\u4e0d\u88ab\u591a\u6b21\u51fb\u4e2d\\c[0]\uff0c\u5c31\u80fd\u7ef4\u6301\u8fde\u6740\u72b6\u6001\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\\c[3]\u6226\u95d8\u4e2d\u306b\u884c\u52d5\u3057\u3064\u3065\u3051\\c[0]\u3001\n\\c[3]\u6975\u529b\u653b\u6483\u3092\u53d7\u3051\u306a\u3044\\c[0]\u3088\u3046\u306b\u3059\u308b\u3053\u3068\u3067\u3001\n\u30c1\u30a7\u30a4\u30f3\u3092\u7dad\u6301\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -8006,7 +8006,7 @@
                   {
                     "message": {
                       "": "You'll also get extra points for defeating \\c[3]multiple enemies at the same time\\c[0] which are also multiplied with your chain.",
-                      "en_US": "Você também receberá pontos extras por derrotar \\c[3]vários inimigos ao mesmo tempo\\c[0] que também são multiplicados com seu combo.",
+                      "en_US": "Ao derrotar \\c[3]múltiplos inimigos ao mesmo tempo\\c[0], você receberá pontos extras, que serão multiplicados pelo seu combo.",
                       "de_DE": "Zus\u00e4tzliche Bonuspunkte erh\u00e4ltst du, wenn du \\c[3]mehrere Gegner auf einen Schlag erledigst\\c[0]. Diese werden ebenfalls mit deiner Kettenkombo multipliziert.",
                       "zh_CN": "\u53e6\u5916\\c[3]\u540c\u65f6\u51fb\u8d25\u591a\u4e2a\u654c\u4eba\\c[0]\u5c06\u5956\u52b1\u989d\u5916\u5206\u6570\uff0c\u5e76\u4e14\u4e5f\u4f1a\u4ee5\u4e58\u5206\u8ba1\u7b97\u3002<<A<<[CHANGED 2021/03/05]",
                       "ja_JP": "\u307e\u305f\u3001\\c[3]\u8907\u6570\u306e\u6575\u3092\u540c\u6642\u306b\u5012\u3059\\c[0]\u3068\n\u8ffd\u52a0\u306e\u30dd\u30a4\u30f3\u30c8\u3092\u5f97\u3089\u308c\u308b\u4e0a\u3001\n\u305d\u306e\u8ffd\u52a0\u30dd\u30a4\u30f3\u30c8\u3082\u30c1\u30a7\u30a4\u30f3\u306b\u3088\u308b\n\u5897\u52a0\u30dc\u30fc\u30ca\u30b9\u306e\u6069\u6075\u3092\u5f97\u307e\u3059\u3002<<A<<[CHANGED 2021/03/05]",
@@ -8024,7 +8024,7 @@
                   {
                     "message": {
                       "": "As such, defeating enemies in a certain way can boost your score by quite a lot!",
-                      "en_US": "Assim, derrotar os inimigos de uma certa forma pode aumentar muito sua pontuação!",
+                      "en_US": "Assim, ao destruir os inimigos de uma determinada maneira, seus pontos aumentarão ainda mais!",
                       "de_DE": "Wenn du die Gegner also auf eine bestimmte Weise besiegst, wird das deine Punktzahl um ein Vielfaches steigern!",
                       "zh_CN": "\u56e0\u6b64\u6709\u6218\u672f\u7684\u51fb\u8d25\u654c\u4eba\u53ef\u4ee5\u5927\u5e45\u63d0\u9ad8\u5206\u6570\uff01<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u3064\u307e\u308a\u3001\u6575\u3092\u9069\u5207\u306a\u65b9\u6cd5\u3067\u5012\u305b\u3070\u3001\n\u30b9\u30b3\u30a2\u3092\u5927\u304d\u304f\u4f38\u3070\u305b\u308b\u3068\u3044\u3046\u3053\u3068\u3067\u3059\uff01<<A<<[CHANGED 2019/04/16]",
@@ -8077,7 +8077,7 @@
                   {
                     "message": {
                       "": "Commonly, each round comes with a \\c[3]time bonus\\c[0] that you will receive by finishing below a certain target time.",
-                      "en_US": "Normalmente, cada rodada vem com um \\c[3]bônus de tempo\\c[0] que você receberá ao terminar abaixo de um determinado tempo alvo.",
+                      "en_US": "Em geral, cada rodada vem com um \\c[3]bônus de tempo\\c[0] que você recebe ao concluir dentro de um tempo estipulado.",
                       "de_DE": "F\u00fcr gew\u00f6hnlich erh\u00e4ltst du einen \\c[3]Zeitbonus\\c[0], wenn du eine Runde innerhalb der Vorgabezeit gewinnst.",
                       "zh_CN": "\u901a\u5e38\u6765\u8bf4\uff0c\u5728\\c[3]\u65f6\u95f4\u9650\u5236\\c[0]\u5185\u5b8c\u6210\u56de\u5408\u90fd\u53ef\u4ee5\u83b7\u5f97\u989d\u5916\u5206\u6570\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u901a\u5e38\u3001\u5404\u30e9\u30a6\u30f3\u30c9\u306b\u306f\n\\c[3]\u30bf\u30a4\u30e0\u30dc\u30fc\u30ca\u30b9\\c[0]\u304c\u3042\u308a\u3001\u8a2d\u5b9a\u3055\u308c\u305f\n\u76ee\u6a19\u30bf\u30a4\u30e0\u3088\u308a\u65e9\u304f\u30af\u30ea\u30a2\u3059\u308b\u3053\u3068\u3067\n\u30dd\u30a4\u30f3\u30c8\u3092\u5165\u624b\u3067\u304d\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -8095,7 +8095,7 @@
                   {
                     "message": {
                       "": "A unique aspect about the time bonus is that you still get \\c[3]partial points\\c[0] for being faster than \\c[3]twice the target time\\c[0].",
-                      "en_US": "Um aspecto único sobre o bônus de tempo é que você ainda recebe \\c[3]pontos parciais\\c[0] por atingir a metade do \\c[3]tempo alvo\\c[0].",
+                      "en_US": "Uma peculiaridade do bônus de tempo é que você recebe \\c[3]pontos parciais\\c[0] ao atingir a metade do \\c[3]tempo alvo\\c[0].",
                       "de_DE": "Das Besondere am Zeitbonus ist, dass du noch \\c[3]Teilpunkte\\c[0] erh\u00e4ltst, wenn du es innerhalb \\c[3]der H\u00e4lfte der Vorgabezeit\\c[0] schaffst.",
                       "zh_CN": "\u65f6\u95f4\u5956\u52b1\u7684\u7279\u6b8a\u4e4b\u5904\u5728\u4e8e\uff0c\u53ea\u8981\u4f60\u5728\u65f6\u95f4\u9650\u5236\u7684\\c[3]\u4e24\u500d\u4ee5\u5185\\c[0]\u5b8c\u6210\uff0c\u5c31\u80fd\u83b7\u5f97\\c[3]\u90e8\u5206\u5956\u52b1\u5206\u6570\\c[0]\u3002<<A<<[CHANGED 2021/03/05]",
                       "ja_JP": "\u30bf\u30a4\u30e0\u30dc\u30fc\u30ca\u30b9\u306a\u3089\u3067\u306f\u306e\u7279\u5fb4\u3068\u3057\u3066\u3001\n\\c[3]\u76ee\u6a19\u30bf\u30a4\u30e0\u306e2\u500d\\c[0]\u4ee5\u5185\u306b\u30af\u30ea\u30a2\u3059\u308b\n\u3053\u3068\u304c\u3067\u304d\u308c\u3070\u3001\\c[3]\u30dd\u30a4\u30f3\u30c8\u3092\u4e00\u90e8\\c[0]\n\u5f97\u3089\u308c\u308b\u306e\u3067\u3001\u8ae6\u3081\u305a\u304c\u3093\u3070\u3063\u3066\u304f\u3060\u3055\u3044\u3002<<A<<[CHANGED 2021/03/05]",
@@ -8202,7 +8202,7 @@
                   {
                     "message": {
                       "": "You can receive \\c[3]bronze\\c[0], \\c[3]silver\\c[0], and \\c[3]gold medals\\c[0] for each round depending on your score.",
-                      "en_US": "Você pode receber medalhas de \\c[3]bronze\\c[0], \\c[3]prata\\c[0], e de \\c[3] ouro\\c[0], para cada rodada, dependendo de sua pontuação.",
+                      "en_US": "Você pode receber medalhas de \\c[3]bronze\\c[0], \\c[3]prata\\c[0] e de \\c[3] ouro\\c[0], para cada rodada, dependendo da sua pontuação.",
                       "de_DE": "Du kannst - abh\u00e4ngig von deiner Punktzahl - in jeder Runde \\c[3]Bronze-\\c[0], \\c[3]Silber-\\c[0] und \\c[3]Goldmedaillen\\c[0] gewinnen.",
                       "zh_CN": "\u4f60\u5c06\u6839\u636e\u6bcf\u56de\u5408\u7684\u5206\u6570\u83b7\u5f97\\c[3]\u9752\u94dc\\c[0]\uff0c\\c[3]\u767d\u94f6\\c[0]\u4ee5\u53ca\\c[3]\u9ec4\u91d1\\c[0]\u5956\u7ae0\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u30e9\u30a6\u30f3\u30c9\u3092\u30af\u30ea\u30a2\u3059\u308b\u3068\u3001\u30b9\u30b3\u30a2\u306b\n\u5fdc\u3058\u3066\\c[3]\u30d6\u30ed\u30f3\u30ba\u30e1\u30c0\u30eb\\c[0]\u3001\\c[3]\u30b7\u30eb\u30d0\u30fc\u30e1\u30c0\u30eb\\c[0]\u3001\n\\c[3]\u30b4\u30fc\u30eb\u30c9\u30e1\u30c0\u30eb\\c[0]\u306e\u3046\u3061\u3001\u3069\u308c\u304b\u3092\n\u7372\u5f97\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -8256,7 +8256,7 @@
                   {
                     "message": {
                       "": "You can receive an additional medal for your performance in \\c[3]Rush mode\\c[0] which is derived from your average performance in each round.",
-                      "en_US": "Você pode receber uma medalha adicional por seu desempenho no \\c[3]Modo Rápido\\c[0], que é derivada de seu desempenho médio em cada rodada.",
+                      "en_US": "Você pode ganhar uma medalha extra pelo seu desempenho no \\c[3]Modo Rápido\\c[0], que é baseado na sua média de desempenho em cada rodada.",
                       "de_DE": "Im \\c[3]Rush-Modus\\c[0] kannst du noch eine zus\u00e4tzliche Medaille gewinnen, die von deiner Durchschnittsleistung in allen Runden abh\u00e4ngig ist.",
                       "zh_CN": "\u5982\u679c\u8fdb\u884c\\c[3]\u8fde\u6218\u6a21\u5f0f\\c[0]\uff0c\u4f60\u5c06\u83b7\u5f97\u4e00\u679a\u989d\u5916\u5956\u7ae0\uff0c\u548c\u4e00\u822c\u7684\u56de\u5408\u8868\u73b0\u76f8\u4e92\u72ec\u7acb\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\\c[3]\u30e9\u30c3\u30b7\u30e5\u30e2\u30fc\u30c9\\c[0]\u306e\u3001\u30e9\u30a6\u30f3\u30c9\u3054\u3068\u306e\n\u8a55\u4fa1\u5e73\u5747\u306b\u3082\u3068\u3065\u3044\u3066\u8a08\u7b97\u3055\u308c\u308b\n\u6210\u7e3e\u306b\u3088\u3063\u3066\u306f\u3001\u3055\u3089\u306b\u30e1\u30c0\u30eb\u3092\n\u7372\u5f97\u3067\u304d\u308b\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -8274,7 +8274,7 @@
                   {
                     "message": {
                       "": "When you've collected \\c[3]medals\\c[0] for each round of a cup, you will also receive a \\c[3]trophy\\c[0] in \\c[3]bronze, silver, or gold\\c[0]!",
-                      "en_US": "Quando você tiver coletado \\c[3]medalhas\\c[0] para cada rodada de uma copa, você também receberá um \\c[3]troféu\\c[0] \\c[3]em bronze, prata ou ouro\\c[0]!",
+                      "en_US": "Ao receber \\c[3]medalhas\\c[0] para todas as rodadas de uma copa, você também ganhará um \\c[3]troféu\\c[0] de \\c[3]bronze, prata ou ouro\\c[0]!",
                       "de_DE": "Wenn du in jeder Runde eine \\c[3]Medaille\\c[0] gewonnen hast, erh\u00e4ltst du daf\u00fcr eine \\c[3]Troph\u00e4e\\c[0] aus \\c[3]Bronze\\c[0], \\c[3]Silber\\c[0] oder \\c[3]Gold\\c[0]!",
                       "zh_CN": "\u5982\u679c\u4f60\u6536\u96c6\u4e86\u4e00\u4e2a\u676f\u8d5b\u6240\u6709\u56de\u5408\u7684\\c[3]\u5956\u7ae0\\c[0]\uff0c\u4f60\u8fd8\u5c06\u83b7\u5f97\u5bf9\u5e94\u7684\\c[3]\u9752\u94dc\uff0c\u767d\u94f6\u6216\u9ec4\u91d1\\c[0]\\c[3]\u6210\u5c31\\c[0]!<<A<<[CHANGED 2019/05/14]",
                       "ja_JP": "\u30ab\u30c3\u30d7\u306e\u5404\u30e9\u30a6\u30f3\u30c9\u306e\\c[3]\u30e1\u30c0\u30eb\\c[0]\u3092\n\u3059\u3079\u3066\u96c6\u3081\u308b\u3053\u3068\u3067\u3001\\c[3]\u30d6\u30ed\u30f3\u30ba\u3001\n\u30b7\u30eb\u30d0\u30fc\u3001\u30b4\u30fc\u30eb\u30c9\\c[0]\u306e3\u7a2e\u306e\n\\c[3]\u30c8\u30ed\u30d5\u30a3\u30fc\\c[0]\u3092\u5165\u624b\u3067\u304d\u307e\u3059\uff01<<A<<[CHANGED 2019/05/14]",
@@ -8292,7 +8292,7 @@
                   {
                     "message": {
                       "": "Finally, for each new \\c[3]medal\\c[0] you will receive \\c[3]Arena coins\\c[0] that you can exchange for rewards!",
-                      "en_US": "Por fim, para cada nova \\c[3]medalha\\c[0], você receberá \\c[3]Moedas de Arena\\c[0] que você pode trocar por recompensas!",
+                      "en_US": "E a cada nova \\c[3]medalha\\c[0], você ganhará \\c[3]Moedas da Arena\\c[0], que podem ser trocadas por recompensas!",
                       "de_DE": "Zu guter letzt erh\u00e4ltst du f\u00fcr jede neue \\c[3]Medaille\\c[0] auch \\c[3]Arenam\u00fcnzen\\c[0], mit denen du Belohnungen kaufen kannst!",
                       "zh_CN": "\u8fd8\u6709\uff0c\u6bcf\u4e00\u4e2a\\c[3]\u5956\u7ae0\\c[0]\u90fd\u5c06\u7ed9\u4e0e\u4f60\\c[3]\u7ade\u6280\u573a\u5e01\\c[0]\uff0c\u53ef\u4ee5\u7528\u6765\u5151\u6362\u5956\u54c1\uff01<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u3055\u3089\u306b\u3001\u65b0\u3057\u304f\\c[3]\u30e1\u30c0\u30eb\\c[0]\u3092\n\u624b\u306b\u5165\u308c\u308b\u305f\u3073\u3001\u8cde\u54c1\u3068\u4ea4\u63db\u3067\u304d\u308b\n\\c[3]\u30a2\u30ea\u30fc\u30ca\u30b3\u30a4\u30f3\\c[0]\u304c\u5165\u624b\u3067\u304d\u307e\u3059\uff01<<A<<[CHANGED 2019/04/16]",
@@ -8310,7 +8310,7 @@
                   {
                     "message": {
                       "": "One last thing, if you perform exceptionally well in a round or cup, you may receive the highest rating: the \\c[3]platinum\\c[0] medal and trophy.",
-                      "en_US": "Uma última coisa, se você tiver um desempenho excepcional em uma rodada ou copa, você pode receber a mais alta classificação: a medalha e o troféu de \\c[3]platina\\c[0].",
+                      "en_US": "Note que essas classificações têm o propósito de mostrar seu nível de especialização e não geram moedas de arena adicionais.",
                       "de_DE": "Eine letzte Sache: Wenn deine Leistung in einer Runde oder einem Pokal au\u00dfergew\u00f6hnlich gut war, kannst du mit etwas Gl\u00fcck sogar eine \\c[3]Platin\\c[0]medaille und -troph\u00e4e gewinnen!",
                       "zh_CN": "\u6700\u540e\uff0c\u5982\u679c\u4f60\u5728\u676f\u8d5b\u7684\u67d0\u4e00\u56de\u5408\u91cc\u8868\u73b0\u7279\u522b\u51fa\u8272\uff0c\u4f60\u5c06\u4f1a\u83b7\u5f97\\c[3]\u767d\u91d1\\c[0]\u5956\u7ae0\u4e0e\u6210\u5c31\u3002<<A<<[CHANGED 2019/04/16]",
                       "ja_JP": "\u6700\u5f8c\u306b\u3001\u3082\u3057\u3042\u306a\u305f\u304c\u30e9\u30a6\u30f3\u30c9\u304b\u30ab\u30c3\u30d7\u3067\n\u975e\u5e38\u306b\u9ad8\u3044\u6210\u7e3e\u3092\u304a\u3055\u3081\u305f\u5834\u5408\u3001\n\u6700\u9ad8\u30e9\u30f3\u30af\u3067\u3042\u308b\\c[3]\u30d7\u30e9\u30c1\u30ca\\c[0]\u306e\u30e1\u30c0\u30eb\u3001\n\u307e\u305f\u306f\u30c8\u30ed\u30d5\u30a3\u30fc\u304c\u7372\u5f97\u3067\u304d\u307e\u3059\u3002<<A<<[CHANGED 2019/04/16]",
@@ -8385,7 +8385,7 @@
                     "0": " ",
                     "label": {
                       "": "Enemy Kills and Chains",
-                      "en_US": "Eliminção de Inimigos e Combos",
+                      "en_US": "Eliminação de Inimigos e Combos",
                       "langUid": 16203,
                       "zh_CN": "\u51fb\u6740\u4e0e\u8fde\u6740<<A<<[CHANGED 2019/04/16]",
                       "ko_KR": "\uc801 \ucc98\uce58/\uc5f0\uc18d \ucc98\uce58<<A<<[CHANGED 2019/04/16]",
@@ -8614,7 +8614,7 @@
             "entity": { "global": true, "name": "hexa1" },
             "text": {
               "": "Hey, I'm planning to use consumables and it'd be a shame if they go to waste.",
-              "en_US": "Ei, estou planejando usar items e seria uma pena se eles fossem para o lixo.",
+              "en_US": "Ei, eu quero usar os itens, e seria uma pena se eles fossem pro lixo.",
               "langUid": 16213,
               "zh_CN": "\u6211\u6253\u7b97\u7528\u6d88\u8017\u54c1\uff0c\u53ef\u8981\u662f\u7528\u4e86\u53c8\u6ca1\u8fc7\u5c31\u6d6a\u8d39\u4e86\u3002<<A<<[CHANGED 2019/04/16]",
               "ko_KR": "\ub09c \uc18c\ube44 \uc544\uc774\ud15c\uc744 \uc0ac\uc6a9\ud558\ub824\uace0 \ud558\ub294\ub370 \ub0ad\ube44\ub9cc \ud558\uac8c \ub418\uba74 \uc5b4\uca4c\ub098 \uac71\uc815\uc774 \ub3fc.<<A<<[CHANGED 2019/04/16]",
@@ -8627,7 +8627,7 @@
             "entity": { "global": true, "name": "tri1" },
             "text": {
               "": "Come on, you're sitting on a huge stack of items! You'll never be able to use those up!",
-              "en_US": "Qual é, você está sentado em uma pilha enorme de itens! Você nunca poderá usá-los!",
+              "en_US": "Qual é, você tem milhões de itens! Você nunca vai usar eles direito!",
               "langUid": 16214,
               "zh_CN": "\u4f60\u5c6f\u4e86\u4e00\u5927\u5806\u597d\u5417\uff01\u6c38\u8fdc\u90fd\u7528\u4e0d\u5b8c\u7684\uff01<<A<<[CHANGED 2019/04/16]",
               "ko_KR": "\uc5d0\uc774, \ub10c \uac70\ub300\ud55c \uc544\uc774\ud15c \ub354\ubbf8 \uc704\uc5d0 \uc549\uc544 \uc788\uc796\uc544! \uc5b4\ucc28\ud53c \ud3c9\uc0dd \uac00\ub3c4 \uadf8\uac70 \ub2e4 \ubabb \uc4f8\uac78?<<A<<[CHANGED 2019/04/16]",
@@ -8654,7 +8654,7 @@
             "entity": { "global": true, "name": "quadro2" },
             "text": {
               "": "Man, I can't figure out how to get that platinum medal.",
-              "en_US": "Cara, não consigo descobrir como ganhar essa medalha de platina.",
+              "en_US": "Cara, não sei como posso ganhar aquela medalha de platina.",
               "langUid": 16215,
               "zh_CN": "\u6211\u771f\u662f\u4e0d\u77e5\u9053\u8981\u600e\u4e48\u624d\u80fd\u5f04\u5230\u767d\u91d1\u5956\u7ae0\u3002<<A<<[CHANGED 2019/04/16]",
               "ko_KR": "\ub3c4\ub300\uccb4 \ud50c\ub798\ud2f0\ub118 \uba54\ub2ec\uc740 \uc5b4\ub5bb\uac8c \uc5bb\ub294 \uac74\uc9c0 \ubaa8\ub974\uaca0\uc5b4.<<A<<[CHANGED 2019/04/16]",
@@ -8680,7 +8680,7 @@
             "entity": { "global": true, "name": "tri3" },
             "text": {
               "": "Why bother? It's not like you get any coins for it!",
-              "en_US": "Por que se preocupar? Você não ganha moedas com isso!",
+              "en_US": "Por que se estressar? Você não ganha moedas com isso!",
               "langUid": 16216,
               "zh_CN": "\u4f55\u5fc5\u5462\uff1f\u53cd\u6b63\u53c8\u4e0d\u4f1a\u7ed9\u7ade\u6280\u573a\u5e01\uff01<<A<<[CHANGED 2019/04/16]",
               "ko_KR": "\ubb50 \uc5b4\ub54c? \uc5b4\ucc28\ud53c \ucf54\uc778\uc744 \ubc1b\ub294 \uac83\ub3c4 \uc544\ub2c8\uc796\uc544!<<A<<[CHANGED 2019/04/16]",
@@ -8693,7 +8693,7 @@
             "entity": { "global": true, "name": "tri2" },
             "text": {
               "": "He's a completionist, there's no helping him.",
-              "en_US": "Ele é um perfeccionista que não pode ser ajudado.",
+              "en_US": "Ele é perfeccionista. Não tem jeito, ele nunca vai estar satisfeito.",
               "langUid": 16217,
               "zh_CN": "\u4ed6\u5c31\u559c\u6b22\u73a9\u8fd9\u79cd\u6311\u6218\uff0c\u6ca1\u6551\u7684\u3002<<A<<[CHANGED 2019/04/16]",
               "ko_KR": "\uc7e8 \uc644\ubcbd\uc8fc\uc758\uc790\ub77c\uc11c \uadf8\ub798. \uadf8\ub807\uac8c \uc598\uae30\ud574\ubd24\uc790 \uc18c\uc6a9\uc5c6\uc5b4.<<A<<[CHANGED 2019/04/16]",
@@ -8888,7 +8888,7 @@
                 "2": {
                   "message": {
                     "": "Welcome to \\c[3]Rhombus Arena\\c[0]!",
-                    "en_US": "Bem-vinda para a \\c[3]Arena Losango\\c[0]!",
+                    "en_US": "Bem-vinda à \\c[3]Arena Losango\\c[0]!",
                     "de_DE": "Willkommen in der \\c[3]Rhombus Arena\\c[0]!",
                     "zh_CN": "\u6b22\u8fce\u6765\u5230\\c[3]\u7f57\u59c6\u5e03\u65af\u7ade\u6280\u573a\\c[0]!<<A<<[CHANGED 2021/02/19]",
                     "ja_JP": "\\c[3]\u30ed\u30f3\u30d0\u30b9\u30a2\u30ea\u30fc\u30ca\\c[0]\u3078\u3088\u3046\u3053\u305d\uff01<<A<<[CHANGED 2021/02/24]",
@@ -8974,7 +8974,7 @@
                 "2": {
                   "message": {
                     "": "Welcome to \\c[3]Rhombus Arena\\c[0]!",
-                    "en_US": "Bem-vinda para a \\c[3]Arena Losango\\c[0]!",
+                    "en_US": "Bem-vinda à \\c[3]Arena Losango\\c[0]!",
                     "de_DE": "Willkommen in der \\c[3]Rhombus Arena\\c[0]!",
                     "zh_CN": "\u6b22\u8fce\u6765\u5230\\c[3]\u7f57\u59c6\u5e03\u65af\u7ade\u6280\u573a\\c[0]!<<A<<[CHANGED 2021/02/19]",
                     "ja_JP": "\\c[3]\u30ed\u30f3\u30d0\u30b9\u30a2\u30ea\u30fc\u30ca\\c[0]\u3078\u3088\u3046\u3053\u305d\uff01<<A<<[CHANGED 2021/02/24]",

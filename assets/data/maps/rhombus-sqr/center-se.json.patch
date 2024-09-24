@@ -1462,7 +1462,7 @@
               {
                 "message": {
                   "": "We are terribly sorry, dear player.",
-                  "en_US": "Lamentamos muito, caro jogador.",
+                  "en_US": "Lamentamos muito, cara jogadora.",
                   "langUid": 55,
                   "de_DE": "Tut uns wirklich leid, lieber Spieler.",
                   "ja_JP": "\u30d7\u30ec\u30a4\u30e4\u30fc\u3055\u3093\u3001\n\u5927\u5909\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u3002<<A<<[CHANGED 2018/08/01]",
@@ -1480,7 +1480,7 @@
               {
                 "message": {
                   "": "This bridge is currently under repair.",
-                  "en_US": "Esta ponte está atualmente sendo reparada.",
+                  "en_US": "Essa ponte está passando por reparos no momento.",
                   "langUid": 56,
                   "de_DE": "Diese Br\u00fccke wird zur Zeit repariert.",
                   "ja_JP": "\u3053\u306e\u6a4b\u306f\u305f\u3060\u3044\u307e\u4fee\u7406\u4e2d\u3067\u3059\u3002<<A<<[CHANGED 2018/08/01]",
@@ -1537,7 +1537,7 @@
               {
                 "message": {
                   "": "We are terribly sorry, dear player.",
-                  "en_US": "Lamentamos muito, caro jogador.",
+                  "en_US": "Lamentamos muito, cara jogadora.",
                   "langUid": 57,
                   "de_DE": "Tut uns wirklich leid, lieber Spieler.",
                   "ja_JP": "\u30d7\u30ec\u30a4\u30e4\u30fc\u3055\u3093\u3001\n\u5927\u5909\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u3002<<A<<[CHANGED 2018/08/01]",
@@ -1555,7 +1555,7 @@
               {
                 "message": {
                   "": "This bridge is currently undergoing repairs.",
-                  "en_US": "Esta ponte está atualmente sendo reparada.",
+                  "en_US": "Essa ponte está passando por reparos no momento.",
                   "langUid": 58,
                   "de_DE": "Diese Br\u00fccke wird zur Zeit repariert.",
                   "ja_JP": "\u3053\u306e\u6a4b\u306f\u305f\u3060\u3044\u307e\u4fee\u7406\u4e2d\u3067\u3059\u3002<<A<<[CHANGED 2018/10/04]",
@@ -1612,7 +1612,7 @@
               {
                 "message": {
                   "": "We are terribly sorry, dear player.",
-                  "en_US": "Lamentamos muito, caro jogador.",
+                  "en_US": "Lamentamos muito, cara jogadora.",
                   "langUid": 59,
                   "de_DE": "Tut uns wirklich leid, lieber Spieler.",
                   "ja_JP": "\u30d7\u30ec\u30a4\u30e4\u30fc\u3055\u3093\u3001\n\u5927\u5909\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u3002<<A<<[CHANGED 2018/08/01]",
@@ -1630,7 +1630,7 @@
               {
                 "message": {
                   "": "This bridge is currently under repair.",
-                  "en_US": "Esta ponte está atualmente sendo reparada.",
+                  "en_US": "Essa ponte está passando por reparos no momento.",
                   "langUid": 60,
                   "de_DE": "Diese Br\u00fccke wird zur Zeit repariert.",
                   "ja_JP": "\u3053\u306e\u6a4b\u306f\u305f\u3060\u3044\u307e\u4fee\u7406\u4e2d\u3067\u3059\u3002<<A<<[CHANGED 2018/08/01]",
@@ -2058,7 +2058,7 @@
               {
                 "message": {
                   "": "We are terribly sorry, dear player.",
-                  "en_US": "Lamentamos muito, caro jogador.",
+                  "en_US": "Lamentamos muito, cara jogadora.",
                   "langUid": 62,
                   "de_DE": "Tut uns wirklich leid, lieber Spieler.",
                   "ja_JP": "\u30d7\u30ec\u30a4\u30e4\u30fc\u3055\u3093\u3001\n\u5927\u5909\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u3002<<A<<[CHANGED 2018/08/01]",
@@ -2076,7 +2076,7 @@
               {
                 "message": {
                   "": "This bridge is currently under repair.",
-                  "en_US": "Esta ponte está atualmente sendo reparada.",
+                  "en_US": "Essa ponte está passando por reparos no momento.",
                   "langUid": 63,
                   "de_DE": "Diese Br\u00fccke wird zur Zeit repariert.",
                   "ja_JP": "\u3053\u306e\u6a4b\u306f\u305f\u3060\u3044\u307e\u4fee\u7406\u4e2d\u3067\u3059\u3002<<A<<[CHANGED 2018/08/01]",
@@ -2133,7 +2133,7 @@
               {
                 "message": {
                   "": "We are terribly sorry, dear player.",
-                  "en_US": "Lamentamos muito, caro jogador.",
+                  "en_US": "Lamentamos muito, cara jogadora.",
                   "langUid": 64,
                   "de_DE": "Tut uns wirklich leid, lieber Spieler.",
                   "ja_JP": "\u30d7\u30ec\u30a4\u30e4\u30fc\u3055\u3093\u3001\n\u5927\u5909\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u3002<<A<<[CHANGED 2018/08/01]",
@@ -2151,7 +2151,7 @@
               {
                 "message": {
                   "": "This bridge is currently under repair.",
-                  "en_US": "Esta ponte está atualmente sendo reparada.",
+                  "en_US": "Essa ponte está passando por reparos no momento.",
                   "langUid": 65,
                   "de_DE": "Diese Br\u00fccke wird zur Zeit repariert.",
                   "ja_JP": "\u3053\u306e\u6a4b\u306f\u305f\u3060\u3044\u307e\u4fee\u7406\u4e2d\u3067\u3059\u3002<<A<<[CHANGED 2018/08/01]",
@@ -6840,7 +6840,7 @@
               {
                 "message": {
                   "": "We are terribly sorry, dear player.",
-                  "en_US": "Lamentamos muito, caro jogador.",
+                  "en_US": "Lamentamos muito, cara jogadora.",
                   "langUid": 68,
                   "de_DE": "Tut uns wirklich leid, lieber Spieler.",
                   "ja_JP": "\u30d7\u30ec\u30a4\u30e4\u30fc\u3055\u3093\u3001\n\u5927\u5909\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u3002<<A<<[CHANGED 2018/08/01]",
@@ -6858,7 +6858,7 @@
               {
                 "message": {
                   "": "We are currently investigating a malfunction in these fences.",
-                  "en_US": "Atualmente estamos investigando um mau funcionamento nestas cercas.",
+                  "en_US": "No momento, estamos investigando um mau funcionamento nestas cercas.",
                   "langUid": 69,
                   "de_DE": "Wir untersuchen gerade eine Fehlfunktion in diesen Z\u00e4unen.",
                   "ja_JP": "\u67f5\u306e\u4e0d\u8abf\u306b\u3064\u3044\u3066\u3082\u3001\n\u73fe\u5728\u8abf\u67fb\u3092\u3057\u3066\u3044\u307e\u3059\u3002<<A<<[CHANGED 2018/08/01]",
@@ -15683,7 +15683,7 @@
               {
                 "message": {
                   "": "Oh, who are you? A new member of the First Scholars?",
-                  "en_US": "Ah, quem é você? Uma nova membra dos Primeiros Estudiosos?",
+                  "en_US": "Ah, quem é você? Uma nova integrante dos Primeiros Estudiosos?",
                   "langUid": 75,
                   "de_DE": "Oh, wer ist das? Ein neues Mitglied der Ersten Gelehrten?",
                   "ja_JP": "\u304a\u3084\u3001\u541b\u306f\u8ab0\u3060\u3044\uff1f\n\u30d5\u30a1\u30fc\u30b9\u30c8\u30b9\u30ab\u30e9\u30fc\u306e\n\u65b0\u3057\u3044\u30e1\u30f3\u30d0\u30fc\u304b\u306a\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -15698,7 +15698,7 @@
               {
                 "message": {
                   "": "Yes, she just joined a couple weeks ago.",
-                  "en_US": "Sim, ela acabou de se juntar há algumas semanas.",
+                  "en_US": "Sim, ela se juntou a nós há algumas semanas.",
                   "langUid": 76,
                   "de_DE": "Ja, sie ist gerade erst vor ein paar Wochen beigetreten.",
                   "ja_JP": "\u305d\u3046\u3060\u30022\u9031\u9593\u524d\u306b\n\u52a0\u5165\u3057\u305f\u3093\u3060\u3002<<A<<[CHANGED 2018/08/28]",
@@ -15898,7 +15898,7 @@
               {
                 "message": {
                   "": "We believe she is using some kind of workaround that allows her to say a few words.",
-                  "en_US": "Acreditamos que ela está usando algum tipo de solução que lhe permite dizer algumas palavras.",
+                  "en_US": "Acreditamos que ela está usando algum tipo de método que lhe permite dizer algumas palavras.",
                   "langUid": 82,
                   "de_DE": "Wir glauben, dass sie eine Art Notl\u00f6sung verwendet, mit der sie ein paar Worte sprechen kann.",
                   "ja_JP": "\u5f7c\u5973\u306f\u306a\u3093\u3089\u304b\u306e\u5fdc\u6025\u51e6\u7f6e\u306e\u304a\u304b\u3052\u3067\u3001\n\u3044\u304f\u3064\u304b\u8a00\u8449\u3092\u3057\u3083\u3079\u308c\u308b\u3088\u3046\u3060\u3002<<A<<[CHANGED 2018/08/28]",
@@ -15968,7 +15968,7 @@
               {
                 "message": {
                   "": "I'd suggest you contact support, but if you already rely on a workaround like this, the problem must be really persistent.",
-                  "en_US": "Sugiro que você entre em contato com o suporte, mas se você já conta com uma solução como esta, o problema deve ser realmente persistente.",
+                  "en_US": "Eu sugiro que você busque ajuda do suporte, o problema parece ser bastante sério.",
                   "langUid": 92,
                   "de_DE": "Das w\u00e4re eigentlich ein Fall f\u00fcr den Support, doch mit dieser Art Notl\u00f6sung scheint das Problem hartn\u00e4ckigerer Natur zu sein.",
                   "ja_JP": "\u30b5\u30dd\u30fc\u30c8\u306b\u9023\u7d61\u3092\u53d6\u308b\u3053\u3068\u3092\u3059\u3059\u3081\u308b\u304c\u3001\n\u3059\u3067\u306b\u3053\u306e\u3088\u3046\u306a\u56de\u907f\u7b56\u3092\n\u53d6\u3063\u3066\u3044\u308b\u306e\u3092\u898b\u308b\u3068\u3001\u3053\u306e\u554f\u984c\u306f\n\u89e3\u6c7a\u3067\u304d\u306a\u3044\u3082\u306e\u306a\u306e\u3060\u308d\u3046\u3002<<A<<[CHANGED 2018/09/19]",
@@ -16001,7 +16001,7 @@
               {
                 "message": {
                   "": "You think there is anybody you could talk to about this?",
-                  "en_US": "Você acha que há alguém com quem você poderia falar sobre isso?",
+                  "en_US": "Você tem contato com alguém que pode resolver isso?",
                   "langUid": 94,
                   "de_DE": "F\u00e4llt dir jemand ein, mit dem du dar\u00fcber reden k\u00f6nntest?",
                   "ja_JP": "\u3053\u306e\u554f\u984c\u306b\u3064\u3044\u3066\u3060\u308c\u304b\n\u76f8\u8ac7\u3067\u304d\u308b\u4eba\u304c\u3044\u308b\u3068\u601d\u3046\u304b\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -16031,7 +16031,7 @@
               {
                 "message": {
                   "": "I expected as much.",
-                  "en_US": "Eu imaginava o mesmo.",
+                  "en_US": "Eu imaginei isso.",
                   "langUid": 96,
                   "de_DE": "Das habe ich bef\u00fcrchtet.",
                   "ja_JP": "\u307e\u3042\u4e88\u60f3\u306f\u3057\u3066\u3044\u305f\u304c\u306a\u3002<<A<<[CHANGED 2018/08/28]",
@@ -16046,7 +16046,7 @@
               {
                 "message": {
                   "": "There was that one time when I tried to promote some research projects to integrate upcoming AI technologies.",
-                  "en_US": "Houve aquela vez em que tentei promover alguns projetos de pesquisa para integrar as próximas tecnologias de IA.",
+                  "en_US": "Lembro de uma ocasião em que tentei promover alguns projetos de pesquisa para integrar novas tecnologias de IA.",
                   "langUid": 97,
                   "de_DE": "Die hatte ich damals, als ich versucht hatte, mich f\u00fcr einige Forschungsprojekte zur Integration neuer KI-Technologien stark zu machen.",
                   "ja_JP": "\u524d\u306b\u4e00\u5ea6\u3001\u5c06\u6765\u306eAI\u6280\u8853\u306e\u7d71\u5408\u306e\u305f\u3081\u306b\u3001\n\u3044\u304f\u3064\u304b\u306e\u7814\u7a76\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3092\n\u63a8\u9032\u3057\u3088\u3046\u3068\u3057\u305f\u3053\u3068\u304c\u3042\u3063\u305f\u3093\u3060\u3002<<A<<[CHANGED 2018/09/19]",
@@ -16094,7 +16094,7 @@
               {
                 "message": {
                   "": "I heard that Instatainment cut down on the R&D department in general, didn't they?",
-                  "en_US": "Ouvi dizer que a Instatainment cortou o orçamento do departamento de desenvolvimento em geral, não foi?",
+                  "en_US": "Ouvi dizer que a Instatainment fez cortes no orçamento do departamento de desenvolvimento, é verdade?",
                   "langUid": 100,
                   "de_DE": "Ich habe geh\u00f6rt, dass Instatainment das Budget der F&E-Abteilung gek\u00fcrzt hat?",
                   "ja_JP": "\u30a4\u30f3\u30b9\u30bf\u30c6\u30a4\u30f3\u30e1\u30f3\u30c8\u793e\u306f\u7814\u7a76\u958b\u767a\u90e8\u3092\n\u5168\u4f53\u7684\u306b\u7e2e\u5c0f\u3057\u305f\u3068\u805e\u3044\u305f\u304c\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -16112,7 +16112,7 @@
               {
                 "message": {
                   "": "That's pretty much the case, yes.",
-                  "en_US": "É praticamente esse o caso, sim.",
+                  "en_US": "Infelizmente, sim.",
                   "langUid": 101,
                   "de_DE": "Das kann man so sagen, ja.",
                   "ja_JP": "\u3042\u3042\u3001\u307e\u3055\u306b\u305d\u306e\u901a\u308a\u3060\u3002<<A<<[CHANGED 2018/08/28]",
@@ -16145,7 +16145,7 @@
               {
                 "message": {
                   "": "Business is going well enough and most shareholders want to avoid risks as much as possible.",
-                  "en_US": "Os negócios estão indo suficientemente bem e a maioria dos acionistas quer evitar riscos tanto quanto possível.",
+                  "en_US": "Os negócios estão indo muito bem, e a maioria dos acionistas quer evitar riscos ao máximo.",
                   "langUid": 103,
                   "de_DE": "Die Gesch\u00e4fte laufen zur Zeit gut, und die meisten Aktion\u00e4re wollen Risiken m\u00f6glichst vermeiden.",
                   "ja_JP": "\u30d3\u30b8\u30cd\u30b9\u306f\u5341\u5206\u3046\u307e\u304f\u3044\u3063\u3066\u308b\u304b\u3089\u3001\n\u682a\u4e3b\u306e\u307b\u3068\u3093\u3069\u306f\u3067\u304d\u308b\u9650\u308a\u30ea\u30b9\u30af\u3092\n\u5c0f\u3055\u304f\u3057\u305f\u304c\u3063\u3066\u3044\u308b\u3093\u3060\u3002<<A<<[CHANGED 2018/09/19]",
@@ -16193,7 +16193,7 @@
               {
                 "message": {
                   "": "Oh, is it that late already? It's time for me to go.",
-                  "en_US": "Ah, já é tão tarde assim? Chegou a hora de ir.",
+                  "en_US": "Oh, já é tão tarde assim? Está na hora de eu ir embora.",
                   "langUid": 106,
                   "de_DE": "Oh, schon so sp\u00e4t? Dann wird es Zeit, dass ich gehe.",
                   "ja_JP": "\u304a\u3084\u3001\u3082\u3046\u3053\u3093\u306a\u6642\u9593\u304b\u3044\uff1f\n\u79c1\u306f\u3082\u3046\u884c\u304b\u306a\u304f\u3066\u306f\u3002<<A<<[CHANGED 2018/08/28]",
@@ -16297,7 +16297,7 @@
               {
                 "message": {
                   "": "Anyway, it was nice to see you again, Albert! Until next time!",
-                  "en_US": "De qualquer forma, foi bom ver você novamente, Albert! Até a próxima vez!",
+                  "en_US": "Foi bom ver você novamente, Albert! Até a próxima!",
                   "langUid": 91,
                   "de_DE": "Es war sch\u00f6n, dich mal wieder zu treffen, Albert! Bis zum n\u00e4chsten Mal!",
                   "ja_JP": "\u3068\u306b\u304b\u304f\u3001\u541b\u3068\u307e\u305f\u4f1a\u3048\u3066\u3088\u304b\u3063\u305f\u3088\u3001\n\u30a2\u30eb\u30d0\u30fc\u30c8\uff01\u307e\u305f\u4f1a\u304a\u3046\uff01<<A<<[CHANGED 2021/03/05]",
@@ -16758,7 +16758,7 @@
               {
                 "message": {
                   "": "I tried to get in touch with him back when Satoshi was still at Instatainment, but we never had any luck.",
-                  "en_US": "Tentei entrar em contato com ele quando a Satoshi ainda estava na Instatainment, mas nunca tivemos nenhuma sorte.",
+                  "en_US": "Tentei entrar em contato com ele quando o Satoshi ainda estava na Instatainment, mas nunca tivemos nenhuma sorte.",
                   "langUid": 703,
                   "de_DE": "Als Satoshi noch bei Instatainment war, haben wir versucht, mit ihm in Kontakt zu treten, leider vergeblich.",
                   "ja_JP": "\u30b5\u30c8\u30b7\u304c\u307e\u3060\u30a4\u30f3\u30b9\u30bf\u30c6\u30a4\u30f3\u30e1\u30f3\u30c8\u793e\u306b\n\u3044\u305f\u3053\u308d\u306b\u9023\u7d61\u3092\u53d6\u308d\u3046\u3068\u3057\u305f\u3093\u3060\u3051\u3069\u3001\n\u6b8b\u5ff5\u306a\u304c\u3089\u30c1\u30e3\u30f3\u30b9\u304c\u306a\u304b\u3063\u305f\u3002<<A<<[CHANGED 2018/08/28]",
@@ -16776,7 +16776,7 @@
               {
                 "message": {
                   "": "However, since Albert seems to know him personally, we might get our chance to meet him.",
-                  "en_US": "Entretanto, como Albert parece conhecê-lo pessoalmente, talvez tenhamos nossa chance de encontrá-lo.",
+                  "en_US": "Mas como Albert parece conhecê-lo pessoalmente, talvez tenhamos uma chance de falar com ele.",
                   "langUid": 704,
                   "de_DE": "Da Albert ihn aber pers\u00f6nlich zu kennen scheint, haben wir vielleicht jetzt eine Chance.",
                   "ja_JP": "\u3067\u3082\u3001\u30a2\u30eb\u30d0\u30fc\u30c8\u306f\u5f7c\u3068\u500b\u4eba\u7684\u306a\n\u77e5\u308a\u5408\u3044\u307f\u305f\u3044\u3060\u304b\u3089\u3001\u3082\u3057\u304b\u3059\u308b\u3068\n\u5f7c\u306b\u4f1a\u3046\u30c1\u30e3\u30f3\u30b9\u3092\n\u624b\u306b\u5165\u308c\u3089\u308c\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3002<<A<<[CHANGED 2018/08/28]",
@@ -18686,7 +18686,7 @@
             "entity": { "global": true, "name": "p2" },
             "text": {
               "": "Just what caused this bridge to collapse?",
-              "en_US": "O que causou o colapso desta ponte?",
+              "en_US": "O que fez essa ponte quebrar?",
               "langUid": 914,
               "de_DE": "Warum die Br\u00fccke wohl eingest\u00fcrzt ist?",
               "ja_JP": "\u306a\u306b\u304c\u539f\u56e0\u3067\u6a4b\u304c\u5d29\u308c\u305f\u306e\u304b\u306a\uff1f<<A<<[CHANGED 2018/09/14]",
@@ -18699,7 +18699,7 @@
             "entity": { "global": true, "name": "p2" },
             "text": {
               "": "It's not like Avatars are heavy and can just break it.",
-              "en_US": "Não é como se os Avatares fossem pesados e pudessem simplesmente quebrá-la.",
+              "en_US": "Avatares não são tão pesados assim para derrubar uma ponte.",
               "langUid": 915,
               "de_DE": "Ist ja nicht so, dass Avatare so schwer w\u00e4ren, dass unter ihrem Gewicht alles einbricht.",
               "ja_JP": "\u30a2\u30d0\u30bf\u30fc\u306e\u91cd\u3055\u3067\u58ca\u308c\u308b\u3088\u3046\u306a\n\u3082\u306e\u3058\u3083\u306a\u3044\u3060\u308d\u3002<<A<<[CHANGED 2018/09/14]",
@@ -18712,7 +18712,7 @@
             "entity": { "global": true, "name": "p2" },
             "text": {
               "": "Can't be the cars either, those are tied to a grid.",
-              "en_US": "Provavelmente também não foram os carros, pois eles estão conectados à rede elétrica lá embaixo.",
+              "en_US": "E também não foram os carros, pois eles estão conectados à rede elétrica lá embaixo.",
               "langUid": 916,
               "de_DE": "Die Autos waren's wohl auch nicht, die sind ja unten ans Stromnetz gebunden.",
               "ja_JP": "\u8eca\u304c\u539f\u56e0\u3058\u3083\u306a\u3044\u306e\u3082\u78ba\u304b\u3060\u3001\n\u30b0\u30ea\u30c3\u30c9\u306b\u7d50\u3073\u4ed8\u3051\u3066\u3042\u308b\u3093\u3060\u304b\u3089\u3002<<A<<[CHANGED 2018/09/14]",
@@ -18725,7 +18725,7 @@
             "entity": { "global": true, "name": "p1" },
             "text": {
               "": "I'm more concerned with your obsession with sitting on the ground...",
-              "en_US": "Estou mais preocupado com sua obsessão em sentar-se no chão.",
+              "en_US": "Estou mais preocupado com sua obsessão por ficar sentado no chão.",
               "langUid": 917,
               "de_DE": "Ich mach mir mehr Sorgen dar\u00fcber, dass du st\u00e4ndig auf dem Boden sitzen musst...",
               "ja_JP": "\u541b\u304c\u5730\u9762\u306b\u5ea7\u308b\u3053\u3068\u306b\u57f7\u7740\u3057\u3066\u308b\u3053\u3068\u306e\n\u307b\u3046\u304c\u3082\u3063\u3068\u6c17\u306b\u306a\u308b\u3051\u3069\u306a...<<A<<[CHANGED 2019/02/01]",
@@ -19047,7 +19047,7 @@
             "entity": { "global": true, "name": "p3" },
             "text": {
               "": "At least we get some rest...",
-              "en_US": "Pelo menos descansamos um pouco...",
+              "en_US": "Legal, agora a gente pode relaxar um pouquinho...",
               "langUid": 919,
               "de_DE": "Na ja, immerhin k\u00f6nnen wir uns etwas ausruhen...",
               "ja_JP": "\u5c11\u306a\u304f\u3068\u3082\u4f11\u61a9\u3067\u304d\u308b\u306d...<<A<<[CHANGED 2018/09/14]",
@@ -19060,7 +19060,7 @@
             "entity": { "global": true, "name": "p3" },
             "text": {
               "": "Until the shop opens, that is.",
-              "en_US": "Até a abertura da loja, pelo menos.",
+              "en_US": "Pelo menos até a loja abrir.",
               "langUid": 920,
               "de_DE": "Bis der Laden \u00f6ffnet, zumindest.",
               "ja_JP": "\u5e97\u304c\u958b\u304f\u307e\u3067\u306f\u3001\u3060\u3051\u3069\u306a\u3002<<A<<[CHANGED 2018/09/14]",
@@ -19805,7 +19805,7 @@
             "entity": { "global": true, "name": "beatenTalk1" },
             "text": {
               "": "So, now we've essentially beaten the game, but to be honest...\\. I don't really know how I should feel about that.",
-              "en_US": "Então, agora basicamente terminamos o jogo, mas para ser honesto...\\. Eu realmente não sei como devo me sentir a respeito disso.",
+              "en_US": "Agora que o jogo acabou, não faço ideia de como me sentir a respeito.",
               "langUid": 929,
               "ko_KR": "\uae30\ubcf8\uc801\uc73c\ub85c \uac8c\uc784\uc744 \uae68\uae34 \ud588\uc9c0\ub9cc, \uc194\uc9c1\ud788...\\. \uae6c \uc0ac\uc2e4\uc744 \uc5b4\ub5bb\uac8c \ubc1b\uc544\ub4e4\uc5ec\uc57c \ud560\uc9c0 \ubaa8\ub974\uaca0\uc5b4.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u6211\u4eec\u5df2\u7ecf\u6253\u7a7f\u4e86\u6e38\u620f...\\.\u4f46\u8001\u5b9e\u8bf4\u6211\u4e0d\u77e5\u9053\u8be5\u4f5c\u4f55\u611f\u53d7\u3002<<A<<[CHANGED 2019/01/10]",
@@ -19844,7 +19844,7 @@
             "entity": { "global": true, "name": "beatenTalk1" },
             "text": {
               "": "Revealed the last secret there is and even beat the last and hardest boss... and I had so much fun doing it.",
-              "en_US": "Resolvemos todos os segredos e até derrotamos o último chefe. E foi tudo muito divertido para mim.",
+              "en_US": "Exploramos todos os segredos e vencemos o chefe final. Achei tudo muito divertido.",
               "langUid": 932,
               "ko_KR": "\ub9c8\uc9c0\ub9c9 \ube44\ubc00\uc744 \ud30c\ud5e4\uce58\uace0 \uac8c\ub2e4\uac00 \uac00\uc7a5 \uc5b4\ub824\uc6b4 \ub9c8\uc9c0\ub9c9 \ubcf4\uc2a4\ub3c4 \uae7c\uc73c\ub2c8\uae4c... \uc5c4\uccad \uc7ac\ubbf8\uc788\uae30\ub3c4 \ud588\uace0.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u89e3\u5f00\u4e86\u6700\u540e\u7684\u8c1c\u9898\uff0c\u6253\u8d25\u4e86\u6700\u96be\u7684boss...\u4eab\u53d7\u4e86\u6e38\u620f\u8fc7\u7a0b\u3002<<A<<[CHANGED 2019/01/10]",
@@ -19857,7 +19857,7 @@
             "entity": { "global": true, "name": "beatenTalk1" },
             "text": {
               "": "So... I can't just leave everything behind already, can I? I would not be able to handle it.",
-              "en_US": "Então... eu não posso simplesmente deixar tudo para trás, posso? Eu não seria capaz de lidar com isso.",
+              "en_US": "Então... não posso simplesmente deixar isso para trás. Eu não seria capaz de lidar com isso.",
               "langUid": 933,
               "ko_KR": "\uadf8\ub7ec\ub2c8\uae4c... \uadf8 \uae30\uc5b5\uc744 \uadf8\ub0e5 \uc78a\uc744 \uc21c \uc5c6\ub2e4\ub294 \uac70\uc57c. \ub0b4\uac00 \uacac\ub51c \uc218 \uc5c6\uaca0\uc9c0.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u6240\u4ee5\u6211\u6ca1\u6cd5\u8f7b\u6613\u653e\u4e0b\u8fd9\u4e00\u5207\uff0c\u4e0d\u662f\u5417\uff1f<<A<<[CHANGED 2019/01/10]",
@@ -19870,7 +19870,7 @@
             "entity": { "global": true, "name": "beatenTalk2" },
             "text": {
               "": "Hm, I know that feeling and with time it will go away...",
-              "en_US": "Hm, eu conheço esse sentimento e com o tempo irá sumir...",
+              "en_US": "Hm, eu conheço esse sentimento e com o tempo ele vai sumir...",
               "langUid": 934,
               "ko_KR": "\ud760, \ub098\ub3c4 \uadf8 \uc2ec\uc815 \uc774\ud574\ud574. \uc2dc\uac04\uc774 \uc9c0\ub098\uba74 \ud574\uacb0\ub420 \uac70\uc57c...<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u6211\u61c2\u4f60\u7684\u611f\u53d7\uff0c\u6162\u6162\u5c31\u4f1a\u8fc7\u53bb\u4e86...<<A<<[CHANGED 2019/01/10]",
@@ -19883,7 +19883,7 @@
             "entity": { "global": true, "name": "beatenTalk2" },
             "text": {
               "": "But it's also kinda cruel that way, since you will lose some great memories with it.",
-              "en_US": "Mas também é um pouco cruel assim, já que você perderá algumas grandes lembranças com isso.",
+              "en_US": "Por outro lado, é meio cruel, pois você vai perder algumas lembranças incríveis.",
               "langUid": 935,
               "ko_KR": "\ud558\uc9c0\ub9cc \uadf8\uac83\ub3c4 \uc794\uc778\ud55c\uac78. \uc5b4\uca0c\ub4e0 \uc88b\uc740 \ucd94\uc5b5\uc744 \uc78a\uac8c \ub41c\ub2e4\ub294 \ub73b\uc774\ub2c8\uae4c.<<A<<[CHANGED 2019/02/01]",
               "zh_CN": "\u4f46\u8fd9\u4e5f\u5f88\u6b8b\u5fcd\uff0c\u56e0\u4e3a\u90a3\u4e9b\u7f8e\u597d\u7684\u8bb0\u5fc6\u4e5f\u4f1a\u968f\u4e4b\u6d88\u5931\u3002<<A<<[CHANGED 2019/02/01]",
@@ -19909,7 +19909,7 @@
             "entity": { "global": true, "name": "beatenTalk2" },
             "text": {
               "": "Thing is, the game hasn't fully ended yet. There will be more content added.",
-              "en_US": "A questão é que o jogo ainda não terminou completamente. Haverá mais conteúdo acrescentado.",
+              "en_US": "A verdade é que o jogo ainda não acabou por completo. Novos conteúdos serão adicionados.",
               "langUid": 937,
               "ko_KR": "\uc911\uc694\ud55c \uac74, \uac8c\uc784\uc774 \uc644\uc804\ud788 \ub05d\ub09c \uac8c \uc544\ub2c8\ub77c\ub294 \uac70\uc57c. \uc55e\uc73c\ub85c \ucf58\ud150\uce20\uac00 \ub354 \ucd94\uac00\ub420 \uac70\uac70\ub4e0.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u4e0d\u8fc7\uff0c\u6e38\u620f\u8fd8\u6ca1\u6709\u5b8c\u5168\u7ed3\u675f\uff0c\u4ee5\u540e\u8fd8\u4f1a\u52a0\u5165\u66f4\u591a\u5185\u5bb9\u3002<<A<<[CHANGED 2019/01/10]",
@@ -19922,7 +19922,7 @@
             "entity": { "global": true, "name": "beatenTalk2" },
             "text": {
               "": "But if you still feel that way, then... at least try to always keep it in the back of your head.",
-              "en_US": "Mas se você ainda se sente assim, então... pelo menos tente mantê-lo sempre na sua memória.",
+              "en_US": "Mas se você ainda se sente assim, então... pelo menos tente manter esse jogo sempre na sua memória.",
               "langUid": 938,
               "ko_KR": "\uadf8\ub798\ub3c4 \uc5ec\uc804\ud788 \uadf8\ub807\uac8c \ub290\ub080\ub2e4\uba74... \ucd5c\uc18c\ud55c \uc78a\uc9c0 \uc54a\uac8c \uba38\ub9bf\uc18d\uc5d0 \ub2f4\uc544\ub450\ub824\uace0 \ud574\ubd10.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u4f46\u5982\u679c\u4f60\u8fd8\u662f\u8fd9\u4e48\u60f3...\u628a\u8fd9\u4efd\u56de\u5fc6\u653e\u5728\u5fc3\u91cc\u4e5f\u4e0d\u9519\u3002<<A<<[CHANGED 2019/01/10]",
@@ -19935,7 +19935,7 @@
             "entity": { "global": true, "name": "beatenTalk2" },
             "text": {
               "": "Pin a poster somewhere in your room or I don't know, draw something.",
-              "en_US": "Prenda um cartaz em algum lugar em seu quarto ou, não sei, desenhe algo.",
+              "en_US": "Coloque um pôster em algum lugar do seu quarto ou, sei lá, desenhe algo.",
               "langUid": 939,
               "ko_KR": "\ubc29\uc5d0 \ud3ec\uc2a4\ud130\ub97c \ubd99\uc5ec\ub193\ub294\ub2e4\ub4e0\uac00, \uc544\ub2c8\uba74 \uc5b4\ub514\uc5d0 \uadf8\ub824\ub193\ub294\ub2e4\ub4e0\uac00.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u5f80\u623f\u95f4\u91cc\u6302\u5f20\u6d77\u62a5\uff0c\u6216\u8005\u753b\u70b9\u4ec0\u4e48\uff0c\u968f\u4f60\u3002<<A<<[CHANGED 2019/01/10]",
@@ -19961,7 +19961,7 @@
             "entity": { "global": true, "name": "beatenTalk1" },
             "text": {
               "": "Ah, you're right, I really don't want to forget any of my time spent here, it was too good to let that happen.",
-              "en_US": "Ah, você está certo, eu realmente não quero esquecer nenhum do tempo que passei aqui, foi bom demais para deixar isso acontecer.",
+              "en_US": "Você está certo, eu não quero perder nenhuma das lembranças que tive aqui. Foi bom demais para ser esquecido.",
               "langUid": 941,
               "ko_KR": "\ub124 \ub9d0\uc774 \ub9de\uc544. \ub09c \uc5ec\uae30\uc11c \ubcf4\ub0b8 \uc2dc\uac04\uc744 \uc78a\uace0 \uc2f6\uc9c0 \uc54a\uac70\ub4e0. \uc78a\uae30\uc5d4 \ub108\ubb34 \uc88b\uc740 \ucd94\uc5b5\uc774\ub2c8\uae4c.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u4f60\u8bf4\u7684\u6ca1\u9519\uff0c\u6211\u4e0d\u60f3\u5fd8\u8bb0\u6211\u5728\u8fd9\u91cc\u7ecf\u5386\u7684\u4e00\u5207\u3002<<A<<[CHANGED 2019/01/10]",
@@ -19974,7 +19974,7 @@
             "entity": { "global": true, "name": "beatenTalk1" },
             "text": {
               "": " I think I will start looking for a poster right now, thank you for helping me.",
-              "en_US": "Acho que vou começar a procurar um cartaz agora mesmo, obrigado por me ajudar.",
+              "en_US": "Acho que vou começar a procurar um cartaz agora mesmo, obrigada por me ajudar.",
               "langUid": 942,
               "ko_KR": "\uc9c0\uae08\ubd80\ud130 \ud3ec\uc2a4\ud130\ub97c \ucc3e\uc544\ubd10\uc57c\uaca0\uc5b4. \ub3c4\uc640\uc918\uc11c \uace0\ub9c8\uc6cc.<<A<<[CHANGED 2019/01/10]",
               "zh_CN": "\u6211\u8fd9\u5c31\u53bb\u627e\u6d77\u62a5\u3002\u8c22\u8c22\u4f60\u7684\u63d0\u9192\u3002<<A<<[CHANGED 2019/01/10]",

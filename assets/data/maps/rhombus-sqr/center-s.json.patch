@@ -10647,7 +10647,7 @@
             "entity": { "global": true, "name": "l1" },
             "text": {
               "": "That's what I thought too, but she was derailing the argument anyway.",
-              "en_US": "Foi o que eu pensei também, mas ela ficou desviando do assunto de qualquer maneira.",
+              "en_US": "Foi o que eu pensei também, mas ela ficou desviando do assunto.",
               "langUid": 70,
               "de_DE": "Dachte ich auch, aber sie hat das Argument trotzdem st\u00e4ndig gebracht.",
               "ja_JP": "\u50d5\u3082\u305d\u3046\u601d\u3046\u3093\u3060\u3051\u3069\u3001\n\u5f7c\u5973\u306f\u3068\u306b\u304b\u304f\u8a71\u3092\u8131\u7dda\u3055\u305b\u308b\u3093\u3060\u3002<<A<<[CHANGED 2018/09/19]",
@@ -10708,7 +10708,7 @@
             "entity": { "global": true, "name": "monk" },
             "text": {
               "": "Ah, Seeker. What you obtained is ancient. Be careful with it.",
-              "en_US": "Ah, Seeker. O que você obteve é antigo. Tenha cuidado com isso.",
+              "en_US": "Ah, Seeker. Isso que você encontrou é antigo. Tenha cuidado com isso.",
               "langUid": 72,
               "de_DE": "Ah, Seeker. Was du erhalten hast, ist sehr sehr alt. Sei vorsichtig damit.",
               "ja_JP": "\u3042\u3042\u3001\u63a2\u7d22\u8005\u304b\u3002\u541b\u304c\u624b\u306b\u5165\u308c\u305f\u306e\u306f\n\u3044\u306b\u3057\u3048\u306e\u3082\u306e\u3060\u3002\u6c17\u3092\u4ed8\u3051\u306a\u3088\u3002<<A<<[CHANGED 2018/09/14]",
@@ -11226,7 +11226,7 @@
               {
                 "message": {
                   "": "I have a flower you can put in your hair if you want that!",
-                  "en_US": "Eu tenho uma flor que você pode colocar no cabelo se quiser isso!",
+                  "en_US": "Eu tenho uma flor que você pode colocar no cabelo se quiser!",
                   "langUid": 86,
                   "ko_KR": "\ub09c \uba38\ub9ac\uc5d0 \uaf42\uc744 \uc218 \uc788\ub294 \uaf43\uc744 \uac00\uc9c0\uace0 \uc788\uc5b4!<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u6211\u6709\u4e00\u6735\u4f60\u53ef\u4ee5\u63d2\u5230\u5934\u4e0a\u7684\u82b1\uff01<<A<<[CHANGED 2019/01/10]",
@@ -11292,7 +11292,7 @@
               {
                 "message": {
                   "": "You don't.\\. They don't allow trading of cosmetics.",
-                  "en_US": "Você não pode.\\. Eles não permitem troca de cosméticos.",
+                  "en_US": "Você não pode.\\. Eles não permitem troca de itens cosméticos.",
                   "langUid": 91,
                   "ko_KR": "\ubabb \ud574.\\. \uc678\ud615 \uc544\uc774\ud15c\uc740 \uad50\ud658\ud558\uc9c0 \ubabb\ud558\uac8c \ub9c9\uc544\ub1a8\uc73c\ub2c8\uae4c.<<A<<[CHANGED 2019/01/10]",
                   "zh_CN": "\u4e0d\u80fd\u4ea4\u6613\u7684\u3002\\.\u9970\u54c1\u4ea4\u6613\u662f\u7981\u6b62\u7684\u3002<<A<<[CHANGED 2019/01/10]",

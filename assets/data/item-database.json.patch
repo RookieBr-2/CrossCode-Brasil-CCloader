@@ -12530,7 +12530,7 @@
       },
       "description": {
         "": "Armor crafted from chests of any kind. Precious valuables naturally radiate towards it.",
-        "en_US": "Armadura feita de vários baús que literalmente atrai objetos de valor preciosos.",
+        "en_US": "Armadura feita de vários baús que atrai objetos de valor preciosos.",
         "de_DE": "Panzer aus verschiedenen Truhen, der kostbare Wertsachen f\u00f6rmlich anzieht.",
         "fr_FR": "undefined",
         "zh_CN": "\u4f7f\u7528\u5404\u79cd\u7bb1\u5b50\u6253\u9020\u7684\u76d4\u7532\u3002\u4f1a\u8ba9\u73cd\u60dc\u7269\u54c1\u5bf9\u5176\u4ea7\u751f\u53cd\u5e94\u3002<<A<<[CHANGED 2018/09/02]",
@@ -16375,7 +16375,7 @@
       "order": 4,
       "name": {
         "": "Rise Booster",
-        "en_US": "Reforço do Nascer",
+        "en_US": "Booster do Nascer",
         "de_DE": "Rise-Booster",
         "fr_FR": "undefined",
         "zh_CN": "\u79cb\u8272\u5c71\u91ce\u5f3a\u5316\u5242<<A<<[CHANGED 2018/07/09]",
@@ -16407,7 +16407,7 @@
       "order": 5,
       "name": {
         "": "Fall Booster",
-        "en_US": "Reforço do Pôr",
+        "en_US": "Booster do Pôr",
         "de_DE": "Fall-Booster",
         "fr_FR": "undefined",
         "zh_CN": "\u843d\u79cb\u6797\u5730\u5f3a\u5316\u5242<<A<<[CHANGED 2018/07/09]",
@@ -16439,7 +16439,7 @@
       "order": 6,
       "name": {
         "": "Trail Booster",
-        "en_US": "Reforço da Trilha",
+        "en_US": "Booster da Trilha",
         "de_DE": "Trail-Booster",
         "fr_FR": "undefined",
         "zh_CN": "\u4ffe\u5c14\u6839\u5f3a\u5316\u5242<<A<<[CHANGED 2018/07/09]",
@@ -16471,7 +16471,7 @@
       "order": 7,
       "name": {
         "": "Valley Booster",
-        "en_US": "Reforço do Vale",
+        "en_US": "Booster do Vale",
         "de_DE": "Tal-Booster",
         "fr_FR": "undefined",
         "zh_CN": "\u8910\u7ea2\u5ce1\u8c37\u5f3a\u5316\u5242<<A<<[CHANGED 2018/07/09]",
@@ -16503,7 +16503,7 @@
       "order": 8,
       "name": {
         "": "Garden Booster",
-        "en_US": "Reforço do Jardim",
+        "en_US": "Booster do Jardim",
         "de_DE": "Garten-Booster",
         "fr_FR": "undefined",
         "zh_CN": "\u76d6\u4e9a\u82b1\u56ed\u5f3a\u5316\u5242<<A<<[CHANGED 2018/07/09]",
@@ -16535,7 +16535,7 @@
       "order": 9,
       "name": {
         "": "Ridge Booster",
-        "en_US": "Reforço da Serra",
+        "en_US": "Booster da Serra",
         "de_DE": "Grat-Booster",
         "fr_FR": "undefined",
         "zh_CN": "\u9752\u7389\u5c71\u8109\u5f3a\u5316\u5242<<A<<[CHANGED 2018/07/09]",
@@ -16733,7 +16733,7 @@
             "icon": "ENEMY",
             "text": {
               "": "Boosted Enemies in \\c[3]\\v[area.autumn-area.name]\\c[0]",
-              "en_US": "Inimigos Reforçados no \\c[3]\\v[area.autumn-area.name]\\c[0]",
+              "en_US": "Inimigos Fortalecidos no \\c[3]\\v[area.autumn-area.name]\\c[0]",
               "langUid": 2116,
               "zh_CN": "\u6765\u81ea\\c[3]\\v[area.autumn-area.name]\\c[0]\u533a\u57df\u7684\u589e\u5f3a\u654c\u4eba<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\\c[3]\\v[area.autumn-area.name]\\c[0]\u306e\u5f37\u5316\u3055\u308c\u305f\u6575<<A<<[CHANGED 2018/07/09]",
@@ -16785,7 +16785,7 @@
             "icon": "ENEMY",
             "text": {
               "": "Boosted Enemies in \\c[3]\\v[area.autumn-fall.name]\\c[0]",
-              "en_US": "Inimigos Reforçados no \\c[3]\\v[area.autumn-fall.name]\\c[0]",
+              "en_US": "Inimigos Fortalecidos no \\c[3]\\v[area.autumn-fall.name]\\c[0]",
               "langUid": 2125,
               "zh_CN": "\u6765\u81ea\\c[3]\\v[area.autumn-fall.name]\\c[0]\u533a\u57df\u7684\u589e\u5f3a\u654c\u4eba<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\\c[3]\\v[area.autumn-fall.name]\\c[0]\u306e\u5f37\u5316\u3055\u308c\u305f\u6575<<A<<[CHANGED 2018/07/09]",
@@ -16837,7 +16837,7 @@
             "icon": "ENEMY",
             "text": {
               "": "Boosted Enemies in \\c[3]\\v[area.bergen-trails.name]\\c[0]",
-              "en_US": "Inimigos Reforçados na \\c[3]\\v[area.bergen-trails.name]\\c[0]",
+              "en_US": "Inimigos Fortalecidos na \\c[3]\\v[area.bergen-trails.name]\\c[0]",
               "langUid": 2126,
               "zh_CN": "\u6765\u81ea\\c[3]\\v[area.bergen-trails.name]\\c[0]\u533a\u57df\u7684\u589e\u5f3a\u654c\u4eba<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\\c[3]\\v[area.bergen-trails.name]\\c[0]\u306e\u5f37\u5316\u3055\u308c\u305f\u6575<<A<<[CHANGED 2018/07/09]",
@@ -16889,7 +16889,7 @@
             "icon": "ENEMY",
             "text": {
               "": "Boosted Enemies in \\c[3]\\v[area.bergen-trails.name]\\c[0]",
-              "en_US": "Inimigos Reforçados na \\c[3]\\v[area.bergen-trails.name]\\c[0]",
+              "en_US": "Inimigos Fortalecidos na \\c[3]\\v[area.bergen-trails.name]\\c[0]",
               "langUid": 2127,
               "zh_CN": "\u6765\u81ea\\c[3]\\v[area.bergen-trails.name]\\c[0]\u533a\u57df\u7684\u589e\u5f3a\u654c\u4eba<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\\c[3]\\v[area.bergen-trails.name]\\c[0]\u306e\u5f37\u5316\u3055\u308c\u305f\u6575<<A<<[CHANGED 2018/07/09]",
@@ -16941,7 +16941,7 @@
             "icon": "ENEMY",
             "text": {
               "": "Boosted Enemies in \\c[3]\\v[area.heat-area.name]\\c[0]",
-              "en_US": "Inimigos Reforçados no \\c[3]\\v[area.heat-area.name]\\c[0]",
+              "en_US": "Inimigos Fortalecidos no \\c[3]\\v[area.heat-area.name]\\c[0]",
               "langUid": 2128,
               "zh_CN": "\u6765\u81ea\\c[3]\\v[area.heat-area.name]\\c[0]\u533a\u57df\u7684\u589e\u5f3a\u654c\u4eba<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\\c[3]\\v[area.heat-area.name]\\c[0]\u306e\u5f37\u5316\u3055\u308c\u305f\u6575<<A<<[CHANGED 2018/07/09]",
@@ -16993,7 +16993,7 @@
             "icon": "ENEMY",
             "text": {
               "": "Boosted Enemies in \\c[3]\\v[area.heat-area.name]\\c[0]",
-              "en_US": "Inimigos Reforçados no \\c[3]\\v[area.heat-area.name]\\c[0]",
+              "en_US": "Inimigos Fortalecidos no \\c[3]\\v[area.heat-area.name]\\c[0]",
               "langUid": 2131,
               "zh_CN": "\u6765\u81ea\\c[3]\\v[area.heat-area.name]\\c[0]\u533a\u57df\u7684\u589e\u5f3a\u654c\u4eba<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\\c[3]\\v[area.heat-area.name]\\c[0]\u306e\u5f37\u5316\u3055\u308c\u305f\u6575<<A<<[CHANGED 2018/07/09]",
@@ -17045,7 +17045,7 @@
             "icon": "ENEMY",
             "text": {
               "": "Boosted Enemies in \\c[3]\\v[area.jungle.name]\\c[0]",
-              "en_US": "Inimigos Reforçados no \\c[3]\\v[area.jungle.name]\\c[0]",
+              "en_US": "Inimigos Fortalecidos no \\c[3]\\v[area.jungle.name]\\c[0]",
               "langUid": 2134,
               "zh_CN": "\u6765\u81ea\\c[3]\\v[area.jungle.name]\\c[0]\u533a\u57df\u7684\u589e\u5f3a\u654c\u4eba<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\\c[3]\\v[area.jungle.name]\\c[0]\u306e\u5f37\u5316\u3055\u308c\u305f\u6575<<A<<[CHANGED 2018/07/09]",
@@ -17097,7 +17097,7 @@
             "icon": "ENEMY",
             "text": {
               "": "Boosted Enemies in \\c[3]\\v[area.jungle.name]\\c[0]",
-              "en_US": "Inimigos Reforçados no \\c[3]\\v[area.jungle.name]\\c[0]",
+              "en_US": "Inimigos Fortalecidos no \\c[3]\\v[area.jungle.name]\\c[0]",
               "langUid": 2137,
               "zh_CN": "\u6765\u81ea\\c[3]\\v[area.jungle.name]\\c[0]\u533a\u57df\u7684\u589e\u5f3a\u654c\u4eba<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\\c[3]\\v[area.jungle.name]\\c[0]\u306e\u5f37\u5316\u3055\u308c\u305f\u6575<<A<<[CHANGED 2018/07/09]",
@@ -17149,7 +17149,7 @@
             "icon": "ENEMY",
             "text": {
               "": "Boosted Enemies in \\c[3]\\v[area.forest.name]\\c[0]",
-              "en_US": "Inimigos Reforçados na \\c[3]\\v[area.forest.name]\\c[0]",
+              "en_US": "Inimigos Fortalecidos na \\c[3]\\v[area.forest.name]\\c[0]",
               "langUid": 2140,
               "zh_CN": "\u6765\u81ea\\c[3]\\v[area.forest.name]\\c[0]\u533a\u57df\u7684\u589e\u5f3a\u654c\u4eba<<A<<[CHANGED 2018/07/09]",
               "ja_JP": "\\c[3]\\v[area.forest.name]\\c[0]\u306e\u5f37\u5316\u3055\u308c\u305f\u6575<<A<<[CHANGED 2018/07/09]",
@@ -17476,7 +17476,7 @@
     {
       "name": {
         "": "Skirmisher",
-        "en_US": "Skirmisher",
+        "en_US": "Escaramuçador",
         "de_DE": "Pl\u00e4nkler",
         "fr_FR": "undefined",
         "zh_CN": "\u51b2\u7a81\u8005<<A<<[CHANGED 2018/08/01]",
@@ -21366,7 +21366,7 @@
     {
       "name": {
         "": "Skirmisher+",
-        "en_US": "Skirmisher+",
+        "en_US": "Escaramuçador+",
         "de_DE": "Pl\u00e4nkler+",
         "fr_FR": "undefined",
         "zh_CN": "\u51b2\u7a81\u8005+<<A<<[CHANGED 2020/06/17]",
@@ -23010,7 +23010,7 @@
       "order": 10,
       "name": {
         "": "Booster Booster",
-        "en_US": "Reforço do Reforço",
+        "en_US": "Booster Booster",
         "de_DE": "Booster Booster",
         "fr_FR": "undefined",
         "zh_CN": "\u5f3a\u5316\u5242\u5f3a\u5316\u5242<<A<<[CHANGED 2020/07/08]",
@@ -23021,7 +23021,7 @@
       },
       "description": {
         "": "Further empowers enemies that are boosted by \\c[3]regional boosters\\c[0] up to your level!",
-        "en_US": "Aumenta o poder dos inimigos que foram empoderados pelos \\c[3]reforços regionais\\c[0] até o seu nível!",
+        "en_US": "Aumenta o poder dos inimigos que foram empoderados pelos \\c[3]boosters regionais\\c[0] até o seu nível!",
         "de_DE": "Boostet Gegner, die durch \\c[3]regionale Booster\\c[0] geboostet werden, bis zu deinem Level!",
         "fr_FR": "undefined",
         "zh_CN": "\u8fdb\u4e00\u6b65\u5f3a\u5316\u88ab\\c[3]\u5730\u533a\u5f3a\u5316\u5242\\c[0]\u5f3a\u5316\u7684\u654c\u4eba\uff0c\u4f7f\u5176\u4e0e\u4f60\u7b49\u7ea7\u76f8\u5f53\u3002 <<A<<[CHANGED 2021/05/04]",

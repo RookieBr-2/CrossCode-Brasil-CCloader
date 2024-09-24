@@ -1182,7 +1182,7 @@
           {
             "message": {
               "": "Ah! There you are!",
-              "en_US": "Ah! Aí está você!",
+              "en_US": "Ah! Finalmente, você chegou!",
               "langUid": 6,
               "de_DE": "Ah! Da bist du ja!",
               "ja_JP": "\u3042\u3042\uff01\u3084\u3063\u3068\u304d\u305f\u306d\uff01<<A<<[CHANGED 2018/08/28]",
@@ -1628,7 +1628,7 @@
               {
                 "message": {
                   "": "I'm sorry, my memory for names has seen better days.",
-                  "en_US": "Perdão, minha memória de nomes já teve dias melhores.",
+                  "en_US": "Perdão, minha memória para nomes não é como antes.",
                   "langUid": 27,
                   "de_DE": "Entschuldige, mein Namensged\u00e4chtnis ist nicht mehr das j\u00fcngste.",
                   "ja_JP": "\u3059\u307e\u306a\u3044\u306d\u3002\u6614\u306f\u4eba\u306e\u540d\u524d\u3092\n\u899a\u3048\u308b\u306e\u304c\u5f97\u610f\u3060\u3063\u305f\u3093\u3060\u304c\u3002<<A<<[CHANGED 2018/08/28]",
@@ -1915,7 +1915,7 @@
               {
                 "message": {
                   "": "Uhm...\\. excuse me?",
-                  "en_US": "Uhm...\\. perdão?",
+                  "en_US": "Hmm...\\. perdão?",
                   "langUid": 44,
                   "de_DE": "\u00d6hm...\\. Wie bitte?",
                   "ja_JP": "\u3048\u3048\u3068...\\.\n\u3069\u3046\u3057\u305f\u3093\u3060\u3044\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -2180,7 +2180,7 @@
           {
             "message": {
               "": "Ouch.\\. That was a bit too honest, don't you think?",
-              "en_US": "Vixe.\\. Isso foi muito sincero, você não acha?",
+              "en_US": "Nossa.\\. Isso foi muito sincero, você não acha?",
               "langUid": 60,
               "de_DE": "Autsch.\\. Das war ein bisschen zu ehrlich, meinst du nicht auch?",
               "ja_JP": "\u304a\u3063\u3068\u3002\\.\u3061\u3087\u3063\u3068\n\u6b63\u76f4\u3059\u304e\u3084\u3057\u306a\u3044\u304b\u306d\uff1f<<A<<[CHANGED 2018/08/28]",
@@ -3280,7 +3280,7 @@
           {
             "message": {
               "": "Good. \"\\c[3]\\v[tmp.food]\\c[0]\" you say. Please remember this for a moment.\n",
-              "en_US": "Bom. você disse \"\\c[3]\\v[tmp.food]\\c[0]\". Por favor lembre-se disso por enquanto.\n",
+              "en_US": "Bom. você disse \"\\c[3]\\v[tmp.food]\\c[0]\". Por favor lembre-se disso.\n",
               "langUid": 120,
               "de_DE": "Gut. \"\\c[3]\\v[tmp.food]\\c[0]\" sagst du. Behalte das bitte f\u00fcr einen Augenblick.\n",
               "ja_JP": "\u3088\u3057\u3002\u300c\\c[3]\\v[tmp.food]\\c[0]\u300d\u3060\u306d\u3002\n\u3061\u3087\u3063\u3068\u899a\u3048\u3066\u304a\u3044\u3066\u304f\u308c\u3002<<A<<[CHANGED 2018/08/28]",
@@ -3295,7 +3295,7 @@
           {
             "message": {
               "": "Now to something else!",
-              "en_US": "Agora vamos para a próxima",
+              "en_US": "Agora vamos para a próxima!",
               "langUid": 121,
               "de_DE": "Nun zu etwas anderem!",
               "ja_JP": "\u305d\u308c\u3058\u3083\u3001\u6b21\u306b\u884c\u3053\u3046\uff01<<A<<[CHANGED 2018/08/28]",
@@ -3389,7 +3389,7 @@
           {
             "message": {
               "": "And when he was done...\\. I told him this is all really \\c[3]fascinating\\c[0].",
-              "en_US": "E quando ele terminou...\\. Eu disse a ele que tudo aquilo é realmente \\c[3]fascinante\\c[0].",
+              "en_US": "E quando ele terminou...\\. Eu disse a ele que tudo aquilo era realmente \\c[3]fascinante\\c[0].",
               "langUid": 127,
               "de_DE": "Und als er fertig war...\\. sagte ich ihm, dass das alles wirklich \\c[3]faszinierend\\c[0] sei.",
               "ja_JP": "\u305d\u3057\u3066\u5f7c\u304c\u8a71\u3092\u7d42\u3048\u305f\u3068\u304d...\\.\n\u79c1\u306f\u5f7c\u306b\u3069\u308c\u3082\\c[3]\u3059\u3066\u304d\u3060\u306d\\c[0]\u3068\u8a00\u3063\u305f\u3002<<A<<[CHANGED 2018/08/28]",
@@ -3983,7 +3983,7 @@
           {
             "message": {
               "": "You could in fact just be a human-controlled program mocking an AI.",
-              "en_US": "Na verdade, você poderia ser apenas um programa controlado por uma pessoa fingindo ser uma IA.",
+              "en_US": "Você poderia, é claro, ser um programa controlado por humanos que apenas finge ser uma IA.",
               "langUid": 161,
               "de_DE": "Du k\u00f6nntest nat\u00fcrlich auch ein von Menschenhand gesteuertes Programm sein, das eine KI nur vort\u00e4uscht.",
               "ja_JP": "\u3082\u3057\u304b\u3059\u308b\u3068\u3001\u541b\u306fAI\u3092\u88c5\u3063\u305f\u3001\n\u4eba\u9593\u304c\u5236\u5fa1\u3057\u3066\u3044\u308b\u30d7\u30ed\u30b0\u30e9\u30e0\n\u3060\u3068\u3044\u3046\u53ef\u80fd\u6027\u3082\u3042\u308b\u3002<<A<<[CHANGED 2018/08/28]",
@@ -4287,7 +4287,7 @@
           {
             "message": {
               "": "I'm just talking to add some padding to this recording.\\. Don't mind me.",
-              "en_US": "Estou apenas falando para preencher os espaços em branco nesta gravação.\\. Não preste atenção",
+              "en_US": "Estou apenas falando para preencher os espaços em branco nesta gravação.\\. Não preste atenção.",
               "de_DE": "Ich rede blo\u00df, um die L\u00fccken zu f\u00fcllen.\\. Achte nicht darauf.",
               "zh_CN": "\u6211\u662f\u5728\u7ed9\u5f55\u50cf\u57ab\u65f6\u95f4\u3002\\.\u4e0d\u7528\u7406\u6211\u3002<<A<<[CHANGED 2018/08/28]",
               "ja_JP": "\u305f\u3060\u9332\u97f3\u306e\u4e2d\u8eab\u3092\u6c34\u5897\u3057\u3059\u308b\u305f\u3081\u306b\n\u8a71\u3057\u3066\u3044\u308b\u3060\u3051\u3060\u3002\\.\u6c17\u306b\u3057\u306a\u3044\u3067\u304f\u308c\u3002<<A<<[CHANGED 2018/08/28]",
@@ -4437,7 +4437,7 @@
           {
             "message": {
               "": "They keep telling me a person in my position should have better things to do.",
-              "en_US": "Eles continuam me dizendo que uma pessoa na minha posição deveria ter coisas melhores para fazer.",
+              "en_US": "Eles dizem que uma pessoa na minha posição deveria ter coisas melhores para fazer.",
               "de_DE": "Sie sagen mir oft, dass ein Mann in meiner Position Besseres zu tun haben sollte.",
               "zh_CN": "\u4ed6\u4eec\u603b\u662f\u544a\u8bc9\u6211\uff0c\u6211\u8fd9\u6837\u8eab\u5c45\u9ad8\u4f4d\u7684\u4eba\u6709\u66f4\u91cd\u8981\u7684\u4e8b\u60c5\u8981\u505a\u3002<<A<<[CHANGED 2018/08/28]",
               "ja_JP": "\u305d\u3046\u3044\u3046\u4eba\u305f\u3061\u304b\u3089\u3001\u79c1\u306e\u3088\u3046\u306a\u5730\u4f4d\u306b\n\u3044\u308b\u4eba\u9593\u306b\u306f\u3001\u3082\u3063\u3068\u4ed6\u306b\u3084\u308b\u3079\u304d\u3053\u3068\u304c\n\u3042\u308b\u3060\u308d\u3046\u3068\u8a00\u308f\u308c\u7d9a\u3051\u3066\u3044\u308b\u3093\u3060\u3088\u3002<<A<<[CHANGED 2018/08/28]",
@@ -4452,7 +4452,7 @@
           {
             "message": {
               "": "But why should it matter what I do as a recreational activity?",
-              "en_US": "Mas por que deveria importar o que eu faço como atividade recreativa?",
+              "en_US": "Mas por que alguém se preocuparia com minhas atividades recreativas?",
               "de_DE": "Doch wen k\u00fcmmert es, was ich in meiner Freizeit mache?",
               "zh_CN": "\u4f46\u662f\u6211\u7528\u4ec0\u4e48\u4e1c\u897f\u5a31\u4e50\u53c8\u6709\u4ec0\u4e48\u5173\u7cfb\u5462\uff1f<<A<<[CHANGED 2018/08/28]",
               "ja_JP": "\u3060\u304c\u3001\u79c1\u304c\u697d\u3057\u307f\u3068\u3057\u3066\n\u306a\u306b\u3092\u3057\u3088\u3046\u3068\u95a2\u4fc2\u306a\u3044\u3060\u308d\u3046\uff1f<<A<<[CHANGED 2018/08/28]",

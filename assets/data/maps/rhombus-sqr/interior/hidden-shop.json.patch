@@ -409,7 +409,7 @@
                 {
                   "message": {
                     "": "Well look who it is!",
-                    "en_US": "Ora, veja quem temos aqui!",
+                    "en_US": "Ora, olha quem apareceu!",
                     "de_DE": "Ach, wen haben wir denn da?",
                     "zh_CN": "\u770b\u770b\u8fd9\u662f\u8c01\uff01<<A<<[CHANGED 2019/01/10]",
                     "ja_JP": "\u30ec\u30a2\u3058\u3083\u306a\u3044\u304b\uff01<<A<<[CHANGED 2019/01/10]",
@@ -485,7 +485,7 @@
                 {
                   "message": {
                     "": "Haha, now don't get cocky on an old man.",
-                    "en_US": "Haha, agora não seja arrogante com o velho aqui.",
+                    "en_US": "Haha, não fique se achando por isso.",
                     "de_DE": "Hoahoahoa, werde blo\u00df nicht \u00fcberm\u00fctig.",
                     "zh_CN": "\u54c8\u54c8\uff0c\u8001\u5934\u5b50\u6211\u7ecf\u5e38\u88ab\u4f60\u5413\u53ef\u8981\u6298\u5bff\u55bd\u3002<<A<<[CHANGED 2019/01/10]",
                     "ja_JP": "\u306f\u306f\u3001\u3053\u306e\u8001\u3044\u307c\u308c\u3092\n\u3042\u307e\u308a\u3044\u3058\u3081\u306a\u3044\u3067\u304f\u308c\u3088\u3002<<A<<[CHANGED 2019/01/10]",
@@ -515,7 +515,7 @@
                 {
                   "message": {
                     "": "Should we find it, I might be able to fulfill my promise to my kids...",
-                    "en_US": "Se a encontrarmos, talvez eu consiga cumprir minha promessa aos meus filhos.",
+                    "en_US": "Se a encontrarmos, talvez eu consiga cumprir a promessa que fiz aos meus filhos.",
                     "de_DE": "Sollten wir es finden, k\u00f6nnte ich mein Versprechen meinen Kindern gegen\u00fcber halten...",
                     "zh_CN": "\u8981\u662f\u80fd\u627e\u5230\u7684\u8bdd\uff0c\u4e5f\u8bb8\u6211\u5c31\u80fd\u5b8c\u6210\u5bf9\u5b69\u5b50\u4eec\u7684\u627f\u8bfa...<<A<<[CHANGED 2019/01/10]",
                     "ja_JP": "\u3082\u3057\u898b\u3064\u3051\u3089\u308c\u308c\u3070\u3001\u79c1\u306f\u5b50\u4f9b\u305f\u3061\u3068\u306e\n\u7d04\u675f\u3092\u679c\u305f\u305b\u308b\u304b\u3082\u3057\u308c\u306a\u3044...<<A<<[CHANGED 2019/01/10]",
@@ -545,7 +545,7 @@
                 {
                   "message": {
                     "": "No reason to look sad, little one. ",
-                    "en_US": "Não há razão para ficar triste, baxinha.",
+                    "en_US": "Não precisa ficar triste, baxinha.",
                     "de_DE": "Kein Grund, so traurig zu gucken, Kleine.",
                     "zh_CN": "\u4e0d\u5fc5\u4f24\u5fc3\uff0c\u5b69\u5b50\u3002<<A<<[CHANGED 2019/01/10]",
                     "ja_JP": "\u60b2\u3057\u3044\u9854\u3092\u3059\u308b\u7406\u7531\u306f\n\u306a\u3044\u306a\u3001\u304a\u5b22\u3055\u3093\u3002<<A<<[CHANGED 2019/01/10]",
@@ -560,7 +560,7 @@
                 {
                   "message": {
                     "": "I'm sure if I can get them all in one place and talk to them this will all end well.",
-                    "en_US": "Estou certo de que tudo ficará bem se eu puder reunir todos eles e ter uma conversa.",
+                    "en_US": "Acredito que tudo ficará bem se eu puder reunir todos e ter uma conversa franca.",
                     "de_DE": "Ich bin sicher, dass alles gut werden wird, wenn ich sie alle versammeln und mit ihnen reden kann.",
                     "zh_CN": "\u53ea\u8981\u80fd\u628a\u4ed6\u4eec\u805a\u5230\u4e00\u8d77\uff0c\u6211\u8ddf\u4ed6\u4eec\u804a\u804a\u4e00\u5b9a\u80fd\u89e3\u51b3\u7684\u3002<<A<<[CHANGED 2019/05/14]",
                     "ja_JP": "\u30a2\u30a4\u30c6\u30e0\u3092\u4e00\u304b\u6240\u306b\u96c6\u3081\u3066\u3001\n\u5b50\u4f9b\u305f\u3061\u3068\u8a71\u3059\u3053\u3068\u304c\u3067\u304d\u308c\u3070\u3001\n\u3059\u3079\u3066\u3046\u307e\u304f\u3044\u304f\u3060\u308d\u3046\u3002<<A<<[CHANGED 2019/05/14]",
@@ -649,7 +649,7 @@
                     {
                       "message": {
                         "": "This one starts off just like the last one.",
-                        "en_US": "Este começa exatamente como o último.",
+                        "en_US": "Neste caso, vamos como da última vez.",
                         "de_DE": "Wir fangen genauso an wie beim letzten Mal.",
                         "zh_CN": "\u8fd9\u6b21\u548c\u4e0a\u6b21\u4e00\u6837\u3002<<A<<[CHANGED 2019/02/02]",
                         "ja_JP": "\u4eca\u56de\u306f\u524d\u306e\u6642\u3068\u540c\u3058\u3060\u3002<<A<<[CHANGED 2019/02/02]",
@@ -667,7 +667,7 @@
                     {
                       "message": {
                         "": "There's a book here talking about a place in \\c[3]\\v[area.forest.name]\\c[0]. It's in the shelf to the left.",
-                        "en_US": "Há um livro aqui falando sobre um lugar na \\c[3]\\v[area.forest.name]\\c[0]. Está na estante à esquerda.",
+                        "en_US": "Tem um livro aqui que fala sobre um lugar na \\c[3]\\v[area.forest.name]\\c[0]. Está na estante à esquerda.",
                         "de_DE": "Hier ist ein Buch, das von einem Ort auf dem \\c[3]Saphirgrat\\c[0] spricht. Es steht im linken B\u00fccherregal.",
                         "zh_CN": "\u8fd9\u91cc\u6709\u4e00\u672c\u4e66\u63d0\u5230\u4e86\\c[3]\\v[area.forest.name]\\c[0]\u4e2d\u7684\u4e00\u4e2a\u5730\u65b9\u3002\u5de6\u8fb9\u90a3\u4e2a\u4e66\u67dc\u4e0a\u3002<<A<<[CHANGED 2019/01/10]",
                         "ja_JP": "\u305d\u3053\u306b\u3001\\c[3]\\v[area.forest.name]\\c[0]\u306b\u3064\u3044\u3066\n\u66f8\u304b\u308c\u305f\u672c\u304c\u3042\u308b\u3002\u5de6\u5074\u306e\u68da\u3060\u3002<<A<<[CHANGED 2019/01/10]",
@@ -1021,7 +1021,7 @@
                 {
                   "message": {
                     "": "Well, you did it to be fair.",
-                    "en_US": "Bem, você consegiu na verdade.",
+                    "en_US": "Na verdade, você consegiu.",
                     "de_DE": "Besser gesagt, du hast es geschafft.",
                     "zh_CN": "\u5514\uff0c\u5e94\u8be5\u662f\u4f60\u505a\u5230\u4e86\u3002<<A<<[CHANGED 2019/01/10]",
                     "ja_JP": "\u3044\u3084\u3001\u541b\u304c\u3084\u3063\u3066\u304f\u308c\u305f\u3068\n\u3044\u3046\u306e\u304c\u6b63\u3057\u3044\u304b\u3002<<A<<[CHANGED 2019/01/10]",
@@ -1075,7 +1075,7 @@
                 {
                   "message": {
                     "": "Well... I guess there is no point in waiting. ",
-                    "en_US": "Bem... Acho que não vale a pena esperar.",
+                    "en_US": "Acho que não vale a pena esperar.",
                     "de_DE": "Tja... Macht wohl keinen Sinn, es jetzt auf die lange Bank zu schieben.",
                     "zh_CN": "\u55ef...\u6211\u60f3\u4e5f\u4e0d\u7528\u518d\u7b49\u4e86\u3002<<A<<[CHANGED 2019/01/10]",
                     "ja_JP": "\u3055\u3066...\u3082\u3046\u5f85\u3064\u3053\u3068\u306f\u306a\u3044\u3060\u308d\u3046\u3002<<A<<[CHANGED 2019/01/10]",
@@ -1685,8 +1685,8 @@
               },
               {
                 "message": {
-                  "": "*suspira*",
-                  "en_US": "",
+                  "": "*sigh*",
+                  "en_US": "*suspira*",
                   "langUid": 592,
                   "zh_CN": "*\u5509*<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\ud558...<<A<<[CHANGED 2019/04/16]",
@@ -1773,7 +1773,7 @@
               {
                 "message": {
                   "": "Well, apparently they didn't like the fact I'm always carrying this giant bell with me.",
-                  "en_US": "Bem, aparentemente eles não gostaram do fato de eu estar sempre carregando este sino gigante comigo.",
+                  "en_US": "Aparentemente, eles se incomodam com o fato de eu sempre carregar esse sino gigante.",
                   "langUid": 597,
                   "zh_CN": "\u56e0\u4e3a\u4ed6\u4eec\u4e0d\u559c\u6b22\u6211\u968f\u8eab\u5e26\u7740\u8fd9\u4e2a\u5927\u949f\u7684\u6837\u5b50\u3002<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\uc800\ub4e4\uc740 \ub0b4\uac00 \uc774 \uac70\ub300\ud55c \uc885\uc744 \ub2ec\uace0 \ub2e4\ub2c8\ub294 \uac8c \uc2eb\uc5c8\ub098 \ubd10.<<A<<[CHANGED 2019/04/16]",
@@ -1863,7 +1863,7 @@
               {
                 "message": {
                   "": "But I just...\\. have to bring it with me, okay?\\. It's complicated.",
-                  "en_US": "Mas eu só...\\. preciso carregar isso comigo, ok?\\. É compliado.",
+                  "en_US": "Mas eu só...\\. preciso carregar isso comigo, ok?\\. É meio complicado.",
                   "langUid": 602,
                   "zh_CN": "\u4f46\u662f...\\.\u8fd9\u4e2a\u949f\u6211\u5fc5\u987b\u968f\u8eab\u643a\u5e26\u3002\\.\u7406\u7531\u5f88\u590d\u6742\u3002<<A<<[CHANGED 2019/04/16]",
                   "ko_KR": "\ub09c \uadf8\uc800...\\. \uc774\uac78 \uac00\uc9c0\uace0 \ub2e4\ub140\uc57c \ud560 \ubfd0\uc774\ub77c\uace0, \uc751?\\. \ubcf5\uc7a1\ud55c \ubb38\uc81c\uc57c.<<A<<[CHANGED 2019/04/16]",

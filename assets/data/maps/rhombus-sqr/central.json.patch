@@ -6832,7 +6832,7 @@
               {
                 "message": {
                   "": "I recommend checking out the stores. The \\c[3]Booster Items\\c[0] are especially interesting.",
-                  "en_US": "Recomendo verificar as lojas. Os \\c[3]itens de reforço\\c[0] são especialmente interessantes.",
+                  "en_US": "Recomendo verificar as lojas. Os \\c[3]Itens de Boost\\c[0] são especialmente interessantes.",
                   "de_DE": "Ich empfehle, einen Blick in die L\u00e4den zu werfen. Die \\c[3]Booster Items\\c[0] sind besonders interessant.",
                   "zh_CN": "\u6211\u63a8\u8350\u4f60\u4eec\u53bb\u901b\u901b\u5546\u5e97\u3002\u90a3\u4e9b\\c[3]\u654c\u4eba\u5347\u7ea7\u7269\u54c1\\c[0]\u503c\u5f97\u4e00\u770b\u3002<<A<<[CHANGED 2018/08/28]",
                   "ja_JP": "\u304a\u3059\u3059\u3081\u306f\u5546\u5e97\u8857\u3060\u306a\u3002\n\\c[3]\u6575\u306e\u30a2\u30c3\u30d7\u30b0\u30ec\u30fc\u30c9\u30a2\u30a4\u30c6\u30e0\\c[0]\u306f\n\u7279\u306b\u9762\u767d\u3044\u305e\u3002<<A<<[CHANGED 2018/08/28]",
