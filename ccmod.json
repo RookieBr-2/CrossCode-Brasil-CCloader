@@ -22,6 +22,9 @@
     "icons": {
         "24":"icon.png"
     },
+    "repository": "https://github.com/RookieBr-2/CrossCode-Brasil-CCloader",
+	"tags": ["language"],
+	"authors": ["RookieBr", "spacetk00", "Sextare", "Bugaboo2000", "M4sterin", "KingTimer12", "douglasjfarias", "BrTraducoes"],
     "prestart": "prestart.js",
     "dependencies": {}
 }
