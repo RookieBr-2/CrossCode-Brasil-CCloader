@@ -1,1 +1,27 @@
-{"core":{"type":"SOLO_CUSTOM","name":{"":"Some Test Cup","en_US":"Alguma Copa de Teste","de_DE":"Irgendein Testpokal<<C<<Das soll so ~ GFluegel","zh_CN":"\u6d4b\u8bd5\u676f\u8d5b<<A<<[CHANGED 2021\/02\/24]","zh_TW":"PvPvs\u8389\u8389<<A<<[CHANGED 2021\/02\/24]","ja_JP":"\u30c6\u30b9\u30c8\u30ab\u30c3\u30d7<<A<<[CHANGED 2021\/02\/24]","ko_KR":"\ud14c\uc2a4\ud2b8 \ub300\ud68c<<A<<[CHANGED 2021\/02\/24]","langUid":4},"info":{"":"Unused cup, maybe add some description here. PS: Sergey is a dork!","en_US":"Copa não utilizada, talvez adicione alguma descrição aqui. PS: Sergey é um imbecil!","de_DE":"Ungenutzter Pokal, f\u00fcge vielleicht eine Beschreibung hinzu. PS: Sergey ist ein Dussel!<<C<<Das soll so ~ GFluegel","zh_CN":"\u672a\u4f7f\u7528\u676f\u8d5b\uff0c\u9700\u6dfb\u52a0\u63cf\u8ff0\u3002\u6ce8\uff1a\u8c22\u5c14\u76d6\u5927\u4e66\u5446\uff01<<A<<[CHANGED 2021\/02\/24]","zh_TW":"\u8207\u8389\u8389\u9032\u884cPvP\u6230\u9b25\uff01<<A<<[CHANGED 2021\/02\/24]","ja_JP":"\u672a\u4f7f\u7528\u306e\u30ab\u30c3\u30d7\u3002\u3053\u3053\u306b\u3044\u304f\u3064\u304b\u8aac\u660e\u304c\u8ffd\u52a0\u3055\u308c\u308b\u304b\u3082\u3002PS\uff1a\u30bb\u30eb\u30b2\u30a4\u306f\u30a2\u30db\u3060\uff01<<A<<[CHANGED 2021\/02\/24]","ko_KR":"\uc0ac\uc6a9\ub418\uc9c0 \uc54a\ub294 \ub300\ud68c. \uc124\uba85\uc744 \uc785\ub825\ud574 \uc8fc\uc138\uc694. PS: \uc138\ub974\uac8c\uc774 \ubc14\ubcf4!<<A<<[CHANGED 2021\/02\/24]","langUid":1},"creator":{"":"Alan Smithee","en_US":"Alan Smithee","de_DE":"Alan Smithee","zh_CN":"\u963f\u5170\u00b7\u65bd\u5bc6\u897f<<A<<[CHANGED 2021\/02\/24]","zh_TW":"\u8389\u8389<<A<<[CHANGED 2021\/02\/24]","ja_JP":"\u30a2\u30e9\u30f3\u30fb\u30b9\u30df\u30b7\u2015<<A<<[CHANGED 2021\/02\/24]","ko_KR":"\uc568\ub7f0 \uc2a4\ubbf8\uc2a4<<A<<[CHANGED 2021\/02\/24]","langUid":28},"condition":"(quest.dekay-quest.solved && plot.line >= 32000) || test","music":"challenge","noRush":true,"mods":["WEAPON_ADJUST"],"level":75,"difficulty":"5","banner":{"src":"media\/gui\/arena-banners.png","offX":0,"offY":0,"width":276,"height":64}},"rounds":[{"name":{"":"Round 1 - The only Round","en_US":"Rodada 1 - A única Rodada","de_DE":"Runde 1 - Die einzige Runde","zh_CN":"\u7b2c\u4e00\u56de\u5408 - \u552f\u4e00\u4e00\u56de\u5408<<A<<[CHANGED 2021\/02\/24]","zh_TW":"\u548c\u6211\u6253\uff01<<A<<[CHANGED 2021\/02\/24]","ja_JP":"\u30e9\u30a6\u30f3\u30c9 1 - \u552f\u4e00\u306e\u30e9\u30a6\u30f3\u30c9<<A<<[CHANGED 2021\/02\/24]","ko_KR":"1 \ub77c\uc6b4\ub4dc - \uc720\uc77c\ud55c \ub77c\uc6b4\ub4dc<<A<<[CHANGED 2021\/02\/24]","langUid":33},"customCode":true,"camFocus":"center","platPoints":150000,"coins":0,"objective":{"":"Kill the thing.\n\\c[1]And make sure to remove this cup later.\\c[0]","en_US":"Mate a coisa.\n\\c[1]E certifique-se de remover essa copa depois.\\c[0]","de_DE":"T\u00f6te das Ding.\n\\c[1]Und vergiss nicht, den Pokal sp\u00e4ter zu entfernen.\\c[0]","zh_CN":"\u6740\u6b7b\u5b83\u3002\n\\c[1]\u4e4b\u540e\u8bb0\u5f97\u628a\u8fd9\u676f\u8d5b\u5220\u4e86\u3002\\c[0]<<A<<[CHANGED 2021\/05\/04]","zh_TW":"\u548c\u6211\u5728\u7af6\u6280\u5834\u6253\u4e00\u5834\u5427\uff01<<A<<[CHANGED 2021\/05\/04]","ja_JP":"\u30e4\u30c4\u3092\u5012\u305b\u3002\n\\c[1]\u305d\u3057\u3066\u305d\u306e\u5f8c\u3001\u3053\u306e\u30ab\u30c3\u30d7\u3092\u5fc5\u305a\u524a\u9664\u3059\u308b\u306e\u3060\u3002\\c[0]<<A<<[CHANGED 2021\/05\/04]","ko_KR":"\ub300\uc0c1\uc744 \ucc98\uce58\ud558\uc138\uc694.\n\\c[1]\uadf8\ub9ac\uace0 \ub098\uc911\uc5d0 \uc774 \ub300\ud68c \uc0ad\uc81c\ud558\uae30.\\c[0]<<A<<[CHANGED 2021\/05\/04]","langUid":34},"points":125000,"type":"DEFAULT","medal":0,"waves":[],"map":"arena.special.dekay-boss-1","bonuses":[{"type":"HIT_COUNTER","value":150,"points":7500},{"type":"TIME","seconds":150,"points":10000},{"type":"ITEMS_USED","amount":0,"points":7500}],"spawn":"center"}]}
+{
+  "core": {
+    "name": {
+      "": "Some Test Cup",
+      "en_US": "Alguma Copa de Teste"
+    },
+    "info": {
+      "": "Unused cup, maybe add some description here. PS: Sergey is a dork!",
+      "en_US": "Copa não utilizada, talvez adicione alguma descrição aqui. PS: Sergey é um imbecil!"
+    },
+    "creator": {
+      "": "Alan Smithee"
+    }
+  },
+  "rounds": {
+    "0": {
+      "name": {
+        "": "Round 1 - The only Round",
+        "en_US": "Rodada 1 - A única Rodada"
+      },
+      "objective": {
+        "": "Kill the thing.\n\\c[1]And make sure to remove this cup later.\\c[0]",
+        "en_US": "Mate a coisa.\n\\c[1]E certifique-se de remover essa copa depois.\\c[0]"
+      }
+    }
+  }
+}
