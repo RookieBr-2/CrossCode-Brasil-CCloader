@@ -16,37 +16,37 @@
             "9": {
               "message": {
                 "": "Dear listener, it seems like the story of this facility will come to a close.\\. Many things have happened.",
-                "en_US": "Cara ouvinte, parece que a história desta instalação chegará ao fim.\\. Muitas coisas aconteceram."
+                "en_US": "Querida ouvinte, parece que a história desta instalação está chegando ao fim.\\. Muitas coisas aconteceram."
               }
             },
             "10": {
               "message": {
                 "": "One of our trusted associates had a critical incident in their facility, resulting in an outbreak of armed birds.",
-                "en_US": "Um de nossos associados de confiança teve um incidente crítico em suas instalações, resultando em um surto de pássaros armados."
+                "en_US": "Um de nossos parceiros de confiança teve um grave incidente em suas instalações, levando a um surto de pássaros armados."
               }
             },
             "11": {
               "message": {
                 "": "This instantly lost us all support from the \\v[lore.title.human-government], that wanted to keep our projects a secret.",
-                "en_US": "Isso instantaneamente nos fez perder todo o apoio da \\v[lore.title.human-government], que queria manter nossos projetos em segredo."
+                "en_US": "Isso nos custou o apoio das \\v[lore.title.human-government], que queriam manter nossos projetos em segredo."
               }
             },
             "12": {
               "message": {
                 "": "For all our progress to have it end so suddenly... Fate is a cruel mistress indeed.",
-                "en_US": "E todo o nosso progresso terminará tão repentinamente... O destino é realmente um amante cruel."
+                "en_US": "É triste ver todo o nosso progresso chegar ao fim tão subitamente... O destino é, sem dúvida, cruel."
               }
             },
             "13": {
               "message": {
                 "": "Though I must also admit that our own facility has run into problems as well.",
-                "en_US": "Embora eu também deva admitir que nossas próprias instalações também tiveram problemas."
+                "en_US": "Embora eu também deva admitir que nossas instalações também tiveram problemas."
               }
             },
             "14": {
               "message": {
                 "": "While the track ever more strongly undermined our system and reshaped the rooms to its will, even our test subject became more unruly.",
-                "en_US": "Embora a trilha minasse nosso sistema com sua força e remodelasse as salas de acordo com sua vontade, até mesmo nossa cobaia se tornou mais indisciplinada."
+                "en_US": "A Trilha minou nosso sistema com sua força e alterou as salas segundo sua vontade, levando nossa cobaia a se comportar de forma violenta."
               }
             },
             "15": {
@@ -64,13 +64,13 @@
             "17": {
               "message": {
                 "": "We joined with passionate visionaries among our colleagues to establish another secret facility.",
-                "en_US": "Nós nos juntamos a nossos colegas, os mais visionários e apaixonados, para estabelecer outra instalação secreta."
+                "en_US": "Juntamos forças com nossos colegas, mais apaixonados e visionários, para criar uma nova instalação secreta."
               }
             },
             "18": {
               "message": {
                 "": "Our progress will be preserved there and used to fuel the next progress.\\. The exciting times will never end, dear listener.",
-                "en_US": "Nosso progresso será preservado e usado para alimentar o próximo progresso.\\. Os tempos emocionantes nunca terminarão, querida ouvinte."
+                "en_US": "O nosso avanço será protegido e usado como combustível para futuras inovações.\\. Os tempos empolgantes nunca terminarão, querida ouvinte."
               }
             },
             "19": {
@@ -94,7 +94,7 @@
           "4": {
             "message": {
               "": "My, what a dramatic man.\\. Very pleased with himself after everything that happened.",
-              "en_US": "Nossa, que homem dramático.\\. Muito satisfeito consigo, mesmo depois de tudo o que aconteceu."
+              "en_US": "Nossa, que homem dramático.\\. Muito orgulhoso, mesmo depois de tudo o que aconteceu."
             }
           },
           "5": {
@@ -105,7 +105,7 @@
           "6": {
             "message": {
               "": "Yes, \\v[lore.title.seeker], you heard him.\\. The government supported projects that messed with the Track.\\. Endangered lives.",
-              "en_US": "Sim, \\v[lore.title.seeker], você o ouviu.\\. O governo apoiava projetos que mexiam com a Trilha.\\. Vidas em perigo."
+              "en_US": "Sim, \\v[lore.title.seeker], você ouviu.\\. O governo apoiava projetos que interferiam na Trilha, colocando vidas em risco."
             }
           },
           "7": {
@@ -116,13 +116,13 @@
           "8": {
             "message": {
               "": "But you did well in this facility.\\. The documents you found will be a great help when fighting the power.",
-              "en_US": "Mas você se saiu bem nesta instalação.\\. Os documentos que você encontrou serão de grande ajuda na luta contra o poder."
+              "en_US": "Mas você se saiu bem naquela fábrica.\\. Os documentos que você encontrou serão de grande ajuda na luta contra o poder."
             }
           },
           "9": {
             "message": {
               "": "Please bring them to me in \\v[area.jungle-city.name].\\. Meeting place will be the same.\\. I will see you.",
-              "en_US": "Por favor, traga-os para mim na \\v[area.jungle-city.name].\\. O local de encontro será o mesmo.\\. Vou estar vendo você."
+              "en_US": "Por favor, traga-os para mim na \\v[area.jungle-city.name].\\. O local de encontro será o mesmo.\\. Vou estar esperando."
             }
           },
           "10": {
@@ -159,25 +159,25 @@
                 "2": {
                   "text": {
                     "": "Good evening everyone, \n\nsince \\c[3]our funding has been cut\\c[0] and \\c[3]the facilities got taken by the Track\\c[0], we established a \\c[3]new place\\c[0] where we will preserve and continue our research.",
-                    "en_US": "Boa noite a todos, \n\ndesde que \\c[3]nosso financiamento foi cortado\\c[0] e \\c[3]as instalações foram tomadas pela Trilha\\c[0], estabelecemos um \\c[3]novo local\\c[0] onde iremos preservar e continuar nossas pesquisas."
+                    "en_US": "Boa noite a todos, \n\nDevido ao \\c[3]corte de nosso financiamento\\c[0] e à \\c[3]tomada das instalações pela Trilha\\c[0], encontramos um \\c[3]novo local\\c[0] para preservar e dar continuidade às nossas pesquisas."
                   }
                 },
                 "3": {
                   "text": {
                     "": "The entrance can be found \\c[3]somewhere in \\v[area.forest.name]\\c[0].\nYou will find the \\c[3]key\\c[0] to enter it in the \\c[3]attachment\\c[0] of this message.\nHowever, \\c[3]by itself the key will not work\\c[0].",
-                    "en_US": "A entrada pode ser encontrada \\c[3]em algum lugar do \\v[area.forest.name]\\c[0].\nVocê encontrará a \\c[3]chave\\c[0] para entrar no \\c[3]anexo\\c[0] desta mensagem.\nNo entanto, \\c[3]sozinha a chave não funcionará\\c[0]."
+                    "en_US": "A entrada pode ser encontrada \\c[3]em algum lugar na \\v[area.forest.name]\\c[0].\nVocê encontrará a \\c[3]chave\\c[0] para acessá-la no \\c[3]anexo\\c[0] desta mensagem.\nNo entanto, \\c[3]a chave não funcionará\\c[0]."
                   }
                 },
                 "4": {
                   "text": {
                     "": "You will first need to \\c[3]decrypt\\c[0] it at \\c[3]4 different places\\c[0] that are hidden somewhere on \\v[lore.title.planet], each in a \\c[3]different region\\c[0].",
-                    "en_US": "Primeiro você precisará \\c[3]descriptografar\\c[0] em \\c[3]4 lugares diferentes\\c[0] que estão escondidos em algum lugar em \\v[lore.title.planet], localizados em \\c[3]regiões diferentes\\c[0]."
+                    "en_US": "Primeiro, você precisará \\c[3]descriptografar\\c[0] a chave em \\c[3]quatro locais diferentes\\c[0] que estão escondidos em algum lugar de \\v[lore.title.planet], situados em \\c[3]regiões distintas\\c[0]."
                   }
                 },
                 "5": {
                   "text": {
                     "": "Hints towards \\c[1]one\\c[0] the locations can be found in each of our 4 facilities.\n\\c[3]So you will learn one location after reading this very message.\\c[0]",
-                    "en_US": "Dicas para \\c[1]um\\c[0] dos locais, podem ser encontrados em cada uma de nossas 4 instalações.\n\\c[3]Então você aprenderá um local depois de ler esta mesma mensagem.\\c[0]"
+                    "en_US": "Você pode encontrar dicas para \\c[1]um\\c[0] dos locais em cada uma das nossas quatro instalações. \\c[3]Ao ler esta mensagem, você descobrirá um deles\\c[0]."
                   }
                 },
                 "6": {
@@ -207,7 +207,7 @@
                 "7": {
                   "text": {
                     "": "\\c[1]ATTACHMENT:\\c[0]\n\nOne of the hidden places can be found in \\c[3]\\v[area.jungle.name]\\c[0], \\c[3]\"At a crossing, on top of one of the four tree stumps\"\\c[0]!",
-                    "en_US": "\\c[1]ANEXO:\\c[0]\n\nUm dos lugares escondidos pode ser encontrado no \\c[3]\\v[area.jungle.name]\\c[0], \\c[3]\"Em um cruzamento, acima de um dos quatro tocos de árvore\"\\c[0]!"
+                    "en_US": "\\c[1]ANEXO:\\c[0]\n\nUm dos lugares escondidos pode ser encontrado no \\c[3]\\v[area.jungle.name]\\c[0], \\c[3]\"Em um cruzamento, no topo de um dos quatro tocos de árvore\"\\c[0]!"
                   }
                 }
               }

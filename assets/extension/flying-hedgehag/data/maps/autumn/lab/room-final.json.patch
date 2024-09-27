@@ -102,25 +102,25 @@
                 "2": {
                   "text": {
                     "": "Good evening everyone, \n\nSince \\c[3]our funding has been cut\\c[0] and \\c[3]the facilities got taken by the Track\\c[0], we established a \\c[3]new place\\c[0] where we will preserve and continue our research.",
-                    "en_US": "Boa noite a todos, \n\nComo \\c[3]nosso financiamento foi cortado\\c[0] e \\c[3]as instalações foram tomadas pela Trilha\\c[0], estabelecemos um \\c[3]novo local\\c[0] onde iremos preservar e continuar nossas pesquisas."
+                    "en_US": "Boa noite a todos, \n\nDevido ao \\c[3]corte de nosso financiamento\\c[0] e à \\c[3]tomada das instalações pela Trilha\\c[0], encontramos um \\c[3]novo local\\c[0] para preservar e dar continuidade às nossas pesquisas."
                   }
                 },
                 "3": {
                   "text": {
                     "": "The entrance can be found \\c[3]somewhere in \\v[area.forest.name]\\c[0].\nYou will find the \\c[3]key\\c[0] to enter it in the \\c[3]attachment\\c[0] of this message.\nHowever, \\c[3]by itself the key will not work\\c[0].",
-                    "en_US": "A entrada pode ser encontrada \\c[3]em algum lugar da \\v[area.forest.name]\\c[0].\nVocê encontrará a \\c[3]chave\\c[0] para entrar no \\c[3]anexo\\c[0] desta mensagem.\nNo entanto, \\c[3]sozinha a chave não funcionará\\c[0]."
+                    "en_US": "A entrada pode ser encontrada \\c[3]em algum lugar na \\v[area.forest.name]\\c[0].\nVocê encontrará a \\c[3]chave\\c[0] para acessá-la no \\c[3]anexo\\c[0] desta mensagem.\nNo entanto, \\c[3]a chave não funcionará\\c[0]."
                   }
                 },
                 "4": {
                   "text": {
                     "": "You will first need to \\c[3]decrypt\\c[0] it at \\c[3]4 different places\\c[0] that are hidden somewhere on \\v[lore.title.planet], each in a \\c[3]different region\\c[0].",
-                    "en_US": "Primeiro você precisará \\c[3]descriptografar\\c[0] em \\c[3]4 lugares diferentes\\c[0] que estão escondidos em algum lugar em \\v[lore.title.planet], localizados em \\c[3]regiões diferentes\\c[0]."
+                    "en_US": "Primeiro, você precisará \\c[3]descriptografar\\c[0] a chave em \\c[3]quatro locais diferentes\\c[0] que estão escondidos em algum lugar de \\v[lore.title.planet], situados em \\c[3]regiões distintas\\c[0]."
                   }
                 },
                 "5": {
                   "text": {
                     "": "Hints towards \\c[1]one\\c[0] the locations can be found in each of our 4 facilities.\n\\c[3]So you will learn one location after reading this very message.\\c[0]",
-                    "en_US": "Dicas para \\c[1]um\\c[0] dos locais, podem ser encontrados em cada uma de nossas 4 instalações.\n\\c[3]Então você aprenderá um local depois de ler esta mesma mensagem.\\c[0]"
+                    "en_US": "Você pode encontrar dicas para \\c[1]um\\c[0] dos locais em cada uma das nossas quatro instalações. \\c[3]Ao ler esta mensagem, você descobrirá um deles\\c[0]."
                   }
                 },
                 "6": {
