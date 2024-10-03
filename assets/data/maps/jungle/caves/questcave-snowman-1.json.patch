@@ -26,11 +26,11 @@
               "name": "checkpointPostBattle3"
             },
             "type": "SAVE",
-            "withElse": null,
-            "condition": null,
-            "thenStep": null
+            "withElse": "",
+            "condition": "",
+            "thenStep": ""
           },
-          "16": null
+          "16": ""
         }
       }
     },

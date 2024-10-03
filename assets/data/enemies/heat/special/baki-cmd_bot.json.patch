@@ -60,13 +60,13 @@
   "meta": {
     "species": {
       "": "Desert Leaderbot",
-      "en_US": null
+      "en_US": ""
     },
     "descriptions": {
       "0": {
         "text": {
           "": "An improved variant of the more basic \\c[3]\\v[combat.name.default]\\c[0], used by the law-enforcement of \\c[3]\\v[area.heat-village.name]\\c[0]. It is usually accompanied by a squad of \\c[3]\\v[combat.name.heat/special/baki-turret_1]\\c[0] that it will shield while acting defensively. When forced to alone it will switch into a more aggressive mode.",
-          "en_US": null
+          "en_US": ""
         }
       }
     }

@@ -34,7 +34,7 @@
       "0": {
         "text": {
           "": "An improved variant of the popular \\c[3]Rhombus Turret\\c[0], used by the law-enforcement of \\c[3]\\v[area.heat-village.name]\\c[0]. This type does not have an accompanying \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0] for additional shielding but can still fire \\c[3]mortars\\c[0] at targets behind cover or on different height layers.",
-          "en_US": null
+          "en_US": ""
         }
       }
     }

@@ -2,21 +2,21 @@
   "entities": {
     "11": {
       "settings": {
-        "activeTime": null,
-        "fixCount": null,
-        "fastMode": null
+        "activeTime": "",
+        "fixCount": "",
+        "fastMode": ""
       }
     },
     "58": {
       "level": 2,
       "settings": {
         "zHeight": 96,
-        "blockNavMap": null
+        "blockNavMap": ""
       }
     },
     "59": {
       "settings": {
-        "reactToParty": null
+        "reactToParty": ""
       }
     },
     "261": {
@@ -48,7 +48,7 @@
         }
       }
     },
-    "265": null
+    "265": ""
   },
   "layer": {
     "9": {

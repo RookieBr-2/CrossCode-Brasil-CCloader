@@ -2,13 +2,13 @@
   "meta": {
     "species": {
       "": "Drunken Being",
-      "en_US": null
+      "en_US": ""
     },
     "descriptions": {
       "0": {
         "text": {
           "": "Brought to life by fire and only the best of spirits, this golem burns even hotter than its more common brethren, the \\v[combat.name.heat/heat-golem]. It is born from a highly-powered distillery and could not long survive without being fueled by the energy of traditional Ancient beverage.\nJust like the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] it receives a shield from the Distillery that spawned it. Some mechanism must be activated to make it vulnerable again.",
-          "en_US": null
+          "en_US": ""
         }
       }
     }

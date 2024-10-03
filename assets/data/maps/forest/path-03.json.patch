@@ -17,15 +17,15 @@
             "type": "CHANGE_VAR_BOOL",
             "varName": "tmp.groupTrigger1",
             "value": false,
-            "mode": null,
-            "millis": null,
-            "gui": null,
-            "duration": null,
-            "temp": null,
-            "assist": null,
-            "name": null
+            "mode": "",
+            "millis": "",
+            "gui": "",
+            "duration": "",
+            "temp": "",
+            "assist": "",
+            "name": ""
           },
-          "2": null
+          "2": ""
         }
       }
     },

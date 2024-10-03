@@ -1180,7 +1180,7 @@
       "settings": {
         "teleportLabel": {
           "": "",
-          "en_US": null
+          "en_US": ""
         }
       }
     },
@@ -1188,7 +1188,7 @@
       "settings": {
         "teleportLabel": {
           "": "",
-          "en_US": null
+          "en_US": ""
         }
       }
     },
@@ -1196,7 +1196,7 @@
       "settings": {
         "teleportLabel": {
           "": "",
-          "en_US": null
+          "en_US": ""
         }
       }
     },
@@ -1214,7 +1214,7 @@
       "settings": {
         "teleportLabel": {
           "": "",
-          "en_US": null
+          "en_US": ""
         }
       }
     },
@@ -1233,7 +1233,7 @@
         "interact": {
           "hoverText": {
             "": "\\i[arrow-s] Autumn's Rise\n\\i[arrow-n] Ascent to Bergen Village.",
-            "en_US": null
+            "en_US": ""
           }
         }
       }

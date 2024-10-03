@@ -33,7 +33,7 @@
             "type": "CHANGE_VAR_NUMBER",
             "varName": "tmp.respawnCounter",
             "value": 5,
-            "effectType": null
+            "effectType": ""
           },
           "56": {
             "type": "CHANGE_VAR_BOOL",
@@ -43,7 +43,7 @@
           "57": {
             "varName": "tmp.introEnd"
           },
-          "58": null
+          "58": ""
         }
       }
     },
@@ -323,7 +323,7 @@
     }
   },
   "attributes": {
-    "oobSound": null
+    "oobSound": ""
   },
   "screen": {
     "x": 1,

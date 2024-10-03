@@ -94,7 +94,7 @@
       "0": {
         "text": {
           "": "This pillar is used as the main foe to fight during the \\c[3]\\v[area.autumn-fall.name] Raid\\c[0]. Attacking it directly is not possible, instead the smaller \\v[combat.name.autumn-fall/raid-pillar-small]s have to be attacked to reduce its HP. \nHowever the more HP it loses the more fierce it will become by using the element it was damaged with to conjure strong elemental attacks. These are only telegraphed by symbols on the ground.",
-          "en_US": null
+          "en_US": ""
         }
       }
     }

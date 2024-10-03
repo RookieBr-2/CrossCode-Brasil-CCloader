@@ -117,7 +117,7 @@
       "0": {
         "text": {
           "": "Bombs made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nThough they can not attack, they will \\c[3]detonate themselves at close range\\c[0] with such a force that they might even be a danger to heavily armored military hardware.",
-          "en_US": null
+          "en_US": ""
         }
       }
     }

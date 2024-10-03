@@ -2,13 +2,13 @@
   "meta": {
     "species": {
       "": "Magical Being",
-      "en_US": null
+      "en_US": ""
     },
     "descriptions": {
       "0": {
         "text": {
           "": "Brought to life by fire and old magic this golem bursts flames out of every part of its body. Getting too close means catching on fire so stay away and use ranged attacks to stun it with cold balls. But be aware that it will react much like a bubble and burst into hot steam so don't charge in immediately. Blocking also comes in handy when it's using its fire shots.",
-          "en_US": null
+          "en_US": ""
         }
       }
     }

@@ -8,7 +8,7 @@
               "settings": {
                 "taskTitle": {
                   "": "",
-                  "en_US": null
+                  "en_US": ""
                 }
               }
             }
@@ -16,7 +16,7 @@
           "8": {
             "titleText": {
               "": "Thanks!",
-              "en_US": null
+              "en_US": ""
             },
             "text": {
               "": "Thanks a lot for completing this tech demo of CrossCode!\nIf you like what you saw, please tell your friends!\nWe'd like to get word around! :D\nAlso, follow us on Facebook and Twitter!",

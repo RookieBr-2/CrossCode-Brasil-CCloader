@@ -113,25 +113,25 @@
               "0": {
                 "text": {
                   "": "\\v[tmp.playerPos.y]",
-                  "en_US": null
+                  "en_US": ""
                 }
               },
               "1": {
                 "text": {
                   "": "\\v[tmp.softlockBox1Pos.x]",
-                  "en_US": null
+                  "en_US": ""
                 }
               },
               "2": {
                 "text": {
                   "": "\\v[tmp.softlockBox2Pos.y]",
-                  "en_US": null
+                  "en_US": ""
                 }
               },
               "3": {
                 "text": {
                   "": "\\v[tmp.softlockBox3Pos.x]",
-                  "en_US": null
+                  "en_US": ""
                 }
               }
             }
