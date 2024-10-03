@@ -6,7 +6,7 @@
           "0": {
             "text": {
               "": "STRAT1 \\v[entity.attrib.strat]",
-              "en_US": null
+              "en_US": ""
             }
           }
         }
@@ -18,7 +18,7 @@
           "0": {
             "text": {
               "": "STRAT2 \\v[entity.attrib.strat]",
-              "en_US": null
+              "en_US": ""
             }
           }
         }
@@ -28,7 +28,7 @@
       "0": {
         "text": {
           "": "TRAP END!",
-          "en_US": null
+          "en_US": ""
         }
       }
     }

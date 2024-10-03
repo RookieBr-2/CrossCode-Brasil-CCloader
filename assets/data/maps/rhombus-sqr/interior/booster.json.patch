@@ -206,10 +206,10 @@
                       "person": "main.lea",
                       "expression": "EXCITED"
                     },
-                    "withElse": null,
-                    "condition": null,
-                    "thenStep": null,
-                    "elseStep": null
+                    "withElse": "",
+                    "condition": "",
+                    "thenStep": "",
+                    "elseStep": ""
                   }
                 },
                 "1": {
@@ -242,10 +242,10 @@
                       "person": "main.lea",
                       "expression": "EXCITED"
                     },
-                    "withElse": null,
-                    "condition": null,
-                    "thenStep": null,
-                    "elseStep": null
+                    "withElse": "",
+                    "condition": "",
+                    "thenStep": "",
+                    "elseStep": ""
                   }
                 },
                 "options": {

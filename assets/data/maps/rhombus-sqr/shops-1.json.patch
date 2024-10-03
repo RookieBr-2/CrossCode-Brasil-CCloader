@@ -8550,7 +8550,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arDotsV",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8569,7 +8569,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arDotsV",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8664,7 +8664,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arDotsV",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8683,7 +8683,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arDotsV",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8702,7 +8702,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arDotsV",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8759,7 +8759,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arDotsV",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8816,7 +8816,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsV",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8835,7 +8835,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8854,7 +8854,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8873,7 +8873,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8892,7 +8892,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8911,7 +8911,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8930,7 +8930,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8949,7 +8949,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8968,7 +8968,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsV",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -8987,7 +8987,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsV",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9006,7 +9006,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsV",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9025,7 +9025,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9044,7 +9044,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9063,7 +9063,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9082,7 +9082,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9101,7 +9101,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9120,7 +9120,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9139,7 +9139,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9158,7 +9158,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9177,7 +9177,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9196,7 +9196,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9215,7 +9215,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9234,7 +9234,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9253,7 +9253,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9272,7 +9272,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arAirDotsH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9836,7 +9836,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arDotsV",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -9874,7 +9874,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "arDotsV",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -10950,7 +10950,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARweapon",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -10969,7 +10969,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARweapon",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -10988,7 +10988,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARweapon",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -11007,7 +11007,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARbooster",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -11026,7 +11026,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARitem",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -11045,7 +11045,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARitem",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -11064,7 +11064,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARitem",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -11083,7 +11083,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARitem",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -11102,7 +11102,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARitem",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -11121,7 +11121,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARbooster",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -11225,7 +11225,7 @@
         "propConfig": {
           "sheet": "dungeon-ar",
           "name": "blockWallH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -11385,7 +11385,7 @@
         "propConfig": {
           "sheet": "dungeon-ar",
           "name": "blockWallH",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -11754,7 +11754,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARcurios",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -11773,7 +11773,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARcurios",
-          "ends": null
+          "ends": ""
         }
       }
     },
@@ -11857,7 +11857,7 @@
         "propConfig": {
           "sheet": "rhombus-sqr",
           "name": "wallARclosed",
-          "ends": null
+          "ends": ""
         }
       }
     },

@@ -99,7 +99,7 @@
       "settings": {
         "displayName": {
           "": "Jeff",
-          "en_US": null
+          "en_US": ""
         },
         "npcStates": {
           "0": {
@@ -265,7 +265,7 @@
       "settings": {
         "teleportLabel": {
           "": "",
-          "en_US": null
+          "en_US": ""
         }
       }
     },
@@ -273,7 +273,7 @@
       "settings": {
         "teleportLabel": {
           "": "",
-          "en_US": null
+          "en_US": ""
         }
       }
     },
@@ -281,7 +281,7 @@
       "settings": {
         "teleportLabel": {
           "": "",
-          "en_US": null
+          "en_US": ""
         }
       }
     },
@@ -289,7 +289,7 @@
       "settings": {
         "teleportLabel": {
           "": "",
-          "en_US": null
+          "en_US": ""
         }
       }
     },
@@ -368,13 +368,13 @@
               "4": {
                 "message": {
                   "": "Bonjour, Lea!",
-                  "en_US": null
+                  "en_US": ""
                 }
               },
               "5": {
                 "message": {
                   "": "There you are! Thanks for dropping by.",
-                  "en_US": null
+                  "en_US": ""
                 }
               }
             }
@@ -431,7 +431,7 @@
       "settings": {
         "displayName": {
           "": "Jeff",
-          "en_US": null
+          "en_US": ""
         }
       }
     },
@@ -439,7 +439,7 @@
       "settings": {
         "displayName": {
           "": "Jeff",
-          "en_US": null
+          "en_US": ""
         }
       }
     },

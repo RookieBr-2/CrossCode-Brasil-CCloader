@@ -240,7 +240,7 @@
     }
   },
   "attributes": {
-    "oobSound": null
+    "oobSound": ""
   },
   "screen": {
     "x": 272,
