@@ -175,13 +175,13 @@
           "7": {
             "message": {
               "": "Yes, excellent work, \\v[lore.title.seeker]!\\. It seems like you mopped them up nicely.",
-              "en_US": "Sim, Excelente trabalho \\v[lore.title.seeker]!\\. Parece que você deu um jeito neles."
+              "en_US": "Sim, bom trabalho \\v[lore.title.seeker]!\\. Parece que você deu um jeito neles."
             }
           },
           "8": {
             "message": {
               "": "And you secured that location tracking device that those winter soldiers dropped.",
-              "en_US": "E você protegeu aquele dispositivo de rastreamento de localização que aqueles soldados invernais deixaram cair."
+              "en_US": "E você conseguiu proteger aquele dispositivo de rastreamento que os soldados invernais deixaram cair."
             }
           },
           "9": {
@@ -199,7 +199,7 @@
           "11": {
             "message": {
               "": "You should locate it and mount a full assault immediately, to secure the weapons for the use of mankind!",
-              "en_US": "Você deve localizá-lo e montar um ataque completo imediatamente, para garantir as armas para o uso da humanidade!"
+              "en_US": "Você deve invadir o local imediatamente, para proteger essas armas e devolvê-las à humanidade!"
             }
           },
           "12": {

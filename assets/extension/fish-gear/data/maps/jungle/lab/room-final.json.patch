@@ -207,7 +207,7 @@
                 "7": {
                   "text": {
                     "": "\\c[1]ATTACHMENT:\\c[0]\n\nOne of the hidden places can be found in \\c[3]\\v[area.jungle.name]\\c[0], \\c[3]\"At a crossing, on top of one of the four tree stumps\"\\c[0]!",
-                    "en_US": "\\c[1]ANEXO:\\c[0]\n\nUm dos lugares escondidos pode ser encontrado no \\c[3]\\v[area.jungle.name]\\c[0], \\c[3]\"Em um cruzamento, no topo de um dos quatro tocos de árvore\"\\c[0]!"
+                    "en_US": "\\c[1]ANEXO:\\c[0]\n\nUm dos locais secretos pode ser encontrado no \\c[3]\\v[area.jungle.name]\\c[0], \\c[3]\"Em um cruzamento, no topo de um dos quatro tocos de árvore\"\\c[0]!"
                   }
                 }
               }

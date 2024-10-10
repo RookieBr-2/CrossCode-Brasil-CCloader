@@ -33664,7 +33664,7 @@
       },
       "briefing": {
         "": "You retrieved the important military data for the \\v[lore.title.human-government] and also uncovered a secret facility of the \"Heavy Hardware\"-company! Maybe this other new secret facility really exists as well?",
-        "en_US": "Você recuperou os dados militares importantes para o \\v[lore.title.human-government] e também descobriu uma instalação secreta da \"Heavy Hardware\" - empresa de equipamentos pesados! Talvez essa outra nova instalação secreta também exista de fato?"
+        "en_US": "Você recuperou dados militares importantes para a \\v[lore.title.human-government] e também descobriu uma instalação secreta da \"Equipamentos Pesados S.A.\"! Talvez essa outra nova instalação secreta também exista de fato?"
       },
       "tasks": {
         "0": {
@@ -37707,7 +37707,7 @@
       },
       "briefing": {
         "": "The pinnacle of steak has been reached! Now you can acquire even \\c[3]Gourmet Steaks\\c[0] from Ms. Teak's booth!",
-        "en_US": "O ápice do bife foi alcançado! Agora você pode adquirir até mesmo \\c[3]Bifes Gourmet\\c[0] do estande da Srta. Teak!"
+        "en_US": "O ápice do bife foi alcançado! Agora você pode adquirir \\c[3]Bifes Gourmet\\c[0] no estande da Srta. Teak!"
       },
       "tasks": {
         "0": {
@@ -37727,12 +37727,13 @@
     "console-switch-1": {
       "hubSettings": {
         "location": {
-          "": "Hedgehags learned to fly, believe it! Help me to find proof! \\c[3]- Rookie Harbor Inn\\c[0]"
+          "": "Hedgehags learned to fly, believe it! Help me to find proof! \\c[3]- Rookie Harbor Inn\\c[0]",
+          "en_US": "Os Ouriçados aprenderam a voar, é sério! Me ajude a provar isso! \\c[3]- Pousada do Porto\\c[0]"
         }
       },
       "name": {
         "": "A Switch in Altitude",
-        "en_US": "Um Interruptor de Altitude"
+        "en_US": "Uma mudança de Altitude"
       },
       "person": {
         "": "Joe the Younger",
@@ -37780,7 +37781,7 @@
         "5": {
           "task": {
             "": "Return to \\c[3]Joe the Younger\\c[0] in the \\c[3]Rookie Harbor Inn\\c[0]",
-            "en_US": "Fale com \\c[3]Joe o Jovem\\c[0] na \\c[3]Pousada do Porto do Novato\\c[0]"
+            "en_US": "Fale com \\c[3]Joe o Jovem\\c[0] na \\c[3]Pousada do Porto\\c[0]"
           }
         }
       }

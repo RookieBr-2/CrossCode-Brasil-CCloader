@@ -1280,7 +1280,7 @@
                 "3": {
                   "message": {
                     "": "\\v[lore.title.seeker].\\. A loyal soldier of the \\v[lore.title.human-government], I assume?",
-                    "en_US": "\\v[lore.title.seeker].\\. Uma soldada leal das \\v[lore.title.human-government], eu presumo?"
+                    "en_US": "\\v[lore.title.seeker].\\. Aposto que você é uma soldada fiel de \\v[lore.title.human-government], estou certo?"
                   }
                 },
                 "4": {
@@ -1309,7 +1309,7 @@
                 "8": {
                   "message": {
                     "": "Oh, don't let these moments of peace fool you.\\. The next foe is always somewhere behind the corner.",
-                    "en_US": "Ah, não deixe que estes momentos de paz a enganem.\\. O próximo inimigo está sempre em algum lugar atrás da esquina."
+                    "en_US": "Ah, não deixe que estes momentos de paz a enganem.\\. Sempre tem um inimigo esperando depois da esquina."
                   }
                 },
                 "9": {
@@ -1338,7 +1338,7 @@
                 "13": {
                   "message": {
                     "": "And as fate has it, some spectacular hardware is just within our reach.\\. Can we count on you, \\v[lore.title.seeker]?",
-                    "en_US": "E como o destino quer, algumas aparelhagens espetaculares estão ao nosso alcance. Podemos contar com você, \\v[lore.title.seeker]?"
+                    "en_US": "Parece que o destino colocou algumas máquinas extraordinárias ao nosso dispor.\\. Podemos contar com você, \\v[lore.title.seeker]?"
                   }
                 },
                 "14": {
@@ -1352,13 +1352,13 @@
                     "1": {
                       "message": {
                         "": "HURRAH!\\. Exactly the right decision, \\v[lore.title.seeker]!",
-                        "en_US": "HURRA!\\. Exatamente a decisão correta, \\v[lore.title.seeker]!"
+                        "en_US": "URRA!\\. Você fez a escolha certa, \\v[lore.title.seeker]!"
                       }
                     },
                     "2": {
                       "message": {
                         "": "Now onto your mission.\\. There is an armored combat vehicle some arms company once produced for us.",
-                        "en_US": "Agora sobre sua missão.\\. Há um veículo blindado de combate que uma vez foi produzido por uma empresa de armas para nós."
+                        "en_US": "Agora, sobre sua missão.\\. Um veículo blindado de combate foi construído para nós por uma empresa de armamentos."
                       }
                     },
                     "3": {
@@ -1376,7 +1376,7 @@
                     "5": {
                       "message": {
                         "": "Heck if I know, \\v[lore.title.seeker]!\\. Scientists and their weird ideas, am I right?",
-                        "en_US": "Diabos se eu sei, \\v[lore.title.seeker]!\\. Cientistas e suas ideias loucas, concorda?"
+                        "en_US": "Eu sei lá, \\v[lore.title.seeker]!\\. Esses cientistas gostam de uma bizarrice, não acha?"
                       }
                     },
                     "6": {
@@ -1387,7 +1387,7 @@
                     "7": {
                       "message": {
                         "": "In any case, I want you to get those things back to us and find the abandoned facility that produced it!",
-                        "en_US": "Em qualquer caso, quero que nos traga essas coisas de volta e encontre as instalações abandonadas que as produziram!"
+                        "en_US": "Seja como for, quero que você recupere essas coisas e localize as instalações abandonadas que as criaram!"
                       }
                     },
                     "8": {
@@ -1398,7 +1398,7 @@
                     "9": {
                       "message": {
                         "": "Go to the \\c[3]Old Plateau in \\v[area.bergen-trails.name]\\c[0] and kick those heavily armed butts!",
-                        "en_US": "Vá para o \\c[3]Planalto Antigo em \\v[area.bergen-trails.name]\\c[0] e chute aqueles traseiros fortemente armados!"
+                        "en_US": "Vá para o \\c[3]Planalto Antigo na \\v[area.bergen-trails.name]\\c[0] e chute aqueles traseiros fortemente armados!"
                       }
                     },
                     "10": {
@@ -1454,7 +1454,7 @@
               "2": {
                 "message": {
                   "": "The heavily armed creatures loiter around on the \\c[3]Old Plateau in \\v[area.bergen-trails.name]\\c[0].\\. Kick their butts!",
-                  "en_US": "As criaturas fortemente armadas vagam sobre o \\c[3]Planalto Antigo em \\v[area.bergen-trails.name]\\c[0].\\. Acabe com eles!"
+                  "en_US": "As criaturas armadas vagam sobre o \\c[3]Planalto Antigo na \\v[area.bergen-trails.name]\\c[0].\\. Acabe com eles!"
                 }
               }
             }
@@ -1487,7 +1487,7 @@
                 "5": {
                   "message": {
                     "": "You can be proud of yourself, soldier.\\. The data you collected will be of great use for our defense force.",
-                    "en_US": "Você pode estar orgulhosa de si mesma, soldada.\\. Os dados que você coletou serão de grande utilidade para nossa força de defesa."
+                    "en_US": "Você pode se orgulhar, soldada..\\. Os dados que você coletou serão muito úteis para nossa força de defesa."
                   }
                 },
                 "6": {
@@ -1499,7 +1499,7 @@
                 "7": {
                   "message": {
                     "": "I give you a salute and also your reward, courtesy of the \\v[lore.title.human-government]!",
-                    "en_US": "Eu lhe dou uma saudação e também sua recompensa, cortesia da \\v[lore.title.human-government]!"
+                    "en_US": "Eu lhe dou uma saudação e sua recompensa, cortesia das \\v[lore.title.human-government]!"
                   }
                 },
                 "8": {
