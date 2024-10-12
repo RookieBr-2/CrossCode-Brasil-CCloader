@@ -3820,7 +3820,7 @@
                 "8": {
                   "message": {
                     "": "Human \\v[lore.title.seeker]!\\. You have come to watch selfbuilt counting machine?",
-                    "en_US": "Humano \\v[lore.title.seeker]!\\. Você veio para assistir a máquina de contagem autoconstruída?"
+                    "en_US": "Humana \\v[lore.title.seeker]!\\. Você veio ver máquina de cálculo artesanal?"
                   }
                 },
                 "9": {
@@ -3832,13 +3832,13 @@
                 "10": {
                   "message": {
                     "": "Correct, humble human!\\. Power driven calculation machine, built by me from amaze parts and sharpest cutting edges!",
-                    "en_US": "Correto, humilde humano!\\. Máquina de cálculo movida a energia, construída por mim a partir de peças incríveis e coisas com pontas afiadas!"
+                    "en_US": "Sim, humilde humana!\\. Máquina de cálculo movida a energia, construída por mim com peças incríveis e coisas com pontas afiadas!"
                   }
                 },
                 "11": {
                   "message": {
                     "": "Makes human feel quite some awe, yes?",
-                    "en_US": "Faz o ser humano sentir um pouco de admiração, sim?"
+                    "en_US": "Isso faz humana ficar admirada?"
                   }
                 },
                 "12": {
@@ -3855,7 +3855,7 @@
                 "14": {
                   "message": {
                     "": "What, no?\\. With machine like this I expect humens be full of awe!",
-                    "en_US": "O que, não?\\. Com uma máquina como esta, espero que os humanos fiquem cheios de admiração!"
+                    "en_US": "Como não?\\. Com essa máquina, espero que humanos fiquem admirados!"
                   }
                 },
                 "15": {
@@ -3866,7 +3866,7 @@
                 "16": {
                   "message": {
                     "": "It be damned!\\. Not enough greatness in machine if not even awe a humble \\v[lore.title.seeker]!",
-                    "en_US": "Que se dane!\\. Não há grandeza suficiente na máquina, se nem mesmo um humilde \\v[lore.title.seeker]!"
+                    "en_US": "Droga!\\. Não há grandeza suficiente na máquina, se nem mesmo humilde \\v[lore.title.seeker] fica admirada com ela!"
                   }
                 },
                 "17": {
@@ -3877,7 +3877,7 @@
                 "18": {
                   "message": {
                     "": "You, humble \\v[lore.title.seeker]!\\. More parts needed to sharpen machine and put it over clock!\\. You help?",
-                    "en_US": "Você, humilde \\v[lore.title.seeker]!\\. São necessárias mais peças para afiar a máquina e colocá-la no contador!\\. Você ajuda?"
+                    "en_US": "Humilde \\v[lore.title.seeker]!\\. Preciso de mais peças para afiar a máquina e fazer overclock!\\. Você ajuda?"
                   }
                 },
                 "19": {
@@ -3891,7 +3891,7 @@
                     "1": {
                       "message": {
                         "": "Awesome!\\. World will be much more rad place thanks to work of \\v[lore.title.seeker]!",
-                        "en_US": "Incrível!\\. O mundo será um lugar muito mais radical graças ao trabalho de \\v[lore.title.seeker]!"
+                        "en_US": "Ótimo!\\. O mundo será um lugar muito mais radical graças ao trabalho de \\v[lore.title.seeker]!"
                       }
                     },
                     "2": {
@@ -3902,13 +3902,13 @@
                     "3": {
                       "message": {
                         "": "Parts needed special, however!\\. Not found with any lame creature in sand, no, no!",
-                        "en_US": "No entanto, as peças precisavam ser especiais!\\. Não encontrado com nenhuma criatura imperfeita na areia, não, não!"
+                        "en_US": "Preciso de peças especiais!\\. Nada do tipo aparece com criaturas imperfeitas da areia!"
                       }
                     },
                     "4": {
                       "message": {
                         "": "Cutting edges needed for elite machine found in secret lab of recent legends!",
-                        "en_US": "Pontas de corte necessárias para máquina de elite, podem ser encontradas em laboratório secreto de lendas recentes!"
+                        "en_US": "Pontas afiadas necessárias para máquina de elite, podem ser encontradas em laboratório secreto de lendas recentes!"
                       }
                     },
                     "5": {
@@ -3920,13 +3920,13 @@
                     "6": {
                       "message": {
                         "": "Yes, yes!\\. Interconnected web of Shad contacts spread rumors on upgraded \\v[combat.name.heat/scorpion] from secret place!",
-                        "en_US": "Sim, sim! \\. A rede interconectada de contatos do Shad espalha rumores sobre o \\v[combat.name.heat/scorpion] melhorado de um lugar secreto!"
+                        "en_US": "Sim, sim! \\. Os contatos de Shad espalham rumores sobre \\v[combat.name.heat/scorpion] melhorado de um lugar secreto!"
                       }
                     },
                     "7": {
                       "message": {
                         "": "It full of highest of tech!\\. Best go find curious new creatures and loot for information!",
-                        "en_US": "Cheio da mais alta tecnologia!\\. Melhor ir encontrar novas criaturas curiosas e loot, para obter informações!"
+                        "en_US": "Cheio da mais alta tecnologia!\\. Melhor ir encontrar criaturas curiosas e loot, para obter informações!"
                       }
                     },
                     "8": {
@@ -3943,13 +3943,13 @@
                     "10": {
                       "message": {
                         "": "Good, good!\\. They last seen in \\c[3]Overpass in \\v[area.heat-area.name]\\c[0]. Move there and search!",
-                        "en_US": "Bom, bom!\\. Eles foram vistos pela última vez na \\c[3]Passagem alta de \\v[area.heat-area.name]\\c[0]. Vá até lá e procure!"
+                        "en_US": "Eles foram vistos pela última vez na \\c[3]Passagem Elevada do \\v[area.heat-area.name]\\c[0]. Vá até lá e procure!"
                       }
                     },
                     "11": {
                       "message": {
                         "": "Us stay in touch over highly modern \\v[lore.title.direct-link]!",
-                        "en_US": "Manteremos contato por meio de um \\v[lore.title.direct-link] altamente moderno!"
+                        "en_US": "Manteremos contato por meio de \\v[lore.title.direct-link] altamente moderno!"
                       }
                     },
                     "12": {
@@ -3969,7 +3969,7 @@
                     "1": {
                       "message": {
                         "": "Wus?!\\. \\v[lore.title.seeker] not interested in great stuff of elite status?",
-                        "en_US": "Você?!\\. \\v[lore.title.seeker] não está interessado em grandes coisas de status de elite?"
+                        "en_US": "Que?!\\. \\v[lore.title.seeker] não está interessada em grandes coisas tecnológicas?"
                       }
                     },
                     "2": {
@@ -3993,13 +3993,13 @@
               "2": {
                 "message": {
                   "": "Move to \\c[3]Overpass in \\v[area.heat-area.name]\\c[0] and search for innovative \\v[combat.name.heat/scorpion] to get information on lab!",
-                  "en_US": "Vá para \\c[3]Passagem alta em \\v[area.heat-area.name]\\c[0] e procure por \\v[combat.name.heat/scorpion] melhorado para obter informações sobre o laboratório !"
+                  "en_US": "Vá para \\c[3]Passagem Elevada no \\v[area.heat-area.name]\\c[0] e procure \\v[combat.name.heat/scorpion] melhorado para obter informações sobre laboratório !"
                 }
               },
               "3": {
                 "message": {
                   "": "Will use \\v[lore.title.direct-link] to stay in touch!",
-                  "en_US": "Usando \\v[lore.title.direct-link] para manter contato!"
+                  "en_US": "Usaremos \\v[lore.title.direct-link] para manter contato!"
                 }
               }
             }
@@ -4021,7 +4021,7 @@
                 "9": {
                   "message": {
                     "": "\\v[lore.title.seeker]!\\. There you are again!\\. And shiny parts have been brought as well, yes?",
-                    "en_US": "\\v[lore.title.seeker]!\\. Aí está você de novo!\\. E peças brilhantes também foram trazidas, sim?"
+                    "en_US": "\\v[lore.title.seeker]!\\. Trouxe peças brilhantes?"
                   }
                 },
                 "10": {
@@ -4044,7 +4044,7 @@
                 "14": {
                   "message": {
                     "": "Now, let parts be included into machine and be at awe at faster calculations!",
-                    "en_US": "Agora, deixe as peças serem incluídas na máquina e se surpreenda com cálculos mais rápidos!"
+                    "en_US": "Agora, veja peças serem colocadas na máquina e se surpreenda com cálculos mais rápidos!"
                   }
                 },
                 "15": {
@@ -4087,7 +4087,7 @@
                 "54": {
                   "message": {
                     "": "Be in awe of beautiful performance, \\v[lore.title.seeker]!\\.",
-                    "en_US": "Fique maravilhado com o belo desempenho, \\v[lore.title.seeker]!\\."
+                    "en_US": "Fique maravilhada com belo desempenho, \\v[lore.title.seeker]!\\."
                   }
                 },
                 "55": {
@@ -4103,7 +4103,7 @@
                 "66": {
                   "message": {
                     "": "Mhm... values higher than ever and so is heat.\\. Maybe precious machine past limits.",
-                    "en_US": "Mhm... valores mais altos do que nunca e o calor também.\\. Talvez a preciosa máquina ultrapasse os limites."
+                    "en_US": "Mhm... valores mais altos do que nunca e calor também.\\. Talvez preciosa máquina ultrapasse limites."
                   }
                 },
                 "67": {

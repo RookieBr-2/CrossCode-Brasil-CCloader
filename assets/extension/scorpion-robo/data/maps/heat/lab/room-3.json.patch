@@ -223,19 +223,19 @@
             "8": {
               "message": {
                 "": "Hello and welcome back to our research facility.\\. Things are still progressing at a steady rate.",
-                "en_US": "Olá e bem-vindos de volta ao nosso centro de pesquisa.\\. As coisas ainda estão progredindo a um ritmo constante."
+                "en_US": "Olá e bem-vinda de volta ao nosso centro de pesquisa.\\. As coisas ainda estão progredindo a um ritmo constante."
               }
             },
             "9": {
               "message": {
                 "": "Well, mostly.\\. We have worked a bit too well in some regards, but I will talk about those complications later.",
-                "en_US": "Bem, na maior parte.\\. Trabalhamos um pouco bem demais, em alguns aspectos, mas falarei sobre essas complicações mais tarde."
+                "en_US": "Bom, na maior parte.\\. Trabalhamos um pouco mais do que deveríamos em alguns aspectos, mas falarei sobre essas complicações mais tarde."
               }
             },
             "10": {
               "message": {
                 "": "First off, taming some of the more intelligent beings on this fascinating planet was easier than expected.",
-                "en_US": "Em primeiro lugar, domar alguns dos seres mais inteligentes deste fascinante planeta foi mais fácil do que o esperado."
+                "en_US": "Inicialmente, a tarefa de domar alguns dos seres mais inteligentes deste fascinante planeta foi mais simples do que eu esperava."
               }
             },
             "11": {
@@ -247,7 +247,7 @@
             "12": {
               "message": {
                 "": "Their reception of the firearms has also been very positive.",
-                "en_US": "A recepção das armas de fogo também tem sido muito positiva."
+                "en_US": "O feedback sobre as armas de fogo também tem sido bastante positivo."
               }
             },
             "13": {
@@ -265,7 +265,7 @@
             "15": {
               "message": {
                 "": "The intelligent birds that we armed with cutting-edge weapons became unruly.\\. Imagine that.",
-                "en_US": "Os pássaros inteligentes que armamos até os dentes, se tornaram incontroláveis.\\. Imagine isso."
+                "en_US": "Os pássaros inteligentes que armamos até os dentes, se tornaram incontroláveis.\\. Consegue imaginar?"
               }
             },
             "16": {
@@ -321,19 +321,19 @@
                 "2": {
                   "text": {
                     "": "Good day dear management,\n\nFirst I want to repeat my gratitude for all the trust and opportunities you have given me with this job. This work has been very fulfilling and interesting.",
-                    "en_US": "Bom dia querida gestão,\n\nPrimeiramente, quero reiterar minha gratidão por toda a confiança e oportunidades que vocês me deram com este trabalho. Tem sido muito enriquecedor e interessante."
+                    "en_US": "Bom dia querida gestão,\n\nAntes de tudo, gostaria de expressar minha sincera gratidão pela confiança e pelas oportunidades que vocês me proporcionaram neste trabalho. Tem sido uma experiência muito enriquecedora e interessante."
                   }
                 },
                 "3": {
                   "text": {
                     "": "However, those birds, as fascinating as they are, cause a lot of problems with their excrement. They leave it everywhere and also shoot holes into the walls. Combined with the heat of this place it really creates an uncomfortable smell in the entire facility.",
-                    "en_US": "Porém, esses pássaros, por mais fascinantes que sejam, causam muitos problemas com seus excrementos. Eles deixam em todos os lugares e também abrem buracos nas paredes. Combinado com o calor deste lugar, realmente cria um cheiro desconfortável em toda a instalação."
+                    "en_US": "Porém, esses pássaros, apesar de fascinantes, geram muitos problemas com suas fezes. Eles sujam tudo e fazem buracos nas paredes. Juntamente com o calor deste lugar, isso provoca um cheiro desagradável em toda a instalação."
                   }
                 },
                 "4": {
                   "text": {
                     "": "So I would kindly request for more manpower in the cleaning force. Thank you in advance!\n\nSincerest Regards,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "Por isso, gostaria de pedir mais mão de obra na força de limpeza. Desde já, obrigado!\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "Por conta disso, venho pedir mais colaboradores para a equipe de limpeza. Agradeço desde já!\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 }
               }
@@ -361,13 +361,13 @@
                 "2": {
                   "text": {
                     "": "Hey you guys next door,\n\nThere's constant noise coming from your side, like you are having a war over there. Can you try to keep it down a bit? We just got everything settled in here and our cute scorpions are already getting restless.",
-                    "en_US": "Ei, vizinhos,\n\nHá um barulho constante vindo daí, como se vocês estivessem em uma guerra. Vocês podem tentar mantê-lo um pouco mais baixo? Acabamos de arrumar tudo aqui, e nossos lindos escorpiões já estão ficando inquietos."
+                    "en_US": "Olá, vizinhos,\n\nHá um barulho constante vindo daí, como se fosse uma zona de guerra. Vocês podem tentar diminuir um pouco o barulho? Estamos com tudo pronto aqui e nossos lindos escorpiões já estão ficando nervosos."
                   }
                 },
                 "3": {
                   "text": {
                     "": "We almost got them properly tamed and ready for real training so don't make this too hard for us, okay?\n\nCheers,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "Quase domamos e os preparamos para o treinamento de verdade, então, não torne isso difícil para nós, ok?\n\nFelicidades,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "Estamos perto de domá-los e deixá-los prontos para o verdadeiro treinamento, então, por favor, não dificultem as coisas para nós, tudo bem?\n\nFelicidades,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 },
                 "4": {
@@ -379,13 +379,13 @@
                 "5": {
                   "text": {
                     "": "Hey neighbors,\n\nAn armed revolt you say? Huh, that sounds rough. I guess birds with guns were a bit of a risky gamble. I hope you are getting this under control before it becomes a bother for all of us.",
-                    "en_US": "Ei vizinhos,\n\nUma revolta armada você diz? Huh, isso soa complicado. Acho que pássaros armados eram uma aposta arriscada. Espero que estejam controlando isso, antes que se torne um incômodo para todos nós."
+                    "en_US": "Olá, vizinhos,\n\nVocês estão dizendo que há uma revolta armada? Isso não é um bom sinal. Acho que pássaros com armas pode ser bem arriscado. Espero que esteja mantendo a situação sob controle antes que ela se torne um problema para todos nós."
                   }
                 },
                 "6": {
                   "text": {
                     "": "Anyway, good luck with that and please don't let them escape in our direction.\n\nCheers,\n[NAME REDACTED]\n\nPS: Joint dinner and laserbowling next Friday?\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "De qualquer forma, boa sorte com isso e, por favor, não deixe que eles escapem em nossa direção.\n\nFelicidades,\n[NOME REMOVIDO]\n\nPS: Jantar conjunto e boliche laser na próxima sexta?\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "Enfim, boa sorte com isso e, por favor, não deixem que eles venham em nossa direção.\n\nFelicidades\n\nPS: Que tal um jantar em conjunto e boliche a laser na próxima sexta?\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 }
               }

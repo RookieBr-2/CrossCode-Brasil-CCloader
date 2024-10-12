@@ -73,7 +73,7 @@
           "6": {
             "message": {
               "": "Oh wait, really? You already confronted another group of the \\c[3]Flying types\\c[0]?",
-              "en_US": "Ei, espera, sério? Você já enfrentou outro bando dos \\c[3]tipos voadores\\c[0]?"
+              "en_US": "Ei! Você já enfrentou outro bando dos \\c[3]ouriçados voadores\\c[0]?"
             }
           },
           "7": {
@@ -85,7 +85,7 @@
           "8": {
             "message": {
               "": "And then you found a strange electronic device?\\. Right next to the \\c[3]Flying type\\c[0] \\v[combat.name.hedgehog]?!",
-              "en_US": "E então você encontrou um dispositivo eletrônico estranho?\\. Perto do \\v[combat.name.hedgehog] do \\c[3]tipo voador\\c[0]?!"
+              "en_US": "Então você achou um dispositivo eletrônico estranho?\\. Que estava com os \\c[3]\\v[combat.name.hedgehog]s voadores\\c[0]?!"
             }
           },
           "9": {
@@ -97,7 +97,7 @@
           "10": {
             "message": {
               "": "Wow, that's funky.\\. Totally not \\v[combat.name.hedgehog]-like.",
-              "en_US": "Uau, isso é esquisito.\\. Totalmente atípico do \\v[combat.name.hedgehog]."
+              "en_US": "Uou, isso é esquisito.\\. Totalmente estranho vindo de um \\v[combat.name.hedgehog]."
             }
           },
           "11": {
@@ -109,13 +109,13 @@
           "12": {
             "message": {
               "": "What, it gave a signal?\\. So it's one of those location pinpoint devices that are often used to pinpoint locations.",
-              "en_US": "Espera, ele deu um sinal?\\. Então isso é um daqueles dispositivos que são usados frequentemente para marcar locais."
+              "en_US": "Espera, ele deu um sinal?\\. Então isso é um daqueles dispositivos que são usados para marcar locais."
             }
           },
           "13": {
             "message": {
               "": "It could lead you to the \\c[3]Flying types'\\c[0] lair!\\. That would be incredible!\\. Come on, do it!",
-              "en_US": "Ele pode guiar você para o \\c[3]lar dos ouriçados voadores\\c[0]!\\. Isso seria incrível!\\. Vamos, faça isso!"
+              "en_US": "Ele pode guiar você para o \\c[3]lar dos ouriçados voadores\\c[0]!\\. Isso seria incrível!\\. Vai lá!"
             }
           },
           "14": {

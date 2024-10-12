@@ -93,13 +93,13 @@
           "7": {
             "message": {
               "": "Well, sure, you even fought them.\\. \\c[3]Flying type\\c[0] \\v[combat.name.hedgehog]s, that's so rad!",
-              "en_US": "Bem, claro, você até lutou contra os \\v[combat.name.hedgehog]s do\\c[3]Tipo voador\\c[0], isso é tão radical!"
+              "en_US": "Por que eu perguntei isso?\\. É claro que viu, você acabou de lutar contra os \\c[3]\\v[combat.name.hedgehog]s voadores\c[0], isso foi maneiríssimo!"
             }
           },
           "8": {
             "message": {
               "": "And listen!\\. I did some legwork and was able to narrow down the location of their den.",
-              "en_US": "E ouça!\\. Eu fiz um pouco de trabalho braçal e consegui rastrear a localização da toca deles."
+              "en_US": "Se liga!\\. Eu consegui rastrear a localização da toca deles."
             }
           },
           "9": {
@@ -110,13 +110,13 @@
           "10": {
             "message": {
               "": "They actually seem to live in \\v[area.autumn-fall.name] and only come to \\v[area.autumn-area.name] for apples.",
-              "en_US": "Eles parecem viver no \\v[area.autumn-fall.name] e só vêm para o \\v[area.autumn-area.name] pelas maçãs."
+              "en_US": "Parece que eles moram no \\v[area.autumn-fall.name] e só aparecem no \\v[area.autumn-area.name] por causa das maçãs."
             }
           },
           "11": {
             "message": {
               "": "Found some of their leavings and those suggested a distaste for the ripe apples of \\v[area.autumn-fall.name]!",
-              "en_US": "Encontrei alguns de seus restos e eles sugeriam uma aversão pelas maçãs maduras do \\v[area.autumn-fall.name]!"
+              "en_US": "Eu analisei o lixo que eles deixavam para trás, e parece que não gostam das maçãs maduras do \\v[area.autumn-fall.name]!"
             }
           },
           "12": {
@@ -128,7 +128,7 @@
           "13": {
             "message": {
               "": "Well, it gets results!\\. I'm now 99 billion percent sure that they reside on the \\c[3]Secluded Path in \\v[area.autumn-fall.name]\\c[0].",
-              "en_US": "Bem, dá resultados!\\. Agora tenho 99 bilhões por cento de certeza de que eles residem no \\c[3]Caminho Isolado no \\v[area.autumn-fall.name]\\c[0]."
+              "en_US": "Bom, isso funcionou!\\. Agora tenho 99 bilhões por cento de certeza de que eles moram no \\c[3]Caminho Isolado no \\v[area.autumn-fall.name]\\c[0]."
             }
           },
           "14": {

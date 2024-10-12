@@ -28,7 +28,7 @@
             "11": {
               "message": {
                 "": "An incident in one of our associated facilities has convinced the \\v[lore.title.human-government] to cut the funding to the entire project.",
-                "en_US": "Um incidente em uma de nossas instalações associadas convenceu a \\v[lore.title.human-government] a cortar o financiamento de todo o projeto."
+                "en_US": "Após um incidente em uma de nossas instalações, as \\v[lore.title.human-government] optaram por suspender o financiamento de todo o projeto."
               }
             },
             "12": {
@@ -64,7 +64,7 @@
             "17": {
               "message": {
                 "": "We have established a separate joint facility with our colleagues.",
-                "en_US": "Estabelecemos uma instalação separada, junto com nossos colegas."
+                "en_US": "Criamos uma instalação separada, em parceria com nossos colegas."
               }
             },
             "18": {
@@ -150,7 +150,7 @@
                 "7": {
                   "text": {
                     "": "\\c[1]ATTACHMENT:\\c[0]\n\nOne of the hidden places can be found in \\c[3]\\v[area.autumn-fall.name]\\c[0], \\c[3]\"North of a big ruin, surrounded by water\"\\c[0]!",
-                    "en_US": "\\c[1]ANEXO:\\c[0]\n\nUm dos locais secretos pode ser encontrado no \\c[3]\\v[area.autumn-fall.name]\\c[0], \\c[3]\"Ao norte de uma grande ruína, cercada por água\"\\c[0]!"
+                    "en_US": "\\c[1]ANEXO:\\c[0]\n\nUm dos locais secretos pode ser encontrado no \\c[3]\\v[area.autumn-fall.name]\\c[0], \\c[3]\"Ao norte de uma grande ruína, cercada por água\"\\c[0]."
                   }
                 }
               }
@@ -171,13 +171,13 @@
           "4": {
             "message": {
               "": "Woooow, \\v[lore.title.seeker], all of that was so cool!",
-              "en_US": "Woooow, \\v[lore.title.seeker], tudo isso foi tão legal!"
+              "en_US": "Uoooou, \\v[lore.title.seeker], tudo isso foi tão legal!"
             }
           },
           "5": {
             "message": {
               "": "Not just a \\c[3]Flying-type\\c[0] but, like, a \\c[3]Mega Flying-type\\c[0]!",
-              "en_US": "Não apenas um \\c[3]tipo-voador\\c[0] mas, tipo, um \\c[3]Mega tipo-voador\\c[0]!"
+              "en_US": "Além dos \\c[3]ouriçados voadores\\c[0], você ainda encontrou um \\c[3]mega ouriçado voador\\c[0]."
             }
           },
           "6": {
@@ -199,7 +199,7 @@
           "9": {
             "message": {
               "": "Well, that might just be my calling then!\\. Come back to \\v[area.rookie-harbor.name] so I can reward you!",
-              "en_US": "Bem, essa pode ser a minha vocação então!\\. Volte para \\v[area.rookie-harbor.name] para que eu possa recompensá-la!"
+              "en_US": "Então, parece que esse é o meu destino!\\. Volte para o \\v[area.rookie-harbor.name] para que eu possa te dar uma recompensa!"
             }
           },
           "10": {

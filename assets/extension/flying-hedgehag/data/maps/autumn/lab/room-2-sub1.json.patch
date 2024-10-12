@@ -59,43 +59,43 @@
                 "1": {
                   "text": {
                     "": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Facility Staff, Office 64b\n\\c[3]TO:\\c[0] \"Avian Appliances\", Management\n\n\\c[3]Subject:\\c[0] Ground Design",
-                    "en_US": "\\c[1]EMAIL INTERNO, ENVIADO\\c[0]\n\n\\c[3]DE:\\c[0] Funcionários das Instalações, Escritório 64b\n\\c[3]PARA:\\c[0] \"Eletrodomésticos Aviários\", Gestão\n\n\\c[3]Assunto:\\c[0] Projeto de solo"
+                    "en_US": "\\c[1]EMAIL INTERNO, ENVIADO\\c[0]\n\n\\c[3]DE:\\c[0] Funcionários das Instalações, Escritório 64b\n\\c[3]PARA:\\c[0] \"Dispositivos Aéreos\", Gestão\n\n\\c[3]Assunto:\\c[0] Design do Piso"
                   }
                 },
                 "2": {
                   "text": {
                     "": "Greetings,\n\nWe recently started working in this new lab. Work is progressing well. The equipment is state-of-the-art and the energy we draw from the \\v[lore.title.track-of-ancients] easily powers all of our advanced experiments.",
-                    "en_US": "Saudações,\n\nRecentemente começamos a trabalhar neste novo laboratório. O trabalho está progredindo bem. O equipamento é de última geração e a energia que extraímos da \\v[lore.title.track-of-ancients] alimenta facilmente todos os nossos experimentos avançados."
+                    "en_US": "Saudações,\n\nIniciamos recentemente as atividades neste novo laboratório. O trabalho está avançando bem. O equipamento é de ponta, e a energia que extraímos da \\v[lore.title.track-of-ancients] alimenta tranquilamente nossos experimentos avançados."
                   }
                 },
                 "3": {
                   "text": {
                     "": "However, I want to file a complaint about the \\c[3]floor design\\c[0].\nThose \\c[3]rills in the ground\\c[0] are not exactly beneficial to our workflow. It's almost as if they were designed to make people trip!",
-                    "en_US": "No entanto, quero registrar uma reclamação sobre o \\c[3]design do piso\\c[0].\nAqueles \\c[3]córregos no chão\\c[0] não são exatamente benéficos para o nosso fluxo de trabalho . É quase como se eles fossem projetados para fazer as pessoas tropeçarem!"
+                    "en_US": "No entanto, tenho que fazer uma reclamação sobre o \\c[3]design do piso\\c[0].\nEssas \\c[3]ranhuras no chão\\c[0] não têm um efeito positivo em nosso fluxo de trabalho. É como se tivessem sido projetadas para fazer as pessoas tropeçarem!"
                   }
                 },
                 "4": {
                   "text": {
                     "": "Not to mention that our chairs constantly get stuck in them. With all due respect, this is a clear recipe for disaster.\n\nSincerest Regards,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "Sem falar que nossas cadeiras ficam constantemente presas neles. Com todo o respeito, esta é uma clara receita para o desastre.\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "Sem mencionar o fato de que nossas cadeiras ficam presas nelas com frequência. Com todo o respeito, é apenas uma questão de tempo até que isso acabe em um desastre.\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 },
                 "5": {
                   "text": {
                     "": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Facility Staff, Office 64b\n\\c[3]TO:\\c[0] \"Avian Appliances\", Management\n\n\\c[3]Subject:\\c[0] RE: RE: Ground Design",
-                    "en_US": "\\c[1]EMAIL INTERNO, ENVIADO\\c[0]\n\n\\c[3]DE:\\c[0] Funcionários das Instalações, Escritório 64b\n\\c[3]PARA:\\c[0] \"Eletrodomésticos Aviários\", Gestão\n\n\\c[3]Assunto: RE: RE: "
+                    "en_US": "\\c[1]EMAIL INTERNO, ENVIADO\\c[0]\n\n\\c[3]DE:\\c[0] Funcionários das Instalações, Escritório 64b\n\\c[3]PARA:\\c[0] \"Dispositivos Aéreos\", Gestão\n\n\\c[3]Assunto: RE: RE: "
                   }
                 },
                 "6": {
                   "text": {
                     "": "Greetings,\n\nI warned you. You know I did. But nothing has been done! Now our new intern tripped over the rills and spilled coffee all over our equipment.\nMany hours of work, lost!",
-                    "en_US": "Saudações,\n\nEu avisei. Você sabe que sim. Mas nada foi feito! Agora nosso novo estagiário tropeçou nos córregos e derramou café em todo o nosso equipamento.\nPerdemos muitas horas de trabalho!"
+                    "en_US": "Saudações,\n\nEu avisei, e vocês sabem que avisei. Mas nada foi feito! O estagiário novo tropeçou nas ranhuras e derramou café no equipamento.\nPerdemos horas de trabalho!"
                   }
                 },
                 "7": {
                   "text": {
                     "": "I can't even blame the lad. This floor is a safety hazard! Please finally take action!\n\nRegards,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "Não posso nem culpar o rapaz. Este piso é um risco de segurança! Por favor, finalmente tomem uma atitude!\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "Não posso nem culpar o rapaz. Este piso representa um risco de segurança! Por favor, façam algo a respeito!\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 }
               }
@@ -126,19 +126,19 @@
             "9": {
               "message": {
                 "": "To anyone here, watching this, I welcome you to this facility.\\. Thank you for your time, reading these humble logs.",
-                "en_US": "Para qualquer um aqui, assistindo isso, dou as boas-vindas a esta instalação.\\. Obrigado pelo seu tempo, lendo estes humildes registros."
+                "en_US": "Para todos que estão aqui, bem-vindos à instalação.\\. Obrigado por dedicar seu tempo para ler essas gravações."
               }
             },
             "10": {
               "message": {
                 "": "My name is \\c[3]Drey Santrés\\c[0] and I am the leading engineer at \\c[3]Avian Appliances\\c[0].",
-                "en_US": "Meu nome é \\c[3]Drey Santrés\\c[0] e sou o engenheiro chefe da \\c[3]Dispositivos Aviários\\c[0]."
+                "en_US": "Meu nome é \\c[3]Drey Santrés\\c[0] e sou o engenheiro chefe da \\c[3]Dispositivos Aéreos\\c[0]."
               }
             },
             "11": {
               "message": {
                 "": "At Avian Appliances we always strive to deliver the best airborne experiences possible.",
-                "en_US": "Na Dispositivos Aviários, sempre nos esforçamos para oferecer as melhores experiências aéreas possíveis."
+                "en_US": "Na Dispositivos Aéreos, sempre nos esforçamos para oferecer as melhores experiências aéreas possíveis."
               }
             },
             "12": {
@@ -150,13 +150,13 @@
             "13": {
               "message": {
                 "": "All possible with the generous energy provided by the \\v[lore.title.track-of-ancients], directly linked to this facility!",
-                "en_US": "Tudo possível com a generosa energia fornecida pela \\v[lore.title.track-of-ancients], diretamente ligada a esta instalação!"
+                "en_US": "Isso tudo é possível devido à energia fornecida pela \\v[lore.title.track-of-ancients], que está conectada diretamente a esta instalação!"
               }
             },
             "14": {
               "message": {
                 "": "We are currently experimenting with native creatures to share the wonders of flight with them and their families.",
-                "en_US": "No momento, estamos fazendo experiências com criaturas nativas, para compartilhar as maravilhas do voo com elas e suas famílias."
+                "en_US": "No momento, estamos realizando testes com criaturas nativas para oferecer a elas e suas famílias as maravilhas do voo."
               }
             },
             "15": {
@@ -168,7 +168,7 @@
             "16": {
               "message": {
                 "": "We will release more information on future tests.\\. Please continue following us while we reach for the sky!",
-                "en_US": "Iremos divulgar mais informações sobre testes futuros.\\. Por favor, continue nos seguindo enquanto alcançamos o céu!"
+                "en_US": "Em breve, divulgaremos mais informações sobre os testes futuros.\\. Por favor, continue nos seguindo enquanto alcançamos o céu!"
               }
             }
           }

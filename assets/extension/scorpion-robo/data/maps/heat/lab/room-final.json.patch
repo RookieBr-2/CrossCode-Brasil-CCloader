@@ -28,19 +28,19 @@
             "11": {
               "message": {
                 "": "We should have known that having windows was a security risk, but hindsight doesn't help us much now.",
-                "en_US": "Devíamos saber que ter janelas era um risco à segurança, mas já é tarde para isso agora."
+                "en_US": "Deveríamos ter percebido que ter janelas era um risco à segurança, mas agora já é tarde para isso."
               }
             },
             "12": {
               "message": {
                 "": "At this point they have already spread all over \\v[lore.title.planet] and started to cause trouble.",
-                "en_US": "A essa altura, eles já se espalharam por todo o \\v[lore.title.planet] e começaram a causar problemas."
+                "en_US": "A essa altura, eles já se espalharam por toda \\v[lore.title.planet] e começaram a causar problemas."
               }
             },
             "13": {
               "message": {
                 "": "Now it is only a matter of time before this all leads back to us and our secret projects.\\. We need to close this down.",
-                "en_US": "Agora é apenas uma questão de tempo, até que tudo leve de volta a nós e aos nossos projetos secretos.\\. Precisamos encerrar isso."
+                "en_US": "Agora é apenas uma questão de tempo até que tudo caia sobre nós e nossos projetos secretos.\\. Portanto, temos que pôr um fim a isso."
               }
             },
             "14": {
@@ -70,13 +70,13 @@
             "18": {
               "message": {
                 "": "This might even surpass everything we did so far.\\. We will see.\\. Interesting times ahead.",
-                "en_US": "Isso pode até superar tudo o que fizemos até agora.\\. Veremos.\\. Tempos interessantes estão por vir."
+                "en_US": "Isso pode até superar tudo o que fizemos até agora.\\. Tempos interessantes estão por vir."
               }
             },
             "19": {
               "message": {
                 "": "So, maybe we will see you around, if you can find us.\\. Goodbye.",
-                "en_US": "Então, talvez nos vejamos por aí, se você puder nos encontrar.\\. Adeus."
+                "en_US": "Então, quem sabe nos encontramos por aí, se você conseguir nos achar.\\. Adeus."
               }
             }
           }
@@ -150,7 +150,7 @@
                 "7": {
                   "text": {
                     "": "\\c[1]ATTACHMENT:\\c[0]\n\nOne of the hidden places can be found in \\c[3]\\v[area.heat-area.name]\\c[0], \\c[3]\"At a hidden source of water, uncovered while searching for cursed treasure.\"\\c[0]!",
-                    "en_US": "\\c[1]ANEXO:\\c[0]\n\nUm dos locais secretos pode ser encontrado no \\c[3]\\v[area.heat-area.name]\\c[0], \\c[3]\"Em uma fonte de água escondida, descoberta durante a busca por um tesouro amaldiçoado.\"\\c[0]!"
+                    "en_US": "\\c[1]ANEXO:\\c[0]\n\nUm dos locais secretos pode ser encontrado no \\c[3]\\v[area.heat-area.name]\\c[0], \\c[3]\"Em uma fonte de água escondida, descoberta durante a busca por um tesouro amaldiçoado\"\\c[0]."
                   }
                 }
               }
@@ -170,7 +170,7 @@
           "8": {
             "message": {
               "": "\\v[lore.title.seeker], part of the elite acquire in hidden place, yes?",
-              "en_US": "\\v[lore.title.seeker], parte da elite fica em local escondido, sim?"
+              "en_US": "\\v[lore.title.seeker], você coletou peças de elite no local escondido?"
             }
           },
           "9": {
@@ -182,7 +182,7 @@
           "10": {
             "message": {
               "": "Such radical accomplishment!\\. Very impress!",
-              "en_US": "Que realização radical!\\. Muito impressionante!"
+              "en_US": "Que façanha radical!\\. Muito impressionante!"
             }
           },
           "11": {
@@ -193,7 +193,7 @@
           "12": {
             "message": {
               "": "But machine not receive more power by human standing around and being proud of accomplishment!",
-              "en_US": "Mas a máquina não recebe mais poder pelo ser humano que fica por perto e se orgulha da realização!"
+              "en_US": "Mas máquina não vai melhorar enquanto humana fica se orgulhando da façanha!"
             }
           },
           "13": {
@@ -204,7 +204,7 @@
           "14": {
             "message": {
               "": "You better bring parts back to me in \\v[area.heat-village.name] so machine can be graded up!",
-              "en_US": "É melhor trazer as peças de volta para mim em \\v[area.heat-village.name], para que a máquina possa ser melhorada!"
+              "en_US": "É melhor trazer peças de volta para mim em \\v[area.heat-village.name], para que máquina possa ser melhorada!"
             }
           },
           "15": {

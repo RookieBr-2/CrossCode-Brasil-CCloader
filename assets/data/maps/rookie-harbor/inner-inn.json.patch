@@ -292,7 +292,7 @@
                 "6": {
                   "message": {
                     "": "I asked for help with a really awesome investigation but you're the first to volunteer!",
-                    "en_US": "Eu pedi ajuda com uma investigação realmente incrível, mas você é a primeira a ser voluntária!"
+                    "en_US": "Pedi ajuda para uma investigação incrível, e você foi a primeira a se oferecer!"
                   }
                 },
                 "7": {
@@ -303,7 +303,7 @@
                 "8": {
                   "message": {
                     "": "Well... you are, right?\\. It's about some new species of \\v[combat.name.hedgehog], how cool is that? Come on!",
-                    "en_US": "Bem... você é, certo?\\. É sobre algumas novas espécies de \\v[combat.name.hedgehog], muito legal né?"
+                    "en_US": "Bem... você vai me ajudar, não vai?\\. É sobre algumas novas espécies de \\v[combat.name.hedgehog], irado né?"
                   }
                 },
                 "9": {
@@ -317,13 +317,13 @@
                     "1": {
                       "message": {
                         "": "Amazing, I see that you're with me on this!\\. A true explorer!",
-                        "en_US": "Incrível, vejo que você está comigo nessa!\\. Uma verdadeira exploradora!"
+                        "en_US": "Incrível, você está do meu lado nessa!\\. Uma verdadeira exploradora!"
                       }
                     },
                     "2": {
                       "message": {
                         "": "Now, listen.\\. We gotta go after this tribe of \\v[combat.name.hedgehog]s I saw on an expedition recently.",
-                        "en_US": "Agora, ouça.\\. Temos que ir atrás desta tribo de \\v[combat.name.hedgehog]s que vi recentemente em uma expedição."
+                        "en_US": "Agora, ouça.\\. Temos que ir atrás dessa tribo de \\v[combat.name.hedgehog]s que vi recentemente em uma exploração."
                       }
                     },
                     "3": {
@@ -334,7 +334,7 @@
                     "4": {
                       "message": {
                         "": "Hey, wait!\\. It's not just your normal-type \\v[combat.name.hedgehog]s, oh no!",
-                        "en_US": "Ei, espere!\\. Não são um tipo normal de \\v[combat.name.hedgehog]s, não senhora!"
+                        "en_US": "Se liga!\\. Eles não são um tipo normal de \\v[combat.name.hedgehog]s!"
                       }
                     },
                     "5": {
@@ -394,7 +394,7 @@
                     "1": {
                       "message": {
                         "": "Whaaat?\\. But you got me all excited and everything.\\. Let's at least exchange numbers to stay in touch!",
-                        "en_US": "O queeee?\\. Mas você me deixou todo empolgado e tudo mais. Vamos ao menos trocar números para nos mantermos em contato!"
+                        "en_US": "O queeee?\\. Mas parecia que você estava a fim.\\. Vamos trocar números para manter contato."
                       }
                     },
                     "2": {
@@ -466,7 +466,7 @@
                 "6": {
                   "message": {
                     "": "I have already written a report based on your adventure with the \\c[3]Flying-types and their king.\\. \\c[0]",
-                    "en_US": "Eu já escrevi um relatório baseado em sua aventura com os \\c[3]tipos voadores e o rei deles.\\. \\c[0]"
+                    "en_US": "Fiz um relatório sobre sua aventura com os \\c[3]ouriçados voadores e o rei deles\\c[0]."
                   }
                 },
                 "7": {
@@ -477,7 +477,7 @@
                 "8": {
                   "message": {
                     "": "All those people who didn't believe me will be in for a surprise, I tell ya!\\. It will rock their shorts off!",
-                    "en_US": "Todas aquelas pessoas que não acreditaram em mim vão ter uma surpresa, meu!\\."
+                    "en_US": "Quem não acreditou em mim vai se surpreender, meu!\\."
                   }
                 },
                 "9": {
@@ -488,7 +488,7 @@
                 "10": {
                   "message": {
                     "": "That crown will be a nice trophy as well.\\. Always helps to have something shiny to show.",
-                    "en_US": "Essa coroa será também um belo troféu.\\. Sempre ajuda a ter algo brilhante para mostrar."
+                    "en_US": "Aquela coroa será um excelente troféu.\\. Sempre é bom ter algo brilhante para mostrar."
                   }
                 },
                 "11": {
