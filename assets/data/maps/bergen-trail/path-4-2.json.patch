@@ -28,13 +28,13 @@
           "15": {
             "message": {
               "": "Cold, cold Bergen Trail!",
-              "en_US": "Fria, fria trilha de Bergen."
+              "en_US": "Ah, a fria Trilha de Bergen."
             }
           },
           "17": {
             "message": {
               "": "The first mountain for every Seeker to conquer!",
-              "en_US": "A primeira montanha para todo Seeker conquistar!"
+              "en_US": "A primeira montanha que todo Seeker deve conquistar!"
             }
           },
           "19": {
@@ -45,13 +45,13 @@
           "21": {
             "message": {
               "": "And it's filled with cute little frog-bunnies.",
-              "en_US": "E está cheio de frog-bunnies fofos."
+              "en_US": "E está cheia de coelhinhos fofos."
             }
           },
           "23": {
             "message": {
               "": "I still feel bad about beating up so many of them...",
-              "en_US": "Ainda me sinto mal por bater em tantos deles..."
+              "en_US": "Ainda me sinto mal por bater neles..."
             }
           },
           "25": {
@@ -80,19 +80,19 @@
           },
           "32": {
             "message": {
-              "": "Urgh..."
+              "": "Pare..."
             }
           },
           "33": {
             "message": {
               "": "That is some history I do NOT want to hear.\\. Thank you.",
-              "en_US": "Essa é uma história que NÃO quero ouvir.\\. Obrigado."
+              "en_US": "Essa é uma história que eu NÃO quero ouvir.\\. Obrigado."
             }
           },
           "43": {
             "text": {
               "": "I only wanted her to remember.\\.\nRemember what happened.\\.\nTell me where I could find them.",
-              "en_US": "Eu só queria que ela se lembrasse.\\.\nLembrar do que aconteceu.\\.\nMe dizer onde encontrá-los."
+              "en_US": "Eu só queria que ela se lembrasse.\\.\nLembrasse do que aconteceu.\\.\nMe dissesse onde encontrá-los."
             }
           }
         }

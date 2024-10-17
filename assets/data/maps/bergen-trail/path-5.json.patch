@@ -118,7 +118,7 @@
                 "8": {
                   "message": {
                     "": "Oh, hehe. Looks like you already know what I'm going to ask?",
-                    "en_US": "Oh, hehe. Parece que você já sabe o que vou perguntar?"
+                    "en_US": "Oh, hehe. Acho que você já sabe o que vou perguntar, né?"
                   }
                 },
                 "9": {
@@ -130,7 +130,7 @@
                 "10": {
                   "message": {
                     "": "Well... \\. That makes things easy then!",
-                    "en_US": "Bem... \\. Isso torna as coisas mais fáceis então!"
+                    "en_US": "Bem...\\. Isso torna as coisas mais fáceis então!"
                   }
                 },
                 "11": {
@@ -319,7 +319,7 @@
                 "9": {
                   "message": {
                     "": "Thanks so much... \\. again! You really nail these tracks.",
-                    "en_US": "Muito obrigado... \\. de novo! Você realmente é boa nisso."
+                    "en_US": "Muito obrigado...\\. de novo! Você realmente é boa nisso."
                   }
                 },
                 "10": {

@@ -1436,7 +1436,7 @@
                 "8": {
                   "message": {
                     "": "Alright, I don't know what you mean.",
-                    "en_US": "Muito bem, não sei o que você quer dizer."
+                    "en_US": "Não entendi nada."
                   }
                 },
                 "9": {
@@ -1447,7 +1447,7 @@
                 "10": {
                   "message": {
                     "": "Just forget I asked. I'll find out myself.",
-                    "en_US": "Esqueca o que eu pedi. Eu mesmo vou achar."
+                    "en_US": "Deixa pra lá. Eu mesma vou descobrir."
                   }
                 }
               }

@@ -191,7 +191,7 @@
                 "9": {
                   "message": {
                     "": "We've all gathered and are ready!",
-                    "en_US": "Todos nós nos reunimos e estamos prontos!"
+                    "en_US": "Estamos todos reunidos e prontos para começar!"
                   }
                 },
                 "11": {
@@ -228,7 +228,7 @@
           "3": {
             "message": {
               "": "Make sure to disband your party before you proceed.",
-              "en_US": "Assegure-se de desfazer a seu grupo antes de prosseguir."
+              "en_US": "É melhor desfazer o seu grupo antes de prosseguir."
             }
           },
           "4": {
@@ -251,7 +251,7 @@
           "1": {
             "message": {
               "": "I'm right next to you...",
-              "en_US": "Estou bem ao seu lado..."
+              "en_US": "Estou bem do seu lado..."
             }
           },
           "2": {

@@ -48,7 +48,7 @@
           "8": {
             "message": {
               "": "I suppose we reached the top?",
-              "en_US": "Suponho que chegamos ao topo?"
+              "en_US": "Será que chegamos no topo?"
             }
           }
         }
@@ -72,13 +72,13 @@
           "13": {
             "message": {
               "": "Once an empty vessel, a caged bird.",
-              "en_US": "Uma vez um recipiente vazio, um pássaro engaiolado."
+              "en_US": "Antes, era um recipiente vazio, um pássaro engaiolado."
             }
           },
           "14": {
             "message": {
               "": "Now back again, whole and free!",
-              "en_US": "Agora de volta, inteira e livre!"
+              "en_US": "Agora voltou, inteira e livre!"
             }
           },
           "15": {
@@ -90,7 +90,7 @@
           "16": {
             "message": {
               "": "You are the one!",
-              "en_US": "Você é a única!"
+              "en_US": "Você é única!"
             }
           },
           "17": {

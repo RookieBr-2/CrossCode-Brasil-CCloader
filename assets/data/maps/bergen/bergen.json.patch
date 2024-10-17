@@ -240,13 +240,13 @@
                 "12": {
                   "message": {
                     "": "Wait, what? Really? \\.\\.\\. But I'm \\c[3]Holiday Man\\c[0]!",
-                    "en_US": "Calma, o que? Sério? \\.\\.\\. Mas eu sou o \\c[3]Homem do Natal!\\c[0]!"
+                    "en_US": "Calma, o que? Sério?\\.\\.\\. Mas eu sou o \\c[3]Homem do Natal\\c[0]!"
                   }
                 },
                 "14": {
                   "message": {
                     "": "Giving gifts and bringing joy and peace to people? No?",
-                    "en_US": "Dando presentes e trazendo alegria e paz às pessoas? Não?"
+                    "en_US": "Que dá presentes e traz alegria e paz às pessoas? Lembra?"
                   }
                 },
                 "15": {
@@ -257,13 +257,13 @@
                 "16": {
                   "message": {
                     "": "[shakes head]",
-                    "en_US": ""
+                    "en_US": "[balança a cabeça]"
                   }
                 },
                 "17": {
                   "message": {
                     "": "Aw man... \\.\\.\\. Maybe you are just new here...",
-                    "en_US": "Puxa vida... \\.\\.\\. Talvez você seja nova por aqui..."
+                    "en_US": "Puxa vida...\\.\\.\\. Talvez você seja nova por aqui..."
                   }
                 },
                 "18": {
@@ -333,7 +333,7 @@
                     "2": {
                       "message": {
                         "": "Alright, let's split the work. You go find the players here in \\c[3]Bergen\\c[0], then \\c[3]\\v[area.bergen-trails.name]\\c[0], \\c[3]\\v[area.autumn-area.name]\\c[0] and finally \\c[3]\\v[area.rookie-harbor.name]\\c[0].",
-                        "en_US": "Tudo bem, vamos dividir o trabalho. Você vai encontrar os jogadores aqui em \\c[3]Bergen\\c[0], e depois na \\c[3]\\v[area.bergen-trails.name]\\c[0], \\c[3]\\v[area.autumn-area.name]\\c[0] e finalmente \\c[3]\\v[area.rookie-harbor.name]\\c[0]."
+                        "en_US": "Tudo bem, vamos dividir o trabalho. Você encontrará os jogadores aqui em \\c[3]Bergen\\c[0] e depois na \\c[3]\\v[area.bergen-trails.name]\\c[0], \\c[3]\\v[area.autumn-area.name]\\c[0] e, por último, no \\c[3]\\v[area.rookie-harbor.name]\\c[0]."
                       }
                     },
                     "3": {
@@ -373,7 +373,7 @@
                     "10": {
                       "message": {
                         "": "But in each area it's always a \\c[3]Triblader\\c[0], \\c[3]Hexacast\\c[0], \\c[3]Pentafist\\c[0] and \\c[3]Quadroguard\\c[0].",
-                        "en_US": "Mas em cada área sempre tem \\c[3]Tricorte\\c[0], \\c[3]Hexamago\\c[0], \\c[3]Pentapunho\\c[0] e um \\c[3]Quadroguarda\\c[0]."
+                        "en_US": "Mas em cada área sempre tem um \\c[3]Tricorte\\c[0], um \\c[3]Hexamago\\c[0], um \\c[3]Pentapunho\\c[0] e um \\c[3]Quadroguarda\\c[0]."
                       }
                     },
                     "11": {
@@ -410,7 +410,7 @@
                     "0": {
                       "message": {
                         "": "Noooo!\\.\\.\\. Okay, no hard feelings.",
-                        "en_US": "Nãoooo!\\.\\.\\. Certo, sem ressentimentos."
+                        "en_US": "Nãoooo!\\.\\.\\. Tudo bem, sem ressentimentos."
                       }
                     }
                   }
@@ -429,7 +429,7 @@
               "3": {
                 "message": {
                   "": "Don't wait too long, we'll have to do this quick!",
-                  "en_US": "Não perca tempo, nós temos que terminar isso rápido"
+                  "en_US": "Não perca tempo, nós temos que terminar isso rápido!"
                 }
               },
               "4": {
@@ -520,7 +520,7 @@
                 "20": {
                   "message": {
                     "": "I'll lower the wall so you can get in.",
-                    "en_US": "Vou baixar a parede para que você possa entrar."
+                    "en_US": "Vou abrir a parede para que você possa entrar."
                   }
                 },
                 "27": {
@@ -570,13 +570,13 @@
                 "4": {
                   "message": {
                     "": "Oh, you did? Ha! What a relief...",
-                    "en_US": "Ah, você consegiu? Ho!\\. Ho!\\. Ho!\\. Que alívio..."
+                    "en_US": "Ho!\\. Ho!\\. Ho!\\. Que alívio..."
                   }
                 },
                 "5": {
                   "message": {
                     "": "And... \\.\\.\\. How are my presents? ",
-                    "en_US": "E... \\.\\.\\. Como estão os presentes?"
+                    "en_US": "E...\\.\\.\\. Como estão os presentes?"
                   }
                 },
                 "6": {
@@ -587,7 +587,7 @@
                 "7": {
                   "message": {
                     "": "Hi... \\.\\.\\. Lea...",
-                    "en_US": "Oi... \\.\\.\\. Lea..."
+                    "en_US": "Oi...\\.\\.\\. Lea..."
                   }
                 },
                 "8": {
@@ -621,7 +621,7 @@
                 "13": {
                   "message": {
                     "": "Oh no, how rude of me to not ask for your name.",
-                    "en_US": "Ah não, que falta de educação da minha parte não perguntar seu nome."
+                    "en_US": "Ah, não! Que falta de educação minha não ter perguntado seu nome."
                   }
                 },
                 "14": {
@@ -650,7 +650,7 @@
                 "18": {
                   "message": {
                     "": "Ahm... \\.\\.\\. Here, take my hat as a reward! ",
-                    "en_US": "Ahm... \\.\\.\\. Aqui, pegue meu chapéu como reconpensa! "
+                    "en_US": "Hmm... \\.\\.\\. Aqui, pegue meu chapéu como reconpensa! "
                   }
                 },
                 "19": {
@@ -732,7 +732,7 @@
               "0": {
                 "name": {
                   "": "Holiday Man",
-                  "en_US": "O Homem do Natal"
+                  "en_US": "Homem do Natal"
                 }
               },
               "2": {
@@ -828,7 +828,7 @@
                       "0": {
                         "message": {
                           "": "Oh yes! I think I may have another present for you!",
-                          "en_US": "Oh sim! Acho que posso ter outro presente para você!"
+                          "en_US": "Ah sim! Acho que posso ter outro presente para você!"
                         }
                       },
                       "1": {
@@ -850,7 +850,7 @@
                       "4": {
                         "message": {
                           "": "Maybe come back sometime later?",
-                          "en_US": "Talvez você possa voltar algum tempo mais tarde?"
+                          "en_US": "Talvez você possa voltar mais tarde?"
                         }
                       },
                       "5": {

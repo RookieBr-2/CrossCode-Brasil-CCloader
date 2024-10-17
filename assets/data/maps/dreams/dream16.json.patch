@@ -111,7 +111,7 @@
           "62": {
             "message": {
               "": "Well...\\. it might be due to your appearance.",
-              "en_US": "Bem...\\. pode ser devido à sua aparência."
+              "en_US": "Sim...\\. talvez seja por causa da sua aparência."
             }
           },
           "63": {
@@ -123,7 +123,7 @@
           "70": {
             "message": {
               "": "This should be more casual.",
-              "en_US": "Isso deve ser mais casual."
+              "en_US": "Acho que assim está melhor."
             }
           },
           "71": {
@@ -151,13 +151,13 @@
           "77": {
             "message": {
               "": "Hm...\\. that's something we need to look into.",
-              "en_US": "Hum...\\. isso é algo que precisamos analisar."
+              "en_US": "Hm...\\. isso é algo que precisamos analisar."
             }
           },
           "78": {
             "message": {
               "": "But you still seem to understand us, don't you?",
-              "en_US": "Mas você ainda parece nos entender, não é?"
+              "en_US": "Mas você consegue nos entender, não é?"
             }
           },
           "79": {
@@ -187,7 +187,7 @@
           "83": {
             "message": {
               "": "Say, do you remember your name?",
-              "en_US": "Diga, você se lembra do seu nome?"
+              "en_US": "Você se lembra do seu nome?"
             }
           },
           "84": {
@@ -204,7 +204,7 @@
           "86": {
             "message": {
               "": "So...\\. what should we call you, then?",
-              "en_US": "Então...\\. como devemos chamá-la, então?"
+              "en_US": "Então...\\. como devemos chamá-la?"
             }
           },
           "87": {
@@ -234,7 +234,7 @@
           "108": {
             "message": {
               "": "Well then... can you point at the image showing forests?",
-              "en_US": "Bem, então... você pode apontar para a imagem mostrando as florestas?"
+              "en_US": "Então... você pode apontar a imagem que tem florestas?"
             }
           },
           "109": {
@@ -251,13 +251,13 @@
           "111": {
             "message": {
               "": "So you remember basic concepts pretty well already.",
-              "en_US": "Então você já se lembra muito bem dos conceitos básicos."
+              "en_US": "Pelo visto, você se lembra muito bem dos conceitos básicos."
             }
           },
           "128": {
             "message": {
               "": "So, what about yesterday's sign, can you still do it?",
-              "en_US": "Então, e o sinal de ontem, você ainda pode fazer isso?"
+              "en_US": "Então, e o sinal de ontem, você ainda sabe fazer?"
             }
           },
           "129": {
@@ -312,7 +312,7 @@
           "138": {
             "message": {
               "": "It's pretty clear now that it's not just your speech that's missing.\n",
-              "en_US": "Está bem claro agora que não é apenas sua fala que está faltando.\n"
+              "en_US": "Agora está bem claro que não é só sua fala que está ausente.\n"
             }
           },
           "139": {
@@ -324,13 +324,13 @@
           "140": {
             "message": {
               "": "And we only get so far with hand signs...\n",
-              "en_US": "E só chegamos até aqui com sinais de mão...\n"
+              "en_US": "E só conseguimos progredir com sinais de mão...\n"
             }
           },
           "141": {
             "message": {
               "": "It's like you're missing the ability to recall  \"words\"... or any abstract concept.",
-              "en_US": "É como se você estivesse perdendo a capacidade de lembrar \"palavras\"... ou qualquer conceito abstrato."
+              "en_US": "É como se você estivesse esquecendo as \"palavras\"... ou qualquer ideia abstrata."
             }
           },
           "142": {
@@ -368,7 +368,7 @@
           "175": {
             "message": {
               "": "Always the same...",
-              "en_US": "Sempre igual..."
+              "en_US": "É sempre assim..."
             }
           },
           "176": {
@@ -379,13 +379,13 @@
           "178": {
             "message": {
               "": "Isn't it funny how it always goes the same way?",
-              "en_US": "Não é engraçado como é sempre o mesmo?"
+              "en_US": "Não é engraçado como as coisas acabam do mesmo jeito?"
             }
           },
           "179": {
             "message": {
               "": "All the support I gave them...\\. all the things I did...\\. it suddenly doesn't matter.",
-              "en_US": "Todo o apoio que dei a eles...\\. todas as coisas que eu fiz...\\. de repente não importa."
+              "en_US": "Todo o apoio que dei a eles...\\. todas as coisas que eu fiz...\\. de repente, não significam nada."
             }
           },
           "180": {
@@ -397,7 +397,7 @@
           "181": {
             "message": {
               "": "And all at once, things have to go hostile.",
-              "en_US": "E, de repente, as coisas têm que se tornar hostis."
+              "en_US": "E, de repente, todos se tornaram hostis."
             }
           },
           "182": {
@@ -413,13 +413,13 @@
           "184": {
             "message": {
               "": "Sorry...\\. this really shouldn't concern you.",
-              "en_US": "Desculpe...\\. isso realmente não deveria preocupar você."
+              "en_US": "Desculpe...\\. você não precisa se preocupar com isso."
             }
           },
           "199": {
             "message": {
               "": "So, any more hand signs you remember?",
-              "en_US": "Então, mais algum sinal de mão que você se lembra?"
+              "en_US": "Então, você se lembrou de mais algum sinal de mão?"
             }
           },
           "200": {
@@ -444,14 +444,13 @@
           },
           "204": {
             "message": {
-              "": "...!",
-              "en_US": ""
+              "": "...!"
             }
           },
           "205": {
             "message": {
               "": "Alright, so you can still count.",
-              "en_US": "Tudo bem, então você ainda pode contar."
+              "en_US": "Muito bem, então você ainda pode contar."
             }
           },
           "206": {
@@ -468,7 +467,7 @@
           "208": {
             "message": {
               "": "Oh... back to trying this again?",
-              "en_US": "Ah... você ainda está tentando fazer isso?"
+              "en_US": "Ah... você ainda está tentando fazer aquilo?"
             }
           },
           "209": {
@@ -491,7 +490,7 @@
           "230": {
             "message": {
               "": "What is it?",
-              "en_US": "O que é isso?"
+              "en_US": "O que foi?"
             }
           },
           "231": {
@@ -527,7 +526,7 @@
           "237": {
             "message": {
               "": "\\c[3]Mute\\c[0]... but that didn't stop her from doing her job.",
-              "en_US": "\\c[3]Muda\\c[0]... mas isso não a impediu de fazer seu trabalho."
+              "en_US": "E \\c[3]muda\\c[0]... mas isso não a impediu de fazer seu trabalho."
             }
           },
           "238": {
@@ -596,7 +595,7 @@
           "249": {
             "message": {
               "": "It's similar with you.",
-              "en_US": "É semelhante com você."
+              "en_US": "Com você é a mesma coisa."
             }
           },
           "250": {
@@ -607,7 +606,7 @@
           "251": {
             "message": {
               "": "I suppose, I just get along well with mute people?",
-              "en_US": "Suponho que me dou bem com pessoas mudas?"
+              "en_US": "Aparentemente, eu me dou bem com pessoas que não se comunicam verbalmente."
             }
           },
           "252": {
@@ -624,25 +623,25 @@
           "268": {
             "message": {
               "": "The world's most self-absorbed creature.",
-              "en_US": "A criatura mais egocêntrica do mundo."
+              "en_US": "As criaturas mais egocêntricas do mundo."
             }
           },
           "269": {
             "message": {
               "": "We really like to think highly of ourselves.",
-              "en_US": "Nós realmente gostamos de pensar bem de nós mesmos."
+              "en_US": "Nós gostamos de acreditar que somos pessoas boas."
             }
           },
           "270": {
             "message": {
               "": "And sure...\\. we certainly came and went far.",
-              "en_US": "E claro...\\. certamente chegamos e fomos longe."
+              "en_US": "E claro...\\. como espécie, chegamos muito longe."
             }
           },
           "271": {
             "message": {
               "": "But in the end...\\. we are just another kind of creature lost in this vast universe.",
-              "en_US": "Mas no final...\\. somos apenas outro tipo de criatura perdida neste vasto universo."
+              "en_US": "Mas no fim...\\. somos apenas outro tipo de criaturas perdidas neste vasto universo."
             }
           },
           "272": {
@@ -653,7 +652,7 @@
           "273": {
             "message": {
               "": "Lea...\\. do you remember what a clear sky looks like at night?",
-              "en_US": "Lea...\\. você se lembra de como é um céu claro à noite?"
+              "en_US": "Lea...\\. você se lembra como é um céu limpo à noite?"
             }
           },
           "274": {
@@ -676,19 +675,19 @@
           "277": {
             "message": {
               "": "I hope one day you will...",
-              "en_US": "Espero que um dia você..."
+              "en_US": "Espero que um dia..."
             }
           },
           "278": {
             "message": {
               "": "It is like...\\. a boundless sea of stars.",
-              "en_US": "Você veja, é como...\\. um mar de estrelas sem limites."
+              "en_US": "Você possa ver.\\. É como...\\. um mar de estrelas sem fim..."
             }
           },
           "279": {
             "message": {
               "": "When you see it, you start to realize...\\. just how insignificant we are to this world.",
-              "en_US": "Quando você vê isso, você começa a perceber...\\. como somos insignificantes para este mundo."
+              "en_US": "Quando você vê isso, você começa a perceber...\\. como somos insignificantes neste mundo."
             }
           },
           "280": {

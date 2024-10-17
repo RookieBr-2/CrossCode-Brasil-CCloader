@@ -1424,13 +1424,13 @@
           "8": {
             "message": {
               "": "Uhm...\\. Lea?\\. Should we log out now?",
-              "en_US": "Hum...\\. Lea?\\. Devemos sair agora?"
+              "en_US": "Hm...\\. Lea?\\. Devemos sair agora?"
             }
           },
           "9": {
             "message": {
               "": "...Wait.",
-              "en_US": "...Espere."
+              "en_US": "...Espera."
             }
           },
           "16": {
@@ -1471,7 +1471,7 @@
           "22": {
             "message": {
               "": "Same for me, really.",
-              "en_US": "O mesmo para mim, na verdade."
+              "en_US": "Eu também."
             }
           },
           "23": {
@@ -1494,7 +1494,7 @@
           "26": {
             "message": {
               "": "Uhm...\\. sorry.\\. Building confidence is not exactly my strong suit.\n",
-              "en_US": "Hum...\\. desculpe.\\. Construir confiança não é exatamente meu forte.\n"
+              "en_US": "Hm...\\. desculpe.\\. Não sou muito bom em animar as pessoas.\n"
             }
           },
           "27": {
@@ -1505,13 +1505,13 @@
           "28": {
             "message": {
               "": "By now you've probably already guessed it, but I plan to involve the other First Scholar members.",
-              "en_US": "A essa altura, você provavelmente já adivinhou, mas pretendo envolver os outros membros dos Primeiros Estudiosos."
+              "en_US": "Como disse antes, pretendo envolver os outros membros dos Primeiros Estudiosos."
             }
           },
           "29": {
             "message": {
               "": "We will need their help to properly execute the plan.",
-              "en_US": "Precisaremos da ajuda deles para executar adequadamente o plano."
+              "en_US": "Precisamos da ajuda deles para executar o plano."
             }
           },
           "30": {
@@ -1522,7 +1522,7 @@
           "31": {
             "message": {
               "": "That also means I have to explain the full situation to them...\\. and tell them about you.",
-              "en_US": "Isso também significa que eu tenho que explicar a situação completa para eles...\\. e contar a eles sobre você."
+              "en_US": "Isso também significa que eu terei que explicar tudo para eles...\\. e contar a verdade sobre você."
             }
           },
           "32": {
@@ -1533,7 +1533,7 @@
           "33": {
             "message": {
               "": "I understand that you are nervous about this, but there really is no way around it.",
-              "en_US": "Entendo que você esteja nervosa com isso, mas realmente não há como contornar isso."
+              "en_US": "Entendo que você esteja nervosa com isso, mas não dá para contornar a situação."
             }
           },
           "34": {
@@ -1561,7 +1561,7 @@
           "38": {
             "message": {
               "": "Trust me on that, you are no stranger to them anymore.\n",
-              "en_US": "Confie em mim, já não é uma estranha para eles.\n"
+              "en_US": "Confie em mim, eles te apreciam muito.\n"
             }
           },
           "39": {
@@ -1577,7 +1577,7 @@
           "41": {
             "message": {
               "": "Also...\\. here is something I should have said a long time ago...\n",
-              "en_US": "Também...\\. aqui está algo que eu deveria ter dito há muito tempo...\n"
+              "en_US": "Além disso...\\. tem algo que eu devia ter falado faz tempo....\n"
             }
           },
           "42": {
@@ -1606,7 +1606,7 @@
           "46": {
             "message": {
               "": "Really, I could not have imagined a better partner.",
-              "en_US": "Realmente, eu não poderia imaginar uma parceira melhor."
+              "en_US": "Sinceramente, não imagino uma parceira melhor que você."
             }
           },
           "47": {
@@ -1759,7 +1759,7 @@
           "51": {
             "message": {
               "": "I am sure that will help getting everyone together, correct?",
-              "en_US": "Tenho certeza que vai ajudar a juntar todos, correto?"
+              "en_US": "Tenho certeza que isso ajudará a juntar todo mundo, não é?"
             }
           },
           "52": {
@@ -1788,7 +1788,7 @@
           "57": {
             "object": {
               "": "Thanks",
-              "en_US": "Obrigada"
+              "en_US": "Obrigada."
             }
           },
           "61": {
@@ -1823,7 +1823,7 @@
           "66": {
             "message": {
               "": "Let us move there first, shall we?",
-              "en_US": "Vamos lá primeiro, certo?"
+              "en_US": "Vamos começar indo para lá, certo?"
             }
           },
           "67": {
@@ -1853,7 +1853,7 @@
           "32": {
             "message": {
               "": "Well...\\. we had the connections, after all.",
-              "en_US": "Bem...\\. nós tínhamos as conexões, afinal."
+              "en_US": "Pois é...\\. nós tínhamos alguns contatos, afinal."
             }
           },
           "46": {
@@ -1865,7 +1865,7 @@
           "47": {
             "message": {
               "": "I am not sure what else there is to say other than...",
-              "en_US": "Não sei o que mais há a dizer além de..."
+              "en_US": "Não sei o que mais dizer, a não ser..."
             }
           },
           "48": {
@@ -1895,7 +1895,7 @@
           "58": {
             "message": {
               "": "Sergey...\\. Lea will be back, right?",
-              "en_US": "Sergey...\\. Lea vai voltar, não é?"
+              "en_US": "Sergey...\\. Lea vai voltar, não vai?"
             }
           },
           "60": {
@@ -1946,7 +1946,7 @@
           "79": {
             "message": {
               "": "You have to return someday... It has to happen....",
-              "en_US": "Você tem que voltar um dia... Tem que acontecer...."
+              "en_US": "Você tem que voltar um dia... isso tem que acontecer..."
             }
           },
           "80": {
@@ -2071,7 +2071,7 @@
           "181": {
             "message": {
               "": "No, wait...\\. this is awkward!",
-              "en_US": "Não, espere...\\. isso é estranho!"
+              "en_US": "Não, calma aí...\\. isso é esquisito!"
             }
           },
           "189": {
@@ -2094,7 +2094,7 @@
           "197": {
             "message": {
               "": "Seriously...\\. just how touchy can you even get?",
-              "en_US": "Sério...\\. você é sensível demais."
+              "en_US": "Caramba...\\. você é sensível demais."
             }
           },
           "210": {

@@ -42,7 +42,7 @@
           "4": {
             "text": {
               "": "The time has come to rise further beyond!",
-              "en_US": "Chegou a hora de subir mais além!"
+              "en_US": "Chegou a hora de ir além!"
             }
           },
           "8": {
@@ -57,7 +57,7 @@
           "10": {
             "message": {
               "": "A ridiculous \\c[3]HP buff\\c[0]...",
-              "en_US": "Um ridículo \\c[3]reforço de PV\\c[0]..."
+              "en_US": "Um \\c[3]buff ridículo de PV\\c[0]..."
             }
           },
           "12": {

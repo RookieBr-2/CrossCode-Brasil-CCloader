@@ -1219,13 +1219,13 @@
           "32": {
             "message": {
               "": "That means it should be vulnerable to a certain DDoS attack we experienced in the past.",
-              "en_US": "Isso significa que deve ser vulnerável a um certo ataque DDoS que experimentamos no passado."
+              "en_US": "Isso significa que deve ser vulnerável a um certo ataque DDoS que tivemos no passado."
             }
           },
           "33": {
             "message": {
               "": "Oh... using the hit-stun-overflow issue?",
-              "en_US": "Oh... usando a questão de ataque-transbordante-atordoador?"
+              "en_US": "Ah... usando o hit-stun-overflow?"
             }
           },
           "34": {
@@ -1242,7 +1242,7 @@
           "38": {
             "message": {
               "": "Now please for us common folks, too.",
-              "en_US": "Agora repita, por favor, para nós, pessoas comuns, também."
+              "en_US": "Pode repetir isso para nós, pessoas comuns?"
             }
           },
           "40": {
@@ -1284,13 +1284,13 @@
           "46": {
             "message": {
               "": "So, how exactly will it work?\\. How do we make it crash?",
-              "en_US": "Então, como exatamente isso vai funcionar?\\. Como fazemos para trava-lo?"
+              "en_US": "Então, como fazemos ele travar?"
             }
           },
           "47": {
             "message": {
               "": "The keys are the \\c[3]Evotars\\c[0] running around Vermillion Wasteland.",
-              "en_US": "As chaves são os \\c[3]Evotares\\c[0] que percorrem no Deserto Carmesim."
+              "en_US": "As chaves são os \\c[3]Evotares\\c[0] que estão no Deserto Carmesim."
             }
           },
           "48": {
@@ -1314,7 +1314,7 @@
           "51": {
             "message": {
               "": "That's why I plan to involve a few other players, specifically those Lea has met before.",
-              "en_US": "É por isso que pretendo envolver alguns outros jogadores, especificamente aqueles que Lea conheceu antes."
+              "en_US": "É por isso que quero incluir alguns jogadores, especificamente os amigos da Lea."
             }
           },
           "52": {
@@ -1356,7 +1356,7 @@
           "62": {
             "message": {
               "": "Hm...\\. I think it would be better if you avoid logging into the game while we storm the Evotarground.",
-              "en_US": "Hum...\\. Acho que seria melhor se você evitasse entrar no jogo enquanto atacamos o Evotarground."
+              "en_US": "Hm...\\. Acho que seria melhor se você evitasse entrar no jogo enquanto atacamos o Evotarground."
             }
           },
           "63": {
@@ -1368,13 +1368,13 @@
           "64": {
             "message": {
               "": "Otherwise, things will end with him taking you hostage.",
-              "en_US": "Caso contrário, as coisas terminarão com ele fazendo você refém."
+              "en_US": "Caso contrário, ele acabará fazendo você de refém."
             }
           },
           "65": {
             "message": {
               "": "Right...\\. there is the real life side of things as well.",
-              "en_US": "Certo...\\. Eu nem tinha pensado nesse detalhe."
+              "en_US": "Droga...\\. Eu nem tinha pensado nesse detalhe."
             }
           },
           "70": {
@@ -1392,19 +1392,19 @@
           "73": {
             "message": {
               "": "He has been acting...\\. very strange.\\. Even more strangely than usual.\\. And that's saying a lot.",
-              "en_US": "Ele está agindo...\\. muito estranho.\\. Ainda mais estranhamente do que o normal.\\. E isso significa muito."
+              "en_US": "Ele está agindo...\\. de um jeito bem estranho.\\. Mais estranho do que o normal..."
             }
           },
           "74": {
             "message": {
               "": "Once I mentioned Lea, he started raving about how she managed to escape his dungeon tower.",
-              "en_US": "Uma vez que mencionei Lea, ele começou a delirar sobre como ela conseguiu escapar de sua torre dungeon."
+              "en_US": "Quando falei da Lea, ele começou a surtar, comentando sobre como ela escapou de sua dungeon."
             }
           },
           "75": {
             "message": {
               "": "I guess you really left an impact.",
-              "en_US": "Acho que você deixou mesmo um impacto."
+              "en_US": "Acho que você realmente causou um impacto."
             }
           },
           "77": {
@@ -1415,7 +1415,7 @@
           "79": {
             "message": {
               "": "Anyway...\\. I decided I'd better not tell him too much.",
-              "en_US": "De qualquer forma...\\. Decidi que seria melhor não contar muito a ele."
+              "en_US": "Enfim...\\. Decidi que seria melhor não falar mais nada pra ele."
             }
           },
           "80": {
@@ -1463,7 +1463,7 @@
           "93": {
             "message": {
               "": "And once we have the help we need, we start with the plan as soon as possible.",
-              "en_US": "E assim que tivermos a ajuda de que precisamos, começamos o plano o mais rápido possível."
+              "en_US": "E quando conseguirmos a ajuda necessária, iniciaremos o plano imediatamente."
             }
           },
           "94": {

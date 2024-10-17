@@ -3035,7 +3035,7 @@
           },
           "text": {
             "": "\n- Key Items\n- Contacts\n- Quest Progress\n- Statistics",
-            "en_US": "\n- Itens Chave\n- Contatos\n- Progresso das Missões\n -Estatísticas"
+            "en_US": "\n- Itens Chave\n- Contatos\n- Progresso das Missões\n- Estatísticas"
           }
         }
       }
@@ -15142,7 +15142,7 @@
             "3": {
               "message": {
                 "": "Come on, let's focus on saving those Evotars!",
-                "en_US": "Qual é, vamos nos focar em salvar aqueles Evotars!"
+                "en_US": "Qual é, vamos nos focar em salvar aqueles Evotares!"
               }
             }
           }
