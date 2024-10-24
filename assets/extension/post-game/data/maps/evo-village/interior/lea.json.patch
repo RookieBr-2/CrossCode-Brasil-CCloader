@@ -52,7 +52,7 @@
           "34": {
             "message": {
               "": "To be honest, I'm not even sure how you're supposed to cook.",
-              "en_US": "Para ser honesta, nem sei como você deve cozinhar."
+              "en_US": "Sinceramente, nem sei como você vai cozinhar."
             }
           },
           "35": {
@@ -181,7 +181,7 @@
           "38": {
             "message": {
               "": "I mean...\\. that's what you do when you are offline, right?",
-              "en_US": "Quero dizer...\\. é isso que você faz quando está offline, certo?"
+              "en_US": "Quero dizer...\\. é isso que você faz quando está offline, não é?"
             }
           },
           "39": {
@@ -199,7 +199,7 @@
           "41": {
             "message": {
               "": "Most of us are already here at \\c[3]Para Island\\c[0]! You should join us soon as well!",
-              "en_US": "A maioria de nós já está aqui na \\c[3]Ilha Para\\c[0]! Você também deve se juntar a nós em breve!"
+              "en_US": "Todo mundo já está aqui na \\c[3]Ilha Para\\c[0]! Você tem que vir logo também!"
             }
           },
           "42": {
@@ -210,7 +210,7 @@
           "43": {
             "message": {
               "": "That sounds like a \"oui\" to me!\\. See you soon!",
-              "en_US": "Isso soa como um \"oui\" para mim!\\. Vejo você em breve!"
+              "en_US": "Isso soa como um \"oui\" pra mim!\\. Vejo você em breve!"
             }
           },
           "49": {
@@ -227,7 +227,7 @@
           "52": {
             "message": {
               "": "Uhm...\\. sorry, I suppose that was a bit sudden.",
-              "en_US": "Hum...\\. desculpe, acho que foi meio repentino."
+              "en_US": "Hmm...\\. desculpe, acho que foi meio repentino."
             }
           },
           "54": {
@@ -244,7 +244,7 @@
           "56": {
             "message": {
               "": "I am finally ready to give you another batch of words!\n",
-              "en_US": "Finalmente estou pronto para dar a você outra quantidade de palavras!\n"
+              "en_US": "Finalmente estou pronto para te dar mais algumas palavras!\n"
             }
           },
           "57": {
@@ -261,7 +261,7 @@
           "59": {
             "message": {
               "": "I still hope to find a better workaround for your speech limitations later on.\n",
-              "en_US": "Ainda espero encontrar uma solução melhor para suas limitações de fala posteriormente.\n"
+              "en_US": "Ainda espero encontrar uma solução melhor para suas limitações de fala no futuro.\n"
             }
           },
           "60": {
@@ -273,7 +273,7 @@
           "62": {
             "object": {
               "": "What",
-              "en_US": "O que"
+              "en_US": "Que"
             }
           },
           "64": {
@@ -296,7 +296,7 @@
           "70": {
             "message": {
               "": "What?",
-              "en_US": "O que?"
+              "en_US": "Que?"
             }
           },
           "72": {
@@ -314,7 +314,7 @@
           "74": {
             "message": {
               "": "Uhm...\\. in your speech module?",
-              "en_US": "Hum...\\. no módulo de fala?"
+              "en_US": "Hmm...\\. no módulo de fala?"
             }
           },
           "75": {
@@ -326,7 +326,7 @@
           "76": {
             "message": {
               "": "You.\\. You have them.",
-              "en_US": "Você.\\. Você tem elas."
+              "en_US": "Você.\\. Você Lea."
             }
           },
           "77": {
@@ -338,7 +338,7 @@
           "78": {
             "message": {
               "": "Yes, yes.\\. I get it.\\. Another endless question loop.",
-              "en_US": "Sim, sim.\\. Entendi.\\. Outro ciclo interminável de perguntas."
+              "en_US": "Tá bom.\\. Entendi.\\. É outro ciclo interminável de perguntas."
             }
           },
           "79": {
@@ -350,7 +350,7 @@
           "80": {
             "message": {
               "": "Shouldn't you go meet everyone for the raid?",
-              "en_US": "Você não deveria encontrar todos para a raid?"
+              "en_US": "Você não deveria ir para a raid logo?"
             }
           },
           "81": {

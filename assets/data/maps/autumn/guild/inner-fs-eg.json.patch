@@ -399,13 +399,13 @@
               "4": {
                 "message": {
                   "": "It's good to have you back!",
-                  "en_US": "É tão te ver de novo!"
+                  "en_US": "É muito bom te ver de novo!"
                 }
               },
               "5": {
                 "message": {
                   "": "Though I have to admit, I'm a bit disappointed about Luke...",
-                  "en_US": "Embora eu tenha que admitir, estou um pouco decepcionado com Luke."
+                  "en_US": "Mas, na real, estou um pouco decepcionado com o Luke..."
                 }
               },
               "6": {
@@ -417,13 +417,13 @@
               "7": {
                 "message": {
                   "": "Somehow I thought none of you Evotars could speak.",
-                  "en_US": "Eu pensava que nenhum de vocês Evotares poderia falar."
+                  "en_US": "Eu pensei que nenhum de vocês, Evotares, podia falar."
                 }
               },
               "8": {
                 "message": {
                   "": "And I was looking forward to some fun conversations with a version of Lukas that can't talk back.",
-                  "en_US": "E eu estava ansioso para ter uma conversa engraçada com uma versão do Lukas que não pode responder."
+                  "en_US": "Eu mal podia esperar para ter uma conversa divertida com uma versão do Lukas que não consegue responder."
                 }
               },
               "9": {
@@ -611,7 +611,7 @@
               "4": {
                 "message": {
                   "": "We're currently busy planning a few details of an upcoming event.",
-                  "en_US": "Estamos atualmente ocupados planejando alguns detalhes de um próximo evento."
+                  "en_US": "Estamos ocupados agora planejando os detalhes de um evento próximo."
                 }
               },
               "5": {
@@ -622,13 +622,13 @@
               "6": {
                 "message": {
                   "": "Oh, I'm sure you're curious what this is about.\\. But I've been told not to spoil anything.",
-                  "en_US": "Oh, tenho certeza que você está curiosa para saber do que se trata. Mas me foi dito para não falar nada."
+                  "en_US": "Ah, você deve estar curiosa, mas me pediram para não falar nada sobre o assunto."
                 }
               },
               "7": {
                 "message": {
                   "": "Hlin and Emilie will have all the news for you in that upcoming meeting!",
-                  "en_US": "Hlin e Emilie vão contar todas as novidades para vocês nessa próxima reunião!"
+                  "en_US": "Hlin e Emilie vão contar todas as novidades na próxima reunião!"
                 }
               }
             }
@@ -1404,13 +1404,13 @@
                 "6": {
                   "message": {
                     "": "Hello, dear! Are you here for the big news?",
-                    "en_US": "Olá querida! Você está aqui para saber a grande notícia?"
+                    "en_US": "Olá querida! Você veio aqui para saber a grande novidade?"
                   }
                 },
                 "7": {
                   "message": {
                     "": "We can start the meeting right away!",
-                    "en_US": "Podemos começar a reunião imediatamente!"
+                    "en_US": "Podemos dar início à reunião agora!"
                   }
                 },
                 "8": {
@@ -7205,13 +7205,13 @@
           "51": {
             "message": {
               "": "Oh, you don't remember?",
-              "en_US": "Oh, você não se lembra?"
+              "en_US": "Ah, você não se lembra?"
             }
           },
           "52": {
             "message": {
               "": "I think our...\\. \"split\" must have happened before that, right?\n",
-              "en_US": "Eu acho que a nossa..\\. \"separação\" deve ter acontecido antes disso, certo?\n"
+              "en_US": "Acho que a nossa...\\. \"divisão\" deve ter acontecido antes disso, não é?\n"
             }
           },
           "53": {
@@ -7241,31 +7241,31 @@
           "57": {
             "message": {
               "": "I always wondered how the whole thing would end.\n",
-              "en_US": "Eu sempre me perguntei como tudo isso terminaria.\n"
+              "en_US": "Eu sempre quis saber como tudo isso terminaria.\n"
             }
           },
           "65": {
             "message": {
               "": "Things will work pretty similar to last time.",
-              "en_US": "As coisas funcionarão da mesma forma como antes."
+              "en_US": "Vai ser como foi da última vez."
             }
           },
           "66": {
             "message": {
               "": "We'll split everyone into two teams that run in parallel.",
-              "en_US": "Nós vamos dividr todos em duas equipes que trabalham paralelamente."
+              "en_US": "Nós vamos formar duas equipes que irão trabalhar em paralelo."
             }
           },
           "67": {
             "message": {
               "": "Team one will be \\c[3]Emilie\\c[0], \\c[3]Lea\\c[0] and \\c[3]Luke\\c[0].",
-              "en_US": "O time um terá \\c[3]Emilie\\c[0], \\c[3]Lea\\c[0] e \\c[3]Luke\\c[0]."
+              "en_US": "A equipe um terá \\c[3]Emilie\\c[0], \\c[3]Lea\\c[0] e \\c[3]Luke\\c[0]."
             }
           },
           "68": {
             "message": {
               "": "Team two will be \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0] and \\c[3]me\\c[0]!",
-              "en_US": "O time dois terá \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0] e \\c[3]Eu\\c[0]!"
+              "en_US": "A equipe dois terá \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0] e \\c[3]Eu\\c[0]!"
             }
           },
           "69": {
@@ -7289,7 +7289,7 @@
           "77": {
             "message": {
               "": "Meeting your investor friend again?",
-              "en_US": "Encontrando-se novamente com seu amigo investidor?"
+              "en_US": "Se encontrando outra vez com seu amigo investidor?"
             }
           },
           "78": {
@@ -7301,13 +7301,13 @@
           "82": {
             "message": {
               "": "Of course, the raid will be \\c[3]more difficult\\c[0] this time, since we're all on a higher level.",
-              "en_US": "Claro que a raid será \\c[3]mais difícil\\c[0] dessa vez, porque todos nós estamos com níveis altos."
+              "en_US": "Com certeza a raid será \\c[3]mais difícil\\c[0] desta vez, já que todos nós estamos com níveis altos."
             }
           },
           "83": {
             "message": {
               "": "Even the color matching might be a bit more tricky this time.",
-              "en_US": "Mesmo a correspondência de cores pode ser um pouco mais complicada desta vez."
+              "en_US": "Até a correspondência de cores pode ser um pouco mais complicada desta vez."
             }
           },
           "87": {
@@ -7325,7 +7325,7 @@
           "91": {
             "message": {
               "": "Yes, that's how we did it last time, too.\\. Worked perfectly!",
-              "en_US": "Sim, também foi assim que fizemos da última vez.\\. Funcionou perfeitamente!"
+              "en_US": "Sim, foi assim que fizemos na última vez.\\. Funcionou perfeitamente!"
             }
           },
           "93": {

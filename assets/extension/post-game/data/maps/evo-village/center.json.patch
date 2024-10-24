@@ -122,7 +122,7 @@
                 "2": {
                   "message": {
                     "": "Welcome Homestedt folks!\\. Anything catching your eye?",
-                    "en_US": "Bem-vindos a Fazendolar pessoal!\\. Algo chamou sua atenção?"
+                    "en_US": "Bem-vinda a Fazendolar!\\. Algo chamou sua atenção?"
                   }
                 }
               }
@@ -216,7 +216,7 @@
           "57": {
             "message": {
               "": "You seem as lively as ever.",
-              "en_US": "Você parece tão animada como sempre."
+              "en_US": "Você está tão alegre como sempre."
             }
           },
           "69": {
@@ -251,7 +251,7 @@
           "89": {
             "message": {
               "": "Yes, about the others...",
-              "en_US": "Sim, sobre os outros..."
+              "en_US": "Sim, a respeito dos demais..."
             }
           },
           "90": {
@@ -280,7 +280,7 @@
           "101": {
             "message": {
               "": "Now, now, dear.",
-              "en_US": "Agora, agora, querida."
+              "en_US": "Mas ei, querida."
             }
           },
           "102": {
@@ -310,7 +310,7 @@
           "113": {
             "message": {
               "": "Oui!\\. Just look around you!",
-              "en_US": "Oui!\\. Basta olhar ao seu redor!"
+              "en_US": "Oui!\\. É só olhar ao seu redor!"
             }
           },
           "114": {
@@ -333,13 +333,13 @@
           "120": {
             "message": {
               "": "A whole location dedicated to Evotars like you and Satoshi.",
-              "en_US": "Um local inteiro dedicado a Evotares, como o Satoshi e você."
+              "en_US": "Um local exclusivo para Evotares, como Satoshi e você."
             }
           },
           "129": {
             "message": {
               "": "Thanks!!",
-              "en_US": "Obrigado!!"
+              "en_US": "Obrigada!!"
             }
           },
           "132": {
@@ -418,7 +418,7 @@
           "4": {
             "message": {
               "": "Look at this! Isn't it amazing?",
-              "en_US": "Olhe para isso! Não é incrível?"
+              "en_US": "Olha pra isso! Não é incrível?"
             }
           },
           "8": {
@@ -430,7 +430,7 @@
           "9": {
             "message": {
               "": "I'm almost jealous!",
-              "en_US": "Estou quase com ciúmes!"
+              "en_US": "Estou quase com inveja!"
             }
           },
           "15": {
@@ -459,7 +459,7 @@
           "20": {
             "message": {
               "": "Guten Tag!\\. Sorry for being late!",
-              "en_US": "Guten Tag!\\. Desculpe por estar atrasado!"
+              "en_US": "Guten Tag!\\. Desculpe pelo atraso!"
             }
           },
           "31": {
@@ -471,13 +471,13 @@
           "32": {
             "message": {
               "": "Our favorite bot is finally back!\\. Hello!",
-              "en_US": "Nosso bot favorito finalmente está de volta!\\. Olá!"
+              "en_US": "É isso aí, nosso bot favorito voltou!\\. Olá!"
             }
           },
           "39": {
             "message": {
               "": "So...\\. Did you already show her around the village?",
-              "en_US": "Então...\\. Você já mostrou a vila para ela?"
+              "en_US": "Então...\\. Vocês já mostraram a vila para ela?"
             }
           },
           "41": {
@@ -495,7 +495,7 @@
           "43": {
             "message": {
               "": "I was hoping to give you one of my signature tours!\n",
-              "en_US": "Eu esperava oferecer a você uma das minhas excursões exclusivas!\n"
+              "en_US": "Eu estava ansioso para oferecer um dos meus tours exclusivos!\n"
             }
           },
           "45": {
@@ -506,7 +506,7 @@
           "46": {
             "message": {
               "": "I could pick up right where you left off.\\. How about it?",
-              "en_US": "Posso continuar de onde você parou.\\. Que tal?"
+              "en_US": "Posso continuar de onde vocês pararam.\\. Que tal?"
             }
           },
           "47": {
@@ -530,7 +530,7 @@
           "55": {
             "task": {
               "": "Participate in Lukas' tour of \\c[3]Homestedt\\c[0].",
-              "en_US": "Participe da excursão do Lukas pela \\c[3]Fazendolar\\c[0]."
+              "en_US": "Participe do tour do Lukas pela \\c[3]Fazendolar\\c[0]."
             }
           }
         }
@@ -562,13 +562,13 @@
               "13": {
                 "message": {
                   "": "As it is, though, there isn't much to see here!\\. Let's go on!",
-                  "en_US": "Porém, como essa, não há muito o que ver aqui!\\. Vamos continuar!"
+                  "en_US": "Porém, não há muito o que ver aqui!\\. Vamos continuar!"
                 }
               },
               "25": {
                 "message": {
                   "": "I find the lack of laser bridge disturbing.",
-                  "en_US": "Acho a falta duma ponte laser perturbadora."
+                  "en_US": "Eu acho perturbador não ter uma ponte laser."
                 }
               }
             }
@@ -584,7 +584,7 @@
               "5": {
                 "message": {
                   "": "All you need to quickly beam yourself home.",
-                  "en_US": "Tudo o que você precisa para ir rapidamente pra casa."
+                  "en_US": "Tudo que você precisa para chegar em casa rápido."
                 }
               },
               "6": {
@@ -596,7 +596,7 @@
               "11": {
                 "message": {
                   "": "There is this suspicious empty spot over there, in the middle of the river.",
-                  "en_US": "Tem um lugar vazio suspeito ali, no meio do rio."
+                  "en_US": "Tem um lugar vazio e suspeito ali, no meio do rio."
                 }
               },
               "12": {
@@ -608,13 +608,13 @@
               "14": {
                 "message": {
                   "": "More like people could not decide on a design...",
-                  "en_US": "Mas como as pessoas não conseguiam decidir o design..."
+                  "en_US": "Na verdade, as pessoas não conseguiam decidir o design..."
                 }
               },
               "20": {
                 "message": {
                   "": "And onward!",
-                  "en_US": "Em frente!"
+                  "en_US": "Vamos continuar!"
                 }
               }
             }
@@ -624,13 +624,13 @@
               "4": {
                 "message": {
                   "": "The local marketplace!",
-                  "en_US": "O mercado local!"
+                  "en_US": "Aqui é o mercado local!"
                 }
               },
               "9": {
                 "message": {
                   "": "Quite surprising for such a small village to have its own market, don't you think?",
-                  "en_US": "É bastante surpreendente que uma vila tão pequena tenha seu próprio mercado, não acha?"
+                  "en_US": "É incrível que uma vila tão pequena tenha o próprio mercado, não acha?"
                 }
               },
               "10": {
@@ -681,19 +681,19 @@
               "15": {
                 "message": {
                   "": "Uhm, yes.\\. That's where I live.",
-                  "en_US": "Uhm, sim.\\. É lá que eu moro."
+                  "en_US": "Hm, sim.\\. É lá que eu moro."
                 }
               },
               "17": {
                 "message": {
                   "": "That's huge!",
-                  "en_US": "Isso é imenso!"
+                  "en_US": "Ela é imensa!"
                 }
               },
               "18": {
                 "message": {
                   "": "Why doesn't Lea get a building like this?",
-                  "en_US": "Por que a Lea não conseguiu um prédio assim?"
+                  "en_US": "Por que a Lea não conseguiu uma casa assim?"
                 }
               },
               "20": {
@@ -705,13 +705,13 @@
               "22": {
                 "message": {
                   "": "For some reason Instatainment felt the need to give Satoshi special treatment.",
-                  "en_US": "Por alguma razão, a Instatainment sentiu a necessidade de dar um tratamento especial ao Satoshi."
+                  "en_US": "Por alguma razão, a Instatainment achou que o Satoshi merecia um tratamento especial."
                 }
               },
               "23": {
                 "message": {
                   "": "The perks of being the former star employee.",
-                  "en_US": "As vantagens de ser o ex-funcionário estrela."
+                  "en_US": "Essa é a vantagem de ser um ex-funcionário famoso."
                 }
               },
               "25": {
@@ -722,19 +722,19 @@
               "26": {
                 "message": {
                   "": "I didn't really ask for it, you know?\n",
-                  "en_US": "Eu realmente não pedi por isso, sabe?\n"
+                  "en_US": "Eu juro que não pedi isso, sabe?\n"
                 }
               },
               "27": {
                 "message": {
                   "": "In any case...\\. Feel free to drop by whenever you like.",
-                  "en_US": "Em todo o caso...\\. Sinta-se à vontade para passar por aqui sempre que quiser."
+                  "en_US": "Em todo o caso...\\. Pode passar por aqui quando quiser, fique à vontade."
                 }
               },
               "28": {
                 "message": {
                   "": "It's much more space than I'd ever need anyway.",
-                  "en_US": "É mais espaço do que eu posso precisar."
+                  "en_US": "É espaço demais para mim."
                 }
               },
               "34": {
@@ -762,7 +762,7 @@
               "10": {
                 "message": {
                   "": "If I'm not mistaken, that's where you must have started, right?",
-                  "en_US": "Se não me engano, deve ter começado por aí, certo?"
+                  "en_US": "Se não me engano, foi aqui que você começou, não é?"
                 }
               },
               "12": {
@@ -779,13 +779,13 @@
               "18": {
                 "message": {
                   "": "There's more to discover in that building, actually!",
-                  "en_US": "Na verdade, há mais para descobrir naquele prédio!"
+                  "en_US": "Na verdade, tem mais coisas nesse prédio!"
                 }
               },
               "19": {
                 "message": {
                   "": "Like a whole conference hall for instance!",
-                  "en_US": "Como toda uma sala de conferências, por exemplo!"
+                  "en_US": "Como uma enorme sala de conferências, por exemplo!"
                 }
               },
               "21": {
@@ -825,7 +825,7 @@
               "27": {
                 "message": {
                   "": "Thanks!!",
-                  "en_US": "Obrigado!!"
+                  "en_US": "Obrigada!!"
                 }
               },
               "28": {
@@ -851,13 +851,13 @@
               "42": {
                 "message": {
                   "": "...Wait?",
-                  "en_US": "...Espere?"
+                  "en_US": "...Espera?"
                 }
               },
               "43": {
                 "message": {
                   "": "Is something the matter with me?\n",
-                  "en_US": "Há algo de errado comigo?\n"
+                  "en_US": "Tem algo de errado comigo?\n"
                 }
               },
               "48": {
@@ -869,7 +869,7 @@
               "49": {
                 "message": {
                   "": "You are probably wondering about the \\c[3]other Lukas\\c[0], correct?",
-                  "en_US": "Você provavelmente está se perguntando sobre o \\c[3]outro Lukas\\c[0], correto?"
+                  "en_US": "Você quer saber onde está o \\c[3]outro Lukas\\c[0], não é?"
                 }
               },
               "51": {
@@ -881,13 +881,13 @@
               "52": {
                 "message": {
                   "": "Yes, we will get right to that now.",
-                  "en_US": "Sim, vamos direto ao ponto agora."
+                  "en_US": "Sim, vamos resolver isso agora."
                 }
               },
               "53": {
                 "message": {
                   "": "We have been planning to get him into the game right after you!",
-                  "en_US": "Planejamos colocá-lo no jogo logo depois de você!"
+                  "en_US": "Decidimos colocá-lo no jogo logo depois de você!"
                 }
               },
               "54": {
@@ -906,25 +906,25 @@
           "16": {
             "message": {
               "": "That's a very nice place to live in.\\. Thank you very much!",
-              "en_US": "É um lugar muito agradável para se viver.\\. Muito obrigado!"
+              "en_US": "É um ótimo lugar para morar.\\. Muito obrigado!"
             }
           },
           "18": {
             "message": {
               "": "Japp, you better be happy! ",
-              "en_US": "Japp, é melhor você se alegrar!"
+              "en_US": "Japp, que bom pra você!"
             }
           },
           "19": {
             "message": {
               "": "We both know what I have to live with in real life!",
-              "en_US": "Nós dois sabemos o que tenho que viver na vida real!"
+              "en_US": "Nós dois sabemos o que tenho que encarar na vida real!"
             }
           },
           "20": {
             "message": {
               "": "I sure do...",
-              "en_US": "Tenho certeza..."
+              "en_US": "Eu sei..."
             }
           },
           "25": {
@@ -936,7 +936,7 @@
           "26": {
             "message": {
               "": "Let me show you where Homestedt is exactly located.",
-              "en_US": "Deixe-me mostrar onde a Fazendolar está exatamente localizada."
+              "en_US": "Vou mostrar onde a Fazendolar está localizada."
             }
           },
           "29": {
@@ -962,13 +962,13 @@
               "3": {
                 "message": {
                   "": "Hey!\\. This front yard is a bit small, but nice.",
-                  "en_US": "Ei!\\. Este jardim é um pouco pequeno, mas agradável."
+                  "en_US": "Ei!\\. Este jardim é pequeno, mas é agradável."
                 }
               },
               "4": {
                 "message": {
                   "": "Well, it certainly beats that horrible place we've been stuck in before.",
-                  "en_US": "Bem, com certeza supera aquele lugar horrível que ficamos presos antes."
+                  "en_US": "Isso com certeza é muito melhor do que aquele lugar horrível onde ficamos presos antes."
                 }
               },
               "5": {
@@ -980,13 +980,13 @@
               "6": {
                 "message": {
                   "": "And we're supposed to meet up at the \\c[3]First Scholar HQ\\c[0] later, right?",
-                  "en_US": "E devemos nos encontrar no \\c[3]QG dos Primeiros Estudiosos\\c[0] depois, certo?"
+                  "en_US": "E a gente vai se encontrar no \\c[3]QG dos Primeiros Estudiosos\\c[0] depois, não é?"
                 }
               },
               "7": {
                 "message": {
                   "": "I sure hope I'll still be able to find it.",
-                  "en_US": "Espero conseguir encontrá-lo."
+                  "en_US": "Espero que eu consiga encontrar o local."
                 }
               },
               "8": {
@@ -1003,13 +1003,13 @@
               "10": {
                 "message": {
                   "": "I've been there a few hundred times at least.",
-                  "en_US": "Eu estive lá algumas centenas de vezes, no mínimo."
+                  "en_US": "Eu estive lá centenas de vezes, no mínimo."
                 }
               },
               "11": {
                 "message": {
                   "": "Of course, you could also just add me to your party and we go there together.",
-                  "en_US": "Claro, você também pode me adicionar ao seu grupo e vamos lá juntos."
+                  "en_US": "Claro, se quiser, podemos formar um grupo e ir juntos."
                 }
               },
               "12": {
@@ -1052,7 +1052,7 @@
               "16": {
                 "message": {
                   "": "That was quite an awakening today, huh?",
-                  "en_US": "Foi um grande despertar hoje, hein?"
+                  "en_US": "Hoje tivemos uma revelação bombástica, não é?"
                 }
               },
               "17": {
@@ -1110,7 +1110,7 @@
               "26": {
                 "message": {
                   "": "To be honest, it really wasn't the best life.",
-                  "en_US": "Para ser honesto, não era realmente a melhor vida."
+                  "en_US": "Para ser sincero, não era realmente a melhor vida."
                 }
               },
               "27": {

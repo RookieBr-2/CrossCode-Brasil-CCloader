@@ -16,7 +16,7 @@
                   "0": {
                     "message": {
                       "": "Uhm...\\. Hello, Lea.",
-                      "en_US": "Hum...\\. Olá Lea."
+                      "en_US": "Hmm...\\. olá Lea."
                     }
                   },
                   "1": {
@@ -59,7 +59,7 @@
                   "0": {
                     "message": {
                       "": "Uhm...\\. Hello, Lea.",
-                      "en_US": "Hum...\\. Olá Lea."
+                      "en_US": "Hmm...\\. olá Lea."
                     }
                   },
                   "1": {
@@ -77,13 +77,13 @@
                   "3": {
                     "message": {
                       "": "Yeah, they certainly went the extra mile, constructing a whole village just for us.",
-                      "en_US": "Sim, eles certamente se esforçaram, construindo uma vila inteira só para nós."
+                      "en_US": "Sim, eles se esforçaram muito, construindo uma vila inteira só para nós."
                     }
                   },
                   "4": {
                     "message": {
                       "": "Uhm...\\. now if you'll excuse me...\\. I was just in the middle of coding a complicated segment...",
-                      "en_US": "Hum...\\. agora se me der licença...\\. Eu estava no meio da codificação de um segmento complicado..."
+                      "en_US": "Hm...\\. agora se me der licença...\\. eu estou trabalhando em um código complicado..."
                     }
                   },
                   "5": {
@@ -106,13 +106,13 @@
               "5": {
                 "message": {
                   "": "Uhm...\\. Hello, Lea.",
-                  "en_US": "Hum...\\. Olá Lea."
+                  "en_US": "Hmm...\\. olá Lea."
                 }
               },
               "6": {
                 "message": {
                   "": "Running that dungeon was quite the marathon, wasn't it?",
-                  "en_US": "Correr naquela dungeon foi uma maratona e tanto, não foi?"
+                  "en_US": "Explorar aquela dungeon foi uma maratona e tanto, não foi?"
                 }
               },
               "7": {

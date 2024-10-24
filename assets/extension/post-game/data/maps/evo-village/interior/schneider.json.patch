@@ -8,13 +8,13 @@
               "2": {
                 "message": {
                   "": "So...\\. I'm just supposed to lay down in the bed?",
-                  "en_US": "Então...\\. Devo apenas deitar na cama?"
+                  "en_US": "Então...\\. é só deitar na cama?"
                 }
               },
               "3": {
                 "message": {
                   "": "And I'll just...\\. fall asleep?",
-                  "en_US": "E eu vou apenas...\\. dormir?"
+                  "en_US": "E eu vou...\\. dormir?"
                 }
               },
               "4": {
@@ -37,7 +37,7 @@
               "7": {
                 "message": {
                   "": "So... and what are you doing here?\\. Following me up to my bedroom at such an hour?",
-                  "en_US": "Então... e o que você faz aqui?\\. Me seguindo até meu quarto a uma hora dessas?"
+                  "en_US": "Então... o que você faz aqui?\\. Me seguindo até meu quarto a uma hora dessas?"
                 }
               },
               "8": {
@@ -59,7 +59,7 @@
               "17": {
                 "message": {
                   "": "Sorry!",
-                  "en_US": "Desculpe!"
+                  "en_US": "Desculpa!"
                 }
               },
               "21": {
