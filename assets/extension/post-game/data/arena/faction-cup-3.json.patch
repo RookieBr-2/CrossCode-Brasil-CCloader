@@ -26,11 +26,11 @@
     "1": {
       "name": {
         "": "Ocean Operation",
-        "en_US": ""
+        "en_US": "Operação do Oceano"
       },
       "objective": {
         "": "Defeat the \\c[3]\\v[combat.name.autumn-rh/turret_boss-quest_naval]\\c[0] on \\c[3]the ocean\\c[0]!\nMake sure \\c[3]your turret-boat doesn't get destroyed!\\c[0]!",
-        "en_US": "Operação do Oceano"
+        "en_US": "Derrote a \\c[3]\\v[combat.name.autumn-rh/turret_boss-quest_naval]\\c[0] no \\c[3]oceano\\c[0]!\nTenha cuidado para que \\c[3]sua torre não seja destruída\\c[0]!"
       }
     },
     "2": {

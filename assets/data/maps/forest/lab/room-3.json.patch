@@ -19,7 +19,7 @@
               "3": {
                 "message": {
                   "": "Ah, hello\\..\\..\\.. a \\v[lore.title.seeker], is it?",
-                  "en_US": "Ah, olá\\..\\..\\.. uma \\v[lore.title.seeker], certo?"
+                  "en_US": "Ah, olá\\..\\..\\.. você é uma \\v[lore.title.seeker], não é?"
                 }
               },
               "4": {
@@ -31,7 +31,7 @@
               "5": {
                 "message": {
                   "": "Neat.\\. Very nostalgic.\\. \\..\\..\\.. Can I help you with anything?",
-                  "en_US": "Ah, ótimo.\\. Tão nostálgico. \\..\\..\\.. Posso ajudá-la em alguma coisa? "
+                  "en_US": "Ah, ótimo.\\. Posso ajudá-la em alguma coisa? "
                 }
               },
               "6": {
@@ -48,13 +48,13 @@
               "8": {
                 "message": {
                   "": "Ah, well.\\. Our old project kinda went South after those armed birds broke out.",
-                  "en_US": "Ah, bem.\\. Nosso antigo projeto infelizmente foi por água abaixo depois que aquelas aves armadas surgiram."
+                  "en_US": "Ah, pois é.\\. Nosso antigo projeto infelizmente foi por água abaixo quando aquelas aves armadas escaparam."
                 }
               },
               "9": {
                 "message": {
                   "": "Suddenly there were birds with weapons all over \\v[lore.title.planet].\\. That wrecked our reputation a bit.",
-                  "en_US": "De repente, havia pássaros com armas por toda \\v[lore.title.planet].\\. Isso arruinou um pouco nossa reputação."
+                  "en_US": "De repente, havia pássaros com armas por toda parte em \\v[lore.title.planet].\\. Isso arruinou um pouco nossa reputação."
                 }
               },
               "10": {
@@ -65,13 +65,13 @@
               "11": {
                 "message": {
                   "": "Anyway, I'm now working with my colleagues on this small passion project.\\. Not as fancy or profitable but very satisfying.",
-                  "en_US": "De qualquer forma, agora estou trabalhando com meus colegas neste pequeno projeto passional.\\. Não tão extravagante ou lucrativo, mas muito gratificante."
+                  "en_US": "Bom, estou trabalhando com meus colegas em um pequeno projeto que nos inspira.\\. Não é tão chamativo ou lucrativo, mas é muito gratificante."
                 }
               },
               "12": {
                 "message": {
                   "": "Just having a nice time with some neat creatures and gaming with my peers.\\. Good stuff.",
-                  "en_US": "Apenas me divertindo com algumas criaturas legais e jogando com meus colegas.\\. Coisa boa."
+                  "en_US": "Só estou me divertindo com algumas criaturas legais e jogando com meus amigos.\\. Coisa boa."
                 }
               },
               "13": {
@@ -82,7 +82,7 @@
               "14": {
                 "message": {
                   "": "Yes.\\. On that note, I am kinda busy kicking butt.\\. Are we done?",
-                  "en_US": "Sim.\\. Falando nisso, estou meio ocupado chutando traseiros.\\. Estamos conversados? "
+                  "en_US": "Sim.\\. Falando nisso, estou meio ocupado espancando eles.\\. Depois conversamos."
                 }
               },
               "15": {
@@ -504,7 +504,7 @@
           "1": {
             "text": {
               "": "You're blocking the view!",
-              "en_US": "Você está bloqueando a vista!"
+              "en_US": "Você está bloqueando a minha visão!"
             }
           },
           "2": {

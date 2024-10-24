@@ -3045,14 +3045,15 @@
         "2": {
           "text": {
             "": "\\c[2]Facility X Key partly decrypted\\c[0]!\nProgress of decryption: \\c[3]\\v[g.lab.decrypted] / 4\\c[0]",
-            "en_US": ""
+            "en_US": "\\c[2]Chave da Instalação X parcialmente descriptografada\\c[0]!\nProgresso da descriptografia: \\c[3]\\v[g.lab.decrypted] / 4\\c[0]"
           }
         },
         "3": {
           "thenStep": {
             "1": {
               "text": {
-                "": "\\c[2]Decryption Complete\\c[0]!\nKey can now be used to access \\c[3]Facility X\\c[0], located in \\c[3]Sapphire Ridge\\c[0]"
+                "": "\\c[2]Decryption Complete\\c[0]!\nKey can now be used to access \\c[3]Facility X\\c[0], located in \\c[3]Sapphire Ridge\\c[0]",
+                "en_US": "\\c[2]Descriptografia Completa\\c[0]!\nA chave já pode ser usada para acessar a \\c[3]Instalação X\\c[0], na \\c[3]Serra da Safira\\c[0]"
               }
             },
             "5": {
@@ -4944,7 +4945,7 @@
             "3": {
               "message": {
                 "": "Bummer.",
-                "en_US": ""
+                "en_US": "Que chato."
               }
             }
           }
@@ -21718,8 +21719,7 @@
     },
     "arid.laser-catcher": {
       "name": {
-        "": "arid.laser-catcher",
-        "en_US": ""
+        "": "arid.laser-catcher"
       },
       "species": {
         "": "",
@@ -21728,8 +21728,7 @@
     },
     "special.sergey-hax": {
       "name": {
-        "": "special.sergey-hax",
-        "en_US": ""
+        "": "special.sergey-hax"
       },
       "species": {
         "": "",
@@ -21738,8 +21737,7 @@
     },
     "special.sergey-hax2": {
       "name": {
-        "": "special.sergey-hax2",
-        "en_US": ""
+        "": "special.sergey-hax2"
       },
       "species": {
         "": "",
@@ -21748,8 +21746,7 @@
     },
     "special.sergey-hax3": {
       "name": {
-        "": "special.sergey-hax3",
-        "en_US": ""
+        "": "special.sergey-hax3"
       },
       "species": {
         "": "",
@@ -23683,7 +23680,7 @@
         "0": {
           "text": {
             "": "These Invertebrates evolved into huge proportions and inhabit the \\c[3]\\v[area.beach.name]\\c[0]. By sheer coincidence they can assume one of the 4 elements. The color of the star reveals with what element it will attack. ",
-            "en_US": ""
+            "en_US": "Esses Invertebrados cresceram em proporções enormes e habitam o \\c[3]\\v[area.beach.name]\\c[0]. Coincidentemente, eles podem assumir um dos 4 elementos. A cor da estrela revela qual elemento usarão para atacar."
           }
         }
       }
@@ -23750,7 +23747,7 @@
       },
       "species": {
         "": "Flying Seahorse",
-        "en_US": ""
+        "en_US": "Cavalo Marinho Voador"
       }
     },
     "cold.coldbug-quest-bombing-2": {
@@ -24929,7 +24926,7 @@
       },
       "species": {
         "": "Rookie Sentry",
-        "en_US": ""
+        "en_US": "Sentinela do Porto"
       }
     },
     "heat.special.kamikatze-helper": {
@@ -25131,7 +25128,7 @@
       },
       "species": {
         "": "Rookie Sentry",
-        "en_US": ""
+        "en_US": "Sentinela do Porto"
       }
     },
     "jungle.special.capture-cage-1": {
@@ -33443,7 +33440,7 @@
       },
       "description": {
         "": "The Monk \\c[3]Cratos\\c[0] has given you two additional challenges to beat in the \\c[3]Cave of Ascension\\c[0].\n(\\c[1]Warning: No modifiers are active during the trial!\\c[0])",
-        "en_US": ""
+        "en_US": "O Monge \\c[3]Cratos\\c[0] lhe deu dois desafios adicionais para superar na \\c[3]Caverna da Ascensão\\c[0].\n(\\c[1]Atenção: Nenhum modificador está ativo durante a prova!\\c[0])"
       },
       "briefing": {
         "": "You have beaten the additional challenges.",
@@ -33473,7 +33470,7 @@
               },
               "shortText": {
                 "": "Do the frosty challenge",
-                "en_US": ""
+                "en_US": "Faça o desafio gélido"
               }
             }
           }
@@ -33519,7 +33516,7 @@
       },
       "person": {
         "": "Monk Cratos",
-        "en_US": ""
+        "en_US": "Monge Cratos"
       },
       "description": {
         "": "Prove your passion by beating the \\c[3]Cave of Ascension\\c[0] with \\c[3]\"Extra Frosty\"\\c[0] being activated!",
@@ -34504,7 +34501,7 @@
               },
               "shortText": {
                 "": "Meet \\c[3]Guard Zaida\\c[0]",
-                "en_US": ""
+                "en_US": "Encontre a \\c[3]Guarda Zaida\\c[0]"
               }
             },
             "1": {
@@ -34514,7 +34511,7 @@
               },
               "shortText": {
                 "": "Meet \\c[3]Shad Pae'trow\\c[0]",
-                "en_US": ""
+                "en_US": "Encontre o \\c[3]Shad Pae'trow\\c[0]"
               }
             },
             "2": {
@@ -34524,7 +34521,7 @@
               },
               "shortText": {
                 "": "Meet \\c[3]Shad Frou'quye\\c[0]",
-                "en_US": ""
+                "en_US": "Encontre \\c[3]Shad Frou'quye\\c[0]"
               }
             }
           }
@@ -37581,8 +37578,7 @@
         "en_US": "Promessa é Dívida"
       },
       "person": {
-        "": "???",
-        "en_US": ""
+        "": "???"
       },
       "personAfter": {
         "": "Ketin D'Kar"
