@@ -18,13 +18,13 @@
           "23": {
             "message": {
               "": "That's right, dear! This is where all those elemental pillars came from!",
-              "en_US": "Isso mesmo, querida! É daí que todos aqueles pilares elementais estavam vindo"
+              "en_US": "Isso mesmo, querida! É daí que todos aqueles pilares elementais estavam vindo!"
             }
           },
           "24": {
             "message": {
               "": "Great! It definitely deserves a good amount of punching right about now!",
-              "en_US": "Legal! Ele definitivamente merece uma boa quantidade de socos nesse momento!"
+              "en_US": "Legal! Ele merece mesmo alguns socos agora!"
             }
           }
         }
@@ -40,7 +40,7 @@
                   "0": {
                     "message": {
                       "": "\\c[3]Heat turret\\c[0] pushed over! To the \\c[3]second right pillar\\c[0]!",
-                      "en_US": "\\c[3]Torreta de fogo\\c[0] empurrada! Para o \\c[3]segundo pilar à direita\\c[0]!"
+                      "en_US": "\\c[3]Torre de fogo\\c[0] empurrada! Joga no \\c[3]primeiro pilar na direita\\c[0]!"
                     }
                   }
                 }
@@ -54,7 +54,7 @@
                   "0": {
                     "message": {
                       "": "\\c[3]Cold turret\\c[0] is ready! To the \\c[3]left\\c[0]! Really this time!",
-                      "en_US": "\\c[3]Torreta de gelo\\c[0] está pronta! Para a \\c[3]esquerda\\c[0]! Dessa vez é pra valer!"
+                      "en_US": "\\c[3]Torre de gelo\\c[0] está pronta! Para a \\c[3]esquerda\\c[0]! Dessa vez é sério!"
                     }
                   }
                 }
@@ -64,7 +64,7 @@
                   "0": {
                     "message": {
                       "": "\\c[3]Cold turret\\c[0] to the \\c[3]second pillar from the left\\c[0]!",
-                      "en_US": "\\c[3]Torreta de gelo\\c[0] para o \\c[3]segundo pilar da esquerda\\c[0]!"
+                      "en_US": "\\c[3]Torre de gelo\\c[0] para o \\c[3]segundo pilar da esquerda\\c[0]!"
                     }
                   }
                 }
@@ -80,7 +80,7 @@
                       "0": {
                         "message": {
                           "": "Here comes the \\c[3]purple turret\\c[0]! Needs to go \\c[3]right\\c[0]!",
-                          "en_US": "Aí vem a \\c[3]torreta roxa\\c[0]! Precisa ir para a \\c[3]direita\\c[0]!"
+                          "en_US": "Aí vem a \\c[3]torre roxa\\c[0]! Joga ela na \\c[3]direita\\c[0]!"
                         }
                       }
                     },
@@ -88,7 +88,7 @@
                       "0": {
                         "message": {
                           "": "\\c[3]Purple turret\\c[0] ready.\\. You know where it goes...",
-                          "en_US": "\\c[3]Torreta roxa\\c[0] pronta.\\. Vocês sabem pra onde ela vai..."
+                          "en_US": "\\c[3]Torre roxa\\c[0] pronta.\\. Vocês sabem pra onde ela vai..."
                         }
                       }
                     }
@@ -100,7 +100,7 @@
                   "0": {
                     "message": {
                       "": "One \\c[3]Shock turret\\c[0] ready, to be shot to the \\c[3]center\\c[0] pillar!",
-                      "en_US": "Uma \\c[3]Torreta elétrica\\c[0] pronta, a ser atirada no pilar \\c[3]central\\c[0]!"
+                      "en_US": "Uma \\c[3]Torre elétrica\\c[0] pronta, joguem no pilar \\c[3]central\\c[0]!"
                     }
                   }
                 }
@@ -115,7 +115,7 @@
                   "1": {
                     "message": {
                       "": "Lea means \\c[3]leftmost\\c[0]! For the \\c[3]Shock turret!\\c[0]",
-                      "en_US": "Lea quer dizer \\c[3]mais à esquerda\\c[0]! Para a \\c[3]Torreta elétrica!\\c[0]"
+                      "en_US": "Lea quer dizer \\c[3]na primeira da esquerda\\c[0]! Para a \\c[3]Torre elétrica\\c[0]!"
                     }
                   }
                 }
@@ -131,13 +131,13 @@
                       "0": {
                         "message": {
                           "": "\\c[3]Wave is ready!\\c[0] To the \\c[3]left\\c[0]!",
-                          "en_US": "\\c[3]Onda está pronta!\\c[0] Pra \\c[3]esquerda\\c[0]!"
+                          "en_US": "\\c[3]Onda está pronta\\c[0]! Pra \\c[3]esquerda\\c[0]!"
                         }
                       },
                       "2": {
                         "message": {
                           "": "Uhm...\\. don't you mean \\c[1]the other left\\c[0]?",
-                          "en_US": "Hhm...\\. você não quis dizer \\c[1]a outra esquerda\\c[0]?"
+                          "en_US": "Hmm...\\. você não quis dizer \\c[1]a outra esquerda\\c[0]?"
                         }
                       },
                       "5": {
@@ -161,7 +161,7 @@
                       "11": {
                         "message": {
                           "": "No worries.\\. The \\c[3]Worst Column Tackler\\c[0] understands.",
-                          "en_US": "Sem problemas.\\. O \\c[3]Pior Atacante\\c[0] entende."
+                          "en_US": "Tudo bem.\\. O \\c[3]Pior Atacante\\c[0] entende."
                         }
                       }
                     },
@@ -171,7 +171,7 @@
                           "0": {
                             "message": {
                               "": "\\c[3]Wave turret\\c[0] to the \\c[3]right\\c[0]!",
-                              "en_US": "\\c[3]Torreta de Onda\\c[0] para a \\c[3]direita\\c[0]!"
+                              "en_US": "\\c[3]Torre de Onda\\c[0] para a \\c[3]direita\\c[0]!"
                             }
                           }
                         },
@@ -179,7 +179,7 @@
                           "0": {
                             "message": {
                               "": "\\c[3]Wave turret\\c[0] to the \\c[3]right\\c[0]!",
-                              "en_US": "\\c[3]Torreta de Onda\\c[0] para a \\c[3]direita\\c[0]!"
+                              "en_US": "\\c[3]Torre de Onda\\c[0] para a \\c[3]direita\\c[0]!"
                             }
                           }
                         }
@@ -193,7 +193,7 @@
                   "0": {
                     "message": {
                       "": "\\c[3]Wave turret\\c[0] to the \\c[3]rightmost pillar\\c[0]!",
-                      "en_US": "\\c[3]Torreta de onda\\c[0] para o \\c[3]pilar mais à direita\\c[0]!"
+                      "en_US": "\\c[3]Torre de onda\\c[0] para o \\c[3]pilar mais à direita\\c[0]!"
                     }
                   }
                 }
@@ -213,7 +213,7 @@
                   "0": {
                     "message": {
                       "": "Steaming hot \\c[3]heat turret\\c[0] arriving! Wants to go \\c[3]right\\c[0]!",
-                      "en_US": "Pelando! Aí vem a \\c[3]Torreta de fogo\\c[0]! Quer ir para a \\c[3]direita\\c[0]!"
+                      "en_US": "Tá pegando fogo bicho! Aí vai a \\c[3]Torre de fogo\\c[0]! Manda para a \\c[3]direita\\c[0]!"
                     }
                   }
                 }
@@ -223,7 +223,7 @@
                   "0": {
                     "message": {
                       "": "Final \\c[3]Heat turret\\c[0]! \\c[3]Center left\\c[0] pillar!",
-                      "en_US": "Última \\c[3]Torreta de fogo\\c[0]! \\Pilar \\c[3]centro-esquerda\\c[0]!"
+                      "en_US": "Última \\c[3]Torre de fogo\\c[0]! Manda no \\c[3]segundo pilar da esquerda\\c[0]!"
                     }
                   }
                 }
@@ -237,7 +237,7 @@
                   "0": {
                     "message": {
                       "": "\\c[3]Cold Turret\\c[0] is ready! This one goes \\c[3]right\\c[0]!",
-                      "en_US": "\\c[3]Torreta de gelo\\c[0] pronta! Essa vai pra \\c[3]direita\\c[0]!"
+                      "en_US": "\\c[3]Torre de gelo\\c[0] pronta! Essa vai pra \\c[3]direita\\c[0]!"
                     }
                   }
                 }
@@ -247,7 +247,7 @@
                   "0": {
                     "message": {
                       "": "Another \\c[3]cold turret\\c[0]! Goes to the \\c[3]center pillar\\c[0] this time!",
-                      "en_US": "Outra \\c[3]torreta de gelo\\c[0]! Vai para o \\c[3]pilar central\\c[0] dessa vez!"
+                      "en_US": "Outra \\c[3]torre de gelo\\c[0]! Vai para o \\c[3]pilar central\\c[0] dessa vez!"
                     }
                   }
                 }
@@ -257,7 +257,7 @@
                   "0": {
                     "message": {
                       "": "\\c[3]Cold turret\\c[0] coming your way! \\c[3]Second from the right\\c[0] pillar!",
-                      "en_US": "\\c[3]Torreta de gelo\\c[0] em seu camimho! \\c[3]Segundo pilar vindo da direita\\c[0]!"
+                      "en_US": "\\c[3]Torre de gelo\\c[0] chegando! \\c[3]Segundo pilar vindo da direita\\c[0]!"
                     }
                   }
                 }
@@ -271,7 +271,7 @@
                   "0": {
                     "message": {
                       "": "\\c[3]Shock turret\\c[0] is ready! Shoot it to the \\c[3]left\\c[0] pillar!",
-                      "en_US": "\\c[3]Torreta elétrica\\c[0] está pronta! Atire-a para o pilar \\c[3]esquerdo\\c[0]!"
+                      "en_US": "\\c[3]Torre elétrica\\c[0] está pronta! Joguem ela no pilar \\c[3]esquerdo\\c[0]!"
                     }
                   }
                 }
@@ -281,7 +281,7 @@
                   "0": {
                     "message": {
                       "": "Here comes the \\c[3]Shock turret\\c[0]! To the \\c[3]right most pillar\\c[0]!",
-                      "en_US": "Aqui vai a \\c[3]Torreta elétrica\\c[0]! Para o \\c[3]pilar mais à direita\\c[0]!"
+                      "en_US": "Aqui vai a \\c[3]Torre elétrica\\c[0]! Para o \\c[3]pilar mais à direita\\c[0]!"
                     }
                   }
                 }
@@ -295,7 +295,7 @@
                   "0": {
                     "message": {
                       "": "\\c[3]Green wave turret\\c[0] coming your way! Belongs to the \\c[3]left\\c[0] pillar!",
-                      "en_US": "\\c[3]Torreta verde da onda\\c[0] em seu caminho! Pertence ao pilar \\c[3]esquerdo\\c[0]!"
+                      "en_US": "\\c[3]Torre verde da onda\\c[0] chegando! Joguem no pilar \\c[3]esquerdo\\c[0]!"
                     }
                   }
                 }
@@ -305,7 +305,7 @@
                   "0": {
                     "message": {
                       "": "\\c[3]Wave turret\\c[0] ready! To the \\c[3]outer left pillar\\c[0]!",
-                      "en_US": "\\c[3]Torreta de onda\\c[0] pronta! Para o \\c[3]pilar externo esquerdo\\c[0]!"
+                      "en_US": "\\c[3]Torre de onda\\c[0] pronta! Para o \\c[3]pilar externo esquerdo\\c[0]!"
                     }
                   }
                 }
@@ -321,7 +321,7 @@
           "6": {
             "message": {
               "": "Huh?\\. It's jumping away?!",
-              "en_US": "Hã?\\. Está escapando?!"
+              "en_US": "Que?\\. Está escapando?!"
             }
           },
           "11": {
@@ -333,13 +333,13 @@
           "16": {
             "message": {
               "": "Looks like we have to shoot it into one of those...\\. \\c[3]dispensers\\c[0]? But \\c[3]which one\\c[0]?",
-              "en_US": "Pelo visto vou ter que atirá-la em um desses...\\. \\c[3]dispensadores\\c[0]? Mas \\c[3]qual deles\\c[0]?"
+              "en_US": "Acho que vou ter que jogar isso em um desses...\\. \\c[3]dispensadores\\c[0]? Mas \\c[3]qual deles\\c[0]?"
             }
           },
           "17": {
             "message": {
               "": "Can you tell us where the \\c[3]red turret\\c[0] is supposed to go?",
-              "en_US": "Podem nos dizer onde que a \\c[3]torreta vermelha\\c[0] tem que ir?"
+              "en_US": "Podem nos dizer onde que a \\c[3]torre vermelha\\c[0] tem que ir?"
             }
           },
           "24": {
@@ -351,7 +351,7 @@
           "27": {
             "message": {
               "": "Oui!\\. Shoot it into the \\c[3]left pillar\\c[0]!",
-              "en_US": "Oui!\\. Atire-a no \\c[3]pilar à esquerda\\c[0]!"
+              "en_US": "Oui!\\. Joga ela no \\c[3]pilar à esquerda\\c[0]!"
             }
           },
           "32": {
@@ -371,13 +371,13 @@
               "0": {
                 "message": {
                   "": "Looks like we're switching sides! We'll be sending those turrets over to you now!",
-                  "en_US": "Parece que estamos trocando de lado! Estaremos enviando essas torretas para vocês agora!"
+                  "en_US": "Parece que estamos mudando de lado! Vamos enviar essas torres para vocês agora!"
                 }
               },
               "1": {
                 "message": {
                   "": "Alright!\\. In the meantime we'll just punch those tiny burger turrets!",
-                  "en_US": "Beleza!\\. Enquanto isso iremos apenas socar essas mini torretas-búrguer!"
+                  "en_US": "Beleza!\\. Enquanto isso iremos socar essas mini torres!"
                 }
               }
             }
@@ -387,7 +387,7 @@
               "0": {
                 "message": {
                   "": "That looks like a weak point to me!\\. It's punching time!",
-                  "en_US": "Pra mim aquilo parece um ponto fraco!\\. Hora da porrada!"
+                  "en_US": "Pra mim isso parece um ponto fraco!\\. Hora da porrada!"
                 }
               }
             }
@@ -403,7 +403,7 @@
               "2": {
                 "message": {
                   "": "Suddenly lasers!!",
-                  "en_US": "De repente, lasers!!"
+                  "en_US": "Droga, lasers!!"
                 }
               }
             }
@@ -413,7 +413,7 @@
               "0": {
                 "message": {
                   "": "Looks like we'll have to throw over the turrets again!",
-                  "en_US": "Pelo visto teremos que atirar as torretas de novo!"
+                  "en_US": "Acho que vamos ter que jogar as torres de novo!"
                 }
               }
             }
@@ -433,7 +433,7 @@
               "0": {
                 "message": {
                   "": "Final round!\\. We can do it!!",
-                  "en_US": "Último round!\\. Nós podemos fazer isso!!"
+                  "en_US": "Último round!\\. A gente consegue!!"
                 }
               }
             }
@@ -449,7 +449,7 @@
               "2": {
                 "message": {
                   "": "We're overrun by tiny burger turrets!",
-                  "en_US": "Estamos sendo superados por mini torretas-burguer!"
+                  "en_US": "Estamos sendo superados por mini torres!"
                 }
               }
             }
@@ -507,7 +507,7 @@
               "2": {
                 "message": {
                   "": "No worries, it happens.",
-                  "en_US": "Sem problemas, acontece."
+                  "en_US": "Tudo bem, acontece."
                 }
               }
             },
@@ -521,7 +521,7 @@
               "2": {
                 "message": {
                   "": "No worries, dear!\\. Let's just try again!",
-                  "en_US": "Sem problemas, querida!\\. Apenas tente novamente!"
+                  "en_US": "Tudo bem, querida!\\. Tente novamente!"
                 }
               }
             }

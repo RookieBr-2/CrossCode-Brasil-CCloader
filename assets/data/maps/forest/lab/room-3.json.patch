@@ -153,7 +153,7 @@
               "3": {
                 "message": {
                   "": "A \\v[lore.title.seeker]?\\. Fascinating.\\. You must have a lot of stories to tell.\\. Wisdom to share.",
-                  "en_US": "Uma \\v[lore.title.seeker]?\\. Fascinante.\\. Você deve ter muitas histórias para contar.\\. Sabedoria para compartilhar."
+                  "en_US": "Uma \\v[lore.title.seeker]?\\. Fascinante.\\. Aposto que você tem muitas histórias para contar.\\. E sabedoria para compartilhar."
                 }
               },
               "4": {
@@ -170,13 +170,13 @@
               "6": {
                 "message": {
                   "": "That's fine.\\. Sometimes not consciously knowing can give you a clearer view on things, \\v[lore.title.seeker].",
-                  "en_US": "Tudo bem.\\. Às vezes, não saber conscientemente pode lhe dar uma visão mais clara das coisas, \\v[lore.title.seeker]."
+                  "en_US": "Tudo bem.\\. Às vezes, o fato de não saber algo de forma consciente pode dar uma visão mais precisa das situações, \\v[lore.title.seeker]."
                 }
               },
               "7": {
                 "message": {
                   "": "Preconception, propaganda, all of that can hide the real answers from your mind.",
-                  "en_US": "Pré-concepção, propaganda, tudo isso pode esconder as verdadeiras respostas de sua mente."
+                  "en_US": "Ideias preconcebidas e propagandas podem bloquear as verdadeiras respostas na sua mente."
                 }
               },
               "8": {
@@ -187,19 +187,19 @@
               "9": {
                 "message": {
                   "": "Well, right now is not the best time to talk.\\. Such heavy topics deserve a few hours of undivided attention.",
-                  "en_US": "Bem, agora não é o melhor momento para falar.\\. Tópicos tão complexos merecem algumas horas de atenção indivisível."
+                  "en_US": "Olha, agora não é o melhor momento para conversar.\\. Tópicos complexos como esse merecem algumas horas de atenção total."
                 }
               },
               "10": {
                 "message": {
                   "": "... wait.",
-                  "en_US": "... espere."
+                  "en_US": "... espera."
                 }
               },
               "11": {
                 "message": {
                   "": "Maybe later, \\v[lore.title.seeker]?",
-                  "en_US": "Talvez mais tarde, \\v[lore.title.seeker]?"
+                  "en_US": "Talvez mais tarde, \\v[lore.title.seeker]."
                 }
               },
               "12": {
@@ -226,7 +226,7 @@
               "3": {
                 "message": {
                   "": "Look \\v[lore.title.seeker], I am busy here.\\. We could have some fascinating conversations later, when we got a few hours.",
-                  "en_US": "Olha \\v[lore.title.seeker], estou ocupado aqui.\\. Poderíamos ter algumas conversas fascinantes mais tarde, quando tivermos algum tempo."
+                  "en_US": "Olha \\v[lore.title.seeker], estou ocupado aqui.\\. Poderíamos ter conversas fascinantes mais tarde, quando tivermos algum tempo."
                 }
               },
               "4": {
@@ -271,7 +271,7 @@
               "5": {
                 "message": {
                   "": "The old facility and that Tank-project.\\. Some of the greatest things ever, yes?",
-                  "en_US": "As antigas instalações e aquele projeto do Tanque.\\. Algumas das maiores coisas já feitas, sim?"
+                  "en_US": "A instalação antiga e o projeto Tanque, são as melhores coisas do mundo, não são?"
                 }
               },
               "6": {
@@ -282,7 +282,7 @@
               "7": {
                 "message": {
                   "": "You trashed it?\\. Haha, amazing.\\. We are always happy to create memorable experiences for anyone.",
-                  "en_US": "Você o destruiu?\\. Haha, incrível.\\. Estamos sempre felizes em criar experiências memoráveis para todos."
+                  "en_US": "Você o destruiu?\\. Haha, incrível.\\. É uma alegria para nós criar experiências inesquecíveis para todos."
                 }
               },
               "8": {
@@ -305,7 +305,7 @@
               "11": {
                 "message": {
                   "": "Yes, games may be the thing of the future, unifying gamers as a big gaming force of positivity!",
-                  "en_US": "Sim, jogos podem ser a coisa do futuro, unificando os jogadores como uma grande força de jogo de positividade!"
+                  "en_US": "Sim, os jogos podem ser o futuro, unindo jogadores como uma grande força positiva!"
                 }
               },
               "12": {
@@ -316,7 +316,7 @@
               "13": {
                 "message": {
                   "": "... but right now, talking to you is making me get my butt kicked. So please go away and talk to someone else.",
-                  "en_US": "... mas neste momento, falar com você está me fazendo levar um chute no traseiro. Portanto, por favor, vá embora e fale com outra pessoa."
+                  "en_US": "...mas agora, conversar com você está me fazendo apanhar feio. Então, por favor, vá falar com outra pessoa."
                 }
               },
               "14": {
@@ -411,7 +411,7 @@
               "9": {
                 "message": {
                   "": "Despite the accident, we still had funds and a lot of connections.\\. Enough to raise another small facility together.",
-                  "en_US": "Apesar do acidente, ainda tínhamos fundos e muitas conexões.\\. O suficiente para levantarmos juntos mais uma pequena instalação."
+                  "en_US": "Apesar do acidente, tínhamos fundos e conexões suficientes para construirmos uma nova instalação."
                 }
               },
               "10": {
@@ -435,7 +435,7 @@
               "13": {
                 "message": {
                   "": "We learned a lot in the previous project.\\. So we are now able to run this new place in harmony with the Track, without any incidents.",
-                  "en_US": "Aprendemos muito no projeto anterior.\\. Portanto, agora somos capazes de administrar este novo lugar em harmonia com a Trilha, sem incidentes."
+                  "en_US": "Aprendemos muito no projeto anterior.\\. Agora conseguimos gerenciar este novo lugar em harmonia com a Trilha, sem problemas."
                 }
               },
               "14": {
@@ -447,13 +447,13 @@
               "15": {
                 "message": {
                   "": "\\v[lore.title.seeker], I am tired and playing this game against my colleagues.",
-                  "en_US": "\\v[lore.title.seeker], Estou cansado e jogando este jogo contra meus colegas."
+                  "en_US": "\\v[lore.title.seeker], Estou me divertindo jogando este jogo com meus colegas."
                 }
               },
               "16": {
                 "message": {
                   "": "Please stop asking questions and let me smash their pride.",
-                  "en_US": "Por favor, pare de fazer perguntas e deixe-me esmagar o orgulho deles."
+                  "en_US": "Por favor, pare de fazer perguntas e me deixe esmagar o orgulho deles."
                 }
               },
               "17": {

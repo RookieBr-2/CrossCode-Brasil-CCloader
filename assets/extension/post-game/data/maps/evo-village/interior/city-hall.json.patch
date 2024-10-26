@@ -1280,7 +1280,7 @@
           },
           "33": {
             "message": {
-              "": "Huh?!"
+              "": "Que?!"
             }
           },
           "43": {
@@ -1314,7 +1314,7 @@
           "48": {
             "message": {
               "": "Uhm...\\. I'm sorry.",
-              "en_US": "Uhm...\\. Sinto muito."
+              "en_US": "Hmm...\\. Sinto muito."
             }
           },
           "49": {
@@ -1343,7 +1343,7 @@
           "64": {
             "message": {
               "": "Right now,\\. is there anything you remember?",
-              "en_US": "Agora,\\. tem alguma coisa que você lembra?"
+              "en_US": "Agora,\\. você lembra de alguma coisa?"
             }
           },
           "65": {
@@ -1360,7 +1360,7 @@
           "67": {
             "message": {
               "": "There...\\. There's nothing!",
-              "en_US": "Aqui...\\. Não há nada!"
+              "en_US": "Não consigo lembrar de nada!"
             }
           },
           "69": {
@@ -1408,7 +1408,7 @@
           "77": {
             "message": {
               "": "B-But...\\. I don't understand.",
-              "en_US": "M-Mas...\\. Eu não entendo."
+              "en_US": "M-Mas...\\. eu não entendo."
             }
           },
           "78": {
@@ -1444,13 +1444,13 @@
           "83": {
             "message": {
               "": "This is all...\\. a game?",
-              "en_US": "Isso é tudo...\\. um jogo?"
+              "en_US": "Isso aqui é...\\. um jogo?"
             }
           },
           "97": {
             "message": {
               "": "For the moment, it seems like his memory is almost blank.",
-              "en_US": "Por enquanto, parece que sua memória está quase em branco."
+              "en_US": "Por enquanto, parece que a memória dele está quase em branco."
             }
           },
           "98": {
@@ -1473,7 +1473,7 @@
           "101": {
             "message": {
               "": "You should be able to help with that, correct?",
-              "en_US": "Você deve poder ajudar com isso, correto?"
+              "en_US": "Você consegue ajudar com isso, correto?"
             }
           },
           "102": {
@@ -1484,7 +1484,7 @@
           "103": {
             "message": {
               "": "Just think of places where you had \\c[3]memorable moments\\c[0] with C'tron.",
-              "en_US": "Basta pensar nos lugares onde você teve \\c[3]momentos memoráveis\\c[0] com C'tron."
+              "en_US": "É só lembrar dos lugares onde você teve \\c[3]momentos memoráveis\\c[0] com C'tron."
             }
           },
           "104": {
@@ -1506,7 +1506,7 @@
           "108": {
             "message": {
               "": "The best way to trigger his memories is probably by visiting places you were together.",
-              "en_US": "A melhor maneira de ativar as memórias dele, provavelmente é visitando os lugares em que vocês estiveram juntos."
+              "en_US": "A melhor forma de recuperar as memórias dele é visitando os lugares onde vocês estiveram juntos."
             }
           },
           "109": {

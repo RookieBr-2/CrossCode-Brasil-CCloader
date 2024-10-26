@@ -120,7 +120,7 @@
           "47": {
             "message": {
               "": "So...\\. next should be the boss, right?",
-              "en_US": "Então...\\. o próximo deve ser o chefe, certo?"
+              "en_US": "Então...\\. o próximo deve ser o boss, não é?"
             }
           },
           "49": {
@@ -132,13 +132,13 @@
           "55": {
             "message": {
               "": "Hear us boss?\\. We're ready to take\\. you\\. ON!",
-              "en_US": "Está nos ouvindo, chefe?\\. Estamos prontos\\. para\\. VOCÊ!"
+              "en_US": "Está nos ouvindo, boss?\\. Você é\\. o\\. PRÓXIMO!"
             }
           },
           "57": {
             "message": {
               "": "Yes, yes.\\. Let's beat the boss already!",
-              "en_US": "Sim, sim.\\. Vamos derrotar esse chefe de uma vez!"
+              "en_US": "Sim, sim.\\. Vamos derrotar esse boss logo!"
             }
           },
           "58": {
@@ -160,7 +160,7 @@
           "65": {
             "message": {
               "": "Look...\\. If this is about what I said before...\\. I'm sorry, okay?",
-              "en_US": "Olha...\\. Se isso é sobre aquilo que eu falei antes...\\. Me desculpe, tá bem?"
+              "en_US": "Olha...\\. se isso tiver a ver com o que eu disse antes...\\. Me desculpe, tá bem?"
             }
           },
           "69": {
@@ -171,7 +171,7 @@
           "71": {
             "message": {
               "": "Just \\c[1]shut up\\c[0], alright?",
-              "en_US": "Apenas \\c[1]cale a boca\\c[0], tá bom?"
+              "en_US": "Cara,\\. só \\c[1]cala a boca\\c[0], tá bom?"
             }
           },
           "73": {
@@ -224,7 +224,7 @@
           "91": {
             "message": {
               "": "So please...",
-              "en_US": "So por favor..."
+              "en_US": "Por favor..."
             }
           },
           "92": {
@@ -246,7 +246,7 @@
           "95": {
             "message": {
               "": "Let's beat that boss.",
-              "en_US": "Vamos derrotar esse chefe."
+              "en_US": "Vamos derrotar esse boss."
             }
           },
           "96": {
@@ -257,7 +257,7 @@
           "97": {
             "message": {
               "": "Let's go on, everyone!",
-              "en_US": "Vamos lá, todo mundo!"
+              "en_US": "Vamos lá, gente!"
             }
           },
           "108": {
@@ -269,7 +269,7 @@
           "109": {
             "message": {
               "": "Where's the boss now, exactly?",
-              "en_US": "Agora, onde exatamente está o chefe?"
+              "en_US": "Onde está o boss?"
             }
           },
           "122": {

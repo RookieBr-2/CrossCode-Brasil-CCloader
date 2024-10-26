@@ -44,13 +44,13 @@
                   "0": {
                     "message": {
                       "": "\\c[3]Red blocks\\c[0]! \\c[3]Heat\\c[0] is under fire now!",
-                      "en_US": "\\c[3]Blocos vermelhos\\c[0]! \\c[3]Fogo\\c[0] está sob ataque agora!"
+                      "en_US": "\\c[3]Blocos vermelhos\\c[0]! \\c[3]Fogo\\c[0] neles!"
                     }
                   },
                   "1": {
                     "message": {
                       "": "You waited for that one, didn't you?",
-                      "en_US": "Você esperou por isso, não é?"
+                      "en_US": "Você estava esperando pra soltar essa, não é?"
                     }
                   }
                 },
@@ -86,7 +86,7 @@
                       "0": {
                         "message": {
                           "": "Don't get cold feet now.",
-                          "en_US": "Não fique com os pés frios agora."
+                          "en_US": "Esses blocos estão numa fria."
                         }
                       }
                     }
@@ -154,7 +154,7 @@
                   "0": {
                     "message": {
                       "": "\\c[3]Green blocks\\c[0] now. Still got nothing.",
-                      "en_US": "\\c[3]Blocos verdes\\c[0] agora. Ainda não consegui nada."
+                      "en_US": "\\c[3]Blocos verdes\\c[0] agora. Ainda não consigo pensar em uma piada."
                     }
                   }
                 },
@@ -180,7 +180,7 @@
               "0": {
                 "message": {
                   "": "We put that heat down!",
-                  "en_US": "A gente abaixa esse calor!"
+                  "en_US": "A gente abaixou o calor!"
                 }
               }
             }
@@ -248,7 +248,7 @@
           "8": {
             "message": {
               "": "Well, here we are!\\. Fingers crossed things work out this time!",
-              "en_US": "Bem, aqui estamos nós!\\. Dedos cruzados, as coisas vão funcionar dessa vez!"
+              "en_US": "Chegamos!\\. Tomara que tudo dê certo dessa vez!"
             }
           },
           "9": {
@@ -295,7 +295,7 @@
                   "0": {
                     "message": {
                       "": "We almost got it!",
-                      "en_US": "Quase conseguimos!"
+                      "en_US": "Estamos quase lá!"
                     }
                   }
                 },
@@ -303,7 +303,7 @@
                   "0": {
                     "message": {
                       "": "We almost got it!",
-                      "en_US": "Quase conseguimos!"
+                      "en_US": "Estamos quase lá!"
                     }
                   }
                 }

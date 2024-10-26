@@ -1187,13 +1187,13 @@
           "15": {
             "message": {
               "": "Alright, time to hit the hay! ",
-              "en_US": "Certo, hora de ir dormir!"
+              "en_US": "Beleza, hora de dormir!"
             }
           },
           "16": {
             "message": {
               "": "Gotta sleep on that whole thing!",
-              "en_US": "Ir dormir pensando nisso tudo!"
+              "en_US": "Preciso dormir um pouco para me recuperar de tudo isso!"
             }
           },
           "17": {
@@ -1229,7 +1229,7 @@
           "32": {
             "message": {
               "": "Haaah, but finally it's done!\\. We finished the raid!\\. Feels good!",
-              "en_US": "Haaah, finalmente está feito!\\. Terminamos a raid!\\. Que sensação boa!"
+              "en_US": "Haaah, finalmente acabou!\\. Terminamos a raid!\\. Que sensação boa!"
             }
           },
           "33": {
@@ -1274,13 +1274,13 @@
           "40": {
             "message": {
               "": "Ever since we got the Meteor Shade... ",
-              "en_US": "Desde que pegamos a Sombra do Meteoro..."
+              "en_US": "Desde que pegamos o Fragmento do Meteoro..."
             }
           },
           "41": {
             "message": {
               "": "And some time ago, his account just disappeared.",
-              "en_US": "E há algum tempo, a conta dele simplesmente sumiu."
+              "en_US": "E, já faz um tempo que a conta dele simplesmente sumiu."
             }
           },
           "42": {
@@ -1297,13 +1297,13 @@
           "44": {
             "message": {
               "": "Never even said goodbye properly, that dork!\n",
-              "en_US": "Nunca nem se despediu direito, aquele imbecil!\n"
+              "en_US": "Ele nem se despediu direito, aquele imbecil!\n"
             }
           },
           "45": {
             "message": {
               "": "Well, he certainly missed out today!",
-              "en_US": "Bem, ele certamente ficou de fora hoje!"
+              "en_US": "Pois é, ele perdeu essa raid!"
             }
           },
           "46": {
@@ -1333,7 +1333,7 @@
           "59": {
             "message": {
               "": "Uhm... Hello, Lea!",
-              "en_US": "Uhm... Olá, Lea!"
+              "en_US": "Hmm... Olá, Lea!"
             }
           },
           "60": {
@@ -1393,19 +1393,19 @@
           "10": {
             "message": {
               "": "This is a lovely village...",
-              "en_US": "Esta é uma vila encantadora..."
+              "en_US": "Essa é uma vila encantadora..."
             }
           },
           "11": {
             "message": {
               "": "So...\\. I'll just walk around with Lea and hopefully remember things?",
-              "en_US": "Então...\\. Vou apenas passear com a Lea e esperar lembrar das coisas?"
+              "en_US": "Então...\\. tenho que dar uma volta com a Lea e esperar que as lembranças voltem?"
             }
           },
           "13": {
             "message": {
               "": "That is right. ",
-              "en_US": "Tem razão."
+              "en_US": "Exatamente."
             }
           },
           "14": {
