@@ -4156,13 +4156,13 @@
           "9": {
             "message": {
               "": "Yes?",
-              "en_US": "Sim?"
+              "en_US": "O que foi?"
             }
           },
           "10": {
             "message": {
               "": "Is there something about this place?",
-              "en_US": "Há algo sobre este lugar?"
+              "en_US": "Tem algo especial sobre este lugar?"
             }
           },
           "11": {
@@ -4184,7 +4184,7 @@
           "14": {
             "message": {
               "": "What's this with your hand?",
-              "en_US": "O que é isto com a sua mão?"
+              "en_US": "O que você está fazendo com a mão?"
             }
           },
           "15": {
@@ -4221,7 +4221,7 @@
           },
           "21": {
             "message": {
-              "": "Oh!"
+              "": "Ah!"
             }
           },
           "22": {
@@ -4232,7 +4232,7 @@
           "23": {
             "message": {
               "": "Why did I do that now?",
-              "en_US": "Por que fiz isso agora?"
+              "en_US": "Por que eu fiz isso?"
             }
           },
           "24": {
@@ -4243,7 +4243,7 @@
           "25": {
             "message": {
               "": "This all feels very familiar suddenly.",
-              "en_US": "De repente, tudo isso parece muito familiar."
+              "en_US": "De repente, tenho a sensação de que já vi tudo isso antes."
             }
           },
           "26": {
@@ -4278,7 +4278,7 @@
           "38": {
             "message": {
               "": "Not right at this place, but somewhere close, right?",
-              "en_US": "Não neste lugar, mas em algum lugar próximo, certo?"
+              "en_US": "Não aqui, mas em algum lugar por perto, não é?"
             }
           },
           "39": {
@@ -4290,7 +4290,7 @@
           "40": {
             "message": {
               "": "We should go there!",
-              "en_US": "Nós deveríamos ir lá!"
+              "en_US": "Vamos até lá!"
             }
           },
           "41": {
@@ -4317,14 +4317,14 @@
           "event": {
             "0": {
               "text": {
-                "": "The duel will take place at\n\\c[3]Vale Castanho - Barren Land\\c[0].",
-                "en_US": "O duelo acontecerá em\n\\c[3]Maroon Valley - Barren Land\\c[0]."
+                "": "The duel will take place at\n\\c[3]Maroon Valley - Barren Land\\c[0].",
+                "en_US": "O duelo acontecerá em\n\\c[3]Vale Castanho - Terra Árida\\c[0]."
               }
             },
             "1": {
               "text": {
                 "": "The duel shall start \nwhen the area has been \n\\c[3]rid of all other opponents\\c[0].",
-                "en_US": "O duelo deve começar \nquando a área tiver sido \n\\c[3]livre de todos os outros oponentes\\c[0]."
+                "en_US": "O duelo terá início \nassim que todos os outros \n\\c[3]oponentes forem eliminados da área\\c[0]."
               }
             }
           }

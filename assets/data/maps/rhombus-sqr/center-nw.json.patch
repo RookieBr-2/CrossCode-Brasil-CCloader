@@ -1262,7 +1262,7 @@
           "1": {
             "text": {
               "": "Your words are sloppy, those rhymes are choppy so please don't be so cocky.",
-              "en_US": "Suas palavras não tem nexo, e tuas rimas são farelo então não seja um prego."
+              "en_US": "Suas palavras não tem nexo e tuas rimas são farelo, então não seja um prego."
             }
           },
           "2": {
@@ -1280,13 +1280,13 @@
           "0": {
             "text": {
               "": "What are these two dudes doing?",
-              "en_US": "O que esses dois caras estão fazendo?"
+              "en_US": "O que esses caras estão fazendo?"
             }
           },
           "1": {
             "text": {
               "": "It's some form of contest. Who can insult the other better, while also rhyming. ",
-              "en_US": "É uma forma de competição. Quem pode insultar o outro melhor, ao mesmo tempo em que rima."
+              "en_US": "É uma forma de competição. Onde o desafio é insultar o outro com rimas."
             }
           },
           "2": {
@@ -1304,13 +1304,13 @@
           "4": {
             "text": {
               "": "And they had to book a whole PvP Field for it?",
-              "en_US": "E eles tiveram que reservar um campo inteiro de PvP pra isso?"
+              "en_US": "E eles tinham que reservar um campo inteiro de PvP pra isso?"
             }
           },
           "5": {
             "text": {
               "": "Well, maybe they like the attention...",
-              "en_US": "Bem, talvez eles gostem de chamar a atenção..."
+              "en_US": "Talvez eles gostem de chamar a atenção..."
             }
           },
           "6": {
@@ -1328,31 +1328,31 @@
           "0": {
             "text": {
               "": "Ever noticed how you can find a lot of Mancers in the City?",
-              "en_US": "Você já notou que há muita maquinaria pesada aqui na cidade?"
+              "en_US": "Você já notou que tem muitos Esferomantes por aqui?"
             }
           },
           "1": {
             "text": {
               "": "Like, in the wild you rarely see them at all.",
-              "en_US": "Como, na natureza, você raramente vê isso."
+              "en_US": "Tipo, eu juro! Em outros lugares não aparece nenhum."
             }
           },
           "2": {
             "text": {
               "": "I guess it's because PvP is the most fun a Mancer can have at end game.",
-              "en_US": "Acho que é porque o PvP é o mais divertido que um Mancer pode ter no final do jogo."
+              "en_US": "Acho que é porque o PvP é a maior diversão que um Esferomante pode ter no final do jogo."
             }
           },
           "3": {
             "text": {
               "": "With them being so balanced the fights are usually pretty entertaining.",
-              "en_US": "Com eles sendo tão equilibrados, as lutas geralmente são bastante divertidas."
+              "en_US": "Como eles são equilibrados, as lutas geralmente ficam bem divertidas."
             }
           },
           "4": {
             "text": {
               "": "Huh, now that you mention it...",
-              "en_US": "Ahh, agora que você mencionou..."
+              "en_US": "Ahh, falando nisso..."
             }
           }
         }

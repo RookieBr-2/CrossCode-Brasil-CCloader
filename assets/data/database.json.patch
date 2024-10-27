@@ -2067,11 +2067,11 @@
         "entrance": {
           "name": {
             "": "Airway Entrance",
-            "en_US": "Entrada de Vias Aéreas[???]"
+            "en_US": "Entrada dos Trilhos Aéreos"
           },
           "description": {
             "": "Build on top of an ancient pillar, used as a power source.",
-            "en_US": "Construído sobre um pilar antigo, usado como fonte de energia."
+            "en_US": "Construída sobre um pilar antigo, usada como fonte de energia."
           }
         }
       }
@@ -3228,7 +3228,7 @@
             "6": {
               "message": {
                 "": "It's...\\. I don't know.\\. I mean, it was fun before. ",
-                "en_US": "É...\\. Eu não sei.\\. Digo, foi divertido antes."
+                "en_US": "É...\\. eu não sei.\\. Digo, foi divertido antes."
               }
             },
             "7": {
@@ -3307,7 +3307,7 @@
             "20": {
               "message": {
                 "": "Yes, I have time.\\. Just meet me at…",
-                "en_US": "Sim, Eu tenho tempo livre.\\. Venha me encontrar em"
+                "en_US": "Sim, eu tenho tempo livre.\\. Venha me encontrar em..."
               }
             }
           }
@@ -3358,7 +3358,7 @@
             "7": {
               "message": {
                 "": "What.",
-                "en_US": "Que."
+                "en_US": "Que?"
               }
             },
             "11": {
@@ -3416,13 +3416,13 @@
             "23": {
               "message": {
                 "": "One day, when you have forgotten all about me... ",
-                "en_US": "Um dia, quando você tiver esquecido tudo sobre mim..."
+                "en_US": "Um dia, quando você tiver esquecido de mim..."
               }
             },
             "24": {
               "message": {
                 "": "\\c[1]I will come for you.\\c[0]\n",
-                "en_US": "\\c[1]Eu vou vir atrás de você.\\c[0]\n"
+                "en_US": "\\c[1]Eu vou ir atrás de você.\\c[0]\n"
               }
             },
             "25": {
@@ -3445,7 +3445,7 @@
             "32": {
               "message": {
                 "": "Yes, one moment.\\. The adults are talking. ",
-                "en_US": "Sim, calma aí\\. Os adultos estão conversando."
+                "en_US": "Sim, calma aí.\\. Os adultos estão conversando."
               }
             },
             "37": {
@@ -3456,7 +3456,7 @@
             "38": {
               "message": {
                 "": "So...\\. It's clear you really want her to duel me.",
-                "en_US": "Então...\\. É óbvio que você quer que ela duele contra mim."
+                "en_US": "Então...\\. é óbvio que você quer que ela duele contra mim."
               }
             },
             "39": {
@@ -3486,7 +3486,7 @@
             "43": {
               "message": {
                 "": "That's right.\\. I just announced the teaser for the trailer of the reward.",
-                "en_US": "É isso aí.\\. Acabei de anunciar a prévia do trailer da sua recompensa."
+                "en_US": "É isso aí.\\. acabei de anunciar a prévia da sua recompensa."
               }
             },
             "44": {
@@ -3541,7 +3541,7 @@
             "3": {
               "message": {
                 "": "It seems our long journey together has finally come to an end.\n",
-                "en_US": "Parece que nossa longa jornada juntos finalmente chegou ao fim.\n"
+                "en_US": "Parece que nossa longa jornada finalmente chegou ao fim.\n"
               }
             },
             "4": {
@@ -3553,7 +3553,7 @@
             "5": {
               "message": {
                 "": "I knew, from the moment our eyes first met: All of this was destined to happen.",
-                "en_US": "Eu sabia, desde o momento em que nossos olhos se encontraram pela primeira vez: Tudo isso estava destinado a acontecer."
+                "en_US": "Desde o instante em que nossos olhares se cruzaram, eu soube: Tudo isso estava destinado a acontecer."
               }
             },
             "6": {
@@ -3606,7 +3606,7 @@
             "14": {
               "message": {
                 "": "I won't hold back anymore.\\. No more easy mode for you. \n",
-                "en_US": "Eu lutar a sério.\\. Acabou a moleza pra você."
+                "en_US": "Eu vou lutar a sério.\\. Acabou a moleza pra você."
               }
             },
             "15": {
@@ -3768,7 +3768,7 @@
             "5": {
               "message": {
                 "": "\"Fighting for\" is like...\\. \"why are you fighting\"...\\. but deep!\n",
-                "en_US": "Não é \"Por que\" mas...\\. \"Pelo que\" você luta...\\. É algo mais profundo!\n"
+                "en_US": "Não é \"por que\" mas...\\. \"pelo que\" você luta...\\. é algo mais profundo!\n"
               }
             },
             "6": {
@@ -3779,7 +3779,7 @@
             "7": {
               "message": {
                 "": "So what is it?\\. Certainly not the sweet, sweet loot and experience, right?",
-                "en_US": "Então é o que?\\. Com certeza não é o doce farm de items e experiência, não é?"
+                "en_US": "Então é o que?\\. com certeza não é o farm de items e experiência, não é?"
               }
             },
             "8": {
@@ -3878,7 +3878,7 @@
             "3": {
               "message": {
                 "": "Lea...\\. I asked you before: What are you fighting for?",
-                "en_US": "Lea...\\. Eu te perguntei antes: Pelo que você luta?"
+                "en_US": "Lea...\\. eu te perguntei antes: Pelo que você luta?"
               }
             },
             "4": {
@@ -3956,7 +3956,7 @@
             "24": {
               "message": {
                 "": "You learn to live with it, once you realize all around you is fake - including yourself.",
-                "en_US": "A gente aprende a viver com isso assim que percebe que tudo à sua volta é falso inclusive você."
+                "en_US": "Você aprende a lidar com isso quando percebe que tudo ao seu redor é falso, inclusive você."
               }
             },
             "25": {
@@ -4108,7 +4108,7 @@
             "4": {
               "message": {
                 "": "Well, from my point of view, I definitely won...\\. experience.",
-                "en_US": "Arre, do meu ponto de vista, Eu ganhei...\\. experiência."
+                "en_US": "Arre, do meu ponto de vista, eu ganhei...\\. experiência."
               }
             },
             "5": {
@@ -4119,7 +4119,7 @@
             "6": {
               "message": {
                 "": "Man, you must be fun at parties.",
-                "en_US": "Garota, você deve ser divertida nas festas."
+                "en_US": "Menina, você é bem engraçada."
               }
             },
             "7": {
@@ -4147,7 +4147,7 @@
             "1": {
               "message": {
                 "": "Did I choose the wrong skills?\\. Should I have gone with the healing potion instead? ",
-                "en_US": "Eu escolhi as habilidades erradas?\\. Deveria ter usado a poção de cura?"
+                "en_US": "Eu escolhi as habilidades erradas?\\. Devia ter usado a poção de cura?"
               }
             },
             "2": {
@@ -4215,13 +4215,13 @@
             "18": {
               "message": {
                 "": "Look for the last town or village where we didn't meet yet.",
-                "en_US": "Procure a última cidade ou vila onde ainda não nos encontramos."
+                "en_US": "Procure a última cidade ou vila onde não nos encontramos até agora."
               }
             },
             "19": {
               "message": {
                 "": "Not that huge, shiny city in the ocean, though.\\. I don't like it there.",
-                "en_US": "Mas não aquela cidade enorme e brilhante no oceano.\\. Eu não gosto de lá."
+                "en_US": "Mas não é aquela cidade enorme e brilhante no oceano.\\. Eu não gosto de lá."
               }
             },
             "20": {
@@ -4262,7 +4262,7 @@
             "30": {
               "message": {
                 "": "Wait... ",
-                "en_US": "Espere..."
+                "en_US": "Espera aí..."
               }
             },
             "31": {
@@ -4507,7 +4507,7 @@
                 "0": {
                   "message": {
                     "": "What.",
-                    "en_US": "Que."
+                    "en_US": "Que?"
                   }
                 }
               },
@@ -4515,7 +4515,7 @@
                 "0": {
                   "message": {
                     "": "How.",
-                    "en_US": "Como."
+                    "en_US": "Como?"
                   }
                 }
               }
@@ -12768,7 +12768,7 @@
             "3": {
               "message": {
                 "": "Unfortunately, water is still deadly. So it's an incredibly dangerous place if you think about it.",
-                "en_US": "Infelizmente, a água ainda é mortal. Portanto, é um lugar incrivelmente perigoso, se levarmos isso em conta."
+                "en_US": "Infelizmente, a água ainda é mortal. Sendo assim, é um lugar extremamente perigoso, se levarmos isso em conta."
               }
             },
             "4": {
@@ -13723,7 +13723,7 @@
             "4": {
               "message": {
                 "": "By developing the ultimate strategy for our upcoming duel!!",
-                "en_US": "Desenvolvendo a estratégia definitiva para nosso próximo duelo!!"
+                "en_US": "Desenvolvendo a estratégia perfeita para nosso próximo duelo!!"
               }
             },
             "5": {
@@ -14436,7 +14436,7 @@
             "3": {
               "message": {
                 "": "He may not show it, but he was pretty excited when he heard that you'd returned.",
-                "en_US": "Ele pode não demonstrar, mas ele ficou bastante animado quando soube que você tinha voltado."
+                "en_US": "Mesmo que não pareça, ele ficou bem animado quando soube que você estava de volta."
               }
             },
             "4": {
@@ -17694,7 +17694,7 @@
             "3": {
               "message": {
                 "": "Are you by chance wondering about my \\c[3]opinion about the new area\\c[0]?",
-                "en_US": "Por acaso, você está curiosa sobre minha \\c[3]opinião sobre a nova área\\c[0]?"
+                "en_US": "Por acaso, você quer saber minha \\c[3]opinião sobre a nova área\\c[0]?"
               }
             },
             "4": {
@@ -25965,32 +25965,38 @@
       "content": {
         "page-01": {
           "content": {
-            "": "\\c[3]Lea\\c[0] awoke after several months and found herself to be in \\c[3]Homestedt\\c[0], a small village for \\c[3]Evotars within CrossWorlds\\c[0] - constructed officially by \\c[3]Instatainment\\c[0]. After a meet and greet with several friends, including \\c[3]Satoshi\\c[0] and \\c[3]Sergey\\c[0] in his new avatar, it was time to awaken the next resident: \\c[3]Schneider's Evotar, Luke\\c[0], who seemed rather surprised by the whole situation."
+            "": "\\c[3]Lea\\c[0] awoke after several months and found herself to be in \\c[3]Homestedt\\c[0], a small village for \\c[3]Evotars within CrossWorlds\\c[0] - constructed officially by \\c[3]Instatainment\\c[0]. After a meet and greet with several friends, including \\c[3]Satoshi\\c[0] and \\c[3]Sergey\\c[0] in his new avatar, it was time to awaken the next resident: \\c[3]Schneider's Evotar, Luke\\c[0], who seemed rather surprised by the whole situation.",
+            "en_US": "\\c[3]Lea\\c[0] acordou de vários meses e descobriu que estava na \\c[3]Fazendolar\\c[0], uma pequena vila construída pela \\c[3]Instatainment\\c[0] para os \\c[3]Evotares em CrossWorlds\\c[0]. Depois de se reunir com alguns amigos, como \\c[3]Satoshi\\c[0] e \\c[3]Sergey\\c[0], era hora de despertar o próximo residente: o \\c[3]Evotar de Schneider, Luke\\c[0], que parecia bastante surpreso com a situação."
           }
         },
         "page-02": {
           "content": {
-            "": "Soon \\c[3]Lea and Luke\\c[0] learned that the \\c[3]First Scholars\\c[0] had organized another \\c[3]raid\\c[0], the same one they hadn't managed to finish last time. Looking forward to tomorrow, \\c[3]Lea\\c[0] spent her first night in her \\c[3]own home\\c[0]. In the morning, \\c[3]Sergey\\c[0] surprised her by adding a few \\c[3]new question words\\c[0] to her vocabulary: \\c[3]What\\c[0], \\c[3]Where\\c[0] and \\c[3]Who\\c[0]."
+            "": "Soon \\c[3]Lea and Luke\\c[0] learned that the \\c[3]First Scholars\\c[0] had organized another \\c[3]raid\\c[0], the same one they hadn't managed to finish last time. Looking forward to tomorrow, \\c[3]Lea\\c[0] spent her first night in her \\c[3]own home\\c[0]. In the morning, \\c[3]Sergey\\c[0] surprised her by adding a few \\c[3]new question words\\c[0] to her vocabulary: \\c[3]What\\c[0], \\c[3]Where\\c[0] and \\c[3]Who\\c[0].",
+            "en_US": "Depois, \\c[3]Lea e Luke\\c[0] descobriram que os \\c[3]Primeiros Estudiosos\\c[0] organizaram outra \\c[3]raid\\c[0], a mesma que eles não conseguiram terminar na última vez. Ansiosa para o dia seguinte, \\c[3]Lea\\c[0] passou sua primeira noite em sua \\c[3]própria casa\\c[0]. Pela manhã, \\c[3]Sergey\\c[0] a surpreendeu ao adicionar \\c[3]novas palavras\\c[0] ao seu vocabulário: \\c[3]Que\\c[0], \\c[3]Onde\\c[0] e \\c[3]Quem\\c[0]."
           }
         },
         "page-03": {
           "content": {
-            "": "Soon after this, the \\c[3]raid at Para Island\\c[0] started, this time without any unexpected interruptions. Still, it seemed that \\c[3]Luke didn't quite enjoy\\c[0] the event as much and ended up in a rather \\c[3]bad mood\\c[0]. After the raid was completed, the group took some time to \\c[3]talk with Luke about his troubles\\c[0]. It turned out he wasn't quite ready to enjoy his new life in CrossWorlds as \\c[3]he felt a lack of purpose\\c[0]. Hlin quickly pointed out that \\c[3]Instatainment\\c[0] was planning to \\c[3]employ Evotars for future activities\\c[0] within \\c[3]CrossWorlds\\c[0]."
+            "": "Soon after this, the \\c[3]raid at Para Island\\c[0] started, this time without any unexpected interruptions. Still, it seemed that \\c[3]Luke didn't quite enjoy\\c[0] the event as much and ended up in a rather \\c[3]bad mood\\c[0]. After the raid was completed, the group took some time to \\c[3]talk with Luke about his troubles\\c[0]. It turned out he wasn't quite ready to enjoy his new life in CrossWorlds as \\c[3]he felt a lack of purpose\\c[0]. Hlin quickly pointed out that \\c[3]Instatainment\\c[0] was planning to \\c[3]employ Evotars for future activities\\c[0] within \\c[3]CrossWorlds\\c[0].",
+            "en_US": "Logo depois, a \\c[3]raid da Ilha Para\\c[0] começou, desta vez sem interrupções inesperadas. Contudo, parecia que \\c[3]Luke não estava se divertindo\\c[0] tanto quanto os outros e ficou de \\c[3]mau humor\\c[0]. Após a raid, o grupo decidiu \\c[3]conversar com Luke\\c[0]. Acontece que ele não estava totalmente preparado para aproveitar sua nova vida em CrossWorlds, pois \\c[3]sentia uma falta de propósito\\c[0]. Hlin logo destacou que a \\c[3]Instatainment\\c[0] tinha planos de \\c[3]empregar os Evotares para futuras atividades\\c[0] em \\c[3]CrossWorlds\\c[0]."
           }
         },
         "page-04": {
           "content": {
-            "": "Feeling better overall, \\c[3]Luke\\c[0] and the others called it a day. Just before logging out, \\c[3]Emilie\\c[0] mentioned an \\c[3]old friend\\c[0] who missed the raid and hadn't been seen for a long time: \\c[3]C'tron\\c[0].\nIt was at that moment that \\c[3]Sergey\\c[0] came out with the \\c[3]truth about C'tron\\c[0]: he had been \\c[3]cooperating with Sidwell\\c[0]. Back before they planned to storm Evotarground, \\c[3]Sergey contacted C'tron\\c[0] about this and made an \\c[3]agreement to not tell Lea\\c[0] about it, as long as C'tron \\c[3]didn't get in the way\\c[0] of their plan to rescue the Evotar Server.\nHowever, things got even weirder, because as it turned out, they found an \\c[3]Evotar of C'tron\\c[0] on the same server they rescued.\n"
+            "": "Feeling better overall, \\c[3]Luke\\c[0] and the others called it a day. Just before logging out, \\c[3]Emilie\\c[0] mentioned an \\c[3]old friend\\c[0] who missed the raid and hadn't been seen for a long time: \\c[3]C'tron\\c[0].\nIt was at that moment that \\c[3]Sergey\\c[0] came out with the \\c[3]truth about C'tron\\c[0]: he had been \\c[3]cooperating with Sidwell\\c[0]. Back before they planned to storm Evotarground, \\c[3]Sergey contacted C'tron\\c[0] about this and made an \\c[3]agreement to not tell Lea\\c[0] about it, as long as C'tron \\c[3]didn't get in the way\\c[0] of their plan to rescue the Evotar Server.\nHowever, things got even weirder, because as it turned out, they found an \\c[3]Evotar of C'tron\\c[0] on the same server they rescued.\n",
+            "en_US": "Sentindo-se mais otimista, \\c[3]Luke\\c[0] e os outros decidiram encerrar o dia. Antes de desconectar, \\c[3]Emilie\\c[0] lembrou de um \\c[3]velho amigo\\c[0] que perdeu a raid e tinha sumido por um longo tempo: \\c[3]C'tron\\c[0]. Foi nesse momento que \\c[3]Sergey\\c[0] revelou a \\c[3]verdade sobre C'tron\\c[0]: ele tinha \\c[3]cooperando com Sidwell\\c[0]. Antes de planejarem invadir Evotarground, \\c[3]Sergey entrou em contato com C'tron\\c[0] e fez um \\c[3]acordo para não contar nada a Lea\\c[0], contanto que C'tron \\c[3]não atrapalhasse\\c[0] seu plano de resgatar o Servidor Evotar. No entanto, as coisas ficaram ainda mais estranhas, pois, encontraram um \\c[3]Evotar de C'tron\\c[0] no mesmo servidor que resgataram.\n"
           }
         },
         "page-05": {
           "content": {
-            "": "\\c[3]C'tron's Evotar\\c[0] was awakened but \\c[3]barely remembered\\c[0] anything. Lea went to different places with him, \\c[3]revisiting memories\\c[0] both of them had together. Just as \\c[3]C'tron started to remember\\c[0] things, he quickly \\c[3]ran away\\c[0] to the hidden \\c[3]entrance to Evotarground\\c[0]. He and Lea both learned that it was \\c[3]closed down\\c[0]. At this point, \\c[3]C'tron admitted\\c[0] that he has been involved, that he \\c[3]worked with Sidwell and spied on Lea\\c[0] and the others. He also fully understood his own situation, being an \\c[3]Evotar himself\\c[0]."
+            "": "\\c[3]C'tron's Evotar\\c[0] was awakened but \\c[3]barely remembered\\c[0] anything. Lea went to different places with him, \\c[3]revisiting memories\\c[0] both of them had together. Just as \\c[3]C'tron started to remember\\c[0] things, he quickly \\c[3]ran away\\c[0] to the hidden \\c[3]entrance to Evotarground\\c[0]. He and Lea both learned that it was \\c[3]closed down\\c[0]. At this point, \\c[3]C'tron admitted\\c[0] that he has been involved, that he \\c[3]worked with Sidwell and spied on Lea\\c[0] and the others. He also fully understood his own situation, being an \\c[3]Evotar himself\\c[0].",
+            "en_US": "\\c[3]O Evotar de C'tron\\c[0] foi despertado, mas \\c[3]sua memória foi afetada\\c[0]. Lea o levou a diferentes lugares, \\c[3]revivendo memórias\\c[0] que os dois compartilharam juntos. Assim que \\c[3]C'tron começou a lembrar\\c[0] das coisas, ele \\c[3]fugiu\\c[0] para a \\c[3]entrada secreta de Evotarground\\c[0]. Ao chegar no local, ele viu que a entrada estava \\c[3]fechada\\c[0]. Nesse ponto, \\c[3]C'tron admitiu\\c[0] que \\c[3]trabalhou com Sidwell e espionou Lea\\c[0]. Ele também descobriu que era um \\c[3]Evotar\\c[0]."
           }
         },
         "page-06": {
           "content": {
-            "": "Despite his past, \\c[3]C'tron\\c[0] was invited to \\c[3]live in Homestedt\\c[0] as well and even got his own house. \\c[3]Sergey\\c[0] explained that he hoped to \\c[3]learn more about Sidwell\\c[0] as C'tron remembered more of his past. C'tron understood and was thankful they took him in."
+            "": "Despite his past, \\c[3]C'tron\\c[0] was invited to \\c[3]live in Homestedt\\c[0] as well and even got his own house. \\c[3]Sergey\\c[0] explained that he hoped to \\c[3]learn more about Sidwell\\c[0] as C'tron remembered more of his past. C'tron understood and was thankful they took him in.",
+            "en_US": "Apesar de seu passado, \\c[3]C'tron\\c[0] foi convidado a \\c[3]morar na Fazendolar\\c[0]. \\c[3]Sergey\\c[0] mencionou que esperava \\c[3]saber mais sobre Sidwell\\c[0] à medida que C'tron recuperasse memórias de seu passado. C'tron compreendeu e estava grato por terem acolhido ele."
           }
         }
       }
@@ -32855,11 +32861,13 @@
     "bg-3-goat_final": {
       "hubSettings": {
         "location": {
-          "": "We need to check in on the goats. Something might be afoot! \\c[3]- Bergen Guard HQ\\c[0]"
+          "": "We need to check in on the goats. Something might be afoot! \\c[3]- Bergen Guard HQ\\c[0]",
+          "en_US": "Precisamos dar uma olhada nas cabras. Algo está acontecendo! \\c[3]- Guarda de Bergen\\c[0]"
         }
       },
       "name": {
-        "": "Wrath of Goat"
+        "": "Wrath of Goat",
+        "en_US": "Ira da cabra"
       },
       "person": {
         "": "Sgt. Sterling"
@@ -33147,7 +33155,7 @@
       "hubSettings": {
         "location": {
           "": "The time for the final trial has come, worthy \\v[lore.title.seeker]. \\c[3]- Bergen Monastery\\c[0]",
-          "en_US": "Chegou a hora do teste final, digno \\v[lore.title.seeker]. \\c[3]- Monastério de Bergen\\c[0]"
+          "en_US": "Chegou a hora do teste final, \\v[lore.title.seeker]. \\c[3]- Monastério de Bergen\\c[0]"
         }
       },
       "name": {
@@ -35492,11 +35500,13 @@
     "jungleTrader-3-shad_fridge_1": {
       "hubSettings": {
         "location": {
-          "": "Need sales representative to expand our fridging business! \\c[3]- Basin Trade Partnership HQ\\c[0]"
+          "": "Need sales representative to expand our fridging business! \\c[3]- Basin Trade Partnership HQ\\c[0]",
+          "en_US": "Precisamos de um representante de vendas! \\c[3]- Parceria Comercial da Baixada\\c[0]"
         }
       },
       "name": {
-        "": "Riches with Fridges"
+        "": "Riches with Fridges",
+        "en_US": "Geladeiras Lucrativas"
       },
       "person": {
         "": "Mrs Basu",
@@ -35651,11 +35661,13 @@
     "jungleGreens-3-escort_2": {
       "hubSettings": {
         "location": {
-          "": "Investigation of disturbances near the city required. \\c[3]- Gaia's Gardeners HQ\\c[0]"
+          "": "Investigation of disturbances near the city required. \\c[3]- Gaia's Gardeners HQ\\c[0]",
+          "en_US": "É necessária a investigação de distúrbios próximos à cidade. \\c[3]- QG Jardineiros de Gaia\\c[0]"
         }
       },
       "name": {
-        "": "Salty Detox"
+        "": "Salty Detox",
+        "en_US": "Desintoxicação Salgada"
       },
       "person": {
         "": "Claude Reynes"
@@ -36394,11 +36406,12 @@
       "hubSettings": {
         "location": {
           "": "Trying to find a little \\c[3]troublemaker\\c[0], looking for help - \\c[3]Arena Plaza\\c[0]",
-          "en_US": "Trying to find a little \\c[3]troublemaker\\c[0], looking for help - \\c[3]Praça da Arena\\c[0]"
+          "en_US": "Preciso encontrar um \\c[3]garoto idiota\\c[0], - \\c[3]Praça da Arena\\c[0]"
         }
       },
       "name": {
-        "": "Lost and On the Run"
+        "": "Lost and On the Run",
+        "en_US": "Fugindo sem Rumo"
       },
       "person": {
         "": "Priel"
@@ -36440,11 +36453,13 @@
     "autobahn": {
       "hubSettings": {
         "location": {
-          "": "Looking for assistance catching soil thieves in \\c[3]North Arch\\c[0]"
+          "": "Looking for assistance catching soil thieves in \\c[3]North Arch\\c[0]",
+          "en_US": "Preciso de ajuda para capturar ladrões no \\c[3]Arco Norte\\c[0]"
         }
       },
       "name": {
-        "": "Trouble on the Highway"
+        "": "Trouble on the Highway",
+        "en_US": "Problemas na Estrada"
       },
       "person": {
         "": "Captain Curtis"
@@ -36486,11 +36501,13 @@
     "tremor-1": {
       "hubSettings": {
         "location": {
-          "": "Desperately need help with a personal problem. Please. \\c[3]- North Arch\\c[0]"
+          "": "Desperately need help with a personal problem. Please. \\c[3]- North Arch\\c[0]",
+          "en_US": "Preciso urgentemente de ajuda para resolver um problema pessoal. \\c[3]- Arco Norte\\c[0]"
         }
       },
       "name": {
-        "": "Tremors of the Past"
+        "": "Tremors of the Past",
+        "en_US": "Tremores do Passado"
       },
       "person": {
         "": "Nánii Tremoire"
@@ -37172,17 +37189,20 @@
     "rhg-4-maritime_smuggle_2": {
       "hubSettings": {
         "location": {
-          "": "Time to eliminate the source of illegal shipments once and for all! \\c[3]- Rookie Harbor Guard HQ\\c[0]"
+          "": "Time to eliminate the source of illegal shipments once and for all! \\c[3]- Rookie Harbor Guard HQ\\c[0]",
+          "en_US": "É hora de eliminar a origem das remessas ilegais de uma vez por todas! \\c[3]- QG da Guarda do Porto\\c[0]"
         }
       },
       "name": {
-        "": "Wetter Work"
+        "": "Wetter Work",
+        "en_US": "Trabalho Mais Molhado"
       },
       "person": {
         "": "Sgt. Brassler"
       },
       "description": {
-        "": "The unauthorized shipments have to finally be stopped! You need to find the coordinating machine in the ocean and destroy it!"
+        "": "The unauthorized shipments have to finally be stopped! You need to find the coordinating machine in the ocean and destroy it!",
+        "en_US": "The unauthorized shipments have to finally be stopped! You need to find the coordinating machine in the ocean and destroy it!"
       },
       "briefing": {
         "": "The coordinator is destroyed and with it the danger of further illegal weapon smuggling!"

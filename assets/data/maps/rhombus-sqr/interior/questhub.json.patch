@@ -28,7 +28,7 @@
               "3": {
                 "message": {
                   "": "Here you can find the \\c[3]Global Quest Board\\c[0] listing \\c[3]available quests in all of Shadoon\\c[0]!",
-                  "en_US": "Aqui você encontra o \\c[3]Quadro de Missões Globais\\c[0] listando as \\c[3]missões disponíveis em toda o Shadoon\\c[0]!"
+                  "en_US": "Aqui você encontra o \\c[3]Quadro Global de Missões\\c[0] que lista as \\c[3]missões disponíveis em Shadoon\\c[0]!"
                 }
               },
               "4": {
@@ -47,13 +47,13 @@
           "0": {
             "text": {
               "": "Everyone, join us!",
-              "en_US": "Todos, juntem-se a nós!"
+              "en_US": "Galera, venham se juntar a nós!"
             }
           },
           "1": {
             "text": {
               "": "Sitting on tables is the best!",
-              "en_US": "Sentar-se em mesas é incrível!"
+              "en_US": "Sentar nas mesas é incrível!"
             }
           },
           "2": {
@@ -71,19 +71,19 @@
           "4": {
             "text": {
               "": "Together let's spread the joy of \\c[3]sitting on tables\\c[0]!",
-              "en_US": "Juntos vamos espalhar a alegria de \\c[3]sentar em mesas\\c[0]!"
+              "en_US": "Juntos vamos espalhar a alegria de \\c[3]sentar nas mesas\\c[0]!"
             }
           },
           "5": {
             "text": {
               "": "Please return the tables to their original positions!",
-              "en_US": "Por favor, devolva as mesas às suas posições originais!"
+              "en_US": "Por favor, devolvam as mesas às suas posições originais!"
             }
           },
           "6": {
             "text": {
               "": "Ugh...\\. we'll so get into trouble for this.",
-              "en_US": "Ahr...\\. nós vamos ter problemas por isso."
+              "en_US": "Aí...\\. nós vamos ter problemas por isso."
             }
           }
         }
@@ -101,7 +101,7 @@
           "1": {
             "text": {
               "": "To be fair, they probably didn't expect players to find a way to move the tables.",
-              "en_US": "Para ser justo, eles provavelmente não esperavam que os jogadores encontrassem uma forma de mover as mesas."
+              "en_US": "Eles não esperavam que os jogadores fossem capazes de mover as mesas."
             }
           },
           "2": {

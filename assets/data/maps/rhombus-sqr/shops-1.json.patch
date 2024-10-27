@@ -14603,7 +14603,7 @@
             "entity": { "global": true, "name": "newGearAdvisor" },
             "text": {
               "": "\\c[3]New Gear\\c[0] available as of today!",
-              "en_US": "\\c[3]Novos equipamentos\\c[0] disponíveis a partir de hoje!",
+              "en_US": "\\c[3]Novos equipamentos\\c[0] estão disponíveis a partir de hoje!",
               "de_DE": "\\c[3]Neue Ausr\u00fcstung\\c[0] seit heute verf\u00fcgbar!",
               "zh_CN": "\\c[3]\u65b0\u88c5\u5907\\c[0]\u4eca\u5929\u4e0a\u67b6\u5566\uff01<<A<<[CHANGED 2021/02/24]",
               "zh_TW": "\u528d\uff0c\u62f3\u5957\uff0c\u5361\u724c...\\.\u7d50\u679c\u6c92\u69cd\u3002<<A<<[CHANGED 2021/02/24]",
@@ -14629,7 +14629,7 @@
             "entity": { "global": true, "name": "newGearAdvisor" },
             "text": {
               "": "Make sure you are prepared for \\c[3]Azure Archipelago\\c[0] and what follows!",
-              "en_US": "Certifique-se de que você está bem preparado para o \\c[3]Arquipélago Azur\\c[0] e o que vem a seguir!",
+              "en_US": "É bom se preparar para o \\c[3]Arquipélago Azul\\c[0] e o que vem depois!",
               "de_DE": "Vergewissere dich, dass du f\u00fcr den \\c[3]Azur-Archipel\\c[0] und das Folgende gut vorbereitet bist!",
               "zh_CN": "\u786e\u4fdd\u81ea\u5df1\u4e3a\\c[3]\u78a7\u84dd\u7fa4\u5c9b\\c[0]\u548c\u4e4b\u540e\u7684\u6311\u6218\u505a\u597d\u51c6\u5907\uff01<<A<<[CHANGED 2021/02/24]",
               "zh_TW": "\u528d\uff0c\u62f3\u5957\uff0c\u5361\u724c...\\.\u7d50\u679c\u6c92\u69cd\u3002<<A<<[CHANGED 2021/02/24]",

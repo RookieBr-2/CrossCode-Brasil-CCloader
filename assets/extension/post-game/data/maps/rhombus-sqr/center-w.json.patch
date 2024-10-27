@@ -60,7 +60,7 @@
               "3": {
                 "message": {
                   "": "Great! Looks like I can just inject functionality by rewriting memory.",
-                  "en_US": "Excelente! Parece que posso apenas injetar funcionalidades reescrevendo a memória."
+                  "en_US": "Ótimo! Parece que posso adicionar funcionalidades reescrevendo a memória."
                 }
               },
               "4": {
@@ -84,7 +84,7 @@
               "7": {
                 "message": {
                   "": "Also UI changes should be feasible, maybe even inject entirely new UI.",
-                  "en_US": "Além disso, as alterações na IU devem ser viáveis, talvez até injetar uma I totalmente nova."
+                  "en_US": "Além disso, é provável que seja possível realizar alterações na interface, quem sabe até injetar uma interface nova."
                 }
               },
               "8": {
@@ -110,7 +110,7 @@
           "0": {
             "text": {
               "": "Please be advised to use the southern temporary bridge to cross the road safely.",
-              "en_US": "Por favor, esteja ciente de usar a ponte temporária sul, para atravessar a estrada com segurança."
+              "en_US": "Por favor, use a ponte temporária, para atravessar a estrada com segurança."
             }
           },
           "1": {
@@ -128,7 +128,7 @@
           "3": {
             "text": {
               "": "It's not like many people will use it anyway.",
-              "en_US": "Não é como se muitas pessoas A usassem mesmo."
+              "en_US": "Não acho que as pessoas vão usar ela, afinal."
             }
           },
           "4": {
@@ -158,19 +158,19 @@
           "1": {
             "text": {
               "": "What a joke. I just wanna hang out with my friends at the private beach.",
-              "en_US": "Que piada. Só quero ficar com meus amigos na praia particular."
+              "en_US": "Que piada. Eu quero ficar com meus amigos na praia particular."
             }
           },
           "2": {
             "text": {
               "": "I guess this is where they make all the money from, with all the content updates being free...",
-              "en_US": "Eu acho que é daí que eles ganham todo o dinheiro, com todas as atualizações de conteúdo sendo gratuitas..."
+              "en_US": "Acho que é assim que eles ganham dinheiro, com todas as atualizações de conteúdo sendo oferecidas gratuitamente..."
             }
           },
           "3": {
             "text": {
               "": "That... actually makes sense. Dammit now I can't be mad.",
-              "en_US": "Isso... realmente faz sentido. Caramba, agora não posso ficar bravo."
+              "en_US": "Isso... faz sentido. Caramba, agora não posso ficar bravo."
             }
           }
         }
@@ -194,13 +194,13 @@
           "0": {
             "text": {
               "": "Again someone interrupting\\..\\..\\..",
-              "en_US": "Mais uma vez alguém interrompendo\\..\\..\\.."
+              "en_US": "Olha, alguém chegou pra incomodar a gente de novo\\..\\..\\.."
             }
           },
           "1": {
             "text": {
               "": "It's that treasure.\\.\\. We'll find a better place next time.",
-              "en_US": "É aquele tesouro.\\.\\. Vamos encontrar um lugar melhor na próxima vez."
+              "en_US": "É por causa do tesouro.\\.\\. Vamos encontrar um lugar melhor na próxima vez."
             }
           }
         }
@@ -214,7 +214,7 @@
               "2": {
                 "message": {
                   "": "A friend of mine told me\\...\\..\\..\\. you can reach the other side via jumping over the cars here.",
-                  "en_US": "Um amigo meu me disse\\...\\..\\..\\. você pode chegar ao outro lado pulando sobre os carros aqui."
+                  "en_US": "Um amigo meu me contou\\...\\..\\..\\. que é possível chegar ao outro lado pulando sobre os carros."
                 }
               },
               "3": {
@@ -253,19 +253,19 @@
           "0": {
             "text": {
               "": "Where do we punch things next?",
-              "en_US": "Onde vamos socar as coisas a seguir?"
+              "en_US": "Onde vamos achar coisas pra socar?"
             }
           },
           "1": {
             "text": {
               "": "Anywhere, where there's stuff to punch!",
-              "en_US": "Em qualquer lugar, onde haja coisas para socar!"
+              "en_US": "Em qualquer lugar, onde tenham coisas para socar!"
             }
           },
           "2": {
             "text": {
               "": "I wanna punch snowy things!",
-              "en_US": "Eu quero socar coisas nevadas!"
+              "en_US": "Eu quero socar coisas congeladas!"
             }
           },
           "3": {
@@ -283,7 +283,7 @@
           "5": {
             "text": {
               "": "Don't worry, there's enough time to punch all the things!",
-              "en_US": "Não se preocupem, há tempo suficiente para socar tudo!"
+              "en_US": "Não se preocupem, tem tempo suficiente para socar tudo!"
             }
           }
         }

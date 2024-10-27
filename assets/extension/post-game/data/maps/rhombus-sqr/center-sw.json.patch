@@ -29,7 +29,7 @@
               "4": {
                 "message": {
                   "": "An excellent class choice, albeit one that is not very popular.",
-                  "en_US": "Uma escolha de classe excelente, embora não seja muito popular."
+                  "en_US": "Você escolheu a classe certa, embora não seja muito popular."
                 }
               },
               "5": {
@@ -41,7 +41,7 @@
               "6": {
                 "message": {
                   "": "If you ask me, I think players love being overpowered.",
-                  "en_US": "Se você me perguntar, acho que os jogadores amam ser apelões."
+                  "en_US": "Na minha opinião, acho que os jogadores amam ser apelões."
                 }
               },
               "7": {
@@ -65,13 +65,13 @@
               "10": {
                 "message": {
                   "": "That is why the other classes struggle with some of the content too.",
-                  "en_US": "É por isso que as outras classes também lutam com parte do conteúdo."
+                  "en_US": "É por isso que as outras classes têm dificuldades em certas partes do jogo."
                 }
               },
               "11": {
                 "message": {
                   "": "It's almost as if the developers made the game specifically for Spheromancers.",
-                  "en_US": "É quase como se os desenvolvedores tivessem criado o jogo especificamente para os Esferomantes."
+                  "en_US": "É como se os desenvolvedores tivessem feito o jogo pensando especialmente nos Esferomantes."
                 }
               },
               "12": {
@@ -90,25 +90,25 @@
           "0": {
             "text": {
               "": "What are we queuing for?",
-              "en_US": "Estamos na fila para quê?"
+              "en_US": "Estamos na fila pra quê?"
             }
           },
           "1": {
             "text": {
               "": "Oh, I thought you knew?",
-              "en_US": "Ah, pensei que você soubesse?"
+              "en_US": "Ah, você não sabe?"
             }
           },
           "2": {
             "text": {
               "": "Nope. Just followed you here.",
-              "en_US": "Nope. Acabei de te seguir aqui."
+              "en_US": "Não. Acabei de te seguir aqui."
             }
           },
           "3": {
             "text": {
               "": "Well... \\. Only one way to find out.",
-              "en_US": "Bem... \\. Só há uma maneira de descobrir."
+              "en_US": "Então... \\. Só tem uma maneira de descobrir."
             }
           }
         }
@@ -120,13 +120,13 @@
           "0": {
             "text": {
               "": "I wonder if we'll ever see that insane arena champion again.",
-              "en_US": "Eu me pergunto se algum dia veremos aquele campeão insano da arena novamente."
+              "en_US": "Tô curioso pra saber se um dia a gente vai ver aquele campeão maluco da arena de novo."
             }
           },
           "1": {
             "text": {
               "": "You mean that self-proclaimed VRP dueling champ?",
-              "en_US": "Você quer dizer aquele autoproclamado campeão de duelos VRP?"
+              "en_US": "Você tá falando daquele cara que se considera campeão de duelos PRV?"
             }
           },
           "2": {
@@ -138,13 +138,13 @@
           "3": {
             "text": {
               "": "Last I heard of him, he apparently took a job at Instatainment. ",
-              "en_US": "Da última vez que ouvi falar, aparentemente ele conseguiu um emprego na Instatainment."
+              "en_US": "Ouvi dizer que ele conseguiu um emprego na Instatainment."
             }
           },
           "4": {
             "text": {
               "": "Must be nice, getting a job at the company which made the game you played.",
-              "en_US": "Deve ser legal, conseguir um emprego na empresa do jogo que acompanha."
+              "en_US": "Deve ser legal, conseguir um emprego na empresa do seu jogo favorito."
             }
           },
           "5": {

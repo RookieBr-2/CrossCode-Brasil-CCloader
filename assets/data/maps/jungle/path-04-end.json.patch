@@ -759,13 +759,13 @@
           "6": {
             "message": {
               "": "This place...",
-              "en_US": "Este lugar..."
+              "en_US": "Esse lugar..."
             }
           },
           "13": {
             "message": {
               "": "This was another place where I waited for you, wasn't it?",
-              "en_US": "Este foi outro lugar onde eu esperei por você, não foi?"
+              "en_US": "Esae foi outro local onde eu te esperei, não foi?"
             }
           },
           "15": {
@@ -777,7 +777,7 @@
           "16": {
             "message": {
               "": "You certainly made me wait a lot...",
-              "en_US": "Você certamente me fez esperar muito..."
+              "en_US": "Você realmente me fez esperar bastante..."
             }
           },
           "17": {
@@ -788,13 +788,13 @@
           "18": {
             "message": {
               "": "Heh...\\. I'm not even sure if I waited for all that long.",
-              "en_US": "Heh...\\. Nem tenho certeza se esperei tanto tempo."
+              "en_US": "Heh...\\. Nem sei se a espera foi tão longa assim."
             }
           },
           "24": {
             "message": {
               "": "Hm...\\. \\c[3]Someone else\\c[0] was here as well, right?\\. That time we met.",
-              "en_US": "Hm...\\. \\c[3]Alguém mais\\c[0] esteve aqui também, certo?\\. Quando nos encontramos."
+              "en_US": "Hm...\\. \\c[3]Outra pessoa\\c[0] também esteve aqui, não foi?\\. Quando nos encontramos."
             }
           },
           "26": {
@@ -861,7 +861,7 @@
           },
           "46": {
             "message": {
-              "": "Oh!\n"
+              "": "Ah!\n"
             }
           },
           "47": {
@@ -872,7 +872,7 @@
           "48": {
             "message": {
               "": "This feels...\\. strangely familiar as well.",
-              "en_US": "Isto também me parece...\\. estranhamente familiar."
+              "en_US": "Isso parece...\\. estranhamente familiar também."
             }
           },
           "57": {
@@ -884,7 +884,7 @@
           "58": {
             "message": {
               "": "I arranged this meeting for you and Emilie, so you could talk it out.",
-              "en_US": "Eu preparei este encontro, para que você e Emilie pudessem conversar."
+              "en_US": "Eu preparei esse encontro, para que você e Emilie pudessem conversar."
             }
           },
           "59": {
@@ -908,7 +908,7 @@
           "62": {
             "message": {
               "": "I remember that it felt good to be helpful like that.\n",
-              "en_US": "Lembro que me senti bem em ser útil dessa forma.\n"
+              "en_US": "Lembro que me senti bem por ser útil assim.\n"
             }
           },
           "63": {
@@ -919,7 +919,7 @@
           "66": {
             "message": {
               "": "Yet...\\. somehow it felt wrong.",
-              "en_US": "No entanto...\\. de alguma forma pareceu errado."
+              "en_US": "Mas...\\. de alguma forma, pareceu errado."
             }
           },
           "67": {
@@ -930,7 +930,7 @@
           "68": {
             "message": {
               "": "Like...\\. it didn't feel as good as it should have.",
-              "en_US": "É como se...\\. não tivesse sido tão bom quanto deveria."
+              "en_US": "É como se...\\. não tivesse sido tão bom quanto deveria ser."
             }
           },
           "69": {
@@ -953,7 +953,7 @@
           "77": {
             "message": {
               "": "Is there maybe another place we can visit?",
-              "en_US": "Existe talvez outro lugar que possamos visitar?"
+              "en_US": "Será que existe outro local que podemos visitar?"
             }
           },
           "78": {
@@ -985,7 +985,7 @@
           "85": {
             "task": {
               "": "Visit the very top of the \\c[3]Grand Krys'kajo\\c[0], the \\c[3]Seeker's Conclusion\\c[0].",
-              "en_US": "Visite o topo do \\c[3]Grand Krys'kajo\\c[0], na \\c[3]Conclusão do Seeker\\c[0]."
+              "en_US": "Visite o topo do \\c[3]Grand Krys'kajo\\c[0], em \\c[3]Conclusão do Seeker\\c[0]."
             }
           }
         }

@@ -1169,7 +1169,7 @@
               "2": {
                 "message": {
                   "": "Well met, \\v[lore.title.seeker]. There has been no further trouble at the docks so far but we should stay vigilant.",
-                  "en_US": "Muito bem, \\v[lore.title.seeker]. Até agora, não houve mais problemas nas docas. Mas devemos estar vigilantes."
+                  "en_US": "Tudo ok, \\v[lore.title.seeker]. Até agora, não houve mais problemas nas docas. Mas devemos estar vigilantes."
                 }
               }
             }
@@ -1944,7 +1944,7 @@
               "5": {
                 "message": {
                   "": "Well met, \\v[lore.title.seeker]. There has been no further trouble at the docks so far but we should stay vigilant.",
-                  "en_US": "Muito bem, \\v[lore.title.seeker]. Até agora, não houve mais problemas nas docas. Mas devemos estar vigilantes"
+                  "en_US": "Tudo ok, \\v[lore.title.seeker]. Até agora, não houve mais problemas nas docas. Mas devemos estar vigilantes."
                 }
               }
             }
@@ -2299,7 +2299,7 @@
               "5": {
                 "message": {
                   "": "Well met, \\v[lore.title.seeker]. There has been no further trouble at the docks so far but we should stay vigilant.",
-                  "en_US": "Muito bem, \\v[lore.title.seeker]. Até agora não houve mais problemas nas docas, mas devemos permanecer vigilantes."
+                  "en_US": "Tudo ok, \\v[lore.title.seeker]. Até agora não houve mais problemas nas docas, mas devemos permanecer vigilantes."
                 }
               }
             }

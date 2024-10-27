@@ -373,7 +373,7 @@
           "13": {
             "message": {
               "": "When I saw the stars up there, I suddenly remembered a lot of things.",
-              "en_US": "Quando eu vi as estrelas lá em cima, de repente me lembrei de muitas coisas."
+              "en_US": "Assim que vi as estrelas lá em cima, várias lembranças surgiram de repente."
             }
           },
           "15": {
@@ -396,7 +396,7 @@
           "18": {
             "message": {
               "": "Because...\\. I was there.\\. Many times.",
-              "en_US": "Porque...\\. Eu estava lá.\\. Muitas vezes."
+              "en_US": "Porque...\\. Eu estive lá.\\. Muitas vezes."
             }
           },
           "19": {
@@ -408,7 +408,7 @@
           "20": {
             "message": {
               "": "My task was...\\. to keep watching you.",
-              "en_US": "Minha tarefa era...\\. continuar observando você"
+              "en_US": "Minha tarefa era...\\. observar você."
             }
           },
           "21": {
@@ -426,7 +426,7 @@
           "23": {
             "message": {
               "": "A lot of it is still fuzzy.\n",
-              "en_US": "Muita coisa ainda está embaçada.\n"
+              "en_US": "Muitas coisas ainda estão confusas.\n"
             }
           },
           "24": {
@@ -443,7 +443,7 @@
           "26": {
             "message": {
               "": "I suppose that's what I was...\n",
-              "en_US": "Sim...\\. Acho que era isso que eu era...\n"
+              "en_US": "Sim...\\. acho que era isso que eu era...\n"
             }
           },
           "27": {
@@ -496,13 +496,13 @@
           "47": {
             "message": {
               "": "It is good that your memory seems to be returning so quickly.",
-              "en_US": "É bom que sua memória pareça estar voltando tão rapidamente."
+              "en_US": "É bom ver que sua memória está voltando tão rapidamente."
             }
           },
           "48": {
             "message": {
               "": "Do you remember enough to understand the situation you are in right now?",
-              "en_US": "Você se lembra o suficiente para entender a situação em que se encontra neste momento?"
+              "en_US": "Você se lembra o bastante para compreender a situação em que está agora?"
             }
           },
           "49": {

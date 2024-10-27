@@ -1496,7 +1496,7 @@
           "13": {
             "message": {
               "": "It will probably make things complicated when everyone learns about his relationship with Sidwell.",
-              "en_US": "Provavelmente, as coisas ficarão complicadas quando todos souberem sobre seu relacionamento com Sidwell."
+              "en_US": "É provável que a situação fique complicada quando todos descobrirem sobre o relacionamento dele com Sidwell."
             }
           },
           "14": {
@@ -1519,13 +1519,13 @@
           "17": {
             "message": {
               "": "You probably should get some rest soon as well.",
-              "en_US": "Você provavelmente deveria descansar um pouco também."
+              "en_US": "Seria bom se você descansasse um pouco também."
             }
           },
           "18": {
             "message": {
               "": "I will be offline again.\\. Good night.\n",
-              "en_US": "Estarei offline de novo.\\. Boa noite.\n"
+              "en_US": "Vou ficar offline de novo.\\. Boa noite.\n"
             }
           },
           "19": {
@@ -1596,19 +1596,19 @@
           "55": {
             "message": {
               "": "Sorry, my avatar is still not made for hugging...",
-              "en_US": "Desculpe, meu avatar ainda não foi feito para abraçar..."
+              "en_US": "Desculpe, meu avatar não foi feito para abraçar..."
             }
           },
           "64": {
             "message": {
               "": "We are both very sorry for being late!",
-              "en_US": "Nós dois sentimos muito pelo atraso!"
+              "en_US": "Nós dois lamentamos o atraso!"
             }
           },
           "65": {
             "message": {
               "": "We wanted to be there on the day you came back!",
-              "en_US": "Queríamos estar lá no dia em que você voltou!"
+              "en_US": "Queríamos estar presentes no dia em que você voltou!"
             }
           },
           "66": {
@@ -1631,7 +1631,7 @@
           "71": {
             "message": {
               "": "At least we came back in time for another occasion!",
-              "en_US": "Pelo menos voltamos a tempo de outra ocasião!"
+              "en_US": "Pelo menos voltamos a tempo para um outro evento!"
             }
           },
           "72": {
@@ -1648,7 +1648,7 @@
           "74": {
             "message": {
               "": "And I also heard rumors that, at last, the final dungeon of the track is close to being released!",
-              "en_US": "E também ouvi rumores de que, finalmente a dungeon final da trilha está próxima a lançar!"
+              "en_US": "E também ouvi rumores de que, finalmente a dungeon final da trilha vai ser lançada!"
             }
           },
           "75": {
@@ -1665,7 +1665,7 @@
           "77": {
             "message": {
               "": "There is another matter of \\c[3]grave importance\\c[0]!",
-              "en_US": "Há outra questão de \\c[3]grave importância\\c[0]!"
+              "en_US": "Tem outra questão de \\c[3]grave importância\\c[0]!"
             }
           },
           "78": {
@@ -1687,7 +1687,7 @@
           "97": {
             "message": {
               "": "Look at him!\\. He's back!!",
-              "en_US": "Olhe pra ele!\\. Ele voltou!!"
+              "en_US": "Olha aqui!\\. Ele voltou!!"
             }
           },
           "99": {
@@ -1711,7 +1711,7 @@
           "103": {
             "message": {
               "": "Why are you asking Lea of all people?",
-              "en_US": "Entre todas as pessoas, por que você está perguntando a Lea?"
+              "en_US": "Por que você foi perguntar justo para a Lea?"
             }
           },
           "104": {
@@ -1776,7 +1776,7 @@
           "140": {
             "message": {
               "": "This is supposed to be a quiet neighborhood! ",
-              "en_US": "Supostamente esse é um bairro tranquilo!"
+              "en_US": "Cadê o respeito pelos vizinhos?"
             }
           },
           "144": {
@@ -1788,13 +1788,13 @@
           "145": {
             "message": {
               "": "Lea, please.\\. Why is Tronny back?",
-              "en_US": "Lea, por favor.\\. Por que o Tronny voltou?"
+              "en_US": "Lea,\\. por que o Tronny voltou?"
             }
           },
           "147": {
             "message": {
               "": "Wait.",
-              "en_US": "Espere."
+              "en_US": "Espera."
             }
           },
           "151": {
@@ -1811,31 +1811,31 @@
           "163": {
             "message": {
               "": "\\s[6]Waaaaaaaaaaaaaaaaaait!\\.\\.",
-              "en_US": "\\s[6]Espeeeereeeeeeee!\\.\\."
+              "en_US": "\\s[6]Espeeeeraaaaaaaa!\\.\\."
             }
           },
           "181": {
             "message": {
               "": "So...\\. he was simply found on the Evotar server?",
-              "en_US": "Então...\\. ele foi simplesmente encontrado no servidor Evotar?"
+              "en_US": "Então foi isso...\\. encontraram ele no servidor Evotar?"
             }
           },
           "183": {
             "message": {
               "": "Yes, and we do not know why.",
-              "en_US": "Sim, e não sabemos porquê."
+              "en_US": "Sim, e não sabemos o porquê disso."
             }
           },
           "184": {
             "message": {
               "": "Wait...\\. Does this mean Tronny has been an Evotar \\c[3]all along\\c[0]?",
-              "en_US": "Espere...\\. Isso significa que o Tronny \\c[3]sempre foi\\c[0] um Evotar?"
+              "en_US": "Espera...\\. Isso significa que o Tronny \\c[3]sempre foi\\c[0] um Evotar?"
             }
           },
           "185": {
             "message": {
               "": "Not necessarily...\\. we do not know that either.",
-              "en_US": "Não necessariamente...\\. nós também não sabemos disso."
+              "en_US": "Não exatamente...\\. nós também não temos essa informação."
             }
           },
           "186": {
@@ -1847,19 +1847,19 @@
           "193": {
             "message": {
               "": "At least I seem to remember most things from when we played together.",
-              "en_US": "Pelo menos parece que me lembro da maioria das coisas de quando jogavamos juntos."
+              "en_US": "Pelo menos eu lembro da maioria das coisas de quando jogávamos juntos."
             }
           },
           "195": {
             "message": {
               "": "Oui! Of course it's great that you're back!",
-              "en_US": "Oui! Claro que é ótimo que você esteja de volta!"
+              "en_US": "Oui! É ótimo ter você de volta!"
             }
           },
           "196": {
             "message": {
               "": "If...\\. you are the real Tronny.",
-              "en_US": "Se...\\. você é o verdadeiro Tronny."
+              "en_US": "Se...\\. você for o verdadeiro Tronny né."
             }
           },
           "198": {
@@ -1876,7 +1876,7 @@
           "204": {
             "message": {
               "": "Spheromancer Lea, can we now finally discuss our duel?",
-              "en_US": "Esferomante Lea, podemos finalmente discutir sobre o nosso duelo agora?"
+              "en_US": "Esferomante Lea, podemos finalmente falar sobre nosso duelo agora?"
             }
           },
           "207": {
@@ -1913,7 +1913,7 @@
               "2": {
                 "message": {
                   "": "Don't you remember her \\c[1]damage glitch\\c[0]!",
-                  "en_US": "Não se lembra da \\c[1]falha de dano\\c[0] dela!"
+                  "en_US": "Não se lembra do \\c[1]bug de dano\\c[0] dela!"
                 }
               },
               "3": {
@@ -1924,13 +1924,13 @@
               "4": {
                 "message": {
                   "": "I do and I contacted Sergey about it!",
-                  "en_US": "Sim, e entrei em contato com Sergey sobre isso!"
+                  "en_US": "Sim, e falei com Sergey sobre isso!"
                 }
               },
               "5": {
                 "message": {
                   "": "And he said that he might find a way to remove it now!",
-                  "en_US": "E ele disse que poderia encontrar uma maneira de removê-lo agora!"
+                  "en_US": "E ele disse que poderia descobrir um jeito de tirá-lo agora!"
                 }
               },
               "6": {
@@ -1941,7 +1941,7 @@
               "8": {
                 "message": {
                   "": "Right...\\. I did say that.",
-                  "en_US": "Certo...\\. Eu disse isso."
+                  "en_US": "Sim...\\. eu disse isso."
                 }
               },
               "9": {
@@ -1972,7 +1972,7 @@
           "226": {
             "message": {
               "": "That way we can gather better equipment and rise to our full potential!",
-              "en_US": "Dessa forma, podemos reunir equipamentos melhores e atingir todo o nosso potencial!"
+              "en_US": "Dessa forma, podemos obter equipamentos melhores e explorar todo o nosso potencial!"
             }
           },
           "227": {
@@ -2001,7 +2001,7 @@
           "237": {
             "message": {
               "": "We should totally explore it together!",
-              "en_US": "Devemos explorá-la todos juntos!"
+              "en_US": "Temos que explorá-lo juntos!"
             }
           },
           "238": {
@@ -2055,7 +2055,7 @@
           "265": {
             "message": {
               "": "See you soon!",
-              "en_US": "Até breve!"
+              "en_US": "Até logo!"
             }
           },
           "273": {
@@ -2066,25 +2066,25 @@
           "278": {
             "message": {
               "": "They all just had to arrive at the same time, huh?",
-              "en_US": "Tinham que chegar todos ao mesmo tempo, né?"
+              "en_US": "Todo mundo tinha que vir ao mesmo tempo, né?"
             }
           },
           "279": {
             "message": {
               "": "That new area sounds interesting, though.",
-              "en_US": "Ainda que, essa nova área parece interessante."
+              "en_US": "Mas essa nova área parece ser interessante."
             }
           },
           "280": {
             "message": {
               "": "I might check that out as well.\n",
-              "en_US": "Posso verificar isso também.\n"
+              "en_US": "Vou dar uma olhada lá também.\n"
             }
           },
           "308": {
             "task": {
               "": "Enter the new area via \\c[3]Rhombus Square - SW Beach\\c[0].",
-              "en_US": "Entre na nova área via \\c[3]Praça Losango - Praia SO\\c[0]."
+              "en_US": "Entre na nova área em \\c[3]Praça Losango - Praia\\c[0]."
             }
           }
         }
@@ -3090,7 +3090,7 @@
           "36": {
             "message": {
               "": "Homestedt's very own \\c[3]monument\\c[0]!",
-              "en_US": "O próprio \\c[3]monumento\\c[0] da Fazendolar!"
+              "en_US": "A \\c[3]estátua\\c[0] da Fazendolar!"
             }
           },
           "47": {
@@ -3108,7 +3108,7 @@
           "54": {
             "message": {
               "": "Wow!\\. Nice!\\. I honestly expected a display of Satoshi.",
-              "en_US": "Uau!\\. Legal!\\. Eu honestamente esperava uma exibição do Satoshi."
+              "en_US": "Uau!\\. Legal!\\. Eu esperava uma estátua do Satoshi."
             }
           },
           "58": {
