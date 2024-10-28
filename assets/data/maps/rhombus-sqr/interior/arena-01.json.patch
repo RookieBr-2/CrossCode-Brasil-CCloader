@@ -683,13 +683,13 @@
               "2": {
                 "message": {
                   "": "I'm ready for our duel any time!",
-                  "en_US": "Estou pronta para o nosso duelo a qualquer momento!"
+                  "en_US": "Estou pronta para o nosso duelo!"
                 }
               },
               "3": {
                 "message": {
                   "": "Just select \\c[3]PvP vs Lily\\c[0] among the \\c[3]Custom Cups\\c[0] to the right.",
-                  "en_US": "Basta selecionar \\c[3]PvP vs Lily\\c[0] entre as \\c[3]Copas Customizadas\\c[0] à direita."
+                  "en_US": "É só selecionar \\c[3]PvP vs Lily\\c[0] nas \\c[3]Copas Customizadas\\c[0]."
                 }
               }
             }
@@ -714,13 +714,13 @@
           "16": {
             "message": {
               "": "Now then...",
-              "en_US": "Agora, então..."
+              "en_US": "Agora..."
             }
           },
           "17": {
             "message": {
               "": "If I understand this correctly you can configure custom cups and do PvP battle challenges that way!",
-              "en_US": "Se eu entendi isso corretamente, você pode configurar copas customizadas e fazer desafios de batalha PvP dessa forma!"
+              "en_US": "Se eu entendi direito, você pode criar copas customizadas e desafiar outros em batalhas PvP dessa forma!"
             }
           },
           "18": {
@@ -738,13 +738,13 @@
           "31": {
             "message": {
               "": "We're all set!\\. Ready when you are!",
-              "en_US": "Tudo pronto!\\. Pronta quando você estiver!"
+              "en_US": "Tudo pronto!\\. Vamos começar quando você quiser!"
             }
           },
           "32": {
             "message": {
               "": "Just select \\c[3]PvP vs Lily\\c[0] among the \\c[3]Custom Cups\\c[0] to the right.",
-              "en_US": "Selecione \\c[3]PvP vs Lily\\c[0] entre as \\c[3]Copas Customizadas\\c[0] à direita."
+              "en_US": "Selecione \\c[3]PvP vs Lily\\c[0] nas \\c[3]Copas Customizadas\\c[0] à direita."
             }
           },
           "33": {

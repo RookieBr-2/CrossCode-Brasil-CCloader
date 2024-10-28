@@ -409,7 +409,7 @@
           "1": {
             "text": {
               "": "Did you see their level?\\. Better not attack them...",
-              "en_US": "Você viu o nível deles?\\. Melhor não atacá-los ..."
+              "en_US": "Você viu o nível deles?\\. Melhor não atacar..."
             }
           }
         }
@@ -444,19 +444,19 @@
           "18": {
             "message": {
               "": "How in the world did a bunch of high-level Hedgehags even end up in this place?",
-              "en_US": "Como assim um bando de Ouriçados de nível alto acabou neste lugar?"
+              "en_US": "Como assim um bando de Ouriçados de nível alto veio parar aqui?"
             }
           },
           "19": {
             "message": {
               "": "From what I saw there was this small, black-haired guy that was being chased around by them.",
-              "en_US": "Pelo que vi, havia um cara pequeno de cabelo preto que estava sendo perseguido por eles."
+              "en_US": "Pelo que vi, tinha um cara pequeno de cabelo preto que estava sendo perseguido por eles."
             }
           },
           "20": {
             "message": {
               "": "They probably lost track of him and then just stuck around.",
-              "en_US": "Eles provavelmente o perderam de vista e então simplesmente ficaram por perto."
+              "en_US": "Eles devem ter perdido ele de vista e então decidiram ficar por aqui."
             }
           },
           "21": {
@@ -467,7 +467,7 @@
           "22": {
             "message": {
               "": "I guess...\\. Anyway, we gotta go!\\. Bye!",
-              "en_US": "Eu acho...\\. Enfim, temos que ir!\\. Tchau!"
+              "en_US": "Pode ser...\\. Enfim, temos que ir!\\. Tchau!"
             }
           },
           "30": {
@@ -506,7 +506,7 @@
           "39": {
             "message": {
               "": "Let me guess, he's not there?",
-              "en_US": "Deixe-me adivinhar, ele não está aqui?"
+              "en_US": "Deixa eu adivinhar, ele não está aí?"
             }
           },
           "40": {
@@ -518,13 +518,13 @@
           "41": {
             "message": {
               "": "Oh dear.\\. Let me try to contact him again.",
-              "en_US": "Oh céus.\\. Deixe-me tentar contatá-lo novamente."
+              "en_US": "Ah não.\\. Vou ligar pra ele de novo."
             }
           },
           "50": {
             "text": {
               "": "Adding person\\s[7]......",
-              "en_US": "Adicionando pessoa\\s[7]......"
+              "en_US": "Ligando\\s[7]......"
             }
           },
           "55": {
@@ -547,19 +547,19 @@
           "58": {
             "message": {
               "": "Dude, we told you to wait!",
-              "en_US": "Cara, disseram para você esperar"
+              "en_US": "Cara, falamos pra você esperar!"
             }
           },
           "59": {
             "message": {
               "": "Yeah...\\. you see, I was chased by a bunch of Hedgehags that wouldn't leave me alone.",
-              "en_US": "Sim...\\. você viu, eu fui perseguido por um bando de Ouriçados que não me deixava em paz."
+              "en_US": "Sim...\\. mas, eu fui perseguido por um bando de Ouriçados que não me deixava em paz."
             }
           },
           "60": {
             "message": {
               "": "Wait...\\. they chased you this high up to Bergen Trail?",
-              "en_US": "Espera...\\. eles perseguiram você tão longe até a trilha de Bergen?"
+              "en_US": "Espera aí...\\. eles perseguiram você até a trilha de Bergen?"
             }
           },
           "61": {
@@ -571,31 +571,31 @@
           "62": {
             "message": {
               "": "I...\\. tried to feed them, but then they got angry...\\. somehow?",
-              "en_US": "Eu...\\. tentei alimentá-los, mas depois eles ficaram com raiva ...\\. de alguma maneira?"
+              "en_US": "Eu...\\. tentei dar comida a eles, mas depois ficaram com raiva..."
             }
           },
           "63": {
             "message": {
               "": "You're not supposed to feed them.",
-              "en_US": "Você não deveria alimentá-los."
+              "en_US": "Você não devia alimentá-los."
             }
           },
           "64": {
             "message": {
               "": "Well, Ivo wanted me to try something...",
-              "en_US": "Bem, Ivo espera que eu tentasse algo..."
+              "en_US": "Bom, o Ivo falou que eu devia fazer isso..."
             }
           },
           "65": {
             "message": {
               "": "Ugh...\\. Figures.",
-              "en_US": "Eca...\\. Bonecos"
+              "en_US": "Aff...\\. Que burrice."
             }
           },
           "66": {
             "message": {
               "": "Anyways!\\. It seems I got rid of them!",
-              "en_US": "De qualquer forma!\\. Parece que me livrei deles!"
+              "en_US": "Enfim!\\. Parece que me livrei deles!"
             }
           },
           "67": {
@@ -618,31 +618,31 @@
           "70": {
             "message": {
               "": "I actually found that Bergen town!",
-              "en_US": "Eu realmente encontrei a cidade de Bergen!"
+              "en_US": "Eu encontrei a cidade de Bergen!"
             }
           },
           "71": {
             "message": {
               "": "But I had to keep going and now I'm in this desert.",
-              "en_US": "Mas eu tive que continuar e agora estou neste deserto."
+              "en_US": "Mas eu tive que continuar e agora estou no deserto."
             }
           },
           "72": {
             "message": {
               "": "Why won't you just STOP MOVING?!",
-              "en_US": "Por que você simplesmente NÃO PARA DE SE MOVER?!"
+              "en_US": "Por que você NÃO FICA PARADO?!"
             }
           },
           "73": {
             "message": {
               "": "I thought you escaped those hedgehags?",
-              "en_US": "Eu pensei que você escapou daqueles ouriçados?"
+              "en_US": "Mas você não escapou dos ouriçados?"
             }
           },
           "74": {
             "message": {
               "": "Yeah...\\. but not the penguins!\\. They're still after me!",
-              "en_US": "Sim...\\. mas não os pinguins! \\. Eles ainda estão atrás de mim!"
+              "en_US": "Sim...\\. mas não dos pinguins!\\. Eles ainda estão atrás de mim!"
             }
           },
           "75": {
@@ -660,7 +660,7 @@
           "77": {
             "message": {
               "": "I dunno!!\\. Oh wait...\\. there is this \\c[3]huge pink tree\\c[0] close by!",
-              "en_US": "Eu não sei!!\\. Oh espere...\\. ali está \\c[3]enorme árvore rosa\\c[0] por perto!"
+              "en_US": "Eu não sei!!\\. Ah espera...\\. aqui tem uma \\c[3]enorme árvore rosa\\c[0]!"
             }
           },
           "78": {
@@ -682,13 +682,13 @@
           "86": {
             "message": {
               "": "Ugh...",
-              "en_US": "Eca..."
+              "en_US": "Droga..."
             }
           },
           "87": {
             "message": {
               "": "Well, maybe you can help him with his little...\\. Penguin problem?",
-              "en_US": "Bem, talvez você possa ajudá-lo com seu pequeno...\\. Problema com o pinguim?"
+              "en_US": "Então, você pode ajudar ele...\\. com o lance dos pinguins?"
             }
           },
           "88": {
@@ -700,7 +700,7 @@
           "89": {
             "message": {
               "": "Let's hope he will be there this time at least.",
-              "en_US": "Vamos torcer para que ele esteja lá, pelo menos desta vez."
+              "en_US": "Vamos torcer para que ele esteja lá, dessa vez."
             }
           }
         }

@@ -6290,19 +6290,19 @@
             "2": {
               "message": {
                 "": "Well...\\. it's just what I do.\\. Just like you say \"\\c[3]Sacrebleu\\c[0]\" and all that.",
-                "en_US": "Bem...\\. Isso é o que eu falo\\. Da mesma forma que você diz \"\\c[3]Sacrebleu\\c[0]\" e etc."
+                "en_US": "Sim...\\. isso é o que eu falo.\\. Da mesma forma que você diz \"\\c[3]Sacrebleu\\c[0]\" e etc."
               }
             },
             "3": {
               "message": {
                 "": "What?\\. I never say that!\\. It's such an old and outdated word!\\. No one uses it!",
-                "en_US": "Que?\\. Eu nunca disse isso!\\. É uma palavra tão antiga e ultrapassada!\\. Ninguém usa ela!"
+                "en_US": "Que?\\. Eu nunca falo isso!\\. É uma palavra tão antiga e ultrapassada!\\. Ninguém usa ela!"
               }
             },
             "4": {
               "message": {
                 "": "Uhm...\\. yes you do?\\. You say it all the time!\\. Right, Lea?",
-                "en_US": "Uhm...\\. sim você usa.\\. Você diz isso o tempo todo!\\. Não é Lea?"
+                "en_US": "Hmm...\\. sim você fala.\\. Você diz isso o tempo todo!\\. Não é Lea?"
               }
             },
             "5": {
@@ -7158,13 +7158,13 @@
             "2": {
               "message": {
                 "": "So...\\. Will there be more random trivia about enemies?",
-                "en_US": "Então...\\. Vai ter mais curiosidades aleatórias sobre inimigos?"
+                "en_US": "Então...\\. teremos mais curiosidades aleatórias sobre os inimigos?"
               }
             },
             "3": {
               "message": {
                 "": "Oh yeah...\\. Actually, I feel like I can still remember most of those scientific tidbits.",
-                "en_US": "Ah sim...\\. Na verdade, eu acho que ainda me lembro da maioria desses fatos científicos."
+                "en_US": "Ah sim...\\. Na verdade, acho que ainda lembro de quase todos esses fatos científicos."
               }
             },
             "4": {
@@ -7801,7 +7801,7 @@
             "0": {
               "message": {
                 "": "They brought back the worms.\\. I'm sure everybody missed the worms.",
-                "en_US": "Eles trouxeram as minhocas de volta.\\. Tenho certeza de que todos sentiram falta das minhocas."
+                "en_US": "Eles trouxeram as minhocas de volta.\\. Aposto que todos sentiram falta das minhocas."
               }
             }
           }
@@ -8557,13 +8557,13 @@
             "0": {
               "message": {
                 "": "Sea stars...\\. you might have heard stories about how they can reproduce?\n",
-                "en_US": "Estrelas do mar...\\. você já deve ter ouvido histórias sobre como elas podem se reproduzir?"
+                "en_US": "Estrela do mar...\\. você sabe como ela se reproduz?\n"
               }
             },
             "1": {
               "message": {
                 "": "When they are split apart, both parts fully regenerate into two separate sea stars.",
-                "en_US": "Quando ela se divide, ambas as partes se regeneram completamente em duas estrelas do mar separadas."
+                "en_US": "Quando ela se divide, cada parte se regenera completamente, formando duas estrelas do mar distintas."
               }
             },
             "2": {
@@ -8574,7 +8574,7 @@
             "3": {
               "message": {
                 "": "It's like a real-life hydra.\\. Of course not nearly as fast.",
-                "en_US": "É como uma hidra da vida real. É claro que não tão rápido."
+                "en_US": "É como uma hidra da vida real. Mas não tão rápida, é claro."
               }
             }
           }
@@ -8604,7 +8604,7 @@
             "0": {
               "message": {
                 "": "Huh...\\. I think those fish are likely inspired by pufferfish.",
-                "en_US": "Hã...\\. Acho que esses peixes são provavelmente inspirados pelo Baiacu"
+                "en_US": "Hã...\\. Acho que esses peixes são inspirados no Baiacu."
               }
             }
           }
@@ -8614,13 +8614,13 @@
             "0": {
               "message": {
                 "": "Puffer fish really do increase in body size like this, but just as a defense mechanism.",
-                "en_US": "Os Baiacus realmente aumentam o tamanho do corpo desta forma, mas apenas como um mecanismo de defesa."
+                "en_US": "De fato, os baiacus aumentam o tamanho do corpo dessa forma, mas apenas como um mecanismo de defesa."
               }
             },
             "1": {
               "message": {
                 "": "Unsurprisingly, you don't have fish spitting fire underwater.",
-                "en_US": "Não surpreendentemente, você não vê peixes cuspindo fogo debaixo d'água."
+                "en_US": "Não é surpresa que você não veja peixes cuspindo fogo debaixo d'água."
               }
             },
             "2": {
@@ -8634,7 +8634,7 @@
                 "0": {
                   "message": {
                     "": "Oh I see, you didn't forget about your little theory.",
-                    "en_US": "Ah, estou vendo, você não esqueceu sua pequena teoria."
+                    "en_US": "Ah, tô vendo que você não esqueceu da sua teoria."
                   }
                 },
                 "1": {
@@ -8656,7 +8656,7 @@
             "0": {
               "message": {
                 "": "It's a new kind of worm!\\. We haven't had those for a while.",
-                "en_US": "Esse é um novo tipo de minhoca!\\. Já não temos elas há algum tempo."
+                "en_US": "Esse é um novo tipo de minhoca!\\. Já faz tempo que não vemos elas."
               }
             }
           }
@@ -8666,7 +8666,7 @@
             "0": {
               "message": {
                 "": "That reminds me that there're certain predatory marine worms that pull their target below the sand.",
-                "en_US": "Isso me lembra que existem certas minhocas marinhas predadoras que puxam seu alvo abaixo da areia."
+                "en_US": "Isso me lembra certas minhocas marinhas predadoras que puxam suas vítimas para baixo da areia."
               }
             },
             "1": {
@@ -33134,7 +33134,7 @@
         "1": {
           "task": {
             "": "Enter the \\c[3]Cave of Progression\\c[0] and reach the \\c[3]end of the path\\c[0] to collect an artifact",
-            "en_US": "Entre na \\c[3]Caverna da Progressão\\c[0] e vá até o \\c[3]fim do caminho\\c[0] apra coletar um artefato"
+            "en_US": "Entre na \\c[3]Caverna da Progressão\\c[0] e vá até o \\c[3]fim do caminho\\c[0] para coletar um artefato"
           }
         },
         "2": {
@@ -33167,20 +33167,24 @@
         "en_US": "Sábia Nemuh"
       },
       "description": {
-        "": "The \\c[3]Ascension Spirits\\c[0] have given you a final trial to perfect your connection with the Track. The most challenging of caves awaits you!"
+        "": "The \\c[3]Ascension Spirits\\c[0] have given you a final trial to perfect your connection with the Track. The most challenging of caves awaits you!",
+        "en_US": "Os \\c[3]Espíritos da Ascensão\\c[0] concederam a você uma última prova para fortalecer sua ligação com a Trilha. A caverna mais desafiadora está à sua espera!"
       },
       "briefing": {
-        "": "You have beaten the final trial and ascended into true mastery!"
+        "": "You have beaten the final trial and ascended into true mastery!",
+        "en_US": "Você superou a prova final e ascendeu à verdadeira maestria!"
       },
       "tasks": {
         "0": {
           "task": {
-            "": "Talk to \\c[3]Monk Cratos\\c[0] in the \\c[3]Bergen Monastery\\c[0]"
+            "": "Talk to \\c[3]Monk Cratos\\c[0] in the \\c[3]Bergen Monastery\\c[0]",
+            "en_US": "Fale com \\c[3]Monge Cratos\\c[0] no \\c[3]Monastério Bergen\\c[0]"
           }
         },
         "1": {
           "task": {
-            "": "Enter the \\c[3]Cave of Ascension\\c[0] and reach the \\c[3]end of the path\\c[0] to collect an artifact"
+            "": "Enter the \\c[3]Cave of Ascension\\c[0] and reach the \\c[3]end of the path\\c[0] to collect an artifact",
+            "en_US": "Entre na \\c[3]Caverna da Ascensão\\c[0] e vá até o \\c[3]fim do caminho\\c[0] para coletar um artefato"
           }
         },
         "2": {
@@ -33435,7 +33439,8 @@
     "monks-jump_3_bonus": {
       "hubSettings": {
         "location": {
-          "": "Even after ascension, the pursuit of perfection never ends. \\c[3]- Bergen Monastery\\c[0]"
+          "": "Even after ascension, the pursuit of perfection never ends. \\c[3]- Bergen Monastery\\c[0]",
+          "en_US": "Mesmo após a ascensão, a busca pela perfeição nunca termina. \\c[3]- Monastério de Bergen\\c[0]"
         }
       },
       "name": {
@@ -33468,7 +33473,7 @@
               },
               "shortText": {
                 "": "Do the timed challenge",
-                "en_US": "Faça o desafio cronometrado"
+                "en_US": "Complete o desafio cronometrado"
               }
             },
             "1": {
@@ -33478,7 +33483,7 @@
               },
               "shortText": {
                 "": "Do the frosty challenge",
-                "en_US": "Faça o desafio gélido"
+                "en_US": "Complete o desafio gélido"
               }
             }
           }
@@ -36406,7 +36411,7 @@
       "hubSettings": {
         "location": {
           "": "Trying to find a little \\c[3]troublemaker\\c[0], looking for help - \\c[3]Arena Plaza\\c[0]",
-          "en_US": "Preciso encontrar um \\c[3]garoto idiota\\c[0], - \\c[3]Praça da Arena\\c[0]"
+          "en_US": "Preciso encontrar um \\c[3]garoto idiota\\c[0]. - \\c[3]Praça da Arena\\c[0]"
         }
       },
       "name": {
@@ -36417,35 +36422,42 @@
         "": "Priel"
       },
       "description": {
-        "": "Two players are asking for help to find one of their friends, who seems to be particularly difficult to catch."
+        "": "Two players are asking for help to find one of their friends, who seems to be particularly difficult to catch.",
+        "en_US": "Duas jogadoras estão pedindo ajuda para encontrar um amigo, que parece ser especialmente difícil de encontrar."
       },
       "briefing": {
-        "": "After a lot of traveling around, you finally managed to find \\c[3]Reize\\c[0]... who was subsequently banned for breaking the \\c[3]Terms of Service\\c[0]. Oh well, you tried your best!"
+        "": "After a lot of traveling around, you finally managed to find \\c[3]Reize\\c[0]... who was subsequently banned for breaking the \\c[3]Terms of Service\\c[0]. Oh well, you tried your best!",
+        "en_US": "Depois de andar muito, você finalmente conseguiu encontrar \\c[3]Reize\\c[0]... que foi posteriormente banido por violar os \\c[3]Termos de Serviço\\c[0]. Bem, você deu o seu melhor!"
       },
       "tasks": {
         "0": {
           "task": {
-            "": "Try to figure out where the missing person could be."
+            "": "Try to figure out where the missing person could be.",
+            "en_US": "Tente descobrir onde o garoto desaparecido está."
           }
         },
         "1": {
           "task": {
-            "": "Look for \\c[3]Reize\\c[0] in \\c[3]Bergen Trail\\c[0] close to an \\c[3]isolated house\\c[0]"
+            "": "Look for \\c[3]Reize\\c[0] in \\c[3]Bergen Trail\\c[0] close to an \\c[3]isolated house\\c[0]",
+            "en_US": "Procure por \\c[3]Reize\\c[0] na \\c[3]Trilha de Bergen\\c[0] perto de uma \\c[3]casa isolada\\c[0]"
           }
         },
         "2": {
           "task": {
-            "": "Look for \\c[3]Reize\\c[0] in \\c[3]Maroon Valley\\c[0] close to a \\c[3]pink tree\\c[0]"
+            "": "Look for \\c[3]Reize\\c[0] in \\c[3]Maroon Valley\\c[0] close to a \\c[3]pink tree\\c[0]",
+            "en_US": "Procure por \\c[3]Reize\\c[0] no \\c[3]Vale Castanho\\c[0] perto de uma \\c[3]árvore rosa\\c[0]"
           }
         },
         "3": {
           "task": {
-            "": "Look for \\c[3]Reize\\c[0] in \\c[3]Gaia's Garden\\c[0] somewhere close to \\c[3]huge mushrooms\\c[0]"
+            "": "Look for \\c[3]Reize\\c[0] in \\c[3]Gaia's Garden\\c[0] somewhere close to \\c[3]huge mushrooms\\c[0]",
+            "en_US": "Procure por \\c[3]Reize\\c[0] no \\c[3]Jardim de Gaia\\c[0] onde tem \\c[3]cogumelos enormes\\c[0]"
           }
         },
         "4": {
           "task": {
-            "": "Look for \\c[3]Reize\\c[0] in \\c[3]Rhombus Square\\c[0] to the \\c[3]south of the arena\\c[0]."
+            "": "Look for \\c[3]Reize\\c[0] in \\c[3]Rhombus Square\\c[0] to the \\c[3]south of the arena\\c[0].",
+            "en_US": "Procure por \\c[3]Reize\\c[0] na \\c[3]Praça Losango\\c[0] na parte \\c[3]sul da arena\\c[0]"
           }
         }
       }
@@ -36454,7 +36466,7 @@
       "hubSettings": {
         "location": {
           "": "Looking for assistance catching soil thieves in \\c[3]North Arch\\c[0]",
-          "en_US": "Preciso de ajuda para capturar ladrões no \\c[3]Arco Norte\\c[0]"
+          "en_US": "Preciso de ajuda para capturar ladrões no \\c[3]Arco Norte\\c[0]."
         }
       },
       "name": {
@@ -36462,7 +36474,8 @@
         "en_US": "Problemas na Estrada"
       },
       "person": {
-        "": "Captain Curtis"
+        "": "Captain Curtis",
+        "en_US": "Captão Curtis"
       },
       "description": {
         "": "A troupe of Hillkats has been spotted in the parks of Rhombus Square, digging up the precious soil. Help Captain Curtis to catch them!"

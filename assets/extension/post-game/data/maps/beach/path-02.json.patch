@@ -37,7 +37,7 @@
                 "0": {
                   "text": {
                     "": "An altar with a round slit in the middle. Could fit a coin.",
-                    "en_US": "Um altar com uma abertura redonda no meio. Caberia uma moeda."
+                    "en_US": "Um altar com uma abertura redonda no meio. Cabe uma moeda."
                   }
                 }
               }
@@ -83,7 +83,7 @@
                 "0": {
                   "text": {
                     "": "An altar with a round slit in the middle. Could fit a coin.",
-                    "en_US": "Um altar com uma abertura redonda no meio. Caberia uma moeda."
+                    "en_US": "Um altar com uma abertura redonda no meio. Cabe uma moeda."
                   }
                 }
               }
@@ -129,7 +129,7 @@
                 "0": {
                   "text": {
                     "": "An altar with a round slit in the middle. Could fit a coin.",
-                    "en_US": "Um altar com uma abertura redonda no meio. Caberia uma moeda."
+                    "en_US": "Um altar com uma abertura redonda no meio. Cabe uma moeda."
                   }
                 }
               }
@@ -302,7 +302,7 @@
               "0": {
                 "message": {
                   "": "Oui, I really feel like smashing a few things now.",
-                  "en_US": "Oui, eu realmente sinto vontade de quebrar algumas coisas agora."
+                  "en_US": "Oui, eu sinto vontade de quebrar algumas coisas agora."
                 }
               }
             },
@@ -1208,13 +1208,13 @@
           "2": {
             "text": {
               "": "What do you mean?\\. Did no one find it?",
-              "en_US": "O que você quer dizer?\\. Ninguém achou?"
+              "en_US": "O que?\\. Ninguém achou?"
             }
           },
           "3": {
             "text": {
               "": "Seems like it.\\. Maybe there is no way to get it just yet.",
-              "en_US": "É o que parece.\\. Talvez não haja como obtê-lo ainda."
+              "en_US": "Parece que sim.\\. Talvez ainda não seja possível obtê-lo."
             }
           },
           "4": {
@@ -1238,25 +1238,25 @@
           "1": {
             "text": {
               "": "I'm just saying...\\. getting hit by a falling coconut is a serious danger!",
-              "en_US": "Só estou dizendo...\\. ser atingido por um coco é um sério perigo!"
+              "en_US": "Só tô falando...\\. ser atingido por um coco é perigoso!"
             }
           },
           "2": {
             "text": {
               "": "Did you forget this is a game?\\. What's the worst that can happen?",
-              "en_US": "Você esqueceu que isso é um jogo?\\. Qual o pior que pode acontecer?"
+              "en_US": "Isso é só um jogo, lembra?\\. O que pode acontecer de ruim?"
             }
           },
           "3": {
             "text": {
               "": "Who knows! It might be a hidden insta-kill field hazard!",
-              "en_US": "Quem sabe! Pode ser um perigo oculto para uma morte instantânea!"
+              "en_US": "Vai saber! Pode ser um perigo oculto que resulta numa morte rápida!"
             }
           },
           "4": {
             "text": {
               "": "Yeah right...\\. I'll take my chances.",
-              "en_US": "Sim, certo...\\. Eu vou me arriscar."
+              "en_US": "Aham...\\. Eu vou me arriscar."
             }
           }
         }

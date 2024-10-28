@@ -172,7 +172,7 @@
           "9": {
             "message": {
               "": "Yes, you!\\. Uhm...\\. Seeker, wasn't it?",
-              "en_US": "É, você!\\. Uhm...\\. Seeker, não é?"
+              "en_US": "É, você!\\. Hmm...\\. Seeker, não é?"
             }
           },
           "10": {
@@ -189,19 +189,19 @@
           "22": {
             "message": {
               "": "Do we really need to get others involved in this?",
-              "en_US": "Precisamos realmente envolver outras pessoas nisso?"
+              "en_US": "Precisamos mesmo envolver outras pessoas nisso?"
             }
           },
           "23": {
             "message": {
               "": "Yes.\\. I've had my fill of chasing after him.",
-              "en_US": "Sim.\\. Estou farto de correr atrás dele."
+              "en_US": "Sim.\\. Estou cansada de correr atrás dele."
             }
           },
           "24": {
             "message": {
               "": "Also she probably knows this place better than we do, don't you think?",
-              "en_US": "E também ela provavelmente conhece este lugar melhor do que nós, você não acha?"
+              "en_US": "E ela deve conhecer este lugar melhor do que nós, não acha?"
             }
           },
           "25": {
@@ -224,7 +224,7 @@
           "28": {
             "message": {
               "": "He's strolling around somewhere in this world.",
-              "en_US": "Ele está passeando em algum lugar deste mundo."
+              "en_US": "Ele está passeando em algum lugar por aí."
             }
           },
           "29": {
@@ -265,7 +265,7 @@
               "5": {
                 "message": {
                   "": "I'm Priel.\\. Thanks for helping us.",
-                  "en_US": "Eu sou Priel.\\. Obrigado por nos ajudar."
+                  "en_US": "Eu sou Priel.\\. Obrigada por nos ajudar."
                 }
               },
               "6": {
@@ -277,7 +277,7 @@
               "7": {
                 "message": {
                   "": "He's rather small, black hair...\\. What's his class again?\\. Powerfist?",
-                  "en_US": "Ele é bastante pequeno, cabelo preto...\\. Qual é a classe dele afinal? Poderpunho?"
+                  "en_US": "Ele é baixinho, tem cabelo preto...\\. Qual é a classe dele mesmo?\\. Poderpunho?"
                 }
               },
               "8": {
@@ -295,19 +295,19 @@
               "10": {
                 "message": {
                   "": "Right.\\. And finally, he's notorious for wandering all over the place.",
-                  "en_US": "Certo.\\. E finalmente, ele é notório por perambular por todos os canto."
+                  "en_US": "Certo.\\. E também, ele tem mania de vagar por todos os lugares."
                 }
               },
               "11": {
                 "message": {
                   "": "In fact, he tends to go everywhere except for where you want him to be.",
-                  "en_US": "Na verdade, ele tende a ir a todos os lugares, exceto para onde você quer que ele esteja."
+                  "en_US": "Ele só não vai pro lugar onde a gente quer que ele esteja."
                 }
               },
               "12": {
                 "message": {
                   "": "Why don't we try to contact him together?",
-                  "en_US": "Por que não tentamos contatá-lo juntos?"
+                  "en_US": "Por que não ligamos pra ele?"
                 }
               },
               "13": {
@@ -330,13 +330,13 @@
               "22": {
                 "message": {
                   "": "It's the beeping thing again that makes everything blueish!",
-                  "en_US": "É o bipe de novo que faz tudo ficar azul!"
+                  "en_US": "É o bipe que faz tudo ficar azul!"
                 }
               },
               "23": {
                 "message": {
                   "": "Stop complaining!",
-                  "en_US": "Pare de reclamar!"
+                  "en_US": "Para de reclamar!"
                 }
               },
               "24": {
@@ -359,7 +359,7 @@
               "27": {
                 "message": {
                   "": "Uhm...\\. Hello!",
-                  "en_US": "Uhm...\\. Olá!"
+                  "en_US": "Hmm...\\. Olá!"
                 }
               },
               "28": {
@@ -371,13 +371,13 @@
               "29": {
                 "message": {
                   "": "We got her to help us pick you up.",
-                  "en_US": "Pedimos a ela que nos ajudasse a pegá-lo."
+                  "en_US": "A gente pediu pra ela ajudar a achar você."
                 }
               },
               "30": {
                 "message": {
                   "": "I told you, you don't need to look for me!\\. I'm already on my way to you!",
-                  "en_US": "Eu disse pra vocês, vocês não precisam me procurar!\\. Eu já estava a caminho!"
+                  "en_US": "Eu já falei, vocês não precisam me procurar!\\. Eu já estava a caminho!"
                 }
               },
               "31": {
@@ -395,19 +395,19 @@
               "33": {
                 "message": {
                   "": "Uhm...\\. let me see.\\. I'm on this \\c[3]snowy mountain\\c[0].",
-                  "en_US": "Uhm...deixe-me ver.\\. Estou nesta \\c[3]montanha nevada\\c[0]."
+                  "en_US": "Hmm...\\. deixa eu ver.\\. Estou numa \\c[3]montanha nevada\\c[0]."
                 }
               },
               "34": {
                 "message": {
                   "": "There's a \\c[3]little house\\c[0] close by. ",
-                  "en_US": "Tem uma \\c[3]casa pequena\\c[0] aqui perto."
+                  "en_US": "Tem uma \\c[3]casa pequena\\c[0] aqui."
                 }
               },
               "35": {
                 "message": {
                   "": "Somebody told me there's a town when I go further up the mountain.",
-                  "en_US": "Alguém me disse que há uma aldeia mais acima."
+                  "en_US": "E alguém me disse que tem uma aldeia por perto."
                 }
               },
               "36": {
@@ -431,13 +431,13 @@
               "39": {
                 "message": {
                   "": "Okay, enough of that.",
-                  "en_US": "Ok, já basta."
+                  "en_US": "Ok, já chega."
                 }
               },
               "40": {
                 "message": {
                   "": "You just wait where you are, okay?",
-                  "en_US": "Você apenas espera quietinho ai onde você tá, ok?"
+                  "en_US": "Você espera quietinho ai onde você tá, ok?"
                 }
               },
               "41": {
@@ -473,7 +473,7 @@
               "51": {
                 "message": {
                   "": "Okay, looks like we're all set.",
-                  "en_US": "Certo, parece que estamos todos prontos."
+                  "en_US": "Ok, acho que está tudo bem."
                 }
               },
               "52": {
@@ -485,7 +485,7 @@
               "53": {
                 "message": {
                   "": "If there are any troubles you can call me via this D-Link.",
-                  "en_US": "Se tiver algum problema, você pode me ligar através desse D-Link."
+                  "en_US": "Se tiver algum problema, você pode me ligar através do D-Link."
                 }
               },
               "54": {
@@ -504,7 +504,7 @@
               "1": {
                 "message": {
                   "": "Shoot...\\. Well, gotta wait for somebody else, I suppose.",
-                  "en_US": "Caramba...\\.  Bem, acho que teremos que pedir a outra pessoa."
+                  "en_US": "Caramba...\\. acho que teremos que pedir a outra pessoa."
                 }
               }
             }
@@ -518,37 +518,37 @@
           "14": {
             "message": {
               "": "Wow, that's such a huge place!",
-              "en_US": "Uau, é um lugar tão grande!"
+              "en_US": "Uau, é um lugar enorme!"
             }
           },
           "19": {
             "message": {
               "": "Yeah... really makes you wonder how you could miss it...",
-              "en_US": "Sim... realmente faz a gente se perguntar como perder isso de vista..."
+              "en_US": "Sim... e eu queria entender como você nâo conseguiu achar a arena..."
             }
           },
           "20": {
             "message": {
               "": "...walking around RIGHT NEXT TO IT!",
-              "en_US": "...andando por aí BEM DO LADO DISSO!"
+              "en_US": "... passando BEM DO LADO DELA!"
             }
           },
           "21": {
             "message": {
               "": "Yeah...\\. I guess!",
-              "en_US": "Sim...\\. Eu acho!"
+              "en_US": "É...\\. ué!"
             }
           },
           "30": {
             "message": {
               "": "Now, time to try this \\c[3]PvP\\c[0] thing!",
-              "en_US": "Agora, hora de experimentar esse \\c[3]PvP\\c[0]!"
+              "en_US": "Tanto faz, hora de experimentar o \\c[3]PvP\\c[0]!"
             }
           },
           "31": {
             "message": {
               "": "At least I heard the arena is the best place to fight each other!",
-              "en_US": "Pelo menos eu ouvi dizer que a arena é o melhor lugar para lutarmos uns contra os outros!"
+              "en_US": "Ouvi dizer que a arena é o melhor lugar para lutarmos uns contra os outros!"
             }
           },
           "32": {
@@ -560,7 +560,7 @@
           "38": {
             "message": {
               "": "How about you join the fun as well, Lea?",
-              "en_US": "Que tal você se juntar à diversão também, Lea?"
+              "en_US": "Por que você não vem se divertir com a gente também, Lea?"
             }
           },
           "39": {
@@ -613,19 +613,19 @@
           "60": {
             "message": {
               "": "A lot of players reported you've been hacking the system and pulling enemies across locations!",
-              "en_US": "Muitos jogadores relataram que você tem invadido o sistema e puxado inimigos através dos locais!"
+              "en_US": "Muitos jogadores relataram que você está manipulando o sistema e trazendo inimigos para os locais!"
             }
           },
           "61": {
             "message": {
               "": "Oh yeah, about that...\\. Listen I...",
-              "en_US": "Ah, sim, sobre isso...\\. Escute e..."
+              "en_US": "Ah, sim, sobre isso...\\. escuta eu..."
             }
           },
           "62": {
             "message": {
               "": "This is a clear violation of our Terms of Use! ",
-              "en_US": "Isto é uma clara violação de nossos Termos de Uso!"
+              "en_US": "Isto é uma clara violação dos nossos Termos de Uso!"
             }
           },
           "64": {
@@ -637,7 +637,7 @@
           "69": {
             "message": {
               "": "W-Wait,\\. I never intended...!",
-              "en_US": "Espere,\\. Eu nunca pretendi...!"
+              "en_US": "Espera,\\. eu nunca pretendi...!"
             }
           },
           "77": {
@@ -655,7 +655,7 @@
           "90": {
             "message": {
               "": "I don't believe you've been involved in any of this, right?",
-              "en_US": "E vocês? Vocês não estavam envolvidas nisso?"
+              "en_US": "E vocês? Vocês estavam envolvidas nisso?"
             }
           },
           "92": {
@@ -685,7 +685,7 @@
           "99": {
             "message": {
               "": "Enjoy your stay in CrossWorlds!",
-              "en_US": "Aproveite sua experiência em CrossWorlds!"
+              "en_US": "Aproveitem sua experiência em CrossWorlds!"
             }
           },
           "109": {
@@ -706,7 +706,7 @@
           },
           "122": {
             "message": {
-              "": "Ugh..."
+              "": "Aff..."
             }
           },
           "124": {
@@ -718,13 +718,13 @@
           "125": {
             "message": {
               "": "Apparently Reize is all confused.\\. I'd better tell him what happened.",
-              "en_US": "Aparentemente, Reize está todo confuso.\\. É melhor eu contar a ele o que aconteceu."
+              "en_US": "E o Reize está todo confuso.\\. É melhor eu contar a ele o que aconteceu."
             }
           },
           "127": {
             "message": {
               "": "Should I go as well?",
-              "en_US": "Eu deveria ir também?"
+              "en_US": "Eu devia ir também?"
             }
           },
           "128": {
@@ -741,7 +741,7 @@
           "131": {
             "message": {
               "": "At least one person should have some fun here, right?",
-              "en_US": "Pelo menos alguém deve se divertir aqui, certo?"
+              "en_US": "Pelo menos alguém tem que se divertir aqui, não é?"
             }
           },
           "132": {
@@ -753,25 +753,25 @@
           "133": {
             "message": {
               "": "But before you leave, make sure to give Lea her reward.",
-              "en_US": "Mas antes de partir, não esqueça de dar a Lea sua recompensa."
+              "en_US": "Mas antes de ir, não se esqueça de dar a recompensa da Lea."
             }
           },
           "134": {
             "message": {
               "": "Right!",
-              "en_US": "Certo!"
+              "en_US": "Tudo bem!"
             }
           },
           "135": {
             "message": {
               "": "I mean... chasing that little troublemaker turned out to be entirely fruitless, but still...",
-              "en_US": "Perseguir aquele pequeno encrenqueiro acabou sendo totalmente infrutífero, mas mesmo assim..."
+              "en_US": "Correr atrás daquele encrenqueiro acabou sendo inútil, mas mesmo assim..."
             }
           },
           "136": {
             "message": {
               "": "Here's a little something for all your trouble!",
-              "en_US": "Aqui está uma coisinha por todo o problema causado!"
+              "en_US": "Aqui está uma coisinha para compensar todo o incômodo!"
             }
           },
           "143": {
@@ -782,7 +782,7 @@
           "144": {
             "message": {
               "": "Well then, I gotta go now.",
-              "en_US": "Bem então, Eu tenho que ir agora."
+              "en_US": "Eu tenho que ir agora."
             }
           },
           "145": {
@@ -794,7 +794,7 @@
           "146": {
             "message": {
               "": "Thanks and see you later!",
-              "en_US": "Obrigado e vejo você em breve!"
+              "en_US": "Obrigada, vejo você em breve!"
             }
           },
           "147": {

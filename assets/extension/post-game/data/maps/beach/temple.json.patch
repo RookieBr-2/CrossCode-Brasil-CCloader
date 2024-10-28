@@ -53,7 +53,7 @@
               "4": {
                 "message": {
                   "": "Let's hope they'll add it soon!",
-                  "en_US": "Vamos torcer para que eles á adicionem em breve!"
+                  "en_US": "Vamos torcer para que eles adicionem ela logo!"
                 }
               }
             },
@@ -250,13 +250,13 @@
           "35": {
             "message": {
               "": "Right!\\. As for the location...",
-              "en_US": "Certo!\\. Quanto ao local..."
+              "en_US": "Muito bem!\\. Sobre o local..."
             }
           },
           "36": {
             "message": {
               "": "I suggest the \\c[3]north-west of Rhombus Square\\c[0]!",
-              "en_US": "Sugiro a \\c[3]noroeste da Praça Losango\\c[0]!"
+              "en_US": "Sugiro o \\c[3]noroeste da Praça Losango\\c[0]!"
             }
           },
           "37": {
@@ -323,7 +323,7 @@
           "1": {
             "text": {
               "": "I'm not sure...\\. I just thought I'd join.",
-              "en_US": "Não tenho certeza...\\. Só pensei em participar."
+              "en_US": "Não tenho certeza...\\. Só quis participar."
             }
           },
           "2": {
@@ -353,7 +353,7 @@
           "6": {
             "text": {
               "": "Wait...\\. there was a boss?",
-              "en_US": "Espere...\\. tinha um chefão?"
+              "en_US": "Espera...\\. tinha um chefão?"
             }
           },
           "7": {
@@ -388,13 +388,13 @@
           "12": {
             "text": {
               "": "Well...\\. just sitting here is nice, too.",
-              "en_US": "Bem...\\. apenas sentar aqui também é bom."
+              "en_US": "Bem...\\. ficar aqui sentado também é bom."
             }
           },
           "13": {
             "text": {
               "": "This is boring...",
-              "en_US": "Isso é entediante..."
+              "en_US": "Isso aí é vacilo..."
             }
           }
         }

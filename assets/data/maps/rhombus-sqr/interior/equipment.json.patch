@@ -181,7 +181,7 @@
           "6": {
             "message": {
               "": "Our store now offers new \\c[3]ascended gears\\c[0] to all walkers of the track!",
-              "en_US": "Nossa loja agora oferece novos \\c[3]equipamentos ascendidos\\c[0] para todos os caminhantes da trilha!"
+              "en_US": "Agora nossa loja conta com novos \\c[3]equipamentos ascendidos\\c[0] para todos os exploradores da trilha!"
             }
           },
           "7": {
@@ -213,13 +213,13 @@
               "3": {
                 "message": {
                   "": "However, note that their \\c[3]modifier values\\c[0] remain unchanged.",
-                  "en_US": "No entanto, observe que os \\c[3]valores de modificação\\c[0] permanecem inalterados."
+                  "en_US": "No entanto, observe que os \\c[3]modificadores\\c[0] permanecem os mesmos."
                 }
               },
               "4": {
                 "message": {
                   "": "Still, \\c[3]ascended equipment\\c[0] should be considered the first choice for every seeker to reach their highest potential!",
-                  "en_US": "Ainda assim, o \\c[3]equipamento ascendido\\c[0] deve ser considerado a primeira escolha para que cada seeker atinja seu potencial mais alto!"
+                  "en_US": "O \\c[3]equipamento ascendido\\c[0] é a melhor escolha para que cada seeker atinja seu potencial máximo!"
                 }
               }
             },
