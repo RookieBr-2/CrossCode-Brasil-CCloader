@@ -661,7 +661,7 @@
                   "0": {
                     "message": {
                       "": "Hm...\\. so you're \\c[3]Level \\v[player.level]\\c[0].",
-                      "en_US": "Hum...\\. então você é \\c[3]Nível \\v[player.level]\\c[0]."
+                      "en_US": "Hum...\\. então você é \\c[3]nível \\v[player.level]\\c[0]."
                     }
                   },
                   "1": {
@@ -669,7 +669,7 @@
                       "0": {
                         "message": {
                           "": "You're really entering high level territory.",
-                          "en_US": "Você está entrando em território de alto nível."
+                          "en_US": "Você está entrando no território de alto nível."
                         }
                       }
                     },
@@ -679,7 +679,7 @@
                           "0": {
                             "message": {
                               "": "Pretty decent level! Appropriate for the \\c[3]late end game\\c[0].",
-                              "en_US": "Nível bastante decente! Apropriado para o \\c[3]final do jogo\\c[0]."
+                              "en_US": "Nível bem decente! Apropriado para o \\c[3]final do jogo\\c[0]."
                             }
                           }
                         },
@@ -689,7 +689,7 @@
                               "0": {
                                 "message": {
                                   "": "Good level for \\c[3]Sapphire Ridge\\c[0] and \\c[3]Rhombus Square\\c[0].",
-                                  "en_US": "Bom nível para \\c[3]Serra de Safira\\c[0] e \\c[3]Praça Losango\\c[0]."
+                                  "en_US": "Bom nível para a \\c[3]Serra de Safira\\c[0] e a \\c[3]Praça Losango\\c[0]."
                                 }
                               }
                             },
@@ -697,7 +697,7 @@
                               "0": {
                                 "message": {
                                   "": "That is a pretty common level for \\c[3]Gaia's Garden\\c[0].",
-                                  "en_US": "Esse é um nível bastante comum para o \\c[3]Jardim de Gaia\\c[0]."
+                                  "en_US": "Esse é um nível bem comum para o \\c[3]Jardim de Gaia\\c[0]."
                                 }
                               }
                             }

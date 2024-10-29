@@ -2479,7 +2479,7 @@
           },
           "description": {
             "": "A small Shad settlement using trees as homes and bridges to connect them.",
-            "en_US": "Uma pequena aldeia dos Shad que usam árvores como casas e pontes de madeira."
+            "en_US": "Uma pequena aldeia dos Shads que usam árvores como casas e pontes de madeira."
           }
         },
         "grove": {
@@ -2633,7 +2633,7 @@
       },
       "description": {
         "": "An ancient shad temple, home to many shocking creatures.",
-        "en_US": "Um antigo templo dos shad, lar de muitas criaturas elétricas."
+        "en_US": "Um antigo templo dos shads, lar de muitas criaturas elétricas."
       }
     },
     "testing-grounds": {
@@ -2674,7 +2674,7 @@
       },
       "description": {
         "": "An ancient underwater shad temple, home to many bouncing foes.",
-        "en_US": "Um antigo templo subaquático dos shad, lar de muitos inimigos saltitantes."
+        "en_US": "Um antigo templo subaquático dos shads, lar de muitos inimigos saltitantes."
       }
     }
   },
@@ -14110,7 +14110,7 @@
             "2": {
               "message": {
                 "": "We should focus on resolving the conflict between humans and Shad, don't you agree?",
-                "en_US": "Devemos nos concentrar na solução do conflito entre humanos e Shad, você não concorda?"
+                "en_US": "Devemos nos concentrar na solução do conflito entre humanos e Shads, você não concorda?"
               }
             },
             "3": {
@@ -21170,7 +21170,7 @@
         "0": {
           "text": {
             "": "Born from nightmares the \\v[combat.name.jungle/ghost] will use shock elemental attacks to quickly attack and dodge away, seemingly phasing through your attacks. After using its bolt attack it will cage itself in walls. Use compressed wave balls to stun it, which reveals the actual enemy: A cursed stone that feeds on the bad dreams of the Shad.",
-            "en_US": "Nascido de pesadelos, o \\v[combat.name.jungle/ghost] usa ataques elementais de choque para atacar rapidamente e se esquivar. Depois de usar seu ataque de raio, ele se esconderá em uma barreira de paredes. Use bolas de onda comprimidas para atordoá-lo e revelar o verdadeiro inimigo: uma pedra amaldiçoada que se alimenta dos pesadelos dos Shad."
+            "en_US": "Nascido de pesadelos, o \\v[combat.name.jungle/ghost] usa ataques elementais de choque para atacar rapidamente e se esquivar. Depois de usar seu ataque de raio, ele se esconderá em uma barreira de paredes. Use bolas de onda comprimidas para atordoá-lo e revelar o verdadeiro inimigo: uma pedra amaldiçoada que se alimenta dos pesadelos dos Shads."
           }
         }
       }
@@ -21852,7 +21852,7 @@
         "0": {
           "text": {
             "": "A corrupt guard that holds no respect for the Shad that are native on Shadoon. Did formerly hold a respectable position in the \\c[3]Maroon Ba'kii Guard\\c[0], before his crimes were uncovered.\n\nWhile his sense of justice is warped, he is still a very capable fighter. He wields the standard issue \\c[3]Laserlance\\c[0] of the guards with great skill and always carries a few of \\c[3]his favorite sandwiches\\c[0], in case the battle tires him.",
-            "en_US": "Um guarda corrupto que não tem respeito pelos Shad que são nativos de Shadoon. Ele ocupava anteriormente uma posição respeitável na \\c[3]Guarda Baki\\c[0], antes de seus crimes serem descobertos.\n Embora seu senso de justiça seja distorcido, ele ainda é um lutador muito capaz. Ele usa com grande habilidade uma \\c[3]Lança Laser\\c[0] padrão dos guardas e sempre carrega alguns de \\c[3]seus sanduíches favoritos\\c[0], para uso emergencial."
+            "en_US": "Um guarda corrupto que não tem respeito pelos Shads que são nativos de Shadoon. Ele ocupava anteriormente uma posição respeitável na \\c[3]Guarda Baki\\c[0], antes de seus crimes serem descobertos.\n Embora seu senso de justiça seja distorcido, ele ainda é um lutador muito capaz. Ele usa com grande habilidade uma \\c[3]Lança Laser\\c[0] padrão dos guardas e sempre carrega alguns de \\c[3]seus sanduíches favoritos\\c[0], para uso emergencial."
           }
         }
       }
@@ -23038,7 +23038,7 @@
         "1": {
           "text": {
             "": "Turns out that these fiends are part of the track's attempt to fix itself. Something went wrong and the cats interpreted humans and shads as part of the problem. ",
-            "en_US": "Acontece que esses monstrinhos fazem parte de uma tentativa de autocorreção da trilha. Alguma coisa deu errado e os gatos interpretaram os humanos e os shad como parte do problema."
+            "en_US": "Acontece que esses monstrinhos fazem parte de uma tentativa de autocorreção da trilha. Alguma coisa deu errado e os gatos interpretaram os humanos e os shads como parte do problema."
           }
         }
       }
@@ -24127,13 +24127,13 @@
       },
       "species": {
         "": "Floating Coordinator Turret",
-        "en_US": "Torre Coordenadora Ilegal"
+        "en_US": "Torre Coordenadora Flutuante"
       },
       "descriptions": {
         "0": {
           "text": {
             "": "The central coordinator of the heavily modified turrets that were made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. It too is equipped with \\c[3]floating devices\\c[0] to cross the ocean on its own and has a highly advanced \\c[3]shielding system\\c[0].\nWhile \\c[3]heavy artillery\\c[0] will be able to \\c[3]break its normal shield\\c[0], the \\c[3]focussed frontal shield is basically impenetrable\\c[0] and must somehow be bypassed.\nIn addition to a \\c[3]powerful cannon\\c[0], this malicious machine of war is also equipped with an advanced launcher of \\c[3]ship-to-ship missiles\\c[0]. \\c[3]Shooting them down to protect your vessel\\c[0] should be the top-priority!",
-            "en_US": "O coordenadora central das torres modificadas que foram feitas na \\c[3]\\v[area.rhombus-sqr.name]\\c[0] e destinadas a atividades ilegais em \\v[lore.title.planet]. Ela também está equipada com \\c[3]dispositivos flutuantes\\c[0] para atravessar o oceano por conta própria possui um \\c[3]sistema de blindagem\\c[0] altamente avançado.\nEnquanto a \\c[3]artilharia pesada\\c[0] será capaz de quebrar seu escudo normal, o \\c[3]escudo frontal focalizado é basicamente impenetrável\\c[0] e deve ser contornado de alguma forma.\nAlém de possuir um \\c[3]canhão potente\\c[9], esta máquina de guerra maliciosa também está equipada com um avançado lançador de \\c[3]mísseis anti-navio\\c[9]. \\c[3]Você deve destruí-los para proteger sua embarcação\\c[0]!"
+            "en_US": "A coordenadora central das torres modificadas que foram feitas na \\c[3]\\v[area.rhombus-sqr.name]\\c[0] e destinadas a atividades ilegais em \\v[lore.title.planet]. Ela também está equipada com \\c[3]dispositivos flutuantes\\c[0] para atravessar o oceano por conta própria possui um \\c[3]sistema de blindagem\\c[0] altamente avançado.\nEnquanto a \\c[3]artilharia pesada\\c[0] será capaz de quebrar seu escudo normal, o \\c[3]escudo frontal focalizado é basicamente impenetrável\\c[0] e deve ser contornado de alguma forma.\nAlém de possuir um \\c[3]canhão potente\\c[9], esta máquina de guerra maliciosa também está equipada com um avançado lançador de \\c[3]mísseis anti-navio\\c[9]. \\c[3]Você deve destruí-los para proteger sua embarcação\\c[0]!"
           }
         }
       }
@@ -25728,7 +25728,7 @@
         "page-06": {
           "content": {
             "": "The seekers talked to her and agreed to help the Shad, in return for safe passage to the next two \\c[3]Temples of the Ancients\\c[0], the \\c[3]\\v[area.wave-dng.name]\\c[0] and \\c[3]\\v[area.shock-dng.name]\\c[0], which were blocked off by Shad protestors. And so the group followed K'tara to her village and took care of the feline pests that were seemingly corrupted by some Track-related force. With the obstacles to the next dungeons out of the way, the group decided to part ways again and log off for the day.",
-            "en_US": "Os seekers conversaram com ela e concordaram em ajudar os Shad, em troca de uma passagem livre para os próximos dois \\c[3]Templos dos Antigos\\c[0], o \\c[3]\\v[area.wave-dng.name]\\c[0] e o \\c[3]\\v[area.shock-dng.name]\\c[0], que foram bloqueados pelos Shad. E assim o grupo seguiu K'tara até sua aldeia e cuidaram das pragas felinas que aparentemente foram corrompidas por alguma força relacionada à trilha. Com o caminho das dungeons livre, o grupo decidiu se separar novamente e sair do jogo."
+            "en_US": "Os seekers conversaram com ela e concordaram em ajudar os Shads, em troca de uma passagem livre para os próximos dois \\c[3]Templos dos Antigos\\c[0], o \\c[3]\\v[area.wave-dng.name]\\c[0] e o \\c[3]\\v[area.shock-dng.name]\\c[0], que foram bloqueados pelos Shads. E assim o grupo seguiu K'tara até sua aldeia e cuidaram das pragas felinas que aparentemente foram corrompidas por alguma força relacionada à trilha. Com o caminho das dungeons livre, o grupo decidiu se separar novamente e sair do jogo."
           }
         },
         "page-07": {
@@ -25746,7 +25746,7 @@
         "page-09": {
           "content": {
             "": "Just as the group was about to enter the last dungeon of \\v[area.jungle.name], the majestic \\c[3]\\v[area.tree-dng.name]\\c[0], Shad protesters once again blocked their path. Thankfully, with the help of a friendly scientist, the root of the Shad's plight could be solved, which finally allowed passage towards the large tree.",
-            "en_US": "No momento em que o grupo estava prestes a entrar na última dungeon do \\v[area.jungle.name], o majestoso \\c[3]\\v[area.tree-dng.name]\\c[0], os aldões Shad mais uma vez bloquearam o caminho. Felizmente, com a ajuda de um cientista genial, a raiz da situação dos Shad pôde ser resolvida, o que finalmente permitiu a passagem em direção à grande árvore."
+            "en_US": "No momento em que o grupo estava prestes a entrar na última dungeon do \\v[area.jungle.name], o majestoso \\c[3]\\v[area.tree-dng.name]\\c[0], os aldões Shads mais uma vez bloquearam o caminho. Felizmente, com a ajuda de um cientista genial, a raiz da situação dos Shads pôde ser resolvida, o que finalmente permitiu a passagem em direção à grande árvore."
           }
         },
         "page-10": {
@@ -26326,7 +26326,7 @@
         "page-01-01": {
           "content": {
             "": "Shadoon is a moon located near a giant gas planet. It's home to the \\c[3]Shad\\c[0] and was once inhabited by the \\c[3]Ancients\\c[0]. Most of the croissant shaped land is covered by marks of the \\c[3]Track of the Ancients\\c[0]. ",
-            "en_US": "Shadoon é um planeta localizado perto de um planeta gasoso gigante. É o lar dos \\c[3]Shad\\c[0] e já foi habitado pelos \\c[3]Antigos\\c[0]. A maior parte do terreno em forma de croissant é coberto pelas marcas da \\c[3]Trilha dos Antigos\\c[0]. "
+            "en_US": "Shadoon é um planeta localizado perto de um planeta gasoso gigante. É o lar dos \\c[3]Shads\\c[0] e já foi habitado pelos \\c[3]Antigos\\c[0]. A maior parte do terreno em forma de croissant é coberto pelas marcas da \\c[3]Trilha dos Antigos\\c[0]. "
           }
         }
       }
@@ -26406,7 +26406,7 @@
         "page-01-01": {
           "content": {
             "": "Shad are the native people on \\c[3]\\v[lore.title.planet]\\c[0]. They live in small, tribe-like settlements all over the planet and keep a healthy relationship with the humans.\nAt first Shad were not fond of the humans as they tried to harvest resources from the planet and in doing so destroyed ruins and the \\c[3]\\v[lore.title.track-of-ancients]\\c[0].",
-            "en_US": "Os Shad são o povo nativo de \\c[3]\\v[lore.title.planet]\\c[0]. Eles vivem em pequenos assentamentos tribais em todo o planeta e mantêm uma relação saudável com os humanos.\nNo início, os Shad não gostavam dos humanos, pois os humanos tentavam colher recursos do planeta e, ao fazê-lo, destruíam ruínas e a \\c[3]\\v[lore.title.track-of-ancients]\\c[0]."
+            "en_US": "Os Shads são o povo nativo de \\c[3]\\v[lore.title.planet]\\c[0]. Eles vivem em pequenos assentamentos tribais em todo o planeta e mantêm uma relação saudável com os humanos.\nNo início, os Shads não gostavam dos humanos, pois os humanos tentavam colher recursos do planeta e, ao fazê-lo, destruíam ruínas e a \\c[3]\\v[lore.title.track-of-ancients]\\c[0]."
           }
         },
         "page-01-02": {
@@ -27126,19 +27126,19 @@
         "page-01-01": {
           "content": {
             "": "Ba'kii Kum is the home of the native people of \\c[3]Shadoon\\c[0], the \\c[3]Shad\\c[0]. The name derives from the language the Shad speak and roughly translates to \\c[3]Burned Village\\c[0]. Quite fitting because a normal day in Ba'kii Kum has a temperature of 36° Celsius. \nThe greatest attraction of the village is its market and culture and a statue which \\c[3]Seekers\\c[0] must visit before they can enter \\c[3]\\v[lore.title.heat-dng]\\c[0].",
-            "en_US": "Ba'kii Kum é o lar do povo nativo de \\c[3]Shadoon\\c[0], os \\c[3]Shad\\c[0]. O nome deriva do idioma que os Shad falam e é traduzido a grosso modo para \\c[3]Vila Queimada\\c[0]. Um nome muito apropriado porque a temperatura comum em Ba'kii Kum fica em torno de 36° Celsius. \nA maior atração da aldeia é seu mercado e cultura e uma estátua que os \\c[3]Seekers\\c[0] devem visitar antes de poderem entrar no Templo de Faj'ro. "
+            "en_US": "Ba'kii Kum é o lar do povo nativo de \\c[3]Shadoon\\c[0], os \\c[3]Shads\\c[0]. O nome deriva do idioma que os Shads falam e é traduzido a grosso modo para \\c[3]Vila Queimada\\c[0]. Um nome muito apropriado porque a temperatura comum em Ba'kii Kum fica em torno de 36° Celsius. \nA maior atração da aldeia é seu mercado e cultura e uma estátua que os \\c[3]Seekers\\c[0] devem visitar antes de poderem entrar no Templo de Faj'ro. "
           }
         },
         "page-01-02": {
           "content": {
             "": "Other than that, they live off what \\c[3]Maroon Valley\\c[0] offers them. Water from cacti, meat from \\c[3]\\v[combat.name.heat/volturbine]s\\c[0], and plants from the oasis. The Shad try to live a life close to nature and most technology found in Ba'kii Kum is a product of the humans' relationship with them or broken parts left behind by the \\c[3]Track of the Ancients\\c[0].",
-            "en_US": "Além disso, eles vivem do que o \\c[3]Vale Castanho\\c[0] oferece. Água de cactos, carne de \\c[3]\\v[combat.name.heat/volturbine]s\\c[0], e plantas do oásis. Os Shad tentam viver uma vida próxima à natureza e a maioria da tecnologia encontrada em Ba'kii Kum é um produto da relação deles com os humanos ou resquícios defeituosos deixados para trás pela \\c[3]Trilha dos Antigos\\c[0]."
+            "en_US": "Além disso, eles vivem do que o \\c[3]Vale Castanho\\c[0] oferece. Água de cactos, carne de \\c[3]\\v[combat.name.heat/volturbine]s\\c[0], e plantas do oásis. Os Shads tentam viver uma vida próxima à natureza e a maioria da tecnologia encontrada em Ba'kii Kum é um produto da relação deles com os humanos ou resquícios defeituosos deixados para trás pela \\c[3]Trilha dos Antigos\\c[0]."
           }
         },
         "page-02-01": {
           "content": {
             "": "Originally the Shad did not understand the concept of \\c[3]Electricity\\c[0]. Instead they used devices scrambled together from broken parts found in Maroon Valley. Humans introduced them to the concept of solar energy, making more efficient use of their resources. Being a curious race, the Shad then quickly adapted their lifestyle and added a \\c[3]Solar Farm\\c[0] right outside the main village.\nWith the human arrival also came the trend of Shad to go outside the village itself. This is why in rare cases one might find a Shad wandering areas you normally wouldn't find them.",
-            "en_US": "Originalmente, os Shad não entendiam o conceito de \\c[3]Eletricidade\\c[0]. Em vez disso, eles usavam dispositivos misturados a partir de peças quebradas encontradas no Vale de Castanho. Os humanos apresentaram para eles o conceito de energia solar, fazendo um uso mais eficiente de seus recursos. Sendo uma raça curiosa, os Shad rapidamente adaptaram seu estilo de vida e construíram uma \\c[3]Fazenda Solar\\c[0] fora do vilarejo. É por isso que, em casos raros, pode-se encontrar um Shad vagando por áreas que normalmente eles não habitam."
+            "en_US": "Originalmente, os Shads não entendiam o conceito de \\c[3]Eletricidade\\c[0]. Em vez disso, eles usavam dispositivos misturados a partir de peças quebradas encontradas no Vale de Castanho. Os humanos apresentaram para eles o conceito de energia solar, fazendo um uso mais eficiente de seus recursos. Sendo uma raça curiosa, os Shads rapidamente adaptaram seu estilo de vida e construíram uma \\c[3]Fazenda Solar\\c[0] fora do vilarejo. É por isso que, em casos raros, pode-se encontrar um Shad vagando por áreas que normalmente eles não habitam."
           }
         }
       }
@@ -27162,7 +27162,7 @@
         "page-01-02": {
           "content": {
             "": "To enter the dungeon, however, a Seeker must visit \\c[3]Ba'kii Kum\\c[0], home to the Shad. Only there can they find the key to gain access to the temple.",
-            "en_US": "Para entrar na dungeon, o Seeker deve visitar \\c[3]Ba'kii Kum\\c[0], a casa dos Shad. Somente lá eles podem encontrar a chave para ter acesso ao templo."
+            "en_US": "Para entrar na dungeon, o Seeker deve visitar \\c[3]Ba'kii Kum\\c[0], a casa dos Shads. Somente lá eles podem encontrar a chave para ter acesso ao templo."
           }
         },
         "page-01-03": {
@@ -27188,7 +27188,7 @@
         "page-02": {
           "content": {
             "": "In the south-east a small Shad tribe calls the trees their home. They mostly keep to themselves and live in harmony with the jungle. However, tensions between humans and Shad have arisen ever since humans built a power plant at the entrance of the \\c[3]Zir'vitar Temple\\c[0]. A vile infestation has spread in the north-east of the jungle which seems to originate from the power plant.",
-            "en_US": "A parte sul da floresta é o lar de uma pequena tribo Shad. Na maioria das vezes, eles são pacíficos e vivem em harmonia com a selva. Entretanto, tensões entre humanos e Shad têm surgido desde que os humanos construíram uma usina elétrica na entrada do \\c[3]Templo Zir'vitar\\c[0]. Uma praga vil espalhou-se pela parte norte da selva, e a usina elétrica parece ser a fonte."
+            "en_US": "A parte sul da floresta é o lar de uma pequena tribo Shad. Na maioria das vezes, eles são pacíficos e vivem em harmonia com a selva. Entretanto, tensões entre humanos e Shads têm surgido desde que os humanos construíram uma usina elétrica na entrada do \\c[3]Templo Zir'vitar\\c[0]. Uma praga vil espalhou-se pela parte norte da selva, e a usina elétrica parece ser a fonte."
           }
         },
         "page-03": {
@@ -27234,7 +27234,7 @@
         "page-02": {
           "content": {
             "": "Unique to this dungeon is the power plant right in front of it. It uses the outgoing energy to generate power for the humans. This however lead to tensions between the Shad living to the south-east and the humans as they accuse them of poisoning the jungle. ",
-            "en_US": "Uma exclusividade dessa dungeon é a central elétrica bem em frente a ela. Ela usa a energia de saída para gerar energia para os humanos. Isto, entretanto, leva a tensões entre os Shad que vivem no sudeste e os humanos, que são acusados de envenenar a selva."
+            "en_US": "Uma exclusividade dessa dungeon é a central elétrica bem em frente a ela. Ela usa a energia de saída para gerar energia para os humanos. Isto, entretanto, leva a tensões entre os Shads que vivem no sudeste e os humanos, que são acusados de envenenar a selva."
           }
         }
       }
@@ -27567,7 +27567,7 @@
         "page-01-02": {
           "content": {
             "": "The guard is under the command of the old veteran \\c[3]Sgt. Rainer Niellos\\c[0], who is known for his friendly relations with the local Shad.",
-            "en_US": "A guarda está sob o comando do velho veterano \\c[3]Sgt. Rainer Niellos\\c[0]. que é conhecido por suas relações amigáveis com os Shad que habitam o local."
+            "en_US": "A guarda está sob o comando do velho veterano \\c[3]Sgt. Rainer Niellos\\c[0]. que é conhecido por suas relações amigáveis com os Shads que habitam o local."
           }
         }
       }
@@ -27685,7 +27685,7 @@
         "page-01-02": {
           "content": {
             "": "The Union is controlled by a council of successful Shad merchants, highest among them the ambitious \\c[3]Kney'tehab\\c[0], who also prides himself a master of human proverbs and rhetoric.",
-            "en_US": "A União é controlada por um conselho de mercadores Shad bem sucedidos, o mais alto entre eles o ambicioso \\c[3]Kney'tehab\\c[0], que também se orgulha de ser um mestre de provérbios e retórica humana."
+            "en_US": "A União é controlada por um conselho de mercadores Shads bem sucedidos, o mais alto entre eles o ambicioso \\c[3]Kney'tehab\\c[0], que também se orgulha de ser um mestre de provérbios e retórica humana."
           }
         }
       }
@@ -35518,55 +35518,66 @@
         "en_US": "Sra. Basu"
       },
       "description": {
-        "": "Mr Frigo is searching for more business opportunities. Maybe the Shad can prove to be a lucrative untapped market?"
+        "": "Mr Frigo is searching for more business opportunities. Maybe the Shad can prove to be a lucrative untapped market?",
+         "en_US": "Sra. Basu"
       },
       "briefing": {
-        "": "The Shad village has now access to electricity and all the practical devices that run with it, bought from Mr Frigo."
+        "": "The Shad village has now access to electricity and all the practical devices that run with it, bought from Mr Frigo.",
+         "en_US": "Sra. Basu"
       },
       "tasks": {
         "0": {
           "task": {
-            "": "Find an interested shad customer in the \\c[3]Shad Village\\c[0] in Southeast \\c[3]\\v[area.jungle.name]\\c[0]"
+            "": "Find an interested shad customer in the \\c[3]Shad Village\\c[0] in Southeast \\c[3]\\v[area.jungle.name]\\c[0]",
+             "en_US": "Localize um possível cliente Shad na \\c[3]Aldeia dos Shads\\c[0] no sudeste do \\c[3]\\v[area.jungle.name]\\c[0]"
           }
         },
         "1": {
           "task": {
-            "": "Visit \\c[3]\"Owo\", the engineer Shad\\c[0] in his house in \\c[3]V'rda Vil East\\c[0]"
+            "": "Visit \\c[3]\"Owo\", the engineer Shad\\c[0] in his house in \\c[3]V'rda Vil East\\c[0]",
+             "en_US": "Visite \\c[3]\"Owo\", o engenheiro Shad\\c[0] na case dele em \\c[3]V'rda Vil Leste\\c[0]"
           }
         },
         "2": {
           "task": {
-            "": "\\c[3]Collect materials\\c[0] needed for the \\c[3]Natural Power Generator\\c[0]"
+            "": "\\c[3]Collect materials\\c[0] needed for the \\c[3]Natural Power Generator\\c[0]",
+             "en_US": "\\c[3]Colete materiais\\c[0] necessários para o \\c[3]Gerador de Energia Natural\\c[0]"
           }
         },
         "3": {
           "task": {
-            "": "Return to \\c[3]Owo'kyari\\c[0] in \\c[3]V'rda Vil East\\c[0], \\c[3]\\v[area.jungle.name]\\c[0] "
+            "": "Return to \\c[3]Owo'kyari\\c[0] in \\c[3]V'rda Vil East\\c[0], \\c[3]\\v[area.jungle.name]\\c[0] ",
+             "en_US": "Fale com \\c[3]Owo'kyari\\c[0] em \\c[3]V'rda Vil Leste\\c[0]"
           }
         },
         "4": {
           "task": {
-            "": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Lost Lookout\\c[0]"
+            "": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Lost Lookout\\c[0]",
+             "en_US": "Fale com \\c[3]Owo'kyari\\c[0] na \\c[3]Vigia Perdida\\c[0]"
           }
         },
         "5": {
           "task": {
-            "": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Lost Lookout\\c[0] to catch some \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]"
+            "": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Lost Lookout\\c[0] to catch some \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]",
+             "en_US": "Fale com \\c[3]Owo'kyari\\c[0] na \\c[3]Vigia Perdida\\c[0] para capturar alguns \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]"
           }
         },
         "6": {
           "task": {
-            "": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Infested Marshes North\\c[0] to catch some more \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]"
+            "": "Talk with \\c[3]Owo'kyari\\c[0] at \\c[3]Infested Marshes North\\c[0] to catch some more \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]",
+             "en_US": "Fale com \\c[3]Owo'kyari\\c[0] no \\c[3]Pântano Infestado Norte\\c[0] para capturar alguns \\c[3]\\v[combat.name.jungle/special/shockat-capture]s\\c[0]"
           }
         },
         "7": {
           "task": {
-            "": "Return once more to \\c[3]Owo'kyari\\c[0] in \\c[3]V'rda Vil East\\c[0], \\c[3]\\v[area.jungle.name]\\c[0]"
+            "": "Return once more to \\c[3]Owo'kyari\\c[0] in \\c[3]V'rda Vil East\\c[0], \\c[3]\\v[area.jungle.name]\\c[0]",
+             "en_US": "Fale com \\c[3]Owo'kyari\\c[0] novamente em \\c[3]V'rda Vil Leste\\c[0]"
           }
         },
         "8": {
           "task": {
-            "": "Report back to \\c[3]Mrs Basu\\c[0] in the \\c[3]Basin Trader HQ\\c[0]"
+            "": "Report back to \\c[3]Mrs Basu\\c[0] in the \\c[3]Basin Trader HQ\\c[0]",
+             "en_US": "Fale com a \\c[3]Sra. Basu\\c[0] no \\c[3]QG dos Comerciantes da Baixada\\c[0]"
           }
         }
       }
@@ -36526,30 +36537,36 @@
         "": "Nánii Tremoire"
       },
       "description": {
-        "": "A descendant of an innovative weapon smith implores you to find the parts of her family's greatest invention to put it back together. But is there more to this...?"
+        "": "A descendant of an innovative weapon smith implores you to find the parts of her family's greatest invention to put it back together. But is there more to this...?",
+        "en_US": "Uma descendente de um ferreiro inovador implora que você encontre as peças da maior invenção da família dela para montá-la novamente. Mas será que é só isso...?"
       },
       "briefing": {
-        "": "You collected all the parts of the old weapon and helped the Tremoire family to finally shake off their ancestral curse."
+        "": "You collected all the parts of the old weapon and helped the Tremoire family to finally shake off their ancestral curse.",
+        "en_US": "Você coletou todas as peças da arma antiga e ajudou a família Tremoire a se livrar finalmente de sua maldição ancestral."
       },
       "tasks": {
         "0": {
           "task": {
-            "": "Find enough \\c[3]Tremor Engines\\c[0] to upgrade the Tremor arms to a \\c[3]Shuddering Cleaver\\c[0]"
+            "": "Find enough \\c[3]Tremor Engines\\c[0] to upgrade the Tremor arms to a \\c[3]Shuddering Cleaver\\c[0]",
+            "en_US": "Encontre os \\c[3]Motores de Tremor\\c[0] para transformar a arma de tremor em um \\c[3]Cutelo Trêmulo\\c[0]"
           }
         },
         "1": {
           "task": {
-            "": "Go back to \\c[3]Ms. Tremoire\\c[0] and talk to her about the weapon"
+            "": "Go back to \\c[3]Ms. Tremoire\\c[0] and talk to her about the weapon",
+            "en_US": "Volte para a \\c[3]Sra. Tremoire\\c[0] e fale sobre a arma"
           }
         },
         "2": {
           "task": {
-            "": "Enter the \\c[3]remote Eastern house\\c[0] on \\c[3]Cliff Exhibition in \\v[area.rhombus-sqr.name]\\c[0] and search for \\c[3]the last component\\c[0]"
+            "": "Enter the \\c[3]remote Eastern house\\c[0] on \\c[3]Cliff Exhibition in \\v[area.rhombus-sqr.name]\\c[0] and search for \\c[3]the last component\\c[0]",
+            "en_US": "Entre no \\c[3]prédio remoto do leste\\c[0] em \\c[3]Exposição do Penhasco na \\v[area.rhombus-sqr.name]\\c[0] e procure pelo \\c[3]último componente\\c[0]"
           }
         },
         "3": {
           "task": {
-            "": "Report back to \\c[3]Ms. Tremoire\\c[0]"
+            "": "Report back to \\c[3]Ms. Tremoire\\c[0]",
+            "en_US": "Fale com a \\c[3]Sra. Tremoire\\c[0]"
           }
         }
       }
@@ -37215,25 +37232,29 @@
       },
       "description": {
         "": "The unauthorized shipments have to finally be stopped! You need to find the coordinating machine in the ocean and destroy it!",
-        "en_US": "The unauthorized shipments have to finally be stopped! You need to find the coordinating machine in the ocean and destroy it!"
+        "en_US": "É hora de acabar com o contrabando! Encontre a Torre Coordenadora no oceano e destrua-a!"
       },
       "briefing": {
-        "": "The coordinator is destroyed and with it the danger of further illegal weapon smuggling!"
+        "": "The coordinator is destroyed and with it the danger of further illegal weapon smuggling!",
+        "en_US": "A coordenadora foi destruída e, com ela, o perigo do contrabando de armas!"
       },
       "tasks": {
         "0": {
           "task": {
-            "": "Talk to \\c[3]Captain Turbine\\c[0] in Southern \\c[3]Beginners Arc\\c[0]"
+            "": "Talk to \\c[3]Captain Turbine\\c[0] in Southern \\c[3]Beginners Arc\\c[0]",
+            "en_US": "Fale com o \\c[3]Capitão Turbine\\c[0] no sul do \\c[3]Arco dos Iniciantes\\c[0]"
           }
         },
         "1": {
           "task": {
-            "": "Talk to \\c[3]Captain Turbine\\c[0] in \\c[3]Beginners Arc\\c[0] again and start the patrol"
+            "": "Talk to \\c[3]Captain Turbine\\c[0] in \\c[3]Beginners Arc\\c[0] again and start the patrol",
+            "en_US": "Fale com o \\c[3]Capitão Turbine\\c[0] no \\c[3]Arco dos Iniciantes\\c[0] novamente e inicie a patrulha"
           }
         },
         "2": {
           "task": {
-            "": "Report back to \\c[3]Sgt. Brassler\\c[0] in the \\c[3]Rookie Harbor Guard HQ\\c[0]"
+            "": "Report back to \\c[3]Sgt. Brassler\\c[0] in the \\c[3]Rookie Harbor Guard HQ\\c[0]",
+            "en_US": "Fale com o \\c[3]Sgt. Brassler\\c[0] no \\c[3]QG Guarda do Porto do Novato\\c[0]"
           }
         }
       }

@@ -1973,7 +1973,7 @@
                 "4": {
                   "message": {
                     "": "That's reassuring.\\. It sure beats teaching someone else how to use our battleship.",
-                    "en_US": "Isso é reconfortante. Com certeza é melhor do que ensinar outra pessoa a usar nosso \"navio de guerra\"."
+                    "en_US": "Isso é um alívio.\\. Com certeza é melhor do que ensinar outra pessoa a usar nosso \"navio de guerra\"."
                   }
                 },
                 "5": {
@@ -1984,7 +1984,7 @@
                 "6": {
                   "message": {
                     "": "So, I assume you remember our trusted NPC.",
-                    "en_US": "Portanto, presumo que você se lembre de nosso confiável CPN."
+                    "en_US": "Então, acho que você se lembra do nosso confiável CPN."
                   }
                 },
                 "12": {
@@ -1996,19 +1996,19 @@
                 "13": {
                   "message": {
                     "": "You will use it to patrol a new smuggling route, again, and take out the incoming weapons.",
-                    "en_US": "Você o usará para patrulhar uma nova rota de contrabando, novamente, e retirar as armas que chegam."
+                    "en_US": "Você vai usar ele para patrulhar uma nova rota de contrabando e eliminar as armas que pasam por lá."
                   }
                 },
                 "14": {
                   "message": {
                     "": "However, once you have defeated that wave, we will use their route to locate the position of the coordinator that controls them!",
-                    "en_US": "No entanto, uma vez derrotada essa onda, usaremos a rota deles para localizar a posição do coordenador deles!"
+                    "en_US": "Mas, depois de destruir essa carga, vamos utilizar a rota deles para localizar a coordenadora!"
                   }
                 },
                 "15": {
                   "message": {
                     "": "Destroying that will halt their operation completely and get us some data on the criminals behind that.",
-                    "en_US": "Destruir isso vai interromper completamente sua operação e nos dar alguns dados sobre os criminosos por trás disso."
+                    "en_US": "Destruir isso vai paralisar totalmente a operação deles e nos fornecer algumas informações sobre os criminosos por trás disso."
                   }
                 },
                 "16": {
@@ -2019,7 +2019,7 @@
                 "17": {
                   "message": {
                     "": "Well, that's your job. We also upgraded the \\c[3]Naval Protection Cannon\\c[0]'s weaponry a bit.",
-                    "en_US": "Bem, esse é o seu trabalho. Nós também atualizamos o armamento do \\c[3]Canhão de Proteção Naval\\c[0]."
+                    "en_US": "Bom, esse é o seu trabalho. Nós também atualizamos o \\c[3]Canhão de Proteção Naval\\c[0]."
                   }
                 },
                 "18": {
@@ -2031,7 +2031,7 @@
                 "19": {
                   "message": {
                     "": "Just mark targets with your \\c[3]charged projectiles\\c[0] as before.",
-                    "en_US": "Apenas marque os alvos com seus \\c[3]tiros carregados\\c[0] como antes."
+                    "en_US": "Tudo o que você precisa fazer é marcar um alvo com seus \\c[3]tiros carregados\\c[0], como antes."
                   }
                 },
                 "20": {
@@ -2042,7 +2042,7 @@
                 "21": {
                   "message": {
                     "": "Well, everything is ready to go. Just talk to me again once you wanna start your patrol.",
-                    "en_US": "Bem, tudo está pronto. Basta falar comigo novamente quando quiser começar sua patrulha."
+                    "en_US": "Bem, tudo está pronto. Fale comigo de novo quando quiser começar a patrulha."
                   }
                 },
                 "22": {
@@ -2080,7 +2080,7 @@
                     "8": {
                       "message": {
                         "": "Good.\\. The route is already programmed into the ship.\\. Just get aboard.",
-                        "en_US": "Bom.\\. A rota já está programada no navio.\\. Basta subir a bordo."
+                        "en_US": "Bom.\\. A rota já está programada no navio.\\. Suba a bordo."
                       }
                     },
                     "15": {
@@ -2092,13 +2092,13 @@
                     "16": {
                       "message": {
                         "": "Make sure to destroy as many weapons as you can.",
-                        "en_US": "Certifique-se de destruir o máximo de armas que puder."
+                        "en_US": "Destrua o máximo de armas que puder."
                       }
                     },
                     "17": {
                       "message": {
                         "": "If \\c[3]too many get through\\c[0] this operation will be considered \\c[3]failed\\c[0].",
-                        "en_US": "Se você deixar \\c[3]muitas armas passarem\\c[0] essa operação será considerada um \\c[3]fracasso\\c[0]."
+                        "en_US": "Se você deixar \\c[3]muitas armas passarem\\c[0] essa operação será considerada um \\c[1]fracasso\\c[0]."
                       }
                     },
                     "18": {
@@ -2109,7 +2109,7 @@
                     "19": {
                       "message": {
                         "": "Well, I'm sure you could've guessed that already.",
-                        "en_US": "Bem, acho que você deve saber o resultado disso."
+                        "en_US": "Acho que você deve saber o resultado disso."
                       }
                     },
                     "20": {
@@ -2155,7 +2155,7 @@
                     "1": {
                       "message": {
                         "": "Well, you will patrol the smuggling route and make sure those weapons don't reach the continent.",
-                        "en_US": "Bem, você vai patrulhar a rota do contrabando e certificar-se de que essas armas não cheguem ao continente."
+                        "en_US": "Você vai patrulhar a rota do contrabando e garantir que essas armas não cheguem ao continente."
                       }
                     },
                     "6": {
@@ -2167,7 +2167,7 @@
                     "7": {
                       "message": {
                         "": "To help you, we prepared this masterpiece of naval warfare that is able to fire devastating projectiles.",
-                        "en_US": "Para ajudá-la, preparamos esta obra-prima de guerra naval, capaz de disparar projéteis devastadores."
+                        "en_US": "Para ajudá-la, preparamos esta obra-prima de guerra naval, capaz de disparar tiros devastadores."
                       }
                     },
                     "8": {
@@ -2215,7 +2215,7 @@
                     "15": {
                       "message": {
                         "": "Lastly, \\c[3]Wave\\c[0] shots go in a \\c[3]penetrating straight line\\c[0] through enemies and also \\c[3]cause a useful \\c[1]Mark\\c[3] effect\\c[0].",
-                        "en_US": "E por fim, os tiros de \\c[3]Onda\\c[0] \\c[3]vão em uma linha reta penetrante\\c[0] atráves dos inimigos e também \\c[3]causam um feito de \\c[1]Marca\\c[3] bem útil\\c[0]."
+                        "en_US": "E por fim, os tiros de \\c[3]Onda\\c[0] avançam em uma \\c[3]linha reta penetrante\\c[0] atráves dos inimigos e também \\c[3]causam um feito de \\c[1]Marca\\c[3] bem útil\\c[0]."
                       }
                     },
                     "16": {
@@ -2244,7 +2244,7 @@
                     "24": {
                       "message": {
                         "": "Anyway, are you ready to go now?",
-                        "en_US": "De qualquer forma, você está pronta para ir agora?"
+                        "en_US": "Enfim, você está pronta para ir agora?"
                       }
                     }
                   },
@@ -2423,7 +2423,7 @@
           "15": {
             "message": {
               "": "\\v[lore.title.seeker], you did it!\\. The coordinator has been sunk along with the entire shipment!",
-              "en_US": "\\v[lore.title.seeker], você conseguiu!\\. O coordenador foi afundado junto com todo o embarque!"
+              "en_US": "\\v[lore.title.seeker], você conseguiu!\\. A coordenadora foi afundada junto com todo o contrabando!"
             }
           },
           "16": {
@@ -2434,7 +2434,7 @@
           "17": {
             "message": {
               "": "Our ship has become a terrific tool in your hands.\\. Better come back on land before you get too attached to it.",
-              "en_US": "Nosso navio tornou-se uma ferramenta fantástica nas suas mãos.\\. É melhor voltar a terra antes que fique muito apegado a ele."
+              "en_US": "Nosso canhão se tornou uma ferramenta fantástica nas suas mãos.\\. É melhor voltar à terra firme antes que fique muito apegada a ele."
             }
           },
           "18": {
@@ -2452,7 +2452,7 @@
           "28": {
             "message": {
               "": "Report back to Sgt. Brassler now, to get your reward and some well-deserved praise.",
-              "en_US": "Retorne ao Sargento Brassler agora, para pegar sua recompensa e merecidas congratulações."
+              "en_US": "Dirija-se ao Sargento Brassler agora para receber sua recompensa e os parabéns que você merece."
             }
           },
           "29": {

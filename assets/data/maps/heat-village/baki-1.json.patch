@@ -5,7 +5,7 @@
         "interact": {
           "hoverText": {
             "": "The rough gem in the west. Home to collectors and the Shad.",
-            "en_US": "A gema bruta do oeste. Lar de colecionadores e do Shad."
+            "en_US": "A gema bruta do oeste. Lar de colecionadores e dos Shads."
           },
           "title": {
             "": "- \\c[3]Ba'kii Kum\\c[0] -"
@@ -79,7 +79,7 @@
               "4": {
                 "message": {
                   "": "I mend big light panel you humans gave to Shad.",
-                  "en_US": "Conserto o grande painel de luz que vocês humanos deram ao Shad."
+                  "en_US": "Conserto o grande painel de luz que vocês humanos deram aos Shads."
                 }
               },
               "5": {
@@ -118,7 +118,7 @@
               "4": {
                 "message": {
                   "": "I mend big light panel you humans gave to Shad.",
-                  "en_US": "Conserto o grande painel de luz que vocês humanos deram aos Shad."
+                  "en_US": "Conserto o grande painel de luz que vocês humanos deram aos Shads."
                 }
               },
               "5": {
@@ -197,7 +197,7 @@
           "4": {
             "text": {
               "": "I was told this was like an urban village for these Shad or whatever.",
-              "en_US": "Me disseram que essa é a vila dos Shad ou seja lá o que eles são."
+              "en_US": "Me disseram que essa é a vila dos Shads ou seja lá o que eles são."
             }
           },
           "5": {
@@ -215,7 +215,7 @@
           "7": {
             "text": {
               "": "At least a friend told me there's some kind of relationship going on between humans and Shad.",
-              "en_US": "Pelo menos um amigo me disse que há algum tipo de relacionamento entre humanos e Shad."
+              "en_US": "Pelo menos um amigo me disse que há algum tipo de relacionamento entre humanos e Shads."
             }
           },
           "8": {
@@ -253,7 +253,7 @@
               "5": {
                 "message": {
                   "": "Helps to protect Shad and humans from hard desert.",
-                  "en_US": "Ajuda a proteger Shad e os humanos do rigoroso deserto."
+                  "en_US": "Ajuda a proteger Shads e os humanos do rigoroso deserto."
                 }
               },
               "6": {
@@ -289,7 +289,7 @@
               "0": {
                 "message": {
                   "": "I read about this. It's built by the humans to help the Shad.",
-                  "en_US": "Eu li sobre isso. Foi construído pelos humanos para ajudar o Shad."
+                  "en_US": "Eu li sobre isso. Foi construído pelos humanos para ajudar os Shads."
                 }
               }
             }

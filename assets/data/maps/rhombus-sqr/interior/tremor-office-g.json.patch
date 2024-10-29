@@ -19,7 +19,7 @@
               "2": {
                 "message": {
                   "": "A s-\\v[lore.title.seeker]?\\. D-don't mind me, nothing to f-find here..",
-                  "en_US": "Uma s-\\v[lore.title.seeker]?\\. N-não se importe comigo, nada para e-encontrar aqui.."
+                  "en_US": "Uma s-\\v[lore.title.seeker]?\\. N-não se importe comigo, não há nada para v-ver aqui."
                 }
               }
             }
@@ -35,7 +35,7 @@
                 "5": {
                   "message": {
                     "": "... T-this is g-getting w... worse and worse...",
-                    "en_US": "... E-isso está ficando c... cada vez pior..."
+                    "en_US": "... I-isso está ficando c... cada vez pior..."
                   }
                 },
                 "6": {
@@ -102,13 +102,13 @@
                     "8": {
                       "message": {
                         "": "... W-well.\\. If y-you are a-a-asking like that.\\. You m-might be w-wondering what is h-happening with me...",
-                        "en_US": "... B-bem.\\. Se você está perguntando assim.\\. Você d-deve estar se perguntando o que está acontecendo comigo..."
+                        "en_US": "S-se você está fazendo essa pergunta...\\. é por-por-porque quer s-saber o que está acontecendo c-comigo..."
                       }
                     },
                     "9": {
                       "message": {
                         "": "T-this sh-shaking.\\. It... It is l-like a c-c-curse... t-torturing the Tremoire f-family for g-generations.\\. ",
-                        "en_US": "E-esse tr-tremor.\\. É... É como uma m-m-maldição... t-torturando a f-família Tremoire por g-gerações.\\."
+                        "en_US": "E-esse tr-tremor.\\. É... É como uma m-m-maldição... que t-tortura a f-família Tremoire por g-gerações.\\."
                       }
                     },
                     "10": {
@@ -120,7 +120,7 @@
                     "11": {
                       "message": {
                         "": "My n-name's Nánii Tremoire a-and my gr-great gramps was a w-weaponsmith.\\. F-founder of \\c[3]Tremor Arms\\c[0].",
-                        "en_US": "Meu n-nome é Nánii Tremoire e-e meu gr-grande avô era um a-armeiro.\\. F-fundador da \\c[3]Tremor Armas\\c[0]."
+                        "en_US": "Meu n-nome é Nánii Tremoire e-e meu b-bisavô era um a-armeiro.\\. Fu-fundador da \\c[3]Armas do Tremor\\c[0]."
                       }
                     },
                     "12": {
@@ -137,7 +137,7 @@
                     "14": {
                       "message": {
                         "": "W-well...\\. Of c-course it h-had to go w-wrong.\\. A-ancient e-energy is d-dangerous after all.",
-                        "en_US": "B-bem...\\. Claro que t-teve que dar e-errado.\\. E-energia a-antiga  é p-perigosa, afinal."
+                        "en_US": "E é claro que isso de-deu errado.\\. A e-energia a-antiga é p-perigosa, afinal."
                       }
                     },
                     "15": {
@@ -148,13 +148,13 @@
                     "16": {
                       "message": {
                         "": "T-the destr-...tructive v-vibrations of the m-most powerful w-weapon affected its u-users as w-well.",
-                        "en_US": "A-as v-vibrações destru-...tivas da m-mais poderosa a-arma afetaram seus u-usuários t-também."
+                        "en_US": "A-as v-vibrações destru-...tivas da a-arma m-mais poderosa afetaram seus u-usuários t-também."
                       }
                     },
                     "17": {
                       "message": {
                         "": "So m-my gramps t-took it apart.\\. B-but that s-somehow put the c-curse on h-him and a-all his d-descendants.",
-                        "en_US": "Então m-meu avô a-a desmontou.\\. M-mas isso de a-alguma forma c-colocou a m-maldição n-nele e em t-todos os seus d-descendentes."
+                        "en_US": "Então m-meu bisavô a-a desmontou.\\. M-mas isso de a-alguma forma c-colocou a m-maldição n-nele e em t-todos os seus d-descendentes."
                       }
                     },
                     "18": {
@@ -166,7 +166,7 @@
                     "19": {
                       "message": {
                         "": "T-he Track's p-punishment for a-abandoning a ch-challenge, s-some Shad t-told me. ",
-                        "en_US": "A-a p-punição da Trilha  por a-abandonar um d-desafio, a-algum Shad me d-disse."
+                        "en_US": "Fo-foi uma p-punição da Trilha por a-abandonar um d-desafio, a-algum Shad me d-disse isso."
                       }
                     },
                     "20": {
@@ -178,7 +178,7 @@
                     "21": {
                       "message": {
                         "": "I-it is w-what it i-is.\\. N-now I have to s-suffer f-for it u-unless I c-can p-put all the p-parts back together.",
-                        "en_US": "E-é o q-que é.\\. A-agora eu tenho que s-sofrer p-por isso a-a menos que eu p-possa c-colocar todas as p-partes de volta juntas."
+                        "en_US": "A vi-vida é assim.\\. A-agora eu tenho que s-sofrer p-por isso, a-a menos que eu p-possa j-juntar todas as p-partes da arma."
                       }
                     },
                     "22": {
@@ -238,7 +238,7 @@
                     "6": {
                       "message": {
                         "": "B-but w-we w-will also n-need \\c[3]4 \\v[item.381.name]s\\c[0] t-to r-restore t-the w-weapon to its original f-form.",
-                        "en_US": "M-mas n-nós t-também vamos p-precisará de \\c[3]4 \\v[item.381.name]s\\c[0] p-para r-restaurar a-a a-arma para sua f-forma original."
+                        "en_US": "M-mas n-nós t-também vamos p-precisar de \\c[3]4 Motores de Tremor\\c[0] p-para r-restaurar a-a a-arma à sua f-forma original."
                       }
                     },
                     "7": {
@@ -250,7 +250,7 @@
                     "8": {
                       "message": {
                         "": "W-well, t-that's n-not all, b-but you b-better st-start th-there.\\. I c-can do the t-technical p-part w-with t-the m-material.",
-                        "en_US": "B-bem, i-isso n-não é tudo, m-mas é m-melhor você c-começar com i-isso.\\. Eu p-posso fazer a p-parte t-técnica c-com o-o m-material."
+                        "en_US": "I-isso n-não é tudo, m-mas é m-melhor você c-começar com i-isso.\\. Eu p-posso fazer a p-parte t-técnica c-com o-o m-material."
                       }
                     },
                     "9": {
@@ -276,7 +276,7 @@
                     "1": {
                       "message": {
                         "": "... I... I sh-should have k-known.\\. H-helping the c-child of a f... f-foolish family with her p-problem is a w-waste of time.",
-                        "en_US": "... Eu... eu de-deveria s-saber.\\. A-ajudar a c-criança de uma f... família t-tola com seu p-problema é uma p-perda de tempo."
+                        "en_US": "... Eu... eu de-devia s-saber.\\. A-ajudar uma des-descendente de uma f... família t-tola com seu p-problema é uma p-perda de tempo."
                       }
                     },
                     "2": {
@@ -336,7 +336,7 @@
                   "3": {
                     "message": {
                       "": "H-have you g-gotten e-everyth-thing or d-do you need s-some p-pointers as t-to w-where to f-find the \\c[3]\\v[item.381.name]s\\c[0]?",
-                      "en_US": "V-você conseguiu t-todas a-as c-coisa ou v-você precisa de a-algumas d-dicas de o-onde e-encontrar as \\c[3]\\v[item.381.name]s\\c[0]?"
+                      "en_US": "V-você conseguiu t-todas a-as pe-peças ou v-você precisa de a-algumas d-dicas de o-onde e-encontrar os \\c[3]Motores de Tremor\\c[0]?"
                     }
                   },
                   "5": {
@@ -399,7 +399,7 @@
                       "0": {
                         "message": {
                           "": "[nods askingly]",
-                          "en_US": "[acena interrogativamente]"
+                          "en_US": "[aceno de dúvida]"
                         }
                       },
                       "1": {
@@ -413,25 +413,25 @@
                           "0": {
                             "message": {
                               "": "F-first, you will need the base w-weapon, the \\v[item.13.name].",
-                              "en_US": "P-primeiro, você vai precisar da a-arma base, o \\v[item.13.name]."
+                              "en_US": "P-primeiro, você vai precisar da a-arma base, a \\v[item.13.name]."
                             }
                           },
                           "1": {
                             "message": {
                               "": "I-it w-was l-left in an \\c[3]underg-ground t-tunnel tow-wards P-Para Island\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0].",
-                              "en_US": "N-na e-esquerda de um \\c[3]t-túnel subter-râneo em dir-eção à Ilha P-Para\\c[0] em \\c[3]\\v[area.autumn-fall.name]\\c[0]."
+                              "en_US": "N-na e-esquerda de um \\c[3]t-túnel subter-râneo em dir-eção à Ilha P-Para\\c[0] no \\c[3]\\v[area.autumn-fall.name]\\c[0]."
                             }
                           },
                           "2": {
                             "message": {
                               "": "Th-Then you w-will n-need the \\c[3]4 Tremor Engines\\c[0] th-that w-were l-left all o-over \\v[lore.title.planet].",
-                              "en_US": "E-então você p-precisará das \\c[3]4 Mecanismos de Tremor\\c[0] q-que foram d-deixados p-por toda p-parte de \\v[lore.title.planet]."
+                              "en_US": "E-então você p-precisará dos \\c[3]4 Motores de Tremor\\c[0] q-que foram espa-palhados em \\v[lore.title.planet]."
                             }
                           },
                           "3": {
                             "message": {
                               "": "The f-first should be \\c[3]s-somewhere in t-the same tunnel the \\v[item.13.name]\\c[0].",
-                              "en_US": "O p-primeiro deve estar \\c[3]e-em algum lugar d-do mesmo túnel, o \\v[item.13.name]\\c[0]."
+                              "en_US": "O p-primeiro deve estar \\c[3]e-em algum lugar d-do mesmo túnel\\c[0], a \\c[3]\\v[item.13.name]\\c[0]."
                             }
                           }
                         },
@@ -439,13 +439,13 @@
                           "0": {
                             "message": {
                               "": "You w-will n-need a t-total of \\c[3]4 Tremor Engines\\c[0].\\. T-those w-were left a-all over \\v[lore.title.planet].",
-                              "en_US": "Você p-precisará de um t-total de \\c[3]4 Mecanismos de Tremor\\c[0].\\. Q-que foram d-deixados por \\v[lore.title.planet]."
+                              "en_US": "Você p-precisará de um t-total de \\c[3]4 Motores de Tremor\\c[0].\\. Q-que foram es-espalhados por aí em \\v[lore.title.planet]."
                             }
                           },
                           "1": {
                             "message": {
                               "": "The f-first sh-should be in t-the \\c[3]underg-ground t-tunnel tow-wards P-Para Island\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0].",
-                              "en_US": "O p-primeiro deve estar no \\c[3]t-túnel subter-râneo em dir-eção à Ilha P-Para\\c[0] em \\c[3]\\v[area.autumn-fall.name]\\c[0]."
+                              "en_US": "O p-primeiro deve estar no \\c[3]t-túnel subter-râneo em dir-eção à Ilha P-Para\\c[0] no \\c[3]\\v[area.autumn-fall.name]\\c[0]."
                             }
                           }
                         }
@@ -453,25 +453,25 @@
                       "3": {
                         "message": {
                           "": "The s-second was left \\c[3]in the s-shady part of \\v[area.jungle-city.name]\\c[0].\\. If n-no one st-stole it.",
-                          "en_US": "O s-segundo foi deixado \\c[3]na parte s-sombreada de \\v[area.jungle-city.name]\\c[0].\\. Se n-ninguém r-roubou."
+                          "en_US": "O s-segundo foi deixado \\c[3]na parte pe-perigosa da \\v[area.jungle-city.name]\\c[0].\\. Se n-ninguém r-roubou."
                         }
                       },
                       "4": {
                         "message": {
                           "": "As f-for the l-ast two, they w-were \\c[3]both h-hidden in \\v[area.forest.name]\\c[0].",
-                          "en_US": "Quanto a-aos dois últ-imos, eles f-foram \\c[3]ambos e-escondidos em \\v[area.forest.name]\\c[0]."
+                          "en_US": "Quanto a-aos dois últ-imos, eles f-foram \\c[3]e-escondidos na \\v[area.forest.name]\\c[0]."
                         }
                       },
                       "5": {
                         "message": {
                           "": "One is h-hidden \\c[3]W-West of the Cave Inn\\c[0], \\c[3]b-between b-bridges and r-rivers\\c[0].",
-                          "en_US": "Um deles e-escondido no \\c[3]O-oeste da Pousada da Caverna\\c[0], \\c[3]e-entre p-pontes e r-rios\\c[0]."
+                          "en_US": "Um deles foi e-escondido no \\c[3]O-oeste da Pousada da Caverna\\c[0], \\c[3]e-entre p-pontes e r-rios\\c[0]."
                         }
                       },
                       "6": {
                         "message": {
                           "": "The o-other w-was l-eft \\c[3]w-within a sp-spider nest\\c[0].\\. Ew..",
-                          "en_US": "E o o-outro f-foi d-deixado \\c[3]d-dentro de um ninho de ara-aranhas\\c[0].\\. Ew.."
+                          "en_US": "E o o-outro f-foi d-deixado \\c[3]d-dentro de um ninho de ara-aranhas\\c[0].\\. Eca.."
                         }
                       },
                       "7": {
@@ -538,7 +538,7 @@
                 "2": {
                   "message": {
                     "": "S-so, w-we g-got the \\c[3]\\v[item.419.name] c-completed\\c[0].\\. W-we can t-tackle t-the last p-part now.",
-                    "en_US": "E-então, n-nós c-conseguimos o \\c[3]\\v[item.419.name] c-completo\\c[0].\\. A-agora p-podemos a-atacar a-a última p-parte agora."
+                    "en_US": "E-então, n-nós c-conseguimos o \\c[3]\\v[item.419.name] c-completo\\c[0].\\. Agora, po-podemos concluir a última etapa."
                   }
                 },
                 "3": {
@@ -550,7 +550,7 @@
                 "4": {
                   "message": {
                     "": "T-there is a f-final p-part missing.\\. T-the c-core t-that my g-gramps put into a d-dangerous w-war machine.",
-                    "en_US": "F-falta a p-parte f-final.\\. O-o n-núcleo q-que meu a-avô colocou em uma p-perigosa máquina de g-guerra."
+                    "en_US": "F-falta a p-parte f-final.\\. O-o n-núcleo q-que meu bisavô colocou em uma máquina de g-guerra."
                   }
                 },
                 "5": {
@@ -562,13 +562,13 @@
                 "6": {
                   "message": {
                     "": "I-it w-was h-his d-duty a-as a cr-craftsman.\\. B-but it b-became too d-dangerous so h-he s-sealed it away.",
-                    "en_US": "E-era s-seu d-dever como um ar-artesão.\\. M-mas tornou-se muito p-perigoso, então e-ele a s-selou."
+                    "en_US": "E-era s-seu d-dever como um ar-artesão.\\. M-mas tornou-se muito p-perigosa, então e-ele a s-selou."
                   }
                 },
                 "8": {
                   "message": {
                     "": "S-so n-now it r-rests in o-our old l-laborat-tory, in the r-remote b-building on \\c[3]Cliff Exhibition, h-here i-in \\v[area.rhombus-sqr.name]\\c[0].",
-                    "en_US": "E-então, a-agora ela e-está em n-nosso antigo l-laboratório, no r-remoto e-edifício em \\c[3]Exibição no Penhasco, a-aqui e-em \\v[area.rhombus-sqr.name]\\c[0]."
+                    "en_US": "A-agora ela e-está em n-nosso antigo l-laboratório, no prédio afastado em \\c[3]Exposição do Penhasco, a-aqui na \\v[area.rhombus-sqr.name]\\c[0]."
                   }
                 },
                 "9": {
@@ -580,7 +580,7 @@
                 "10": {
                   "message": {
                     "": "\\c[3]D-destroy it and b-bring me its c-core\\c[0] so I c-can f-finally l-leave the sh-shaking behind.\\. P-please..",
-                    "en_US": "\\c[3]D-destrua-a e traga-me seu n-núcleo\\c[0] para que eu possa f-finalmente d-deixar o t-tremor para trás.\\. P-por favor.."
+                    "en_US": "\\c[3]D-destrua ela e traga o n-núcleo\\c[0] para que eu possa f-finalmente d-deixar o t-tremor para trás.\\. P-por favor.."
                   }
                 },
                 "11": {
@@ -609,13 +609,13 @@
               "2": {
                 "message": {
                   "": "G-go to o-our old l-laborat-tory, in the r-remote b-building on \\c[3]Cliff Exhibition, h-here in \\v[area.rhombus-sqr.name]\\c[0]",
-                  "en_US": "V-vá p-para n-nosso antigo l-laboratório, no r-remoto e-edifício em \\c[3]Exibição no Penhasco, a-aqui e-em \\v[area.rhombus-sqr.name]\\c[0]."
+                  "en_US": "V-vá p-para n-nosso antigo l-laboratório, em um pré-prédio afastado em \\c[3]Exposição do Penhasco, a-aqui na \\v[area.rhombus-sqr.name]\\c[0]."
                 }
               },
               "3": {
                 "message": {
                   "": "Aw-waken a-and defeat t-the m-machine in the b-basement and b-bring me the c-core.",
-                  "en_US": "D-desperte e-e derrote a-a m-máquina no p-porão e traga-me o n-núcleo."
+                  "en_US": "D-desperte e-e derrote a-a m-máquina no p-porão e traga o n-núcleo."
                 }
               }
             }
@@ -638,7 +638,7 @@
                 "3": {
                   "message": {
                     "": "S-\\v[lore.title.seeker], y-you're back.\\. A-and you g-got the c-core?",
-                    "en_US": "S-\\v[lore.title.seeker], v-você está de volta.\\. E-e você conseguiu o n-núcleo?"
+                    "en_US": "S-\\v[lore.title.seeker], v-você voltou.\\. Trouxe o n-núcleo?"
                   }
                 },
                 "4": {
@@ -650,7 +650,7 @@
                 "5": {
                   "message": {
                     "": "Th-That... That is g-great.\\. I can't b-believe I w-will f-finally be f-free again.",
-                    "en_US": "I-Isso... Isso é ó-ótimo.\\. Não posso a-acreditar que f-finalmente estarei l-livre de novo."
+                    "en_US": "I-Isso... isso é ó-ótimo.\\. Não posso a-acreditar que f-finalmente estarei l-livre de novo."
                   }
                 },
                 "6": {
@@ -661,7 +661,7 @@
                 "7": {
                   "message": {
                     "": "I w-will c-complete t-the w-weapon.\\. T-that w-will lift the c-curse... I h-hope.",
-                    "en_US": "Eu c-completarei a a-arma.\\. E-isso vai acabar com a m-maldição... Eu e-espero."
+                    "en_US": "Eu v-vou montar a a-arma.\\. E-isso vai acabar com a m-maldição... eu e-espero."
                   }
                 },
                 "8": {
@@ -689,7 +689,7 @@
                 "29": {
                   "message": {
                     "": "This feeling... It's liberating and peaceful at once.\\. \\v[lore.title.seeker], I can't thank you enough.",
-                    "en_US": "Esse sentimento... É libertador e pacífico ao mesmo tempo.\\. \\v[lore.title.seeker], não tenho palavras para agradecer."
+                    "en_US": "Essa sensação.. é libertadora e pacífica ao mesmo tempo.\\. \\v[lore.title.seeker], não tenho palavras para agradecer."
                   }
                 },
                 "30": {
@@ -700,13 +700,13 @@
                 "31": {
                   "message": {
                     "": "Well, you can take the completed weapon with you!\\. It is immensely powerful and that curse is lifted too!",
-                    "en_US": "Bem, você pode levar a arma pronta com você!\\. É imensamente poderosa e essa maldição é anulada também!"
+                    "en_US": "Você pode levar a arma com você!\\. Ela é muito poderosa e está livre da maldição!"
                   }
                 },
                 "32": {
                   "message": {
                     "": "And I could even make it \\c[3]ascend\\c[0] if you bring me the needed material.",
-                    "en_US": "E eu poderia até \\c[3]melhora-la\\c[0] se você me trouxer o material necessário."
+                    "en_US": "E eu posso \\c[3]melhorar\\c[0] ela se você me trouxer o material necessário."
                   }
                 },
                 "33": {
@@ -723,7 +723,7 @@
                 "35": {
                   "message": {
                     "": "Yes, goodbye.\\. And thank you again.",
-                    "en_US": "Sim, tchau.\\. E mais uma vez, obrigado."
+                    "en_US": "Sim, tchau.\\. E mais uma vez, obrigada."
                   }
                 }
               }

@@ -2286,7 +2286,7 @@
       },
       "description": {
         "": "Shad-crafted flowing robes, blessed by the Ancient power of the elements.",
-        "en_US": "Túnicas fluidas criadas pelos Shad, abençoadas pelo poder ancestral dos elementos."
+        "en_US": "Túnicas fluidas criadas pelos Shads, abençoadas pelo poder ancestral dos elementos."
       }
     },
     "216": {
@@ -4000,7 +4000,7 @@
       },
       "description": {
         "": "Sharp Spikes used as an alternative to metal on pikes by the Shad.",
-        "en_US": "Ponta afiada usada como alternativa ao metal nas lanças dos Shad."
+        "en_US": "Ponta afiada usada como alternativa ao metal nas lanças dos Shads."
       }
     },
     "387": {
@@ -6953,7 +6953,7 @@
       },
       "description": {
         "": "Allows access to the \\c[3]Tremor Lab\\c[0] in the Eastern part of \\c[3]Cliff Exhibition in \\v[area.rhombus-sqr.name]\\c[0]",
-        "en_US": "Permite o acesso ao \\c[3]Laboratório do Tremor\\c[0] na parte leste da \\c[3]Exibição no Penhasco\\c[0] na \\v[area.rhombus-sqr.name]\\c[0]"
+        "en_US": "Permite acesso ao \\c[3]Laboratório do Tremor\\c[0] na parte leste da \\c[3]Exposição do Penhasco\\c[0]"
       }
     },
     "656": {

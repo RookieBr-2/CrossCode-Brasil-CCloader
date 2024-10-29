@@ -78,7 +78,7 @@
                 "7": {
                   "message": {
                     "": "Ho, \\v[lore.title.seeker] finally there.\\. This dangerous place, not fun to wait around at.",
-                    "en_US": "Oba, \\v[lore.title.seeker] finalmente aqui.\\. Este lugar é perigoso, não é divertido esperar nele."
+                    "en_US": "Oba, \\v[lore.title.seeker] finalmente chegou.\\. Este lugar é perigoso, não foi divertido esperar nele."
                   }
                 },
                 "8": {
@@ -90,7 +90,7 @@
                 "9": {
                   "message": {
                     "": "Well, prepare took time as well.\\. There, look at machine!",
-                    "en_US": "Bem, preparativos também levaram tempo.\\. Ali, olhe a máquina!"
+                    "en_US": "Pois é, preparativos também levaram tempo.\\. Ali, olhe a máquina!"
                   }
                 },
                 "18": {
@@ -101,7 +101,7 @@
                 "19": {
                   "message": {
                     "": "I prepared it to be ready to capture adorable creature of electricity for use with technology.",
-                    "en_US": "Eu a preparei para estar pronta para capturar uma adorável criatura de eletricidade para uso com tecnologia."
+                    "en_US": "Eu a ajustei para que estivesse pronta para capturar uma adorável criatura elétrica."
                   }
                 },
                 "20": {
@@ -112,25 +112,25 @@
                 "21": {
                   "message": {
                     "": "I can lure special kitties whenever \\v[lore.title.seeker] ready.",
-                    "en_US": "Eu posso atrair gatos especiais assim que \\v[lore.title.seeker] estiver pronta."
+                    "en_US": "Eu vou atrair gatos especiais assim que \\v[lore.title.seeker] estiver pronta."
                   }
                 },
                 "23": {
                   "message": {
                     "": "When there, creature must be \\c[3]stunned to state of weakness\\c[0].",
-                    "en_US": "Quando surgir, a criatura deve ser \\c[3]atordoada com o estado de fraqueza\\c[0]."
+                    "en_US": "A criatura deve ser \\c[3]atordoada com sua fraqueza\\c[0]."
                   }
                 },
                 "24": {
                   "message": {
                     "": "Then \\c[3]hit machine with attack of Shock\\c[0] for it to proceed with the capture.",
-                    "en_US": "Então \\c[3]atinja a máquina com um ataque de Choque\\c[0] para que ela prossiga com a captura."
+                    "en_US": "Então \\c[3]atinja a máquina com ataques de Choque\\c[0] para que ela inicie a captura."
                   }
                 },
                 "25": {
                   "message": {
                     "": "However, \\c[3]capture easier when kitty health weakened\\c[0].\\. Keep in mind when kitty keep escaping.",
-                    "en_US": "Entretanto, a \\c[3]captura é mais fácil quando a saúde do gatinho está enfraquecida\\c[0].\\. Tenha em mente quando o gatinho continuar escapando."
+                    "en_US": "A \\c[3]captura é mais fácil quando a vida do gatinho estiver baixa\\c[0]\\c[0].\\. Lembre-se disso quando o gatinho continuar escapando."
                   }
                 },
                 "34": {
@@ -141,7 +141,7 @@
                 "35": {
                   "message": {
                     "": "\\v[lore.title.seeker] understand everything?",
-                    "en_US": "\\v[lore.title.seeker] entendeu tudo?"
+                    "en_US": "\\v[lore.title.seeker], entendeu tudo?"
                   }
                 },
                 "36": {
@@ -159,7 +159,7 @@
                 "38": {
                   "message": {
                     "": "And please no keep me here for long.\\. This place scary and moist and many great things to do in home!",
-                    "en_US": "E, por favor, não me mantenha aqui por muito tempo.\\. Este lugar assustador e úmido, e muitas coisas ótimas para se fazer em casa!"
+                    "en_US": "E, por favor, não me faça ficar aqui muito tempo.\\. Este lugar é assustador e úmido, e eu tenho muitas coisas interessantes para fazer em casa!"
                   }
                 },
                 "39": {
@@ -196,7 +196,7 @@
                     "3": {
                       "message": {
                         "": "Good!\\. Machine will now lure the right kind of creatures.\\. Be ready!",
-                        "en_US": "Ótimo!\\. A máquina agora vai atrair o tipo certo de criaturas. Esteja pronta!"
+                        "en_US": "Ótimo!\\. A máquina agora vai atrair as criaturas. Esteja pronta!"
                       }
                     },
                     "7": {
@@ -221,7 +221,7 @@
                     "22": {
                       "message": {
                         "": "Happy catching, \\v[lore.title.seeker].\\. I will wait here till one is inside cage.",
-                        "en_US": "Feliz captura, \\v[lore.title.seeker].\\. Vou esperar aqui até que um esteja dentro da gaiola."
+                        "en_US": "Boa sorte, \\v[lore.title.seeker].\\. Vou esperar aqui até que um esteja dentro da jaula."
                       }
                     }
                   },
@@ -235,7 +235,7 @@
                     "1": {
                       "message": {
                         "": "Oh, \\v[lore.title.seeker], please.\\. Make hurry and let me go back to home and work!",
-                        "en_US": "Ah, \\v[lore.title.seeker], por favor.\\. Seja rápida e me deixe voltar para casa e trabalhar!"
+                        "en_US": "Ah, \\v[lore.title.seeker].\\. Apresse-se para que eu possa voltar para casa e trabalhar!"
                       }
                     }
                   },
@@ -260,7 +260,7 @@
                     "11": {
                       "message": {
                         "": "I prepared it to be ready to capture adorable creature of electricity for use of with technology.",
-                        "en_US": "Eu a preparei para estar pronta para capturar uma adorável criatura de eletricidade para uso com tecnologia."
+                        "en_US": "Eu a ajustei para que estivesse pronta para capturar uma adorável criatura elétrica."
                       }
                     },
                     "12": {
@@ -271,25 +271,25 @@
                     "13": {
                       "message": {
                         "": "I can lure special kitties whenever \\v[lore.title.seeker] ready.",
-                        "en_US": "Eu posso atrair gatos especiais assim que \\v[lore.title.seeker] estiver pronta."
+                        "en_US": "Eu vou atrair gatos especiais assim que \\v[lore.title.seeker] estiver pronta."
                       }
                     },
                     "15": {
                       "message": {
                         "": "When there, creature must be \\c[3]stunned to state of weakness\\c[0].",
-                        "en_US": "Quando surgir, a criatura deve ser \\c[3]atordoada com o estado de fraqueza\\c[0]."
+                        "en_US": "A criatura deve ser \\c[3]atordoada com sua fraqueza\\c[0]."
                       }
                     },
                     "16": {
                       "message": {
                         "": "Then \\c[3]hit machine with attack of Shock\\c[0] for it to proceed with the capture.",
-                        "en_US": "Então \\c[3]atinja a máquina com um ataque de Choque\\c[0] para que ela prossiga com a captura."
+                        "en_US": "Então \\c[3]atinja a máquina com ataques de Choque\\c[0] para que ela inicie a captura."
                       }
                     },
                     "17": {
                       "message": {
                         "": "However, \\c[3]capture easier when kitty health weakened\\c[0].\\. Keep in mind when they keep escaping.",
-                        "en_US": "Entretanto, a \\c[3]captura é mais fácil quando a saúde do gatinho está enfraquecida\\c[0].\\. Tenha em mente quando o gatinho continuar escapando."
+                        "en_US": "A \\c[3]captura é mais fácil quando a vida do gatinho estiver baixa\\c[0]\\c[0].\\. Lembre-se disso quando o gatinho continuar escapando."
                       }
                     },
                     "26": {
@@ -300,7 +300,7 @@
                     "27": {
                       "message": {
                         "": "\\v[lore.title.seeker] now understand everything?",
-                        "en_US": "\\v[lore.title.seeker] entendeu tudo?"
+                        "en_US": "\\v[lore.title.seeker], entendeu tudo?"
                       }
                     }
                   },
@@ -339,13 +339,13 @@
               "0": {
                 "message": {
                   "": "Yes!\\. Kitty captured! \\v[lore.title.seeker] work very good!",
-                  "en_US": "Sim!\\. Gatinho capturado! \\v[lore.title.seeker] trabalho muito bom!"
+                  "en_US": "Sim!\\. Gatinho capturado! \\v[lore.title.seeker] bom trabalho!"
                 }
               },
               "1": {
                 "message": {
                   "": "Now other enemies must get mobbed to retrieve cage safely!",
-                  "en_US": "Agora outros inimigos devem ser afastados para recuperar a gaiola com segurança!"
+                  "en_US": "Agora outros inimigos devem ser afastados para recuperar a jaula com segurança!"
                 }
               }
             }
@@ -364,7 +364,7 @@
           "26": {
             "message": {
               "": "You did it.\\. Cage actually works well, what pleasant surprise!",
-              "en_US": "VocÊ conseguiu.\\. A jaula realmente funciona bem, que surpresa agradável!"
+              "en_US": "Você conseguiu.\\. A jaula funcionou bem, que surpresa agradável!"
             }
           },
           "27": {
@@ -376,7 +376,7 @@
           "28": {
             "message": {
               "": "Well, is that not fine specimen?\\. Teeming with power, just ideal.",
-              "en_US": "Bem, não é um bom espécime?\\. Cheio de poder, apenas ideal."
+              "en_US": "Olha, não é um bom espécime?\\. Cheio de poder, perfeito."
             }
           },
           "29": {
@@ -388,13 +388,13 @@
           "30": {
             "message": {
               "": "Though, we be needing 2 more and they not be catched themselves.\\. So follow me to \\c[3]Infested Marshes North\\c[0].",
-              "en_US": "No entanto, precisamos de mais 2 e eles mesmos não se capturarão sozinhos.\\. Então, sigam-me para o \\c[3]Pântano Infestado Norte\\c[0]."
+              "en_US": "Agora, precisamos de mais 2, e eles não vão se capturar sozinhos\\. Então, sigam-me para o \\c[3]Pântano Infestado Norte\\c[0]."
             }
           },
           "31": {
             "message": {
               "": "Cage with capture cat will teleport home meanwhile.\\. Wish that was me, but work needs doing.",
-              "en_US": "Enquanto isso, a gaiola com gato capturado se teleportará para casa.\\. Quem me dera que fosse eu, mas o trabalho precisa ser feito."
+              "en_US": "Enquanto isso, a jaula com gato capturado se teleportará para minha casa.\\. Quem me dera que fosse eu, mas o trabalho precisa ser feito."
             }
           },
           "32": {
@@ -423,7 +423,7 @@
           "2": {
             "message": {
               "": "More have to be lured now.\\. Please try to capture at least one before all killed!",
-              "en_US": "Agora mais deles precisam ser atraídos.\\. Por favor, tente capturar pelo menos um antes que todos sejam mortos!"
+              "en_US": "Agora, preciso atrair mais deles.\\. Por favor, tente capturar pelo menos um antes que todos sejam mortos!"
             }
           }
         }
