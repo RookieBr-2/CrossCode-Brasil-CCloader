@@ -15,7 +15,7 @@
               "settings": {
                 "text": {
                   "": "Ship HP",
-                  "en_US": "PV do Barco"
+                  "en_US": "HP do Barco"
                 }
               }
             }
@@ -29,7 +29,7 @@
                 },
                 "text": {
                   "": "Battleship HP",
-                  "en_US": "PV do Navio de Combate"
+                  "en_US": "HP do Navio de Combate"
                 }
               }
             }

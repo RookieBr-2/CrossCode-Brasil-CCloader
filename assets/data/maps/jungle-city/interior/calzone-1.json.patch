@@ -194,13 +194,13 @@
                     "3": {
                       "message": {
                         "": "Wait!",
-                        "en_US": "Espere!"
+                        "en_US": "Espera!"
                       }
                     },
                     "4": {
                       "message": {
                         "": "Ha, that is new.\\. A noble \\v[lore.title.seeker] coming to the likes of me for information?\\. Interesting times.",
-                        "en_US": "Ha, isso é novo.\\. Um nobre \\v[lore.title.seeker] vindo até mim para obter informações?\\. Tempos interessantes."
+                        "en_US": "Quem diria, hein?\\. Uma nobre \v[lore.title.seeker] procurando informações comigo?\\. Olha só onde viemos parar."
                       }
                     },
                     "5": {
@@ -212,7 +212,7 @@
                     "6": {
                       "message": {
                         "": "Well, surely I might have some information on the affairs of those winged crooks.\\. But I won't share it for free, feel me?",
-                        "en_US": "Bem, com certeza eu poderia ter alguma informação sobre os negócios daqueles bandidos alados.\\. Mas eu não vou compartilhar de graça, me entende?"
+                        "en_US": "Talvez eu saiba umas paradas sobre esses bandidos voadores, mas, é claro, nada vem de graça, né?"
                       }
                     },
                     "7": {
@@ -229,13 +229,13 @@
                     "9": {
                       "message": {
                         "": "Well, I am a humble informant.\\. And hungry besides.",
-                        "en_US": "Bem, eu sou um informante humilde.\\. E com fome além disso."
+                        "en_US": "Sou só um pobre informante.\\. E pra piorar, tô com fome."
                       }
                     },
                     "10": {
                       "message": {
                         "": "So\\..\\..\\.. Just, give me \\c[3]7000 credits\\c[0] and \\c[3]3 Chef Sandwiches\\c[0] and we have a deal.",
-                        "en_US": "Então\\..\\..\\.. apenas me dê \\c[3]7000 créditos\\c[0] e \\c[3]3 Sanduíches do Chef\\c[0] e nós temos um acordo."
+                        "en_US": "Então\\..\\..\\.. é só me dar \\c[3]7000 créditos\\c[0] e \\c[3]3 Sanduíches do Chef\\c[0] que o trato tá feito."
                       }
                     }
                   },
@@ -243,13 +243,13 @@
                     "0": {
                       "message": {
                         "": "Ah, Ms. \\v[lore.title.seeker]?\\. Changed your mind about my offer?",
-                        "en_US": "Ah, Sra. \\v[lore.title.seeker]?\\. Mudou de ideia sobre a minha oferta?"
+                        "en_US": "E aí, Srta. \\v[lore.title.seeker]?\\. Mudou de ideia e vai aceitar minha oferta?"
                       }
                     },
                     "1": {
                       "message": {
                         "": "It's still \\c[3]7000 credits\\c[0] and \\c[3]3 Chef Sandwiches\\c[0] for the information you need.",
-                        "en_US": "Ainda são \\c[3]7000 créditos\\c[0] e \\c[3]3 Sanduíches de Chef\\c[0] para as informações que você precisa."
+                        "en_US": "Ainda são \\c[3]7000 créditos\\c[0] e \\c[3]3 Sanduíches de Chef\\c[0] pra conseguir essas informações."
                       }
                     }
                   }
@@ -257,7 +257,7 @@
                 "5": {
                   "message": {
                     "": "Sounds fair?",
-                    "en_US": "Parece justo?"
+                    "en_US": "Fechado?"
                   }
                 },
                 "6": {
@@ -271,7 +271,7 @@
                     "3": {
                       "message": {
                         "": "Ah, perfect.\\. I can already taste those precious sandwiches.\\. Today is a good day.",
-                        "en_US": "Ah, perfeito.\\. Já estou sentindo o gosto desses preciosos sanduíches.\\. Hoje é um dia bom."
+                        "en_US": "Ah, suave!\\. Tô aqui imaginando o sabor desses sandubas.\\. Hoje é dia de aproveitar a vida."
                       }
                     },
                     "4": {
@@ -283,7 +283,7 @@
                     "5": {
                       "message": {
                         "": "Ah, right.\\. Well, I don't actually know the location of the HQ those birds live in.",
-                        "en_US": "Ah, certo.\\. Bem, eu realmente não sei a localização do QG onde esses pássaros vivem."
+                        "en_US": "Na moral,\\. não sei onde fica o esconderijo deles."
                       }
                     },
                     "6": {
@@ -295,19 +295,19 @@
                     "7": {
                       "message": {
                         "": "Buuuut... I know of someone who could lead you there!",
-                        "en_US": "Maaaaas... Conheço alguém que poderia te levar até lá!"
+                        "en_US": "Maaaaas... conheço um malandro que pode te levar até lá!"
                       }
                     },
                     "9": {
                       "message": {
                         "": "There is this weird guy in our slums.\\. Huge nose, not much for words.\\. Trades some suspicious bird-related merchandise.",
-                        "en_US": "Tem um cara estranho em nossas favelas.\\. Nariz enorme, sem muitas palavras.\\. Negocia algumas mercadorias suspeitas relacionadas a pássaros."
+                        "en_US": "É um cara meio cabuloso na quebrada.\\. Nariz enorme, fala pouco.\\. Ele tá fazendo uns corres suspeitos com pássaros."
                       }
                     },
                     "10": {
                       "message": {
                         "": "Search for him in the \\c[3]back alleys around here\\c[0] and try to \\c[3]set up a trade with him\\c[0].\\. That might get his trust.",
-                        "en_US": "Procure por ele nos \\c[3]becos por aqui\\c[0] e tente \\c[3]fazer uma troca com ele\\c[0].\\. Assim pode ganhar sua confiança."
+                        "en_US": "Procura ele nos \\c[3]becos\\c[0] e tenta \\c[3]comprar um bagulho com ele\\c[0].\\. Assim, você ganha a confiança do cara."
                       }
                     },
                     "11": {
@@ -319,7 +319,7 @@
                     "12": {
                       "message": {
                         "": "Well, that's all the info I got for you.\\. Take it or leave it, I got me some sandwiches to enjoy!",
-                        "en_US": "Bem, essas são todas as informações que tenho para você.\\. É pegar ou largar, eu tenho alguns sanduíches para desfrutar!"
+                        "en_US": "É isso aí, essas são todas as informações que eu tenho. É pegar ou largar, agora vou comer meu rango!"
                       }
                     },
                     "13": {
@@ -339,7 +339,7 @@
                     "1": {
                       "message": {
                         "": "Oh well, your decision.\\. I'll be waiting if you change your mind.",
-                        "en_US": "Ah, bem, sua decisão.\\. Estarei esperando se mudar de ideia."
+                        "en_US": "Ah, tranquilo, a decisão é sua.\\. Vou estar aqui se mudar de ideia."
                       }
                     },
                     "2": {
@@ -353,7 +353,7 @@
                     "0": {
                       "label": {
                         "": "[Pay \\c[1]\\v[tmp.payment] credits\\c[0] (\\c[3]\\v[player.money]\\c[0] held) and \\c[1]3 \\v[item.28.name]\\c[0] (\\c[3]\\v[item.28.amount]\\c[0] held)]",
-                        "en_US": "[Pagar \\c[1]\\v[tmp.payment] créditos\\c[0] (possuí \\c[3]\\v[player.money]\\c[0]) e \\c[1]3 \\v[item.28.name]\\c[0] (possuí \\c[3]\\v[item.28.amount]\\c[0])]"
+                        "en_US": "[Pagar \\c[1]\\v[tmp.payment] créditos\\c[0] (possuí \\c[3]\\v[player.money]\\c[0]) e \\c[1]3 Sanduíches de Chef\\c[0] (possuí \\c[3]\\v[item.28.amount]\\c[0])]"
                       }
                     },
                     "1": {
@@ -377,13 +377,13 @@
               "2": {
                 "message": {
                   "": "Search the \\c[3]back alleys around here\\c[0] for \\c[3]some shady guy with a gigantic nose\\c[0].",
-                  "en_US": "Procure nos \\c[3]becos por aqui\\c[0] por \\c[3]algum cara sombrio com um nariz gigantesco\\c[0]."
+                  "en_US": "Procure nos \\c[3]becos\\c[0] por \\c[3]um maluco cabuloso de nariz gigante\\c[0]."
                 }
               },
               "3": {
                 "message": {
                   "": "If you \\c[3]start trading with him\\c[0] you might get his trust and the information you need.",
-                  "en_US": "Se você \\c[3]começar a negociar com ele\\c[0], poderá obter a confiança dele e as informações de que precisa."
+                  "en_US": "Se você \\c[3]comprar um bagulho com ele\\c[0], vai conseguir a confiança dele e as informações que precisa."
                 }
               }
             }

@@ -1030,7 +1030,7 @@
                       "15": {
                         "text": {
                           "": "The \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] turned out to just be \\c[3]\\v[item.503.name]\\c[0]!\n\n\\c[1]It was a scam!\\c[0]",
-                          "en_US": "O \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] acabou sendo apenas \\c[3]\\v[item.503.name]\\c[0]!\n\n\\c[1]Foi uma farsa!\\c[0]"
+                          "en_US": "O \\c[3]\\v[g.birdScam] \\v[item.623.name]\\c[0] era na verdade \\c[3]\\v[item.503.name]\\c[0]!\n\n\\c[1]Foi uma farsa\\c[0]"
                         }
                       },
                       "19": {
@@ -1083,7 +1083,7 @@
                 "4": {
                   "message": {
                     "": "Ah, squawks...!\\. Human!\\. Go away!",
-                    "en_US": "Ah, grasnados...!\\. Humana!\\. Vá embora!"
+                    "en_US": "Ah, croak...!\\. Humana!\\. Vá embora!"
                   }
                 },
                 "5": {

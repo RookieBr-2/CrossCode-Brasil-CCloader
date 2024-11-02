@@ -391,7 +391,7 @@
           "13": {
             "message": {
               "": "Good, I will mark the first spot I have to investigate!",
-              "en_US": "Bom, vou marcar o primeiro ponto que tenho que investigar!"
+              "en_US": "Vou marcar o primeiro ponto que tenho que inspecionar!"
             }
           },
           "22": {
@@ -433,7 +433,7 @@
               "settings": {
                 "text": {
                   "": "Escortee Life",
-                  "en_US": "Linde HP"
+                  "en_US": "HP de Linde"
                 },
                 "taskTitle": {
                   "": "Energy",
@@ -467,13 +467,13 @@
           "33": {
             "message": {
               "": "Now we will need to cause some ruckus for those salt-bearing critters to appear.",
-              "en_US": "Agora vamos precisar fazer barulho, para que as criaturas portadores de sal apareçam."
+              "en_US": "Hora de fazer barulho para chamar as criaturas que trazem o sal."
             }
           },
           "34": {
             "message": {
               "": "I will get everything prepared for that.\\. Just talk to me again when you want to wrap this up.",
-              "en_US": "Vou preparar tudo para isso.\\. Fale comigo de novo quando quiser encerrar isso."
+              "en_US": "Vou deixar tudo pronto.\\. Fale comigo de novo quando quiser finalizar."
             }
           },
           "35": {
@@ -582,7 +582,7 @@
                           "0": {
                             "message": {
                               "": "Ouchie... seems like they really are angry.",
-                              "en_US": "Aíi... parece que eles realmente estão com raiva."
+                              "en_US": "Aíi... parece que eles estão com raiva."
                             }
                           }
                         }
@@ -633,7 +633,7 @@
                 "9": {
                   "message": {
                     "": "Ahh, \\v[lore.title.seeker], great to see you again!",
-                    "en_US": "Ahh, \\v[lore.title.seeker], ótimo ver você de novo!"
+                    "en_US": "Ahh, \\v[lore.title.seeker], que bom te ver de novo!"
                   }
                 },
                 "10": {
@@ -645,7 +645,7 @@
                 "11": {
                   "message": {
                     "": "Yeah, we can work together again.\\. And look at you, even more impressive and shiny than last time!",
-                    "en_US": "Sim, podemos trabalhar juntas novamente.\\. E olhe para você, ainda mais impressionante e brilhante do que da última vez!"
+                    "en_US": "Sim, vamos trabalhar juntas novamente.\\. E olha só, você está ainda mais radiante do que antes!"
                   }
                 },
                 "12": {
@@ -656,7 +656,7 @@
                 "13": {
                   "message": {
                     "": "Can't brag that much about myself, but I tried my best. l pull my weight with the Gardeners.\\. We'll be a great team!",
-                    "en_US": "Não posso me gabar tanto assim, mas dei o meu melhor. Eu puxo peso com os Jarnineiros afinal.\\. Seremos uma ótima equipe!"
+                    "en_US": "Apesar de não ser forte, me esforço ao máximo para ajudar com minhas habilidades.\\. Vamos formar uma grande equipe!"
                   }
                 },
                 "14": {
@@ -680,7 +680,7 @@
                 "17": {
                   "message": {
                     "": "It'll be the same for you as last time.\\. Just hold off the angry critters that want to bite off a piece of me, ha...",
-                    "en_US": "Vai ser o mesmo como da última vez.\\. Apenas segure as criaturas raivosas que querem morder um pedaço de mim, ha..."
+                    "en_US": "Vai ser igual da última vez.\\. É só manter as criaturas furiosas longe de mim."
                   }
                 },
                 "18": {
@@ -691,13 +691,13 @@
                 "19": {
                   "message": {
                     "": "No, but seriously, please do.\\. The wildlife here is scary, I tell ya.",
-                    "en_US": "Não, mas sério, por favor, faça.\\. A vida selvagem aqui é assustadora, eu te digo."
+                    "en_US": "Acredite, a vida selvagem aqui é assustadora."
                   }
                 },
                 "20": {
                   "message": {
                     "": "Anyway, I gotta prepare myself.\\. Talk to me again when you are ready to go!",
-                    "en_US": "Enfim, tenho que me preparar.\\. Fale comigo de novo quando estiver pronta para ir!"
+                    "en_US": "Enfim, tenho que me preparar.\\. Fale comigo de novo quando estiver pronta!"
                   }
                 },
                 "21": {
@@ -795,7 +795,7 @@
                     "2": {
                       "message": {
                         "": "Awesome!\\. I will stir up the water a bit to lure out the blobs!",
-                        "en_US": "Incrível!\\. Vou agitar um pouco a água para atrair as blobs!"
+                        "en_US": "Ótimo!\\. Vou agitar um pouco a água para atrair os blobs!"
                       }
                     },
                     "63": {
@@ -806,13 +806,13 @@
                     "64": {
                       "message": {
                         "": "Look, \\v[lore.title.seeker], there they are in all their squishy, salty beauty!",
-                        "en_US": "Olhe \\v[lore.title.seeker], lá estão eles em toda malemolência e beleza salgada!"
+                        "en_US": "Olha \\v[lore.title.seeker], aí estão eles, cheios de malemolência e beleza salgada!"
                       }
                     },
                     "65": {
                       "message": {
                         "": "Now you need to \\c[3]weaken\\c[0] and then \\c[3]pacify them with the Wave element\\c[0], so I can properly absorb them!",
-                        "en_US": "Agora você precisa \\c[3]enfraquece-los\\c[0] e então \\c[3]acalmá-los com o elemento Onda\\c[0], para que eu possa absorvê-los adequadamente!"
+                        "en_US": "Agora você precisa \\c[3]enfraquece-los\\c[0] e então \\c[3]acalmá-los com o elemento Onda\\c[0], para que eu possa absorvê-los!"
                       }
                     },
                     "66": {
@@ -840,7 +840,7 @@
                         "settings": {
                           "text": {
                             "": "Escortee Life",
-                            "en_US": "Linde HP"
+                            "en_US": "HP de Linde"
                           },
                           "taskTitle": {
                             "": "Energy",
@@ -901,7 +901,7 @@
           "3": {
             "message": {
               "": "There's more of those beach critters!",
-              "en_US": "Tem mais desses bichinhos de praia!"
+              "en_US": "Tem mais desses monstrinhos da praia!!"
             }
           }
         }
@@ -941,7 +941,7 @@
           "3": {
             "message": {
               "": "More of them... not my type of day at the beach.",
-              "en_US": "Mais deles... não é meu tipo de dia na praia."
+              "en_US": "Mais deles... não foi bem o dia de praia que eu imaginei."
             }
           }
         }
@@ -974,7 +974,7 @@
           "24": {
             "message": {
               "": "Still not the spot.\\. But it leads to that island back there.\\. That MUST be it, \\v[lore.title.seeker]!",
-              "en_US": "Ainda não é o ponto.\\. Mas leva para aquela ilha lá atrás.\\. DEVE ser isso \\v[lore.title.seeker]!"
+              "en_US": "Ainda não é o ponto.\\. Mas leva para aquela ilha ali embaixo.\\. DEVE ser lá \\v[lore.title.seeker]!"
             }
           },
           "25": {
@@ -991,7 +991,7 @@
           "3": {
             "message": {
               "": "They really don't want us to reach the spot, eh?",
-              "en_US": "Eles realmente não querem que cheguemos no ponto, hein?"
+              "en_US": "É, parece que eles não querem mesmo que a gente chegue no ponto."
             }
           }
         }
@@ -1003,7 +1003,7 @@
           "1": {
             "message": {
               "": "Yes, picking up a lot of energy already.\\. This might be it, \\v[lore.title.seeker]!",
-              "en_US": "Sim, já estou captando muita energia.\\. Pode ser isso \\v[lore.title.seeker]!"
+              "en_US": "Sim, estou captando muita energia \\v[lore.title.seeker]!"
             }
           },
           "2": {
@@ -1019,7 +1019,7 @@
           "15": {
             "message": {
               "": "Investigation done, this is definitely the place!",
-              "en_US": "Investigação concluída, esse é definitivamente o lugar!"
+              "en_US": "Investigação concluída, esse é o lugar certo!"
             }
           },
           "16": {
@@ -1027,7 +1027,7 @@
               "0": {
                 "message": {
                   "": "Just get rid of the remaining enemies and we can begin extracting the salt!",
-                  "en_US": "Apenas se livre dos inimigos restantes e podemos começar a extrair o sal!"
+                  "en_US": "Derrote os inimigos restantes, e aí podemos começar a extrair o sal!"
                 }
               }
             }
@@ -1077,13 +1077,13 @@
                           "1": {
                             "message": {
                               "": "Yeah! That's all \\v[lore.title.seeker], great job!",
-                              "en_US": "Sim! Isso é tudo \\v[lore.title.seeker], ótimo trabalho!"
+                              "en_US": "Sim! Isso é tudo \\v[lore.title.seeker], bom trabalho!"
                             }
                           },
                           "2": {
                             "message": {
                               "": "Now we just \\c[3]need to get rid of the rest\\c[0], so we can relax and go back!",
-                              "en_US": "Agora só falta \\c[3]nos livrarmos dos que sobraram\\c[0], para podermos relaxar e voltar!"
+                              "en_US": "Agora só falta \\c[3]se livrar dos que sobraram\\c[0], para podermos voltar e relaxar!"
                             }
                           }
                         }
@@ -1119,13 +1119,13 @@
               "0": {
                 "message": {
                   "": "Aw, \\v[lore.title.seeker]!\\. All of the salty blobs are gone before we got enough salt!",
-                  "en_US": "Ah \\v[lore.title.seeker]!\\. Todas as blobs salgadas desapareceram antes conseguirmos o suficiente!"
+                  "en_US": "Ah \\v[lore.title.seeker]!\\. Os blobs salgados sumiram antes de conseguirmos coletar o suficiente!"
                 }
               },
               "1": {
                 "message": {
                   "": "We better wait for more to appear, so I can fill the tank!",
-                  "en_US": "É melhor esperarmos que apareçam mais, para enchermos o tanque!"
+                  "en_US": "Acho melhor esperar aparecerem mais para enchermos o tanque!"
                 }
               }
             }
@@ -1161,7 +1161,7 @@
           "31": {
             "message": {
               "": "I just knew that we'd get this done.\\. Jungle or beach, you can rely on a \\v[lore.title.seeker]!",
-              "en_US": "Eu sabia que faríamos isso.\\. Na selva ou praia, você pode contar com uma \\v[lore.title.seeker]!"
+              "en_US": "Eu sabia que daríamos conta.\\. Na selva ou praia, uma \\v[lore.title.seeker] sempre cumpre a missão!"
             }
           },
           "32": {
@@ -1172,7 +1172,7 @@
           "33": {
             "message": {
               "": "But I gotta hurry back to the HQ so we can get our tools ready.\\. I will see you later!",
-              "en_US": "Mas tenho que voltar correndo para o QG e preparar nossas ferramentas.\\. Vejo você mais tarde!"
+              "en_US": "Tenho que voltar correndo para o QG e preparar nossas ferramentas.\\. Vejo você mais tarde!"
             }
           },
           "34": {

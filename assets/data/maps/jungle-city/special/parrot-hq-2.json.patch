@@ -20,7 +20,7 @@
               "2": {
                 "message": {
                   "": "No drinks unless the boss gives his okay.",
-                  "en_US": "Sem bebidas a menos que o chefe permita."
+                  "en_US": "Sem bebidas, a menos que o chefe libere."
                 }
               },
               "3": {
@@ -48,7 +48,7 @@
               "9": {
                 "text": {
                   "": "[disrespectful bird noises]",
-                  "en_US": "[barulhos desrespeitosos de pássaros]"
+                  "en_US": "[sons de pássaro debochado]"
                 }
               },
               "12": {
@@ -60,7 +60,7 @@
               "16": {
                 "text": {
                   "": "[curses of the bird variety]",
-                  "en_US": "[variadas maldições de pássaros]"
+                  "en_US": "[variadas ofensas de pássaro]"
                 }
               },
               "19": {
@@ -172,7 +172,7 @@
               "1": {
                 "text": {
                   "": "[Angry bird noises]",
-                  "en_US": "[barulhos de pássaro raivoso]"
+                  "en_US": "[sons de pássaro raivoso]"
                 }
               }
             }
@@ -182,7 +182,7 @@
               "2": {
                 "text": {
                   "": "[Angry goat noises]",
-                  "en_US": "[barulhos de pássaro raivoso]"
+                  "en_US": "[sons de cabra raivosa]"
                 }
               }
             }
@@ -192,7 +192,7 @@
               "1": {
                 "text": {
                   "": "[Angry bird noises]",
-                  "en_US": "[barulhos de pássaro raivoso]"
+                  "en_US": "[sons de pássaro raivoso]"
                 }
               }
             }
@@ -202,7 +202,7 @@
               "2": {
                 "text": {
                   "": "[Angry goat noises]",
-                  "en_US": "[barulhos de pássaro raivoso]"
+                  "en_US": "[sons de cabra raivosa]"
                 }
               }
             }
@@ -218,7 +218,7 @@
               "1": {
                 "text": {
                   "": "[Angry bird noises]",
-                  "en_US": "[barulhos de pássaro raivoso]"
+                  "en_US": "[sons de pássaro raivoso]"
                 }
               }
             }
@@ -228,7 +228,7 @@
               "1": {
                 "text": {
                   "": "[Angry bird noises]",
-                  "en_US": "[barulhos de pássaro raivoso]"
+                  "en_US": "[sons de pássaro raivoso]"
                 }
               }
             }
@@ -238,7 +238,7 @@
               "1": {
                 "text": {
                   "": "[Angry bird noises]",
-                  "en_US": "[barulhos de pássaro raivoso]"
+                  "en_US": "[sons de pássaro raivoso]"
                 }
               }
             }
@@ -248,7 +248,7 @@
               "1": {
                 "text": {
                   "": "[Angry bird noises]",
-                  "en_US": "[barulhos de pássaro raivoso]"
+                  "en_US": "[sons de pássaro raivoso]"
                 }
               }
             }

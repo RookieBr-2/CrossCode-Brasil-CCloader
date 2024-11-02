@@ -272,7 +272,7 @@
                     "13": {
                       "message": {
                         "": "Several locals reported sightings of \\c[3]Hillkats\\c[0] in the parks of this area.",
-                        "en_US": "Vários moradores locais relataram avistamentos de \\c[3]Hillkats\\c[0] nos parques desta área."
+                        "en_US": "Vários moradores locais relataram avistamentos de \\c[3]Topeiras\\c[0] nos parques desta área."
                       }
                     },
                     "16": {
@@ -283,13 +283,13 @@
                     "17": {
                       "message": {
                         "": "Most sightings were reported for this patch of grass down here.",
-                        "en_US": "A maioria dos avistamentos foi relatada para este pedaço de grama aqui embaixo."
+                        "en_US": "A maioria dos avistamentos ocorreu naquela área de grama ali embaixo."
                       }
                     },
                     "18": {
                       "message": {
                         "": "Now... as you must know, no creature of the Track has any place in the parks of our beautiful...\\.",
-                        "en_US": "Agora... como você deve saber, nenhuma criatura da Trilha tem lugar nos parques de nossa bela...\\."
+                        "en_US": "Agora... como você já deve saber, nenhuma criatura da Trilha é bem-vinda nos parques de nossa bela...\\."
                       }
                     },
                     "24": {
@@ -300,7 +300,7 @@
                     "25": {
                       "message": {
                         "": "There they are!",
-                        "en_US": "Lá estão eles!"
+                        "en_US": "Lá estão elas!"
                       }
                     },
                     "28": {
@@ -311,7 +311,7 @@
                     "29": {
                       "message": {
                         "": "And now they've started digging up the precious earth of our parks, just as reported!",
-                        "en_US": "E agora eles começaram a cavar a preciosa terra de nossos parques, tal como foi relatado!"
+                        "en_US": "E agora elas começaram a cavar a preciosa terra dos nossos parques, tal como foi relatado!"
                       }
                     },
                     "34": {
@@ -322,13 +322,13 @@
                     "36": {
                       "message": {
                         "": "Ms. Lea, creatures of the track are best handled by Seekers like you!",
-                        "en_US": "Srta. Lea, criaturas da trilha são melhor tratadas por Seekers como você!"
+                        "en_US": "Srta. Lea, somente Seekers como você têm a habilidade para lidar com as criaturas da trilha!"
                       }
                     },
                     "37": {
                       "message": {
                         "": "Please fight those vile Hillkats for the sake of our parks!!",
-                        "en_US": "Por favor, lute contra esses abomináveis Hillkats para o bem de nossos parques!"
+                        "en_US": "Por favor, lute contra essas abomináveis Topeiras para o bem de nossos parques!"
                       }
                     },
                     "38": {
@@ -366,7 +366,7 @@
               "2": {
                 "message": {
                   "": "Please fight those vile Hillkats for the sake of our parks!!",
-                  "en_US": "Por favor, lutem contra esses abomináveis Hillkats para o bem de nossos parques!!"
+                  "en_US": "Por favor, lute contra essas abomináveis Topeiras para o bem de nossos parques!!"
                 }
               },
               "3": {
@@ -397,13 +397,13 @@
           "7": {
             "message": {
               "": "There's more of them?!",
-              "en_US": "Há mais deles?!"
+              "en_US": "Tem mais delas?!"
             }
           },
           "21": {
             "message": {
               "": "...!!\\. A car!\\. They're digging up the earth, just as reported!",
-              "en_US": "...!!\\. Um carro!\\. Eles estão cavando a terra, tal como foi relatado!"
+              "en_US": "...!!\\. Um carro!\\. Elas estão cavando a terra, tal como foi relatado!"
             }
           },
           "34": {
@@ -427,13 +427,13 @@
           "49": {
             "message": {
               "": "It really happened!",
-              "en_US": "Isso realmente aconteceu!"
+              "en_US": "Então era verdade!"
             }
           },
           "50": {
             "message": {
               "": "They're stealing the \\c[3]soil of our parks\\c[0] with a \\c[3]teleporting car\\c[0]!",
-              "en_US": "Eles estão roubando o \\c[3]solo de nossos parques\\c[0] com um \\c[3]carro teletransportador\\c[0]!"
+              "en_US": "Elas estão roubando o \\c[3]solo de nossos parques\\c[0] com um \\c[3]carro teleportador\\c[0]!"
             }
           },
           "51": {
@@ -456,7 +456,7 @@
           "54": {
             "message": {
               "": "They might have gotten away this time, but I know a way to catch up with them!",
-              "en_US": "Eles podem ter escapado desta vez, mas eu sei de uma maneira de alcançá-los!"
+              "en_US": "Elas podem ter escapado desta vez, mas eu sei como pegá-las!"
             }
           },
           "55": {

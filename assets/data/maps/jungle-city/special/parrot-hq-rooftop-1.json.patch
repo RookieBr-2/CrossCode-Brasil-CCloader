@@ -27,13 +27,13 @@
           "15": {
             "text": {
               "": "[cheerful goat noises]",
-              "en_US": "[barulhos de cabra alegre]"
+              "en_US": "[sons de cabra alegre]"
             }
           },
           "17": {
             "text": {
               "": "\\v[lore.title.seeker]!\\. Nice greetings!",
-              "en_US": "\\v[lore.title.seeker]!\\. Cordiais saudações!"
+              "en_US": "\\v[lore.title.seeker]!\\. Que bom te ver!"
             }
           },
           "19": {
@@ -56,7 +56,7 @@
           "23": {
             "text": {
               "": "[hesitant goat noises]",
-              "en_US": "[barulhos de cabra hesitante]"
+              "en_US": "[sons de cabra hesitante]"
             }
           },
           "25": {
@@ -74,7 +74,7 @@
           "33": {
             "text": {
               "": "[sad goat noises]",
-              "en_US": "[barulhos tristes de cabra]"
+              "en_US": "[sons tristes de cabra]"
             }
           },
           "35": {
@@ -92,7 +92,7 @@
           "49": {
             "text": {
               "": "[aggressive bird noises]",
-              "en_US": "[barulhos agressivos de pássaro]"
+              "en_US": "[sons agressivos de pássaro]"
             }
           },
           "54": {
@@ -104,7 +104,7 @@
           "64": {
             "text": {
               "": "[sad goatbye noises]",
-              "en_US": "[barulhos tristes de cabradeus]"
+              "en_US": "[sons tristes de cabra se despedindo]"
             }
           },
           "66": {
@@ -122,7 +122,7 @@
           "86": {
             "text": {
               "": "[mocking bird noises]",
-              "en_US": "[barulhos de pássaro zombando]"
+              "en_US": "[sons de pássaro debochado]"
             }
           },
           "93": {
@@ -134,7 +134,7 @@
           "94": {
             "message": {
               "": "Meet...\\. Lea!\\.\\. Sorry!",
-              "en_US": "Encontrar...\\. Lea!\\.\\. Desculpe!"
+              "en_US": "Encontrar...\\. Lea!\\.\\. Desculpa!"
             }
           }
         }

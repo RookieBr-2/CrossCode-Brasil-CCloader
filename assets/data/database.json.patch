@@ -4982,7 +4982,7 @@
             "1": {
               "message": {
                 "": "Seems like combat is smooth sailing with her in the party.\\. More time to enjoy the landscape.",
-                "en_US": "Parece que o combate é tranquilo com ela na grupo.\\ Mais tempo de sobra para desfrutar da paisagem."
+                "en_US": "Parece que o combate é tranquilo com ela na grupo.\\. Mais tempo de sobra para desfrutar da paisagem."
               }
             },
             "2": {
@@ -8331,7 +8331,7 @@
                 "0": {
                   "message": {
                     "": "That's because they've never been domesticated.\\. They just chose to live with us humans.",
-                    "en_US": "Isso porque eles nunca foram domesticados.\\ Eles apenas escolheram viver com a gente."
+                    "en_US": "Isso porque eles nunca foram domesticados.\\. Eles apenas escolheram viver com a gente."
                   }
                 }
               }
@@ -14325,7 +14325,7 @@
             "4": {
               "message": {
                 "": "But I'm a bit concerned about you Evotars.\\. Won't things become pretty boring for you?",
-                "en_US": "Mas eu estou um pouco preocupado com vocês Evotars.\\ Você não vai ficar entediada aqui?"
+                "en_US": "Mas eu estou um pouco preocupado com vocês Evotars.\\. Você não vai ficar entediada aqui?"
               }
             },
             "5": {
@@ -14408,7 +14408,7 @@
             "2": {
               "message": {
                 "": "Polly is dragging me around all over the place.\\. Seems like something important is happening.",
-                "en_US": "Polly está me arrastando por todos os lados.\\ Parece que algo importante está acontecendo."
+                "en_US": "Polly está me arrastando por todos os lados.\\. Parece que algo importante está acontecendo."
               }
             }
           }
@@ -32873,50 +32873,60 @@
         "": "Sgt. Sterling"
       },
       "description": {
-        "": "After a long time of quiet there have been curious activities with the intelligent goats in \\v[area.bergen-trails.name] lately. You should investigate their lair again!"
+        "": "After a long time of quiet there have been curious activities with the intelligent goats in \\v[area.bergen-trails.name] lately. You should investigate their lair again!",
+        "en_US": "Depois de um longo tempo de tranquilidade, atividades estranhas das cabras inteligentes foram notadas na \\v[area.bergen-trails.name]. Você deve voltar a investigar o lar delas!"
       },
       "briefing": {
-        "": "You have cleared the big case, prevented a large fight and even helped the goats to adapt to a new life in \\v[area.rhombus-sqr.name]! Allegedly they even opened a small shop on \\c[3]Cliff Exhibition\\c[0]."
+        "": "You have cleared the big case, prevented a large fight and even helped the goats to adapt to a new life in \\v[area.rhombus-sqr.name]! Allegedly they even opened a small shop on \\c[3]Cliff Exhibition\\c[0].",
+        "en_US": "Você solucionou o grande caso, evitou uma grande briga e ainda ajudou as cabras a se adaptarem a uma nova vida na \\v[area.rhombus-sqr.name]! Aparentemente, elas até abriram uma pequena loja na \\c[3]Exposição do Penhasco\\c[0]."
       },
       "tasks": {
         "0": {
           "task": {
-            "": "Investigate what happened in the \\c[3]Horncave\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]"
+            "": "Investigate what happened in the \\c[3]Horncave\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]",
+            "en_US": "Investigue o que aconteceu na \\c[3]Caverna Pontuda\\c[0] na \\c[3]\\v[area.bergen-trails.name]\\c[0]"
           }
         },
         "1": {
           "task": {
-            "": "Help the guards on \\c[3]Windy Climb\\c[0] on \\v[area.bergen-trails.name]"
+            "": "Help the guards on \\c[3]Windy Climb\\c[0] on \\v[area.bergen-trails.name]",
+            "en_US": "Ajude os guardas na \\c[3]Escalada Rigorosa\\c[0] na \\v[area.bergen-trails.name]"
           }
         },
         "2": {
           "task": {
-            "": "Report back to \\c[3]Sgt. Sterling\\c[0] in the \\c[3]Bergen Guard HQ\\c[0]"
+            "": "Report back to \\c[3]Sgt. Sterling\\c[0] in the \\c[3]Bergen Guard HQ\\c[0]",
+            "en_US": "Fale com a \\c[3]Sgt. Sterling\\c[0] no \\c[3]QG da Guarda de Bergen\\c[0]"
           }
         },
         "3": {
           "task": {
-            "": "Talk to \\c[3]Sergeant Bronzel\\c[0] in the \\c[3]Basin Police Force HQ\\c[0]"
+            "": "Talk to \\c[3]Sergeant Bronzel\\c[0] in the \\c[3]Basin Police Force HQ\\c[0]".
+            "en_US": "Fale com o \\c[3]Sergento Bronzel\\c[0] no \\c[3]QG da Polícia da Baixada\\c[0]"
           }
         },
         "4": {
           "task": {
-            "": "Solve the case \\c[3]In Cawhoofs\\c[0] for \\c[3]Sergeant Bronzel\\c[0]"
+            "": "Solve the case \\c[3]In Cawhoofs\\c[0] for \\c[3]Sergeant Bronzel\\c[0]",
+            "en_US": "Solucione o caso \\c[3]Cascos e Penas\\c[0] para o \c[3]Sergento Bronzel\\c[0]"
           }
         },
         "5": {
           "task": {
-            "": "Follow the lead to \\c[3]Cliff Exhibition\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]"
+            "": "Follow the lead to \\c[3]Cliff Exhibition\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]",
+            "en_US": "Siga a pista até a \\c[3]Exposição do Penhasco\\c[0] na \\c[3]\\v[area.rhombus-sqr.name]\\c[0]"
           }
         },
         "6": {
           "task": {
-            "": "Free the \\c[3]the occupied embassy in Cliff Exhibition\\c[0] from the goats"
+            "": "Free the \\c[3]the occupied embassy in Cliff Exhibition\\c[0] from the goats",
+            "en_US": "Retire os bodes da \\c[3]embaixada na Exibição do Penhasco\c[0]."
           }
         },
         "7": {
           "task": {
-            "": "Report back to \\c[3]Sgt. Sterling\\c[0] in the \\c[3]Bergen Guard HQ\\c[0]"
+            "": "Report back to \\c[3]Sgt. Sterling\\c[0] in the \\c[3]Bergen Guard HQ\\c[0]",
+            "en_US": "Fale novamente com a \\c[3]Sgt. Sterling\\c[0] no \\c[3]QG da Guarda de Bergen\\c[0]"
           }
         }
       }
@@ -35359,45 +35369,54 @@
     "jungleGuard-3-papagang_goats_1": {
       "hubSettings": {
         "location": {
-          "": "The Papagang is suspiciously quiet... Investigation needed. \\c[3]- Basin Police Force HQ\\c[0]"
+          "": "The Papagang is suspiciously quiet... Investigation needed. \\c[3]- Basin Police Force HQ\\c[0]",
+          "en_US": "A Papagangue está quieta demais... \\c[3]- QG da Polícia da Baixada\\c[0]"
         }
       },
       "name": {
-        "": "In Cawhoofs"
+        "": "In Cawhoofs",
+        "en_US": "Cascos e Penas"
       },
       "person": {
         "": "Sgt. Bronzel"
       },
       "description": {
-        "": "The goat gang of \\v[area.bergen-trails.name] might've forged an alliance with the local \\v[area.jungle-city.name] Papagang. Investigate!"
+        "": "The goat gang of \\v[area.bergen-trails.name] might've forged an alliance with the local \\v[area.jungle-city.name] Papagang. Investigate!",
+        "en_US": "A gangue de cabras da \\v[area.bergen-trails.name] pode ter forjado uma aliança com a Papagangue na \\v[area.jungle-city.name]. Investigue!"
       },
       "briefing": {
-        "": "You defeated the current leader of the Papagang and learned that the mysterious cargo is on its way to \\v[area.rhombus-sqr.name]! Time to continue your original quest!"
+        "": "You defeated the current leader of the Papagang and learned that the mysterious cargo is on its way to \\v[area.rhombus-sqr.name]! Time to continue your original quest!",
+        "en_US": "Você venceu o líder da Papagangue e descobriu que a carga misteriosa está indo para a \\v[area.rhombus-sqr.name]! É hora de retomar sua missão!"
       },
       "tasks": {
         "0": {
           "task": {
-            "": "Gather information about the Papagang with \\c[3]underworld figures\\c[0] in \\c[3]\\v[area.jungle-city.name]\\c[0]'s \\c[3]Pond Slums\\c[0]"
+            "": "Gather information about the Papagang with \\c[3]underworld figures\\c[0] in \\c[3]\\v[area.jungle-city.name]\\c[0]'s \\c[3]Pond Slums\\c[0]",
+            "en_US": "Obtenha informações sobre a Papagangue com \\c[3]figuras do submundo\\c[0] na \\c[3]Favela da Lagoa\\c[0]"
           }
         },
         "1": {
           "task": {
-            "": "Trade with the suspicious person in \\c[3]\\v[area.jungle-city.name]'s Pond Slums\\c[0] to gain their trust"
+            "": "Trade with the suspicious person in \\c[3]\\v[area.jungle-city.name]'s Pond Slums\\c[0] to gain their trust",
+            "en_US": "Negocie com o suspeito na \\c[3]Favela da Lagoa\\c[0]"
           }
         },
         "2": {
           "task": {
-            "": "Find the hiding spot of the suspicious person somewhere in \\c[3]\\v[area.jungle-city.name]'s Pond Slums\\c[0]"
+            "": "Find the hiding spot of the suspicious person somewhere in \\c[3]\\v[area.jungle-city.name]'s Pond Slums\\c[0]",
+            "en_US": "Ache o suspeito na \\c[3]Favela da Lagoa\\c[0]"
           }
         },
         "3": {
           "task": {
-            "": "Check the \\c[3]hideout\\c[0] in \\c[3]upper \\v[area.jungle-city.name]'s Pond Slums\\c[0] for hints"
+            "": "Check the \\c[3]hideout\\c[0] in \\c[3]upper \\v[area.jungle-city.name]'s Pond Slums\\c[0] for hints",
+            "en_US": "Verifique o \\c[3]esconderijo\\c[0] no topo de um prédio da \\c[3]Favela da Lagoa\\c[0] para encontrar pistas"
           }
         },
         "4": {
           "task": {
-            "": "Report back to \\c[3]Sergeant Bronzel\\c[0] in the \\c[3]Basin Police Force HQ\\c[0]"
+            "": "Report back to \\c[3]Sergeant Bronzel\\c[0] in the \\c[3]Basin Police Force HQ\\c[0]",
+            "en_US": "Fale com o \\c[3]Sergento Bronzel\\c[0] no \\c[3]QG da Polícia da Baixada\\c[0]"
           }
         }
       }
@@ -35519,11 +35538,11 @@
       },
       "description": {
         "": "Mr Frigo is searching for more business opportunities. Maybe the Shad can prove to be a lucrative untapped market?",
-         "en_US": "Sra. Basu"
+         "en_US": "O Sr. Frigo procura novas oportunidades comerciais. Quem sabe os Shad não sejam um mercado promissor a ser explorado?"
       },
       "briefing": {
         "": "The Shad village has now access to electricity and all the practical devices that run with it, bought from Mr Frigo.",
-         "en_US": "Sra. Basu"
+         "en_US": "Agora, a aldeia dos Shads possui eletricidade e diversos aparelhos fornecidos pelo Sr. Frigo."
       },
       "tasks": {
         "0": {
@@ -35689,35 +35708,42 @@
         "": "Claude Reynes"
       },
       "description": {
-        "": "There have been reports of strange energy and attacks on travelers at the entrance to \\v[area.jungle-city.name]. You have to investigate and cleanse the issue."
+        "": "There have been reports of strange energy and attacks on travelers at the entrance to \\v[area.jungle-city.name]. You have to investigate and cleanse the issue.",
+        "en_US": "Há relatos de uma energia estranha e ataques a viajantes na entrada da \\v[area.jungle-city.name]. Você precisa investigar e resolver o problema."
       },
       "briefing": {
-        "": "You and Linde have salted and pacified this powerful toxic threat to the city. Hopefully humanity can improve, so this may never happen again!"
+        "": "You and Linde have salted and pacified this powerful toxic threat to the city. Hopefully humanity can improve, so this may never happen again!",
+        "en_US": "Você e Linde enfrentaram e pacificaram essa poderosa ameaça tóxica para a cidade. Que a humanidade aprenda com isso para evitar que aconteça de novo!"
       },
       "tasks": {
         "0": {
           "task": {
-            "": "Investigate the anomalies at the \\c[3]outside entrance\\c[0] of \\c[3]\\v[area.jungle-city.name]\\c[0]"
+            "": "Investigate the anomalies at the \\c[3]outside entrance\\c[0] of \\c[3]\\v[area.jungle-city.name]\\c[0]",
+            "en_US": "Investigue as anomalias na \\c[3]entrada externa\\c[0] da \\c[3]\\v[area.jungle-city.name]\\c[0]"
           }
         },
         "1": {
           "task": {
-            "": "Talk to \\c[3]Linde\\c[0] on the \\c[3]Isle of Legend\\c[0] in \\c[3]\\v[area.beach.name]\\c[0]"
+            "": "Talk to \\c[3]Linde\\c[0] on the \\c[3]Isle of Legend\\c[0] in \\c[3]\\v[area.beach.name]\\c[0]",
+            "en_US": "Fale com \\c[3]Linde\\c[0] na \\c[3]Ilha da Lenda\\c[0] no \\c[3]\\v[area.beach.name]\\c[0]"
           }
         },
         "2": {
           "task": {
-            "": "Talk to \\c[3]Linde\\c[0] again and \\c[3]escort her while she searches the area for the energy concentration\\c[0]"
+            "": "Talk to \\c[3]Linde\\c[0] again and \\c[3]escort her while she searches the area for the energy concentration\\c[0]",
+            "en_US": "Fale com \\c[3]Linde\\c[0] mais uma vez e \\c[3]proteja-a enquanto ela busca pela concentração de energia na área\\c[0]"
           }
         },
         "3": {
           "task": {
-            "": "Talk to \\c[3]Linde\\c[0] again to \\c[3]start collecting the powerful salt\\c[0]"
+            "": "Talk to \\c[3]Linde\\c[0] again to \\c[3]start collecting the powerful salt\\c[0]",
+            "en_US": "Fale com \\c[3]Linde\\c[0] de novo para \\c[3]iniciar a coleta do sal poderoso\\c[0]"
           }
         },
         "4": {
           "task": {
-            "": "Report back to \\c[3]Claude Reynes\\c[0] in the \\c[3]Gaia's Gardeners HQ\\c[0]"
+            "": "Report back to \\c[3]Claude Reynes\\c[0] in the \\c[3]Gaia's Gardeners HQ\\c[0]",
+            "en_US": "Fale com \\c[3]Claude Reynes\\c[0] no \\c[3]QG dos Jardineiros de Gaia\\c[0]"
           }
         },
         "5": {
@@ -36489,35 +36515,42 @@
         "en_US": "Captão Curtis"
       },
       "description": {
-        "": "A troupe of Hillkats has been spotted in the parks of Rhombus Square, digging up the precious soil. Help Captain Curtis to catch them!"
+        "": "A troupe of Hillkats has been spotted in the parks of Rhombus Square, digging up the precious soil. Help Captain Curtis to catch them!",
+        "en_US": "Uma trupe de Topeiras foi vista nos parques da Praça Losango, escavando o precioso solo. Ajude o Capitão Curtis a capturá-las!"
       },
       "briefing": {
-        "": "All of the Hillkats and their dirt-filled vehicles have been dealt with!\\. Hopefully the parks of Rhombus Square are now safe."
+        "": "All of the Hillkats and their dirt-filled vehicles have been dealt with!\\. Hopefully the parks of Rhombus Square are now safe.",
+        "en_US": "Todas as Topeiras e seus veículos cheios de terra foram eliminados!\\. Tomara que os parques da Praça Losango estejam seguros agora."
       },
       "tasks": {
         "0": {
           "task": {
-            "": "Watch for meerkats to appear in \\c[3]Rhombus Square - North Arch\\c[0]"
+            "": "Watch for meerkats to appear in \\c[3]Rhombus Square - North Arch\\c[0]",
+            "en_US": "Veja a apareção das topeiras em \\c[3]Praça Losango - Arco Norte\\c[0]"
           }
         },
         "1": {
           "task": {
-            "": "Fight the Meerkats in the grass patch of \\c[3]Rhombus Square - North Arch\\c[0]"
+            "": "Fight the Meerkats in the grass patch of \\c[3]Rhombus Square - North Arch\\c[0]",
+            "en_US": "Lute contra as Topeiras no gramado de \\c[3]Praça Losango - Arco Norte\\c[0]"
           }
         },
         "2": {
           "task": {
-            "": "Meet Captain Curtis at the highway at \\c[3]Rhombus Square - Cliff Exhibition\\c[0]"
+            "": "Meet Captain Curtis at the highway at \\c[3]Rhombus Square - Cliff Exhibition\\c[0]",
+            "en_US": "Encontre o Capitão Curtis na estrada em \\c[3]Praça Losango - Exposição do Penhasco\\c[0]"
           }
         },
         "3": {
           "task": {
-            "": "Fight the Meerkats on the Highway"
+            "": "Fight the Meerkats on the Highway",
+            "en_US": "Lute contra as Topeiras na estrada"
           }
         },
         "4": {
           "task": {
-            "": "Fight the mysterious car"
+            "": "Fight the mysterious car",
+            "en_US": "Lute contra o carro misterioso"
           }
         }
       }

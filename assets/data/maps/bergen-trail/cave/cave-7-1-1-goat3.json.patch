@@ -181,7 +181,7 @@
               "11": {
                 "text": {
                   "": "[excited goat noises]",
-                  "en_US": "[barulhos de cabra animada]"
+                  "en_US": "[sons de cabra animada]"
                 }
               }
             }
@@ -195,7 +195,7 @@
           "50": {
             "text": {
               "": "[angry goat noises]",
-              "en_US": "[barulhos de cabra com raiva]"
+              "en_US": "[sons de cabra com raiva]"
             }
           },
           "54": {
@@ -224,7 +224,7 @@
               "16": {
                 "text": {
                   "": "[playful goat noises]",
-                  "en_US": "[barulhos de cabra brincalhona]"
+                  "en_US": "[sons de cabra brincalhona]"
                 }
               }
             }
@@ -265,7 +265,7 @@
           "17": {
             "text": {
               "": "[appreciative goat noises]",
-              "en_US": "[barulhos de cabra apreciativa]"
+              "en_US": "[sons de cabra apreciativa]"
             }
           },
           "18": {
@@ -305,7 +305,7 @@
           "29": {
             "text": {
               "": "[stern goat noises]",
-              "en_US": "[barulhos de cabra severa]"
+              "en_US": "[sons de cabra severa]"
             }
           },
           "30": {
@@ -322,7 +322,7 @@
           "34": {
             "text": {
               "": "[angry goat noises]",
-              "en_US": "[barulhos de cabra com raiva]"
+              "en_US": "[sons de cabra com raiva]"
             }
           },
           "35": {
@@ -345,7 +345,7 @@
           "40": {
             "text": {
               "": "[stern goat noises]",
-              "en_US": "[barulhos de cabra severa]"
+              "en_US": "[sons de cabra severa]"
             }
           },
           "41": {
@@ -365,7 +365,7 @@
               "13": {
                 "text": {
                   "": "[cheerful goat noises]",
-                  "en_US": "[barulhos de cabra alegre]"
+                  "en_US": "[sons de cabra alegre]"
                 }
               }
             }
@@ -445,7 +445,7 @@
           "23": {
             "message": {
               "": "Lea. Meet. Lea! How?",
-              "en_US": "Lea. Conhece. Lea! Como?"
+              "en_US": "Lea. Encontrar. Lea! Como?"
             }
           },
           "24": {
@@ -457,7 +457,7 @@
           "25": {
             "message": {
               "": "There must be something bigger behind this.\\. We will need to start more investiga\\..\\..\\..\\. wait!",
-              "en_US": "Deve ter algo maior atrás disso.\\. Precisamos iniciar mais investigações\\..\\..\\..\\. espere!"
+              "en_US": "Sem dúvida, existe algo maior por trás disso.\\. Precisamos de mais investiga\\..\\..\\..\\. espere!"
             }
           },
           "26": {
@@ -468,13 +468,13 @@
           "27": {
             "message": {
               "": "\\v[lore.title.seeker], one of our Guards urgently needs reinforcements on the \\c[3]Windy Climb\\c[0]!",
-              "en_US": "\\v[lore.title.seeker], um dos Guardas precisa urgentemente de reforços em \\c[3]Windy Climb\\c[0]!"
+              "en_US": "\\v[lore.title.seeker], uma guarda precisa urgentemente de reforços na \\c[3]Escalada Rigorosa\\c[0]!"
             }
           },
           "28": {
             "message": {
               "": "It seems like he ran into a group that tried to smuggle out a huge crate.\\. Please get there quickly!",
-              "en_US": "Parece que se deparou com um grupo que tentou contrabandear um caixote enorme.\\. Por favor, chegue lá rapidamente!"
+              "en_US": "Parece que ela encontrou um grupo tentando contrabandear um caixote enorme.\\. Por favor, vá até lá rápido!"
             }
           },
           "29": {
