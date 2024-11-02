@@ -32901,14 +32901,14 @@
         },
         "3": {
           "task": {
-            "": "Talk to \\c[3]Sergeant Bronzel\\c[0] in the \\c[3]Basin Police Force HQ\\c[0]".
+            "": "Talk to \\c[3]Sergeant Bronzel\\c[0] in the \\c[3]Basin Police Force HQ\\c[0]",
             "en_US": "Fale com o \\c[3]Sergento Bronzel\\c[0] no \\c[3]QG da Polícia da Baixada\\c[0]"
           }
         },
         "4": {
           "task": {
             "": "Solve the case \\c[3]In Cawhoofs\\c[0] for \\c[3]Sergeant Bronzel\\c[0]",
-            "en_US": "Solucione o caso \\c[3]Cascos e Penas\\c[0] para o \c[3]Sergento Bronzel\\c[0]"
+            "en_US": "Solucione o caso \\c[3]Cascos e Penas\\c[0] para o \\c[3]Sergento Bronzel\\c[0]"
           }
         },
         "5": {
@@ -32920,7 +32920,7 @@
         "6": {
           "task": {
             "": "Free the \\c[3]the occupied embassy in Cliff Exhibition\\c[0] from the goats",
-            "en_US": "Retire os bodes da \\c[3]embaixada na Exibição do Penhasco\c[0]."
+            "en_US": "Retire os bodes da \\c[3]embaixada na Exibição do Penhasco\\c[0]."
           }
         },
         "7": {
