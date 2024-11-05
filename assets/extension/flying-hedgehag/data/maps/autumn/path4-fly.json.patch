@@ -357,7 +357,7 @@
               "5": {
                 "message": {
                   "": "There you are! Thanks for dropping by.",
-                  "en_US": "Aí está você! Obrigado pela visita."
+                  "en_US": "Vocês chegaram! Obrigado por virem."
                 }
               }
             }
@@ -372,7 +372,7 @@
               "1": {
                 "message": {
                   "": "There you are! Thanks for dropping by.",
-                  "en_US": "Aí está você! Obrigado pela visita."
+                  "en_US": "Vocês chegaram! Obrigado por virem."
                 }
               }
             }
@@ -386,19 +386,19 @@
           "10": {
             "message": {
               "": "It's to the \\c[3]northeast\\c[0]. Just follow me!",
-              "en_US": "Fica a \\c[3]nordeste\\c[0]. Apenas me acompanhe!"
+              "en_US": "Fica a \\c[3]nordeste\\c[0]. É só me seguir!"
             }
           },
           "15": {
             "message": {
               "": "So how big is your guild, anyway?",
-              "en_US": "Então, quão grande é a sua guilda?"
+              "en_US": "Então, sua guilda é grande?"
             }
           },
           "16": {
             "message": {
               "": "Not big. You're about to see it yourself.",
-              "en_US": "Não muito grande. Você está prestes a vê-la."
+              "en_US": "Não muito grande. Você vai ver."
             }
           },
           "17": {

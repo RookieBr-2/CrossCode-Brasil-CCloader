@@ -862,7 +862,7 @@
           "13": {
             "message": {
               "": "Something I thought I would rather give you in private...",
-              "en_US": "É algo que pensei em te entregar em particular..."
+              "en_US": "É algo que eu queria te entregar pessoalmente..."
             }
           },
           "14": {
@@ -873,7 +873,7 @@
           "19": {
             "object": {
               "": "Vermillion Arena Cup",
-              "en_US": "Copa da Arena Vermillion"
+              "en_US": "Copa do Deserto Carmesim"
             }
           },
           "22": {
@@ -884,7 +884,7 @@
           "23": {
             "message": {
               "": "It is an arena cup with all sorts of battles you experienced in Vermillion Wasteland.",
-              "en_US": "È um torneio de arena com todo tipo de batalha que você enfrentou no Deserto Carmesim."
+              "en_US": "È uma copa de arena com todas as batalhas que você enfrentou no Deserto Carmesim."
             }
           },
           "24": {
@@ -901,7 +901,7 @@
           "26": {
             "message": {
               "": "I thought you would have mixed feelings about this...",
-              "en_US": "Achei que você teria sentimentos contraditórios sobre isso... "
+              "en_US": "Eu imaginei que você teria emoções conflitantes sobre isso..."
             }
           },
           "27": {
@@ -919,13 +919,13 @@
           "29": {
             "message": {
               "": "So the thought of it all getting lost... ",
-              "en_US": "Então pensei em tudo isso se perdendo... "
+              "en_US": "E seria uma pena que tudo isso se perdesse... "
             }
           },
           "30": {
             "message": {
               "": "If there is one thing Gautham would have wanted, it is to share his creations.",
-              "en_US": "Se há uma coisa que Gautham desejaria, é compartilhar suas criações."
+              "en_US": "O que Gautham mais desejava era compartilhar suas criações."
             }
           },
           "31": {
@@ -948,19 +948,19 @@
           "35": {
             "message": {
               "": "That is why I created this cup.",
-              "en_US": "É por isso que eu criei esse torneio."
+              "en_US": "É por isso que eu criei essa copa."
             }
           },
           "36": {
             "message": {
               "": "But I wanted to give it to you first.\\. You are my beta tester, so to speak.",
-              "en_US": "Mas eu queria dar isso a você primeiro.\\. Digamos que você é minha besta tester,"
+              "en_US": "Mas eu queria dar isso a você primeiro.\\. Digamos que você é minha beta tester."
             }
           },
           "37": {
             "message": {
               "": "If you feel up to the task, I would like to get your feedback on it.",
-              "en_US": "Se se sentir à altura da tarefa, gostaria de obter o seu feedback sobre a mesma."
+              "en_US": "Caso se sinta preparada, adoraria ouvir sua opinião sobre a copa."
             }
           },
           "38": {
@@ -977,7 +977,7 @@
           "40": {
             "message": {
               "": "First, I will have to convince Instatainment to allow all those border-line game breaking mechanics.",
-              "en_US": "Primeiro, eu tenho que convencer a Instatainment a liberar todos essas mecânicas de jogo que quebram os limites."
+              "en_US": "Primeiro, preciso convencer a Instatainment a liberar todas essas mecânicas de jogo que ultrapassam os limites."
             }
           },
           "41": {
@@ -1006,7 +1006,7 @@
           "52": {
             "task": {
               "": "Meet Sergey, Jet, and the others at \\c[3]Cargo Ship - Cabins 2\\c[0]",
-              "en_US": "Encontre Sergey, Jet, e os outros no \\c[3]Navid de Carga - Cabines 2\\c[0]"
+              "en_US": "Encontre Sergey, Jet, e os outros em \\c[3]Navid de Carga - Cabines 2\\c[0]"
             }
           }
         }

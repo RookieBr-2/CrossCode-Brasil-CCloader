@@ -372,7 +372,7 @@
               "5": {
                 "message": {
                   "": "There you are! Thanks for dropping by.",
-                  "en_US": "Você chegou! Obrigado por vir."
+                  "en_US": "Vocês chegaram! Obrigado por virem."
                 }
               }
             }
@@ -407,7 +407,7 @@
           "15": {
             "message": {
               "": "So how big is your guild, anyway?",
-              "en_US": "Então, sua guilda é grande, afinal?"
+              "en_US": "Então, sua guilda é grande?"
             }
           },
           "16": {

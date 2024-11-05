@@ -376,7 +376,7 @@
               "2": {
                 "message": {
                   "": "Creating Evotars of his employees, huh?",
-                  "en_US": "Criando Evotares de seus funcionários, né?"
+                  "en_US": "Ele criou Evotares de seus funcionários..."
                 }
               },
               "3": {
@@ -393,7 +393,7 @@
               "5": {
                 "message": {
                   "": "Back then, I was constantly busy maintaining and improving the Evotar technology, among other things.",
-                  "en_US": "Naquela época, eu estava constantemente ocupado mantendo e melhorando a tecnologia Evotar, entre outras coisas."
+                  "en_US": "Naquela época, eu estava muito ocupado cuidando e aprimorando a tecnologia Evotar, entre outras tarefas."
                 }
               },
               "6": {
@@ -2114,7 +2114,7 @@
           "7": {
             "message": {
               "": "Oh!\\. Welcome back, Lea.",
-              "en_US": "Ah!\\. Bem vinda de volta Lea."
+              "en_US": "Ah!\\. Bem-vinda de volta Lea."
             }
           },
           "8": {
@@ -2158,7 +2158,7 @@
           "10": {
             "message": {
               "": "Heh...\\. I'll forward that feedback to the developers!",
-              "en_US": "Hum...\\. Vou encaminhar esse feedback para os desenvolvedores!"
+              "en_US": "Hmm...\\. vou encaminhar esse feedback para os desenvolvedores!"
             }
           },
           "11": {
@@ -2186,7 +2186,7 @@
           "20": {
             "message": {
               "": "Maybe she's wondering what we're both up to.",
-              "en_US": "Talvez ela esteja se perguntando o que estamos fazendo."
+              "en_US": "Acho que ela quer saber o que estamos fazendo."
             }
           },
           "21": {
@@ -2224,7 +2224,7 @@
           "28": {
             "message": {
               "": "Well, actually...",
-              "en_US": "Bem, na verdade..."
+              "en_US": "Bom, na verdade..."
             }
           },
           "29": {
@@ -2236,7 +2236,7 @@
           "30": {
             "message": {
               "": "I felt like I had to apologize for all the things I've contributed to.",
-              "en_US": "Eu senti que tinha que me desculpar por todas as coisas que contribuí."
+              "en_US": "Eu senti que tinha que me desculpar por todas as coisas que fiz."
             }
           },
           "31": {
@@ -2253,7 +2253,7 @@
           "38": {
             "message": {
               "": "A lot of people were involved in the whole thing.",
-              "en_US": "Muitas pessoas estiveram envolvidas em tudo."
+              "en_US": "Muitas pessoas estiveram envolvidas nisso."
             }
           },
           "39": {
@@ -2299,7 +2299,7 @@
           "56": {
             "message": {
               "": "I suppose Sidwell must have had other people working for him without us being aware.",
-              "en_US": "Suponho que Sidwell tenha outras pessoas trabalhando para ele sem que soubéssemos."
+              "en_US": "Acredito que Sidwell tinha outras pessoas trabalhando para ele sem que tivéssemos conhecimento."
             }
           },
           "57": {
@@ -2322,37 +2322,37 @@
           "60": {
             "message": {
               "": "Well...\\. I still don't remember most things all that clearly, unfortunately.",
-              "en_US": "Bem...\\. Ainda não me lembro da maioria das coisas com tanta clareza, infelizmente."
+              "en_US": "Ainda não me lembro da maioria das coisas, infelizmente."
             }
           },
           "61": {
             "message": {
               "": "I think I was a student back then?\n",
-              "en_US": "Acho que eu era um estudante naquela época?\n"
+              "en_US": "Acho que eu era um estudante naquela época.\n"
             }
           },
           "62": {
             "message": {
               "": "I think someone got in touch with me over email.",
-              "en_US": "Acho que alguém entrou em contato comigo por e-mail."
+              "en_US": "E então, alguém entrou em contato comigo por e-mail."
             }
           },
           "63": {
             "message": {
               "": "I guess in the end it was just a little side gig. \n",
-              "en_US": "Acho que no final foi apenas um pequeno esquema paralelo. \n"
+              "en_US": "No final foi apenas um trabalho extra.\n"
             }
           },
           "64": {
             "message": {
               "": "Watching specific players, gathering information, reporting back...\n",
-              "en_US": "Assistindo a jogadores específicos, reunindo informações, reportando...\n"
+              "en_US": "Monitorando jogadores específicos, coletando dados e reportando...\n"
             }
           },
           "65": {
             "message": {
               "": "You essentially earned money while playing a game...",
-              "en_US": "Basicamente ganhando dinheiro jogando..."
+              "en_US": "Basicamente, eu ganhava dinheiro jogando..."
             }
           },
           "69": {
@@ -2392,19 +2392,19 @@
           "77": {
             "message": {
               "": "To me, that's the strangest part, really.",
-              "en_US": "Para mim, essa é realmente a parte mais estranha."
+              "en_US": "Para mim, essa é a parte mais estranha."
             }
           },
           "78": {
             "message": {
               "": "Yeah, I can only guess why that happened.",
-              "en_US": "Sim, só posso imaginar por que isso aconteceu."
+              "en_US": "Sim, eu também não sei explicar."
             }
           },
           "79": {
             "message": {
               "": "Maybe Sidwell wanted access to more information from his employees?",
-              "en_US": "Talvez Sidwell quisesse ter acesso a mais informações de seus funcionários?"
+              "en_US": "Será que Sidwell queria ter mais acesso às informações de seus funcionários?"
             }
           },
           "80": {
@@ -2415,13 +2415,13 @@
           "81": {
             "message": {
               "": "I suppose that might be.",
-              "en_US": "Acho que pode ser."
+              "en_US": "Acho que sim."
             }
           },
           "82": {
             "message": {
               "": "It's certainly useful to blackmail your people into submission.",
-              "en_US": "Certamente é útil chantagear seu pessoal para a submissão."
+              "en_US": "É evidente que a chantagem foi uma estratégia útil para controlar os funcionários."
             }
           },
           "83": {
@@ -2445,7 +2445,7 @@
           "90": {
             "message": {
               "": "See you tomorrow!",
-              "en_US": "Vejo você amanhã!"
+              "en_US": "Vejo vocês amanhã!"
             }
           },
           "93": {
@@ -2490,13 +2490,13 @@
           "112": {
             "message": {
               "": "I am currently over at the Cargo Ship to pay Carla and Jet a small visit.\n",
-              "en_US": "No momento, estou no Navio de Carga fazendo uma pequena visita a Carla e o Jet.\n"
+              "en_US": "Neste momento, estou no Navio de Carga visitando a Carla e o Jet.\n"
             }
           },
           "113": {
             "message": {
               "": "They would love to see you again as well.",
-              "en_US": "Eles iam amar vê-la novamente."
+              "en_US": "Eles iam adorar te ver novamente."
             }
           },
           "114": {
@@ -2507,7 +2507,7 @@
           "115": {
             "message": {
               "": "So I activated the landmark in the cargo hold.",
-              "en_US": "Ativei o marco no porão de carga."
+              "en_US": "Ativei o teleportador no porão de carga."
             }
           },
           "116": {

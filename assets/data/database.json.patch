@@ -10845,7 +10845,7 @@
             "0": {
               "message": {
                 "": "Welcome back!",
-                "en_US": "Bem vinda de volta!"
+                "en_US": "Bem-vinda de volta!"
               }
             }
           },
@@ -10861,7 +10861,7 @@
             "0": {
               "message": {
                 "": "Welcome back. It's more fun to run around together.",
-                "en_US": "Bem vinda de volta. É mais divertido jogar juntos."
+                "en_US": "Bem-vinda de volta. É mais divertido jogar juntos."
               }
             }
           },
@@ -10907,7 +10907,7 @@
         "0": {
           "text": {
             "": "You shouldn't contact anyone from here to reduce suspicion.",
-            "en_US": "Você não deve contatar ninguém daqui para reduzir as suspeitas"
+            "en_US": "É melhor não contatar ninguém daqui para não criar suspeitas."
           }
         }
       }
@@ -12706,7 +12706,7 @@
             "2": {
               "message": {
                 "": "Sorry if I left a bit quickly after the PvP duel...",
-                "en_US": "Desculpe se saí um pouco rápido depois do duelo de PvP."
+                "en_US": "Desculpe se saí do nada depois do duelo de PvP..."
               }
             },
             "3": {
@@ -12718,7 +12718,7 @@
             "4": {
               "message": {
                 "": "I'm not sure...\\. can you get sick as an Evotar?",
-                "en_US": "Não tenho certeza...\\. você pode ficar doente como um Evotar?"
+                "en_US": "Não tenho certeza...\\. Evotares podem ficar doentes?"
               }
             },
             "5": {
@@ -16344,7 +16344,7 @@
             "3": {
               "message": {
                 "": "I've certainly seen enough sand for the day.",
-                "en_US": "Eu com certeza já vi areia suficiente por hoje."
+                "en_US": "Eu vi areia suficiente por hoje."
               }
             },
             "4": {
@@ -19379,7 +19379,7 @@
             "2": {
               "message": {
                 "": "As I mentioned, I am currently at the MS Solar together with Jet and the others.",
-                "en_US": "Como mencionei, estou atualmente no MS Solar junto com Jet e os outros."
+                "en_US": "Como mencionei, estou no MS Solar junto com Jet e os outros."
               }
             },
             "3": {

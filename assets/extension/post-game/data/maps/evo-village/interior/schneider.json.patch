@@ -87,7 +87,7 @@
               "4": {
                 "message": {
                   "": "Nothing special going on here...\\. just watching the news.",
-                  "en_US": "Nada de especial acontecendo aqui...\\. só vendo o noticiário."
+                  "en_US": "Aqui está tudo tranquilo...\\. só estou acompanhando o noticiário."
                 }
               },
               "5": {
@@ -104,13 +104,13 @@
               "14": {
                 "message": {
                   "": "I appreciate that they gave us access to some of the broadcasting services.",
-                  "en_US": "Agradeço que nos deram acesso a alguns dos serviços de transmissão."
+                  "en_US": "Que bom que liberaram pra gente alguns serviços de transmissão."
                 }
               },
               "15": {
                 "message": {
                   "": "It's at least something to spend the time on.",
-                  "en_US": "Pelo menos é algo para passar o tempo."
+                  "en_US": "Pelo menos dá pra se distrair um pouco."
                 }
               },
               "16": {
@@ -122,7 +122,7 @@
               "17": {
                 "message": {
                   "": "And strangely...\\. it's still pretty interesting to watch the news.",
-                  "en_US": "E estranhamente...\\. ainda é muito interessante assistir ao noticiário."
+                  "en_US": "E por alguma razão...\\. ainda é interessante ver o noticiário."
                 }
               },
               "18": {
@@ -174,19 +174,19 @@
               "26": {
                 "message": {
                   "": "What?",
-                  "en_US": "O que?"
+                  "en_US": "Que?"
                 }
               },
               "27": {
                 "message": {
                   "": "Like... hasn't most news been rather irrelevant to our life, even back when we were outside of the game?",
-                  "en_US": "Tipo... a maioria das notícias não tem sido irrelevante para a nossa vida, mesmo quando estávamos fora do jogo?"
+                  "en_US": "Tipo... a maioria das notícias é inútil para nossa vida cotidiana, não é? Mesmo antes de entrarmos no jogo."
                 }
               },
               "28": {
                 "message": {
                   "": "You know, unless it's something happening in your town or a global catastrophe.",
-                  "en_US": "Você sabe, a menos que seja algo acontecendo em sua cidade ou uma catástrofe global."
+                  "en_US": "A menos que seja algo acontecendo em sua cidade ou uma catástrofe global."
                 }
               },
               "29": {
@@ -197,7 +197,7 @@
               "30": {
                 "message": {
                   "": "It certainly doesn't make you stop worrying about whatever is happening out there in the world.",
-                  "en_US": "Certamente não faz você parar de se preocupar com o que quer que esteja acontecendo no mundo."
+                  "en_US": "De qualquer forma, isso não nos impede de nos preocupar com o que acontece no mundo lá fora."
                 }
               },
               "31": {
@@ -214,7 +214,7 @@
               "38": {
                 "message": {
                   "": "Got enough news for today?\\. Have a nice evening, then!",
-                  "en_US": "Já chega de notícias por hoje?\\. Tenha uma boa noite então!"
+                  "en_US": "Chega de notícias por hoje?\\. Tenha uma boa noite então!"
                 }
               }
             }
