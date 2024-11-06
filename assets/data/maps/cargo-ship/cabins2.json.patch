@@ -249,13 +249,13 @@
               "3": {
                 "message": {
                   "": "Oh!\\. You're back on the ship!\\. Haven't seen you for some time!",
-                  "en_US": "Oh!\\. Você está de volta ao navio!\\. Já não te via há algum tempo!"
+                  "en_US": "Oh!\\. Você está de volta ao navio!\\. Faz tempo que não te vejo!"
                 }
               },
               "4": {
                 "message": {
                   "": "I heard somebody mentioning that you have your own house in the Playground now!",
-                  "en_US": "Ouvi alguém mencionar que você agora tem a sua própria casa no Playground!"
+                  "en_US": "Ouvi dizer que agora você tem sua própria casa no Playground!"
                 }
               },
               "5": {
@@ -273,7 +273,7 @@
               "7": {
                 "message": {
                   "": "Whoa, that's cool!\\. I suppose you have to play the game a lot to get something fancy like that.",
-                  "en_US": "Uau, isso é bacana!\\. Acho que você precisa jogar muito para conseguir algo extravagante como isso."
+                  "en_US": "Uau, isso é bacana!\\. Acho que você precisa jogar muito para conseguir algo legal assim."
                 }
               },
               "8": {
@@ -464,7 +464,7 @@
               "3": {
                 "message": {
                   "": "Lea, girl!",
-                  "en_US": "Lea, garota!"
+                  "en_US": "Lea!"
                 }
               },
               "4": {
@@ -502,7 +502,7 @@
                   "6": {
                     "message": {
                       "": "The reason why you can keep your room as messy as it is, without Jet saying anything!",
-                      "en_US": "A razão pela qual você mantém o seu quarto tão desarrumado como está, sem que a Jet diga nada!"
+                      "en_US": "A razão pela qual você mantém o seu quarto tão desarrumado como está, sem que o Jet diga nada!"
                     }
                   },
                   "7": {
@@ -520,7 +520,7 @@
                   "9": {
                     "message": {
                       "": "Damn, when was it you asked me about that?",
-                      "en_US": "Droga, quando vpcê me perguntou sobre isso?"
+                      "en_US": "Caramba, quando foi a última vez que você me fez essa pergunta?"
                     }
                   },
                   "10": {
@@ -532,19 +532,19 @@
                   "11": {
                     "message": {
                       "": "Yes...\\. And I have never quite forgotten about it.\\. Even Jet himself would not tell me why.",
-                      "en_US": "Sim...\\. E eu nunca esqueci isso completamente.\\. Nem mesmo Jet me diria o porquê."
+                      "en_US": "Sim...\\. e eu nunca esqueci isso completamente.\\. Nem mesmo o Jet quis me contar."
                     }
                   },
                   "12": {
                     "message": {
                       "": "Talk about dedication!",
-                      "en_US": "Fale sobre dedicação!"
+                      "en_US": "Você realmente não larga o osso!"
                     }
                   },
                   "13": {
                     "message": {
                       "": "So, let's hear it!\\. What's my secret?",
-                      "en_US": "Então, vamos ouvir!\\. Qual é o meu segredo?"
+                      "en_US": "Então, diz aí!\\. Qual é o meu segredo?"
                     }
                   },
                   "14": {
@@ -561,7 +561,7 @@
                   "16": {
                     "message": {
                       "": "That is why he wears that jetpack all the time.\\. It suddenly all makes sense.",
-                      "en_US": "Por isso ele usa aquele jetpack todo o tempo.\\. De repente tudo isto faz sentido."
+                      "en_US": "Por isso ele usa aquele jetpack todo o tempo.\\. Agora tudo faz sentido."
                     }
                   },
                   "17": {
@@ -573,7 +573,7 @@
                   "18": {
                     "message": {
                       "": "And he's very self conscious about it, so I'd ask you to not share that information any further.",
-                      "en_US": "E ele está muito consciente disso, por isso peço que não partilhe mais essa informação."
+                      "en_US": "E ele sabe muito bem disso, por isso peço que não comente com ninguém."
                     }
                   },
                   "19": {
@@ -585,13 +585,13 @@
                   "20": {
                     "message": {
                       "": "But...\\. am I really understanding this correctly?",
-                      "en_US": "Mas...\\. Eu estou entendendo isso corretamente?"
+                      "en_US": "Mas...\\. será que entendi direito?"
                     }
                   },
                   "21": {
                     "message": {
                       "": "Did you actually blackmail Jet with this information?",
-                      "en_US": "Você na verdade, chantageou Jet com essa informação?"
+                      "en_US": "Você realmente chantageou o Jet com essa informação?"
                     }
                   },
                   "22": {
@@ -609,7 +609,7 @@
                   "24": {
                     "message": {
                       "": "Uhm...",
-                      "en_US": "Hum..."
+                      "en_US": "Hmm..."
                     }
                   },
                   "25": {
@@ -621,19 +621,19 @@
                   "26": {
                     "message": {
                       "": "I told him that I need my place to be this way to really concentrate on my work.",
-                      "en_US": "Eu disse a ele que precisava do meu canto desse jeito, para poder me concentrar de fato no trabalho."
+                      "en_US": "Eu falei pra ele que precisava do meu canto desse jeito para me concentrar no trabalho."
                     }
                   },
                   "27": {
                     "message": {
                       "": "And I wouldn't ask him to take off his jetpack either, you see?\\. It's actually a bit of a safety hazard.",
-                      "en_US": "E eu também não lhe pediria para tirar o jetpack, sabe? Na verdade, é um pouco perigoso para a segurança."
+                      "en_US": "E eu também não pediria para ele tirar o Jetpack, sabe?\\. Pode ser perigoso."
                     }
                   },
                   "28": {
                     "message": {
                       "": "Well...\\. alright.\\. I suppose it is not...\\. quite...\\. blackmailing?",
-                      "en_US": "Bem...\\. certo.\\. Eu suponho que isso não seja...\\. um pouco de...\\. chantagem?"
+                      "en_US": "Sim...\\. tudo bem.\\. Acho que isso não chega a ser uma chantagem?"
                     }
                   },
                   "29": {
@@ -1294,7 +1294,7 @@
           "26": {
             "message": {
               "": "Whoa there, girl!",
-              "en_US": "Wow, garota!"
+              "en_US": "Uou, garota!"
             }
           },
           "27": {
@@ -1324,19 +1324,19 @@
           "48": {
             "message": {
               "": "The wee lass sure got clingy!",
-              "en_US": "A garota ficou pegajosa!"
+              "en_US": "A garota ficou grudenta!"
             }
           },
           "50": {
             "message": {
               "": "Yes...\\. she tends to do that a lot these days.",
-              "en_US": "Sim...\\. ela está tendendo a fazer muito isso atualmente."
+              "en_US": "Sim...\\. ultimamente, ela tem feito muito isso."
             }
           },
           "56": {
             "message": {
               "": "Let the girl have her hugs!\\. It really has been a long time, y'know?",
-              "en_US": "Deixe a garota dar os abraços dela!\\. Já faz um bom tempo, sabe?"
+              "en_US": "Deixa a garota dar os abraços dela!\\. Já faz muito tempo que a gente não se vê."
             }
           },
           "57": {
@@ -1348,7 +1348,7 @@
           "58": {
             "message": {
               "": "Ya got your own little village now, isn't that right?",
-              "en_US": "Você tem sua próprio vilarejo agora, não é verdade?"
+              "en_US": "Você tem sua própria vila agora, não é verdade?"
             }
           },
           "60": {
@@ -1360,13 +1360,13 @@
           "61": {
             "message": {
               "": "I really wish we could pay a visit, but we're all still very busy around here.",
-              "en_US": "Eu realmente gostaria que pudéssemos fazer uma visita, mas ainda estamos todos muito ocupados por aqui."
+              "en_US": "Eu queria muito te visitar, mas ainda estamos muito ocupados por aqui."
             }
           },
           "63": {
             "message": {
               "": "Aye.",
-              "en_US": "Sim"
+              "en_US": "Sim."
             }
           },
           "64": {
@@ -1389,7 +1389,7 @@
           "71": {
             "message": {
               "": "But yes.\\. Instatainment is working on a successor to CrossWorlds right now.",
-              "en_US": "Mas sim.\\. Instatainment está trabalhando em um sucessor de CrossWorlds neste momento."
+              "en_US": "Mas sim.\\. No momento, a Instatainment está desenvolvendo um sucessor de CrossWorlds."
             }
           },
           "73": {
@@ -1400,7 +1400,7 @@
           "74": {
             "message": {
               "": "I suppose it is fine if you know about it.",
-              "en_US": "Suponho que não há problema se você souber disso."
+              "en_US": "Acho que não tem problema você saber disso."
             }
           },
           "75": {
@@ -1417,7 +1417,7 @@
           "81": {
             "message": {
               "": "Looks like we'll have to take a few dozen more trips over the sea.",
-              "en_US": "Parece que teremos que fazer mais algumas viagens sobre o mar.!"
+              "en_US": "Pelo visto, ainda teremos que fazer mais viagens pelo mar."
             }
           },
           "83": {
@@ -1435,13 +1435,13 @@
           "86": {
             "message": {
               "": "Do you not miss the old days working in intergalactic logistics?",
-              "en_US": "Você não sente falta dos velhos tempos trabalhando na logística intergaláctica?"
+              "en_US": "Não sente falta dos velhos tempos trabalhando na logística intergaláctica?"
             }
           },
           "87": {
             "message": {
               "": "Nah...\\. I'm used to all the water by now.",
-              "en_US": "Nah...\\. Já estou acostumado com toda essa água agora."
+              "en_US": "Não...\\. Já estou acostumado com toda essa água agora."
             }
           },
           "89": {
@@ -1453,7 +1453,7 @@
           "91": {
             "message": {
               "": "Oh, ya didn't know, Lea?",
-              "en_US": "Oh, você não sabia, Lea?"
+              "en_US": "Ah, você não sabia, Lea?"
             }
           },
           "92": {
@@ -1482,7 +1482,7 @@
           "111": {
             "message": {
               "": "A clear night sky like this...\\. It has always impressed me.",
-              "en_US": "Um céu noturno limpo como este...\\. Sempre me impressionou."
+              "en_US": "Um céu noturno limpo como esse...\\. sempre me impressionou."
             }
           },
           "112": {
@@ -1535,7 +1535,7 @@
           "148": {
             "message": {
               "": "You are probably tired.\\. It has been a long day for you, correct?",
-              "en_US": "Você deve estar cansada.\\. Foi um dia bem longo pra você, certo?"
+              "en_US": "Você deve estar cansada.\\. Foi um dia bem longo pra você, não é?"
             }
           },
           "149": {
@@ -1552,13 +1552,13 @@
           "152": {
             "message": {
               "": "Well...\\. you have a warm bed to return to.",
-              "en_US": "Bem...\\. você tem uma cama quente para deitar."
+              "en_US": "Bom...\\. você tem uma cama quente para deitar."
             }
           },
           "160": {
             "message": {
               "": "It is time for me to leave as well, actually.",
-              "en_US": "É hora de eu sair também, na verdade."
+              "en_US": "É hora de eu sair também."
             }
           },
           "161": {
@@ -1576,19 +1576,19 @@
           "165": {
             "message": {
               "": "Aye.\\. Still, never would have guessed I'd meet you in this kind of get-up.",
-              "en_US": "Sim.\\. Mesmo assim, nunca teria adivinhado que o encontraria neste tipo de reunião."
+              "en_US": "Sim.\\. Nunca pensei que fosse te ver com esse visual."
             }
           },
           "166": {
             "message": {
               "": "That is what games are for, correct? ",
-              "en_US": "É para isso que servem os jogos, correto?"
+              "en_US": "É para isso que servem os jogos, não é?"
             }
           },
           "167": {
             "message": {
               "": "Doing things in unusual ways.",
-              "en_US": "Fazendo as coisas de maneiras incomuns."
+              "en_US": "Para fazer as coisas de formas incomuns."
             }
           },
           "169": {
@@ -1623,7 +1623,7 @@
           "184": {
             "message": {
               "": "We already decided to just keep that teleporter down in the cargo hold!",
-              "en_US": "Nós decidimos manter esse teletransportador no porão de carga!"
+              "en_US": "Nós decidimos manter esse teleportador no porão de carga!"
             }
           },
           "185": {
@@ -1646,7 +1646,7 @@
           "198": {
             "task": {
               "": "Time to \\c[3]go to bed\\c[0] in your house in \\c[3]Homestedt\\c[0]!",
-              "en_US": "Hora de \\c[3]ir para a cama\\c[0] na sua casa em \\c[3]Homestedt\\c[0]!"
+              "en_US": "Hora de \\c[3]ir para a cama\\c[0] na sua casa na \\c[3]Fazendolar\\c[0]!"
             }
           }
         }

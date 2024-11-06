@@ -172,7 +172,7 @@
           "32": {
             "message": {
               "": "I'm C'tron, right?\\. You should know.",
-              "en_US": "Sou C'tron, certo?\\. Você deveria saber."
+              "en_US": "Sou C'tron, certo?\\. Você sabe."
             }
           },
           "33": {
@@ -189,7 +189,7 @@
           "35": {
             "message": {
               "": "...\\. That hand pose?",
-              "en_US": "...\\. Essa pose de mão?"
+              "en_US": "...\\. Aquele sinal com a mão?"
             }
           },
           "36": {
@@ -201,7 +201,7 @@
           "37": {
             "message": {
               "": "Want to practice the real thing again?",
-              "en_US": "Quer realmente praticar de novo?"
+              "en_US": "Quer praticar de novo?"
             }
           },
           "38": {
@@ -225,19 +225,19 @@
           "49": {
             "message": {
               "": "What?",
-              "en_US": "O que?"
+              "en_US": "Que?"
             }
           },
           "51": {
             "message": {
               "": "This?\\. It's an image of a \\c[3]starry sky\\c[0].",
-              "en_US": "Isto?\\. É a imagem do \\c[3]céu estrelado\\c[0]."
+              "en_US": "Isto?\\. É uma foto do \\c[3]céu estrelado\\c[0]."
             }
           },
           "52": {
             "message": {
               "": "I do like those a lot.",
-              "en_US": "Eu gosto muito disso."
+              "en_US": "Eu gosto muito dessa imagem."
             }
           },
           "57": {
@@ -264,7 +264,7 @@
           "62": {
             "message": {
               "": "You've shown it to me before, right?",
-              "en_US": "Você já me mostrou isso antes, certo?"
+              "en_US": "Você já me mostrou isso antes, não foi?"
             }
           },
           "63": {
@@ -360,7 +360,7 @@
           "83": {
             "message": {
               "": "I told you, right?\\. I just barely remember.\n",
-              "en_US": "Eu te disse, certo?\\. Eu quase não me lembro.\n"
+              "en_US": "Eu te disse.\\. Eu mal consigo lembrar.\n"
             }
           },
           "84": {
@@ -476,7 +476,7 @@
           "136": {
             "message": {
               "": "And who is that now?",
-              "en_US": "E quem é agora?"
+              "en_US": "Quem é agora?"
             }
           },
           "144": {
@@ -494,7 +494,7 @@
           "150": {
             "message": {
               "": "You both should be aware that you are being closely monitored, correct?",
-              "en_US": "Vocês dois devem saber que estão sendo monitorados de perto, certo?"
+              "en_US": "Vocês dois sabem que estão sendo monitorados de perto, não é?"
             }
           },
           "152": {
@@ -517,13 +517,13 @@
           "155": {
             "message": {
               "": "Lea just suddenly entered and tried to ask me questions.",
-              "en_US": "Lea simplesmente entrou de repente e tentou me fazer perguntas."
+              "en_US": "Lea entrou de repente e tentou me fazer perguntas."
             }
           },
           "156": {
             "message": {
               "": "And now she's just shouting question words at me.",
-              "en_US": "E agora ela está apenas gritando perguntas para mim."
+              "en_US": "E agora ela está gritando perguntas para mim."
             }
           },
           "157": {
@@ -595,7 +595,7 @@
           "168": {
             "message": {
               "": "And there are very few people that played a role in her past.",
-              "en_US": "E há muito poucas pessoas que desempenharam um papel no passado dela."
+              "en_US": "E poucas pessoas fizeram parte no passado dela."
             }
           },
           "169": {
@@ -612,7 +612,7 @@
           "172": {
             "message": {
               "": "It was \\c[3]Sidwell\\c[0], correct?",
-              "en_US": "Foi \\c[3]Sidwell\\c[0], certo?"
+              "en_US": "Foi \\c[3]Sidwell\\c[0], não foi?"
             }
           },
           "173": {
@@ -647,19 +647,19 @@
           "178": {
             "message": {
               "": "But then there is that weird \\c[3]hand pose\\c[0] with the bent fingers.",
-              "en_US": "Mas tem aquela esquisita \\c[3]pose de mão\\c[0] com os dedos dobrados."
+              "en_US": "Mas tem aquele \\c[3]gesto esquisito da mão\\c[0] com os dedos dobrados."
             }
           },
           "179": {
             "message": {
               "": "I get the feeling it is related, since I have seen Lea trying to do it herself frequently.",
-              "en_US": "Tenho a sensação que tem relação, pois tenho visto a Lea tentando fazê-lo sozinha com frequência."
+              "en_US": "Tenho a sensação de que isso está relacionado, pois já vi muitas vezes a Lea tentando fazer isso."
             }
           },
           "180": {
             "message": {
               "": "Lea, could Sidwell do the same hand pose as well?",
-              "en_US": "Lea, Sidwell também poderia fazer a mesma pose de mão?"
+              "en_US": "Lea, Sidwell também poderia fazer o mesmo gesto?"
             }
           },
           "181": {
@@ -711,7 +711,7 @@
           "189": {
             "message": {
               "": "Lea might be the only person here who had a somewhat close connection to him.",
-              "en_US": "Lea pode ser a única pessoa aqui que tinha uma conexão um tanto próxima com ele."
+              "en_US": "Lea pode ser a única pessoa aqui que tinha uma conexão próxima com ele."
             }
           },
           "190": {
@@ -775,13 +775,13 @@
           "214": {
             "message": {
               "": "Lea, being in her room.",
-              "en_US": "Lea, estando no quarto dela."
+              "en_US": "Lea, no quarto dela."
             }
           },
           "215": {
             "message": {
               "": "Me, teaching her hand signs.\\. All kinds of things.",
-              "en_US": "Eu, ensinando os sinais.\\. Todo o tipo de coisas."
+              "en_US": "Eu, ensinando os sinais.\\. E todo o tipo de coisas."
             }
           },
           "216": {
@@ -821,13 +821,13 @@
           "224": {
             "message": {
               "": "I must have been playing CrossWorlds a lot.",
-              "en_US": "Eu devo ter jogado muito CrossWorlds."
+              "en_US": "Eu devo ter jogado CrossWorlds por muito tempo."
             }
           },
           "225": {
             "message": {
               "": "Days... probably weeks on end.",
-              "en_US": "Dias... provavelmente semanas sem fim."
+              "en_US": "Dias... provavelmente semanas."
             }
           },
           "226": {
@@ -885,7 +885,7 @@
           "253": {
             "message": {
               "": "That's what I am!",
-              "en_US": "Isso é o que eu sou!"
+              "en_US": "É isso que eu sou!"
             }
           },
           "254": {
@@ -927,7 +927,7 @@
           "262": {
             "message": {
               "": "Same with \\c[3]Sidwell\\c[0]!\\. You don't even know my real name!",
-              "en_US": "O mesmo para \\c[3]Sidwell\\c[0]!\\. Você nem sabe meu nome verdadeiro!"
+              "en_US": "Assim como \\c[3]Sidwell\\c[0]!\\. Você nem sabe meu nome verdadeiro!"
             }
           },
           "263": {
@@ -943,7 +943,7 @@
           },
           "270": {
             "message": {
-              "": "Heh...\\.\\."
+              "": "Ha...\\.\\."
             }
           },
           "274": {
@@ -978,13 +978,13 @@
           "283": {
             "message": {
               "": "Of course...\\. That's why you won't delete me.",
-              "en_US": "Claro...\\. É por isso que você não vai me deletar."
+              "en_US": "Claro...\\. é por isso que você não vai me deletar."
             }
           },
           "286": {
             "message": {
               "": "Wait...",
-              "en_US": "Espere..."
+              "en_US": "Espera..."
             }
           },
           "287": {
@@ -996,7 +996,7 @@
           "288": {
             "message": {
               "": "What is it?\\. Am I not right?",
-              "en_US": "O que é?\\. Eu não estou certo?"
+              "en_US": "O que foi?\\. Eu não estou certo?"
             }
           },
           "289": {
@@ -1014,19 +1014,19 @@
           "302": {
             "message": {
               "": "Wait!!",
-              "en_US": "Espere!"
+              "en_US": "Espera!"
             }
           },
           "304": {
             "message": {
               "": "W-What is this now?",
-              "en_US": "O-O que é isso agora?"
+              "en_US": "O-O que foi agora?"
             }
           },
           "305": {
             "message": {
               "": "Wait...",
-              "en_US": "Espere..."
+              "en_US": "Espera..."
             }
           },
           "306": {
@@ -1044,7 +1044,7 @@
           "309": {
             "message": {
               "": "Sorry.",
-              "en_US": "Desculpe."
+              "en_US": "Desculpa."
             }
           },
           "310": {
@@ -1073,7 +1073,7 @@
           "314": {
             "message": {
               "": "Thanks.",
-              "en_US": "Obrigado."
+              "en_US": "Obrigada."
             }
           },
           "315": {
@@ -1108,13 +1108,13 @@
           "324": {
             "message": {
               "": "Please calm down...",
-              "en_US": "Por favor, acalme-se..."
+              "en_US": "Por favor, se acalme..."
             }
           },
           "325": {
             "message": {
               "": "Remember...\\. you spent a lot of time with Lea.",
-              "en_US": "Lembra...\\. você passou muito tempo com a Lea."
+              "en_US": "Lembre-se...\\. você passou muito tempo com a Lea."
             }
           },
           "326": {
@@ -1126,19 +1126,19 @@
           "327": {
             "message": {
               "": "You should not forget about that.",
-              "en_US": "Você não deve se esquecer disso."
+              "en_US": "Não se esqueça disso."
             }
           },
           "331": {
             "message": {
               "": "Really now?",
-              "en_US": "Sério, agora?"
+              "en_US": "Você está falando sério?"
             }
           },
           "332": {
             "message": {
               "": "Despite the fact that I've been deceiving you the whole time?",
-              "en_US": "Apesar de eu estar fingindo o tempo todo?"
+              "en_US": "Mesmo eu tendo mentido pra ela o tempo todo?"
             }
           },
           "333": {
@@ -1237,7 +1237,7 @@
           "352": {
             "message": {
               "": "Why would Sidwell\\. ever feel this way?",
-              "en_US": "Por que Sidwell\\. já se sentiu assim?"
+              "en_US": "Por que Sidwell\\. se sentiu assim?"
             }
           }
         }

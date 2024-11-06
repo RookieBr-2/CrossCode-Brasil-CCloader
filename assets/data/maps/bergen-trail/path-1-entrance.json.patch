@@ -1806,7 +1806,7 @@
                       "0": {
                         "message": {
                           "": "Again with a single hit?\\. What is this?",
-                          "en_US": "De novo com um único golpe?\\ O Que é isso?"
+                          "en_US": "De novo com um único golpe?\\. O Que é isso?"
                         }
                       },
                       "1": {
@@ -1965,7 +1965,7 @@
                       "2": {
                         "message": {
                           "": "Do you feel any \\c[1]accomplishment\\c[0], over-powered as you are?",
-                          "en_US": "Você sente alguma \\c[1]realização\\ c[0], duelando com o nível acima do normal?"
+                          "en_US": "Você sente alguma \\c[1]realização\\c[0], duelando com o nível acima do normal?"
                         }
                       },
                       "3": {

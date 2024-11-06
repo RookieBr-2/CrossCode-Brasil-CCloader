@@ -433,43 +433,43 @@
               "3": {
                 "message": {
                   "": "Ah, the horned lady is back!",
-                  "en_US": "Ah, a senhorita dos chifres está de volta!"
+                  "en_US": "Ah, a moça dos chifres voltou!"
                 }
               },
               "4": {
                 "message": {
                   "": "Did you see our new cat already?",
-                  "en_US": "Você já viu nosso novo gato?"
+                  "en_US": "Você já viu nosso novo gatinho?"
                 }
               },
               "9": {
                 "message": {
                   "": "We call him Leim!",
-                  "en_US": "Nós o chamamos de Leim!"
+                  "en_US": "Nós chamamos ele de Leim!"
                 }
               },
               "10": {
                 "message": {
                   "": "My mom said he was found walking on the Playground and they didn't know where to take him.",
-                  "en_US": "Minha mãe disse que ele foi encontrado caminhando no Playground e que não sabiam para onde levá-lo."
+                  "en_US": "Minha mãe disse que acharam ele andando no Playground e não sabiam pra onde levar ele."
                 }
               },
               "11": {
                 "message": {
                   "": "That's why he's on our ship now!",
-                  "en_US": "É por isso que ele está em nosso navio agora!"
+                  "en_US": "É por isso que ele está no nosso navio agora!"
                 }
               },
               "12": {
                 "message": {
                   "": "And he's very lazy, always sleeping around here!",
-                  "en_US": "E ele é muito preguiçoso, sempre dormindo por aqui!"
+                  "en_US": "E ele é muito preguiçoso, sempre dorme aqui!"
                 }
               },
               "13": {
                 "message": {
                   "": "He also seems to be very afraid of water, just like the captain!",
-                  "en_US": "Ele também parece ter muito medo da água, assim como o capitão!"
+                  "en_US": "Ele também tem medo da água, igual o capitão!"
                 }
               },
               "15": {
@@ -481,7 +481,7 @@
               "22": {
                 "message": {
                   "": "Yes!\\. Captain doesn't like water!\\. That's why he wears the jetpack!",
-                  "en_US": "Sim!\\. O capitão não gosta de água! É por isso que ele veste o jetpack!"
+                  "en_US": "Sim!\\. O capitão não gosta de água!\\. É por isso que ele usa o jetpack!"
                 }
               },
               "23": {
@@ -498,7 +498,7 @@
               "25": {
                 "message": {
                   "": "Please don't tell anyone else!",
-                  "en_US": "Por favor, não conte a mais ninguém!"
+                  "en_US": "Por favor, não conta pra ninguém!"
                 }
               },
               "26": {
@@ -521,7 +521,7 @@
               "29": {
                 "message": {
                   "": "Thank you horned lady!",
-                  "en_US": "Obrigado senhorita chifrada!"
+                  "en_US": "Obrigada moça dos chifres!"
                 }
               }
             }
@@ -531,7 +531,7 @@
               "1": {
                 "message": {
                   "": "Leim, come down!\\. I wanna play!",
-                  "en_US": "Leim, desça! Eu quero brincar!"
+                  "en_US": "Leim, desça!\\. Eu quero brincar!"
                 }
               }
             }
@@ -556,7 +556,7 @@
           "6": {
             "message": {
               "": "Oh yes...\\. I just overheard your conversation.",
-              "en_US": "Oh sim...\\. Eu acabei de ouvir sua conversa."
+              "en_US": "Eu acabei de ouvir sua conversa."
             }
           },
           "7": {
@@ -568,7 +568,7 @@
           "8": {
             "message": {
               "": "And her mom told her to keep it a secret?",
-              "en_US": "E a mãe dela lhe disse para manter segredo?"
+              "en_US": "E a mãe dela disse para manter segredo?"
             }
           },
           "9": {
@@ -591,7 +591,7 @@
           "12": {
             "message": {
               "": "Lea, could you do me the favor and visit \\c[3]Carla in her cabin\\c[0]?",
-              "en_US": "Lea, você pode me fazer o favor de visitar \\c[3]Carla em sua cabine\\c[0]?"
+              "en_US": "Lea, você pode me fazer o favor de visitar \\c[3]Carla na cabine dela\\c[0]?"
             }
           },
           "13": {

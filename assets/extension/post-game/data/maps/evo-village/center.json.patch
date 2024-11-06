@@ -2547,7 +2547,7 @@
           "12": {
             "message": {
               "": "Next time you plan to interrogate someone, please let me know first.",
-              "en_US": "Da próxima vez que planejar interrogar alguém, por favor, me avise primeiro."
+              "en_US": "Da próxima vez que for interrogar alguém, por favor, me avise primeiro."
             }
           },
           "13": {
@@ -2558,25 +2558,25 @@
           "14": {
             "message": {
               "": "I understand that all of this must be quite personal to you.\n",
-              "en_US": "Entendo que tudo isso deve ser bastante pessoal para você.\n"
+              "en_US": "Entendo que tudo isso deve ser muito pessoal para você.\n"
             }
           },
           "15": {
             "message": {
               "": "But we all want to learn the whole story. ",
-              "en_US": "Mas todos nós queremos saber a história toda."
+              "en_US": "Mas todos nós queremos saber a verdade."
             }
           },
           "16": {
             "message": {
               "": "And we definitely need to collaborate to get there.",
-              "en_US": "E com certeza precisamos colaborar para chegar lá."
+              "en_US": "E precisamos trabalhar juntos para conseguir isso."
             }
           },
           "17": {
             "message": {
               "": "Sorry.",
-              "en_US": "Desculpe."
+              "en_US": "Desculpa."
             }
           },
           "18": {
@@ -2587,7 +2587,7 @@
           "19": {
             "message": {
               "": "Well, today certainly was an important step.",
-              "en_US": "Bem, hoje com certeza foi um passo importante."
+              "en_US": "Bom, hoje com certeza foi um passo importante."
             }
           },
           "20": {
@@ -2599,7 +2599,7 @@
           "21": {
             "message": {
               "": "Because I am still puzzled about the fact he ended up on that Evotar Server.",
-              "en_US": "Porque ainda estou intrigado dele ter ido parar naquele Servidor Evotar."
+              "en_US": "Ainda estou curioso sobre como ele foi parar naquele Servidor Evotar."
             }
           },
           "22": {
@@ -2621,7 +2621,7 @@
           "25": {
             "message": {
               "": "I will be going then.\\. Make sure to get some sleep, Lea.",
-              "en_US": "Vou indo então.\\. Certifique-se de dormir um pouco, Lea."
+              "en_US": "Vou indo então.\\. É bom você dormir um pouco, Lea."
             }
           },
           "26": {
