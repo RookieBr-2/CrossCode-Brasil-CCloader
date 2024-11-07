@@ -12266,13 +12266,13 @@
             "0": {
               "message": {
                 "": "Lea, we want to meet in the \\c[3]city hall\\c[0] to talk about running that new dungeon togther.",
-                "en_US": "Lea, vamos nos encontrar na \\c[3]prefeitura\\c[0] pra falar sobre o funcionamento daquela nova dungeon."
+                "en_US": "Lea, vamos nos encontrar na \\c[3]prefeitura\\c[0] pra falar sobre a nova dungeon."
               }
             },
             "1": {
               "message": {
                 "": "You should join us!",
-                "en_US": "Você devia se juntar a nós!"
+                "en_US": "Você devia vir pra cá!"
               }
             }
           }
@@ -13678,13 +13678,13 @@
             "1": {
               "message": {
                 "": "Spheromancer Lea!\\. I'm currently busy investigating certain rumors I've heard about CrossWorlds.",
-                "en_US": "Esferomante Lea!\\. Estou ocupado no momento investigando certos rumores que ouvi sobre CrossWorlds."
+                "en_US": "Esferomante Lea!\\. Estou ocupado agora investigando uns rumores que ouvi sobre CrossWorlds."
               }
             },
             "2": {
               "message": {
                 "": "I'll tell you more, as soon as my sources have been confirmed!",
-                "en_US": "Contarei mais, assim que minhas fontes forem confirmadas!"
+                "en_US": "Vou te dizer assim que minhas fontes forem confirmadas!"
               }
             },
             "3": {
@@ -14402,13 +14402,13 @@
             "1": {
               "message": {
                 "": "Hey Lea...\\. I'm sort of busy right now.",
-                "en_US": "Ei Lea...\\. Eu estou um pouco ocupado agora."
+                "en_US": "Ei Lea...\\. eu estou um pouco ocupado agora."
               }
             },
             "2": {
               "message": {
                 "": "Polly is dragging me around all over the place.\\. Seems like something important is happening.",
-                "en_US": "Polly está me arrastando por todos os lados.\\. Parece que algo importante está acontecendo."
+                "en_US": "Polly está me arrastando por todos os lados.\\. Algo importante deve estar rolando."
               }
             }
           }
@@ -14948,7 +14948,7 @@
             "3": {
               "message": {
                 "": "I really wonder how long that one will be!",
-                "en_US": "Eu espero que ela seja bem extensa!"
+                "en_US": "Eu espero que ela seja enorme!"
               }
             }
           }
@@ -16191,7 +16191,7 @@
             "1": {
               "message": {
                 "": "Hey Lea!\\. You want to tell me about the new dungeon?",
-                "en_US": "Ei Lea!.\\. Você quer me contar sobre a nova dungeon?"
+                "en_US": "Ei Lea!\\. Você quer me contar sobre a nova dungeon?"
               }
             },
             "2": {
@@ -16202,7 +16202,7 @@
             "3": {
               "message": {
                 "": "Right, that would be hard for you to communicate.",
-                "en_US": "Certo, isso provavelmente seria um pouco difícil para você."
+                "en_US": "Tudo bem, isso seria um pouco difícil para você."
               }
             },
             "4": {
@@ -16784,7 +16784,7 @@
             "2": {
               "message": {
                 "": "We're currently meeting in the \\c[3]city hall\\c[0] of \\c[3]Homestedt\\c[0], so we can plan to run the whole dungeon together!",
-                "en_US": "Nós estamos nos reunindo na \\c[3]prefeitura\\c[0] da \\c[3]Fazendolar\\c[0], para que possamos explorar a dungeon inteira juntos!"
+                "en_US": "Nós estamos nos reunindo na \\c[3]prefeitura\\c[0], para definir como vamos explorar a dungeon inteira juntos!"
               }
             },
             "3": {
@@ -17610,7 +17610,7 @@
             "3": {
               "message": {
                 "": "Are you by chance wondering about my \\c[3]preferred dungeon length\\c[0]?",
-                "en_US": "Você por acaso tem curiosidade sobre meu \\c[3]tipo de dungeon favorito\\c[0]?"
+                "en_US": "Você por acaso quer saber o meu \\c[3]tipo de dungeon favorito\\c[0]?"
               }
             },
             "4": {
@@ -18480,7 +18480,7 @@
             "4": {
               "message": {
                 "": "We're meeting in the city hall of Homestedt, because we want to run it all together!",
-                "en_US": "Estamos nos reunindo na prefeitura da Fazendolar, porque queremos fazer isso juntos!"
+                "en_US": "Estamos na prefeitura, só vem!"
               }
             }
           }
@@ -24333,7 +24333,7 @@
     "heat.special.baki-turret_2": {
       "name": {
         "": "Legionary Turret v2",
-        "en_US": "Torre Legionárua v2"
+        "en_US": "Torre Legionária v2"
       },
       "species": {
         "": "Desert Sentry",
@@ -26009,22 +26009,26 @@
       "content": {
         "page-01": {
           "content": {
-            "": "The next morning, \\c[3]Lea\\c[0] was surprised to meet \\c[3]Apollo and Joern\\c[0], who returned from their vacation. As expected, \\c[3]Apollo challenged Lea to a final duel\\c[0]. They both agreed to hold it after they completed the \\c[3]new area\\c[0] that has just been added to CrossWorlds: \\c[3]Azure Archipelago\\c[0]."
+            "": "The next morning, \\c[3]Lea\\c[0] was surprised to meet \\c[3]Apollo and Joern\\c[0], who returned from their vacation. As expected, \\c[3]Apollo challenged Lea to a final duel\\c[0]. They both agreed to hold it after they completed the \\c[3]new area\\c[0] that has just been added to CrossWorlds: \\c[3]Azure Archipelago\\c[0].",
+            "en_US": "No dia seguinte, \\c[3]Lea\\c[0] ficou surpresa ao encontrar \\c[3]Apollo e Joern\\c[0], que haviam retornado de suas férias. Como esperado, \\c[3]Apollo desafiou Lea para um duelo final\\c[0]. Ambos concordaram em realizá-lo depois de explorarem a \\c[3]nova área\\c[0] que foi adicionada em CrossWorlds: o \\c[3]Arquipélago Azul\\c[0]."
           }
         },
         "page-02": {
           "content": {
-            "": "After a pleasant walk among sandy beaches and plenty of battles, Lea was ready to \\c[3]take on Apollo in Rhombus Square\\c[0]. After the duel had concluded, Lea returned to \\c[3]Homestedt\\c[0] and was surprised to find \\c[3]C'tron\\c[0] together with \\c[3]Satoshi\\c[0]. C'tron admitted his \\c[3]connection with Sidwell\\c[0] and felt apologies to Satoshi were in order. He also mentioned that he remembered \\c[3]getting the job offer from Sidwell via email as he was a student\\c[0], doing the work as a side job. Lea felt that something didn't sound right about this."
+            "": "After a pleasant walk among sandy beaches and plenty of battles, Lea was ready to \\c[3]take on Apollo in Rhombus Square\\c[0]. After the duel had concluded, Lea returned to \\c[3]Homestedt\\c[0] and was surprised to find \\c[3]C'tron\\c[0] together with \\c[3]Satoshi\\c[0]. C'tron admitted his \\c[3]connection with Sidwell\\c[0] and felt apologies to Satoshi were in order. He also mentioned that he remembered \\c[3]getting the job offer from Sidwell via email as he was a student\\c[0], doing the work as a side job. Lea felt that something didn't sound right about this.",
+            "en_US": "Depois de uma caminhada agradável pelas praias e muitas batalhas, Lea estava pronta para \\c[3]enfrentar Apollo na Praça Losango\\c[0]. Após o duelo, Lea retornou a \\c[3]Fazendolar\\c[0] e ficou surpresa ao encontrar \\c[3]C'tron\\c[0] junto com \\c[3]Satoshi\\c[0]. C'tron admitiu sua \\c[3]conexão com Sidwell\\c[0] e achou que era necessário pedir desculpas a Satoshi. Ele também mencionou que se lembrava de \\c[3]ter recebido a oferta de trabalho de Sidwell por e-mail quando ainda era estudante\\c[0], fazendo o trabalho como um bico. Lea sentiu que havia algo estranho nisso."
           }
         },
         "page-03": {
           "content": {
-            "": "Suddenly, \\c[3]Sergey\\c[0] gave Lea a call, telling her he was with \\c[3]Jet at M.S. Solar\\c[0] and they'd love to meet Lea as well. Following his invitation, \\c[3]Lea returned to the cargo ship\\c[0], seeing \\c[3]Carla\\c[0] and the others again after many months. As Sergey talked about \\c[3]Jet's past job in intergalactical logistics\\c[0], Lea suddenly \\c[3]remembered a few details about C'tron and Sidwell\\c[0], suspecting there must be a closer connection between the two. After the pleasant visit, Lea returned to \\c[3]Evotar Village\\c[0] and decided to drop by at C'tron's place."
+            "": "Suddenly, \\c[3]Sergey\\c[0] gave Lea a call, telling her he was with \\c[3]Jet at M.S. Solar\\c[0] and they'd love to meet Lea as well. Following his invitation, \\c[3]Lea returned to the cargo ship\\c[0], seeing \\c[3]Carla\\c[0] and the others again after many months. As Sergey talked about \\c[3]Jet's past job in intergalactical logistics\\c[0], Lea suddenly \\c[3]remembered a few details about C'tron and Sidwell\\c[0], suspecting there must be a closer connection between the two. After the pleasant visit, Lea returned to \\c[3]Evotar Village\\c[0] and decided to drop by at C'tron's place.",
+            "en_US": "De repente, \\c[3]Sergey\\c[0] ligou para Lea, dizendo que estava com \\c[3]Jet no M.S. Solar\\c[0] e que eles também gostariam de se encontrar com Lea. Atendendo ao convite, \\c[3]Lea retornou ao navio\\c[0], reencontrando \\c[3]Carla\\c[0] e os outros novamente depois de muitos meses. Enquanto Sergey falava sobre \\c[3]o antigo trabalho de Jet na logística intergaláctica\\c[0], Lea \\c[3]se lembrou de alguns detalhes sobre C'tron e Sidwell\\c[0], suspeitando que houvesse uma conexão mais estreita entre os dois. Após a visita agradável, Lea retornou à \\c[3]Vila dos Evotares\\c[0] e decidiu passar na casa de C'tron."
           }
         },
         "page-04": {
           "content": {
-            "": "Struggling with her speech synchronization, \\c[3]Lea\\c[0] tried to explain to C'tron \\c[3]his connection to Sidwell\\c[0] that she seemed to remember, pointing out that they both made the \\c[3]same hand gestures\\c[0] and knew certain \\c[3]hand signs\\c[0]. However, \\c[3]C'tron\\c[0] didn't go along with Lea's trail of thought, even \\c[3]purposely acting like he didn't understand\\c[0] what she was trying to communicate. As they both ended at an impasse, \\c[3]Sergey\\c[0] quickly dropped by to help Lea getting to the truth. Finally, \\c[3]C'tron\\c[0] admitted that he was not just working for Sidwell, but that he indeed \\c[3]must have been Sidwell himself\\c[0], because he had his \\c[3]memories\\c[0]. However, this didn't quite explain \\c[3]his fear of betraying Lea and the others\\c[0] back when they played together. Something didn't quite fit."
+            "": "Struggling with her speech synchronization, \\c[3]Lea\\c[0] tried to explain to C'tron \\c[3]his connection to Sidwell\\c[0] that she seemed to remember, pointing out that they both made the \\c[3]same hand gestures\\c[0] and knew certain \\c[3]hand signs\\c[0]. However, \\c[3]C'tron\\c[0] didn't go along with Lea's trail of thought, even \\c[3]purposely acting like he didn't understand\\c[0] what she was trying to communicate. As they both ended at an impasse, \\c[3]Sergey\\c[0] quickly dropped by to help Lea getting to the truth. Finally, \\c[3]C'tron\\c[0] admitted that he was not just working for Sidwell, but that he indeed \\c[3]must have been Sidwell himself\\c[0], because he had his \\c[3]memories\\c[0]. However, this didn't quite explain \\c[3]his fear of betraying Lea and the others\\c[0] back when they played together. Something didn't quite fit.",
+            "en_US": "Mesmo com a dificuldade de fala, \\c[3]Lea\\c[0] tentou explicar a \\c[3]C'tron\\c[0] que ela notou semelhanças \\c[3]entre ele e Sidwell\\c[0], apontando que ambos faziam os \\c[3]mesmos gestos com as mãos\\c[0] e alguns \\c[3]sinais de libras\\c[0]. Mas, \\c[3]C'tron\\c[0] não concordou com Lea e até \\c[3]fingiu não entender\\c[0] o que ela estava tentando dizer. Quando ambos chegaram a um impasse, \\c[3]Sergey\\c[0] apareceu para ajudar Lea a descobrir a verdade. Finalmente, \\c[3]C'tron\\c[0] admitiu que não estava apenas trabalhando para Sidwell, mas que \\c[3]ele devia ser Sidwell\\c[0], pois tinha suas \\c[3]memórias\\c[0]. No entanto, isso não explicava seu medo de trair Lea e os outros quando jogavam juntos. Algo não se encaixava."
           }
         }
       }

@@ -60,6 +60,7 @@
       },
       "challenges": {
         "descriptions": {
+          "WEAPON_ADJUST": "O nível do equipamento ascendido será ajustado para o nível do round.",
           "NO_MELEE": "Combate Corpo a Corpo está desativado.",
           "NO_RANGED": "Combate a Distancia está desativado.",
           "NO_DASH": "Esquiva está desativada.",
@@ -958,7 +959,7 @@
           "AIM_STABILITY": "Tiro Estável",
           "SPIKE_DMG": "Corpo de Espinhos",
           "AIMING_MOVEMENT": "Precisão",
-          "DASH_STEP": "Dash Extra",
+          "DASH_STEP": "Esquiva Extra",
           "MONEY_PLUS": "Banqueiro",
           "ONCE_MORE": "Mais uma vez",
           "PERFECT_GUARD_WINDOW": "Guarda Real",

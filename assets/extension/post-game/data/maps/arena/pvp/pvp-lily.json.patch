@@ -6,7 +6,7 @@
           "11": {
             "message": {
               "": "It's time for our little duel.",
-              "en_US": "É hora do nosso pequeno duelo."
+              "en_US": "É hora do nosso duelo."
             }
           },
           "12": {
@@ -49,7 +49,7 @@
                   "0": {
                     "message": {
                       "": "Phew, you're quite skilled at this game!",
-                      "en_US": "Ufff, você é bastante habilidosa neste jogo!"
+                      "en_US": "Ufa, você é bem habilidosa nesse jogo!"
                     }
                   }
                 }
@@ -59,7 +59,7 @@
                   "0": {
                     "message": {
                       "": "I'll get more serious now!",
-                      "en_US": "Vou jogar mais a sério agora!"
+                      "en_US": "Vou jogar a sério agora!"
                     }
                   }
                 }
@@ -141,7 +141,7 @@
               "1": {
                 "message": {
                   "": "Phew...\\. you won.",
-                  "en_US": "Ufff...\\. você ganhou."
+                  "en_US": "Ufa...\\. você ganhou."
                 }
               },
               "2": {
@@ -153,7 +153,7 @@
               "3": {
                 "message": {
                   "": "That was great, though.",
-                  "en_US": "Mas isso foi ótimo."
+                  "en_US": "Mas foi ótimo."
                 }
               },
               "4": {
