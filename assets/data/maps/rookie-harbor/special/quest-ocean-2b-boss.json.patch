@@ -22,7 +22,7 @@
               "settings": {
                 "text": {
                   "": "Ship HP",
-                  "en_US": "PV do Barco",
+                  "en_US": "HP do Barco",
                   "ko_KR": "함선 HP<<C<<최종확인완료<<A<<[CHANGED 2020/06/17]"
                 }
               }
@@ -164,7 +164,7 @@
           "29": {
             "text": {
               "": "\\c[2]Patrol successful!\\c[0]\n\nThe Coordinator has been destroyed!",
-              "en_US": "\\c[2]Patrulha bem sucedida!\\c[0]\n\nO Coordenador foi destruído!",
+              "en_US": "\\c[2]Patrulha bem sucedida!\\c[0]\n\nA Torre Coordenadora foi destruída!",
               "ko_KR": "\\c[2]순찰 성공!\\c[0]\n\n좌표 기계가 파괴되었습니다!<<C<<최종확인완료<<A<<[CHANGED 2020/06/17]"
             }
           }

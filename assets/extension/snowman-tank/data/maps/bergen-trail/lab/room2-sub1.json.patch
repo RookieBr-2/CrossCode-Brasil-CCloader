@@ -61,25 +61,25 @@
             "8": {
               "message": {
                 "": "Welcome, everyone listening to this either in our laboratory or at your home, all around \\v[lore.title.planet].",
-                "en_US": "Bem-vindos, todos que estão ouvindo isso em nosso laboratório ou em sua casa, por todo \\v[lore.title.planet]."
+                "en_US": "Bem-vindos, todos que estão nos ouvindo, seja em nosso laboratório ou em casa, em qualquer lugar de \\v[lore.title.planet]."
               }
             },
             "9": {
               "message": {
                 "": "My name is \\c[3]Xavier Bonegate\\c[0], speaking for \\c[3]Heavy Hardware Inc\\c[0], as a representative...\\.\\. But also as a passionate engineer.",
-                "en_US": "Meu nome é \\c[3]Xavier Bonegate\\c[0], sou representante da \\c[3]Equipamentos Pesados Inc\\c[0]. Sou o representante...\\.\\. mas também um engenheiro apaixonado."
+                "en_US": "Meu nome é \\c[3]Xavier Bonegate\\c[0], sou representante da \\c[3]Equipamentos Pesados S.A.\\c[0]...\\.\\. mas também um engenheiro apaixonado."
               }
             },
             "10": {
               "message": {
                 "": "We at Heavy Hardware strive to create the hardest, most sturdy of wares.\\. Machinery, vehicles, big and small.",
-                "en_US": "Nós da Equipamentos Pesados, nos esforçamos para criar os produtos mais duros e resistentes.\\. Máquinas, veículos, grandes e pequenos."
+                "en_US": "Nós trabalhamos duro para desenvolver os produtos mais fortes e resistentes.\\. Máquinas e veículos, de todos os tamanhos."
               }
             },
             "11": {
               "message": {
                 "": "For the benefit of companies, the military, ordinary users.\\. Everyone, everywhere, at every moment.",
-                "en_US": "Em benefício de empresas, militares, usuários comuns.\\. Todos, em todos os lugares, a todo momento."
+                "en_US": "Em benefício de empresas, militares e usuários comuns.\\. Todos, em qualquer lugar, a qualquer momento."
               }
             },
             "12": {
@@ -103,7 +103,7 @@
             "15": {
               "message": {
                 "": "Right now, we are living in the most interesting times humanity has ever seen.\\. And interesting times need creative solutions!",
-                "en_US": "Agora, estamos vivendo os tempos mais interessantes que a humanidade já viu.\\. E momentos interessantes precisam de soluções criativas!"
+                "en_US": "Agora, estamos vivendo os tempos mais fascinantes que a humanidade já conheceu.\\. E tempos assim pedem soluções criativas!"
               }
             },
             "16": {

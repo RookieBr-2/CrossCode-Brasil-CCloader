@@ -425,19 +425,19 @@
                   "1": {
                     "message": {
                       "": "Bro, there's 4 basic stats in CrossWorlds:\n\\c[3]HP, Attack, Defense, Focus\\c[0].",
-                      "en_US": "Cara, tem 4 atributos básicos em CrossWorlds:\n\\c[3]PV, Ataque, Defesa e Foco\\c[0]."
+                      "en_US": "Cara, tem 4 atributos básicos em CrossWorlds:\n\\c[3]HP, Ataque, Defesa e Foco\\c[0]."
                     }
                   },
                   "2": {
                     "message": {
                       "": "The \\c[3]HP\\c[0] are your life. More HP means more damage that you can take and survive by tanking like a boss.",
-                      "en_US": "O \\c[3]PV\\c[0] é sua vida. Mais PV significa mais dano que você pode receber e aguentar porradas como um tanque de guerra."
+                      "en_US": "O \\c[3]HP\\c[0] é sua vida. Mais HP significa mais dano que você pode receber e aguentar porradas como um tanque de guerra."
                     }
                   },
                   "3": {
                     "message": {
                       "": "Pumping HP will also make \\c[3]healing more effective\\c[0], both for eating and your body's own healing.",
-                      "en_US": "Aumentar o PV também fará a \\c[3]cura mais eficaz\\c[0], tanto para comer quanto para a cura do próprio corpo."
+                      "en_US": "Aumentar o HP também fará a \\c[3]cura mais eficaz\\c[0], tanto para comer quanto para a cura do próprio corpo."
                     }
                   },
                   "4": {
@@ -757,13 +757,13 @@
                       "3": {
                         "message": {
                           "": "The \\c[3]maximum damage\\c[0] you can ignore is the \\c[3]Iron Stance percentage of the Max HP value\\c[0].",
-                          "en_US": "O \\c[3]máximo de dano\\c[0] que você pode ignorar com \\c[3]Postura de Ferro é baseado em uma porcentagem do seu PV Máximo\\c[3]."
+                          "en_US": "O \\c[3]máximo de dano\\c[0] que você pode ignorar com \\c[3]Postura de Ferro é baseado em uma porcentagem do seu HP Máximo\\c[3]."
                         }
                       },
                       "4": {
                         "message": {
                           "": "So a fighter with \\c[3]1000 MaxHP\\c[0] and \\c[3]10% Iron Stance\\c[0] can ignore all attacks of \\c[3]100 damage or less\\c[0].",
-                          "en_US": "Então, um lutador com \\c[3]1000 PV Máx.\\c[0] e \\c[3]10% de Postura de Ferro\\c[0] pode ignorar todos os ataques com \\c[3]100 de dano ou menos\\c[0]."
+                          "en_US": "Então, um lutador com \\c[3]1000 HP Máx.\\c[0] e \\c[3]10% de Postura de Ferro\\c[0] pode ignorar todos os ataques com \\c[3]100 de dano ou menos\\c[0]."
                         }
                       },
                       "5": {
@@ -775,7 +775,7 @@
                       "6": {
                         "message": {
                           "": "And without a decent Defense and MaxHP you won't find it very useful either.",
-                          "en_US": "E sem uma Defesa e PV Máx. decentes, você não vai achar isso muito útil."
+                          "en_US": "E sem uma Defesa e HP Máx. decentes, você não vai achar isso muito útil."
                         }
                       },
                       "7": {
@@ -1256,7 +1256,7 @@
                   "3": {
                     "message": {
                       "": "\\c[3]Heat\\c[0] can cause \\c[3]Burn\\c[0], which causes \\c[3]damage over time\\c[0], depending on \\c[3]the victim's MaxHP\\c[0].",
-                      "en_US": "\\c[3]Fogo\\c[0] pode \\c[3]Incendiar\\c[0] inimigos, causando \\c[3]dano ao longo do tempo\\c[0], dependendo \\c[3]do PV Máximo da vítima\\c[0]."
+                      "en_US": "\\c[3]Fogo\\c[0] pode \\c[3]Incendiar\\c[0] inimigos, causando \\c[3]dano ao longo do tempo\\c[0], dependendo \\c[3]do HP Máximo da vítima\\c[0]."
                     }
                   },
                   "4": {

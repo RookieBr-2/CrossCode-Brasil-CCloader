@@ -59,7 +59,7 @@
               "2": {
                 "message": {
                   "": "\\v[lore.title.seeker], day is hot and so is mood of the Shad.\\. If only evil beasts were gone.",
-                  "en_US": "\\v[lore.title.seeker], o dia está quente e o humor dos Shad também.\\. Se ao menos os animais malignos desaparecessem."
+                  "en_US": "\\v[lore.title.seeker], o dia está quente e o humor dos Shads também.\\. Se ao menos os animais malignos desaparecessem."
                 }
               }
             }
@@ -74,7 +74,7 @@
               "2": {
                 "message": {
                   "": "\\v[lore.title.seeker], thank you for defeating evil beasts.\\. Now Shad mood cooled down.",
-                  "en_US": "\\v[lore.title.seeker], obrigado por derrotar as bestas malignas.\\. Agora o humor dos Shad esfriou."
+                  "en_US": "\\v[lore.title.seeker], obrigado por derrotar bestas malignas.\\. Agora humor dos Shads esfriou."
                 }
               },
               "3": {
@@ -96,7 +96,7 @@
                 "2": {
                   "message": {
                     "": "\\v[lore.title.seeker], thank you for defeating evil beasts.\\. Now Shad mood cooled down.",
-                    "en_US": "\\v[lore.title.seeker], obrigado por derrotar as bestas malignas.\\. Agora o humor dos Shad esfriou."
+                    "en_US": "\\v[lore.title.seeker], obrigado por derrotar bestas malignas.\\. Agora humor dos Shads esfriou."
                   }
                 },
                 "3": {
@@ -114,7 +114,7 @@
                 "5": {
                   "message": {
                     "": "Ohh, cooling boxes want become part of Shad village?\\. What a blessing!",
-                    "en_US": "Ohh, as caixas de resfriamento virão para a aldeia dos Shad?\\. Que milagre!"
+                    "en_US": "Ohh, caixas de resfriamento virão para aldeia dos Shads?\\. Que milagre!"
                   }
                 },
                 "6": {
@@ -125,7 +125,7 @@
                 "7": {
                   "message": {
                     "": "Mhm, but human devices need power, yes?\\. None of that in humble village.",
-                    "en_US": "Mhm, mas os dispositivos dos humanos precisam de energia, sim?\\. E não temos em nossa humilde aldeia."
+                    "en_US": "Hmm, mas dispositivos dos humanos precisam de energia, não?\\. E não temos em nossa humilde aldeia."
                   }
                 },
                 "8": {
@@ -136,13 +136,13 @@
                 "9": {
                   "message": {
                     "": "Elder no like human powermachine.\\. But maybe my nephew Owo can find solution.",
-                    "en_US": "A Anciã não gosta das máquinas humanas.\\. Mas talvez meu sobrinho Owo possa encontrar uma solução."
+                    "en_US": "Anciã não gosta das máquinas humanas.\\. Mas talvez meu sobrinho Owo possa encontrar uma solução."
                   }
                 },
                 "10": {
                   "message": {
                     "": "He smart shad, full of dream and aspire!\\. Even studied human science at coolleg in city!",
-                    "en_US": "Ele é um shad esperto, cheio de sonhos e aspirações!\\. Até mesmo estudou ciência humana na escola da cidade!"
+                    "en_US": "Ele é shad esperto, cheio de sonhos e aspirações!\\. Até mesmo estudou ciência humana na escola da cidade!"
                   }
                 },
                 "11": {
@@ -153,7 +153,7 @@
                 "12": {
                   "message": {
                     "": "At day you can often find him in room of his, on hill to right of you!\\. Hope he help.",
-                    "en_US": "Você pode encontrá-lo frequentemente no quarto dele de dia, na colina à sua direita!\\. Espero que ele ajude."
+                    "en_US": "Você pode encontrar ele em casa, na colina à sua direita!\\. Espero que ele ajude."
                   }
                 },
                 "13": {
@@ -187,7 +187,7 @@
               "3": {
                 "message": {
                   "": "At day you can often find him in room of his, on hill to right of you!",
-                  "en_US": "Você pode encontrá-lo muitas vezes no quarto dele de dia, na colina à direita de você!"
+                  "en_US": "Você pode encontrar ele em casa, na colina à sua direita!"
                 }
               }
             }
@@ -217,7 +217,7 @@
               "2": {
                 "message": {
                   "": "Nephew smart.\\. He pick good human machines for better life of Shad.",
-                  "en_US": "Sobrinho esperto.\\ Ele escolhe boas máquinas humanas para uma vida melhor dos Shad."
+                  "en_US": "Sobrinho esperto.\\. Ele escolhe boas máquinas humanas para uma vida melhor dos Shads."
                 }
               }
             }
@@ -284,7 +284,7 @@
               "2": {
                 "message": {
                   "": "You may helped Shad, but I still not trust human!",
-                  "en_US": "Você pode ter ajudado os Shad, mas eu ainda não confio em humanos!"
+                  "en_US": "Você pode ter ajudado os Shads, mas eu ainda não confio em humanos!"
                 }
               },
               "3": {
@@ -515,7 +515,7 @@
             "23": {
               "message": {
                 "": "\\.\\.Ohh... A \\v[lore.title.seeker], huh?\\. What is special occasion?",
-                "en_US": "\\.\\.Ahh... Uma \\v[lore.title.seeker], hein?\\. Qual é o problema?"
+                "en_US": "\\.\\.Ahh... Uma \\v[lore.title.seeker]?\\. Qual é o problema?"
               }
             },
             "24": {
@@ -533,13 +533,13 @@
             "27": {
               "message": {
                 "": "Yes, there no connection to human plant of power and chief won't ever allow dirty generator in village.",
-                "en_US": "Sim, não há conexão com usina a de energia dos humanos e a chefe nunca permitirá um gerador sujo na aldeia."
+                "en_US": "Exato, não existe conexão com a usina de energia humana, e a anciã jamais autorizaria um gerador sujo na aldeia."
               }
             },
             "28": {
               "message": {
                 "": "BUT, \\v[lore.title.seeker], I developed alternative!\\. Device powered by nature!",
-                "en_US": "PORÉM \\v[lore.title.seeker], desenvolvi uma alternativa!\\. Um dispositivo alimentado pela natureza!"
+                "en_US": "PORÉM, \\v[lore.title.seeker], desenvolvi uma alternativa!\\. Um dispositivo alimentado pela natureza!"
               }
             },
             "29": {
@@ -568,7 +568,7 @@
             "33": {
               "message": {
                 "": "\\c[3]\\v[item.281.name]\\c[0] is held by \\c[3]ghosts in local temples\\c[0], \\c[3]\\v[item.391.name]\\c[0] and \\c[3]\\v[item.409.name]\\c[0] can found in \\c[3]\\v[area.forest.name]\\c[0].",
-                "en_US": "\\c[3]\\v[item.281.name]\\c[0] é mantido por \\c[3]fantasmas nos templos locais\\c[0], \\c[3]\\v[item.391.name]\\c[0] e \\c[3]\\v[item.409.name]\\c[0] podem ser achados em \\c[3]\\v[area.forest.name]\\c[0]."
+                "en_US": "\\c[3]\\v[item.281.name]\\c[0] é obtido com \\c[3]fantasmas nos templos locais\\c[0], \\c[3]\\v[item.391.name]\\c[0] e \\c[3]\\v[item.409.name]\\c[0] podem ser achados na \\c[3]\\v[area.forest.name]\\c[0]."
               }
             },
             "34": {
@@ -650,7 +650,7 @@
                 "8": {
                   "message": {
                     "": "Excellent!\\. Now I can create more generator of power!\\. \\v[lore.title.seeker] just wait and prepare the awe!",
-                    "en_US": "Excelente!\\. Agora eu posso criar mais geradores de energia!\\. Apenas espere \\v[lore.title.seeker] e vai ficar espantada!"
+                    "en_US": "Excelente!\\. Agora eu posso criar mais geradores de energia!\\. Espere um pouco, \\v[lore.title.seeker] e vai ficar espantada!"
                   }
                 },
                 "9": {
@@ -678,7 +678,7 @@
                 "36": {
                   "message": {
                     "": "Work done, 3 generators ready!\\. Only power source missing!",
-                    "en_US": "Trabalho feito, 3 geradores prontos!\\. Falta apenas a fonte de energia!"
+                    "en_US": "Terminei, 3 geradores prontos!\\. Falta apenas a fonte de energia!"
                   }
                 },
                 "37": {
@@ -690,7 +690,7 @@
                 "38": {
                   "message": {
                     "": "Little charged furry creatures of course!\\. Called \\c[3]\\v[combat.name.jungle/shockcat]\\c[0] by you humens.",
-                    "en_US": "Pequenas criaturas peludas elétricas é claro!\\. Que vocês humanos chamam de \\c[3]\\v[combat.name.jungle/shockcat]\\c[0]!"
+                    "en_US": "Vamos usar pequenas criaturas peludas elétricas!\\. Vocês humanos chamam de \\c[3]\\v[combat.name.jungle/shockcat]\\c[0]!"
                   }
                 },
                 "39": {
@@ -712,7 +712,7 @@
                 "42": {
                   "message": {
                     "": "But there is hookup, however!\\. Can't just take normal \\v[combat.name.jungle/shockcat], no, no.\\. Output not consistent.",
-                    "en_US": "Mas tem um porém, entretanto!\\. Você não pode pegar \\v[combat.name.jungle/shockcat] normais, não, não.\\. A produção de energia deles não é consistente."
+                    "en_US": "Mas tem um porém!\\. Você não pode pegar \\v[combat.name.jungle/shockcat]s normais, não, não.\\. A produção de energia deles não é consistente."
                   }
                 },
                 "43": {
@@ -753,7 +753,7 @@
                 "4": {
                   "message": {
                     "": "\\v[lore.title.seeker], what day it was!\\. With 3 new generators Shad village now as powerful as never before.",
-                    "en_US": "\\v[lore.title.seeker], que dia foi hoje!\\. Com 3 novos geradores a aldeia dos Shad agora tem energia como nunca antes."
+                    "en_US": "\\v[lore.title.seeker], que dia foi hoje!\\. Com 3 novos geradores a aldeia dos Shads agora possui energia como nunca antes."
                   }
                 },
                 "5": {
@@ -786,7 +786,7 @@
                 "24": {
                   "message": {
                     "": "Ah, uncle Zla.\\. We got more generators now.\\. Great power for all of Shad village now!",
-                    "en_US": "Ah, tio Zla.\\. Nós temos mais geradores agora.\\. Agora toda a aldeia Shad tem energia!"
+                    "en_US": "Ah, tio Zla.\\. Conseguimos mais geradores.\\. Agora toda a aldeia Shad tem energia!"
                   }
                 },
                 "25": {
@@ -810,7 +810,7 @@
                 "29": {
                   "message": {
                     "": "Hurray!\\. \\v[lore.title.seeker], go back to merchants in city and demand all the best machines!",
-                    "en_US": "Viva!\\. \\v[lore.title.seeker], volte para os comerciantes da cidade e peça todas as melhores máquinas!"
+                    "en_US": "Viva!\\. \\v[lore.title.seeker], volte até os comerciantes da cidade e peça todas as melhores máquinas!"
                   }
                 },
                 "33": {
@@ -828,7 +828,7 @@
                 "35": {
                   "message": {
                     "": "\\v[lore.title.seeker] already done much.\\. Just tell that Shad ready for trade.",
-                    "en_US": "\\v[lore.title.seeker] já fez muito.\\. Agora diga que os Shad estão prontos para negociar."
+                    "en_US": "\\v[lore.title.seeker] já fez o bastante.\\. Agora diga que os Shads estão prontos para negociar."
                   }
                 },
                 "36": {
@@ -846,7 +846,7 @@
                 "38": {
                   "message": {
                     "": "I plan to open finest of shops with new power.\\. Please come back and honor with business then!",
-                    "en_US": "Eu planejo abrir as melhores lojas com a energia.\\. Por favor, volte e honre com os negócios então!"
+                    "en_US": "Eu planejo abrir melhores lojas com a energia.\\. Por favor, volte e compre coisas!"
                   }
                 },
                 "40": {
@@ -874,7 +874,7 @@
               "3": {
                 "message": {
                   "": "New ways of cooperation between Shad and Human people of city possible now!\\. Hurray!",
-                  "en_US": "Novas formas de cooperação entre Shad e o povo humano da cidade são possíveis agora!\\ Viva!"
+                  "en_US": "Novas formas de cooperação entre Shad e o povo humano da cidade são possíveis agora!\\. Viva!"
                 }
               }
             }

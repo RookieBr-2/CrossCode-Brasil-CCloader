@@ -552,7 +552,7 @@
                 "3": {
                   "message": {
                     "": "Most honored \\v[lore.title.seeker], fate has brought you back to us!\\. A pleasant sight indeed!",
-                    "en_US": "Muito honrada \\v[lore.title.seeker], o destino trouxe você de volta para nós!\\. Que maravilha!"
+                    "en_US": "Honrada \\v[lore.title.seeker], o destino trouxe você de volta até nós!\\. Que maravilha!"
                   }
                 },
                 "4": {
@@ -569,7 +569,7 @@
                 "7": {
                   "message": {
                     "": "The last obstacles on our way to uncover the true secrets of that Ancient temple have finally been unlocked.",
-                    "en_US": "Os últimos obstáculos em nosso caminho para descobrir os verdadeiros segredos daquele Antigo templo foram finalmente removidos."
+                    "en_US": "Os últimos obstáculos que nos impediam de desvendar os segredos daquele antigo templo foram finalmente superados."
                   }
                 },
                 "8": {
@@ -580,7 +580,7 @@
                 "9": {
                   "message": {
                     "": "So, \\v[lore.title.seeker], will you do us the honor and take the final steps?",
-                    "en_US": "Então, \\v[lore.title.seeker], você nos fará a honra e dará os passos finais?"
+                    "en_US": "Então, \\v[lore.title.seeker], você nos concederá a honra de concluir essa jornada?"
                   }
                 },
                 "10": {
@@ -594,7 +594,7 @@
                     "1": {
                       "message": {
                         "": "Marvelous!\\. Your humble aura truly belies the greatness within you.",
-                        "en_US": "Maravilhoso!\\. Sua aura humilde contradiz a sua grandeza interior."
+                        "en_US": "Maravilha!\\. Sua aura humilde contradiz a sua grandeza interior."
                       }
                     },
                     "2": {
@@ -605,13 +605,13 @@
                     "3": {
                       "message": {
                         "": "Our diligent explorer, Hira, has been leading the excavation of the temple and is still waiting within it.",
-                        "en_US": "Nossa exploradora diligente, Hira, está liderando a escavação do templo e ainda está esperando dentro dele."
+                        "en_US": "Nossa exploradora Hira, está liderando a escavação e ainda está no templo."
                       }
                     },
                     "4": {
                       "message": {
                         "": "Join her once again in the \\c[3]Barren Temple Hall\\c[0].\\. You can reach it through the \\c[3]Torn Road\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0].",
-                        "en_US": "Junte-se a ela mais uma vez no \\c[3]Salão do Templo Árido\\c[0].\\. Você pode alcançá-la através da \\c[3]Estrada Rachada\\c[0] no \\c[3]\\v[area.heat-area.name]\\c[0]."
+                        "en_US": "Junte-se a ela novamente no \\c[3]Salão do Templo Árido\\c[0].\\. O caminho é pela \\c[3]Estrada Rachada\\c[0] no \\c[3]\\v[area.heat-area.name]\\c[0]."
                       }
                     },
                     "5": {
@@ -649,7 +649,7 @@
                     "1": {
                       "message": {
                         "": "Sacrebleu!\\. A legendary discovery is at hand and you will not strike?\\. Please, \\v[lore.title.seeker], rethink your decision!",
-                        "en_US": "Sacrebleu!\\. Uma descoberta lendária está próxima e você não vai atacar?\\. Por favor, \\v[lore.title.seeker], repense sua decisão!"
+                        "en_US": "Sacrebleu!\\. Estamos perto de uma descoberta lendária e você não vai agir?\\. Por favor, reconsidera sua decisão, \\v[lore.title.seeker]."
                       }
                     },
                     "2": {
@@ -681,7 +681,7 @@
               "2": {
                 "message": {
                   "": "Meet Hira again in the \\c[3]Barren Temple Hall\\c[0].\\. You can reach it through the \\c[3]Torn Road\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0].",
-                  "en_US": "Junte-se a ela mais uma vez no \\c[3]Salão do Templo Árido\\c[0].\\. Você pode alcançá-la através da \\c[3]Estrada Rachada\\c[0] no \\c[3]\\v[area.heat-area.name]\\c[0]."
+                  "en_US": "Junte-se a ela novamente no \\c[3]Salão do Templo Árido\\c[0].\\. O caminho é pela \\c[3]Estrada Rachada\\c[0] no \\c[3]\\v[area.heat-area.name]\\c[0]."
                 }
               },
               "3": {
@@ -720,7 +720,7 @@
                 "5": {
                   "message": {
                     "": "This treasure you brought, truly magnificent.\\. It might verily outshine all I ever gazed upon, save for you, of course.",
-                    "en_US": "E o tesouro magnífico que você encontrou. Pode realmente brilhar mais do que qualquer coisa que eu já tive o privilégio de contemplar. Exceto você, é claro."
+                    "en_US": "E o magnífico tesouro que você descobriu realmente pode brilhar mais do que qualquer coisa que eu já tive a sorte de ver.\\. Exceto você, é claro."
                   }
                 },
                 "6": {
@@ -749,7 +749,7 @@
                 "10": {
                   "message": {
                     "": "So by overcoming all the challenges to claim it, you have done a great deed for all of humanity.\\. We cannot thank you enough.",
-                    "en_US": "Então, ao superar todos os desafios para reivindicá-lo, você fez uma grande ação para toda a humanidade.\\. Nós não podemos te agradecer o bastante."
+                    "en_US": "Assim, ao enfrentar todos os desafios, você realizou um grande feito para toda a humanidade.\\. Agradecemos de coração."
                   }
                 },
                 "11": {
@@ -760,7 +760,7 @@
                 "12": {
                   "message": {
                     "": "Until the day we may meet again.\\. You will always be welcome here, \\v[lore.title.seeker]!",
-                    "en_US": "Até o dia em que possamos nos encontrar novamente.\\. Você sempre será bem-vinda aqui, \\v[lore.title.seeker]!"
+                    "en_US": "Que chegue logo o dia em que possamos nos encontrar de novo.\\. Você sempre será bem-vinda aqui, \\v[lore.title.seeker]!"
                   }
                 },
                 "13": {

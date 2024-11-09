@@ -585,7 +585,7 @@
                 "3": {
                   "message": {
                     "": "\\v[lore.title.seeker], arriving just in time again.\\. I guess a life of grand adventure still can't beat the charms of \\v[area.rookie-harbor.name].",
-                    "en_US": "\\v[lore.title.seeker], chegando na hora certa novamente.\\. Acho que uma vida de grandes aventuras ainda não consegue superar os encantos do \\v[area.rookie-harbor.name]."
+                    "en_US": "Você chegou bem na hora, \\v[lore.title.seeker].\\. Parece que até mesmo uma vida cheia de aventuras não se compara os encantos do \\v[area.rookie-harbor.name]."
                   }
                 },
                 "4": {
@@ -596,7 +596,7 @@
                 "5": {
                   "message": {
                     "": "Well, no time for reminiscing about the old days now!\\. We finally got the opportunity to put the lid on that damn smuggling business.",
-                    "en_US": "Bem, agora não há tempo para relembrar os velhos tempos!\\. Finalmente temos a oportunidade de colocar um fim nesse maldito negócio de contrabando."
+                    "en_US": "Bom, agora não é momento para nostalgia!\\. Chegou a hora de darmos um fim a esse maldito contrabando."
                   }
                 },
                 "6": {
@@ -621,7 +621,7 @@
                     "1": {
                       "message": {
                         "": "Excellent, \\v[lore.title.seeker].\\. I knew that I could rely on you like on one of my own.",
-                        "en_US": "Excelente, \\v[lore.title.seeker].\\. Eu sabia que poderia confiar em você como em um de meus próprios soldados."
+                        "en_US": "Excelente, \\v[lore.title.seeker].\\. Eu sabia que podia confiar em você como confio em meus próprios soldados."
                       }
                     },
                     "2": {
@@ -632,13 +632,13 @@
                     "3": {
                       "message": {
                         "": "This operation will be familiar to you.\\. You will lead a patrol on the ocean to intercept a delivery of illegal weaponry.",
-                        "en_US": "Esta operação será familiar para você.\\. Você liderará uma patrulha no oceano para interceptar uma entrega de armamento ilegal."
+                        "en_US": "Você já conhece bem esse tipo de operação.\\. Sua missão será liderar uma patrulha no oceano para barrar uma entrega de armamento ilegal."
                       }
                     },
                     "4": {
                       "message": {
                         "": "However this time we will end the smuggling once and for all by also destroying the coordinator!",
-                        "en_US": "No entanto, desta vez vamos acabar com o contrabando de uma vez por todas, destruindo também o coordenador!"
+                        "en_US": "Mas desta vez, vamos acabar de vez com o contrabando, destruindo também a coordenadora!"
                       }
                     },
                     "5": {
@@ -655,7 +655,7 @@
                     "7": {
                       "message": {
                         "": "\\c[3]Captain Turbine\\c[0] will fill you in on the details, just like last time.\\. Visit him at \\c[3]Beginner's Arc\\c[0].",
-                        "en_US": "\\c[3]Capitão Turbine\\c[0] lhe dará os detalhes, como na última vez.\\. Visite-o no \\c[3]Arco dos iniciantes\\c[0]."
+                        "en_US": "O \\c[3]Capitão Turbine\\c[0] dará as instruções.\\. Encontre ele no \\c[3]Arco dos iniciantes\\c[0]."
                       }
                     },
                     "8": {
@@ -687,7 +687,7 @@
                     "1": {
                       "message": {
                         "": "Refusing to protect your nostalgic hometown?\\. There's still time until we start, so you better come around on this.",
-                        "en_US": "Recusando-se a proteger sua nostálgica cidade natal?\\. Ainda há tempo antes de iniciarmos a missão, então é melhor que você esteja aqui quando começarmos a agir."
+                        "en_US": "Vai se recusar a proteger sua nostálgica cidade natal?\\. Ainda temos tempo antes da missão, então é melhor que esteja aqui quando começarmos."
                       }
                     },
                     "2": {
@@ -710,7 +710,7 @@
               "2": {
                 "message": {
                   "": "Return to \\c[3]Beginners Arc\\c[0] and have another talk with \\c[3]Captain Turbine, South of the teleporter\\c[0].",
-                  "en_US": "Retorne ao \\c[3]Arco dos Iniciantes\\c[0] e fale novamente com o \\c[3]Capitão Turbine, ao sul do teletransportador\\c[0]."
+                  "en_US": "Volte ao \\c[3]Arco dos Iniciantes\\c[0] e fale novamente com o \\c[3]Capitão Turbine, ao sul do teletransportador\\c[0]."
                 }
               }
             }
@@ -732,7 +732,7 @@
                 "3": {
                   "message": {
                     "": "\\v[lore.title.seeker]!\\. According to these reports you have done some truly exemplary work out there!",
-                    "en_US": "\\v[lore.title.seeker]!\\. De acordo com estes relatórios, você fez um trabalho verdadeiramente exemplar por lá!"
+                    "en_US": "\\v[lore.title.seeker]!\\. De acordo com os relatórios, seu desempenho foi realmente exemplar!"
                   }
                 },
                 "4": {
@@ -743,13 +743,13 @@
                 "5": {
                   "message": {
                     "": "The coordinator is down and from its wreck we recovered data that can lead us to the instigators behind these crimes.",
-                    "en_US": "O coordenador está agora no fundo do mar, de seu naufrágio recuperamos dados, que podem nos levar aos instigadores por trás desses crimes."
+                    "en_US": "A coordenadora está agora no fundo do mar, e do seu naufrágio recuperamos dados, que podem nos levar aos responsáveis por trás desses crimes."
                   }
                 },
                 "6": {
                   "message": {
                     "": "This is a victory for justice and the safety of every honest person on \\v[lore.title.planet].",
-                    "en_US": "Esta é uma vitória para a justiça e a segurança de toda pessoa honesta em \\v[lore.title.planet]."
+                    "en_US": "Esta é uma vitória para a justiça e a segurança de todos os cidadãos honestos em \\v[lore.title.planet]."
                   }
                 },
                 "7": {
@@ -760,7 +760,7 @@
                 "8": {
                   "message": {
                     "": "We owe you great thanks, \\v[lore.title.seeker]!\\. Your service will always be remembered. ",
-                    "en_US": "Nós lhe agradecemos muito, \\v[lore.title.seeker]!\\. Seu serviço será sempre lembrado."
+                    "en_US": "Estamos muito agradecidos, \\v[lore.title.seeker]!\\. Seu serviço será sempre lembrado."
                   }
                 },
                 "9": {
@@ -782,7 +782,7 @@
               "2": {
                 "message": {
                   "": "\\v[lore.title.seeker], things are going smoothly, in no small part to your help.\\. Take a coffee and a donut for old times, if you want.",
-                  "en_US": "\\v[lore.title.seeker], as coisas estão indo bem, em grande parte devido a sua ajuda.\\. Tome um café e um donut pelos velhos tempos, se você quiser."
+                  "en_US": "\\v[lore.title.seeker], as coisas estão indo bem, em grande parte devido a sua ajuda.\\. Se desejar, pegue um café e um donut para relembrar os bons tempos."
                 }
               }
             }

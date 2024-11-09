@@ -741,7 +741,7 @@
                     "3": {
                       "message": {
                         "": "The \\v[lore.title.seeker]s mission to beat the \\v[lore.title.track-of-ancients] for the advancement of shad- and humankind.",
-                        "en_US": "A missão dos \\v[lore.title.seeker]s é superar a \\v[lore.title.track-of-ancients] para o avanço dos Shad e da humanidade."
+                        "en_US": "A missão dos \\v[lore.title.seeker]s é superar a \\v[lore.title.track-of-ancients] para o avanço dos Shads e da humanidade."
                       }
                     },
                     "4": {
@@ -889,7 +889,7 @@
                 "5": {
                   "message": {
                     "": "Assassinations.\\. Bribery.\\. After all you have learned, these methods would have been possible.",
-                    "en_US": "Assassinatos.\\. Suborno.\\. Depois de tudo que você aprendeu, esses métodos teriam sido possíveis."
+                    "en_US": "Assassinatos.\\. Suborno.\\. Você poderia se tornar uma vítima dessas coisas, considerando tudo o que descobriu."
                   }
                 },
                 "6": {
@@ -911,13 +911,13 @@
                 "9": {
                   "message": {
                     "": "It all turned out well, \\v[lore.title.seeker], so calm down.\\. You may be too valuable to them.",
-                    "en_US": "Tudo acabou bem, \\v[lore.title.seeker], então acalme-se.\\. Você pode ser muito valiosa para eles."
+                    "en_US": "Tudo acabou bem, \\v[lore.title.seeker], então acalme-se.\\. Talvez você seja muito valiosa para eles."
                   }
                 },
                 "10": {
                   "message": {
                     "": "This time, however, you were truly valuable to humanity.\\. These documents will be of great use in fighting injustice.",
-                    "en_US": "Porém, desta vez você foi realmente valiosa para a humanidade.\\. Esses documentos serão de grande utilidade no combate à injustiça."
+                    "en_US": "Mas, desta vez você foi realmente valiosa para a humanidade.\\. Esses documentos serão de grande utilidade no combate à injustiça."
                   }
                 },
                 "11": {
@@ -928,7 +928,7 @@
                 "12": {
                   "message": {
                     "": "Well then... here are your rewards.\\.\\. And also my farewell.\\. Stay vigilant.",
-                    "en_US": "Bem, então... aqui estão suas recompensas.\\.\\. E também minha despedida.\\. Fique atenta."
+                    "en_US": "Bem, então... aqui estão suas recompensas.\\.\\. E esta é a minha despedida.\\. Fique atenta."
                   }
                 },
                 "13": {
@@ -1030,7 +1030,7 @@
                       "15": {
                         "text": {
                           "": "The \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] turned out to just be \\c[3]\\v[item.503.name]\\c[0]!\n\n\\c[1]It was a scam!\\c[0]",
-                          "en_US": "O \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] acabou sendo apenas \\c[3]\\v[item.503.name]\\c[0]!\n\n\\c[1]Foi uma farsa!\\c[0]"
+                          "en_US": "O \\c[3]\\v[g.birdScam] \\v[item.623.name]\\c[0] era na verdade \\c[3]\\v[item.503.name]\\c[0]!\n\n\\c[1]Foi uma farsa\\c[0]"
                         }
                       },
                       "19": {
@@ -1083,7 +1083,7 @@
                 "4": {
                   "message": {
                     "": "Ah, squawks...!\\. Human!\\. Go away!",
-                    "en_US": "Ah, grasnados...!\\. Humana!\\. Vá embora!"
+                    "en_US": "Ah, croak...!\\. Humana!\\. Vá embora!"
                   }
                 },
                 "5": {

@@ -6,13 +6,13 @@
           "29": {
             "message": {
               "": "This will be the last pillar enemy! We'll let \\c[3]you decide\\c[0] which element to attack this time!",
-              "en_US": "Este será o último pilar inimigo! Vamos deixar \\c[3]você decidir\\c[0] qual elemento atacar dessa vez!"
+              "en_US": "Este é o último pilar inimigo! Vamos deixar \\c[3]você decidir\\c[0] qual elemento atacar dessa vez!"
             }
           },
           "30": {
             "message": {
               "": "Decide quickly! I want to start hitting stuff!",
-              "en_US": "Decida rápido! Quero começar a bater nas coisas!"
+              "en_US": "Escolhe logo! Quero começar a bater nas coisas!"
             }
           }
         }
@@ -32,7 +32,7 @@
               "1": {
                 "message": {
                   "": "Oh dear... It' seems like Lea is all alone right now. Let's wait for Emilie or Tronny to respawn.",
-                  "en_US": "Oh querida... Parece que a Lea tá sozinha agora. Vamos esperar pela Emilie ou o Tonny renascerem."
+                  "en_US": "Oh querida... Parece que a Lea tá sozinha agora. Vamos esperar que a Emilie ou o Tonny revivam."
                 }
               }
             }
@@ -44,7 +44,7 @@
                   "0": {
                     "message": {
                       "": "\\c[3]Red blocks\\c[0]! \\c[3]Heat\\c[0] is under fire now!",
-                      "en_US": "\\c[3]Blocos vermelhos\\c[0]! \\c[3]Fogo\\c[0] está sob fogo agora!"
+                      "en_US": "\\c[3]Blocos vermelhos\\c[0]! \\c[3]Fogo\\c[0] neles!"
                     }
                   },
                   "1": {
@@ -202,7 +202,7 @@
               "0": {
                 "message": {
                   "": "Out cold! All blue blocks, that is.",
-                  "en_US": "Gelo fora! Todos os blocos azuis, quero dizer."
+                  "en_US": "Gelo fora! Quer dizer, todos os blocos azuis."
                 }
               }
             }
@@ -292,7 +292,7 @@
           "11": {
             "message": {
               "": "[nods]",
-              "en_US": "[acena com a cabeça]"
+              "en_US": "[acena a cabeça]"
             }
           },
           "30": {

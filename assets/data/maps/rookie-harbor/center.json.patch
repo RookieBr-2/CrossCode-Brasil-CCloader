@@ -1436,7 +1436,7 @@
                 "8": {
                   "message": {
                     "": "Alright, I don't know what you mean.",
-                    "en_US": "Muito bem, não sei o que você quer dizer."
+                    "en_US": "Não entendi nada."
                   }
                 },
                 "9": {
@@ -1447,7 +1447,7 @@
                 "10": {
                   "message": {
                     "": "Just forget I asked. I'll find out myself.",
-                    "en_US": "Esqueca o que eu pedi. Eu mesmo vou achar."
+                    "en_US": "Deixa pra lá. Eu mesma vou descobrir."
                   }
                 }
               }
@@ -3254,13 +3254,13 @@
             "0": {
               "text": {
                 "": "The duel will take place at\n\\c[3]Autumn's Fall - Eastern Exit\\c[0].",
-                "en_US": "O duelo vai acontecer no \n\\c[3]Pôr do Outono - Saída Leste\\c[0]."
+                "en_US": "O duelo acontecerá em\n\\c[3]Pôr do Outono - Saída Leste\\c[0]."
               }
             },
             "1": {
               "text": {
                 "": "The duel shall start \nwhen the area has been \n\\c[3]ridden of all other opponents\\c[0].",
-                "en_US": "O duelo deve começar quando a área estiver \n\\c[3]limpa de todos os outros oponentes\\c[0]"
+                "en_US": "O duelo terá início \nassim que todos os outros \n\\c[3]oponentes forem eliminados da área\\c[0]."
               }
             }
           }

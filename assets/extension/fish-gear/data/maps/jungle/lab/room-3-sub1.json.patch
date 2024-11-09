@@ -74,55 +74,55 @@
             "8": {
               "message": {
                 "": "Welcome. I'm glad you found your way back to us to hear more about our work.\\. Much has been achieved in the last months.",
-                "en_US": "Bem-vinda. Fico feliz que você tenha encontrado o caminho de volta para saber mais sobre nosso trabalho.\\. Muito foi conquistado nos últimos meses."
+                "en_US": "Bem-vinda! Fico feliz que você tenha retornado para aprender mais sobre o nosso trabalho.\\. Muitas conquistas foram feitas nos últimos meses."
               }
             },
             "9": {
               "message": {
                 "": "Our effort has been concentrated on giving legs to beings that lacked them the most: \\v[combat.name.jungle/fish]s!",
-                "en_US": "Nosso esforço tem se concentrado em dar pernas aos seres que mais careciam delas: \\v[combat.name.jungle/fish]s!"
+                "en_US": "Estamos dedicando nosso esforço a dar pernas aos seres que mais precisam: os \\v[combat.name.jungle/fish]s!"
               }
             },
             "10": {
               "message": {
                 "": "Elegant creatures, now enhanced by the power of legs, they might rise towards unpredictable potential.",
-                "en_US": "Criaturas elegantes, agora aprimoradas pelo poder das pernas, podem ascender rumo a um potencial imprevisível."
+                "en_US": "Criaturas elegantes, agora aprimoradas com pernas, podem alcançar um potencial inesperado."
               }
             },
             "11": {
               "message": {
                 "": "We are thrilled to see what path they will walk from here on.",
-                "en_US": "Estamos emocionados em ver o caminho que eles seguirão daqui para frente."
+                "en_US": "Estamos ansiosos para ver qual será o caminho que eles seguirão a partir daqui."
               }
             },
             "12": {
               "message": {
                 "": "Our current project will be even bigger.\\. An entire huge machine, directly controlled by the neural waves of its controlfish!",
-                "en_US": "Nosso projeto atual será ainda maior.\\. Uma máquina enorme, inteiramente controlada pelas ondas neurais do controle-peixe!"
+                "en_US": "Nosso projeto atual será ainda mais ambicioso.\\. Uma máquina colossal, totalmente controlada pelas ondas neurais do peixe!"
               }
             },
             "13": {
               "message": {
                 "": "Most of its parts have already been finished, in no small part thanks to our associates delivering weapons and specialized parts!",
-                "en_US": "A maioria de suas peças já foi finalizada, em grande parte graças aos nossos associados que entregam armas e peças especializadas!"
+                "en_US": "A maioria das peças já está pronta, em grande parte devido ao apoio de nossos parceiros que fornecem armas e peças especializadas!"
               }
             },
             "14": {
               "message": {
                 "": "But rapid progress like this is not meant to be without its challenges.\\. After all, this is a core aspect of the Track.",
-                "en_US": "Mas um progresso rápido como esse não deve ocorrer sem seus desafios.\\. Afinal, esse é um aspecto central da Trilha."
+                "en_US": "Mas um progresso acelerado como esse não acontece sem desafios.\\. Afinal, esse é um elemento central da Trilha."
               }
             },
             "15": {
               "message": {
                 "": "Its energy has a will of its own and tries to undermine our entire facility.\\. Only tireless reprogramming can preserve control.",
-                "en_US": "A sua energia tem vontade própria e tenta minar toda a nossa instalação.\\. Apenas uma reprogramação incansável pode preservar o controle."
+                "en_US": "A energia dela tem vontade própria e tenta sabotar toda a nossa instalação.\\. Somente com uma reprogramação contínua podemos manter o controle."
               }
             },
             "16": {
               "message": {
                 "": "Exciting times are ahead and we will continue to share our experience.\\. Hopefully you will join me again.",
-                "en_US": "Tempos emocionantes estão por vir e continuaremos a compartilhar nossa experiência.\\. Espero que você se junte a mim novamente."
+                "en_US": "Tempos empolgantes estão a caminho e continuaremos a compartilhar nossas experiências.\\. Espero que você se junte a mim novamente."
               }
             }
           }
@@ -142,7 +142,7 @@
                 "1": {
                   "text": {
                     "": "\\c[1]INTERNAL MAIL, INBOX\\c[0]\n\n\\c[3]FROM:\\c[0] Office 69b\n\\c[3]TO:\\c[0] \"Mech Machinery\", Management\n\n\\c[3]Subject:\\c[0] Big Haunted Room",
-                    "en_US": "\\c[1]EMAIL INTERNO, CAIXA DE ENTRADA\\c[0]\n\n\\c[3]DE:\\c[0] Escritório 69b\n\\c[3]PARA:\\c[0] \"Maquinário Mecânico\", Gestão\n\n\\c[3]Assunto:\\c[0] Grande Sala Assombrada"
+                    "en_US": "\\c[1]EMAIL INTERNO, CAIXA DE ENTRADA\\c[0]\n\n\\c[3]DE:\\c[0] Escritório 69b\n\\c[3]PARA:\\c[0] \"Máquinas Mecha\", Gestão\n\n\\c[3]Assunto:\\c[0] Grande Sala Assombrada"
                   }
                 },
                 "2": {
@@ -194,13 +194,13 @@
                 "2": {
                   "text": {
                     "": "Good evening everyone,\n\nwho thought that it was a good idea to block the entrance control console with heavy boxes?? We need to use it regularly, come on guys!",
-                    "en_US": "Boa noite a todos,\n\nquem pensou que seria uma boa ideia bloquear o console de entrada com caixas pesadas?? Precisamos usá-lo regularmente, vamos lá pessoal!"
+                    "en_US": "Boa noite a todos,\n\nquem pensou que seria uma boa ideia bloquear o console de entrada com caixas pesadas?? Precisamos usar ele regularmente, vamos ter mais atenção gente!"
                   }
                 },
                 "3": {
                   "text": {
                     "": "Please let us gather tomorrow to at least clear a small path, so we can reach it again.\n\nSincerely,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "Por favor, vamos nos reunir amanhã para pelo menos, abrir um pequeno caminho, para alcançá-lo novamente.\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "Por favor, vamos nos reunir amanhã e abrir espaço para acessar o console novamente.\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 }
               }

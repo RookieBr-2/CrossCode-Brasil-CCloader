@@ -20,7 +20,7 @@
               "2": {
                 "message": {
                   "": "No entry, Seeker. Someone beached a ship here against regulations.",
-                  "en_US": "Nenhuma entrada, Seeker. Alguém entrou clandestinamente em um navio aqui."
+                  "en_US": "Seeker, você não pode passar. Alguém ancorou um navio aqui, o que é contra as normas."
                 }
               },
               "3": {
@@ -161,7 +161,7 @@
               "1": {
                 "message": {
                   "": "Welcome to the Square's beach, Seeker.\\. Enjoy your stay.",
-                  "en_US": "Bem-vindo à praia da Praça, Seeker.\\. Aproveite sua estadia."
+                  "en_US": "Bem-vinda à Praia da Praça, Seeker.\\. Aproveite sua estadia."
                 }
               },
               "2": {
@@ -181,7 +181,7 @@
           "0": {
             "text": {
               "": "Girl,\\. let me tell you something.\\.\\. \nIf you're not in the game, you can't hit a home run.",
-              "en_US": "Garota,\\. Vou lhe dizer uma coisa.\\.\\. \nSe você não está no jogo, não pode marcar um gol."
+              "en_US": "Garota,\\. vou dizer uma coisa.\\.\\. \nSe você não está no jogo, não pode marcar um gol."
             }
           },
           "1": {
@@ -193,7 +193,7 @@
           "2": {
             "text": {
               "": "I know,\\. I know.",
-              "en_US": "Eu sei,\\. Eu sei."
+              "en_US": "Eu sei,\\. eu sei."
             }
           }
         }
@@ -244,7 +244,7 @@
           "0": {
             "text": {
               "": "What does my master mean...? I do karate \"guess so\"..?\\.\\.\\.\nI need to train harder!\\. Ha!",
-              "en_US": "O que meu mestre quer dizer com isso...? \"A mão que trabalha e a mão que mata tem a mesma cor\"..? \nEu preciso treinar mais!\\. Ha!"
+              "en_US": "Meu mestre disse \"Muito bom, mas tijolo não revida!\"..?\\.\\.\\.\nPreciso treinar mais!\\. Ha!"
             }
           }
         }
@@ -256,7 +256,7 @@
           "0": {
             "text": {
               "": "Hahah, that's fun!",
-              "en_US": "Hahah, isso foi engraçado!"
+              "en_US": "Haha, isso foi engraçado!"
             }
           },
           "1": {
@@ -268,7 +268,7 @@
           "2": {
             "text": {
               "": "Don't be such a buzzkill!\\.\\. Hahahah!",
-              "en_US": "Não seja um desmancha prazeres!\\.\\. Hahahah!"
+              "en_US": "Não seja um chato!\\.\\. Hahaha!"
             }
           }
         }
@@ -280,7 +280,7 @@
           "0": {
             "text": {
               "": "I dunno. Kinda feel sunburnt.\\..\\..\\.. nah, can't be too bad.",
-              "en_US": "Eu não sei. Me sinto meio queimado pelo sol.\\..\\..\\.. nah, não pode ser tão ruim assim."
+              "en_US": "Sei lá. Estou com a sensação de estar queimado pelo sol.\\..\\..\\.. mas, não deve ser assim tão ruim."
             }
           }
         }
@@ -302,7 +302,7 @@
           "0": {
             "text": {
               "": "Hellooo!\\.\\. Please have a seat and enjoy some of the best ice cream around!",
-              "en_US": "Oláááá!\\.\\. Por favor, sente-se e desfrute de um dos melhores sorvetes que existem!"
+              "en_US": "Oláááá!\\.\\. Fique à vontade e desfrute de um dos melhores sorvetes que existem!"
             }
           }
         }
@@ -337,13 +337,13 @@
                   "1": {
                     "message": {
                       "": "Look! The sky rail station has finished construction!",
-                      "en_US": "Veja! A construção da estação dos trilhos aéreos foi finalizada!"
+                      "en_US": "Olha! A construção da estação dos trilhos aéreos foi finalizada!"
                     }
                   },
                   "2": {
                     "message": {
                       "": "It will probably take us to the new area.",
-                      "en_US": "Ela orovavelmente nos levará para a nova área."
+                      "en_US": "Eles provavelmente nos levarão para a nova área."
                     }
                   }
                 },
@@ -351,7 +351,7 @@
                   "1": {
                     "message": {
                       "": "I guess we'll have to take the sky rail from that shiny new station.",
-                      "en_US": "Acho que teremos que pegar os trilhos aéreos daquela estação nova e brilhante."
+                      "en_US": "Acho que temos que pegar os trilhos aéreos daquela estação nova e brilhante."
                     }
                   },
                   "2": {
@@ -393,7 +393,7 @@
                   "1": {
                     "message": {
                       "": "There is is! The new sky trail station!",
-                      "en_US": "Aí está! A nova estação sky trail!"
+                      "en_US": "Aí está! A nova estação de trilhos aéreos!"
                     }
                   },
                   "2": {
@@ -421,13 +421,13 @@
           "0": {
             "text": {
               "": "Can't someone tell that blonde guy to frig off already?",
-              "en_US": "Alguém pode dize pra aquele cara loiro cair fora daqui logo?"
+              "en_US": "Alguém pode dizer pro loirinho cair fora daqui logo?"
             }
           },
           "1": {
             "text": {
               "": "Yeah,\\.\\. no idea why he's always crossing here just between us.",
-              "en_US": "Sim,\\.\\. não faço idéia por que ele está sempre passando por aqui justamente entre nós."
+              "en_US": "Sim,\\.\\. não sei por que ele sempre passa por aqui entre a gente."
             }
           },
           "2": {

@@ -980,13 +980,13 @@
           "13": {
             "message": {
               "": "Spheromancer Lea! There are still several players left in this area!",
-              "en_US": "Esferomante Lea! Ainda há vários jogadores nesta área!"
+              "en_US": "Esferomante Lea! Ainda existem muitos jogadores nesta área!"
             }
           },
           "14": {
             "message": {
               "": "Alright, let us zap them right here!",
-              "en_US": "Certo, vamos acerta-los aqui mesmo!"
+              "en_US": "Certo, vamos pegá-los aqui mesmo!"
             }
           },
           "37": {
@@ -1044,7 +1044,7 @@
           "11": {
             "message": {
               "": "Right on my way!",
-              "en_US": "A caminho!"
+              "en_US": "Estou indo!"
             }
           }
         }
@@ -1068,13 +1068,13 @@
           "28": {
             "message": {
               "": "There have to be a few more Evotars somewhere!",
-              "en_US": "Deve haver mais alguns Evotares em algum lugar!"
+              "en_US": "Devem ter mais alguns Evotares por aí!"
             }
           },
           "37": {
             "message": {
               "": "There are more Evotars over there, right in front of that tower.",
-              "en_US": "Há mais Evotares ali, bem na frente daquela torre."
+              "en_US": "Tem mais Evotares ali, bem na frente daquela torre."
             }
           },
           "38": {

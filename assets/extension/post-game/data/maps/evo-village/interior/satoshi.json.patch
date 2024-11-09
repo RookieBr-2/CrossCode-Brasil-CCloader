@@ -16,13 +16,13 @@
                   "0": {
                     "message": {
                       "": "Uhm...\\. Hello, Lea.",
-                      "en_US": "Hum...\\. Olá Lea."
+                      "en_US": "Hmm...\\. olá Lea."
                     }
                   },
                   "1": {
                     "message": {
                       "": "So...\\. they released the new Beach area today, didn't they?",
-                      "en_US": "Então...\\. eles lançaram a nova área da Praia hoje, não é?"
+                      "en_US": "Então...\\. eles lançaram a área da Praia hoje, não é?"
                     }
                   },
                   "2": {
@@ -34,19 +34,19 @@
                   "3": {
                     "message": {
                       "": "I heard getting the shallow water to work was quite tricky actually.",
-                      "en_US": "Ouvi dizer que fazer a água rasa funcionar foi bem complicado, na verdade."
+                      "en_US": "Ouvi dizer que foi um desafio e tanto fazer a água rasa funcionar."
                     }
                   },
                   "4": {
                     "message": {
                       "": "Hope it was worth the effort.\\. You should definitely check it out.",
-                      "en_US": "Espero que tenha valido a pena o esforço.\\. Você definitivamente deveria conferir."
+                      "en_US": "Espero que tenha valido a pena.\\. Você deveria conferir."
                     }
                   },
                   "5": {
                     "message": {
                       "": "Anyway...\\. I still have things to do here.\\. Right now...",
-                      "en_US": "De qualquer forma...\\. Ainda tenho coisas para fazer aqui.\\. Agora mesmo..."
+                      "en_US": "Enfim...\\. se você me permite...\\. ainda tenho trabalho pendente para finalizar aqui..."
                     }
                   },
                   "6": {
@@ -59,7 +59,7 @@
                   "0": {
                     "message": {
                       "": "Uhm...\\. Hello, Lea.",
-                      "en_US": "Hum...\\. Olá Lea."
+                      "en_US": "Hmm...\\. olá Lea."
                     }
                   },
                   "1": {
@@ -77,13 +77,13 @@
                   "3": {
                     "message": {
                       "": "Yeah, they certainly went the extra mile, constructing a whole village just for us.",
-                      "en_US": "Sim, eles certamente se esforçaram, construindo uma vila inteira só para nós."
+                      "en_US": "Sim, eles se esforçaram muito, construindo uma vila inteira só para nós."
                     }
                   },
                   "4": {
                     "message": {
                       "": "Uhm...\\. now if you'll excuse me...\\. I was just in the middle of coding a complicated segment...",
-                      "en_US": "Hum...\\. agora se me der licença...\\. Eu estava no meio da codificação de um segmento complicado..."
+                      "en_US": "Hm...\\. agora se me der licença...\\. eu estou trabalhando em um código complicado..."
                     }
                   },
                   "5": {
@@ -106,13 +106,13 @@
               "5": {
                 "message": {
                   "": "Uhm...\\. Hello, Lea.",
-                  "en_US": "Hum...\\. Olá Lea."
+                  "en_US": "Hmm...\\. olá Lea."
                 }
               },
               "6": {
                 "message": {
                   "": "Running that dungeon was quite the marathon, wasn't it?",
-                  "en_US": "Correr naquela dungeon foi uma maratona e tanto, não foi?"
+                  "en_US": "Explorar aquela dungeon foi uma maratona e tanto, não foi?"
                 }
               },
               "7": {
@@ -224,13 +224,13 @@
           "28": {
             "message": {
               "": "Yes, yes!\\. There's always an agreement!",
-              "en_US": "Sim, sim!\\. Sempre há um acordo!"
+              "en_US": "Sim, claro!\\. Sempre tem um acordo!"
             }
           },
           "29": {
             "message": {
               "": "It's a big reason why Instatainment supports us.",
-              "en_US": "É um grande motivo pela qual a Instatainment nos apoia."
+              "en_US": "Esse é o principal motivo pelo qual a Instatainment nos apóia."
             }
           },
           "30": {
@@ -253,25 +253,25 @@
           "33": {
             "message": {
               "": "Constantly working like that can't be good for you...\\. even being an Evotar.",
-              "en_US": "Trabalhar constantemente assim não pode ser bom para você...\\. mesmo sendo um Evotar."
+              "en_US": "Trabalhar constantemente assim não é bom pra você...\\. mesmo sendo um Evotar."
             }
           },
           "34": {
             "message": {
               "": "You know...\\. I'm honestly feeling much more resilient this way.",
-              "en_US": "Quer saber...\\. Sinceramente estou me sentindo muito mais resiliente assim."
+              "en_US": "Quer saber...\\. eu realmente me sinto mais resistente assim."
             }
           },
           "35": {
             "message": {
               "": "Of course you'd say that.",
-              "en_US": "Claro que diria isso."
+              "en_US": "Aham, sei..."
             }
           },
           "45": {
             "message": {
               "": "No really!\\. I feel great!",
-              "en_US": "Na verdade não!\\. Eu me sinto ótimo!"
+              "en_US": "Na verdade, eu me sinto ótimo!"
             }
           },
           "51": {
@@ -300,7 +300,7 @@
           "65": {
             "message": {
               "": "See?\\. All good.",
-              "en_US": "Vê?\\. Tudo certo."
+              "en_US": "Viu?\\. Tudo certo."
             }
           },
           "69": {
@@ -318,13 +318,13 @@
           "71": {
             "message": {
               "": "Wha...\\.",
-              "en_US": "O q...\\."
+              "en_US": "O que...\\."
             }
           },
           "72": {
             "message": {
               "": "You know about the new area they just released, right?",
-              "en_US": "Você sabe sobre a nova área que eles acabaram de lançar, certo?"
+              "en_US": "Você sabe da nova área que eles acabaram de lançar, não é?"
             }
           },
           "73": {
@@ -342,7 +342,7 @@
           "75": {
             "message": {
               "": "You actually never went there, did you?",
-              "en_US": "Você realmente nunca foi lá, não é?"
+              "en_US": "Você nunca foi lá, né?"
             }
           },
           "76": {
@@ -354,7 +354,7 @@
           "77": {
             "message": {
               "": "Alright then, let's go there together!",
-              "en_US": "Certo então, vamos lá juntos!"
+              "en_US": "Muito bem, vamos lá juntos!"
             }
           },
           "78": {
@@ -384,13 +384,13 @@
           "87": {
             "message": {
               "": "It's not like you're on a tight schedule right now.",
-              "en_US": "Não é como se você estivesse com um cronograma apertado agora."
+              "en_US": "E sei que você não está tão ocupado assim."
             }
           },
           "88": {
             "message": {
               "": "Well...\\. for the official projects,\\. that is...",
-              "en_US": "Bem...\\. para projetos oficiais,\\. isso é..."
+              "en_US": "Sim...\\. mas eu ainda tenho meus projetos pessoais..."
             }
           },
           "89": {
@@ -425,25 +425,25 @@
           "107": {
             "message": {
               "": "You know that the big release will happen later today, right?",
-              "en_US": "Você sabe que o grande lançamento acontecerá hoje mais tarde, certo?"
+              "en_US": "Você sabe que o grande lançamento vai acontecer hoje mais tarde, né?"
             }
           },
           "108": {
             "message": {
               "": "That's true. I'm sure there will be a huge crowd, though.",
-              "en_US": "É verdade. Tenho certeza de que haverá uma multidão enorme, no entanto."
+              "en_US": "É verdade. Tenho certeza que terá uma multidão enorme esperando."
             }
           },
           "113": {
             "message": {
               "": "What?",
-              "en_US": "O que?"
+              "en_US": "Que?"
             }
           },
           "118": {
             "message": {
               "": "Oh that's right, it's not really public yet, is it?",
-              "en_US": "Ah, é verdade, ainda não é público, né?"
+              "en_US": "Ah, é verdade, ainda não é oficialmente público, né?"
             }
           },
           "119": {
@@ -455,7 +455,7 @@
           "120": {
             "message": {
               "": "The \\c[3]final dungeon\\c[0] will finally be released.",
-              "en_US": "A \\c[3]dungeon final\\c[0] finalmente será liberada."
+              "en_US": "A \\c[3]dungeon final\\c[0] finalmente vai ser lançada."
             }
           },
           "121": {
@@ -466,7 +466,7 @@
           "123": {
             "message": {
               "": "I think they were planning to release the news just about now.",
-              "en_US": "Acho que eles estavam planejando divulgar a notícia agora."
+              "en_US": "Acho que eles estavam planejando anunciar isso agora mesmo."
             }
           },
           "125": {
@@ -510,7 +510,7 @@
           "137": {
             "message": {
               "": "What's with that reaction?",
-              "en_US": "O que há com essa reação?"
+              "en_US": "Mas que reação é essa?"
             }
           },
           "138": {
@@ -539,13 +539,13 @@
           "142": {
             "message": {
               "": "You and your close developer connections.",
-              "en_US": "Você e suas conexões próximas com desenvolvedores."
+              "en_US": "Oui, você e suas conexões com os desenvolvedores..."
             }
           },
           "143": {
             "message": {
               "": "Anyway!\\. The whole guild is planning to run the dungeon together!",
-              "en_US": "De qualquer forma!\\. A guilda inteira está planejando jogar a dungeon juntos!"
+              "en_US": "Enfim!\\. A guilda inteira está planejando explorar a dungeon juntos!"
             }
           },
           "144": {
@@ -556,13 +556,13 @@
           "145": {
             "message": {
               "": "We want to meet soon to plan the whole thing.",
-              "en_US": "Queremos nos encontrar em breve para planejar tudo."
+              "en_US": "A gente quer se juntar em breve pra planejar tudo."
             }
           },
           "146": {
             "message": {
               "": "However, they decided to meet in the \\c[3]city hall\\c[0] of Homestedt this time.",
-              "en_US": "No entanto, eles decidiram se encontrar desta vez na \\c[3]prefeitura\\c[0] da Fazendolar."
+              "en_US": "Dessa vez, combinamos de nos encontrar na \\c[3]prefeitura\\c[0] da Fazendolar."
             }
           },
           "147": {
@@ -586,7 +586,7 @@
           "155": {
             "message": {
               "": "Seems like your friends got the news?",
-              "en_US": "Parece que seus amigos receberam as novidades?"
+              "en_US": "Acho que seus amigos já sabem da novidade, né?"
             }
           },
           "156": {
@@ -598,7 +598,7 @@
           "157": {
             "message": {
               "": "We'll be going, then.\\. I'd like us to be ready in time as well.",
-              "en_US": "Já vamos indo.\\. Eu também gostaria que estivéssemos prontos a tempo."
+              "en_US": "Já vamos indo.\\. Eu quero que a gente esteja pronto a tempo."
             }
           },
           "158": {
@@ -616,7 +616,7 @@
           "160": {
             "message": {
               "": "Until then!",
-              "en_US": "Até então!"
+              "en_US": "Até logo!"
             }
           },
           "168": {
@@ -640,31 +640,31 @@
           "6": {
             "message": {
               "": "I probably should get better equipment first.\n",
-              "en_US": "Eu provavelmente deveria conseguir um equipamento melhor primeiro.\n"
+              "en_US": "Eu acho que deveria conseguir um equipamento melhor antes.\n"
             }
           },
           "7": {
             "message": {
               "": "...\\. Is... Is that gear from \\c[3]Gaia's Garden\\c[0]?!",
-              "en_US": "...\\. Esse... Esse equipamento é do \\c[3]Jardim de Gaia\\c[0]?!"
+              "en_US": "O que!?\\. Esse equipamento é do \\c[3]Jardim de Gaia\\c[0]?!"
             }
           },
           "8": {
             "message": {
               "": "Why are you only level \\c[3]48\\c[0]?!",
-              "en_US": "Por que você só é nível \\c[3]48\\c[0]?!"
+              "en_US": "E por que você ainda é nível \\c[3]48\\c[0]?!"
             }
           },
           "9": {
             "message": {
               "": "There was never a need to level this character any further...",
-              "en_US": "Nunca houve a necessidade de upar esse personagem mais..."
+              "en_US": "Nunca precisei upar esse personagem mais..."
             }
           },
           "10": {
             "message": {
               "": "We've really got some work to do...",
-              "en_US": "Realmente temos trabalho a fazer..."
+              "en_US": "A gente realmente tem trabalho pra fazer..."
             }
           }
         }

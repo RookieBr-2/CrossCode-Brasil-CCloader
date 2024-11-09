@@ -321,13 +321,13 @@
                 "7": {
                   "message": {
                     "": "You better make sure to be \\c[3]well prepared\\c[0]. Things won't be as easy as last time.",
-                    "en_US": "Você tem que se certificar de estar \\c[3]bem preparada\\c[0]. Não vai ser tão fácil quanto da última vez."
+                    "en_US": "Você tem que estar \\c[3]bem preparada\\c[0]. Não vai ser tão fácil quanto da última vez."
                   }
                 },
                 "8": {
                   "message": {
                     "": "That being said, are you ready?",
-                    "en_US": "Dito isso, você está pronta?"
+                    "en_US": "Então, você está pronta?"
                   }
                 },
                 "9": {
@@ -353,13 +353,13 @@
                     "9": {
                       "message": {
                         "": "Lacking punctuality... ",
-                        "en_US": "Falta de pontualidade... "
+                        "en_US": "Falta de pontualidade..."
                       }
                     },
                     "10": {
                       "message": {
                         "": "Makes you wonder who's the actual clone here...",
-                        "en_US": "Isso faz você se perguntar quem é o verdadeiro clone aqui..."
+                        "en_US": "Fica a dúvida de quem é o verdadeiro clone aqui..."
                       }
                     },
                     "18": {
@@ -394,31 +394,31 @@
                     "31": {
                       "message": {
                         "": "No worries, Lukas.",
-                        "en_US": "Sem problemas, Lukas."
+                        "en_US": "Tudo bem, Lukas."
                       }
                     },
                     "35": {
                       "message": {
                         "": "Guess I can be happy to be out of that real life for good.",
-                        "en_US": "Acho que posso ficar feliz por ter saído pra valer dessa vida real."
+                        "en_US": "Acho que posso ficar contente por escapar dessa vida real."
                       }
                     },
                     "38": {
                       "message": {
                         "": "...Sure.",
-                        "en_US": "...Certamente."
+                        "en_US": "...Com certeza."
                       }
                     },
                     "39": {
                       "message": {
                         "": "Sometimes I wish I could be stuck in this game as well.",
-                        "en_US": "Às vezes eu queria poder ficar preso a esse jogo também."
+                        "en_US": "Às vezes eu queria poder ficar preso nesse jogo também."
                       }
                     },
                     "40": {
                       "message": {
                         "": "Just playing away every day, not a worry in the world!",
-                        "en_US": "Apenas jogar o dia todo, sem nenhuma preocupação no mundo!"
+                        "en_US": "Só pra jogar o dia todo, sem me preocupar com nada no mundo!"
                       }
                     },
                     "41": {
@@ -429,13 +429,13 @@
                     "42": {
                       "message": {
                         "": "Yeah, it sure is fantastic.",
-                        "en_US": "É, com certesa é fantástico."
+                        "en_US": "É, com certesa é fantástico..."
                       }
                     },
                     "46": {
                       "message": {
                         "": "A-Alrighty!",
-                        "en_US": "Be-Beleza!"
+                        "en_US": "T-Tudo bem!"
                       }
                     },
                     "49": {
@@ -740,7 +740,7 @@
               "3": {
                 "message": {
                   "": "Maaaan...\\. I hope I can be the column tackler again.",
-                  "en_US": "Caaara...\\. Espero que eu seja o atacante de novo."
+                  "en_US": "Caaara...\\. espero que eu seja o atacante de novo."
                 }
               }
             }
@@ -1139,7 +1139,7 @@
               "8": {
                 "message": {
                   "": "I guess I might be a little bit excited about the raid?",
-                  "en_US": "Eu acho que devo estar um pouco empolgado sobre a raid?"
+                  "en_US": "Será que estou ficando um pouco ansioso por causa da raid?"
                 }
               }
             }
@@ -1171,19 +1171,19 @@
           "27": {
             "message": {
               "": "But don't think for a moment that this will be a cake walk! ",
-              "en_US": "Mas não pensem por momento algum que vai ser uma barbada! "
+              "en_US": "Mas não pensem, nem por um instante, que vai ser fácil!"
             }
           },
           "28": {
             "message": {
               "": "Because this time, the Ancients will put our teamwork to a much harder test!",
-              "en_US": "Porque dessa vez, os Antigos irão colocar nosso trabalho em equipe em um teste muito mais difícil"
+              "en_US": "Porque dessa vez, os Antigos irão colocar nosso trabalho em equipe em um teste muito mais difícil."
             }
           },
           "29": {
             "message": {
               "": "Once again, we shall head towards the \\c[3]top of the hill\\c[0]!",
-              "en_US": "Mais uma vez, nós deveremos avançar em direção ao \\c[3]topo da colina\\c[0]!"
+              "en_US": "Mais uma vez, nós devemos avançar em direção ao \\c[3]topo da colina\\c[0]!"
             }
           },
           "30": {
@@ -1231,7 +1231,7 @@
           "47": {
             "message": {
               "": "Uhm...",
-              "en_US": "Hhm..."
+              "en_US": "Hmm..."
             }
           },
           "49": {
@@ -1285,13 +1285,13 @@
           "63": {
             "message": {
               "": "Great, so we got that out of the way already!",
-              "en_US": "Ótimo, assim já tiramos isso da frente!"
+              "en_US": "Ótimo, isso já está resolvido!"
             }
           },
           "67": {
             "message": {
               "": "Uhm...",
-              "en_US": "Hhm..."
+              "en_US": "Hmm..."
             }
           },
           "68": {
@@ -1350,13 +1350,13 @@
           "90": {
             "message": {
               "": "Time to finish this!!",
-              "en_US": "Hora de terminar isso!!"
+              "en_US": "Hora de terminar a raid!!"
             }
           },
           "95": {
             "message": {
               "": "Alrighty!\\. Get ready, everyone!\\. Column tacklers first, step on those marks on the ground!",
-              "en_US": "Beleza!\\. Todos, Preparem-se!\\. Atacantes primeiro, subam nas marcações ali no chão!"
+              "en_US": "Perfeito!\\. Agora, se preparem!\\. Atacantes, subam nas marcações no chão!"
             }
           },
           "109": {
@@ -1398,7 +1398,7 @@
       "settings": {
         "teleportLabel": {
           "": "To Para Island Vista",
-          "en_US": "Ao Panorama da Ilha Para"
+          "en_US": "Para o Penhasco da Ilha Para"
         }
       }
     }

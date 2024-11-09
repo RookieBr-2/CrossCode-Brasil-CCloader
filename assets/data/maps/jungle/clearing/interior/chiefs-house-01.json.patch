@@ -41,7 +41,7 @@
               "4": {
                 "message": {
                   "": "Human want bring human machine into village?",
-                  "en_US": "Os humanos querem trazer a máquina deles para a aldeia?"
+                  "en_US": "Os humanos querem trazer a máquina deles para aldeia?"
                 }
               },
               "5": {
@@ -53,13 +53,13 @@
               "6": {
                 "message": {
                   "": "\\v[lore.title.seeker], we thankful for your help and peace with human is big boon for shad.",
-                  "en_US": "\\v[lore.title.seeker], agradecemos por sua ajuda. A paz com o seres humanos é uma grande bênção para os shad."
+                  "en_US": "\\v[lore.title.seeker], agradecemos por sua ajuda. A paz com seres humanos é uma grande bênção para os shads."
                 }
               },
               "7": {
                 "message": {
                   "": "However,\\. human machines full of dirt and hunger for fuel.\\. This can not become part of shad life.",
-                  "en_US": "No entanto, as máquinas dos humanos são cheias de sujeira e fome de combustível. Isto não pode se tornar parte da vida dos shad."
+                  "en_US": "Mas, as máquinas humanas são cheias de sujeira e fome de combustível. Isto não pode se tornar parte da vida dos shads."
                 }
               },
               "8": {
@@ -81,7 +81,7 @@
               "11": {
                 "message": {
                   "": "\\v[lore.title.seeker] best take walk through Shad village and talk with people if still desire to find way to unify machine with our ways.",
-                  "en_US": "\\v[lore.title.seeker] é melhor andar pela aldeia e conversar com os Shad, se ainda deseja encontrar uma forma ideal de incluir as máquinas na nossa cultura."
+                  "en_US": "\\v[lore.title.seeker] é melhor andar pela aldeia e conversar com Shads, se ainda deseja encontrar uma forma ideal de incluir máquinas na nossa cultura."
                 }
               },
               "12": {
@@ -97,7 +97,7 @@
               "2": {
                 "message": {
                   "": "Human machines full of dirt and hunger for fuel.\\. This can not become part of shad life.",
-                  "en_US": "As máquinas dos humanos são cheias de sujeira e fome de combustível. Isto não pode se tornar parte da vida dos shad."
+                  "en_US": "As máquinas dos humanos são cheias de sujeira e fome de combustível. Isto não pode se tornar parte da vida dos shads."
                 }
               },
               "3": {
@@ -124,13 +124,13 @@
               "2": {
                 "message": {
                   "": "Human machines bring prosperity and coolness to shad village.\\. And they working with clean power.",
-                  "en_US": "As máquinas humanas trouxeram prosperidade e frescor à aldeia dos shad.\\. E elas trabalham com energia limpa."
+                  "en_US": "As máquinas humanas trouxeram prosperidade e frescor à aldeia dos shads.\\. E elas trabalham com energia limpa."
                 }
               },
               "3": {
                 "message": {
                   "": "\\v[lore.title.seeker], this is worldly blessing in harmony with the track and shad traditions.\\. You have our thanks.",
-                  "en_US": "\\v[lore.title.seeker], isto é uma bênção universal em harmonia com as tradições da trilha e dos shad.\\. Você tem a nossa gratidão."
+                  "en_US": "\\v[lore.title.seeker], isto é uma bênção universal em harmonia com as tradições da trilha e dos shads.\\. Você tem a nossa gratidão."
                 }
               },
               "4": {
@@ -163,7 +163,7 @@
               "4": {
                 "message": {
                   "": "And the Shad have calmed down.",
-                  "en_US": "E os Shad se acalmaram."
+                  "en_US": "E os Shads se acalmaram."
                 }
               },
               "5": {

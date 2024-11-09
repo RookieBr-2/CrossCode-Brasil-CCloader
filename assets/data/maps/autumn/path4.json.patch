@@ -98,8 +98,7 @@
     "606": {
       "settings": {
         "displayName": {
-          "": "Jeff",
-          "en_US": ""
+          "": "Jeff"
         },
         "npcStates": {
           "0": {
@@ -367,14 +366,13 @@
             "thenStep": {
               "4": {
                 "message": {
-                  "": "Bonjour, Lea!",
-                  "en_US": ""
+                  "": "Bonjour, Lea!"
                 }
               },
               "5": {
                 "message": {
                   "": "There you are! Thanks for dropping by.",
-                  "en_US": ""
+                  "en_US": "Vocês chegaram! Obrigado por virem."
                 }
               }
             }
@@ -409,7 +407,7 @@
           "15": {
             "message": {
               "": "So how big is your guild, anyway?",
-              "en_US": "Então, sua guilda é grande, afinal?"
+              "en_US": "Então, sua guilda é grande?"
             }
           },
           "16": {
@@ -421,7 +419,7 @@
           "17": {
             "task": {
               "": "Follow \\c[3]Schneider\\c[0] to the \\c[3]First Scholars HQ\\c[0] near \\c[3]Autumn's Rise - Pathway 3\\c[0].",
-              "en_US": "Siga \\c[3]Schneider\\c[0] para o \\c[3]QG First Scholars\\c[0] próximo a \\c[3]Autumn's Rise - Estrada 3\\c[0]."
+              "en_US": "Siga \\c[3]Schneider\\c[0] para o \\c[3]QG dos Primeiros Estudiosos\\c[0] em \\c[3]Nascer do Outono - Estrada 3\\c[0]."
             }
           }
         }
@@ -430,16 +428,14 @@
     "635": {
       "settings": {
         "displayName": {
-          "": "Jeff",
-          "en_US": ""
+          "": "Jeff"
         }
       }
     },
     "636": {
       "settings": {
         "displayName": {
-          "": "Jeff",
-          "en_US": ""
+          "": "Jeff"
         }
       }
     },

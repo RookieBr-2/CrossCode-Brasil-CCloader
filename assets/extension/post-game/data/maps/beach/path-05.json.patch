@@ -28,13 +28,13 @@
           "0": {
             "message": {
               "": "Surrounded by water...\\. aren't you guys a bit nervous?",
-              "en_US": "Rodeado de água...\\. vocês não estão nem um pouco nervosos?"
+              "en_US": "Rodeados de água...\\. vocês não estão com medo?"
             }
           },
           "1": {
             "message": {
               "": "It might look pleasant, but it's actually quite deadly here.",
-              "en_US": "Pode parecer agradável, mas na verdade é bastante mortal aqui."
+              "en_US": "Pode parecer agradável, mas na verdade é muito perigoso."
             }
           }
         }
@@ -46,7 +46,7 @@
           "0": {
             "message": {
               "": "Naturally shaped stone bridge.\\. No, of course it doesn't make sense.\\. Looks nice, though.",
-              "en_US": "Uma ponte de pedra formada naturalmente.\\. Não, claro que não faz sentido.\\. Mas, parece boa."
+              "en_US": "Uma ponte de pedra perfeitamente natural.\\. Não, é claro que não faz nenhum sentido.\\. Mas é bonita."
             }
           }
         }

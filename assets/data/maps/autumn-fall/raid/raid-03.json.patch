@@ -289,7 +289,7 @@
               "0": {
                 "message": {
                   "": "\\c[3]Red blocks\\c[0] defeated on our side!",
-                  "en_US": "\\c[3]Blocos vermelhos\\c[0] derrotados em nosso lado!"
+                  "en_US": "\\c[3]Blocos vermelhos\\c[0] derrotados no nosso lado!"
                 }
               }
             }
@@ -333,7 +333,7 @@
           "4": {
             "message": {
               "": "Next pillar! Lets fight the \\c[3]Green Block\\c[0] first this time!",
-              "en_US": "Próximo pilar! Vamos enfrentar os \\c[3]Blocos verdes\\c[0] primeiro dessa vez!"
+              "en_US": "Próximo pilar! Vamos atacar os \\c[3]Blocos verdes\\c[0] primeiro dessa vez!"
             }
           },
           "5": {
@@ -379,7 +379,7 @@
           "7": {
             "message": {
               "": "Beating up my fellow AI colleagues.\\. Feels bad, man.",
-              "en_US": "Batendo em meus colegas IAs.\\. Que deprê, cara."
+              "en_US": "Bater nos meus colegas IAs.\\. Que deprê, cara."
             }
           },
           "8": {
@@ -414,7 +414,7 @@
           "4": {
             "message": {
               "": "Uhm... sorry!\\. I hit a \\c[3]Red Block!\\c[0]",
-              "en_US": "Hhm... desculpa!\\. Eu acertei um \\c[3]Bloco Vermelho!\\c[0]"
+              "en_US": "Hmm... desculpa!\\. Eu acertei um \\c[3]Bloco Vermelho!\\c[0]"
             }
           },
           "5": {
@@ -425,7 +425,7 @@
           "6": {
             "message": {
               "": "Alright... \\c[3]Red it is!\\c[0]",
-              "en_US": "Tudo bem... \\c[3]É o vermelho então!\\c[0]"
+              "en_US": "Tudo bem... \\c[3]É o vermelho então\\c[0]!"
             }
           },
           "9": {
@@ -443,7 +443,7 @@
           "5": {
             "message": {
               "": "Guess we can FINALLY beat that \\c[1]blue block\\c[0]!",
-              "en_US": "Acho que podemos FINALMENTE derrubar aquele \\c[1]bloco azul\\c[0]!"
+              "en_US": "Acho que FINALMENTE podemos eliminar aquele \\c[1]bloco azul\\c[0]!"
             }
           },
           "6": {
@@ -473,7 +473,7 @@
           "8": {
             "message": {
               "": "Uhm...\\. You alright over there, Luke?",
-              "en_US": "Hhm...\\. Está tudo bem aí, Luke?"
+              "en_US": "Hmm...\\. Tá tudo bem aí, Luke?"
             }
           },
           "9": {
@@ -490,7 +490,7 @@
           "5": {
             "message": {
               "": "Alrighty, lets focus on \\c[3]Green blocks\\c[0].",
-              "en_US": "Beleza, vamos focar nos \\c[3]Blocos Verdes\\c[0]."
+              "en_US": "Certo, vamos focar nos \\c[3]Blocos Verdes\\c[0]."
             }
           },
           "8": {
@@ -526,13 +526,13 @@
           "11": {
             "message": {
               "": "We're back at the cave! Not much further!",
-              "en_US": "Estamos de volta à caverna! Não muito longe!"
+              "en_US": "Voltamos para a caverna! Estamos perto!"
             }
           },
           "14": {
             "message": {
               "": "How are you holding up, Luke?",
-              "en_US": "Como você está, Luke?"
+              "en_US": "E aí, Luke, como você tá?"
             }
           },
           "17": {
@@ -544,25 +544,25 @@
           "18": {
             "message": {
               "": "This is all easy enough.",
-              "en_US": "Isso tudo é bastante fácil."
+              "en_US": "Isso tudo é moleza."
             }
           },
           "19": {
             "message": {
               "": "No real-life experience required.",
-              "en_US": "Não requer experiência da vida real."
+              "en_US": "Não exige experiência da vida real."
             }
           },
           "20": {
             "message": {
               "": "Uhm...\\. what?",
-              "en_US": "Hhm...\\. o quê?"
+              "en_US": "Hmm...\\. o quê?"
             }
           },
           "23": {
             "message": {
               "": "Hey, what are we waiting for?\\. Into the cave, everyone!",
-              "en_US": "Ei, o que estamos esperando?\\. Vamos todos pra caverna!"
+              "en_US": "Ei, o que estão esperando?\\. Vamos todos pra caverna!"
             }
           },
           "25": {
@@ -586,7 +586,7 @@
           "5": {
             "message": {
               "": "Alright now for that \\c[3]Blue Block\\c[0].....",
-              "en_US": "Certo, agora para aquele \\c[3]Bloco Azul\\c[0]....."
+              "en_US": "Certo, agora ataquem o \\c[3]Bloco Azul\\c[0]....."
             }
           },
           "7": {
@@ -598,7 +598,7 @@
           "9": {
             "message": {
               "": "Noooooooooo....\\. I hit the \\c[3]Lightning\\c[0] ones!",
-              "en_US": "Nãããããooooo....\\. Eu acertei os de \\c[3]Trovão\\c[0]!"
+              "en_US": "Nãããããooooo....\\. Eu acertei os de \\c[3]Choque\\c[0]!"
             }
           },
           "10": {

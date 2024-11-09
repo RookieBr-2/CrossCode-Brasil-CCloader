@@ -37,7 +37,7 @@
                 "7": {
                   "message": {
                     "": "\\v[lore.title.seeker], there are you.\\. This time we stock 2 generator at once, to finally finish task.",
-                    "en_US": "Aí está você \\v[lore.title.seeker].\\. Desta vez temos 2 geradores em estoque de uma só vez, para finalmente terminar a tarefa."
+                    "en_US": "\\v[lore.title.seeker], desta vez vamos capturar dois deles de uma só vez, para finalmente terminar a tarefa."
                   }
                 },
                 "8": {
@@ -57,7 +57,7 @@
                     "3": {
                       "message": {
                         "": "Good!\\. Machines will lure some kitty again.\\. More than last time, so be on guard!",
-                        "en_US": "Ótimo!\\. As máquinas vão atrair novamente alguns gatinhos. Mais do que da última vez, então fique de guarda!"
+                        "en_US": "Ótimo!\\. As máquinas irão atrair mais gatinhos.\\. Fique de alerta!"
                       }
                     },
                     "29": {
@@ -68,7 +68,7 @@
                     "30": {
                       "message": {
                         "": "Happy catching, \\v[lore.title.seeker].\\. I will wait here till one is inside cage.",
-                        "en_US": "Feliz captura, \\v[lore.title.seeker].\\. Vou esperar aqui até que um esteja dentro da gaiola."
+                        "en_US": "Boa sorte, \\v[lore.title.seeker].\\. Vou esperar aqui até que eles estejam dentro das jaulas."
                       }
                     },
                     "32": {
@@ -96,7 +96,7 @@
                     "1": {
                       "message": {
                         "": "Oh, \\v[lore.title.seeker], please.\\. Make hurry and let me go back to home and work!",
-                        "en_US": "Ah, \\v[lore.title.seeker], por favor.\\. Se apresse e me deixe voltar para casa e trabalhar!"
+                        "en_US": "Ah, \\v[lore.title.seeker].\\. Apresse-se para que eu possa voltar para casa e trabalhar!"
                       }
                     }
                   },
@@ -110,7 +110,7 @@
                     "1": {
                       "message": {
                         "": "I see.\\. Then take another look at great machines!\\. This time there be 2.",
-                        "en_US": "Estou vendo.\\. Então dê outra olhada nas grandes máquinas!\\. Desta vez há 2."
+                        "en_US": "Entendo.\\. Então dê outra olhada nas grandes máquinas!\\. Desta vez tem duas."
                       }
                     },
                     "10": {
@@ -132,25 +132,25 @@
                     "13": {
                       "message": {
                         "": "I can lure special kitties whenever \\v[lore.title.seeker] ready.",
-                        "en_US": "Posso atrair os gatinhos especiais assim que \\v[lore.title.seeker] estiver pronta."
+                        "en_US": "Vou atrair os gatinhos especiais assim que \\v[lore.title.seeker] estiver pronta."
                       }
                     },
                     "15": {
                       "message": {
                         "": "When there, creature must be \\c[3]stunned to state of weakness\\c[0].",
-                        "en_US": "Quando surgir, a criatura deve ser \\c[3]atordoada com o estado de fraqueza\\c[0]."
+                        "en_US": "A criatura deve ser \\c[3]atordoada com sua fraqueza\\c[0]."
                       }
                     },
                     "16": {
                       "message": {
                         "": "Then \\c[3]hit machine with attack of Shock\\c[0] for it to proceed with the capture.",
-                        "en_US": "Então \\c[3]atinja a máquina com um ataque de Choque\\c[0] para que ela prossiga com a captura."
+                        "en_US": "Então \\c[3]atinja a máquina com ataques de Choque\\c[0] para que ela inicie a captura."
                       }
                     },
                     "17": {
                       "message": {
                         "": "However, \\c[3]capture easier when kitty health weakened\\c[0].\\. Keep in mind when they keep escaping.",
-                        "en_US": "Entretanto, a \\c[3]captura é mais fácil quando a saúde do gatinho está enfraquecida\\c[0].\\. Tenha em mente quando o gatinho continuar escapando."
+                        "en_US": "A \\c[3]captura é mais fácil quando a vida do gatinho estiver baixa\\c[0]\\c[0].\\. Lembre-se disso quando o gatinho continuar escapando."
                       }
                     },
                     "26": {
@@ -161,7 +161,7 @@
                     "27": {
                       "message": {
                         "": "\\v[lore.title.seeker] now understand everything?",
-                        "en_US": "\\v[lore.title.seeker] entendeu tudo?"
+                        "en_US": "\\v[lore.title.seeker], entendeu tudo?"
                       }
                     }
                   },
@@ -203,7 +203,7 @@
           "21": {
             "message": {
               "": "Two more adorable furry powersources, amaze! \\v[lore.title.seeker], great job!",
-              "en_US": "Mais duas adoráveis fontes de energia peludas! Ótimo trabalho, Seeker!"
+              "en_US": "Mais duas adoráveis fontes de energia! Bom trabalho, Seeker!"
             }
           },
           "22": {
@@ -220,7 +220,7 @@
           "24": {
             "message": {
               "": "They be teleporting back to workshop like others.\\. And me follow, finally!",
-              "en_US": "Eles serão teleportados de volta para a oficina como outros.\\. E eu sigo junto, finalmente!"
+              "en_US": "Eles serão teleportados de volta para a oficina como outros.\\. E eu vou junto, finalmente!"
             }
           },
           "25": {
@@ -231,7 +231,7 @@
           "26": {
             "message": {
               "": "Oh, and you visit me there, too, yes?\\. Need to do important speaking over use of new power!",
-              "en_US": "Ah, e você me visita lá também, sim?\\. Necessidade de fazer um discurso importante sobre o uso de nova energia!"
+              "en_US": "Ah, e você me visita lá também, sim?\\. Preciso fazer um discurso importante sobre o uso de nova energia!"
             }
           },
           "27": {
@@ -263,13 +263,13 @@
               "1": {
                 "message": {
                   "": "\\v[lore.title.seeker] got one, much neat!\\. But also killed other cats without capturing enough.",
-                  "en_US": "\\v[lore.title.seeker] pegou um, muito bem!\\. Mas também matou outros gatos sem captar o suficiente."
+                  "en_US": "\\v[lore.title.seeker] pegou um, muito bem!\\. Mas também matou outros gatos sem capturar o suficiente."
                 }
               },
               "2": {
                 "message": {
                   "": "More have to be lured now.\\. Please try to capture at least one more before all killed!",
-                  "en_US": "Agora mais deles precisam ser atraídos.\\. Por favor, tente capturar pelo menos um antes que todos sejam mortos!"
+                  "en_US": "Agora, preciso atrair mais deles.\\. Por favor, tente capturar pelo menos um antes que todos sejam mortos!"
                 }
               }
             },
@@ -283,7 +283,7 @@
               "1": {
                 "message": {
                   "": "More have to be lured now.\\. Please try to capture at enough to fill cages before all killed!",
-                  "en_US": "Agora mais deles precisam ser atraídos.\\. Por favor, tente capturar pelo menos um antes que todos sejam mortos!"
+                  "en_US": "Agora, preciso atrair mais deles.\\. Por favor, tente capturar pelo menos um antes que todos sejam mortos!"
                 }
               }
             }
@@ -318,7 +318,7 @@
                       "1": {
                         "message": {
                           "": "Now other enemies must get mobbed to retrieve generators safely!",
-                          "en_US": "Agora outros inimigos devem ser afastados para recuperar a gaiola com segurança!"
+                          "en_US": "Agora outros inimigos devem ser afastados para recuperar a jaula com segurança!"
                         }
                       }
                     }

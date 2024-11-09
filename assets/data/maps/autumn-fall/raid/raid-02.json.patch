@@ -104,7 +104,7 @@
               "0": {
                 "message": {
                   "": "\\c[3]Red blocks\\c[0] defeated on our side!",
-                  "en_US": "\\c[3]Blocos vermelhos\\c[0] derrotados em nosso lado!"
+                  "en_US": "\\c[3]Blocos vermelhos\\c[0] derrotados aqui!"
                 }
               }
             }
@@ -170,12 +170,13 @@
           "15": {
             "message": {
               "": "Let's gooo~",
-              "en_US": "Boraaaa~"
+              "en_US": "Boraaaa!"
             }
           },
           "16": {
             "message": {
-              "": "Whooo~"
+              "": "Whooo~",
+              "en_US": "Uoouu!"
             }
           }
         }
@@ -187,7 +188,7 @@
           "5": {
             "message": {
               "": "So... is it really just regular battles?",
-              "en_US": "Então... são realmente apenas batalhas normais?"
+              "en_US": "Então... é só isso, batalhas normais?"
             }
           },
           "6": {
@@ -205,7 +206,7 @@
           "8": {
             "message": {
               "": "And done...",
-              "en_US": "E feito..."
+              "en_US": "Pronto..."
             }
           }
         }
@@ -265,7 +266,7 @@
           "27": {
             "message": {
               "": "Simple instructions.\\. I can run that.",
-              "en_US": "Instruções simples.\\. Posso processar isso."
+              "en_US": "Instruções simples.\\. Isso é tranquilo para mim."
             }
           },
           "29": {
@@ -321,7 +322,7 @@
           "3": {
             "message": {
               "": "Achtung! Stronger attacks incoming!",
-              "en_US": "Atenção! Ataques mais fortes chegando!"
+              "en_US": "Achtung! Vêm aí ataques fortes!"
             }
           },
           "6": {
@@ -339,7 +340,7 @@
           "13": {
             "message": {
               "": "Instructions completed.",
-              "en_US": "Instruções completadas."
+              "en_US": "Instruções concluídas."
             }
           },
           "14": {
@@ -363,7 +364,7 @@
           "2": {
             "message": {
               "": "Oh!\\. They're hiding the colors now!\\. You better \\c[3]remember the color\\c[0] while you can see it!",
-              "en_US": "Ah!\\. Eles estão escondendo as cores agora!\\. É melhor você \\c[3]lembrar a cor\\c[0] enquanto você pode vê-la!"
+              "en_US": "Ah!\\. Eles estão escondendo as cores agora!\\. É bom você \\c[3]memorizar da cor\\c[0] enquanto ainda dá para ver!""
             }
           }
         }

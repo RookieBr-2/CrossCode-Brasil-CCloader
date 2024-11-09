@@ -81,7 +81,7 @@
           "72": {
             "message": {
               "": "I must be acting like the biggest jerk right now...",
-              "en_US": "Eu devo ter agido como o maior idiota agora..."
+              "en_US": "Acho que fui o maior idiota..."
             }
           },
           "76": {
@@ -110,7 +110,7 @@
           "85": {
             "message": {
               "": "I just wanted to go with the flow.\n",
-              "en_US": "Eu apenas queria seguir com o fluxo.\n"
+              "en_US": "Eu só queria entrar no clima.\n"
             }
           },
           "86": {
@@ -128,7 +128,7 @@
           "88": {
             "message": {
               "": "I guess switching from an existential crisis to a fun gaming session in one day isn't all that easy.",
-              "en_US": "Eu acho que trocar de uma crise existencial para uma sessão de jogo divertida em um único dia não é tão fácil."
+              "en_US": "Parece que mudar de uma crise existencial para uma partida divertida em um só dia não é tão simples."
             }
           },
           "92": {
@@ -140,7 +140,7 @@
           "93": {
             "message": {
               "": "I just thought it would help for you to have a bit of a distraction.\n",
-              "en_US": "Eu apenas pensei que ajudaria se você tivesse um pouco de distração.\n"
+              "en_US": "Eu pensei que ajudaria se você tivesse um pouco de distração.\n"
             }
           },
           "96": {
@@ -158,7 +158,7 @@
           "99": {
             "message": {
               "": "It's fine, man!\\. All that fun couldn't possibly be damped just by you.",
-              "en_US": "Tá tudo bem, cara!\\. Toda aquela diversão não poderia ter sido abafada somente por você."
+              "en_US": "Tá tudo bem, cara!\\. Você não tinha como arruinar a diversão."
             }
           },
           "100": {
@@ -176,7 +176,7 @@
           "105": {
             "message": {
               "": "Oui!\\. And this place here seems like the perfect location as well.\n",
-              "en_US": "Oui!\\. E esse lugar aqui também parece ser o local perfeito para isso.\n"
+              "en_US": "Oui!\\. E aqui é o local perfeito pra isso.\n"
             }
           },
           "107": {
@@ -187,7 +187,7 @@
           "111": {
             "message": {
               "": "We're not in a rush.\\. Let's just have a seat somewhere.",
-              "en_US": "Não estamos com pressa.\\. Vamos apenas nos sentar em algum lugar."
+              "en_US": "Não estamos com pressa.\\. Vamos nos sentar em algum lugar."
             }
           },
           "113": {
@@ -198,25 +198,25 @@
           "114": {
             "message": {
               "": "Sounds good.",
-              "en_US": "Parece bom."
+              "en_US": "Por mim, tudo bem."
             }
           },
           "136": {
             "message": {
               "": "... so I wasted hours and hours on that issue!",
-              "en_US": "... então eu desperdicei horas e horas nessa questão"
+              "en_US": "... então eu perdi um tempão com esse problema!"
             }
           },
           "137": {
             "message": {
               "": "Just because that idiot couldn't write a proper test case.",
-              "en_US": "Só porque aquele idiota não pôde escrever um estudo de caso decente."
+              "en_US": "Só porque aquele idiota não conseguiu fazer um teste decente."
             }
           },
           "139": {
             "message": {
               "": "Well, the company has a track record of being lazy with testing.",
-              "en_US": "Bem, a empresa tem um histórico de ser preguiçosa com testes."
+              "en_US": "Pois é, a empresa tem um histórico de ser preguiçosa com testes."
             }
           },
           "140": {
@@ -228,7 +228,7 @@
           "141": {
             "message": {
               "": "Anyway...\\. that's why I arrived late today.",
-              "en_US": "De qualquer forma...\\. Foi por isso que cheguei tarde hoje."
+              "en_US": "Então...\\. Foi por isso que cheguei tarde hoje."
             }
           },
           "142": {
@@ -250,7 +250,7 @@
           "148": {
             "message": {
               "": "I never expected to say this, but...\\. I kinda miss it.",
-              "en_US": "Eu nunca esperei que iria dizer isso, mas...\\. Eu meio que sinto falta disso."
+              "en_US": "Nunca pensei que diria isso, mas...\\. sinto falta dessas coisas."
             }
           },
           "149": {
@@ -262,7 +262,7 @@
           "151": {
             "message": {
               "": "Boring...\\. except on release days.",
-              "en_US": "Chato...\\. exceto nos dias de lançamento."
+              "en_US": "Chato...\\. a não ser nos dias em que precisamos lançar uma nova versão."
             }
           },
           "152": {
@@ -280,7 +280,7 @@
           "154": {
             "message": {
               "": "It all still feels like it was yesterday.\n",
-              "en_US": "Sinto como se tudo isso tivesse sido ontem.\n"
+              "en_US": "Eu me lembro como se fosse ontem.\n"
             }
           },
           "155": {
@@ -298,31 +298,31 @@
           "158": {
             "message": {
               "": "Yeah... It's really messed up.",
-              "en_US": "É... Realmente isso é zoado."
+              "en_US": "É... realmente isso é zoado."
             }
           },
           "163": {
             "message": {
               "": "What makes it worse though...",
-              "en_US": "Mas o que faz isso ser pior..."
+              "en_US": "Mas o que torna isso ainda pior..."
             }
           },
           "164": {
             "message": {
               "": "I still have no idea what I'm supposed to do here all day long.\n",
-              "en_US": "Eu ainda não faço ideia do que eu devo fazer aqui o dia inteiro.\n"
+              "en_US": "É que eu não faço ideia do que fazer aqui o dia inteiro.\n"
             }
           },
           "165": {
             "message": {
               "": "Just sitting around my house?\\. Exploring CrossWorlds over and over?",
-              "en_US": "Apenas ficar em minha casa?\\. Explorando o CrossWorlds de novo e de novo?"
+              "en_US": "Ficar sentado em casa?\\. Explorando CrossWorlds de novo e de novo?"
             }
           },
           "166": {
             "message": {
               "": "How long until that gets really old?",
-              "en_US": "Quanto tempo levar até isso ficar obsoleto?"
+              "en_US": "Quanto tempo leva até isso ficar cansativo?"
             }
           },
           "168": {
@@ -358,13 +358,13 @@
           "176": {
             "message": {
               "": "Something like special quests or events guided by Evotars.",
-              "en_US": "Algo tipo eventos especiais ou quest guiados por Evotares."
+              "en_US": "Algo tipo missões especiais ou eventos guiados por Evotares."
             }
           },
           "179": {
             "message": {
               "": "Huh...",
-              "en_US": "Hhm..."
+              "en_US": "Hmm..."
             }
           },
           "180": {
@@ -376,13 +376,13 @@
           "181": {
             "message": {
               "": "I could just give my signature tours to new players and all that.",
-              "en_US": "Eu poderia apenas fazer o meu famoso tour para novos jogadores e coisas do tipo."
+              "en_US": "Eu poderia fazer o meu famoso tour para novos jogadores e coisas assim."
             }
           },
           "182": {
             "message": {
               "": "Honestly though...",
-              "en_US": "Embora honestamente..."
+              "en_US": "Mas eu queria saber..."
             }
           },
           "183": {
@@ -394,19 +394,19 @@
           "185": {
             "message": {
               "": "I suppose Sergey would have known, but you know...",
-              "en_US": "Acho que o Sergey saberia, mas você sabe..."
+              "en_US": "Acho que o Sergey sabia disso, mas sabe como é..."
             }
           },
           "186": {
             "message": {
               "": "He's always quiet about anything even slightly unofficial.",
-              "en_US": "Ele sempre é tão quieto sobre qualquer coisa que não seja oficial."
+              "en_US": "Ele faz o maior mistério com qualquer coisa que não seja oficial."
             }
           },
           "188": {
             "message": {
               "": "[nods]",
-              "en_US": "[acena com a cabeça]"
+              "en_US": "[acena a cabeça]"
             }
           },
           "193": {
@@ -418,7 +418,7 @@
           "194": {
             "message": {
               "": "I'm sure I'll get over this... eventually.\n",
-              "en_US": "Estou certo de que vou superar isso... eventualmente.\n"
+              "en_US": "Acho que vou superar isso... mais cedo ou mais tarde.\n"
             }
           },
           "195": {
@@ -452,7 +452,7 @@
       "settings": {
         "teleportLabel": {
           "": "Back to the Entrance",
-          "en_US": "Voltando para a Entrada"
+          "en_US": "Voltar para a Entrada"
         }
       }
     }

@@ -15,7 +15,7 @@
               "settings": {
                 "text": {
                   "": "Ship HP",
-                  "en_US": "PV do Barco"
+                  "en_US": "HP do Barco"
                 }
               }
             }
@@ -29,7 +29,7 @@
                 },
                 "text": {
                   "": "Battleship HP",
-                  "en_US": "PV do Navio de Combate"
+                  "en_US": "HP do Navio de Combate"
                 }
               }
             }
@@ -171,7 +171,7 @@
           "15": {
             "text": {
               "": "\\c[2]Patrol successful!\\c[0]\n\nThe Shipments have been destroyed!",
-              "en_US": "\\c[2]Patrulha bem sucedida!\\c[0]\n\nOs Navios foram destruídos!"
+              "en_US": "\\c[2]Patrulha bem sucedida!\\c[0]\n\nAs Armas foram destruídas!"
             }
           }
         },

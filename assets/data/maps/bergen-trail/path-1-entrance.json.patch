@@ -1233,7 +1233,7 @@
         "interact": {
           "hoverText": {
             "": "\\i[arrow-s] Autumn's Rise\n\\i[arrow-n] Ascent to Bergen Village.",
-            "en_US": ""
+            "en_US": "\\i[arrow-s] Nascer do Outono\n\\i[arrow-n] Subida até a Vila Bergen."
           }
         }
       }
@@ -1806,7 +1806,7 @@
                       "0": {
                         "message": {
                           "": "Again with a single hit?\\. What is this?",
-                          "en_US": "De novo com um único golpe?\\ O Que é isso?"
+                          "en_US": "De novo com um único golpe?\\. O Que é isso?"
                         }
                       },
                       "1": {
@@ -1867,7 +1867,7 @@
                       "0": {
                         "message": {
                           "": "How is it even possible to have so little HP and defense?!\\. Is this another kind of \\c[3]cheating\\c[0]?!",
-                          "en_US": "Como é possível ter tão pouco PV e defesa?!\\. Este é outro tipo de \\c[3]trapaça\\c[0]?!"
+                          "en_US": "Como é possível ter tão pouco HP e defesa?!\\. Este é outro tipo de \\c[3]trapaça\\c[0]?!"
                         }
                       }
                     },
@@ -1965,7 +1965,7 @@
                       "2": {
                         "message": {
                           "": "Do you feel any \\c[1]accomplishment\\c[0], over-powered as you are?",
-                          "en_US": "Você sente alguma \\c[1]realização\\ c[0], duelando com o nível acima do normal?"
+                          "en_US": "Você sente alguma \\c[1]realização\\c[0], duelando com o nível acima do normal?"
                         }
                       },
                       "3": {

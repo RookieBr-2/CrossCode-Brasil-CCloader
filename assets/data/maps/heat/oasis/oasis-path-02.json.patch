@@ -48,7 +48,7 @@
               "7": {
                 "message": {
                   "": "You find Eldress in \\c[3]Ba'kii Kum\\c[0], Shad village to the \\c[3]west\\c[0]!",
-                  "en_US": "Você encontrará a Anciã em \\c[3]Ba'kii Kum\\c[0], a vila dos Shad no \\c[3]oeste\\c[0]!"
+                  "en_US": "Você encontrará a Anciã em \\c[3]Ba'kii Kum\\c[0], a vila dos Shads no \\c[3]oeste\\c[0]!"
                 }
               },
               "8": {
@@ -549,13 +549,13 @@
           "14": {
             "message": {
               "": "Finally, our party reached the blooming oasis to the east!",
-              "en_US": "Finalmente, nós chegamos ao oásis florido do leste!"
+              "en_US": "Finalmente, nosso grupo chegou ao oásis florido do leste!"
             }
           },
           "18": {
             "message": {
               "": "The maroon tree in all its majestic glory was but within a stone's throw!",
-              "en_US": "A árvore Castanha, em toda sua majestosa glória, estava apenas a um passo de distância!"
+              "en_US": "E a árvore Castanha, em toda a sua majestosa beleza, estava a poucos passos de distância!"
             }
           },
           "19": {
@@ -572,13 +572,13 @@
           "29": {
             "message": {
               "": "Indeed, the soothing breeze and calm waters were inviting for a little break.",
-              "en_US": "De fato, a brisa suave e as águas calmas são convidativas para uma pequena pausa."
+              "en_US": "Claro, a brisa leve e as águas tranquilas são convidativas para uma pausa."
             }
           },
           "31": {
             "message": {
               "": "Alas, there was no time to waste! We had to continue on our journey!",
-              "en_US": "Mas não tinhamos tempo a perder! Tivemos que continuar nossa jornada!"
+              "en_US": "Mas não podemos perder tempo! Precisamos continuar nossa jornada!"
             }
           },
           "32": {
@@ -677,13 +677,13 @@
           "14": {
             "message": {
               "": "I swear one day, I'm going to kill that guy....",
-              "en_US": "Eu juro que um dia, eu vou matar aquele cara...."
+              "en_US": "Eu juro que um dia, eu vou matar aquele garoto...."
             }
           },
           "23": {
             "text": {
               "": "Adding person\\s[7]......",
-              "en_US": "Adicionando pessoa\\s[7]......"
+              "en_US": "Ligando\\s[7]......"
             }
           },
           "28": {
@@ -694,7 +694,7 @@
           "29": {
             "message": {
               "": "Uhm...\\. Hello!",
-              "en_US": "Uhm...\\. Olá!"
+              "en_US": "Hmm...\\. Olá!"
             }
           },
           "30": {
@@ -718,55 +718,55 @@
           "33": {
             "message": {
               "": "Well...\\. you see...",
-              "en_US": "Bem...\\. veja..."
+              "en_US": "Escuta...\\."
             }
           },
           "34": {
             "message": {
               "": "Somebody was so kind to tell me I was heading in the wrong direction!",
-              "en_US": "Alguém muito gentil em me dizer que eu estava indo na direção errada!"
+              "en_US": "Uma pessoa muito legal me falou que eu estava indo na direção errada!"
             }
           },
           "35": {
             "message": {
               "": "TELL ME SOMETHING NEW!!",
-              "en_US": "ME DIGA ALGO NOVO!!"
+              "en_US": "QUE NOVIDADE!!"
             }
           },
           "36": {
             "message": {
               "": "You were supposed to WAIT!\\. AGAIN!",
-              "en_US": "Você deveria ESPERAR!\\. NOVAMENTE!"
+              "en_US": "Você tinha que ESPERAR!"
             }
           },
           "37": {
             "message": {
               "": "It's okay!\\. I'm very close to Rhombus Square now...\\. I think.",
-              "en_US": "Tudo bem!\\. Estou muito perto de Rhombus Square agora.... Eu acho."
+              "en_US": "Tudo bem!\\. Estou perto da Praça Losango agora....\\. eu acho."
             }
           },
           "38": {
             "message": {
               "": "REIZE STOP MOVING!!",
-              "en_US": "REIZE PARE DE SE MOVER!!"
+              "en_US": "REIZE PARA DE FICAR ANDANDO IGUAL UM IMBECÍL!!"
             }
           },
           "39": {
             "message": {
               "": "Rhombus Square was close to that...\\. \\c[3]jungle\\c[0], wasn't it?",
-              "en_US": "Rhombus Square fica bem perto daquela...\\. \\c[3]selva\\c[0], não é?"
+              "en_US": "A Praça Losango fica perto daquela...\\. \\c[3]selva\\c[0], não é?"
             }
           },
           "40": {
             "message": {
               "": "No...\\. no it wasn't.",
-              "en_US": "Não...\\. não era."
+              "en_US": "Não...\\. não fica."
             }
           },
           "41": {
             "message": {
               "": "Oh crap, they're closing in again!",
-              "en_US": "Ah merda, eles estão se aproximando novamente!"
+              "en_US": "Ah merda, eles estão se aproximando de novo!"
             }
           },
           "42": {
@@ -778,7 +778,7 @@
           "43": {
             "message": {
               "": "Yeah...\\. Also there are these \\c[3]huge mushrooms\\c[0] everywhere!",
-              "en_US": "Sim...\\. Também tem esses \\c[3]cogumelos enormes\\c[0] em todo lugar!"
+              "en_US": "Sim...\\. e tem \\c[3]cogumelos enormes\\c[0] em todo lugar!"
             }
           },
           "44": {
@@ -789,7 +789,7 @@
           "45": {
             "message": {
               "": "Argh, where am I?!",
-              "en_US": "Argh, onde estou?!"
+              "en_US": "Aaah, onde estou?!"
             }
           },
           "46": {
@@ -834,13 +834,13 @@
           "58": {
             "message": {
               "": "You know what?\\. Maybe we should just leave him to his fate!",
-              "en_US": "Quer saber de uma coisa?\\. Talvez seja melhor deixá-lo à própria sorte!"
+              "en_US": "Quer saber de uma coisa?\\. Talvez seja melhor deixar ele se virar!"
             }
           },
           "59": {
             "message": {
               "": "I feel he deserves to be smashed by whatever is following him!",
-              "en_US": "Sinto que ele merece ser esmagado por qualquer coisa que o esteja seguindo!"
+              "en_US": "Acho que ele merece ser esmagado por qualquer coisa que o esteja seguindo!"
             }
           },
           "60": {
@@ -851,7 +851,7 @@
           "61": {
             "message": {
               "": "Come on, don't be that way...",
-              "en_US": "Qual foi, não fala assim..."
+              "en_US": "Que isso, não fala assim..."
             }
           },
           "62": {
@@ -863,7 +863,7 @@
           "63": {
             "message": {
               "": "This really doesn't seem normal, right Lea?",
-              "en_US": "Isto realmente não parece normal, não é Lea?"
+              "en_US": "Isto não parece normal, não é Lea?"
             }
           },
           "64": {
@@ -875,7 +875,7 @@
           "65": {
             "message": {
               "": "I bet Ivo's up to something again.",
-              "en_US": "Aposto que Ivo está aprontando algo novamente."
+              "en_US": "Aposto que Ivo está envolvido nisso."
             }
           },
           "66": {
@@ -892,19 +892,19 @@
           "68": {
             "message": {
               "": "Oh...?\\. Right, we never told you about Ivo.",
-              "en_US": "Ah...?\\. De fato, nunca falamos sobre o Ivo."
+              "en_US": "Ah...?\\. É verdade, nunca falamos sobre o Ivo."
             }
           },
           "69": {
             "message": {
               "": "He's a friend of ours.\\. He's not in this world, though.",
-              "en_US": "Ele é nosso amigo.\\. Ele não está neste mundo, no entanto."
+              "en_US": "Ele é nosso amigo.\\. Mas não está neste jogo."
             }
           },
           "70": {
             "message": {
               "": "Instead he's sort of...\\. checking what we're doing.\\. I think?",
-              "en_US": "Em vez disso, ele está meio que verificando o que estamos fazendo.\\, Eu acho..."
+              "en_US": "Em vez disso, ele fica observando o que estamos fazendo,\\. eu acho..."
             }
           },
           "71": {
@@ -916,7 +916,7 @@
           "72": {
             "message": {
               "": "In practice he's like an annoying voice in your head that talks to you occasionally.",
-              "en_US": "Na prática, ele é como uma voz irritante em sua cabeça que fala com você ocasionalmente."
+              "en_US": "Na real, ele é como uma voz irritante na sua cabeça que aparece de vez em quando."
             }
           },
           "73": {
@@ -938,19 +938,19 @@
           "78": {
             "message": {
               "": "In any case, let's not give up on Reize okay?",
-              "en_US": "Em todo caso, não vamos desistir do Reize, certo?"
+              "en_US": "Enfim, não vamos desistir do Reize, não é?"
             }
           },
           "79": {
             "message": {
               "": "Fine.\\. We'll give him one last chance.",
-              "en_US": "Está bem.\\. Vamos dar pra ele uma última chance."
+              "en_US": "Está bem.\\. Vamos dar uma última chance pra ele."
             }
           },
           "80": {
             "message": {
               "": "You better hurry before he wanders off again!",
-              "en_US": "É melhor se apressar antes que ele se afaste novamente!"
+              "en_US": "É melhor ir logo antes que ele suma novamente!"
             }
           },
           "81": {

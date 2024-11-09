@@ -1047,7 +1047,7 @@
           "24": {
             "message": {
               "": "Hey, you! You should go to the quest hub!",
-              "en_US": "Ei, você! Você deve ir para o centro de missões!"
+              "en_US": "Ei, você! Você deve ir para a central de missões!"
             }
           },
           "25": {
@@ -1059,7 +1059,7 @@
           "26": {
             "message": {
               "": "Uhm...\\. They got amazing loot there!",
-              "en_US": "Hum...\\. Eles conseguiram um loot incrível lá!"
+              "en_US": "Hum...\\. Tem um loot incrível lá!"
             }
           },
           "27": {
@@ -1082,13 +1082,13 @@
           "32": {
             "message": {
               "": "R-Really?\\. Quest Hub, you say?",
-              "en_US": "S-sério?\\. Central de Missões, você disse?"
+              "en_US": "S-sério?\\. Você disse Central de Missões?"
             }
           },
           "41": {
             "message": {
               "": "Huh... that worked well.",
-              "en_US": "Huh... isso funcionou bem."
+              "en_US": "Huh... isso funcionou."
             }
           }
         }
@@ -1100,7 +1100,7 @@
           "24": {
             "message": {
               "": "So, uhm...\\. Sergey?",
-              "en_US": "Então, hum...\\. Sergey?"
+              "en_US": "Então, hmm...\\. Sergey?"
             }
           },
           "26": {
@@ -1130,7 +1130,7 @@
           "30": {
             "message": {
               "": "And hopefully we will be able to create a proper future for Evotars that way.",
-              "en_US": "E espero que possamos criar um futuro adequado para os Evotares dessa maneira."
+              "en_US": "Espero que possamos, assim, garantir um futuro adequado para os Evotares."
             }
           },
           "35": {
@@ -1153,13 +1153,13 @@
           "40": {
             "message": {
               "": "I am not allowed to do that in the first place...",
-              "en_US": "Eu não estou autorizado a fazer isso em primeiro lugar ..."
+              "en_US": "Eu não estou autorizado a fazer isso em primeiro lugar..."
             }
           },
           "41": {
             "message": {
               "": "And I really should not break company rules while I try to discuss the matter with them.",
-              "en_US": "E eu realmente não deveria quebrar as regras da empresa enquanto tento discutir o assunto com eles."
+              "en_US": "E eu não deveria violar as regras da empresa enquanto tento discutir o assunto com eles."
             }
           },
           "42": {
@@ -1170,13 +1170,13 @@
           "43": {
             "message": {
               "": "But...\\. there is no need to log her out right away, non?",
-              "en_US": "Mas...\\. não tem necessidade de desconectar ela imediatamente, non?"
+              "en_US": "Mas...\\. não precisa desconectar ela agora, non?"
             }
           },
           "44": {
             "message": {
               "": "We can at least play together for a little longer, oui?",
-              "en_US": "Podemos pelo menos jogar juntas mais um pouco, oui?"
+              "en_US": "A gente pode pelo menos jogar juntas mais um pouco, oui?"
             }
           },
           "45": {
@@ -1187,7 +1187,7 @@
           "46": {
             "message": {
               "": "I suppose... there is no reason to rush things now.",
-              "en_US": "Suponho... que não há razão para apressar as coisas agora."
+              "en_US": "Acho... que não há motivo para apressar as coisas agora."
             }
           },
           "49": {
@@ -1210,7 +1210,7 @@
           "68": {
             "text": {
               "": "It all began when I set out\\.\nto find my long-lost colleagues.\\.\n\\.\nMy old friends...",
-              "en_US": "Tudo começou quando saí\\.\npara encontrar meus amigos perdidos.\\.\n\\.\nMeus velhos amigos..."
+              "en_US": "Tudo começou quando saí\\.\nem busca dos meus amigos perdidos.\\.\n\\.\nMeus velhos amigos..."
             }
           }
         }

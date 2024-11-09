@@ -178,7 +178,7 @@
                 "9": {
                   "message": {
                     "": "I don't get it. How does a stranger know what I want?",
-                    "en_US": "Eu não entendo. Como é que um estranho sabe o que eu quero?"
+                    "en_US": "Eu não entendo. Como é que uma estranha sabe o que eu quero?"
                   }
                 },
                 "10": {
@@ -460,7 +460,7 @@
           "1": {
             "text": {
               "": "Missing Pass",
-              "en_US": ""
+              "en_US": "Passe Ausente"
             }
           }
         }

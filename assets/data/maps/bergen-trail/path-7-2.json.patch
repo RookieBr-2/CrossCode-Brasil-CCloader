@@ -138,7 +138,7 @@
           "2": {
             "message": {
               "": "Hey!\\. Stop there, ye astray summerbirds!",
-              "en_US": "Ei!\\. Parem aí, seus pássaros de verão perdidos!"
+              "en_US": "Ei!\\. Parem aí, seus pássaros marginais!"
             }
           },
           "3": {
@@ -155,7 +155,7 @@
           "14": {
             "message": {
               "": "Ah, reinforcements, eh?",
-              "en_US": "Ah, reforços, eh?"
+              "en_US": "Ah, reforços, é isso?"
             }
           },
           "15": {
@@ -172,7 +172,7 @@
           "17": {
             "message": {
               "": "Nice time to arrive, with me having some trouble here, I say.",
-              "en_US": "Boa hora para chegar, estava tendo alguns problemas aqui, posso dizer."
+              "en_US": "Chegou na hora certa, estava tendo alguns problemas aqui."
             }
           },
           "18": {
@@ -201,7 +201,7 @@
           "28": {
             "message": {
               "": "Me?\\. I got me my foot hurt, so keeping them in place was the best I could do.\\. I will cheer for you though!",
-              "en_US": "Eu?\\. Fiquei com o pé doendo, então mantê-los no lugar foi o melhor que pude fazer. \\. Vou torcer por você!"
+              "en_US": "Eu?\\. Machuquei meu pé, então o melhor que pude fazer foi manter esses pilantras aqui.\\. Vou torcer por você!"
             }
           },
           "29": {
@@ -224,7 +224,7 @@
           "45": {
             "message": {
               "": "Arr, curses, that crate got away!\\. Who knows what darn things were inside!",
-              "en_US": "Arr, maldição, aquele caixote escapou! \\. Quem sabe o que diabos havia lá dentro!"
+              "en_US": "Desgraça! Levaram o caixote!\\. Quem sabe o que diabos tinha lá dentro!"
             }
           },
           "46": {
@@ -235,7 +235,7 @@
           "47": {
             "message": {
               "": "Well, you better still clean up the area.\\. I must take a rest to tend to my wounds!",
-              "en_US": "Bem, é melhor você ainda limpar a área.\\. Preciso descansar para cuidar das minhas feridas!"
+              "en_US": "Bem, é melhor você cuidar desses pilantras.\\. Preciso descansar para cuidar do meu pezinho!"
             }
           },
           "48": {
@@ -265,7 +265,7 @@
           "21": {
             "message": {
               "": "Hey, \\v[lore.title.seeker]!\\. You really saved my bacon here.\\. Thought I was done for, I did!",
-              "en_US": "Ei, \\v[lore.title.seeker]!\\. Você realmente salvou meu bacon aqui.\\. Pensei que estava acabada, eu fiz!"
+              "en_US": "Ei, \\v[lore.title.seeker]!\\. Você salvou minha pele aqui.\\. Achei que estava ferrada!"
             }
           },
           "22": {
@@ -276,7 +276,7 @@
           "23": {
             "message": {
               "": "Them birds got away with that crate, though.\\. I hope that won't stir up troubles.",
-              "en_US": "Mas aqueles pássaros fugiram com aquela caixa.\\. Espero que isso não crie problemas."
+              "en_US": "Mas aqueles pássaros fugiram com aquela caixa.\\. Espero que isso não gere problemas."
             }
           },
           "24": {
@@ -288,13 +288,13 @@
           "25": {
             "message": {
               "": "Well, you don't know what advanced goat tech they're bringing back to their patch.",
-              "en_US": "Bem, você não sabe a tecnologia avançada de cabra que eles estão trazendo de volta ao seu lugar."
+              "en_US": "Não sabemos que tipo de tecnologia avançada eles podem ter adquirido."
             }
           },
           "26": {
             "message": {
               "": "I better hurry to file me a report at the HQ.\\. And you should get into a talk with the chief over this.",
-              "en_US": "É melhor me apressar e apresentar um relatório no QG.\\. E você deve conversar com a chefe sobre isso."
+              "en_US": "É melhor me apressar e apresentar um relatório no QG.\\. Sugiro que fale com a Sgt. Sterling sobre isso."
             }
           },
           "27": {
@@ -311,7 +311,7 @@
           "29": {
             "message": {
               "": "Well, gotta bounce and get some time off.\\. Cheerio, \\v[lore.title.seeker]!",
-              "en_US": "Bem, tenho que pular e tirar uma folga.\\. Cheerio, \\v[lore.title.seeker]!"
+              "en_US": "Tenho que ir logo e tirar uma folga.\\. Até breve, \\v[lore.title.seeker]!"
             }
           },
           "35": {

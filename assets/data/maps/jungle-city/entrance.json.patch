@@ -82,7 +82,7 @@
               "3": {
                 "message": {
                   "": "Eeeek... T-that thing looked way less scary in the photos.",
-                  "en_US": "Eeeek... A-aquela coisa parecia bem menos assustadora nas fotos."
+                  "en_US": "Caramba... a-aquela coisa parecia bem menos assustadora nas fotos."
                 }
               },
               "4": {
@@ -94,7 +94,7 @@
               "5": {
                 "message": {
                   "": "And you really already fought it before, \\v[lore.title.seeker]??",
-                  "en_US": "E você realmente já lutou contra isso antes, \\v[lore.title.seeker]??"
+                  "en_US": "E você realmente já lutou contra ele antes, \\v[lore.title.seeker]??"
                 }
               },
               "6": {
@@ -106,7 +106,7 @@
               "7": {
                 "message": {
                   "": "Wow, so impressive!\\.\\. I'll trust you to watch my back then, while I weaken it with our salt!",
-                  "en_US": "Uau, que impressionante!\\.\\. Vou confiar em você para cuidar das minhas costas, enquanto eu as enfraqueço com nosso sal!"
+                  "en_US": "Uau, que impressionante!\\.\\. Vou confiar em você para me proteger, enquanto eu o enfraqueço com nosso sal!"
                 }
               },
               "8": {
@@ -149,7 +149,7 @@
           "30": {
             "message": {
               "": "\\v[lore.title.seeker], it's good that you survived this rampage.\\. Are you feeling well?",
-              "en_US": "\\v[lore.title.seeker], é bom que você tenha sobrevivido a essa bagunça.\\. Você está se sentindo bem?"
+              "en_US": "\\v[lore.title.seeker], é bom saber que você sobreviveu a todo esse caos.\\. Você está se sentindo bem?"
             }
           },
           "31": {
@@ -166,7 +166,7 @@
           "33": {
             "message": {
               "": "Good.\\. You've done well at least venting its anger.\\. I truly never saw such an unstoppable corrupted force before.",
-              "en_US": "Bom.\\. Você fez bem pelo menos em descarregar sua raiva.\\. Eu realmente nunca vi uma força corrompida tão imparável antes."
+              "en_US": "Bom, pelo menos você fez ele liberar sua raiva.\\. Eu nunca vi uma força corrompida como essa antes."
             }
           },
           "34": {
@@ -178,13 +178,13 @@
           "35": {
             "message": {
               "": "It was deeply corrupted, charged with massive toxic energy that even concentrated blasts of \\c[3]Wave\\c[0] could not disperse.",
-              "en_US": "Estava profundamente corrompido, carregado com uma enorme energia tóxica que mesmo explosões concentradas de \\c[3]Onda\\c[0] não conseguiam dispersar."
+              "en_US": "Era uma corrupção profunda, cheia de energia tóxica tão intensa que explosões concentradas de \\c[3]Onda\\c[0] não conseguiram desfazê-la."
             }
           },
           "36": {
             "message": {
               "": "Such a threat will need special treatment to pacify.\\. One that can't be found within \\v[area.jungle.name].",
-              "en_US": "Tal ameaça precisará de tratamento especial para ser pacificada.\\. Um que não pode ser encontrado em \\v[area.jungle.name]."
+              "en_US": "Essa ameaça vai precisar de um tratamento especial para ser contida."
             }
           },
           "37": {
@@ -196,7 +196,7 @@
           "38": {
             "message": {
               "": "To cleanse such powerful toxic energy we must apply an equally powerful force of energized salt.",
-              "en_US": "Para limpar essa energia tóxica poderosa, devemos aplicar uma força igualmente poderosa de sal energizado."
+              "en_US": "Para limpar essa energia tóxica poderosa, precisamos usar uma força igualmente potente de sal energizado."
             }
           },
           "39": {
@@ -208,7 +208,7 @@
           "40": {
             "message": {
               "": "Go meet \\c[3]Linde\\c[0] on the \\c[3]Isle of Legend\\c[0] in \\c[3]\\v[area.beach.name]\\c[0] and help her extract it!",
-              "en_US": "Vá conhecer \\c[3]Linde\\c[0] na \\c[3]Ilha da Lenda\\c[0] em \\c[3]\\v[area.beach.name]\\c[0] e ajude-a a extraí-lo!"
+              "en_US": "Encontre \\c[3]Linde\\c[0] na \\c[3]Ilha da Lenda\\c[0] no \\c[3]\\v[area.beach.name]\\c[0] e ajude ela a extrair o sal!"
             }
           },
           "41": {
@@ -302,7 +302,7 @@
           "3": {
             "message": {
               "": "Such dense toxicity!",
-              "en_US": "Tão densa toxicidade!"
+              "en_US": "Que toxicidade intensa!"
             }
           },
           "4": {
@@ -332,7 +332,7 @@
                 "7": {
                   "message": {
                     "": "Hey there, \\v[lore.title.seeker]!\\. Ready to save the city? I sure am!",
-                    "en_US": "Olá, \\v[lore.title.seeker]!\\. Pronto para salvar a cidade? Eu com certeza!"
+                    "en_US": "Olá, \\v[lore.title.seeker]!\\. Pronta para salvar a cidade? Eu com certeza!"
                   }
                 },
                 "9": {
@@ -346,7 +346,7 @@
                     "2": {
                       "message": {
                         "": "Alright!\\. I will get all of that ghost's toxic attention so you better be ready!",
-                        "en_US": "Tudo bem!\\. Vou conseguir toda a atenção tóxica desse fantasma, então é melhor você estar pronta!"
+                        "en_US": "Tudo bem!\\. Vou atrair a atenção tóxica desse fantasma, então é melhor você estar pronta!"
                       }
                     }
                   },
@@ -395,7 +395,7 @@
                   "0": {
                     "message": {
                       "": "Getting dizzy...",
-                      "en_US": "Ficando tonta..."
+                      "en_US": "Estou fcando tonta..."
                     }
                   },
                   "1": {
@@ -410,7 +410,7 @@
                       "0": {
                         "message": {
                           "": "Don't want to stress you, but this is getting a bit painful...",
-                          "en_US": "Não quero te estressar, mas isso está ficando um pouco doloroso..."
+                          "en_US": "Não quero te estressar, mas isso está começando a ficar doloroso...."
                         }
                       },
                       "1": {
@@ -425,7 +425,7 @@
                           "0": {
                             "message": {
                               "": "Ouchie... this ghost's hits are as nasty as its looks.",
-                              "en_US": "Ouchie... os golpes deste fantasma são tão desagradáveis quanto sua aparência."
+                              "en_US": "Aiii... os golpes deste fantasma são tão desagradáveis quanto sua aparência."
                             }
                           }
                         }
@@ -457,7 +457,7 @@
           "0": {
             "text": {
               "": "[ ESCORT HEAL ]",
-              "en_US": "[ CURAR ESCOLTA ]"
+              "en_US": "[ CURA DE LINDE ]"
             }
           }
         }
@@ -475,7 +475,7 @@
           "10": {
             "message": {
               "": "Use this wave-charger thingie to get him behind those walls!",
-              "en_US": "Use esse carregador de ondas para colocá-lo atrás daquelas paredes!"
+              "en_US": "Use esse compressor de ondas para atingir-lo atrás daquelas paredes!"
             }
           },
           "11": {
@@ -498,7 +498,7 @@
           "41": {
             "message": {
               "": "W-we did it?\\. Right?\\. Did we...?",
-              "en_US": "E-conseguimos?\\. Certo?\\. Nós...?"
+              "en_US": "Nós...\\. c-conseguimos?"
             }
           },
           "42": {
@@ -516,13 +516,13 @@
           "45": {
             "message": {
               "": "Meet!",
-              "en_US": "Conheçer!"
+              "en_US": "Encontrar!"
             }
           },
           "46": {
             "message": {
               "": "\\v[lore.title.seeker], this was such a thrill!\\. I was really worried, but you made me pull through, thank you!",
-              "en_US": "\\v[lore.title.seeker], foi uma grande emoção!\\. Eu estava realmente preocupada, mas você me fez sobreviver, obrigado!"
+              "en_US": "\\v[lore.title.seeker], isso foi uma loucura!\\. Eu estava com muito medo, mas você me fez sobreviver, obrigada!"
             }
           },
           "47": {
@@ -533,13 +533,13 @@
           "48": {
             "message": {
               "": "Oh gosh... I'm so giddy but I better go back to report on our success, before my people worry.",
-              "en_US": "Ah poxa... Estou tão tonta, mas é melhor eu voltar para relatar nosso sucesso, antes que meu pessoal se preocupe."
+              "en_US": "Ah poxa... estou tão tonta, é melhor eu voltar para relatar nosso sucesso, antes que o pessoal se preocupe."
             }
           },
           "49": {
             "message": {
               "": "So... see you around!\\. And don't forget to pay us another visit to get the reward.\\. Bye!",
-              "en_US": "Então... nos vemos por aí!\\. E não se esqueça de nos fazer outra visita para receber a recompensa.\\. Tchau!"
+              "en_US": "Então... nos vemos por aí!\\. E não se esqueça de aparecer no QG para receber a recompensa.\\. Tchau!"
             }
           },
           "50": {

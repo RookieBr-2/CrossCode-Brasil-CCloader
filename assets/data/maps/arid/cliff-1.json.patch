@@ -184,12 +184,12 @@
           "25": {
             "message": {
               "": "There is time for that later, we need to hurry!",
-              "en_US": "Há tempo para isso mais tarde, precisamos nos apressar!"
+              "en_US": "Deixe isso para mais tarde, precisamos nos apressar!"
             }
           },
           "70": {
             "message": {
-              "": "Hm."
+              "": "Hm..."
             }
           },
           "71": {
@@ -236,7 +236,7 @@
           "86": {
             "message": {
               "": "He cannot risk reporting this through official channels!",
-              "en_US": "Ele não pode arriscar relatar isso através dos canais oficiais!"
+              "en_US": "Ele não pode se arriscar a reportar isso pelos canais oficiais!"
             }
           },
           "91": {
@@ -260,25 +260,25 @@
           "98": {
             "message": {
               "": "So what is it you are after?\\. The server?",
-              "en_US": "Então, o que você está procurando?\\. O servidor?"
+              "en_US": "Então, o que vocês estão procurando?\\. O servidor?"
             }
           },
           "99": {
             "message": {
               "": "It will be impossible for you to reach.",
-              "en_US": "Será impossível para você chegar."
+              "en_US": "Vocês jamais irão achar."
             }
           },
           "100": {
             "message": {
               "": "And even if you did, its data will be lost before you get there.",
-              "en_US": "E mesmo que você tenha feito isso, seus dados serão perdidos antes de você chegar lá."
+              "en_US": "E mesmo que consigam, os dados serão deletados antes de vocês chegarem lá."
             }
           },
           "104": {
             "message": {
               "": "And then you'd lose the sole copy of every Evotar.",
-              "en_US": "E então você perderia a única cópia de cada Evotar."
+              "en_US": "Se fizer isso, você perderá a única cópia de cada Evotar."
             }
           },
           "105": {
@@ -290,7 +290,7 @@
           "107": {
             "message": {
               "": "That's right!",
-              "en_US": "Está certo!"
+              "en_US": "Isso mesmo!"
             }
           },
           "108": {
@@ -308,7 +308,7 @@
           "113": {
             "message": {
               "": "You'd be wise not to overestimate my attachment to all of this.",
-              "en_US": "Vocês seriam sábios em não superestimar meu apego a tudo isso."
+              "en_US": "Seria um erro pensar que tenho um apego forte a tudo isso."
             }
           },
           "114": {
@@ -326,7 +326,7 @@
           "139": {
             "message": {
               "": "But I won't let you stroll around unhindered.",
-              "en_US": "Mas eu não vou deixar vocês andarem por aí sem impedimentos."
+              "en_US": "Mas não vou permitir que vocês andem por aí à vontade."
             }
           },
           "160": {

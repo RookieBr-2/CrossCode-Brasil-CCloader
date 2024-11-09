@@ -35,7 +35,7 @@
           "0": {
             "text": {
               "": "I am Speed!",
-              "en_US": "Caramba, tenho que ir!"
+              "en_US": "Nunca mais entro no blog do Zé Graça!"
             }
           }
         }
@@ -47,31 +47,31 @@
           "0": {
             "text": {
               "": "How business is booming!",
-              "en_US": "Como os negócios estão crescendo!"
+              "en_US": "A Crosscoin está bombando!"
             }
           },
           "1": {
             "text": {
               "": "Yes, I also love business booming.",
-              "en_US": "Sim, eu também adoro o crescimento dos negócios."
+              "en_US": "Sim, eu também adoro o aumento da Crosscoin."
             }
           },
           "2": {
             "text": {
               "": "Can't believe those stocks.",
-              "en_US": "Não posso acreditar nessas ações."
+              "en_US": "Não consigo acreditar nesses preços!"
             }
           },
           "3": {
             "text": {
               "": "Stocks are at an all time high.",
-              "en_US": "As ações estão sempre em alta."
+              "en_US": "As criptos estão sempre em alta."
             }
           },
           "4": {
             "text": {
               "": "So thankful nobody ever abolished those. ",
-              "en_US": "É uma sorte que ainda ninguém as rejeitou."
+              "en_US": "É uma sorte que ninguém tenha desistido delas ainda."
             }
           },
           "5": {
@@ -89,13 +89,13 @@
           "0": {
             "text": {
               "": "You log into a game and think you can escape the whole business thing.",
-              "en_US": "Você entra em um jogo e pensa que pode escapar de toda essa coisa de negócios."
+              "en_US": "Você entra em um jogo e pensa que pode escapar do mundo dos negócios."
             }
           },
           "1": {
             "text": {
               "": "And the game just throws a whole business district in your face.",
-              "en_US": "E o jogo apenas joga um distrito comercial inteiro na sua cara."
+              "en_US": "E o jogo joga um distrito comercial inteiro na sua cara."
             }
           },
           "2": {
@@ -107,13 +107,13 @@
           "3": {
             "text": {
               "": "Imagine all those NPCs being alive, doomed to walk around in inflexible pants and jackets.",
-              "en_US": "Imagine todos aqueles NPCs vivos, condenados a andar em calças e jaquetas inflexíveis."
+              "en_US": "Imagine todos aqueles NPCs, condenados a usar aquelas roupas desconfortáveis."
             }
           },
           "4": {
             "text": {
               "": "Urgh, let's not think about it too much. I just wanna chill and grind some loot.",
-              "en_US": "Urgh, não vamos pensar muito nisso. Eu só quero relaxar e fazer alguns saques."
+              "en_US": "Urgh, não vamos pensar nisso. Eu só quero relaxar e coletar loot."
             }
           }
         }
@@ -125,25 +125,25 @@
           "0": {
             "text": {
               "": "I'm surprised to find such rough terrain in the middle of the city.",
-              "en_US": "Estou surpreso de encontrar um terreno tão acidentado no meio da cidade."
+              "en_US": "Não esperava encontrar um terreno assim no meio da cidade."
             }
           },
           "1": {
             "text": {
               "": "Me too, but I guess that is the freedom game developers have.",
-              "en_US": "Eu também, mas acho que essa é a liberdade criativa que os desenvolvedores de jogos têm."
+              "en_US": "Eu também, mas acredito que isso é parte da liberdade criativa dos desenvolvedores de jogos."
             }
           },
           "2": {
             "text": {
               "": "Also it's probably used for another elaborate puzzle.",
-              "en_US": "Também é provavelmente usado para outro enigma elaborado."
+              "en_US": "É bem possível que isso seja parte de um puzzle maluco."
             }
           },
           "3": {
             "text": {
               "": "Heh\\., they do love their puzzles.",
-              "en_US": "Ha\\., eles adoram os próprios enigmas."
+              "en_US": "Ha\\., eles adoram os próprios puzzles."
             }
           }
         }
@@ -203,13 +203,13 @@
                     "4": {
                       "message": {
                         "": "Me and my ship have solved many crimes in the past and this one won't be any different!",
-                        "en_US": "Minha nave e eu resolvemos muitos crimes no passado e esse não vai ser diferente!"
+                        "en_US": "Meu carro e eu resolvemos muitos crimes no passado e esse não vai ser diferente!"
                       }
                     },
                     "5": {
                       "message": {
                         "": "As it happens, I've just received reports that \\c[3]dirt-filled cars\\c[0] have been spotted on our highways!",
-                        "en_US": "Por acaso, acabo de receber relatos de que \\c[3]carros cheios de sujeira\\c[0] foram avistados em nossas rodovias!"
+                        "en_US": "Por acaso, acabo de receber relatos de que \\c[3]carros cheios de terra\\c[0] foram avistados em nossas rodovias!"
                       }
                     },
                     "6": {
@@ -248,7 +248,7 @@
                     "3": {
                       "message": {
                         "": "I will take the wheel while you \\c[3]stand on the roof\\c[0] for greater mobility!",
-                        "en_US": "Eu assumirei o volante enquanto você \\c[3]fica no telhado\\c[0] para maior mobilidade!"
+                        "en_US": "Eu assumirei o volante enquanto você \\c[3]fica no teto do carro\\c[0] para maior mobilidade!"
                       }
                     },
                     "4": {
@@ -285,7 +285,7 @@
                     "2": {
                       "message": {
                         "": "We have to catch those thieves in the act!",
-                        "en_US": "Temos que pegar esses ladrões em flagrante!"
+                        "en_US": "Temos que pegar essas ladras em flagrante!"
                       }
                     }
                   },
@@ -346,7 +346,7 @@
               "3": {
                 "message": {
                   "": "This area is locked for unauthorized trespassers!\\. Move along, there is nothing to see here!",
-                  "en_US": "Essa área está fechada para pessoas não autorizadas!\\. Saia, não há nada para ver aqui!"
+                  "en_US": "Essa área está restrita a pessoas não autorizadas!\\. Saia, não há nada para ver aqui!"
                 }
               },
               "4": {
@@ -358,7 +358,7 @@
               "5": {
                 "message": {
                   "": "I am unauthorized to tell and you are not authorized to know!\\. And now, leave!",
-                  "en_US": "Não estou autorizado a contar e você não está autorizada a saber!\\. E agora, saia!"
+                  "en_US": "Não estou autorizado a contar e você não está autorizada a saber!\\. Agora, saia!"
                 }
               },
               "6": {
@@ -386,7 +386,7 @@
                 "7": {
                   "message": {
                     "": "This area is locked for unauthorized trespassers!\\. Move along, there is nothing to see here!",
-                    "en_US": "Essa área está fechada para pessoas não autorizadas!\\. Saia, não há nada para ver aqui!"
+                    "en_US": "Essa área está restrita a pessoas não autorizadas!\\. Saia, não há nada para ver aqui!"
                   }
                 },
                 "8": {
@@ -398,7 +398,7 @@
                 "9": {
                   "message": {
                     "": "I see, I see.\\. You are one of the \\v[lore.title.seeker]s, on an official mission from a local guard.",
-                    "en_US": "Entendo, entendo.\\. Você é uma das \\v[lore.title.seeker]s, em uma missão oficial de uma guarda local."
+                    "en_US": "Entendi.\\. Você está em uma missão oficial da guarda local."
                   }
                 },
                 "10": {
@@ -410,7 +410,7 @@
                 "11": {
                   "message": {
                     "": "Those country bumpkins from \\v[area.bergen.name] sure put a lot of trust into some adventurer.",
-                    "en_US": "Aqueles caipiras de \\v[area.bergen.name] certamente depositaram muita confiança em algum aventureiro."
+                    "en_US": "Parece que os caipiras de \\v[area.bergen.name] depositam muita confiança em uma aventureira."
                   }
                 },
                 "12": {
@@ -422,13 +422,13 @@
                 "13": {
                   "message": {
                     "": "Relax, I'm not interested in arguing over the \"\\v[lore.title.seeker] Defense Assistance\"-clause with you or my supervisors.",
-                    "en_US": "Relaxe, eu não tenho vontade de discutir com você ou com meus superiores sobre a cláusula de \"Assistência de Defesa do Seeker\","
+                    "en_US": "Relaxe, não quero discutir com você ou com meus superiores sobre a cláusula de \"Assistência de Defesa do Seeker\","
                   }
                 },
                 "14": {
                   "message": {
                     "": "You can handle this... goat problem that Bergen left to us.\\. I will even give you an up-to-date briefing, how's that?",
-                    "en_US": "Você pode lidar com este... problema da cabra, que Bergen deixou para nós.\\. Eu até lhe darei informações atualizadas, que tal?"
+                    "en_US": Você pode resolver esse... problema das cabras de Bergen.\\. Eu até posso te passar informações atualizadas, que tal?"
                   }
                 },
                 "15": {
@@ -457,7 +457,7 @@
                 "17": {
                   "message": {
                     "": "Okay, listen.\\. Those goats you are hunting have violently occupied the building behind us.",
-                    "en_US": "Certo, ouça.\\. As cabras que você está caçando, ocuparam o prédio atrás de nós."
+                    "en_US": "Ouça.\\. As cabras que você está caçando, ocuparam o prédio atrás de nós."
                   }
                 },
                 "22": {
@@ -468,7 +468,7 @@
                 "24": {
                   "message": {
                     "": "It's the \\c[3]Rhombus Parks Embassy\\c[0].\\. Takes care of the local parks and sends researchers to the mainland.",
-                    "en_US": "É a \\c[3]\\c[0]Embaixada dos Parques Losango.\\. Ela cuida dos parques locais e envia pesquisadores para o continente."
+                    "en_US": "Essa é a \\c[3]\\c[0]Embaixada dos Parques Losango.\\. Ela cuida dos parques locais e envia pesquisadores para o continente."
                   }
                 },
                 "25": {
@@ -490,7 +490,7 @@
                 "33": {
                   "message": {
                     "": "Point is, \\v[lore.title.seeker], they are occupying the building, holding hostages and they keep bleating all day.",
-                    "en_US": "O ponto é, \\v[lore.title.seeker], eles estão ocupando o edifício, mantendo reféns e eles continuam balindo o dia todo."
+                    "en_US": "O problema é que, elas estão no edifício, mantendo reféns e balindo o dia todo."
                   }
                 },
                 "34": {
@@ -536,7 +536,7 @@
               "2": {
                 "message": {
                   "": "Go inside and detain those terrorist goats, \\v[lore.title.seeker]!\\. We will continue to secure the area here.",
-                  "en_US": "Entre e detenha essas cabras terroristas, \\v[lore.title.seeker]!\\. Continuaremos a proteger a área aqui."
+                  "en_US": "Vá e enfrente essas cabras terroristas, \\v[lore.title.seeker]!\\. Nós ficamos aqui protegendo a área."
                 }
               }
             }
@@ -557,7 +557,7 @@
               "3": {
                 "message": {
                   "": "\\v[lore.title.seeker], things are very quiet now.\\. Did you defuse the situation?",
-                  "en_US": "\\v[lore.title.seeker], as coisas estão muito calmas agora.\\ Você conseguiu resolver a situação?"
+                  "en_US": "\\v[lore.title.seeker], as coisas estão calmas agora.\\. Você conseguiu resolver a situação?"
                 }
               },
               "4": {
@@ -569,7 +569,7 @@
               "5": {
                 "message": {
                   "": "Impressive.\\. You can now get your reward from whoever you got the assignment from.\\. We will take it from here.",
-                  "en_US": "Impressionante.\\. Agora você pode receber sua recompensa de quem quer que você tenha recebido a tarefa. Nós assumiremos a partir daqui."
+                  "en_US": "Impressionante.\\. Agora você pode pegar sua recompensa de quem lhe deu a missão.\\. Nós tomaremos conta do resto."
                 }
               },
               "6": {

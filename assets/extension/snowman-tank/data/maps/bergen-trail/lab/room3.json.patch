@@ -261,7 +261,7 @@
             "8": {
               "message": {
                 "": "Hello and welcome.\\. I'm \\c[3]Xavier Bonegate\\c[0] speaking for \\c[3]Heavy Hardware Inc\\c[0].\\. How are you?",
-                "en_US": "Olá e bem-vinda.\\. Sou \\c[3]Xavier Bonegate\\c[0] falando pela \\c[3]Dispositivos Pesados Inc\\c[0].\\. Como você está?"
+                "en_US": "Olá e bem-vinda.\\. Sou \\c[3]Xavier Bonegate\\c[0] falando pela \\c[3]Equipamentos Pesados S.A.\\c[0].\\. Como você está?"
               }
             },
             "9": {
@@ -273,25 +273,25 @@
             "10": {
               "message": {
                 "": "For example, we are proud to report great successes in the field of fuel-independent, heavy ordnance vehicles.",
-                "en_US": "Por exemplo, temos o orgulho de relatar grandes sucessos no campo de veículos de artilharia pesada, independentes de combustível."
+                "en_US": "Por exemplo, temos a satisfação de anunciar grandes realizações no campo de veículos de artilharia pesada que funcionam sem combustível."
               }
             },
             "11": {
               "message": {
                 "": "For now this technology is primarily geared towards the use in warfare.\\. To protect our settlements and advance to new, dangerous territories.",
-                "en_US": "Por enquanto, essa tecnologia é voltada principalmente para o uso em guerra.\\. Para proteger nossos assentamentos e avançar para territórios novos e perigosos."
+                "en_US": "No momento, essa tecnologia é principalmente destinada ao uso em guerra.\\. Para proteger nossas colônias e conquistar novos territórios."
               }
             },
             "12": {
               "message": {
                 "": "Energy of the Track, directly woven into every step of our production process, is granting us never before seen efficiency.",
-                "en_US": "A Energia da Trilha, integrada diretamente em cada etapa do nosso processo de produção, está nos garantindo uma eficiência nunca vista antes."
+                "en_US": "Com a Energia da Trilha integrada em cada fase do nosso processo produtivo, estamos alcançando uma eficiência sem igual."
               }
             },
             "13": {
               "message": {
                 "": "The challenges of working with such a new form of energy are great, but by employing the best experts we will be able to reap the rewards.",
-                "en_US": "Os desafios de trabalhar com uma forma tão nova de energia são grandes, mas ao empregar os melhores especialistas, seremos capazes de colher os frutos."
+                "en_US": "Trabalhar com uma forma tão nova de energia traz grandes desafios, mas ao contar com os melhores especialistas, seremos capazes de obter os resultados desejados."
               }
             },
             "14": {
@@ -303,7 +303,7 @@
             "15": {
               "message": {
                 "": "We were able to create vehicles for them that they could easily control without using their hands.",
-                "en_US": "Conseguimos criar veículos para eles, para controlarem facilmente sem usar as mãos."
+                "en_US": "Conseguimos desenvolver veículos que eles podem controlar facilmente sem usar as mãos."
               }
             },
             "16": {
@@ -347,25 +347,25 @@
                 "1": {
                   "text": {
                     "": "\\c[1]INTERNAL MAIL, OUTGOING\\c[0]\n\n\\c[3]FROM:\\c[0] Bergen Facility, Office 21b\n\\c[3]TO:\\c[0] \"Heavy Hardware\", Management\n\n\\c[3]Subject:\\c[0] BOXES???",
-                    "en_US": "\\c[1]EMAIL INTERNO, DE SAÍDA\\c[0]\n\n\\c[3]DE:\\c[0] Instalação de Bergen, Escritório 21b\n\\c[3]PARA:\\c[0] \"Dispositivos Pesados\", Gestão\n\n\\c[3]Assunto:\\c[0] CAIXAS???"
+                    "en_US": "\\c[1]EMAIL INTERNO, DE SAÍDA\\c[0]\n\n\\c[3]DE:\\c[0] Instalação de Bergen, Escritório 21b\n\\c[3]PARA:\\c[0] \"Equipamentos Pesados\", Gestão\n\n\\c[3]Assunto:\\c[0] CAIXAS???"
                   }
                 },
                 "2": {
                   "text": {
                     "": "Greetings,\n\nwhat is this? Why are there suddenly boxes blocking the entrance to our office?\n\nSincerely,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "Saudações,\n\no que é isso? Por que de repente há caixas bloqueando a entrada de nosso escritório?\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "Saudações,\n\nO que está acontecendo? Por que, de repente, a entrada do nosso escritório está bloqueada por caixas?\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 },
                 "3": {
                   "text": {
                     "": "\\c[1]INTERNAL MAIL, OUTGOING\\c[0]\n\n\\c[3]FROM:\\c[0] Bergen Facility, Office 21b\n\\c[3]TO:\\c[0] \"Heavy Hardware\", Management\n\n\\c[3]Subject:\\c[0] RE: RE: BOXES???",
-                    "en_US": "\\c[1]EMAIL INTERNO, DE SAÍDA\\c[0]\n\n\\c[3]DE:\\c[0] Instalação de Bergen, Escritório 21b\n\\c[3]PARA:\\c[0] \"Dispositivos Pesados\", Gestão\n\n\\c[3]Assunto:\\c[0] RE: RE: CAIXAS???"
+                    "en_US": "\\c[1]EMAIL INTERNO, DE SAÍDA\\c[0]\n\n\\c[3]DE:\\c[0] Instalação de Bergen, Escritório 21b\n\\c[3]PARA:\\c[0] \"Equipamentos Pesados\", Gestão\n\n\\c[3]Assunto:\\c[0] RE: RE: CAIXAS???"
                   }
                 },
                 "4": {
                   "text": {
                     "": "A safety precaution in case of another breakout? What are we on this side to do then, hide under the tables?\nIt's bad enough that the Track seems to constantly reshape our facility and place weird stuff everywhere. Now we also have to deal with our colleagues, putting boxes in the way.",
-                    "en_US": "Uma precaução de segurança, em caso de outra fuga? O que vamos fazer deste lado então, nos esconder debaixo das mesas?\nJá é ruim o suficiente a Trilha parecer remodelar constantemente nossas instalações e colocar coisas estranhas em todos os lugares. Agora também temos que lidar com nossos colegas colocando caixas no caminho."
+                    "en_US": "É uma precaução de segurança para outra fuga? O que faremos neste lado, nos esconder debaixo das mesas? Já é ruim o suficiente a Trilha estar sempre remodelando nossas instalações e colocando coisas estranhas por toda parte. Agora também temos que lidar com colegas bloqueando o caminho com caixas."
                   }
                 },
                 "5": {
@@ -377,13 +377,13 @@
                 "6": {
                   "text": {
                     "": "\\c[1]INTERNAL MAIL, OUTGOING\\c[0]\n\n\\c[3]FROM:\\c[0] Bergen Facility, Office 21b\n\\c[3]TO:\\c[0] \"Heavy Hardware\", Management\n\n\\c[3]Subject:\\c[0] RE: RE: RE: RE: BOXES???",
-                    "en_US": "\\c[1]EMAIL INTERNO, DE SAÍDA\\c[0]\n\n\\c[3]DE:\\c[0] Instalação de Bergen, Escritório 21b\n\\c[3]PARA:\\c[0] \"Dispositivos Pesados\", Gestão\n\n\\c[3]Assunto:\\c[0] RE: RE: RE: RE: CAIXAS???"
+                    "en_US": "\\c[1]EMAIL INTERNO, DE SAÍDA\\c[0]\n\n\\c[3]DE:\\c[0] Instalação de Bergen, Escritório 21b\n\\c[3]PARA:\\c[0] \"Equipamentos Pesados\", Gestão\n\n\\c[3]Assunto:\\c[0] RE: RE: RE: RE: CAIXAS???"
                   }
                 },
                 "7": {
                   "text": {
                     "": "YOU are a bad team player!!1\nAnd what do you mean, \"Boxes are quite popular these days.\"? They are IN THE WAY. We can't work like that!\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "VOCÊ é um péssimo jogador de equipe!!1\nE o que quer dizer com \"As caixas são bastante populares hoje em dia\"? Elas estão NO CAMINHO. Não podemos trabalhar assim!\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "VOCÊ é um péssimo colega de equipe!!1\nE o que você quer dizer com \"As caixas são muito populares agora\"? Elas estão NO CAMINHO! Assim não dá para trabalhar!\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 }
               }

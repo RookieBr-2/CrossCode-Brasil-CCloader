@@ -611,7 +611,7 @@
                 "3": {
                   "message": {
                     "": "\\v[lore.title.seeker], great to see you again.\\. You worked up a fine, respectable reputation here and everywhere.",
-                    "en_US": "\\v[lore.title.seeker], ótimo vê-la novamente.\\. Você conquistou uma boa e respeitável reputação aqui e em todos os lugares."
+                    "en_US": "\\v[lore.title.seeker], é ótimo vê-la novamente.\\. Você conquistou uma reputação sólida e respeitável aqui e em vários outros lugares."
                   }
                 },
                 "4": {
@@ -622,7 +622,7 @@
                 "5": {
                   "message": {
                     "": "Having you back could really ease our nerves here.\\. Some trouble has been rekindling in the underbrush.",
-                    "en_US": "Ter você de volta pode aliviar nossos nervos.\\. Alguns problemas foram reacendidos no mato."
+                    "en_US": "Ter você de volta nos traz alívio.\\. Alguns problemas reacenderam na mata."
                   }
                 },
                 "6": {
@@ -634,7 +634,7 @@
                 "7": {
                   "message": {
                     "": "Yes, \\v[lore.title.seeker].\\. The corruption you uprooted has returned and now it's even come right to our doorstep.",
-                    "en_US": "Sim, \\v[lore.title.seeker].\\. A corrupção que você desarraigou voltou e agora chegou até a nossa porta."
+                    "en_US": "Sim, \\v[lore.title.seeker].\\. A corrupção que você extinguiu reapareceu e agora chegou até nossa porta."
                   }
                 },
                 "8": {
@@ -645,7 +645,7 @@
                 "9": {
                   "message": {
                     "": "Will you lend us your aid again, so we can bring back peace and balance once and for all?",
-                    "en_US": "Você nos emprestará sua ajuda novamente, para que possamos trazer de volta a paz e o equilíbrio de uma vez por todas?"
+                    "en_US": "Você poderia nos ajudar mais uma vez, para que possamos restaurar a paz e o equilíbrio de uma vez por todas?"
                   }
                 },
                 "10": {
@@ -670,25 +670,25 @@
                     "3": {
                       "message": {
                         "": "We were notified of troubling incidents that gave off a similar energy reading as those corrupted plants you pacified.",
-                        "en_US": "Fomos notificados de incidentes preocupantes que emitiram uma leitura de energia semelhante àquelas plantas corrompidas que você pacificou."
+                        "en_US": "Fomos informados sobre incidentes alarmantes com uma leitura de energia semelhante à das plantas corrompidas que você neutralizou."
                       }
                     },
                     "4": {
                       "message": {
                         "": "But this time the attacks targeted people as close as the \\c[3]City Entrance\\c[0]!",
-                        "en_US": "Mas desta vez os ataques atingiram pessoas tão próximas quanto a \\c[3]Entrada da Cidade\\c[0]!"
+                        "en_US": "Mas desta vez, agora os ataques chegaram até a \\c[3]Entrada da Cidade\\c[0]!"
                       }
                     },
                     "5": {
                       "message": {
                         "": "...!\\. How?",
-                        "en_US": "...!\\. Como?"
+                        "en_US": "Como!?"
                       }
                     },
                     "6": {
                       "message": {
                         "": "That is for you to find out, \\v[lore.title.seeker]!\\. Search for anomalies right at the entrance and try to cleanse them.",
-                        "en_US": "Você deve descobrir, \\v[lore.title.seeker]!\\. Procure por anomalias logo na entrada e tente limpá-las."
+                        "en_US": "Você deve descobrir, \\v[lore.title.seeker]!\\. Identifique as anomalias na entrada e tente eliminá-las."
                       }
                     },
                     "7": {
@@ -714,7 +714,7 @@
                     "1": {
                       "message": {
                         "": "\\v[lore.title.seeker], please.\\. This is a matter of critical importance.\\. It might even threaten the entire city!",
-                        "en_US": "\\v[lore.title.seeker], por favor.\\. Esse é um assunto de crítica importância.\\. Pode até ameaçar a cidade inteira!"
+                        "en_US": "\\v[lore.title.seeker], por favor.\\. Este é um assunto de suma importância.\\. A segurança de toda a cidade pode estar em risco!"
                       }
                     },
                     "2": {
@@ -752,7 +752,7 @@
               "2": {
                 "message": {
                   "": "Go meet \\c[3]Linde\\c[0] on the \\c[3]Isle of Legend\\c[0] in \\c[3]\\v[area.beach.name]\\c[0] and help her extract it!",
-                  "en_US": "Vá encontrar \\c[3]Linde\\c[0] na \\c[3]Ilha da Lenda\\c[0] em \\c[3]\\v[area.beach.name]\\c[0] e ajude-a a extrair!"
+                  "en_US": "Encontre \\c[3]Linde\\c[0] na \\c[3]Ilha da Lenda\\c[0] no \\c[3]\\v[area.beach.name]\\c[0] e ajude-a a extrair o sal!"
                 }
               }
             }
@@ -786,7 +786,7 @@
                 "5": {
                   "message": {
                     "": "Fascinating how much power is stored in this substance..\\. This should even cleanse that toxic spirit.",
-                    "en_US": "Fascinante quanta energia é armazenada nesta substância..\\. Isso deve até mesmo limpar aquele espírito tóxico."
+                    "en_US": "É incrível quanta energia essa substância armazena.\\. Deve ser o suficiente para purificar aquele espírito tóxico."
                   }
                 },
                 "6": {
@@ -797,13 +797,13 @@
                 "7": {
                   "message": {
                     "": "However, your support is still needed, \\v[lore.title.seeker].",
-                    "en_US": "No entanto, seu apoio ainda é necessário, \\v[lore.title.seeker]."
+                    "en_US": "Mas ainda precisamos do seu apoio, \\v[lore.title.seeker]."
                   }
                 },
                 "8": {
                   "message": {
                     "": "Meet up with Linde at the entrance of the city.\\. She will cleanse the ghost while you protect her.",
-                    "en_US": "Encontre-se com Linde na entrada da cidade.\\. Ela vai limpar o fantasma enquanto você a protege."
+                    "en_US": "Encontre-se com Linde na entrada da cidade.\\. Ela vai purificar o fantasma enquanto você a protege."
                   }
                 },
                 "9": {
@@ -821,7 +821,7 @@
                 "11": {
                   "message": {
                     "": "Indeed, together with her you will bring back peace to this city.\\. We are counting on you.",
-                    "en_US": "De fato, junto com ela você trará de volta a paz a esta cidade.\\. Estamos contando com você."
+                    "en_US": "Juntas, vocês podem trazer a paz para esta cidade.\\. Contamos com sua ajuda."
                   }
                 },
                 "12": {
@@ -843,7 +843,7 @@
               "2": {
                 "message": {
                   "": "Go meet \\c[3]Linde\\c[0] at the \\c[3]city entrance\\c[0]. Together you must lay the toxic spirit to rest!",
-                  "en_US": "Vá encontrar \\c[3]Linde\\c[0] na \\c[3]entrada da cidade\\c[0]. Juntos, vocês devem colocar o espírito tóxico para descansar!"
+                  "en_US": "Encontre \\c[3]Linde\\c[0] na \\c[3]entrada da cidade\\c[0]. Juntas, vocês devem fazer o espírito tóxico descansar!"
                 }
               }
             }
@@ -865,7 +865,7 @@
                 "3": {
                   "message": {
                     "": "Hey, \\v[lore.title.seeker]!\\. There's our savior, returning from her legendary deed!",
-                    "en_US": "Ei, \\v[lore.title.seeker]!\\. Lá está nossa salvadora, retornando de seu feito lendário!"
+                    "en_US": "Ei, \\v[lore.title.seeker]!\\. Aí está nossa salvadora, retornando de seu feito lendário!"
                   }
                 },
                 "4": {
@@ -876,7 +876,7 @@
                 "5": {
                   "message": {
                     "": "There is no need for this humble silence, \\v[lore.title.seeker].\\. You have truly done great.",
-                    "en_US": "Não há necessidade desse silêncio humilde, \\v[lore.title.seeker].\\. Você realmente fez muito bem."
+                    "en_US": "Não tem por que manter esse silêncio humilde, \\v[lore.title.seeker].\\. Você realmente se saiu muito bem."
                   }
                 },
                 "6": {
@@ -887,7 +887,7 @@
                 "7": {
                   "message": {
                     "": "There is no telling what would have happened later, if no one had taken care of this infectious unrest.",
-                    "en_US": "Não há como dizer o que teria acontecido mais tarde, se ninguém tivesse cuidado dessa agitação infecciosa."
+                    "en_US": "É impossível dizer o que teria acontecido depois, caso ninguém tivesse controlado aquela agitação infecciosa."
                   }
                 },
                 "8": {
@@ -917,7 +917,7 @@
                 "12": {
                   "message": {
                     "": "\\v[lore.title.seeker], you have my thanks.\\. Please always consider yourself a friend of this city.\\. Take care!",
-                    "en_US": "\\v[lore.title.seeker], você tem meus agradecimentos.\\. Por favor, considere-se sempre uma amiga desta cidade.\\. Se cuide!"
+                    "en_US": "\\v[lore.title.seeker], sou muito grato.\\. Você sempre será uma amiga desta cidade.\\. Se cuide!"
                   }
                 },
                 "13": {

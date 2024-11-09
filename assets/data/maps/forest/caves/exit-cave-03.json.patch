@@ -19,7 +19,7 @@
               "7": {
                 "message": {
                   "": "Now that I think about it...\\. I really acted like the worst, non?",
-                  "en_US": "Agora que penso nisso...\\. Eu realmente agi muito mal com você, non?"
+                  "en_US": "Pensando bem...\\. eu fui bem estúpida com você, non?"
                 }
               },
               "8": {
@@ -54,13 +54,13 @@
               "22": {
                 "message": {
                   "": "I...\\. I just didn't know any better, but still...\\. I'm sorry.",
-                  "en_US": "Eu...\\. Eu só não sabia da nada, mas ainda sim...\\. Me perdoe."
+                  "en_US": "Eu...\\. não fazia ideia de nada, mas mesmo assim...\\. Me perdoe."
                 }
               },
               "31": {
                 "message": {
                   "": "I just want you to know that you really are a dear friend to me. ",
-                  "en_US": "Eu só quero que saiba que você é realmente uma amiga querida para mim."
+                  "en_US": "Quero que saiba que você é realmente uma amiga querida para mim."
                 }
               },
               "32": {
@@ -88,7 +88,7 @@
               "36": {
                 "message": {
                   "": "It really is a bummer, that Tronny isn't around for all of this.",
-                  "en_US": "É realmente uma pena, que Tronny não esteja por perto neste momento."
+                  "en_US": "É uma pena que o Tronny não esteja aqui com a gente agora."
                 }
               },
               "37": {
@@ -105,7 +105,7 @@
               "39": {
                 "message": {
                   "": "He really is such a dork. A nice dork, though.",
-                  "en_US": "Ele é realmente um grande idiota. Mas é um bom idiota."
+                  "en_US": "Ele é um grande idiota. Mas é um bom idiota."
                 }
               },
               "40": {
@@ -155,7 +155,7 @@
               "6": {
                 "message": {
                   "": "Wait...\\. Do you want me to drop the \"Spheromancer\" part as well? ",
-                  "en_US": "Espere...\\. Você quer que eu deixe também a parte do \"Esferomante\"?"
+                  "en_US": "Espere...\\. Você quer que eu pare de falar \"Esferomante\"?"
                 }
               },
               "7": {
@@ -167,7 +167,7 @@
               "8": {
                 "message": {
                   "": "I'm afraid I'd never do that.",
-                  "en_US": "Temo que nunca faria isso."
+                  "en_US": "Não acho que seria capaz de fazer isso."
                 }
               },
               "9": {
@@ -196,7 +196,7 @@
               "13": {
                 "message": {
                   "": "Lea...\\. so now that the truth is out, it seems I was right!",
-                  "en_US": "Lea...\\. então agora que a verdade foi revelada, parece que eu estava certo!"
+                  "en_US": "Lea...\\. agora que a verdade veio à tona, parece que eu estava certo!"
                 }
               },
               "15": {
@@ -255,13 +255,13 @@
                   "0": {
                     "message": {
                       "": "I beseech you to find the means to disable that \\c[1]disgraceful damage glitch\\c[0]!",
-                      "en_US": "Eu lhe suplico que encontre algum meio de desativar esse \\c[1]vergonhoso bug no dano\\c[0]!"
+                      "en_US": "Eu peço, por favor, que encontre algum meio de desativar esse \\c[1]vergonhoso bug de dano\\c[0]!"
                     }
                   },
                   "1": {
                     "message": {
                       "": "Only then can you master this game as a true, honorable Spheromancer!",
-                      "en_US": "Só então você poderá masterizar este jogo como um verdadeiro e honrado Esferomante!"
+                      "en_US": "Só então você poderá masterizar este jogo como uma verdadeira e honrada Esferomante!"
                     }
                   },
                   "2": {
@@ -297,7 +297,7 @@
                   "3": {
                     "message": {
                       "": "Looking back, I have to say it has been an honor to have had you as such a capable opponent.",
-                      "en_US": "Olhando para trás, devo dizer que tem sido uma honra tê-la como uma oponente tão capaz."
+                      "en_US": "Olhando para trás, devo dizer que foi uma honra ter você como uma oponente tão habilidosa."
                     }
                   },
                   "4": {
@@ -310,7 +310,7 @@
                       "0": {
                         "message": {
                           "": "And indeed, you've shown me that there is still potential for me to grow as well.",
-                          "en_US": "E de fato, você me mostrou que ainda há potencial para eu desenvolver também."
+                          "en_US": "E, de fato, você me fez perceber que ainda há potencial para meu aprimoramento."
                         }
                       },
                       "1": {
@@ -344,7 +344,7 @@
               "22": {
                 "message": {
                   "": "Now it's time for our greatest act of justice so far! I hope you are ready!",
-                  "en_US": "Agora é a hora de nosso maior ato de justiça até agora! Espero que você esteja pronta!"
+                  "en_US": "Agora é a hora de nosso maior ato de justiça! Espero que você esteja pronta!"
                 }
               },
               "23": {
@@ -393,7 +393,7 @@
               "7": {
                 "message": {
                   "": "But really, Lea, you're a strong girl.",
-                  "en_US": "Mas de fato, Lea, você é uma garota forte."
+                  "en_US": "Lea, você é uma garota forte."
                 }
               },
               "8": {
@@ -405,7 +405,7 @@
               "9": {
                 "message": {
                   "": "Yet here you are, still happily saying \"Hi\" to everyone.",
-                  "en_US": "Ainda assim, você está aqui, dizendo alegremente \"Oi\" a todos."
+                  "en_US": "Mesmo assim, você está aqui, dizendo um alegre \"Oi\" a todos."
                 }
               },
               "10": {
@@ -423,7 +423,7 @@
               "12": {
                 "message": {
                   "": "It's always a joy to play together with you!",
-                  "en_US": "É sempre uma satisfação jogar junto com você!"
+                  "en_US": "Foi muito bom jogar junto com você!"
                 }
               },
               "13": {
@@ -431,7 +431,7 @@
                   "0": {
                     "message": {
                       "": "Plus, it was very entertaining to watch you beat up Polly like that.",
-                      "en_US": "Ainda por cima, foi muito divertido ver você bater no Polly daquela maneira."
+                      "en_US": "Além disso, foi bem divertido ver você bater no Polly."
                     }
                   },
                   "1": {
@@ -476,7 +476,7 @@
           "21": {
             "message": {
               "": "Our goal is to assemble as many \\c[3]Evotars\\c[0] as we can find, get them close to the \\c[3]Quest Hub\\c[0] to the east and then subject them to a certain \\c[3]field effect\\c[0].",
-              "en_US": "Nosso objetivo é reunir o maior número possível de \\c[3]Evotares\\c[0] que pudermos encontrar, aproximá-los da \\c[3]Central de Missões\\c[0] no leste e depois submetê-los a um certo \\c[3]efeito de campo\\c[0]."
+              "en_US": "Nosso objetivo é reunir o máximo de \\c[3]Evotares\\c[0] que conseguirmos, levá-los até a \\c[3]Central de Missões\\c[0] no leste e depois submetê-los a um certo \\c[3]efeito de campo\\c[0]."
             }
           },
           "22": {
@@ -488,7 +488,7 @@
           "23": {
             "message": {
               "": "\\c[3]Team A\\c[0] will run straight to the Quest Hub and deal with all Evotars of that area.",
-              "en_US": "\\c[3]A Equipe A\\c[0] correrá diretamente para a Central de Missões e lidará com todos os Evotares daquela área."
+              "en_US": "\\c[3]A Equipe A\\c[0] seguirá direto para a Central de Missões e cuidará de todos os Evotares daquela região."
             }
           },
           "24": {
@@ -517,7 +517,7 @@
           "35": {
             "message": {
               "": "Alright!",
-              "en_US": "Certo!"
+              "en_US": "Beleza!"
             }
           },
           "41": {

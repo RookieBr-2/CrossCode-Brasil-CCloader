@@ -156,13 +156,13 @@
               "7": {
                 "message": {
                   "": "Uhm...?",
-                  "en_US": "Uhm..."
+                  "en_US": "Hmm..."
                 }
               },
               "8": {
                 "message": {
                   "": "So, I always wondered...",
-                  "en_US": "Então, eu sempre me perguntei..."
+                  "en_US": "Então, sempre tive essa dúvida..."
                 }
               },
               "9": {
@@ -186,7 +186,7 @@
               "12": {
                 "message": {
                   "": "That's what everybody was talking about, back then!",
-                  "en_US": "Era disso que todos estavam falando, naquela época!"
+                  "en_US": "Era sobre isso que todos estavam falando antes!"
                 }
               },
               "13": {
@@ -202,7 +202,7 @@
               "15": {
                 "message": {
                   "": "Yeah sorry...\\. I was just too busy checking the cargo back then.",
-                  "en_US": "Sim, desculpe...\\. Eu estava muito ocupado verificando a carga na época."
+                  "en_US": "Sim, desculpe...\\. eu estava muito ocupado verificando a carga na época."
                 }
               },
               "16": {
@@ -613,13 +613,13 @@
               "9": {
                 "message": {
                   "": "Well...\\. To be frank, most of it was that flying blue-orange person.",
-                  "en_US": "Bem...\\. Para ser franco, a maior parte da culpa é daquele indivíduo voador de cor laranja azulada."
+                  "en_US": "Para ser franco, a maior parte da culpa é daquele indivíduo voador de cor azulada."
                 }
               },
               "10": {
                 "message": {
                   "": "Still, I could have sworn our captain strictly banned any running instant matter on deck ever since.",
-                  "en_US": "Ainda assim, eu poderia jurar que nosso capitão proibiu rigorosamente a circulação de qualquer coisa de matéria instantânea no convés desde então."
+                  "en_US": "Mesmo assim, eu poderia jurar que nosso capitão proibiu completamente a circulação de qualquer coisa de matéria instantânea no convés desde então."
                 }
               },
               "11": {
@@ -742,7 +742,7 @@
               "3": {
                 "message": {
                   "": "Oh, look who's back!",
-                  "en_US": "Oh, vejam quem voltou!"
+                  "en_US": "Oh, olha só quem voltou!"
                 }
               },
               "4": {
@@ -759,7 +759,7 @@
               "6": {
                 "message": {
                   "": "Say, do you still remember the experiment we had a while back?",
-                  "en_US": "Você ainda se lembra da experiência que fizemos há algum tempo?"
+                  "en_US": "Você ainda lembra da experiência que fizemos algum tempo atrás?"
                 }
               },
               "7": {
@@ -776,19 +776,19 @@
               "9": {
                 "message": {
                   "": "Yeah...\\. fun times.",
-                  "en_US": "Sim...\\. tempos divertidos."
+                  "en_US": "Sim...\\. foi divertido."
                 }
               },
               "10": {
                 "message": {
                   "": "So guess what?\\. They recently had a breakthrough with instant matter research.",
-                  "en_US": "Então, adivinha?\\. Eles fizeram um avanço recente com a pesquisa de matéria instantânea."
+                  "en_US": "Então, adivinha?\\. Fizeram um avanço recente com a pesquisa de matéria instantânea."
                 }
               },
               "11": {
                 "message": {
                   "": "Turns out they managed to make it water proof!",
-                  "en_US": "Acontece que eles conseguiram torná-la à prova d'água!"
+                  "en_US": "Eles finalmente conseguiram torná-la à prova d'água!"
                 }
               },
               "12": {
@@ -1070,7 +1070,7 @@
               "5": {
                 "message": {
                   "": "I suppose this still works at the moment, since the ship is steering close to the Playground.",
-                  "en_US": "Acho que isso ainda funciona no momento, já que o navio está dirigindo próximo ao Playground."
+                  "en_US": "Parece que isso ainda é possível, pois o navio está navegando perto do Playground."
                 }
               },
               "6": {
@@ -1093,7 +1093,7 @@
               "9": {
                 "message": {
                   "": "Huh...?\\. Why longer trips? ...\\. Sorry, I'm not allowed to share details like that.",
-                  "en_US": "Huh...?\\. Por que longas viagens?...\\. Desculpe, não tenho permissão para compartilhar detalhes sobre isso."
+                  "en_US": "Hã...?\\. Por que viagens longas?...\\. Desculpe, não tenho permissão para falar sobre isso."
                 }
               },
               "10": {
@@ -4239,13 +4239,13 @@
           "0": {
             "text": {
               "": "Alright, I admit it, dude.\\. Your dedicated cleaning got you somewhere!",
-              "en_US": "Tudo bem, eu admito, cara.\\. Sua limpeza dedicada o levou a algum lugar!"
+              "en_US": "Tudo bem, eu admito, cara.\\. Toda essa limpeza te rendeu alguma coisa!"
             }
           },
           "1": {
             "text": {
               "": "Promoted to boatswain this quickly, I'm impressed!",
-              "en_US": "Promovido a contramestre tão rapidamente, estou impressionado!"
+              "en_US": "Você foi promovido a contramestre em um piscar de olhos, impressionante!"
             }
           },
           "2": {
@@ -4257,19 +4257,19 @@
           "3": {
             "text": {
               "": "So...\\. How come you are STILL CLEANING THE SHIP?!",
-              "en_US": "Então...\\. Por que você AINDA ESTÁ LIMPANDO O NAVIO?!"
+              "en_US": "Então...\\. por que você AINDA ESTÁ LIMPANDO O NAVIO?!"
             }
           },
           "4": {
             "text": {
               "": "I told them, I'd only take the position if they still allow me to clean the deck!",
-              "en_US": "Eu lhes disse que só ficaria no cargo se eles ainda me permitissem limpar o convés!"
+              "en_US": "Eu deixei claro que só ficaria no cargo se ainda pudesse limpar o convés!"
             }
           },
           "5": {
             "text": {
               "": "Dude...\\. you're a lost cause.",
-              "en_US": "Cara...\\. Você é um caso perdido."
+              "en_US": "Cara...\\. você é um caso perdido."
             }
           }
         }

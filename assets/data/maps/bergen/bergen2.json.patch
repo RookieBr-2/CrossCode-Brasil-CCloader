@@ -398,7 +398,7 @@
                 "4": {
                   "message": {
                     "": "Oh, a random gift. Swell. We'll take those.",
-                    "en_US": "Ah, um presente aleatório. Legal. Nós vamos levar isso."
+                    "en_US": "Ah, um presente aleatório. Legal. Eu vou ficar com isso."
                   }
                 },
                 "5": {
@@ -1312,13 +1312,13 @@
             "0": {
               "text": {
                 "": "The duel will take place at\n\\c[3]Bergen Trail - Rising Path 1\\c[0].",
-                "en_US": "O duelo terá lugar em \n\\c[3]Bergen Trail - Escalada 1\\c[0]."
+                "en_US": "O duelo acontecerá em\n\\c[3]Trilha de Bergen - Escalada 1\\c[0]."
               }
             },
             "1": {
               "text": {
                 "": "The duel shall start \nwhen the area has been \n\\c[3]ridden of all other opponents\\c[0].",
-                "en_US": "O duelo deve começar \nquando a área estiver \n\\c[3]completamente limpa sem outros oponentes.\\c[0]."
+                "en_US": "O duelo terá início \nassim que todos os outros \n\\c[3]oponentes forem eliminados da área\\c[0]."
               }
             }
           }

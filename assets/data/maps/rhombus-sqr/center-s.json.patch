@@ -371,7 +371,7 @@
           "1": {
             "text": {
               "": "This seriously seems like some kind of hack!\\. Better not get involved!",
-              "en_US": "Isso parece mesmo uma espécie de hack!\\. É melhor não se envolver!"
+              "en_US": "Isso parece algum tipo de hack!\\. É melhor não se envolver!"
             }
           }
         }
@@ -383,13 +383,13 @@
           "0": {
             "text": {
               "": "Those seem out of place...",
-              "en_US": "Esses parecem estar deslocados..."
+              "en_US": "Eles parecem estar deslocados..."
             }
           },
           "1": {
             "text": {
               "": "Yeah, definitely a hack.\\. Better avoid those.",
-              "en_US": "Sim, definitivamente um hack.\\. É melhor evitá-los."
+              "en_US": "Sim, é um hack.\\. É melhor evitá-los."
             }
           }
         }
@@ -401,7 +401,7 @@
           "0": {
             "text": {
               "": "Is...\\. is that a hillkat? How can it dig out of the glass?!",
-              "en_US": "Isso é...\\. isso é um hillkat? Como ele pode cavar através do vidro?!"
+              "en_US": "Isso é...\\. isso é uma topeira? Como ela consegue cavar através do vidro?!"
             }
           },
           "1": {
@@ -430,7 +430,7 @@
           "21": {
             "message": {
               "": "That was quite the mess, wasn't it?",
-              "en_US": "Essa foi uma confusão e tanto, não foi?"
+              "en_US": "Essa foi uma baita confusão, não foi?"
             }
           },
           "22": {
@@ -448,7 +448,7 @@
           "29": {
             "message": {
               "": "Ah, there you are!",
-              "en_US": "Ah, aí está você!"
+              "en_US": "Ah, vocês estão aí!"
             }
           },
           "37": {
@@ -471,7 +471,7 @@
           "51": {
             "message": {
               "": "Well...\\. Ivo wanted me to try out a few things with those enemies.",
-              "en_US": "Bem...\\. Ivo queria que eu tentasse fazer algumas coisas com esses inimigos."
+              "en_US": "Bom...\\. o Ivo queria que eu fizesse alguma coisa com esses inimigos."
             }
           },
           "52": {
@@ -495,7 +495,7 @@
           "56": {
             "message": {
               "": "Wasn't it Ivo, who told us not to draw too much attention?",
-              "en_US": "Não foi o Ivo, que nos disse para não chamarmos muita atenção?"
+              "en_US": "Não foi o Ivo quem nos avisou para não chamarmos muita atenção?"
             }
           },
           "57": {
@@ -507,7 +507,7 @@
           "58": {
             "message": {
               "": "Oh well, whatever!",
-              "en_US": "Ah bem, tanto faz!"
+              "en_US": "Ah, tanto faz!"
             }
           },
           "59": {
@@ -525,19 +525,19 @@
           "61": {
             "message": {
               "": "We wouldn't have had this kind of trouble if you'd just stayed still!",
-              "en_US": "Não teríamos esse tipo de problema se você tivesse ficado parado!"
+              "en_US": "Não teríamos esse problema se você tivesse ficado parado!"
             }
           },
           "62": {
             "message": {
               "": "I still don't get why it was so hard for you to find the arena.",
-              "en_US": "Ainda não entendi por que foi tão difícil para você encontrar a arena."
+              "en_US": "Não entendi até agora por que foi tão difícil pra você achar a arena"
             }
           },
           "63": {
             "message": {
               "": "You could have just \\c[3]teleported\\c[0] here, you know?",
-              "en_US": "Você simplesmente poderia ter se \\c[3]teleportado\\c[0] pra cá. "
+              "en_US": "Você poderia ter se \\c[3]teleportado\\c[0] pra cá. "
             }
           },
           "64": {
@@ -555,7 +555,7 @@
           "66": {
             "message": {
               "": "Did...\\. did you really \\c[3]walk\\c[0] to all those locations?",
-              "en_US": "Você...\\. você realmente \\c[3]andou\\c[0] por todos esses lugares?"
+              "en_US": "Você...\\. você \\c[3]andou literalmente\\c[0] por todos aqueles lugares?"
             }
           },
           "67": {
@@ -587,7 +587,7 @@
           "90": {
             "message": {
               "": "I...\\. probably should have mentioned this earlier.",
-              "en_US": "Eu...\\. deveria ter mencionado isso antes."
+              "en_US": "Eu...\\. devia ter falado isso antes."
             }
           },
           "91": {
@@ -605,13 +605,13 @@
           "93": {
             "message": {
               "": "Let's finally go to the arena!",
-              "en_US": "Vamos finalmente para a arena!"
+              "en_US": "Vamos para a arena!"
             }
           },
           "94": {
             "message": {
               "": "Yes!! Even I should be able to find the right way now!",
-              "en_US": "Sim!! Até eu deveria ser capaz de encontrar o caminho certo agora!"
+              "en_US": "Sim!! Até eu consigo encontrar o caminho certo agora!"
             }
           },
           "95": {

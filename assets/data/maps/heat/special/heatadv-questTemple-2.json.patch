@@ -51,13 +51,13 @@
                 "9": {
                   "message": {
                     "": "\\v[lore.title.seeker], greetings.\\. I have waited for you to return.",
-                    "en_US": "Saudações, \\v[lore.title.seeker]\\. Esperei por seu retorno."
+                    "en_US": "Saudações, \\v[lore.title.seeker].\\. Fiquei esperando você retornar."
                   }
                 },
                 "10": {
                   "message": {
                     "": "We have finally integrated this area into Trackwalker and uncovered the mechanism to reveal the way forward.",
-                    "en_US": "Finalmente, integramos esta área ao sistema da Trilha e descobrimos o mecanismo para revelar o caminho adiante."
+                    "en_US": "Finalmente integramos esta área ao sistema da Trilha e encontramos o mecanismo que abre o caminho."
                   }
                 },
                 "11": {
@@ -79,7 +79,7 @@
                 "37": {
                   "message": {
                     "": "There.\\. Not the most comfortable way, but this hole will lead you deeper inside.",
-                    "en_US": "Pronto.\\. Não é o caminho mais confortável, mas esse buraco irá levar você interior."
+                    "en_US": "Pronto.\\. Não é o trajeto mais agradável, mas esse buraco é a única entrada."
                   }
                 },
                 "38": {
@@ -122,7 +122,7 @@
               "6": {
                 "message": {
                   "": "Ah, I see you have finally found the relic.\\. Quickly bring it to our headquarters so that we can study it!",
-                  "en_US": "Ah, vejo que você finalmente encontrou a relíquia.\\. Traga-a rapidamente para nossa sede, para que possamos estudá-la!"
+                  "en_US": "Ah, parece que você encontrou a relíquia.\\. Por favor, traga-a imediatamente para nossa sede, precisamos estudá-la!"
                 }
               }
             }
@@ -196,7 +196,7 @@
           "30": {
             "message": {
               "": "... and the nature of the sand...\\. it all hints to a hidden way into a deep sanctuary of Ancient nature.",
-              "en_US": "... e a natureza da areia...\\. Tudo aponta para uma passagem secreta para um antigo local ancestral sagrado."
+              "en_US": "... e a natureza da areia...\\. Tudo aponta para uma passagem secreta para um antigo local sagrado."
             }
           },
           "31": {

@@ -484,7 +484,7 @@
           "8": {
             "message": {
               "": "Ah yes, this is it!",
-              "en_US": "Ah sim, é isso!"
+              "en_US": "Ah sim, é este o lugar!"
             }
           },
           "9": {
@@ -512,7 +512,7 @@
           "17": {
             "message": {
               "": "I was waiting here for you to arrive.",
-              "en_US": "Eu estava esperando por você aqui."
+              "en_US": "Eu te esperei aqui."
             }
           },
           "18": {
@@ -530,13 +530,13 @@
           "21": {
             "message": {
               "": "I don't know exactly...\n",
-              "en_US": "Eu não sei exatamente...\n"
+              "en_US": "Não sei exatamente...\n"
             }
           },
           "22": {
             "message": {
               "": "There's this...\\. weird feeling I've had about you. ",
-              "en_US": "Há este... estranho sentimento que tenho em relação a você."
+              "en_US": "Eu tinha...\\. um sentimento estranho em relação a você."
             }
           },
           "23": {

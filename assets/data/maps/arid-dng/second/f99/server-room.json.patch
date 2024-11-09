@@ -30,13 +30,13 @@
           "16": {
             "message": {
               "": "And access to the Environment Server remains blocked.",
-              "en_US": "E o acesso ao Servidor da Environment permanece bloqueado."
+              "en_US": "E o acesso ao Servidor de Ambiente permanece bloqueado."
             }
           },
           "17": {
             "message": {
               "": "Despite...\\. what just happened.",
-              "en_US": "Apesar de...\\. o que acabou de acontecer."
+              "en_US": "Apesar...\\. do que acabou de acontecer."
             }
           },
           "23": {
@@ -93,7 +93,7 @@
           "51": {
             "message": {
               "": "Because...\\. of this \\c[3]business\\c[0].",
-              "en_US": "Por causa...\\. deste \\c[3]negócio\\c[0]."
+              "en_US": "Por causa...\\. do \\c[3]negócio\\c[0] que eu queria manter."
             }
           },
           "55": {
@@ -111,7 +111,7 @@
           "65": {
             "message": {
               "": "That is what you believe, anyway.",
-              "en_US": "É nisso que você acredita, de qualquer forma."
+              "en_US": "É nisso que você acredita, afinal."
             }
           },
           "66": {
@@ -128,7 +128,7 @@
           "69": {
             "message": {
               "": "Yet, it was you...\\. who pushed him into it.",
-              "en_US": "No entanto, foi você...\\. que o empurrou para isso."
+              "en_US": "No entanto, foi você...\\. que o levou a isso."
             }
           },
           "75": {
@@ -140,19 +140,19 @@
           "76": {
             "message": {
               "": "I'm almost surprised this venture went on for as long as it did.",
-              "en_US": "Estou quase surpreso que este empreendimento tenha durado tanto tempo."
+              "en_US": "Quase não consigo acreditar que esse empreendimento tenha durado tanto."
             }
           },
           "77": {
             "message": {
               "": "Let's be honest, this whole interrogation program wasn't exactly a stable business model.",
-              "en_US": "Sejamos honestos, todo esse programa de interrogatório não era exatamente um modelo de negócios estável."
+              "en_US": "Para ser honesto, todo esse esquema de interrogatório não era exatamente um negócio viável."
             }
           },
           "78": {
             "message": {
               "": "Yet, all things considered...\\. it was a success.",
-              "en_US": "No entanto, considerando tudo...\\. foi um sucesso."
+              "en_US": "Apesar de tudo...\\. foi um sucesso."
             }
           },
           "83": {
@@ -205,13 +205,13 @@
           "100": {
             "message": {
               "": "It was just very profitable, really.",
-              "en_US": "Era apenas muito lucrativo, realmente."
+              "en_US": "Na verdade, era muito lucrativo."
             }
           },
           "101": {
             "message": {
               "": "Confidential information can sell incredibly well if you know the right people.",
-              "en_US": "Informações confidenciais podem vender muito bem se você conhecer as pessoas certas."
+              "en_US": "Com os contatos certos, informações confidenciais podem render muito dinheiro."
             }
           },
           "102": {
@@ -228,7 +228,7 @@
           "110": {
             "message": {
               "": "Well, in the end, the power of empathy foiled my plans.",
-              "en_US": "Bem, no final das contas, o poder da empatia frustrou meus planos."
+              "en_US": "Bom, no fim das contas, o poder da empatia atrapalhou meus planos."
             }
           },
           "111": {
@@ -281,7 +281,7 @@
           "122": {
             "message": {
               "": "A decision I now regret...\\. after what happened to Gautham today.",
-              "en_US": "Uma decisão que agora me arrependo...\\. depois do que aconteceu hoje com Gautham."
+              "en_US": "Uma escolha da qual me arrependo agora...\\. depois do que aconteceu hoje com Gautham."
             }
           },
           "123": {
@@ -350,13 +350,13 @@
           "148": {
             "message": {
               "": "Part of me hoped that things could have stayed that way.",
-              "en_US": "Parte de mim esperava que as coisas pudessem ter ficado assim."
+              "en_US": "Parte de mim desejava que as coisas tivessem permanecido daquele jeito."
             }
           },
           "149": {
             "message": {
               "": "That you'd remain oblivious to the truth.",
-              "en_US": "Que você permaneceria inconsciente da verdade."
+              "en_US": "Que você continuaria sem saber a verdade."
             }
           },
           "150": {
@@ -367,13 +367,13 @@
           "151": {
             "message": {
               "": "And then there is the other part...\\. that is glad that you escaped.",
-              "en_US": "E há a outra parte...\\. que está feliz que você escapou."
+              "en_US": "E tem a outra parte...\\. que está feliz que você escapou."
             }
           },
           "152": {
             "message": {
               "": "That you traveled the whole Playground.",
-              "en_US": "Que você viajou por todo o Playground."
+              "en_US": "Assim, você viajou por todo o Playground."
             }
           },
           "153": {
@@ -390,7 +390,7 @@
           "160": {
             "message": {
               "": "It certainly was nice...\\. watching you out there.",
-              "en_US": "Certamente foi bom...\\. observar você lá fora."
+              "en_US": "Foi bom...\\. observar você lá fora."
             }
           },
           "161": {
@@ -407,13 +407,13 @@
           "164": {
             "message": {
               "": "What...\\. the hell?",
-              "en_US": "Que...\\. diabos?"
+              "en_US": "Que...\\. loucura é essa?"
             }
           },
           "169": {
             "message": {
               "": "Leaving...\\. just like this...",
-              "en_US": "Saindo...\\. bem assim..."
+              "en_US": "Saindo...\\. como se nada tivesse acontecido..."
             }
           },
           "172": {
@@ -425,7 +425,7 @@
           "175": {
             "message": {
               "": "And pushed them into your criminal schemes!!",
-              "en_US": "E as empurrou para seus esquemas criminosos!!"
+              "en_US": "E as arrastou para seus planos criminosos!!"
             }
           },
           "178": {
@@ -437,7 +437,7 @@
           "181": {
             "message": {
               "": "How DARE you just walk away like this?!",
-              "en_US": "Como OUSA simplesmente ir embora assim?!"
+              "en_US": "Como OUSA ir embora assim?!"
             }
           },
           "183": {

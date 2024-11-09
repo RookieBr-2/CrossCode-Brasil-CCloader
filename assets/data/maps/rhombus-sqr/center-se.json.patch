@@ -647,7 +647,7 @@
                   "0": {
                     "message": {
                       "": "He really seems to be excited about Evotars. ",
-                      "en_US": "Ele realmente parece estar entusiasmado com Evotares."
+                      "en_US": "Ele parece bastante interessado nos Evotares."
                     }
                   },
                   "1": {
@@ -717,7 +717,7 @@
           "35": {
             "message": {
               "": "I bet he's amazing at \\c[3]BBQs\\c[0],\\. being a proper\\. \\c[3]steakholder\\c[0]\\. and all!",
-              "en_US": "Eu aposto que ele é íncrivel em fazer \\c[3]Churrascos\\c[0],\\. sendo um \\c[3]assionista\\c[0]\\. e etc!"
+              "en_US": "Eu aposto que ele é bom em \\c[3]jogos de RPG\\c[0].\\. Afinal, acionistas sempre querem aumentar o \\c[5]nível\\c[0] das ações e tal!"
             }
           },
           "37": {
@@ -861,7 +861,7 @@
           "2": {
             "text": {
               "": "I mean, of course, we did it.",
-              "en_US": "Quero dizer, é claro, conseguimos."
+              "en_US": "Quer dizer, é claro, conseguimos."
             }
           },
           "3": {

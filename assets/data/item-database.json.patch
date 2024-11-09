@@ -287,7 +287,7 @@
       },
       "description": {
         "": "A delicious meal for fine adventurers. \\c[1]Slow\\c[0], but \\c[2]heals 50% of max HP\\c[0].",
-        "en_US": "Uma deliciosa refeição para boas aventuras. \\c[1]Lento\\c[0], porém \\c[2]cura 50% do Pv máx\\c[0]."
+        "en_US": "Uma deliciosa refeição para boas aventuras. \\c[1]Lento\\c[0], porém \\c[2]cura 50% do HP máx\\c[0]."
       }
     },
     "29": {
@@ -407,7 +407,7 @@
       },
       "description": {
         "": "A sandwich family pack made for long journeys. \\c[1]Slow\\c[0], but \\c[2]heals 70% of max HP\\c[0].",
-        "en_US": "Um pacote familiar de sanduíches para viagens longas. \\c[1]Lento\\c[0], mas \\c[2]Cura 70% do PV máx\\c[0]."
+        "en_US": "Um pacote familiar de sanduíches para viagens longas. \\c[1]Lento\\c[0], mas \\c[2]Cura 70% do HP máx\\c[0]."
       }
     },
     "41": {
@@ -636,7 +636,7 @@
       },
       "description": {
         "": "The ultimate sandwich made by a legendary cook. \\c[2]Heals 80% of max HP\\c[0].",
-        "en_US": "O sanduíche supremo feito por uma cozinheira lendária. \\c[2]Cura 80% do PV máx\\c[0]."
+        "en_US": "O sanduíche supremo feito por uma cozinheira lendária. \\c[2]Cura 80% do HP máx\\c[0]."
       }
     },
     "64": {
@@ -2286,7 +2286,7 @@
       },
       "description": {
         "": "Shad-crafted flowing robes, blessed by the Ancient power of the elements.",
-        "en_US": "Túnicas fluidas criadas pelos Shad, abençoadas pelo poder ancestral dos elementos."
+        "en_US": "Túnicas fluidas criadas pelos Shads, abençoadas pelo poder ancestral dos elementos."
       }
     },
     "216": {
@@ -2760,7 +2760,7 @@
     "262": {
       "name": {
         "": "Royal Hive",
-        "en_US": "Colméia Real"
+        "en_US": "Colmeia Real"
       },
       "description": {
         "": "A special bee hive with the same density as a diamond.",
@@ -4000,7 +4000,7 @@
       },
       "description": {
         "": "Sharp Spikes used as an alternative to metal on pikes by the Shad.",
-        "en_US": "Ponta afiada usada como alternativa ao metal nas lanças dos Shad."
+        "en_US": "Ponta afiada usada como alternativa ao metal nas lanças dos Shads."
       }
     },
     "387": {
@@ -5238,7 +5238,7 @@
       },
       "description": {
         "": "The One True King of the Fruits! \\c[2]Heals 50% of max HP\\c[0].",
-        "en_US": "O Único e Verdadeiro Rei das Frutas! \\c[2]Cura 50% do PV máximo\\c[0]."
+        "en_US": "O Único e Verdadeiro Rei das Frutas! \\c[2]Cura 50% do HP máximo\\c[0]."
       }
     },
     "494": {
@@ -5474,7 +5474,7 @@
       },
       "description": {
         "": "Traditional Chinese cake. \\c[2]Heals 50% of max HP\\c[0]. \\c[1]Slow\\c[0].",
-        "en_US": "Bolo tradicional chinês. \\c[2]Cura 50% do PV max\\c[0]. \\c[1]Lento\\c[0]."
+        "en_US": "Bolo tradicional chinês. \\c[2]Cura 50% do HP max\\c[0]. \\c[1]Lento\\c[0]."
       }
     },
     "517": {
@@ -6953,7 +6953,7 @@
       },
       "description": {
         "": "Allows access to the \\c[3]Tremor Lab\\c[0] in the Eastern part of \\c[3]Cliff Exhibition in \\v[area.rhombus-sqr.name]\\c[0]",
-        "en_US": "Permite o acesso ao \\c[3]Laboratório do Tremor\\c[0] na parte leste da \\c[3]Exibição no Penhasco\\c[0] na \\v[area.rhombus-sqr.name]\\c[0]"
+        "en_US": "Permite acesso ao \\c[3]Laboratório do Tremor\\c[0] na parte leste da \\c[3]Exposição do Penhasco\\c[0]"
       }
     },
     "656": {
@@ -7146,17 +7146,17 @@
     "674": {
       "name": {
         "": "Headset TYPE>:3",
-        "en_US": "Fone de Ouvido TIPO>:3"
+        "en_US": "Fone de Ouvido T3"
       },
       "description": {
         "": "Experimental headphones with ultrasonic devices in the shape of feline ears. \\i[ascended]",
-        "en_US": "Fones de ouvido experimentais com dispositivos ultra-sônicos em forma de orelhas felinas. \\i[ascended]"
+        "en_US": "Fones experimentais com tecnologia ultrassônica em formato de orelhas felinas. \\i[ascended]"
       }
     },
     "675": {
       "name": {
         "": "Nightfeather Coat",
-        "en_US": "Casaco Noturno de Penas"
+        "en_US": "Casaco Noturno"
       },
       "description": {
         "": "Dark suit made from the wings of only the most sinister of birds. \\i[ascended]",

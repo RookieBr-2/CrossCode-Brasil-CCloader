@@ -233,7 +233,7 @@
           "13": {
             "message": {
               "": "Good, I will mark the first spot I have to investigate!",
-              "en_US": "Ótimo, vou marcar o primeiro ponto que tenho que investigar!"
+              "en_US": "Ótimo, vou marcar o primeiro ponto que tenho que inspecionar!"
             }
           },
           "22": {
@@ -275,7 +275,7 @@
               "settings": {
                 "text": {
                   "": "Escortee Life",
-                  "en_US": "PV de Linde"
+                  "en_US": "HP da Linde"
                 },
                 "taskTitle": {
                   "": "Energy",
@@ -339,7 +339,7 @@
                           "0": {
                             "message": {
                               "": "Ouchie... seems like they really are angry.",
-                              "en_US": "Ai... parece que eles realmente estão com raiva."
+                              "en_US": "Aii... parece que eles estão com raiva."
                             }
                           }
                         }

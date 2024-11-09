@@ -52,7 +52,7 @@
           "34": {
             "message": {
               "": "To be honest, I'm not even sure how you're supposed to cook.",
-              "en_US": "Para ser honesta, nem sei como você deve cozinhar."
+              "en_US": "Sinceramente, nem sei como você vai cozinhar."
             }
           },
           "35": {
@@ -181,7 +181,7 @@
           "38": {
             "message": {
               "": "I mean...\\. that's what you do when you are offline, right?",
-              "en_US": "Quero dizer...\\. é isso que você faz quando está offline, certo?"
+              "en_US": "Quer dizer...\\. é isso que você faz quando está offline, não é?"
             }
           },
           "39": {
@@ -199,7 +199,7 @@
           "41": {
             "message": {
               "": "Most of us are already here at \\c[3]Para Island\\c[0]! You should join us soon as well!",
-              "en_US": "A maioria de nós já está aqui na \\c[3]Ilha Para\\c[0]! Você também deve se juntar a nós em breve!"
+              "en_US": "Todo mundo já está aqui na \\c[3]Ilha Para\\c[0]! Você tem que vir logo também!"
             }
           },
           "42": {
@@ -210,7 +210,7 @@
           "43": {
             "message": {
               "": "That sounds like a \"oui\" to me!\\. See you soon!",
-              "en_US": "Isso soa como um \"oui\" para mim!\\. Vejo você em breve!"
+              "en_US": "Isso soa como um \"oui\" pra mim!\\. Vejo você em breve!"
             }
           },
           "49": {
@@ -227,7 +227,7 @@
           "52": {
             "message": {
               "": "Uhm...\\. sorry, I suppose that was a bit sudden.",
-              "en_US": "Hum...\\. desculpe, acho que foi meio repentino."
+              "en_US": "Hmm...\\. desculpe, acho que foi meio repentino."
             }
           },
           "54": {
@@ -244,7 +244,7 @@
           "56": {
             "message": {
               "": "I am finally ready to give you another batch of words!\n",
-              "en_US": "Finalmente estou pronto para dar a você outra quantidade de palavras!\n"
+              "en_US": "Finalmente estou pronto para te dar mais algumas palavras!\n"
             }
           },
           "57": {
@@ -261,7 +261,7 @@
           "59": {
             "message": {
               "": "I still hope to find a better workaround for your speech limitations later on.\n",
-              "en_US": "Ainda espero encontrar uma solução melhor para suas limitações de fala posteriormente.\n"
+              "en_US": "Ainda espero encontrar uma solução melhor para suas limitações de fala no futuro.\n"
             }
           },
           "60": {
@@ -273,7 +273,7 @@
           "62": {
             "object": {
               "": "What",
-              "en_US": "O que"
+              "en_US": "Que"
             }
           },
           "64": {
@@ -296,7 +296,7 @@
           "70": {
             "message": {
               "": "What?",
-              "en_US": "O que?"
+              "en_US": "Que?"
             }
           },
           "72": {
@@ -314,7 +314,7 @@
           "74": {
             "message": {
               "": "Uhm...\\. in your speech module?",
-              "en_US": "Hum...\\. no módulo de fala?"
+              "en_US": "Hmm...\\. no módulo de fala?"
             }
           },
           "75": {
@@ -326,7 +326,7 @@
           "76": {
             "message": {
               "": "You.\\. You have them.",
-              "en_US": "Você.\\. Você tem elas."
+              "en_US": "Você.\\. Você Lea."
             }
           },
           "77": {
@@ -338,7 +338,7 @@
           "78": {
             "message": {
               "": "Yes, yes.\\. I get it.\\. Another endless question loop.",
-              "en_US": "Sim, sim.\\. Entendi.\\. Outro ciclo interminável de perguntas."
+              "en_US": "Tá bom.\\. Entendi.\\. É outro ciclo interminável de perguntas."
             }
           },
           "79": {
@@ -350,7 +350,7 @@
           "80": {
             "message": {
               "": "Shouldn't you go meet everyone for the raid?",
-              "en_US": "Você não deveria encontrar todos para a raid?"
+              "en_US": "Você não deveria ir para a raid logo?"
             }
           },
           "81": {
@@ -379,7 +379,7 @@
           "13": {
             "message": {
               "": "Here I am.",
-              "en_US": "Estou aqui."
+              "en_US": "Cheguei."
             }
           },
           "14": {
@@ -397,7 +397,7 @@
           "24": {
             "message": {
               "": "I think I must have mentioned it a few times back then.",
-              "en_US": "Acho que devo ter mencionado isso algumas vezes na época."
+              "en_US": "Acho que devo ter mencionado isso algumas vezes antes."
             }
           },
           "25": {
@@ -409,7 +409,7 @@
           "26": {
             "message": {
               "": "I had this growing suspicion, that someone was spying on us from within CrossWorlds.",
-              "en_US": "Eu tinha uma suspeita crescente que alguém estava nos espionando de dentro do CrossWorlds."
+              "en_US": "Eu tinha uma suspeita crescente que alguém estava nos espionando em CrossWorlds."
             }
           },
           "27": {
@@ -426,13 +426,13 @@
           "29": {
             "message": {
               "": "Well...\\. as it turned out...",
-              "en_US": "Bem...\\. como aconteceu..."
+              "en_US": "Bom...\\. resumindo..."
             }
           },
           "30": {
             "message": {
               "": "I managed to narrow down all the suspects.",
-              "en_US": "Consegui reduzir todos os suspeitos."
+              "en_US": "Consegui eliminar todos os suspeitos."
             }
           },
           "36": {
@@ -450,7 +450,7 @@
           "39": {
             "message": {
               "": "\\c[3]C'tron\\c[0] was the person watching us...\\. and reporting to \\c[3]Sidwell\\c[0].",
-              "en_US": "\\c[3]C'tron\\c[0] era quem nos observava...\\. e reportava ao \\c[3]Sidwell\\c[0]."
+              "en_US": "\\c[3]C'tron\\c[0] era quem nos espiava...\\. e passava as informações ao \\c[3]Sidwell\\c[0]."
             }
           },
           "40": {
@@ -461,7 +461,7 @@
           "41": {
             "message": {
               "": "What?!",
-              "en_US": "O que?!"
+              "en_US": "Que?!"
             }
           },
           "46": {
@@ -473,19 +473,19 @@
           "49": {
             "message": {
               "": "He was one of the few people you played together with.",
-              "en_US": "Ele era uma das poucas pessoas com quem você jogava junto."
+              "en_US": "Ele era um dos poucos que jogavam com você."
             }
           },
           "50": {
             "message": {
               "": "He also helped the First Scholars to organize the first raid.",
-              "en_US": "Ele também ajudou os Primeiros Estudiosos a organizar a primeira raid."
+              "en_US": "Além disso, ele ajudou os Primeiros Estudiosos a organizar a primeira raid."
             }
           },
           "51": {
             "message": {
               "": "And he even tried to do it a second time.",
-              "en_US": "E ele até tentou fazer isso uma segunda vez."
+              "en_US": "E ele tentou fazer isso uma segunda vez."
             }
           },
           "52": {
@@ -508,7 +508,7 @@
           "55": {
             "message": {
               "": "I soon got an answer...",
-              "en_US": "Logo recebi uma resposta..."
+              "en_US": "Em pouco tempo, recebi uma resposta..."
             }
           },
           "56": {
@@ -525,19 +525,19 @@
           "58": {
             "message": {
               "": "He would stop watching and reporting to Sidwell.",
-              "en_US": "Ele pararia de vigiar e se reportar ao Sidwell."
+              "en_US": "Ele pararia de espionar e de informar ao Sidwell."
             }
           },
           "59": {
             "message": {
               "": "But in return, he asked me to not tell you about him.",
-              "en_US": "Mas, em troca, ele me pediu para não contar a você sobre ele."
+              "en_US": "Mas, em troca, ele pediu que eu não te contasse sobre ele."
             }
           },
           "60": {
             "message": {
               "": "...What?",
-              "en_US": "...O que?"
+              "en_US": "...Que?"
             }
           },
           "61": {
@@ -549,7 +549,7 @@
           "62": {
             "message": {
               "": "Well...\\. I suppose he was afraid that you would not take the news well.",
-              "en_US": "Bem...\\. Suponho que ele temia que você não recebesse bem a notícia."
+              "en_US": "Bom...\\. Acho que ele temia que você não reagisse bem a isso."
             }
           },
           "63": {
@@ -589,7 +589,7 @@
           "69": {
             "message": {
               "": "Among all those Evotars we recovered from that server in Vermillion Wasteland...",
-              "en_US": "Entre todos aqueles Evotares que recuperamos daquele servidor no Deserto Carmesim..."
+              "en_US": "Entre todos aqueles Evotares que recuperamos do servidor no Deserto Carmesim..."
             }
           },
           "70": {
@@ -612,7 +612,7 @@
           "74": {
             "message": {
               "": "What?!",
-              "en_US": "O que?!"
+              "en_US": "Que?!"
             }
           }
         }
@@ -748,19 +748,19 @@
           "41": {
             "message": {
               "": "Yeah, that one isn't for everyone.",
-              "en_US": "Sim, esse não é para todo mundo."
+              "en_US": "Sim, esse não é para qualquer um."
             }
           },
           "42": {
             "message": {
               "": "You definitely won't need this for any hand signs.",
-              "en_US": "Você definitivamente não precisará disso para nenhum sinal."
+              "en_US": "Você não vai usar isso para fazer sinais com as mãos."
             }
           },
           "59": {
             "message": {
               "": "Why...?",
-              "en_US": "Por que?..."
+              "en_US": "Por que...?"
             }
           },
           "60": {
@@ -856,7 +856,7 @@
           "41": {
             "message": {
               "": "That part didn't change at all, huh?",
-              "en_US": "Essa parte não mudou nada, hein?"
+              "en_US": "Você não mudou nada, né?"
             }
           },
           "48": {
@@ -885,7 +885,7 @@
           "52": {
             "message": {
               "": "To be perfectly honest, I needed some distance.",
-              "en_US": "Para ser totalmente honesta, eu precisava de um pouco de distância."
+              "en_US": "Sendo bem honesta, eu precisava me afastar um pouco."
             }
           },
           "53": {
@@ -897,31 +897,31 @@
           "54": {
             "message": {
               "": "Sorry.",
-              "en_US": "Desculpe."
+              "en_US": "Desculpa."
             }
           },
           "55": {
             "message": {
               "": "Still with the apologizing.",
-              "en_US": "Ainda com as desculpas."
+              "en_US": "Ainda com essa mania de se desculpar."
             }
           },
           "56": {
             "message": {
               "": "It's fine.\\. I'm feeling better now.",
-              "en_US": "Está tudo bem.\\. Estou me sentindo melhor agora."
+              "en_US": "Tá tudo bem.\\. Estou me sentindo melhor agora."
             }
           },
           "63": {
             "message": {
               "": "They really did a great job with this village.",
-              "en_US": "Eles realmente fizeram um ótimo trabalho com esta vila."
+              "en_US": "Eles fizeram um ótimo trabalho com essa vila."
             }
           },
           "65": {
             "message": {
               "": "This is such a cute place to stay in.",
-              "en_US": "Este é um lugar bem fofo para ficar."
+              "en_US": "Esse é um lugar bem fofo para ficar."
             }
           },
           "66": {
@@ -933,7 +933,7 @@
           "67": {
             "message": {
               "": "Hey, I was actually planning to pay my brother a small visit as well.",
-              "en_US": "Ei, eu estava planejando fazer uma pequena visita ao meu irmão também."
+              "en_US": "Ei, eu estava pensando em fazer uma visita ao meu irmão."
             }
           },
           "68": {
@@ -962,13 +962,13 @@
           "72": {
             "message": {
               "": "Take your time to get ready, since you just woke up...",
-              "en_US": "Não se apresse em se arrumar, já que acabou de acordar..."
+              "en_US": "Não precisa ter pressa pra se arrumar, você acabou de acordar..."
             }
           },
           "73": {
             "message": {
               "": "Then again, does that even apply for you Evotars?",
-              "en_US": "Por outro lado, isso se aplica a vocês Evotares?"
+              "en_US": "Será que os Evotares precisam tomar banho?"
             }
           },
           "74": {

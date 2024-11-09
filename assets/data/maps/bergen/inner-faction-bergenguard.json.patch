@@ -674,7 +674,7 @@
                 "3": {
                   "message": {
                     "": "\\v[lore.title.seeker], it's been long since we saw you last.\\. Your deeds have really left their mark.",
-                    "en_US": "\\v[lore.title.seeker], faz muito tempo desde a última vez que nos vimos. Seu feitos realmente deixaram sua marca."
+                    "en_US": "\\v[lore.title.seeker], faz tempo que não nos encontramos.\\. Seus feitos deixaram uma marca importante."
                   }
                 },
                 "4": {
@@ -685,7 +685,7 @@
                 "5": {
                   "message": {
                     "": "We also enjoyed a rather stable situation here.\\. The goats have never bothered us.",
-                    "en_US": "Também desfrutamos de uma situação bastante estável.\\. As cabras nunca mais nos incomodaram."
+                    "en_US": "Nossa situação está bem estável agora.\\. As cabras nunca mais voltaram a nos incomodar."
                   }
                 },
                 "6": {
@@ -696,7 +696,7 @@
                 "7": {
                   "message": {
                     "": "Though some recent incidents might be an omen for trouble.",
-                    "en_US": "Embora alguns incidentes recentes possam ser um presságio de problemas."
+                    "en_US": "Embora alguns incidentes recentes possam ser um indício de problemas."
                   }
                 },
                 "8": {
@@ -708,13 +708,13 @@
                 "9": {
                   "message": {
                     "": "Hmph, I am not sure if we should involve a decorated \\v[lore.title.seeker] such as you in such a minor suspicion.",
-                    "en_US": "Hmph, não tenho certeza se devemos envolver uma \\v[lore.title.seeker] condecorada como você numa suspeita tão pequena."
+                    "en_US": "Não sei se devemos envolver uma \\v[lore.title.seeker] condecorada como você numa suspeita tão insignificante."
                   }
                 },
                 "10": {
                   "message": {
                     "": "Do you really want to get behind this?",
-                    "en_US": "Você quer realmente ir atrás disso?"
+                    "en_US": "Você quer mesmo se envolver nisso?"
                   }
                 },
                 "11": {
@@ -728,7 +728,7 @@
                     "1": {
                       "message": {
                         "": "Well, alright.\\. I guess you are worried for those goats as well, eh?",
-                        "en_US": "Bem, ok então.\\. Acho que você também está preocupada sobre as cabras, certo?"
+                        "en_US": "Ok então.\\. Creio que você também está preocupada com as cabras, não é?"
                       }
                     },
                     "2": {
@@ -739,19 +739,19 @@
                     "3": {
                       "message": {
                         "": "Anyway, let me explain.",
-                        "en_US": "De qualquer forma, deixe-me explicar."
+                        "en_US": "Enfim, deixe-me explicar."
                       }
                     },
                     "5": {
                       "message": {
                         "": "Those goats have kept completely to themselves since you handled that last incident.\\. Barely left their cave, even.",
-                        "en_US": "Essas cabras têm-se mantido completamente reservadas desde que você lidou com esse último incidente.\\. Nem mesmo saíram das cavernas."
+                        "en_US": "Desde que você lidou com o último incidente, as cabras estavam completamente reclusas.\\. Nem deram as caras fora das cavernas."
                       }
                     },
                     "6": {
                       "message": {
                         "": "Recently however, they were seen wandering about close to the border of the Bergen region.\\. And they never returned!",
-                        "en_US": "Porém, recentemente, elas foram vistas vagando perto da fronteira da região de Bergen.\\. E nunca mais retornaram!"
+                        "en_US": "Mas, recentemente, elas foram vistas perambulando perto da fronteira da região de Bergen.\\. E nunca mais voltaram!"
                       }
                     },
                     "7": {
@@ -762,13 +762,13 @@
                     "8": {
                       "message": {
                         "": "Maybe it is nothing but we have a duty to get to the bottom of this.",
-                        "en_US": "Talvez não seja nada, mas nós temos o dever de chegar até o fundo disso."
+                        "en_US": "Pode até não ser nada, mas é nosso dever entender o que está acontecendo."
                       }
                     },
                     "9": {
                       "message": {
                         "": "So please, \\v[lore.title.seeker], return to their cave and find out what happened.",
-                        "en_US": "Então, por favor \\v[lore.title.seeker], retorne a caverna delas e descubra o que aconteceu."
+                        "en_US": "Então, por favor \\v[lore.title.seeker], retorne à caverna delas e descubra o que aconteceu."
                       }
                     },
                     "10": {
@@ -878,7 +878,7 @@
                 "3": {
                   "message": {
                     "": "\\v[lore.title.seeker]! There you are.\\. I got the report from our officer and it is truly worrying.",
-                    "en_US": "\\v[lore.title.seeker]! Ai está você.\\. Eu recebi o relatório de um dos nossos oficiais e isso é muito preocupante."
+                    "en_US": "\\v[lore.title.seeker]! você voltou.\\. Recebi o relatório de um oficial, e a situação parece grave."
                   }
                 },
                 "4": {
@@ -890,13 +890,13 @@
                 "5": {
                   "message": {
                     "": "Having organized groups of creatures working together across regions is almost unheard of and could mean a whole host of trouble.",
-                    "en_US": "A existência de grupos organizados de criaturas trabalhando em conjunto entre regiões é quase inédita e pode significar toda uma série de problemas."
+                    "en_US": "A existência de grupos organizados de criaturas trabalhando em conjunto entre regiões é inédita e pode significar uma série de problemas."
                   }
                 },
                 "6": {
                   "message": {
                     "": "You need to investigate this urgently.\\. Scouts have traced that escaped bird towards the jungle of \\c[3]\\v[area.jungle.name]\\c[0].",
-                    "en_US": "Você precisa investigar isso com urgência.\\. Os batedores localizaram a ave que escapou em direção à selva de \\c[3]\\v[area.jungle.name]\\c[0]."
+                    "en_US": "Você precisa investigar isso com urgência.\\. Os guardas seguiram o rastro da ave que fugiu em direção à selva do \\c[3]\\v[area.jungle.name]\\c[0]."
                   }
                 },
                 "7": {
@@ -908,13 +908,13 @@
                 "8": {
                   "message": {
                     "": "Indeed, you should \\c[3]visit the local Guard\\c[0] in \\v[area.jungle-city.name] and cooperate with them.",
-                    "en_US": "De fato, você deve \\c[3]visitar a Guarda local\\c[0] em \\v[area.jungle-city.name] e cooperar com eles."
+                    "en_US": "De fato, você deve \\c[3]visitar a Guarda local\\c[0] na \\v[area.jungle-city.name] e cooperar com eles."
                   }
                 },
                 "10": {
                   "message": {
                     "": "Knowing their chief, \\c[3]Daz Bronzel\\c[0], he will not like this development any more than we do.",
-                    "en_US": "Conhecendo o chefe deles, \\c[3]Daz Bronzel\\c[0], ele não vai gostar do desdobramento dessa situação mais do que nós."
+                    "en_US": "Sei que o sargento \\c[3]Daz Bronzel\\c[0] não vai gostar nada do rumo que isso está tomando."
                   }
                 },
                 "11": {
@@ -925,7 +925,7 @@
                 "12": {
                   "message": {
                     "": "Good, best of luck over there.\\. And give the captain my best regards.",
-                    "en_US": "Certo. boa sorte por lá.\\. E dê ao capitão os meus melhores cumprimentos."
+                    "en_US": "Boa sorte por lá.\\. E mande meus cumprimentos ao sargento."
                   }
                 },
                 "13": {
@@ -953,7 +953,7 @@
               "2": {
                 "message": {
                   "": "\\c[3]Visit the local Guard\\c[0] in \\v[area.jungle-city.name] and talk to \\c[3]Sgt. Bronzel\\c[0].",
-                  "en_US": "\\c[3]Visite a guarda local \\c[0] em \\v[area.jungle-city.name] e fale com \\c[3]Sgt. Bronzel\\c[0]."
+                  "en_US": "\\c[3]Visite a guarda local\\c[0] na \\v[area.jungle-city.name] e fale com o \\c[3]Sgt. Bronzel\\c[0]."
                 }
               },
               "3": {
@@ -1013,7 +1013,7 @@
                 "3": {
                   "message": {
                     "": "\\v[lore.title.seeker], I have already heard the reports.\\. It feels like you travelled half of Shadoon to crack this case.",
-                    "en_US": "\\v[lore.title.seeker], Eu já ouvi os relatórios.\\. Parece que você viajou por metade de Shadoon para resolver este caso."
+                    "en_US": "\\v[lore.title.seeker], já ouvi os relatos.\\. Parece que você atravessou metade de Shadoon para resolver esse caso."
                   }
                 },
                 "4": {
@@ -1024,13 +1024,13 @@
                 "5": {
                   "message": {
                     "": "Impressive work.\\. It seems like coexistence with the goats actually was possible.\\. After some persuasion.",
-                    "en_US": "Trabalho impressionante.\\. Parece que a coexistência com as cabras era de fato possível.\\. Depois de alguma persuasão."
+                    "en_US": "Trabalho impressionante.\\. Parece que a convivência com as cabras era, de fato, possível, depois de um pouco de persuasão."
                   }
                 },
                 "6": {
                   "message": {
                     "": "Word is, they even established a business.\\. Selling goat-related products in some park, if you believe it.",
-                    "en_US": "Dizem que até estabeleceram um negócio.\\. Vendendo produtos relacionados a cabras em algum lugar, se você acredita nisso."
+                    "en_US": "Dizem que até fundaram uma empresa.\\. Vendendo produtos de cabras em algum lugar, você acredita?"
                   }
                 },
                 "7": {
@@ -1041,13 +1041,13 @@
                 "8": {
                   "message": {
                     "": "Well, whatever the case, it is now in the hands of \\v[area.rhombus-sqr.name].",
-                    "en_US": "Bem, seja qual for o caso, isso está agora nas mãos da \\v[area.rhombus-sqr.name]."
+                    "en_US": "Bem, seja qual for o caso, isso agora é responsabilidade da \\v[area.rhombus-sqr.name]."
                   }
                 },
                 "9": {
                   "message": {
                     "": "Hopefully the goats finally found a home there without causing further trouble.",
-                    "en_US": "Espero que as cabras tenham finalmente encontrado lá um lar sem causar mais problemas. "
+                    "en_US": "Espero que as cabras tenham encontrado um lar lá, sem causar mais aborrecimentos."
                   }
                 },
                 "10": {
@@ -1059,7 +1059,7 @@
                 "11": {
                   "message": {
                     "": "As for you, you have once again earned our thanks and this reward.\\. Bergen Village is in your debt!",
-                    "en_US": "Você merece mais uma vez os nossos agradecimentos e essa recompensa. A Vila de Bergen está em divída com você!"
+                    "en_US": "Você merece novamente nossos agradecimentos e esta recompensa.\\. A Vila de Bergen está em divída com você!"
                   }
                 },
                 "12": {

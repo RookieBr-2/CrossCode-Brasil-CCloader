@@ -702,7 +702,7 @@
           "13": {
             "message": {
               "": "The tension between Humans and Shad around here is as bad as it gets.",
-              "en_US": "As tensões entre os humanos e Shad por aqui não poderiam ser piores."
+              "en_US": "As tensões entre os humanos e Shads por aqui não poderiam ser piores."
             }
           },
           "14": {
@@ -894,13 +894,13 @@
             "0": {
               "text": {
                 "": "The duel will take place at\n\\c[3]Gaia's Garden - Overgrown Path\\c[0].",
-                "en_US": "O duelo acontecerá no\n\\c[3]Jardim de Gaia - Caminho Coberto de Mato\\c[0]."
+                "en_US": "O duelo acontecerá em\n\\c[3]Jardim de Gaia - Caminho Coberto de Mato\\c[0]."
               }
             },
             "1": {
               "text": {
                 "": "The duel shall start \nwhen the area has been \n\\c[3]ridden of all other opponents\\c[0].",
-                "en_US": "O duelo começará \nquando a área estiver \n\\c[3]dominada por todos os outros oponentes\\c[0]."
+                "en_US": "O duelo terá início \nassim que todos os outros \n\\c[3]oponentes forem eliminados da área\\c[0]."
               }
             }
           }

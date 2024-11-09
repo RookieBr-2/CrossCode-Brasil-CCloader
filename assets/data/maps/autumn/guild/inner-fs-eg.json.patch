@@ -399,13 +399,13 @@
               "4": {
                 "message": {
                   "": "It's good to have you back!",
-                  "en_US": "É tão te ver de novo!"
+                  "en_US": "É muito bom te ver de novo!"
                 }
               },
               "5": {
                 "message": {
                   "": "Though I have to admit, I'm a bit disappointed about Luke...",
-                  "en_US": "Embora eu tenha que admitir, estou um pouco decepcionado com Luke."
+                  "en_US": "Mas, na real, estou um pouco decepcionado com o Luke..."
                 }
               },
               "6": {
@@ -417,13 +417,13 @@
               "7": {
                 "message": {
                   "": "Somehow I thought none of you Evotars could speak.",
-                  "en_US": "Eu pensava que nenhum de vocês Evotares poderia falar."
+                  "en_US": "Eu pensei que nenhum de vocês, Evotares, podia falar."
                 }
               },
               "8": {
                 "message": {
                   "": "And I was looking forward to some fun conversations with a version of Lukas that can't talk back.",
-                  "en_US": "E eu estava ansioso para ter uma conversa engraçada com uma versão do Lukas que não pode responder."
+                  "en_US": "Eu mal podia esperar para ter uma conversa divertida com uma versão do Lukas que não consegue responder."
                 }
               },
               "9": {
@@ -611,7 +611,7 @@
               "4": {
                 "message": {
                   "": "We're currently busy planning a few details of an upcoming event.",
-                  "en_US": "Estamos atualmente ocupados planejando alguns detalhes de um próximo evento."
+                  "en_US": "Estamos ocupados agora planejando os detalhes de um evento próximo."
                 }
               },
               "5": {
@@ -622,13 +622,13 @@
               "6": {
                 "message": {
                   "": "Oh, I'm sure you're curious what this is about.\\. But I've been told not to spoil anything.",
-                  "en_US": "Oh, tenho certeza que você está curiosa para saber do que se trata. Mas me foi dito para não falar nada."
+                  "en_US": "Ah, você deve estar curiosa, mas me pediram para não falar nada sobre o assunto."
                 }
               },
               "7": {
                 "message": {
                   "": "Hlin and Emilie will have all the news for you in that upcoming meeting!",
-                  "en_US": "Hlin e Emilie vão contar todas as novidades para vocês nessa próxima reunião!"
+                  "en_US": "Hlin e Emilie vão contar todas as novidades na próxima reunião!"
                 }
               }
             }
@@ -1404,13 +1404,13 @@
                 "6": {
                   "message": {
                     "": "Hello, dear! Are you here for the big news?",
-                    "en_US": "Olá querida! Você está aqui para saber a grande notícia?"
+                    "en_US": "Olá querida! Você veio aqui para saber a grande novidade?"
                   }
                 },
                 "7": {
                   "message": {
                     "": "We can start the meeting right away!",
-                    "en_US": "Podemos começar a reunião imediatamente!"
+                    "en_US": "Podemos dar início à reunião agora!"
                   }
                 },
                 "8": {
@@ -5322,7 +5322,7 @@
           "27": {
             "message": {
               "": "He didn't even say goodbye, that dork.",
-              "en_US": "Ele nem mesmo disse adeus, aquele idiota."
+              "en_US": "Ele nem disse adeus, aquele idiota."
             }
           },
           "28": {
@@ -5490,13 +5490,13 @@
           },
           "76": {
             "message": {
-              "": "Uhm..."
+              "": "Hmm..."
             }
           },
           "77": {
             "message": {
               "": "Oh, you mean about what happened before?",
-              "en_US": "Ah, você quer dizer sobre o que aconteceu antes?"
+              "en_US": "Ah, você está se referindo ao que aconteceu antes?"
             }
           },
           "78": {
@@ -5508,7 +5508,7 @@
           "79": {
             "message": {
               "": "Lea, it was just a hug.\\. Don't worry about it.",
-              "en_US": "Lea, foi apenas um abraço.\\. Não se preocupe com isso."
+              "en_US": "Lea, foi só um abraço.\\. Não se preocupe com isso."
             }
           },
           "80": {
@@ -5525,7 +5525,7 @@
           "82": {
             "message": {
               "": "Gyahaha! No really, it's all yesterday's snow to me.",
-              "en_US": "Gyahaha! Não, na verdade, isso tudo são águas passadas para mim."
+              "en_US": "Gyahaha! Na verdade, tudo isso já é passado pra mim."
             }
           },
           "83": {
@@ -5542,7 +5542,7 @@
           "85": {
             "message": {
               "": "Uhm, what now again?",
-              "en_US": "Uhm, o que foi agora?"
+              "en_US": "Hmm, o que foi agora?"
             }
           },
           "91": {
@@ -5553,7 +5553,7 @@
           },
           "95": {
             "message": {
-              "": "Uhm..."
+              "": "Hmm..."
             }
           },
           "96": {
@@ -5565,7 +5565,7 @@
           "97": {
             "message": {
               "": "Just one hug and now you want to meet me privately in there? ",
-              "en_US": "Apenas um abraço e agora você quer ter um econtro privado comigo aqui?"
+              "en_US": "Depois de um abraço, você já quer ter um encontro a sós comigo aqui?"
             }
           },
           "98": {
@@ -5616,7 +5616,7 @@
           "111": {
             "message": {
               "": "Alright! I can get everyone together if you like!",
-              "en_US": "Certo! Eu posso reunir todos se você quiser!"
+              "en_US": "Beleza! Eu posso reunir todos se você quiser!"
             }
           },
           "112": {
@@ -5742,7 +5742,7 @@
           "52": {
             "message": {
               "": "This is a very comfy building for an HQ. I like it.",
-              "en_US": "Este é um edifício muito confortável para um QG. Eu gosto dele."
+              "en_US": "Esse lugar é muito confortável para um QG. Eu gosto dele."
             }
           },
           "54": {
@@ -5754,7 +5754,7 @@
           "59": {
             "message": {
               "": "So finally I meet the famous Grasshead I've heard so much about.",
-              "en_US": "Então, finalmente conheçi o famoso 'Cabeça de Grama' de que tanto ouvi falar."
+              "en_US": "Então, finalmente conheci o famoso 'Cabeça de Grama' de que tanto ouvi falar."
             }
           },
           "60": {
@@ -5766,7 +5766,7 @@
           "63": {
             "message": {
               "": "By the way, aren't we all just Grassheads of different colors?",
-              "en_US": "A propósito, não somos todos apenas cabeças de grama de cores diferentes?"
+              "en_US": "Aliás, não somos todos cabeças de grama de cores diferentes?"
             }
           },
           "64": {
@@ -5851,7 +5851,7 @@
           },
           "108": {
             "message": {
-              "": "Uhm..."
+              "": "Hmm..."
             }
           },
           "109": {
@@ -5932,7 +5932,7 @@
           "132": {
             "message": {
               "": "Lea...\\. is an \\c[3]AI\\c[0]. Her avatar is controlled by an \\c[3]artificial intelligence\\c[0].",
-              "en_US": "Lea...\\. é uma \\c[3]IA\\c[0]. O avatar dela é controlado por uma  \\c[3]inteligência artificial\\c[0]."
+              "en_US": "Lea...\\. é uma \\c[3]IA\\c[0]. O avatar dela é controlado por uma \\c[3]inteligência artificial\\c[0]."
             }
           },
           "135": {
@@ -5985,7 +5985,7 @@
           "157": {
             "message": {
               "": "You definitely fooled me...",
-              "en_US": "Você definitivamente me enganou..."
+              "en_US": "Agora eu me sinto enganado..."
             }
           },
           "161": {
@@ -6015,7 +6015,7 @@
           "170": {
             "message": {
               "": "Lea is a regular avatar, controlled by a very special kind of AI.",
-              "en_US": "Lea é um avatar regular, controlado por um tipo muito especial de IA."
+              "en_US": "Lea é um avatar comum, controlado por um tipo muito especial de IA."
             }
           },
           "171": {
@@ -6033,7 +6033,7 @@
           "181": {
             "message": {
               "": "That is how we learned everything and how we could come up with a plan.",
-              "en_US": "Foi assim que aprendemos tudo e como poderíamos chegar a um plano."
+              "en_US": "Foi assim que compreendemos tudo e conseguimos traçar um plano."
             }
           },
           "182": {
@@ -6069,7 +6069,7 @@
           "196": {
             "message": {
               "": "But what was this part about punching through dungeon walls? That sounded awesome!",
-              "en_US": "Mas o que era essa parte de perfurar as paredes das dungeons? Isso parece impressionante!"
+              "en_US": "Mas e essa história de perfurar as paredes das dungeons? Isso parece incrível!"
             }
           },
           "200": {
@@ -6081,7 +6081,7 @@
           "202": {
             "message": {
               "": "Don't worry, hon.\\. This situation is...\\. very particular.",
-              "en_US": "Não se preocupe, querida.\\. Essa situação é...\\. bastante particular."
+              "en_US": "Não se preocupe, querida.\\. Essa situação é...\\. bem complicada."
             }
           },
           "204": {
@@ -6089,13 +6089,13 @@
               "2": {
                 "message": {
                   "": "So...\\. and about \\c[1]Lea's insanely high attack damage\\c[0]...\\. was that you as well?",
-                  "en_US": "Então...\\. e sobre os \\c[1]danos de ataque insanamente altos da Lea\\c[0]...\\. foi você também?"
+                  "en_US": "Então...\\. e o \\c[1]dano insano da Lea\\c[0]...\\. foi você também?"
                 }
               },
               "4": {
                 "message": {
                   "": "Uhm... yes.\\. It was an experiment that I forgot to remove and can't remove anymore.",
-                  "en_US": "Uhm... sim.\\. Isso foi um experimento que eu esqueci de remover e agora não posso remover mais."
+                  "en_US": "Hmm... sim.\\. Isso foi um experimento que eu esqueci de remover e agora não posso remover mais."
                 }
               },
               "5": {
@@ -6174,13 +6174,13 @@
           "231": {
             "message": {
               "": "Lea is a member of this guild and we should support her.",
-              "en_US": "Lea é uma integrante desta guilda e nós devemos apoiar ela."
+              "en_US": "Lea é uma integrante dessa guilda e nós devemos apoiar ela."
             }
           },
           "232": {
             "message": {
               "": "I mean... sure this situation is crazy and storming Vermillion Wasteland might get us into trouble.",
-              "en_US": "Quero dizer... com certeza essa situação é louca e invadir o Deserto Carmesim pode nos colocar em apuros."
+              "en_US": "Quer dizer... essa situação é maluca, e entrar no Deserto Carmesim pode nos meter em encrenca."
             }
           },
           "233": {
@@ -6198,7 +6198,7 @@
           "238": {
             "message": {
               "": "This sounds like a crazy kind of raid!",
-              "en_US": "Isso soa como uma raid muito louca!"
+              "en_US": "Isso parece uma raid muito louca!"
             }
           },
           "242": {
@@ -6276,7 +6276,7 @@
           "281": {
             "message": {
               "": "Honestly...\\. I never expected this amount of enthusiasm.",
-              "en_US": "Honestamente...\\. Eu nunca esperava ver esta quantidade de entusiasmo."
+              "en_US": "Sinceramente...\\. Eu não imaginava ver tanta empolgação."
             }
           },
           "282": {
@@ -6288,7 +6288,7 @@
           "283": {
             "message": {
               "": "Now we just have to find a good time that fits everyone.",
-              "en_US": "Agora só temos que encontrar um bom momento que sirva a todos."
+              "en_US": "Agora, só precisamos achar um momento adequado para todos."
             }
           },
           "284": {
@@ -6342,7 +6342,7 @@
           "320": {
             "message": {
               "": "Fantastic! Then let us meet in about an hour in front of the \\c[3]Dojo\\c[0] in \\c[3]Sapphire Ridge\\c[0].",
-              "en_US": "Fantástico! Então vamos nos encontrar em cerca de uma hora em frente ao \\c[3]Dojo\\c[0] na \\c[3]Serra da Safira\\c[0]"
+              "en_US": "Fantástico! Então vamos nos encontrar em cerca de uma hora em frente ao \\c[3]Dojo\\c[0] na \\c[3]Serra da Safira\\c[0]."
             }
           },
           "321": {
@@ -6390,13 +6390,13 @@
           "361": {
             "message": {
               "": "Uhm...\\. Sergey?\\. Quick question.",
-              "en_US": "Uhm...\\. Sergey?\\. Uma pergunta rápida."
+              "en_US": "Hmm...\\. Sergey?\\. Tenho uma pergunta."
             }
           },
           "362": {
             "message": {
               "": "You said there was an...\\. Evotar copy of me in Evotarground?\\. Potentially interrogated?",
-              "en_US": "Você disse que existe um...\\. Evotar igual a mim em Evotarground?\\. Provavelmente sendo interrogado?"
+              "en_US": "Você disse que existe um...\\. Evotar igual a mim em Evotarground?\\. Que provavelmente está sendo interrogado?"
             }
           },
           "363": {
@@ -6413,7 +6413,7 @@
           "365": {
             "message": {
               "": "I better logout and quickly change all my credentials!",
-              "en_US": "É melhor eu sair e mudar rapidamente todas as minhas credenciais!"
+              "en_US": "É melhor eu sair e mudar todas as minhas credenciais!"
             }
           },
           "366": {
@@ -6489,7 +6489,7 @@
           "421": {
             "message": {
               "": "I'm gonna kick Sidwell's derrière so hard, he'll never sit well again!!",
-              "en_US": "Eu vou chutar tão forte a derrière do Sidwell, que ele não vai poder sentar direito novamente!!"
+              "en_US": "Eu vou chutar tanto o derrière do Sidwell, que ele não vai poder sentar direito de novo!!"
             }
           },
           "422": {
@@ -7024,7 +7024,7 @@
           "48": {
             "message": {
               "": "Let's cut to the chase!\\. What about Lea?",
-              "en_US": "Vamos direto ao ponto!\\. O que aconteceu com Lea?"
+              "en_US": "Vamos direto ao ponto!\\. O que aconteceu com a Lea?"
             }
           },
           "51": {
@@ -7099,7 +7099,7 @@
               "3": {
                 "message": {
                   "": "Instatainment agreed on a \\c[3]research project\\c[0] within the Playground!",
-                  "en_US": "A Instatainment concordou sobre a criação de um \\c[3]projeto de pesquisa\\c[0] no Playground!"
+                  "en_US": "A Instatainment concordou com a criação de um \\c[3]projeto de pesquisa\\c[0] no Playground!"
                 }
               },
               "4": {
@@ -7205,13 +7205,13 @@
           "51": {
             "message": {
               "": "Oh, you don't remember?",
-              "en_US": "Oh, você não se lembra?"
+              "en_US": "Ah, você não se lembra?"
             }
           },
           "52": {
             "message": {
               "": "I think our...\\. \"split\" must have happened before that, right?\n",
-              "en_US": "Eu acho que a nossa..\\. \"separação\" deve ter acontecido antes disso, certo?\n"
+              "en_US": "Acho que a nossa...\\. \"divisão\" deve ter acontecido antes disso, não é?\n"
             }
           },
           "53": {
@@ -7241,31 +7241,31 @@
           "57": {
             "message": {
               "": "I always wondered how the whole thing would end.\n",
-              "en_US": "Eu sempre me perguntei como tudo isso terminaria.\n"
+              "en_US": "Eu sempre quis saber como tudo isso terminaria.\n"
             }
           },
           "65": {
             "message": {
               "": "Things will work pretty similar to last time.",
-              "en_US": "As coisas funcionarão da mesma forma como antes."
+              "en_US": "Vai ser como foi da última vez."
             }
           },
           "66": {
             "message": {
               "": "We'll split everyone into two teams that run in parallel.",
-              "en_US": "Nós vamos dividr todos em duas equipes que trabalham paralelamente."
+              "en_US": "Nós vamos formar duas equipes que irão trabalhar em paralelo."
             }
           },
           "67": {
             "message": {
               "": "Team one will be \\c[3]Emilie\\c[0], \\c[3]Lea\\c[0] and \\c[3]Luke\\c[0].",
-              "en_US": "O time um terá \\c[3]Emilie\\c[0], \\c[3]Lea\\c[0] e \\c[3]Luke\\c[0]."
+              "en_US": "A equipe um terá \\c[3]Emilie\\c[0], \\c[3]Lea\\c[0] e \\c[3]Luke\\c[0]."
             }
           },
           "68": {
             "message": {
               "": "Team two will be \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0] and \\c[3]me\\c[0]!",
-              "en_US": "O time dois terá \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0] e \\c[3]Eu\\c[0]!"
+              "en_US": "A equipe dois terá \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0] e \\c[3]Eu\\c[0]!"
             }
           },
           "69": {
@@ -7289,7 +7289,7 @@
           "77": {
             "message": {
               "": "Meeting your investor friend again?",
-              "en_US": "Encontrando-se novamente com seu amigo investidor?"
+              "en_US": "Se encontrando outra vez com seu amigo investidor?"
             }
           },
           "78": {
@@ -7301,13 +7301,13 @@
           "82": {
             "message": {
               "": "Of course, the raid will be \\c[3]more difficult\\c[0] this time, since we're all on a higher level.",
-              "en_US": "Claro que a raid será \\c[3]mais difícil\\c[0] dessa vez, porque todos nós estamos com níveis altos."
+              "en_US": "Com certeza a raid será \\c[3]mais difícil\\c[0] desta vez, já que todos nós estamos com níveis altos."
             }
           },
           "83": {
             "message": {
               "": "Even the color matching might be a bit more tricky this time.",
-              "en_US": "Mesmo a correspondência de cores pode ser um pouco mais complicada desta vez."
+              "en_US": "Até a correspondência de cores pode ser um pouco mais complicada desta vez."
             }
           },
           "87": {
@@ -7325,7 +7325,7 @@
           "91": {
             "message": {
               "": "Yes, that's how we did it last time, too.\\. Worked perfectly!",
-              "en_US": "Sim, também foi assim que fizemos da última vez.\\. Funcionou perfeitamente!"
+              "en_US": "Sim, foi assim que fizemos na última vez.\\. Funcionou perfeitamente!"
             }
           },
           "93": {

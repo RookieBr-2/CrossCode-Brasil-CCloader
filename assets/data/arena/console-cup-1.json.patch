@@ -6,7 +6,7 @@
     },
     "info": {
       "": "Redo fights of once \"platform-exclusive\" quests related to \"hardware\"!",
-      "en_US": "Reviva os combates das missões que eram \"exclusivas de plataforma\" relacionadas ao \"hardware\"!"
+      "en_US": "Reviva os combates das missões que eram \"exclusivas de plataforma\"!"
     },
     "creator": {
       "": "The Four Visionaries",
@@ -21,7 +21,7 @@
       },
       "objective": {
         "": "Defeat the \\c[3]\\v[combat.name.hedgehog-fly]s\\c[0] in the secret lab of \\c[3]Avian Appliances\\c[0]!",
-        "en_US": "Derrote os \\c[3]\\v[combat.name.hedgehog-fly]s\\c[0] no laboratório secreto de \\c[3]Avian Appliances\\c[0]!"
+        "en_US": "Derrote os \\c[3]\\v[combat.name.hedgehog-fly]s\\c[0] no laboratório secreto de \\c[3]Dispositivos Aéreos\\c[0]!"
       }
     },
     "1": {
@@ -31,7 +31,7 @@
       },
       "objective": {
         "": "Defeat the \\c[3]\\v[combat.name.minibosses/hedgehag-king]\\c[0] in the secret lab of \\c[3]Avian Appliances\\c[0]!",
-        "en_US": "Derrote o \\c[3]\\v[combat.name.minibosses/hedgehag-king]\\c[0] no laboratório secreto de \\c[3]Avian Appliances\\c[0]!"
+        "en_US": "Derrote o \\c[3]\\v[combat.name.minibosses/hedgehag-king]\\c[0] no laboratório secreto de \\c[3]Dispositivos Aéreos\\c[0]!"
       }
     },
     "2": {
@@ -41,7 +41,7 @@
       },
       "objective": {
         "": "Defeat the \\c[3]\\v[combat.name.jungle/fish-gear]s\\c[0] in the secret lab of \\c[3]Mech Machinery\\c[0]!",
-        "en_US": "Derrote os \\c[3]\\v[combat.name.jungle/fish-gear]s\\c[0] no laboratório secreto de \\c[3]Mech Machinery\\c[0]!"
+        "en_US": "Derrote os \\c[3]\\v[combat.name.jungle/fish-gear]s\\c[0] no laboratório secreto da \\c[3]Máquinas Mecha\\c[0]!"
       }
     },
     "3": {
@@ -51,7 +51,7 @@
       },
       "objective": {
         "": "Defeat the \\c[3]\\v[combat.name.minibosses/fish-mega-gear]\\c[0] in the secret lab of \\c[3]Mech Machinery\\c[0]!",
-        "en_US": "Derrote o \\c[3]\\v[combat.name.minibosses/fish-mega-gear]\\c[0] no laboratório secreto de \\c[3]Mech Machinery\\c[0]!"
+        "en_US": "Derrote o \\c[3]\\v[combat.name.minibosses/fish-mega-gear]\\c[0] no laboratório secreto da \\c[3]Máquinas Mecha\\c[0]!"
       }
     },
     "4": {
@@ -81,7 +81,7 @@
       },
       "objective": {
         "": "Defeat the \\c[3]\\v[combat.name.heat/scorpion-robo]s\\c[0] in the secret lab of \\c[3]High-Pressure Arms\\c[0]!",
-        "en_US": "Derrote os \\c[3]\\v[combat.name.heat/scorpion-robo]s\\c[0] no laboratório secreto de \\c[3]High-Pressure Arms\\c[0]!"
+        "en_US": "Derrote os \\c[3]\\v[combat.name.heat/scorpion-robo]s\\c[0] no laboratório secreto da \\c[3]Armas de Alta Pressão\\c[0]!"
       }
     },
     "7": {
@@ -91,7 +91,7 @@
       },
       "objective": {
         "": "Defeat the \\c[3]\\v[combat.name.minibosses/scorpion-boss]\\c[0] in the secret lab of \\c[3]High-Pressure Arms\\c[0]!",
-        "en_US": "Derrote o \\c[3]\\v[combat.name.minibosses/scorpion-boss]\\c[0] no laboratório secreto de \\c[3]High-Pressure Arms\\c[0]!"
+        "en_US": "Derrote o \\c[3]\\v[combat.name.minibosses/scorpion-boss]\\c[0] no laboratório secreto da \\c[3]Armas de Alta Pressão\\c[0]!"
       }
     }
   }

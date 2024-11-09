@@ -507,7 +507,7 @@
                 "3": {
                   "message": {
                     "": "\\v[lore.title.seeker], your return has been long awaited.\\. The weight of your experiences lays heavy on your aura.",
-                    "en_US": "\\v[lore.title.seeker], seu retorno foi aguardado por muito tempo.\\. O peso das suas experiências pesam na sua aura."
+                    "en_US": "\\v[lore.title.seeker], seu retorno foi aguardado por muito tempo.\\. O peso das suas experiências é evidente em sua aura."
                   }
                 },
                 "4": {
@@ -518,7 +518,7 @@
                 "5": {
                   "message": {
                     "": "Indeed.\\. You have achieved mastery of all the elements passed down by the Ancients.",
-                    "en_US": "Certamente.\\. Você consegiu o domíno de todos os elementos transmitidos pelos Antigos."
+                    "en_US": "Sim.\\. Você conseguiu dominar todos os elementos que foram passados pelos Antigos."
                   }
                 },
                 "6": {
@@ -549,7 +549,7 @@
                     "1": {
                       "message": {
                         "": "An answer as was predestined.\\. You are eager to grasp the light of wisdom.",
-                        "en_US": "Uma resposta como foi predestinada.\\. Você anseia alcançar a luz da sabedoria."
+                        "en_US": "Uma resposta que foi predestinada.\\. Você almeja alcançar a luz da sabedoria."
                       }
                     },
                     "2": {
@@ -560,7 +560,7 @@
                     "3": {
                       "message": {
                         "": "Once again you shall speak with one of my fellow children of the Track.",
-                        "en_US": "Novamente você deve falar com um dos meus companheiros na Trilha."
+                        "en_US": "Você terá que falar novamente com um dos meus companheiros na Trilha."
                       }
                     },
                     "4": {
@@ -605,7 +605,7 @@
                     "23": {
                       "message": {
                         "": "May the Track favor you.",
-                        "en_US": "Que a Trilha lhe favoreça."
+                        "en_US": "Que a Trilha a guie."
                       }
                     },
                     "24": {
@@ -625,7 +625,7 @@
                     "1": {
                       "message": {
                         "": "An answer as was predestined.\\. You are wanting to try your patience before grasping your destiny.\\. Maybe it is wisdom.",
-                        "en_US": "Uma resposta como foi predestinada. Você quer testar a sua paciência antes de alcançar o seu destino.\\. Talvez isso seja escolha sábia."
+                        "en_US": "Uma resposta que foi predestinada.\\. Você deseja testar sua paciência antes de chegar ao seu destino.\\. Talvez seja uma escolha sábia."
                       }
                     },
                     "2": {
@@ -648,7 +648,7 @@
               "2": {
                 "message": {
                   "": "Talk to Monk Cratos to start the last trial.\\. They meditating in our storage chamber, on the other side of this very room.",
-                  "en_US": "Fale com o Monge Cratos para iniciar a última prova.\\. Ele está meditando na nossa câmara de armazenamento, do outro lado desta mesma sala."
+                  "en_US": "Fale com o Monge Cratos para iniciar a prova final.\\. Ele está meditando na nossa câmara de armazenamento, do outro lado desta sala."
                 }
               }
             }
@@ -670,7 +670,7 @@
                 "3": {
                   "message": {
                     "": "\\v[lore.title.seeker], your return has already been expected.\\. I could sense your success in that cave even from here.",
-                    "en_US": "\\v[lore.title.seeker], seu retorno era aguardado.\\. Eu pude sentir o vosso sucesso naquela caverna mesmo estando aqui."
+                    "en_US": "\\v[lore.title.seeker], seu retorno era esperado.\\. Eu pude sentir seu triunfo naquela caverna, mesmo estando aqui."
                   }
                 },
                 "4": {
@@ -681,7 +681,7 @@
                 "5": {
                   "message": {
                     "": "Now, as you have mastered all of our challenges, you are truly a \\v[lore.title.seeker] that has become one with the Track.",
-                    "en_US": "Agora com você superou todos os nossos desafios, você provou ser verdadeiramente uma \\v[lore.title.seeker] que se tornou uma só com a Trilha."
+                    "en_US": "Agora que você superou todos os nossos desafios, você provou ser verdadeiramente uma \\v[lore.title.seeker] que se tornou uma só com a Trilha."
                   }
                 },
                 "6": {
@@ -692,7 +692,7 @@
                 "7": {
                   "message": {
                     "": "With this enlightened sense of purpose, you shall go on to uncover all of its secrets, as it is the purpose of your kind.",
-                    "en_US": "Com este iluminado senso de propósito, você deve prosseguir em desvendar todos os seus segredos, pois é o destino de sua espécie."
+                    "en_US": "Com este iluminado senso de propósito, você deve continuar a desvendar todos os segredos da Trilha, pois é o destino da sua espécie."
                   }
                 },
                 "8": {
@@ -726,7 +726,7 @@
               "2": {
                 "message": {
                   "": "The Track is quiet at this moment, leaving us time to meditate on its purpose.\\. Why not join us?",
-                  "en_US": "A Trilha está tranquila neste momento, deixando-nos tempo para meditar sobre o seu propósito.\\. Porque não juntar-se a nós?"
+                  "en_US": "A Trilha está silenciosa neste momento, nos dando tempo para meditar sobre seu propósito.\\. Por que não se junta a nós?"
                 }
               },
               "3": {
@@ -797,7 +797,7 @@
                 "8": {
                   "message": {
                     "": "The caves are steadfast in their adversity while humans grow ever more complacent.",
-                    "en_US": "As cavernas são inabaláveis em sua adversidade, enquanto os humanos se tornam cada vez mais complacentes."
+                    "en_US": "As cavernas permanecem firmes em sua adversidade, enquanto os humanos se tornam cada vez mais complacentes."
                   }
                 },
                 "9": {
@@ -808,7 +808,7 @@
                 "10": {
                   "message": {
                     "": "You, \\v[lore.title.seeker], have come farther than most.\\. But the steepest challenge is still ahead of you.",
-                    "en_US": "Você, \\v[lore.title.seeker], foi mais longe do que a maioria.\\. Mas o desafio mais árduo ainda está à sua frente."
+                    "en_US": "Você, \\v[lore.title.seeker], foi mais longe do que a maioria.\\. Mas o desafio mais árduo ainda está por vir."
                   }
                 },
                 "11": {
@@ -851,13 +851,13 @@
               "4": {
                 "message": {
                   "": "Beat the trial by reaching the end the past of the last cave.",
-                  "en_US": "Supere a prova ao chegar ao fim do passado da última caverna."
+                  "en_US": "Supere a prova ao chegar ao fim da última caverna."
                 }
               },
               "5": {
                 "message": {
                   "": "Swift and steady feet alone will not be enough.\\. The heat of passion and waves of spirit will lead you to ascension.",
-                  "en_US": "Pés rápidos e firmes por si só não serão suficientes.\\. O fogo da paixão e as ondas do espírito vão levá-la à ascensão."
+                  "en_US": "Pés rápidos e firmes, por si só, não bastarão.\\. O fogo da paixão e as ondas do espírito a levarão à ascensão."
                 }
               },
               "6": {
@@ -879,7 +879,7 @@
                 "4": {
                   "message": {
                     "": "Mhm, you are here again.",
-                    "en_US": "Mhm, você está aqui novamente."
+                    "en_US": "Hmm, você voltou."
                   }
                 },
                 "5": {
@@ -931,7 +931,7 @@
               "4": {
                 "message": {
                   "": "You should now return to the Wise to complete the ascension.",
-                  "en_US": "Você deve retornar agora a Sábia para completar a ascensão."
+                  "en_US": "Você deve falar com a Sábia para completar a ascensão."
                 }
               },
               "5": {
@@ -959,7 +959,7 @@
                 "5": {
                   "message": {
                     "": "\\v[lore.title.seeker], you are truly enlightened.\\. But do you feel like this is the end?",
-                    "en_US": "\\v[lore.title.seeker] você está verdadeiramente iluminada.\\. Mas você sente que isto é o fim?"
+                    "en_US": "\\v[lore.title.seeker] você é verdadeiramente iluminada.\\. Mas você sente que isto é o fim?"
                   }
                 },
                 "6": {
@@ -976,7 +976,7 @@
                 "9": {
                   "message": {
                     "": "Wrong!\\.\\.\\.\\. Even a \\v[lore.title.seeker]'s light can dim if not rekindled with time!",
-                    "en_US": "Errado!\\.\\.\\.\\. Mesmo a luz de uma \\v[lore.title.seeker] pode escurecer se não reacender-se com o tempo!"
+                    "en_US": "Errado!\\.\\.\\.\\. Mesmo a luz de uma \\v[lore.title.seeker] pode se apagar se não for reacendida com o tempo!"
                   }
                 },
                 "10": {
@@ -987,7 +987,7 @@
                 "11": {
                   "message": {
                     "": "The caves of the trials have been a place to sharpen one's mind for generations.",
-                    "en_US": "As cavernas das provas têm sido um lugar para afiar a mente durante gerações."
+                    "en_US": "Ao longo de gerações, as cavernas serviram como um local para desenvolver a mente."
                   }
                 },
                 "12": {
@@ -1007,7 +1007,7 @@
                     "1": {
                       "message": {
                         "": "Yes, as expected from one who has beaten the cave before.\\. I will open it again.",
-                        "en_US": "Sim, como era esperado de quem já tinha vencido a caverna antes. Vou abri-la novamente."
+                        "en_US": "Sim, como era esperado de quem já tinha vencido a caverna.\\. Vou abri-la novamente."
                       }
                     },
                     "8": {
@@ -1024,7 +1024,7 @@
                     "16": {
                       "message": {
                         "": "Return to me once you have solved the challenges.",
-                        "en_US": "Retorne aqui, uma vez que você tenha vencido os desafios."
+                        "en_US": "Retorne aqui, assim que você superar os desafios."
                       }
                     },
                     "17": {
@@ -1075,7 +1075,7 @@
                   "0": {
                     "message": {
                       "": "To solve the extra frosty challenge you have to activate it at the sign inside.",
-                      "en_US": "Para resolver o desafio extra gélido, você terâ que ativá-lo no painel interno."
+                      "en_US": "Para superar o desafio extra gélido, você terâ que ativá-lo no painel interno."
                     }
                   }
                 }
@@ -1122,13 +1122,13 @@
                 "8": {
                   "message": {
                     "": "Keep your light in this state of perfection and there will never be a challenge for you to fear.",
-                    "en_US": "Mantenha a sua luz neste estado de perfeição e nunca haverá um desafio a temer."
+                    "en_US": "Mantenha a sua luz neste estado de perfeição, assim nunca haverá desafios a temer."
                   }
                 },
                 "9": {
                   "message": {
                     "": "All our caves will remain open for more practice, if you so desire.\\. But for now, farewell.",
-                    "en_US": "Todas as nossas cavernas permanecerão abertas para mais prática, se assim desejar\\. Mas por agora, adeus."
+                    "en_US": "Todas as nossas cavernas permanecerão abertas para mais prática, se assim desejar\\. Mas por enquanto, adeus."
                   }
                 },
                 "10": {
@@ -1410,7 +1410,7 @@
                     "16": {
                       "message": {
                         "": "Return to me once you have solved the challenges.",
-                        "en_US": "Retorne aqui quando tiver superado os desafios."
+                        "en_US": "Retorne aqui, quando tiver superado os desafios."
                       }
                     },
                     "17": {
@@ -1461,7 +1461,7 @@
                   "0": {
                     "message": {
                       "": "To solve the challenge without guarding you have to cast your shield away at the sign inside.",
-                      "en_US": "Para resolver o desafio sem se proteger, é preciso remover o escudo no painel interno."
+                      "en_US": "Para superar o desafio sem se proteger, é preciso remover o escudo no painel interno."
                     }
                   }
                 }

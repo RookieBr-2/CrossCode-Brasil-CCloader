@@ -787,19 +787,19 @@
           "17": {
             "message": {
               "": "Quick!\\. Move to the marker!",
-              "en_US": "Rápido!\\. Mova-se para o marcador!"
+              "en_US": "Rápido!\\. Corram para o marcador!"
             }
           },
           "36": {
             "message": {
               "": "Holy frigging lasers!!",
-              "en_US": "Malditos lasers !!"
+              "en_US": "Malditos lasers!!"
             }
           },
           "38": {
             "message": {
               "": "Those markers will catch the laser beams. Use them for your protection.",
-              "en_US": "Esses marcadores vão pegar os raios laser. Use-os para sua proteção."
+              "en_US": "Esses marcadores bloquearão os raios laser. Use-os para se protegerem."
             }
           },
           "58": {
@@ -811,7 +811,7 @@
           "59": {
             "message": {
               "": "Here is what you need to do, listen closely.",
-              "en_US": "Aqui está o que você precisa fazer, ouça atentamente."
+              "en_US": "Agora, ouça atentamente o que você precisa fazer."
             }
           },
           "60": {
@@ -829,13 +829,13 @@
           "62": {
             "message": {
               "": "\\c[3]First\\c[0]: You need to defeat a nearby \\c[3]Shredder unit\\c[0] to start the \\c[3]Fixation Routine\\c[0].",
-              "en_US": "\\c[3]Primeiro\\c[0]: Você precisa derrotar uma \\c[3]Unidade de Shredders\\c[0] próxima para iniciar a \\c[3]Rotina de Correção\\c[0]."
+              "en_US": "\\c[3]Primeiro\\c[0]: Você precisa derrotar um \\c[3]Segurança Bruto\\c[0] para iniciar a \\c[3]Rotina de Correção\\c[0]."
             }
           },
           "63": {
             "message": {
               "": "\\c[3]Second\\c[0]: Move the defeated Shredder \\c[3]close to the Evotar\\c[0] to \\c[3]fixate it\\c[0].",
-              "en_US": "\\c[3]Segundo\\c[0]: Mova o Shredder derrotado \\c[3]para perto do Evotar\\c[0] para \\c[3]repará-lo\\c[0]."
+              "en_US": "\\c[3]Segundo\\c[0]: Mova o Bruto derrotado \\c[3]até o Evotar\\c[0] para \\c[3]repará-lo\\c[0]."
             }
           },
           "64": {
@@ -847,7 +847,7 @@
           "65": {
             "message": {
               "": "If you can't find any Evotars, \\c[3]standing on Laser Catchers\\c[0] will make them point at the nearest one.",
-              "en_US": "Se você não encontrar nenhum Evotar, \\c[3]ficar embaixo um Capturador Laser\\c[0] fará com que ele aponte para o Evotar mais próximo."
+              "en_US": "Se você não encontrar nenhum Evotar, \\c[3]fique embaixo de um bloqueador de laser\\c[0], pois ele irá apontar para o Evotar mais próximo."
             }
           },
           "66": {
@@ -859,7 +859,7 @@
           "81": {
             "message": {
               "": "Everyone, follow Lea and focus on fighting the Shredders!",
-              "en_US": "Todos, sigam Lea e concentrem-se em lutar contra os Shredders!"
+              "en_US": "Pessoal, sigam a Lea e lutem contra os Brutos!"
             }
           },
           "82": {
@@ -893,12 +893,13 @@
           "12": {
             "message": {
               "": "Good! You can look for more Evotars further to the east!",
-              "en_US": "Boa! Você pode procurar mais Evotares mais ao leste!"
+              "en_US": "Ótimo! Continue para o leste e encontre mais Evotares!"
             }
           },
           "13": {
             "message": {
-              "": "Roger!"
+              "": "Roger!",
+              "en_US": "Pode deixar!"
             }
           }
         }
@@ -916,7 +917,7 @@
           "14": {
             "message": {
               "": "Good! Please join Apollo and Joern in the east of the town!",
-              "en_US": "Boa! Por favor, junte-se a Apollo e Joern no leste da cidade!"
+              "en_US": "Perfeito! Por favor, se juntem a Apollo e Joern no leste da cidade!"
             }
           },
           "15": {
@@ -940,7 +941,7 @@
           "25": {
             "message": {
               "": "Emilie, Lukas, you both stay here and make sure that no enemies interfere with the Evotars.",
-              "en_US": "Emilie, Lukas, vocês dois fiquem aqui e certifiquem-se de que nenhum inimigo interfira com os Evotares."
+              "en_US": "Emilie, Lukas, vocês dois fiquem aqui e garantam que nenhum inimigo ataque os Evotares."
             }
           },
           "26": {
@@ -1005,7 +1006,7 @@
           "49": {
             "message": {
               "": "They exploded!\\. Just like Emilie back then!",
-              "en_US": "Eles explodiram!\\. Assim como Emilie naquela época!"
+              "en_US": "Eles explodiram!\\. Igualzinho à Emilie daquela vez!"
             }
           },
           "52": {

@@ -127,7 +127,7 @@
               "3": {
                 "message": {
                   "": "A white Shad came a while back and all the Shad left.",
-                  "en_US": "Uma Shad branca veio há algum tempo e todos os Shad partiram."
+                  "en_US": "Uma Shad branca veio há algum tempo e todos os Shads partiram."
                 }
               },
               "4": {
@@ -284,7 +284,7 @@
           "20": {
             "message": {
               "": "The Shad formed a wall and blocked the path to \\c[3]Grand Krys'kajo\\c[0] and its trials.\n",
-              "en_US": "Os Shad formaram uma parede e bloquearam o caminho para o \\c[3]Grand Krys'kajo\\c[0].\n"
+              "en_US": "Os Shads formaram uma parede e bloquearam o caminho para o \\c[3]Grand Krys'kajo\\c[0].\n"
             }
           },
           "21": {
@@ -411,7 +411,7 @@
           "39": {
             "task": {
               "": "Visit the \\c[3]mayor\\c[0] in \\c[3]Basin Keep\\c[0] to tell him about the Shad blocking the path to the temples.",
-              "en_US": "Visite o \\c[3]prefeito\\c[0] na \\c[3]Baixada Bastião\\c[0] para informá-lo sobre os Shad que bloqueiam o caminho para os templos."
+              "en_US": "Visite o \\c[3]prefeito\\c[0] na \\c[3]Baixada Bastião\\c[0] para informá-lo sobre os Shads que bloqueiam o caminho para os templos."
             }
           }
         }
@@ -1074,7 +1074,7 @@
           "15": {
             "message": {
               "": "I will do my best to restore the relationship between humans and Shad. ",
-              "en_US": "Farei o meu melhor para restaurar a relação entre os humanos e os Shad. "
+              "en_US": "Farei o meu melhor para restaurar a relação entre os humanos e os Shads. "
             }
           },
           "16": {

@@ -176,8 +176,7 @@
                     "thenStep": {
                       "0": {
                         "text": {
-                          "": "\\v[tmp.questBall-markerText]",
-                          "en_US": ""
+                          "": "\\v[tmp.questBall-markerText]"
                         }
                       }
                     }
@@ -190,8 +189,7 @@
                     "thenStep": {
                       "0": {
                         "text": {
-                          "": "\\v[tmp.questBall-markerText]",
-                          "en_US": ""
+                          "": "\\v[tmp.questBall-markerText]"
                         }
                       }
                     }
@@ -204,8 +202,7 @@
                     "thenStep": {
                       "0": {
                         "text": {
-                          "": "\\v[tmp.questBall-markerText]",
-                          "en_US": ""
+                          "": "\\v[tmp.questBall-markerText]"
                         }
                       }
                     }
@@ -218,8 +215,7 @@
                     "thenStep": {
                       "0": {
                         "text": {
-                          "": "\\v[tmp.questBall-markerText]",
-                          "en_US": ""
+                          "": "\\v[tmp.questBall-markerText]"
                         }
                       }
                     }
@@ -232,8 +228,7 @@
                     "thenStep": {
                       "0": {
                         "text": {
-                          "": "\\v[tmp.questBall-markerText]",
-                          "en_US": ""
+                          "": "\\v[tmp.questBall-markerText]"
                         }
                       }
                     }

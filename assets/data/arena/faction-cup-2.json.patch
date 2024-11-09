@@ -30,7 +30,7 @@
       },
       "objective": {
         "": "Have another duel with \\c[3]\\v[combat.name.heat/special/guard-hostile-mustache]\\c[0], Ba'kii Kum's most treasonous guard!\nAnd also trash his \\c[3]\\v[combat.name.heat/special/baki-turret_2]s\\c[0] while you're at it!",
-        "en_US": "Tenha outro duelo com \\c[3]\\v[combat.name.heat/special/guard-hostile-mustache]\\c[0], o guarda mais traiçoeiro de Ba'kii Kum!\nE também destrua as \\c[3]\\v[combat.name.heat/special/baki-turret_2]s\\c[0] dele!"
+        "en_US": "Tenha outro duelo com \\c[3]\\v[combat.name.heat/special/guard-hostile-mustache]\\c[0], o guarda mais traiçoeiro de Ba'kii Kum!\nE também destrua as \\c[3]Torres Legionárias\\c[0] dele!"
       }
     },
     "2": {
@@ -60,7 +60,7 @@
       },
       "objective": {
         "": "Defeat the \\c[3]\\v[combat.name.jungle/special/snowman-jungle-boss]\\c[0] who has resettled to \\c[3]\\v[area.jungle.name]\\c[0]!\nBreak his defense by using the teleporting \\c[3]\\v[combat.name.jungle/special/heater]\\c[0]!",
-        "en_US": "Derrote o \\c[3]\\v[combat.name.jungle/special/snowman-jungle-boss]\\c[0] que se instalou no \\c[3]\\v[area.jungle.name]\\c[0]!\nQuebre a defesa dele teleportando o\\c[3]\\v[combat.name.jungle/special/heater]\\c[0]!"
+        "en_US": "Derrote o \\c[3]\\v[combat.name.jungle/special/snowman-jungle-boss]\\c[0] que se instalou no \\c[3]\\v[area.jungle.name]\\c[0]!\nQuebre a defesa dele teleportando o \\c[3]\\v[combat.name.jungle/special/heater]\\c[0]!"
       }
     },
     "5": {
@@ -80,7 +80,7 @@
       },
       "objective": {
         "": "Defeat the \\c[3]\\v[combat.name.heat/special/sandman-1]\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]!\n\\c[3]Quicksand\\c[0] may be annoying but \\c[3]teleporters\\c[0] are your friend!",
-        "en_US": "Derrote o \\c[3]\\v[combat.name.heat/special/sandman-1]\\c[0] no \\c[3]\\v[area.heat-area.name]\\c[0]!\nA [3]Areia movediça\\c[0] pode ser um problema mas \\c[3]teletransportadores\\c[0] são seus amigos!"
+        "en_US": "Derrote o \\c[3]\\v[combat.name.heat/special/sandman-1]\\c[0] no \\c[3]\\v[area.heat-area.name]\\c[0]!\nA \\c[3]Areia movediça\\c[0] pode ser um problema mas os \\c[3]teleportadores\\c[0] são seus amigos!"
       }
     }
   }

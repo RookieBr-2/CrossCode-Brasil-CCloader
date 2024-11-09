@@ -49,7 +49,7 @@
                 "5": {
                   "message": {
                     "": "An endless cycle of agony and pain.",
-                    "en_US": "Um ciclo interminável de agonia e dor"
+                    "en_US": "Um ciclo interminável de agonia e dor."
                   }
                 },
                 "6": {
@@ -66,7 +66,7 @@
                 "8": {
                   "message": {
                     "": "Oh... a gift? \\.\\.\\. You give me this, just like that?",
-                    "en_US": "Ah... um presente? \\.\\.\\. Você me deu isso do nada, sem mais nem menos?"
+                    "en_US": "Ah... um presente?\\.\\.\\. Você me deu isso do nada, sem mais nem menos?"
                   }
                 },
                 "9": {
@@ -94,7 +94,7 @@
                 "13": {
                   "message": {
                     "": "I will forever remember this.",
-                    "en_US": "Eu me lembrarei disso para sempre"
+                    "en_US": "Eu me lembrarei disso para sempre."
                   }
                 },
                 "14": {
@@ -119,7 +119,7 @@
           "5": {
             "message": {
               "": "Ahh, the sounds of combat.\\. Invigorating to these old bones!",
-              "en_US": "Ahh, o som do combate.\\. Revigorante para esses velhos ossos!"
+              "en_US": "Ahh, o som do combate.\\. É revigorante para meus velhos ossos!"
             }
           },
           "6": {
@@ -136,7 +136,7 @@
           "9": {
             "message": {
               "": "It is a damn shame that they just disappeared after you defeated them.",
-              "en_US": "É uma pena que eles simplesmente tenham desaparecido depois que você os derrotou."
+              "en_US": "É uma pena que eles tenham desaparecido depois que você os derrotou."
             }
           },
           "10": {
@@ -147,13 +147,13 @@
           "11": {
             "message": {
               "": "This won't be a problem, \\v[lore.title.seeker]!\\. I found the location of another group that should lead us to the facility!",
-              "en_US": "Isso não será um problema, \\v[lore.title.seeker]!\\. Encontrei a localização de outro grupo que deve nos levar à instalação!"
+              "en_US": "Não se preocupe, \\v[lore.title.seeker]!\\. Encontrei a localização de outro grupo que pode nos levar à instalação!"
             }
           },
           "12": {
             "message": {
               "": "Make a move towards \\c[3]Bergen Waterfalls\\c[0], \\v[lore.title.seeker], and eliminate all opposition!",
-              "en_US": "Faça um movimento em direção às \\c[3]Cachoeiras de Bergen\\c[0] \\v[lore.title.seeker] e elimine toda a oposição!"
+              "en_US": "Vá para as \\c[3]Cachoeiras de Bergen\\c[0], \\v[lore.title.seeker], e elimine todos eles!"
             }
           },
           "13": {

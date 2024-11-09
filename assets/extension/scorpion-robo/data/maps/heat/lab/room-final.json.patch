@@ -28,19 +28,19 @@
             "11": {
               "message": {
                 "": "We should have known that having windows was a security risk, but hindsight doesn't help us much now.",
-                "en_US": "Devíamos saber que ter janelas era um risco à segurança, mas já é tarde para isso agora."
+                "en_US": "Deveríamos ter percebido que ter janelas era um risco à segurança, mas agora já é tarde para isso."
               }
             },
             "12": {
               "message": {
                 "": "At this point they have already spread all over \\v[lore.title.planet] and started to cause trouble.",
-                "en_US": "A essa altura, eles já se espalharam por todo o \\v[lore.title.planet] e começaram a causar problemas."
+                "en_US": "A essa altura, eles já se espalharam por toda \\v[lore.title.planet] e começaram a causar problemas."
               }
             },
             "13": {
               "message": {
                 "": "Now it is only a matter of time before this all leads back to us and our secret projects.\\. We need to close this down.",
-                "en_US": "Agora é apenas uma questão de tempo, até que tudo leve de volta a nós e aos nossos projetos secretos.\\. Precisamos encerrar isso."
+                "en_US": "Agora é apenas uma questão de tempo até que tudo caia sobre nós e nossos projetos secretos.\\. Portanto, temos que pôr um fim a isso."
               }
             },
             "14": {
@@ -70,13 +70,13 @@
             "18": {
               "message": {
                 "": "This might even surpass everything we did so far.\\. We will see.\\. Interesting times ahead.",
-                "en_US": "Isso pode até superar tudo o que fizemos até agora.\\. Veremos.\\. Tempos interessantes estão por vir."
+                "en_US": "Isso pode até superar tudo o que fizemos até agora.\\. Tempos interessantes estão por vir."
               }
             },
             "19": {
               "message": {
                 "": "So, maybe we will see you around, if you can find us.\\. Goodbye.",
-                "en_US": "Então, talvez nos vejamos por aí, se você puder nos encontrar.\\. Adeus."
+                "en_US": "Então, quem sabe nos encontramos por aí, se você conseguir nos achar.\\. Adeus."
               }
             }
           }
@@ -102,25 +102,25 @@
                 "2": {
                   "text": {
                     "": "Good evening everyone, \n\nSince \\c[3]our funding has been cut\\c[0] and \\c[3]the facilities got taken by the Track\\c[0], we established a \\c[3]new place\\c[0] where we will preserve and continue our research.",
-                    "en_US": "Boa noite a todos, \n\nComo \\c[3]nosso financiamento foi cortado\\c[0] e \\c[3]as instalações foram tomadas pela Trilha\\c[0], estabelecemos um \\c[3]novo local\\c[0] onde iremos preservar e continuar nossas pesquisas."
+                    "en_US": "Boa noite a todos, \n\nDevido ao \\c[3]corte de nosso financiamento\\c[0] e à \\c[3]tomada das instalações pela Trilha\\c[0], encontramos um \\c[3]novo local\\c[0] para preservar e dar continuidade às nossas pesquisas."
                   }
                 },
                 "3": {
                   "text": {
                     "": "The entrance can be found \\c[3]somewhere in \\v[area.forest.name]\\c[0].\nYou will find the \\c[3]key\\c[0] to enter it in the \\c[3]attachment\\c[0] of this message.\nHowever, \\c[3]by itself the key will not work\\c[0].",
-                    "en_US": "A entrada pode ser encontrada \\c[3]em algum lugar em \\v[area.forest.name]\\c[0].\nVocê encontrará a \\c[3]chave\\c[0] para entrar no \\c[3]anexo\\c[0] desta mensagem.\nNo entanto, \\c[3]sozinha a chave não funcionará\\c[0]."
+                    "en_US": "A entrada pode ser encontrada \\c[3]em algum lugar na \\v[area.forest.name]\\c[0].\nVocê encontrará a \\c[3]chave\\c[0] para acessá-la no \\c[3]anexo\\c[0] desta mensagem.\nNo entanto, \\c[3]a chave não funcionará\\c[0]."
                   }
                 },
                 "4": {
                   "text": {
                     "": "You will first need to \\c[3]decrypt\\c[0] it at \\c[3]4 different places\\c[0] that are hidden somewhere on \\v[lore.title.planet], each in a \\c[3]different region\\c[0].",
-                    "en_US": "Primeiro você precisará \\c[3]descriptografar\\c[0] em \\c[3]4 lugares diferentes\\c[0] que estão escondidos em algum lugar em \\v[lore.title.planet], localizados em \\c[3]regiões diferentes\\c[0]."
+                    "en_US": "Primeiro, você precisará \\c[3]descriptografar\\c[0] a chave em \\c[3]quatro locais diferentes\\c[0] que estão escondidos em algum lugar de \\v[lore.title.planet], situados em \\c[3]regiões distintas\\c[0]."
                   }
                 },
                 "5": {
                   "text": {
                     "": "Hints towards \\c[1]one\\c[0] of the locations can be found in each of our 4 facilities.\n\\c[3]So you will learn one location after reading this very message.\\c[0]",
-                    "en_US": "Dicas para \\c[1]um\\c[0] dos locais, podem ser encontrados em cada uma de nossas 4 instalações.\n\\c[3]Então você aprenderá um local depois de ler esta mesma mensagem.\\c[0]"
+                    "en_US": "Você pode encontrar dicas para \\c[1]um\\c[0] dos locais em cada uma das nossas quatro instalações. \\c[3]Ao ler esta mensagem, você descobrirá um deles\\c[0]."
                   }
                 },
                 "6": {
@@ -150,7 +150,7 @@
                 "7": {
                   "text": {
                     "": "\\c[1]ATTACHMENT:\\c[0]\n\nOne of the hidden places can be found in \\c[3]\\v[area.heat-area.name]\\c[0], \\c[3]\"At a hidden source of water, uncovered while searching for cursed treasure.\"\\c[0]!",
-                    "en_US": "\\c[1]ANEXO:\\c[0]\n\nUm dos lugares escondidos pode ser encontrado em \\c[3]\\v[area.heat-area.name]\\c[0], \\c[3]\"Em uma fonte de água escondida, descoberta durante a busca por um tesouro amaldiçoado.\"\\c[0]!"
+                    "en_US": "\\c[1]ANEXO:\\c[0]\n\nUm dos locais secretos pode ser encontrado no \\c[3]\\v[area.heat-area.name]\\c[0], \\c[3]\"Em uma fonte de água escondida, descoberta durante a busca por um tesouro amaldiçoado\"\\c[0]."
                   }
                 }
               }
@@ -170,7 +170,7 @@
           "8": {
             "message": {
               "": "\\v[lore.title.seeker], part of the elite acquire in hidden place, yes?",
-              "en_US": "\\v[lore.title.seeker], parte da elite fica em local escondido, sim?"
+              "en_US": "\\v[lore.title.seeker], você coletou peças de elite no local escondido?"
             }
           },
           "9": {
@@ -182,7 +182,7 @@
           "10": {
             "message": {
               "": "Such radical accomplishment!\\. Very impress!",
-              "en_US": "Que realização radical!\\. Muito impressionante!"
+              "en_US": "Que façanha radical!\\. Muito impressionante!"
             }
           },
           "11": {
@@ -193,7 +193,7 @@
           "12": {
             "message": {
               "": "But machine not receive more power by human standing around and being proud of accomplishment!",
-              "en_US": "Mas a máquina não recebe mais poder pelo ser humano que fica por perto e se orgulha da realização!"
+              "en_US": "Mas máquina não vai melhorar enquanto humana fica se orgulhando da façanha!"
             }
           },
           "13": {
@@ -204,7 +204,7 @@
           "14": {
             "message": {
               "": "You better bring parts back to me in \\v[area.heat-village.name] so machine can be graded up!",
-              "en_US": "É melhor trazer as peças de volta para mim em \\v[area.heat-village.name], para que a máquina possa ser melhorada!"
+              "en_US": "É melhor trazer peças de volta para mim em \\v[area.heat-village.name], para que máquina possa ser melhorada!"
             }
           },
           "15": {

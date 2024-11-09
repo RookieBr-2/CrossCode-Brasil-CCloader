@@ -6,7 +6,7 @@
           "13": {
             "message": {
               "": "Just further down here and you will be back in \\c[3]Autumn's Rise\\c[0]!",
-              "en_US": "Um pouco abaixo daqui e você estará de volta no \\c[3]Nascer do Outono\\c[0]!"
+              "en_US": "É só descer um pouco e você estará de volta no \\c[3]Nascer do Outono\\c[0]!"
             }
           },
           "15": {
@@ -17,7 +17,7 @@
           "17": {
             "message": {
               "": "Nice! I certainly don't miss being stuck in one place.",
-              "en_US": "Agradável! Certamente não sinto falta de estar preso em um lugar."
+              "en_US": "Legal! Não sinto falta de ficar preso no mesmo lugar o tempo todo."
             }
           },
           "18": {
@@ -29,7 +29,7 @@
           "19": {
             "message": {
               "": "For now we have decided to limit access to Homestedt to selected players only.",
-              "en_US": "Por enquanto, decidimos limitar o acesso a Fazendolar apenas a jogadores selecionados."
+              "en_US": "Por enquanto, decidimos limitar o acesso à Fazendolar apenas a jogadores selecionados."
             }
           },
           "20": {
@@ -46,7 +46,7 @@
           "22": {
             "message": {
               "": "Right.\\. I'd hate to wake up with dozens of random players squatting in my house.",
-              "en_US": "Certo.\\. Eu odiaria acordar com dezenas de jogadores aleatórios ocupando minha casa."
+              "en_US": "Beleza.\\. Seria horrível acordar com dezenas de jogadores aleatórios ocupando minha casa."
             }
           },
           "23": {
@@ -69,19 +69,19 @@
           "27": {
             "message": {
               "": "Now, one last thing!",
-              "en_US": "Agora, uma última coisa!"
+              "en_US": "Agora, só falta uma coisa!"
             }
           },
           "28": {
             "message": {
               "": "You both get an access pass to the whole city of Rhombus Square!",
-              "en_US": "Vocês dois vão receber um passe de acesso a toda a cidade da Praça Losango!"
+              "en_US": "Vocês dois vão receber um passe que dá acesso a toda a cidade da Praça Losango!"
             }
           },
           "32": {
             "object": {
               "": "Full Rhombus Pass",
-              "en_US": "Passe Completo do Losango"
+              "en_US": "Passe Completo da Praça"
             }
           },
           "35": {
@@ -92,19 +92,19 @@
           "37": {
             "message": {
               "": "Oh, that's neat!\\. I never bothered to get that one myself.",
-              "en_US": "Que legal!\\. Eu nunca me preocupei em conseguir isso sozinho."
+              "en_US": "Que legal!\\. Nem precisei me esforçar para conseguir isso sozinho."
             }
           },
           "40": {
             "message": {
               "": "And yes...\\. That is pretty much all!",
-              "en_US": "E sim...\\. Isso é praticamente tudo!"
+              "en_US": "E sim...\\. Isso é tudo!"
             }
           },
           "41": {
             "message": {
               "": "Thanks!",
-              "en_US": "Obrigado!"
+              "en_US": "Obrigada!"
             }
           },
           "42": {
@@ -127,31 +127,31 @@
           "48": {
             "message": {
               "": "What exactly are we supposed to do now?",
-              "en_US": "O que exatamente devemos fazer agora?"
+              "en_US": "O que devemos fazer agora?"
             }
           },
           "50": {
             "message": {
               "": "Well...\\. for now you simply can take your time to get used to your new life as Evotars.",
-              "en_US": "Bem...\\. por enquanto, você pode simplesmente se acostumar com sua vida nova como Evotar."
+              "en_US": "Bem...\\. por enquanto, você pode ir se acostumando com sua nova vida como Evotar."
             }
           },
           "51": {
             "message": {
               "": "That's fair...\\. but like...",
-              "en_US": "Isso é justo...\\. mas como..."
+              "en_US": "Tudo bem...\\. mas como..."
             }
           },
           "52": {
             "message": {
               "": "What exactly is our point in being in this game?",
-              "en_US": "Qual é exatamente o nosso objetivo em estar neste jogo?"
+              "en_US": "Qual o propósito de estarmos neste jogo?"
             }
           },
           "53": {
             "message": {
               "": "I suppose there is new content that is left for us to play but once that is done?\n",
-              "en_US": "Suponho que haja um novo conteúdo que resta para jogarmos, mas e quando isso for feito?\n"
+              "en_US": "Acho que ainda ten conteúdo novo para jogarmos, mas e quando isso acabar?\n"
             }
           },
           "54": {
@@ -163,7 +163,7 @@
           "55": {
             "message": {
               "": "Let me just say that there are already plans about your future role in CrossWorlds.",
-              "en_US": "Deixe-me apenas dizer que já existem planos sobre seu futuro papel no CrossWorlds."
+              "en_US": "Digamos que já existem planos para o seu futuro papel em CrossWorlds."
             }
           },
           "56": {
@@ -181,19 +181,19 @@
           "58": {
             "message": {
               "": "Uhm... okay, I guess?",
-              "en_US": "Uhm... ok, eu acho?"
+              "en_US": "Hmm... ok, eu acho?"
             }
           },
           "65": {
             "message": {
               "": "Don't worry, Luke!\\. There is something else for you to do! ",
-              "en_US": "Não se preocupe, Luke!\\. Tem outra coisa para você fazer!"
+              "en_US": "Não se preocupe, Luke!\\. Você ten uma coisa pra fazer!"
             }
           },
           "66": {
             "message": {
               "": "For you as well, Lea!",
-              "en_US": "Pra você também, Lea!"
+              "en_US": "E você também, Lea!"
             }
           },
           "70": {
@@ -210,13 +210,13 @@
           "73": {
             "message": {
               "": "You can drop by right away once you're ready!",
-              "en_US": "Você pode aparecer assim que estiver pronto!"
+              "en_US": "Vocês podem aparecer assim que estiverem prontos!"
             }
           },
           "74": {
             "message": {
               "": "Sounds good!\\. I'll be there, soon.",
-              "en_US": "Soa bem!\\. Eu estarei lá em breve."
+              "en_US": "Beleza!\\. Eu estarei lá em breve."
             }
           },
           "75": {
@@ -240,25 +240,25 @@
           "84": {
             "message": {
               "": "Later!",
-              "en_US": "Até depois!"
+              "en_US": "Até logo!"
             }
           },
           "99": {
             "message": {
               "": "Let me know when you want to hang out, you two!\\. I've got time today!",
-              "en_US": "Me avisem quando quiserem sair, vocês dois!\\. Eu tenho tempo hoje!"
+              "en_US": "Me avisem quando quiserem sair!\\. Tenho tempo livre hoje!"
             }
           },
           "100": {
             "message": {
               "": "Until then!",
-              "en_US": "Até então!"
+              "en_US": "Até logo, gente!"
             }
           },
           "109": {
             "message": {
               "": "Now if you'll excuse me, I'll have to take a closer look at that yard of mine!",
-              "en_US": "Agora, se me dão licença, vou dar uma olhada melhor no meu quintal!"
+              "en_US": "Agora, se me dão licença, vou dar uma olhada no meu quintal!"
             }
           },
           "110": {
@@ -270,13 +270,13 @@
           "120": {
             "message": {
               "": "Well then, I will log out as well now.",
-              "en_US": "Bem, eu também vou sair agora."
+              "en_US": "Bom, eu também vou sair agora."
             }
           },
           "121": {
             "message": {
               "": "However, I can still contact you directly exactly how things used to be!",
-              "en_US": "No entanto, ainda posso entrar em contato diretamente com você, exatamente como as coisas costumavam ser!"
+              "en_US": "Mas ainda posso entrar em contato com você diretamente, exatamente como antes!"
             }
           },
           "122": {

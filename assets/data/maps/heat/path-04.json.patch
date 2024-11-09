@@ -277,7 +277,7 @@
           "5": {
             "message": {
               "": "More wonderful machinery destroyed.\\. Such shame, but also showing superiority of \\v[lore.title.seeker] skill.",
-              "en_US": "Mais máquinas maravilhosas destruídas.\\. Uma pena, mas também mostra a superioridade de uma \\v[lore.title.seeker]."
+              "en_US": "Mais máquinas maravilhosas destruídas.\\. Uma pena, mas isso mostra a superioridade de uma \\v[lore.title.seeker]."
             }
           },
           "6": {
@@ -288,7 +288,7 @@
           "7": {
             "message": {
               "": "Praise no reason for dilly-dally, human!\\. Every second could be spend better with improved machine calculating!",
-              "en_US": "Louvado seja o que for, humana!\\. Cada segundo poderia ser melhor gasto com o cálculo melhorado da máquina!"
+              "en_US": "Não há razão para ficar aqui, humana!\\. Cada segundo poderia ser usado para cálculos com máquina aprimorada!"
             }
           },
           "8": {
@@ -299,7 +299,7 @@
           "9": {
             "message": {
               "": "Back to mission.\\. Some location device dropped.\\. You picked up?",
-              "en_US": "Mas voltando à missão.\\. O dispositivo de rastreamento foi perdido.\\. Você pegou?"
+              "en_US": "Mas voltando à missão.\\. Dispositivo de rastreamento foi perdido.\\. Você pegou?"
             }
           },
           "10": {
@@ -311,7 +311,7 @@
           "11": {
             "message": {
               "": "Good!\\. Secret place of special parts must be near.",
-              "en_US": "Ótimo!\\. O lugar secreto com peças especiais deve estar próximo."
+              "en_US": "Ótimo!\\. Lugar secreto com peças especiais deve estar próximo."
             }
           },
           "12": {

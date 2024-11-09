@@ -35,7 +35,7 @@
               "2": {
                 "message": {
                   "": "Good day, \\v[lore.title.seeker].\\. There is no need for your help right now but please enjoy your stay.",
-                  "en_US": "Bom dia, \\v[lore.title.seeker].\\. Não há necessidade de sua ajuda agora, mas por favor, aproveite sua estadia."
+                  "en_US": "Bom dia, \\v[lore.title.seeker].\\. Sua ajuda não é necessária agora, mas, por favor, desfrute de sua estadia."
                 }
               }
             }
@@ -111,7 +111,7 @@
               "2": {
                 "message": {
                   "": "Good day, \\v[lore.title.seeker].\\. There is no need for your help right now, but please enjoy your stay.",
-                  "en_US": "Bom dia, \\v[lore.title.seeker].\\. Não há necessidade de sua ajuda agora, mas por favor, aproveite sua estadia."
+                  "en_US": "Bom dia, \\v[lore.title.seeker].\\. Sua ajuda não é necessária agora, mas, por favor, desfrute de sua estadia."
                 }
               }
             }
@@ -127,7 +127,7 @@
               "2": {
                 "message": {
                   "": "Our relations to the Shad Village in \\v[area.jungle.name] have relaxed recently.\\. Maybe trade is a possibility now!",
-                  "en_US": "Nossas relações com a Vila Shad em \\v[area.jungle.name] relaxaram recentemente.\\. Talvez o comércio seja uma possibilidade agora!"
+                  "en_US": "Nossas relações com a Aldeia dos Shads melhoraram recentemente.\\. Talvez o comércio seja possível agora!"
                 }
               }
             }
@@ -143,7 +143,7 @@
               "2": {
                 "message": {
                   "": "Good day, \\v[lore.title.seeker].\\. There is no need for your help right now, but please enjoy your stay.",
-                  "en_US": "Bom dia, \\v[lore.title.seeker].\\. Não há necessidade de sua ajuda agora, mas por favor, aproveite sua estadia."
+                  "en_US": "Bom dia, \\v[lore.title.seeker].\\. Sua ajuda não é necessária agora, mas, por favor, desfrute de sua estadia."
                 }
               }
             }
@@ -274,7 +274,7 @@
               "2": {
                 "message": {
                   "": "Find out if we can market our devices to the Shad Village in the Southeast of \\v[area.jungle.name].",
-                  "en_US": "Descubra se podemos comercializar nossos dispositivos para a Vila Shad no sudeste de \\v[area.jungle.name]."
+                  "en_US": "Descubra se podemos comercializar nossos dispositivos para a Aldeia dos Shads no sudeste do \\v[area.jungle.name]."
                 }
               }
             }
@@ -905,7 +905,7 @@
               "3": {
                 "message": {
                   "": "Yes, indeed.\\. I just thought how nice it would be to employ someone as reliable as you again!",
-                  "en_US": "Sim, de fato.\\. Só pensei em como seria bom empregar alguém tão confiável quanto você novamente!"
+                  "en_US": "Sim, é verdade.\\. Estava pensando em como seria bom empregar novamente alguém tão confiável como você!"
                 }
               },
               "4": {
@@ -936,7 +936,7 @@
               "4": {
                 "message": {
                   "": "Yes, indeed.\\. I just thought how nice it would be to employ someone as reliable as you again!",
-                  "en_US": "Sim, de fato.\\. Só pensei em como seria bom empregar alguém tão confiável quanto você novamente!"
+                  "en_US": "Sim, é verdade.\\. Estava pensando em como seria bom empregar novamente alguém tão confiável como você!"
                 }
               },
               "6": {
@@ -947,13 +947,13 @@
               "7": {
                 "message": {
                   "": "Well, you see, relationships with the Shad living in the Jungle of \\v[area.jungle.name] have been improving recently.",
-                  "en_US": "Bem, veja, os relacionamentos com os Shads que vivem na Selva de \\v[area.jungle.name] têm melhorado recentemente."
+                  "en_US": "Bem, os nosso relacionamento com os Shads que vivem na selva do \\v[area.jungle.name] melhorou consideravelmente."
                 }
               },
               "8": {
                 "message": {
                   "": "This might be a perfect opportunity to acquire new customers for our products!",
-                  "en_US": "Esta pode ser uma oportunidade perfeita para adquirir novos clientes para os nossos produtos!"
+                  "en_US": "Esta pode ser uma oportunidade perfeita para obter novos clientes para os nossos produtos!"
                 }
               },
               "9": {
@@ -971,13 +971,13 @@
               "12": {
                 "message": {
                   "": "Yes, \\v[lore.title.seeker], that is a good question.\\. Sir, how would the Shad power your machines?",
-                  "en_US": "Sim, \\v[lore.title.seeker], essa é uma boa pergunta.\\. Senhor, como os Shads alimentariam suas máquinas?"
+                  "en_US": "Sim, \\v[lore.title.seeker], essa é uma boa pergunta.\\. Senhor, como os Shads ligariam suas máquinas?"
                 }
               },
               "14": {
                 "message": {
                   "": "That is just a minor obstacle in the way of progress!\\. I am sure our resourceful \\v[lore.title.seeker] will find a way.",
-                  "en_US": "Isso é apenas um pequeno obstáculo no caminho do progresso!\\. Tenho certeza de que nosso engenhoso \\v[lore.title.seeker] encontrará um caminho."
+                  "en_US": "Isso é apenas um pequeno obstáculo no caminho do progresso!\\. Tenho certeza de que nossa engenhosa \\v[lore.title.seeker] achará uma solução."
                 }
               },
               "15": {
@@ -988,7 +988,7 @@
               "16": {
                 "message": {
                   "": "You ARE interested in helping us again, correct?",
-                  "en_US": "Você TEM interesse em nos ajudar novamente, correto?"
+                  "en_US": "Você tem interesse em nos ajudar novamente?"
                 }
               }
             }
@@ -1004,13 +1004,13 @@
               "1": {
                 "message": {
                   "": "Hoho, excellent, excellent!\\. You've truly become a reliable asset to our operations.",
-                  "en_US": "Hoho, excelente, excelente!\\. Você realmente se tornou uma ativa confiável para nossas operações."
+                  "en_US": "Hoho, excelente, excelente!\\. Você se tornou uma colaboradora confiável."
                 }
               },
               "3": {
                 "message": {
                   "": "That is true, sir.\\. With our reliable \\v[lore.title.seeker] helping out, I feel much more confident.",
-                  "en_US": "Isso é verdade, senhor.\\. Com nossa confiável \\v[lore.title.seeker] ajudando, me sinto muito mais confiante."
+                  "en_US": "Isso é verdade, senhor.\\. Com a ajuda de nossa confiável \\v[lore.title.seeker], me sinto muito mais confiante."
                 }
               },
               "4": {
@@ -1021,19 +1021,19 @@
               "6": {
                 "message": {
                   "": "Mr. Frigo, will you share the details?",
-                  "en_US": "Sr. Frigo, você vai compartilhar os detalhes?"
+                  "en_US": "Sr. Frigo, você poderia revelar os detalhes"
                 }
               },
               "8": {
                 "message": {
                   "": "Yes, yes, of course.\\. \\v[lore.title.seeker], our latest line of Frigo fridges were created to work even in the roughest climate.",
-                  "en_US": "Sim, sim, claro.\\. \\v[lore.title.seeker], nossa última linha de geladeiras Frigo foi criada para funcionar mesmo nos climas mais difíceis."
+                  "en_US": "Sim, sim, claro.\\. \\v[lore.title.seeker], nossa linha mais recente de geladeiras Frigo foi feita para suportar até os climas mais extremos."
                 }
               },
               "9": {
                 "message": {
                   "": " They would still need energy, however, and the blessing of the resident Shad authorities.",
-                  "en_US": "Eles ainda precisariam de energia, no entanto, e da bênção das autoridades Shads residentes."
+                  "en_US": "Apesar disso, elas ainda precisariam de energia e da bênção das autoridades da aldeia dos Shads."
                 }
               },
               "10": {
@@ -1044,13 +1044,13 @@
               "12": {
                 "message": {
                   "": "Indeed. And since our organization still lacks the contacts to solve those problems, we would need you as an ambassador.",
-                  "en_US": "De fato. E como nossa organização ainda carece de contatos para resolver esses problemas, precisaríamos de você como embaixadora."
+                  "en_US": "E como nossa organização ainda não possui os contatos para resolver esses problemas, precisamos de você como embaixadora."
                 }
               },
               "14": {
                 "message": {
                   "": "It would be best if you talked with a person of authority first.\\. I assume that it would be the \\c[3]village elder in Chief's Den\\c[0].",
-                  "en_US": "Seria melhor se você falasse com uma pessoa de autoridade primeiro.\\. Eu suponho que seria a anciã da aldeia \\c[3]na Cabana da Anciã\\c[0]."
+                  "en_US": "Seria ideal se você conversasse primeiro com uma autoridade.\\. Imagino que seja a anciã da aldeia, na \\c[3] Cabana da Anciã\\c[0]."
                 }
               },
               "15": {
@@ -1076,7 +1076,7 @@
               "1": {
                 "message": {
                   "": "You are not interested?\\. But can't you see the potential in this venture?",
-                  "en_US": "Você não está interessada?\\. Mas você não pode ver o potencial neste empreendimento?"
+                  "en_US": "Você não está interessada?\\. Como não pode ver o potencial nesse negócio?"
                 }
               },
               "2": {
@@ -1087,7 +1087,7 @@
               "3": {
                 "message": {
                   "": "Well, we are still in the midst of preparation regardless.\\. Maybe you will change your mind later.",
-                  "en_US": "Bem, ainda estamos no meio da preparação de qualquer maneira.\\. Talvez você mude de ideia mais tarde."
+                  "en_US": "Ainda estamos na etapa de preparação.\\. Talvez você mude de ideia mais tarde."
                 }
               }
             }
@@ -1119,13 +1119,13 @@
           "8": {
             "message": {
               "": "\\v[lore.title.seeker], there you are again!\\. We already received a visit from a charming young Shad!",
-              "en_US": "\\v[lore.title.seeker], aí está você de novo!\\. Já recebemos a visita de um charmoso jovem Shad!"
+              "en_US": "\\v[lore.title.seeker], você voltou!\\. Já recebemos a visita de um encantador jovem Shad!"
             }
           },
           "10": {
             "message": {
               "": "Yes, very charming.\\. And knows his way around machinery.\\. Literally a tough customer I tell you that.",
-              "en_US": "Sim, muito charmoso.\\. E sabe como lidar com máquinas.\\. Literalmente um cliente difícil, eu diria."
+              "en_US": "Sim, muito encantador.\\. E ele sabe como lidar com máquinas.\\. Literalmente um cliente difícil, eu diria."
             }
           },
           "11": {
@@ -1136,13 +1136,13 @@
           "12": {
             "message": {
               "": "But sir, you're not implying that you're planning to sell those noble villagers a lot of things they don't need, right?",
-              "en_US": "Mas senhor, você não está insinuando que está planejando vender a esses nobres aldeões um monte de coisas que eles não precisam, certo?"
+              "en_US": "Mas senhor, você não está sugerindo que planeja vender a esses nobres aldeões um monte de coisas que eles não precisam, está?"
             }
           },
           "13": {
             "message": {
               "": "Well, of course not!\\. Frigo kitchen tools are always useful, I can assure you that!\\. My name's on them after all!",
-              "en_US": "Bem, claro que não!\\. Utensílios de cozinha Frigo são sempre úteis, isso posso garantir!\\. Afinal, meu nome está neles!"
+              "en_US": "Claro que não!\\. Os utensílios de cozinha Frigo são sempre úteis, isso eu posso garantir!\\. Afinal, meu nome está neles!"
             }
           },
           "14": {
@@ -1159,7 +1159,7 @@
           "16": {
             "message": {
               "": "Well, \\v[lore.title.seeker], you have done us a great service again.\\. Here, another reward well-earned!",
-              "en_US": "Bem, \\v[lore.title.seeker], você nos prestou um grande serviço novamente.\\. Aqui, mais uma recompensa merecida!"
+              "en_US": "\\v[lore.title.seeker], mais uma vez, você nos prestou um bom serviço.\\. Aqui está sua merecida recompensa!"
             }
           },
           "17": {

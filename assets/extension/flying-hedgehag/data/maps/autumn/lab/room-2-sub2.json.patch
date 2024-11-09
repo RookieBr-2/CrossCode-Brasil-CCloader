@@ -13,7 +13,7 @@
                 "1": {
                   "text": {
                     "": "Main Elevator: \\c[1]disabled\\c[0].\n\\c[1]Spawn a test subject?\\c[0]",
-                    "en_US": "Elevador principal: \\c[1]desativado\\c[0].\n\\c[1]Spawnar uma cobaia?\\c[0]"
+                    "en_US": "Elevador principal: \\c[1]desativado\\c[0].\n\\c[1]Invocar uma cobaia?\\c[0]"
                   }
                 },
                 "2": {
@@ -21,7 +21,7 @@
                     "2": {
                       "text": {
                         "": "\\c[1]Test subject will be spawned!\\c[0]",
-                        "en_US": "\\c[1]A cobaia será spawnada!\\c[0]"
+                        "en_US": "\\c[1]A cobaia será invocada!\\c[0]"
                       }
                     },
                     "3": {
@@ -110,19 +110,19 @@
             "8": {
               "message": {
                 "": "Greetings everyone!\\. The development of \\c[3]\"Project Paratroopa\"\\c[0] is moving along at a nice speed.",
-                "en_US": "Saudações a todos!\\. O desenvolvimento do \\c[3]\"Projeto Paraquedista\"\\c[0] segue em boa velocidade."
+                "en_US": "Saudações a todos!\\. O desenvolvimento do \\c[3]\"Projeto Paraquedista\"\\c[0] está avançando rapidamente."
               }
             },
             "9": {
               "message": {
                 "": "As the name suggests we had to first concentrate our efforts on military applications to secure our funds.",
-                "en_US": "Como o nome sugere, tivemos que primeiro concentrar nossos esforços em aplicações militares para garantir nossos fundos."
+                "en_US": "Como o próprio nome indica, foi necessário direcionar nossos esforços para aplicações militares a fim de garantir nossos fundos."
               }
             },
             "10": {
               "message": {
                 "": "Though, rest assured that our plans still involve civil projects that will benefit all of society.",
-                "en_US": "Porém, tenha certeza de que nossos planos ainda envolvem projetos civis, que beneficiarão toda a sociedade."
+                "en_US": "Porém, nossos planos ainda envolvem projetos civis, que beneficiarão toda a sociedade."
               }
             },
             "11": {
@@ -158,19 +158,19 @@
             "16": {
               "message": {
                 "": "Our favorite is a very large specimen of \\v[combat.name.hedgehog] who, despite his limited mobility, holds great authority over his peers.",
-                "en_US": "Nosso favorito, é um espécime muito grande, o \\v[combat.name.hedgehog], que apesar de sua mobilidade limitada, tem grande autoridade sobre seus semelhantes."
+                "en_US": "Nosso favorito é um espécime muito grande, o \\v[combat.name.hedgehog], que, apesar de sua mobilidade limitada, exerce grande autoridade sobre seus semelhantes."
               }
             },
             "17": {
               "message": {
                 "": "Right now I am leading a separate team to apply a specialized version of our flying devices to his huge body.",
-                "en_US": "No momento, estou liderando uma equipe separada, para aplicar uma versão especial de nossos dispositivos voadores em seu enorme corpo."
+                "en_US": "Neste instante, estou liderando uma equipe diferente para aplicar uma versão especial de nossos dispositivos voadores em seu corpo gigante."
               }
             },
             "18": {
               "message": {
                 "": "Our work will become even more exciting as we move forward, so please continue to share our excitement!",
-                "en_US": "Nosso trabalho será mais empolgante à medida que avançamos, então, por favor, continuem a compartilhar com nossa empolgação!"
+                "en_US": "Nosso trabalho será mais empolgante à medida que avançamos, então, por favor, estejam prontos para as novidades!"
               }
             }
           }
@@ -190,31 +190,31 @@
                 "1": {
                   "text": {
                     "": "\\c[1]INTERNAL MAIL, INBOX\\c[0]\n\n\\c[3]FROM:\\c[0] \"Avian Appliances\", Management\n\\c[3]TO:\\c[0] Office 8b\n\n\\c[3]Subject:\\c[0] Evaluation",
-                    "en_US": "\\c[1]EMAIL INTERNO, CAIXA DE ENTRADA\\c[0]\n\n\\c[3]DE:\\c[0] \"Dispositivos Aviários\", Gestão\n\\c[3]PARA:\\c[0] Escritório 8b\n\n\\c[3]Assunto:\\c[0] Avaliação"
+                    "en_US": "\\c[1]EMAIL INTERNO, CAIXA DE ENTRADA\\c[0]\n\n\\c[3]DE:\\c[0] \"Dispositivos Aéreos\", Gestão\n\\c[3]PARA:\\c[0] Escritório 8b\n\n\\c[3]Assunto:\\c[0] Avaliação"
                   }
                 },
                 "2": {
                   "text": {
                     "": "Dear employees,\n\nThe last report has shown some impressive results on your part. The entire company thanks you for your hard work.\nHowever, further negotiations with our client have increased the scope of the project.",
-                    "en_US": "Prezados funcionários,\n\nO último relatório mostrou alguns resultados impressionantes de sua parte. Toda a empresa agradece seu trabalho árduo.\nNo entanto, novas negociações com nosso cliente aumentaram o escopo do projeto."
+                    "en_US": "Caros funcionários,\n\nO último relatório apresentou resultados impressionantes da parte de vocês. Toda a empresa agradece pelo esforço.\nNo entanto, as novas negociações com nosso cliente ampliaram o escopo do projeto."
                   }
                 },
                 "3": {
                   "text": {
                     "": "To meet our goal we will need you to implement a \\c[3]whole host of additional features and functionalities\\c[0], on top of what has already been achieved.\nA full list has been attached.",
-                    "en_US": "Para atingir nosso objetivo, precisaremos que você implemente \\c[3]todo um conjunto de recursos e funcionalidades adicionais\\c[0], além do que já foi alcançado.\nUma lista completa foi anexada."
+                    "en_US": "Para alcançarmos nosso objetivo, precisamos que vocês implementem \\c[3]um conjunto completo de recursos e funcionalidades adicionais\\c[0], além do que já foi realizado. Uma lista completa está anexada."
                   }
                 },
                 "4": {
                   "text": {
                     "": "We are confident that you will meet these requirements without any problems.\n\nSincerest Regards,\nthe Management\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "Estamos confiantes de que você atenderá a esses requisitos sem problemas.\n\nAtenciosamente,\nGestão\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "Acreditamos que vocês atenderão a essas demandas sem complicações.\n\nAtenciosamente,\nGestão\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 },
                 "5": {
                   "text": {
                     "": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Office 8b\n\\c[3]TO:\\c[0] \"Avian Appliances\", Management\n\n\\c[3]Subject:\\c[0] RE: Evaluation",
-                    "en_US": "\\c[1]EMAIL INTERNO, ENVIADO\\c[0]\n\n\\c[3]DE:\\c[0] Escritório 8b\n\\c[3]PARA:\\c[ 0] \"Dispositivos Aviários\", Gestão\n\n\\c[3]Assunto:\\c[0] RE: Avaliação"
+                    "en_US": "\\c[1]EMAIL INTERNO, ENVIADO\\c[0]\n\n\\c[3]DE:\\c[0] Escritório 8b\n\\c[3]PARA:\\c[ 0] \"Dispositivos Aéreos\", Gestão\n\n\\c[3]Assunto:\\c[0] RE: Avaliação"
                   }
                 },
                 "6": {
@@ -226,13 +226,13 @@
                 "7": {
                   "text": {
                     "": "Implementing those additional features will require \\c[3]more time and energy\\c[0]. The Track is already \\c[3]infiltrating our system\\c[0] and constantly \\c[3]respawning weird objects\\c[0], so using even more of its power will be a huge risk.",
-                    "en_US": "A implementação desses recursos adicionais exigirá \\c[3]mais tempo e energia\\c[0]. A Trilha já está \\c[3]infiltrando-se em nosso sistema\\c[0] e constantemente \\c[3]respawnando objetos estranhos\\c[0], então, usar ainda mais de seu poder será um grande risco."
+                    "en_US": "Implementar esses recursos adicionais exigirá \\c[3]mais tempo e energia\\c[0]. A Trilha já está \\c[3]se infiltrando em nosso sistema\\c[0] e \\c[3]gerando objetos estranhos\\c[0] frequentemente, por isso, usar mais do seu poder será um grande risco."
                   }
                 },
                 "8": {
                   "text": {
                     "": "In conclusion, I don't feel confident in our current safety standards if we are to continue as you demand!\n\nSincerest Regards,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "Em conclusão, não me sinto confiante em nossos atuais padrões de segurança, querer continuar como você exige!\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "Em conclusão, não me sinto seguro com os nossos padrões de segurança atuais prosseguir com o projeto!\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 }
               }
@@ -254,25 +254,25 @@
                 "1": {
                   "text": {
                     "": "\\c[1]INTERNAL MAIL, INBOX\\c[0]\n\n\\c[3]FROM:\\c[0] Facility Management\n\\c[3]TO:\\c[0] [NAME REDACTED]\n\n\\c[3]Subject:\\c[0] Work Transgression",
-                    "en_US": "\\c[1]EMAIL INTERNO, CAIXA DE ENTRADA\\c[0]\n\n\\c[3]DE:\\c[0] Gerenciamento das Instalações\n\\c[3]PARA:\\c[0] [NOME REMOVIDO]\n\n\\c[3]Assunto:\\c[0] Transgressão de trabalho"
+                    "en_US": "\\c[1]EMAIL INTERNO, CAIXA DE ENTRADA\\c[0]\n\n\\c[3]DE:\\c[0] Gestão das Instalações\n\\c[3]PARA:\\c[0] [NOME REMOVIDO]\n\n\\c[3]Assunto:\\c[0] Infração no Trabalho"
                   }
                 },
                 "2": {
                   "text": {
                     "": "Dear Mr [NAME REDACTED],\n\nit has been brought to our attention that you are spending a sizable amount of \\c[3]company time\\c[0] with one of those new \\c[3]cute-character-collection games on your communicator\\c[0].\nWe consider this a breach of trust and will not accept this waste of worktime.",
-                    "en_US": "Prezado Sr. [NOME REMOVIDO],\n\nfoi informado que você está gastando uma quantidade considerável de \\c[3]tempo de trabalho\\c[0] com uma dessas novas \\c[3]coleções-de-personagens-fofos de jogos no seu comunicador\\c[0].\nConsideramos isso uma quebra de confiança e não aceitaremos esse desperdício de tempo de trabalho."
+                    "en_US": "Prezado Sr. [NOME CENSURADO],\n\nFoi informado que o senhor está gastando uma parte considerável do seu \\c[3]tempo de trabalho\\c[0] em um desses jogos em que você \\c[3]coleciona personagens fofinhos\\c[0]. Consideramos que o senhor está traindo nossa confiança e não aceitamos essa perda de tempo."
                   }
                 },
                 "3": {
                   "text": {
                     "": "Furthermore we want to mention that, according to our calculations, the \\c[3]likelihood\\c[0] of pulling your preferred fictional character is \\c[3]very low\\c[0], unless an irresponsible amount of your income is spent.\nFor your own well-being we advise you to reevaluate your priorities in this manner.",
-                    "en_US": "Além disso, queremos mencionar que, de acordo com nossos cálculos, a \\c[3]probabilidade\\c[0]de atrair seu personagem fictício preferido é \\c[3]muito baixa\\c[0], a menos que uma quantia irresponsável de sua renda for gasta.\nPara seu próprio bem-estar, aconselhamos que você reavalie suas prioridades."
+                    "en_US": "Além disso, gostaríamos de mencionar que, de acordo com nossos cálculos, a \\c[3]probabilidade\\c[0] de ganhar seu personagem fictício favorito é \\c[3]muito baixa\\c[0], a menos que você gaste uma quantia excessiva de sua renda.\nPara seu bem-estar, aconselhamos que reavalie suas prioridades."
                   }
                 },
                 "4": {
                   "text": {
                     "": "Consider this your first and final warning. \\c[3]Further transgressions will not be tolerated.\\c[0]\n\nSincerest Regards,\nthe Management\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "Considere este seu primeiro e último aviso. \\c[3]Outras transgressões não serão toleradas.\\c[0]\n\nAtenciosamente,\na Gestão\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "Considere este seu primeiro e último aviso. \\c[3]Outras infrações não serão toleradas.\\c[0]\n\nAtenciosamente,\na Gestão\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 }
               }

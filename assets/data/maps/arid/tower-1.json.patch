@@ -392,7 +392,7 @@
           "21": {
             "message": {
               "": "I won't let you continue doing this as you please.",
-              "en_US": "Eu não vou deixar você continuar fazendo isso como você quer."
+              "en_US": "Eu não vou deixar você o que quer."
             }
           },
           "36": {
@@ -432,7 +432,7 @@
           "64": {
             "message": {
               "": "The current plan is our best chance to rescue him!",
-              "en_US": "O plano atual é nossa melhor chance de salvá-lo!"
+              "en_US": "Nosso plano é nossa melhor chance de salvá-lo!"
             }
           },
           "65": {
@@ -458,7 +458,7 @@
           "76": {
             "message": {
               "": "I suppose that means I can't change your mind.",
-              "en_US": "Suponho que isso significa, que não posso fazer você mudar de idéia."
+              "en_US": "Acho que isso indica que não há como fazer você mudar de ideia."
             }
           },
           "77": {
@@ -470,7 +470,7 @@
           "78": {
             "message": {
               "": "In any case, you are about to hit a brick wall!",
-              "en_US": "De qualquer forma, você está prestes a atingir uma parede de tijolos!"
+              "en_US": "De qualquer forma, você está prestes a se chocar contra uma parede de tijolos!"
             }
           },
           "102": {
@@ -528,7 +528,7 @@
           "16": {
             "message": {
               "": "It looks like you're still at it?",
-              "en_US": "Parece que você ainda está nisso?"
+              "en_US": "Você ainda tá nisso, Lea?"
             }
           },
           "18": {
@@ -552,7 +552,7 @@
           "21": {
             "message": {
               "": "Don't worry about me, I already moved locations in advance.",
-              "en_US": "Não se preocupe comigo, já mudei de local com antecedência."
+              "en_US": "Não se preocupe comigo, já me adiantei e estou em outro lugar."
             }
           },
           "22": {
@@ -564,7 +564,7 @@
           "23": {
             "message": {
               "": "More importantly, it looks like you need a hand here, Lea?",
-              "en_US": "Mais importante, parece que você precisa de uma mão aqui, Lea?"
+              "en_US": "O que importa agora é ajudar a Lea."
             }
           },
           "25": {
@@ -582,7 +582,7 @@
           "29": {
             "message": {
               "": "Keep them busy for a little longer, I am almost finished!",
-              "en_US": "Mantenha-os ocupados por mais um pouco, estou quase terminando!"
+              "en_US": "Mantenham eles ocupados por mais tempo, estou quase terminando!"
             }
           }
         }
@@ -600,13 +600,13 @@
           "8": {
             "message": {
               "": "One of the Shredders will be marked with \\c[3]yellow stars\\c[0].",
-              "en_US": "Um dos Shredders será marcado com \\c[3]estrelas amarelas\\c[0]."
+              "en_US": "Alguns dos Brutos serão marcados com \\c[3]estrelas amarelas\\c[0]."
             }
           },
           "9": {
             "message": {
               "": "Defeat those and push them towards the Evotars.",
-              "en_US": "Derrote esses e empurre-os em direção aos Evotares."
+              "en_US": "Derrote eles e empurre-os em direção aos Evotares."
             }
           },
           "10": {
@@ -618,7 +618,7 @@
           "11": {
             "message": {
               "": "We might need several attempts though.",
-              "en_US": "Podemos precisar de várias tentativas, no entanto."
+              "en_US": "Entretanto, podemos precisar de várias tentativas."
             }
           },
           "12": {
@@ -677,7 +677,7 @@
           "31": {
             "message": {
               "": "It seems like your plan didn't work out as expected, hm?",
-              "en_US": "Parece que seu plano não funcionou como esperado, hm?"
+              "en_US": "Parece que seu plano não funcionou como esperado, não é?"
             }
           },
           "32": {
@@ -717,7 +717,8 @@
           },
           "63": {
             "message": {
-              "": "Huh?"
+              "": "Huh?",
+              "en_US": "Hã?"
             }
           },
           "66": {
@@ -794,7 +795,7 @@
           "46": {
             "message": {
               "": "That was supposed to happen, right?",
-              "en_US": "Isso era para acontecer, certo?"
+              "en_US": "Isso era para acontecer, não é?"
             }
           },
           "48": {
@@ -830,7 +831,7 @@
           "71": {
             "message": {
               "": "Hm. That was your plan, I suppose?",
-              "en_US": "Hm. Esse era o seu plano, suponho?"
+              "en_US": "Hm. Então esse era o seu plano?"
             }
           },
           "72": {
@@ -842,13 +843,13 @@
           "73": {
             "message": {
               "": "Hah...\\. clever.\\. Very clever, indeed!",
-              "en_US": "Ah...\\. esperto.\\. Muito esperto, mesmo!"
+              "en_US": "Ah...\\. esperto.\\. Muito esperto mesmo!"
             }
           },
           "74": {
             "message": {
               "": "I assume simply rebooting the server won't fix it either, will it?",
-              "en_US": "Suponho que simplesmente reiniciar o servidor também não resolverá, não é?"
+              "en_US": "Imagino que reiniciar o servidor não vai resolver a situação, não é?"
             }
           },
           "75": {
@@ -895,7 +896,7 @@
           "91": {
             "message": {
               "": "And it is thanks to all your efforts, I would never deny that.",
-              "en_US": "E é graças a todos os seus esforços, eu nunca negaria isso."
+              "en_US": "E é inegável que tudo isso foi resultado dos seus esforços."
             }
           },
           "95": {
@@ -907,7 +908,7 @@
           "97": {
             "message": {
               "": "WHY would you do all of this to us?!",
-              "en_US": "POR QUE você faria tudo isso com a gente?!"
+              "en_US": "POR QUE você fez tudo isso com a gente?!"
             }
           },
           "99": {
@@ -931,7 +932,7 @@
           "106": {
             "message": {
               "": "Because you didn't leave me any choice.",
-              "en_US": "Porque você não me deixou escolha."
+              "en_US": "Porque vocês não me deixaram escolha."
             }
           },
           "107": {
@@ -943,19 +944,19 @@
           "108": {
             "message": {
               "": "You wanted to drop everything!",
-              "en_US": "Você quis largar tudo!"
+              "en_US": "Vocês queriam abandonar tudo!"
             }
           },
           "109": {
             "message": {
               "": "Tell the authorities.\\. Make me pay for my evil deeds.",
-              "en_US": "Diga às autoridades.\\. Me faça pagar por minhas más ações"
+              "en_US": "Vá em frente e diga às autoridades.\\. Me faça pagar por minhas más ações."
             }
           },
           "110": {
             "message": {
               "": "Conveniently ignoring the fact that we were all in this together.",
-              "en_US": "Convenientemente ignorando o fato de que estávamos todos juntos nisso."
+              "en_US": "Ignorando de forma conveniente o fato de que estávamos todos envolvidos."
             }
           },
           "111": {
@@ -1080,7 +1081,7 @@
           "138": {
             "message": {
               "": "Make anything of this public and Instatainment will shut us down at once.",
-              "en_US": "Torne isso público e a Instatainment nos fechará imediatamente."
+              "en_US": "Se isso vier à tona, a Instatainment vai arruinar tudo."
             }
           },
           "139": {
@@ -1098,13 +1099,13 @@
           "150": {
             "message": {
               "": "That is a conveniently limited view if I ever heard one.",
-              "en_US": "Essa é uma visão convenientemente limitada, se é que já ouvi uma."
+              "en_US": "Essa é uma visão bem limitada."
             }
           },
           "151": {
             "message": {
               "": "Assuming that there is simply no way to find an agreement with Instatainment.",
-              "en_US": "Assumindo que simplesmente não há como encontrar um acordo com a Instatainment."
+              "en_US": "Não se pode descartar a possibilidade de um acordo com a Instatainment."
             }
           },
           "152": {
@@ -1134,19 +1135,19 @@
           "167": {
             "message": {
               "": "But of course, things wouldn't be quite as much under your control once Evotars become public.",
-              "en_US": "Mas é claro que as coisas não estariam tão sob seu controle quando os Evotares se tornarem públicos."
+              "en_US": "Mas, é claro, se os Evotares se tornarem públicos, você perderá o controle sobre eles."
             }
           },
           "168": {
             "message": {
               "": "Japp!\\. Obviously, you'd like things to stay just the way they are.",
-              "en_US": "Japp!\\. Obviamente, você gostaria que as coisas continuassem do jeito que estão."
+              "en_US": "Japp!\\. Obviamente, você prefere que tudo continue como está."
             }
           },
           "172": {
             "message": {
               "": "Yes! Just what they said! 100% agreed!",
-              "en_US": "Sim! Exatamente o que eles disseram! 100% de acordo!"
+              "en_US": "Sim! É exatamente o que eles disseram! Estou 100% de acordo!"
             }
           },
           "177": {
@@ -1182,19 +1183,19 @@
           "189": {
             "message": {
               "": "I assume you plan to just walk up to the server, reboot it and fetch the data, am I right?",
-              "en_US": "Eu suponho que você planeje apenas ir até o servidor, reiniciá-lo e buscar os dados, estou certo?"
+              "en_US": "Imagino que você tenha a intenção de acessar o servidor, reiniciá-lo e pegar os dados, estou certo?"
             }
           },
           "190": {
             "message": {
               "": "Well, I have bad news for you.",
-              "en_US": "Bem, eu tenho más notícias para você."
+              "en_US": "Bom, eu tenho más notícias para você."
             }
           },
           "192": {
             "message": {
               "": "There is a reason the server is located \\c[3]inside the tower\\c[0].",
-              "en_US": "Há uma razão para o servidor estar localizado \\c[3]dentro da torre\\c[0]."
+              "en_US": "Tem uma razão para o servidor estar localizado \\c[3]dentro da torre\\c[0]."
             }
           },
           "193": {
@@ -1206,19 +1207,19 @@
           "194": {
             "message": {
               "": "I hold control over the environment server.",
-              "en_US": "Eu mantenho o controle sobre o servidor do ambiente."
+              "en_US": "Eu tenho controle sobre o servidor de ambiente."
             }
           },
           "195": {
             "message": {
               "": "I can clear the room instance of the server at any time.",
-              "en_US": "Posso limpar a instância da sala do servidor a qualquer momento."
+              "en_US": "Posso eliminar a instância da sala do servidor a qualquer momento."
             }
           },
           "196": {
             "message": {
               "": "Effectively removing the platform below it.",
-              "en_US": "Removendo efetivamente a plataforma abaixo dela."
+              "en_US": "Removendo a plataforma abaixo dela."
             }
           },
           "197": {
@@ -1236,13 +1237,13 @@
           "200": {
             "message": {
               "": "That's right. The command to clear the data doesn't go through the Evotar server.",
-              "en_US": "Está certo. O comando para limpar os dados não passa pelo servidor Evotar."
+              "en_US": "Isso mesmo. O comando para limpar os dados não passa pelo servidor Evotar."
             }
           },
           "201": {
             "message": {
               "": "It goes through the \\c[3]Environment Server\\c[0]!",
-              "en_US": "Ele passa pelo \\c[3]Servidor da Environment\\c[0]!"
+              "en_US": "Ele passa pelo \\c[3]Servidor de Ambiente\\c[0]!"
             }
           },
           "202": {
@@ -1254,25 +1255,25 @@
           "204": {
             "message": {
               "": "Now then!",
-              "en_US": "Agora, então!"
+              "en_US": "Que pena..."
             }
           },
           "205": {
             "message": {
               "": "That was quite the fuss you put up there. ",
-              "en_US": "Essa foi a barulheira que você fez lá em cima."
+              "en_US": "Você fez uma grande bagunça aqui."
             }
           },
           "206": {
             "message": {
               "": "Very entertaining to watch...",
-              "en_US": "Muito divertido de ver..."
+              "en_US": "Foi muito divertido de ver...."
             }
           },
           "207": {
             "message": {
               "": "But ultimately...\\. all for nothing!",
-              "en_US": "Mas enfim...\\. tudo para nada!"
+              "en_US": "Mas no fim...\\. foi tudo em vão!"
             }
           },
           "209": {
@@ -1331,7 +1332,7 @@
           "264": {
             "message": {
               "": "The quintessential experience!",
-              "en_US": "A experiência fundamental!"
+              "en_US": "A experiência definitiva!"
             }
           },
           "265": {
@@ -1355,25 +1356,25 @@
           "295": {
             "message": {
               "": "We are thrilled to watch your ascent!",
-              "en_US": "Estamos empolgados para assistir a sua ascensão!"
+              "en_US": "Estamos animados para ver sua ascensão!"
             }
           },
           "304": {
             "message": {
               "": "Gautham...\\. I can't believe this!",
-              "en_US": "Gautham...\\. Não consigo acreditar nisso!"
+              "en_US": "Gautham...\\. Você não pode estar falando sério!"
             }
           },
           "305": {
             "message": {
               "": "Now of all times!",
-              "en_US": "Agora, mais do que nunca!"
+              "en_US": "Está arruinando tudo!"
             }
           },
           "315": {
             "message": {
               "": "Uhm...\\. what is going on?\\. Anyone?",
-              "en_US": "Uhm...\\. o que está acontecendo?\\. Alguém?"
+              "en_US": "Hmm...\\. o que está acontecendo?\\. Alguém sabe?"
             }
           },
           "318": {
@@ -1397,31 +1398,31 @@
           "325": {
             "message": {
               "": "Correct.",
-              "en_US": "Correto."
+              "en_US": "Sim."
             }
           },
           "326": {
             "message": {
               "": "It seems he has taken control of the Environment Server.",
-              "en_US": "Parece que ele assumiu o controle do servidor da Environment."
+              "en_US": "Parece que ele assumiu o controle do servidor de ambiente."
             }
           },
           "330": {
             "message": {
               "": "That is...\\. good, right?",
-              "en_US": "Isso é...\\. bom, certo?"
+              "en_US": "Isso é...\\. bom, não é?"
             }
           },
           "331": {
             "message": {
               "": "Now we might still get our chance to access the server!",
-              "en_US": "Agora talvez ainda tenhamos a chance de acessar o servidor!"
+              "en_US": "Quem sabe ainda temos uma chance de acessar o servidor!"
             }
           },
           "332": {
             "message": {
               "": "Yes...\\. that is, if Lea takes on his challenge.\\. By herself.",
-              "en_US": "Sim...\\. ou seja, se Lea aceitar o desafio dele.\\. Sozinha."
+              "en_US": "Sim...\\. se Lea aceitar o desafio dele.\\. Sozinha."
             }
           },
           "335": {
@@ -1537,7 +1538,7 @@
           "28": {
             "message": {
               "": "D-did it work?",
-              "en_US": "I-isso funcionou?"
+              "en_US": "Deu certo?"
             }
           },
           "30": {
@@ -1567,7 +1568,7 @@
           "34": {
             "message": {
               "": "He logged out...\\. and disappeared.",
-              "en_US": "Ele desconectou-se...\\. e desapareceu."
+              "en_US": "Ele se desconectou...\\. e desapareceu."
             }
           },
           "35": {
@@ -1637,7 +1638,7 @@
           "67": {
             "message": {
               "": "Now of all times!\\. Why would he do this now?!",
-              "en_US": "Agora, mais do que nunca!\\. Por que ele faria isso agora?!"
+              "en_US": "Por que?\\. Por que ele faria isso agora?!"
             }
           },
           "73": {
@@ -1655,25 +1656,25 @@
           "75": {
             "message": {
               "": "Preparing those interrogations...",
-              "en_US": "Preparando esses interrogatórios..."
+              "en_US": "Preparando os interrogatórios..."
             }
           },
           "76": {
             "message": {
               "": "I just thought...\\. he didn't care anymore...",
-              "en_US": "Eu apenas pensei...\\. que ele não se importava mais..."
+              "en_US": "Eu achei...\\. ele não se importava mais..."
             }
           },
           "84": {
             "text": {
               "": "It was one thing I never considered...\\.\n\\.\nThat it was him who took on the heavy burden.\\.\nHandling the worst parts of Sidwell's business...\\.\n\\.\nHe must have lost control...\\. a long time ago.",
-              "en_US": "Foi uma coisa que eu nunca considerei...\\.\n\\.\nQue foi ele quem assumiu o fardo mais pesado.\\.\nLidando com as piores partes dos negócios de Sidwell...\\.\n\\.\nEle deve ter perdido o controle...\\. a muito tempo atrás."
+              "en_US": "Nunca me passou pela cabeça, durante todo esse tempo...\\.\n\\.\nQue era ele quem carregava o fardo mais pesado.\\.\nFazendo o trabalho sujo de Sidwell...\\.\n\\.\Ele deve ter perdido o controle de si mesmo...\\. há muito tempo atrás."
             }
           },
           "86": {
             "text": {
               "": "This was it...",
-              "en_US": "Isso foi..."
+              "en_US": "E então..."
             }
           },
           "88": {

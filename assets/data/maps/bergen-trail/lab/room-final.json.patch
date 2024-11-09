@@ -16,7 +16,7 @@
             "9": {
               "message": {
                 "": "Welcome!\\. This is again \\c[3]Xavier Bonegate\\c[0] speaking for \\c[3]Heavy Hardware Inc\\c[0].\\. For the last time in this facility.",
-                "en_US": "Bem-vinda!\\. Este é novamente \\c[3]Xavier Bonegate\\c[0] falando em nome da \\c[3]Equipamentos Pesados Inc\\c[0].\\. Pela última vez nesta instalação."
+                "en_US": "Bem-vinda!\\. Aqui é \\c[3]Xavier Bonegate\\c[0] novamente, falando em nome da \\c[3]Equipamentos Pesados S.A.\\c[0].\\. Pela última vez nesta instalação."
               }
             },
             "10": {
@@ -46,7 +46,7 @@
             "14": {
               "message": {
                 "": "But now it is time to leave this place behind.\\. The \\v[combat.name.snowman] have been instructed to guard the facility.",
-                "en_US": "Mas agora é hora de deixar este lugar para trás.\\. Os \\v[combat.name.snowman] foram instruídos a vigiar a instalação."
+                "en_US": "Mas agora é hora de deixar este lugar para trás.\\. Os \\v[combat.name.snowman]s foram instruídos a vigiar a instalação."
               }
             },
             "15": {
@@ -58,19 +58,19 @@
             "16": {
               "message": {
                 "": "It will house the greatest minds of our generation to work tirelessly for the good of mankind!",
-                "en_US": "Abrigará as maiores mentes de nossa geração para trabalhar incansavelmente pelo bem da humanidade!"
+                "en_US": "Ele abrigará as mentes mais brilhantes de nossa geração, trabalhando incansavelmente pelo bem da humanidade!"
               }
             },
             "17": {
               "message": {
                 "": "In the name of the entire team I ask you to not just see this project as a failure but the beginning of something even grander.",
-                "en_US": "Em nome de toda a equipe, peço que não vejam este projeto apenas como um fracasso, mas como o começo de algo ainda maior."
+                "en_US": "Em nome de toda a equipe, peço que não veja este projeto apenas como um fracasso, mas como o começo de algo ainda maior."
               }
             },
             "18": {
               "message": {
                 "": "Because it is in the future where we will spend the rest of our lives.\\. And in this future we will work, to affect the futures of everyone!\\. Goodbye.",
-                "en_US": "Porque é no futuro que passaremos o resto de nossas vidas.\\. E nesse futuro vamos trabalhar, pelo futuro de todos!\\. Adeus."
+                "en_US": "Porque é no futuro que passaremos o resto de nossas vidas.\\. E nesse futuro vamos nos esforçar pelo bem de todos!\\. Adeus."
               }
             }
           }
@@ -100,7 +100,7 @@
           "6": {
             "message": {
               "": "Such a beautiful machine of war and you still managed to trash it.\\. You \\v[lore.title.seeker]s are something else.",
-              "en_US": "Uma bela máquina de guerra e você ainda conseguiu destruí-la.\\. Vocês \\v[lore.title.seeker]s são algo diferente."
+              "en_US": "Você conseguiu destruir aquela bela máquina de guerra.\\. \\v[lore.title.seeker]s são impressionantes."
             }
           },
           "7": {
@@ -111,7 +111,7 @@
           "8": {
             "message": {
               "": "But you got that datachip.\\. Our technicians should be able to reverse engineer some great toys from that.",
-              "en_US": "Mas você tem esse chip de dados.\\. Nossos técnicos devem ser capazes de fazer engenharia reversa de alguns ótimos brinquedos a partir disso."
+              "en_US": "Além disso, você pegou esse chip de dados.\\. Nossos técnicos devem conseguir desenvolver alguns brinquedos incríveis com isso."
             }
           },
           "9": {
@@ -154,25 +154,25 @@
                 "2": {
                   "text": {
                     "": "Good evening everyone, \n\nSince \\c[3]our funding has been cut\\c[0] and \\c[3]the facilities got taken by the Track\\c[0], we established a \\c[3]new place\\c[0] where we will preserve and continue our research.",
-                    "en_US": "Boa noite a todos, \n\nDesde que \\c[3]nosso financiamento foi cortado\\c[0] e \\c[3]as instalações foram tomadas pela Trilha\\c[0], estabelecemos um \\c[3]novo local\\c[0] onde vamos preservar e continuar nossas pesquisas."
+                    "en_US": "Boa noite a todos, \n\nBoa noite a todos, \n\nDevido ao \\c[3]corte de nosso financiamento\\c[0] e à \\c[3]tomada das instalações pela Trilha\\c[0], encontramos um \\c[3]novo local\\c[0] para preservar e dar continuidade às nossas pesquisas."
                   }
                 },
                 "3": {
                   "text": {
                     "": "The entrance can be found \\c[3]somewhere in \\v[area.forest.name]\\c[0].\nYou will find the \\c[3]key\\c[0] to enter it in the \\c[3]attachment\\c[0] of this message.\nHowever, \\c[3]by itself the key will not work\\c[0].",
-                    "en_US": "A entrada pode ser encontrada \\c[3]em algum lugar em \\v[area.forest.name]\\c[0].\nVocê encontrará a \\c[3]chave\\c[0] para entrar no \\c[3]anexo\\c[0] desta mensagem.\nNo entanto, \\c[3]sozinha a chave não funcionará\\c[0]."
+                    "en_US": "A entrada pode ser encontrada \\c[3]em algum lugar na \\v[area.forest.name]\\c[0].\nVocê encontrará a \\c[3]chave\\c[0] para acessá-la no \\c[3]anexo\\c[0] desta mensagem.\nNo entanto, \\c[3]a chave não funcionará\\c[0]."
                   }
                 },
                 "4": {
                   "text": {
                     "": "You will first need to \\c[3]decrypt\\c[0] it at \\c[3]4 different places\\c[0] that are hidden somewhere on \\v[lore.title.planet], each in a \\c[3]different region\\c[0].",
-                    "en_US": "Você primeiro precisará \\c[3]descriptografar\\c[0] em \\c[3]4 lugares diferentes\\c[0] que estão escondidos em algum lugar em \\v[lore.title.planet] , cada um em uma \\c[3]região diferente\\c[0]."
+                    "en_US": "Primeiro, você precisará \\c[3]descriptografar\\c[0] a chave em \\c[3]quatro locais diferentes\\c[0] que estão escondidos em algum lugar de \\v[lore.title.planet], situados em \\c[3]regiões distintas\\c[0]."
                   }
                 },
                 "5": {
                   "text": {
                     "": "Hints towards \\c[1]one\\c[0] the locations can be found in each of our 4 facilities.\n\\c[3]So you will learn one location after reading this very message.\\c[0]",
-                    "en_US": "Dicas para \\c[1]um\\c[0] dos locais, podem ser encontradas em cada uma das nossas 4 instalações.\n\\c[3]Então você aprenderá um local depois de ler esta mensagem.\\c[0]"
+                    "en_US": "Você pode encontrar dicas para \\c[1]um\\c[0] dos locais em cada uma das nossas quatro instalações. \\c[3]Ao ler esta mensagem, você descobrirá um deles\\c[0]."
                   }
                 },
                 "6": {
@@ -202,7 +202,7 @@
                 "7": {
                   "text": {
                     "": "\\c[1]ATTACHMENT:\\c[0]\n\nOne of the hidden places can be found in \\c[3]\\v[area.bergen-trails.name]\\c[0], \\c[3]\"Between a laser bridge and the hidden lair of Frobbits out of reach.\"\\c[0]!",
-                    "en_US": "\\c[1]ANEXO:\\c[0]\n\nUm dos lugares ocultos pode ser encontrado em \\c[3]\\v[area.bergen-trails.name]\\c[0] , \\c[3]\"Entre uma ponte de laser e o covil escondido de Frobbits fora de alcance.\"\\c[0]!"
+                    "en_US": "\\c[1]ANEXO:\\c[0]\n\nUm dos locais secretos pode ser encontrado na \\c[3]\\v[area.bergen-trails.name]\\c[0] , \\c[3]\"Entre uma ponte laser e a toca oculta dos Coelhapos, fora de alcance\"\\c[0]."
                   }
                 }
               }

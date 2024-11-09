@@ -240,13 +240,13 @@
                 "12": {
                   "message": {
                     "": "Wait, what? Really? \\.\\.\\. But I'm \\c[3]Holiday Man\\c[0]!",
-                    "en_US": "Calma, o que? Sério? \\.\\.\\. Mas eu sou o \\c[3]Homem do Natal!\\c[0]!"
+                    "en_US": "Calma, o que? Sério?\\.\\.\\. Mas eu sou o \\c[3]Homem do Natal\\c[0]!"
                   }
                 },
                 "14": {
                   "message": {
                     "": "Giving gifts and bringing joy and peace to people? No?",
-                    "en_US": "Dando presentes e trazendo alegria e paz às pessoas? Não?"
+                    "en_US": "Que dá presentes e traz alegria e paz às pessoas? Lembra?"
                   }
                 },
                 "15": {
@@ -257,13 +257,13 @@
                 "16": {
                   "message": {
                     "": "[shakes head]",
-                    "en_US": ""
+                    "en_US": "[balança a cabeça]"
                   }
                 },
                 "17": {
                   "message": {
                     "": "Aw man... \\.\\.\\. Maybe you are just new here...",
-                    "en_US": "Puxa vida... \\.\\.\\. Talvez você seja nova por aqui..."
+                    "en_US": "Puxa vida...\\.\\.\\. Talvez você seja nova por aqui..."
                   }
                 },
                 "18": {
@@ -333,7 +333,7 @@
                     "2": {
                       "message": {
                         "": "Alright, let's split the work. You go find the players here in \\c[3]Bergen\\c[0], then \\c[3]\\v[area.bergen-trails.name]\\c[0], \\c[3]\\v[area.autumn-area.name]\\c[0] and finally \\c[3]\\v[area.rookie-harbor.name]\\c[0].",
-                        "en_US": "Tudo bem, vamos dividir o trabalho. Você vai encontrar os jogadores aqui em \\c[3]Bergen\\c[0], e depois na \\c[3]\\v[area.bergen-trails.name]\\c[0], \\c[3]\\v[area.autumn-area.name]\\c[0] e finalmente \\c[3]\\v[area.rookie-harbor.name]\\c[0]."
+                        "en_US": "Tudo bem, vamos dividir o trabalho. Você encontrará os jogadores aqui em \\c[3]Bergen\\c[0] e depois na \\c[3]\\v[area.bergen-trails.name]\\c[0], \\c[3]\\v[area.autumn-area.name]\\c[0] e, por último, no \\c[3]\\v[area.rookie-harbor.name]\\c[0]."
                       }
                     },
                     "3": {
@@ -373,7 +373,7 @@
                     "10": {
                       "message": {
                         "": "But in each area it's always a \\c[3]Triblader\\c[0], \\c[3]Hexacast\\c[0], \\c[3]Pentafist\\c[0] and \\c[3]Quadroguard\\c[0].",
-                        "en_US": "Mas em cada área sempre tem \\c[3]Tricorte\\c[0], \\c[3]Hexamago\\c[0], \\c[3]Pentapunho\\c[0] e um \\c[3]Quadroguarda\\c[0]."
+                        "en_US": "Mas em cada área sempre tem um \\c[3]Tricorte\\c[0], um \\c[3]Hexamago\\c[0], um \\c[3]Pentapunho\\c[0] e um \\c[3]Quadroguarda\\c[0]."
                       }
                     },
                     "11": {
@@ -410,7 +410,7 @@
                     "0": {
                       "message": {
                         "": "Noooo!\\.\\.\\. Okay, no hard feelings.",
-                        "en_US": "Nãoooo!\\.\\.\\. Certo, sem ressentimentos."
+                        "en_US": "Nãoooo!\\.\\.\\. Tudo bem, sem ressentimentos."
                       }
                     }
                   }
@@ -429,7 +429,7 @@
               "3": {
                 "message": {
                   "": "Don't wait too long, we'll have to do this quick!",
-                  "en_US": "Não perca tempo, nós temos que terminar isso rápido"
+                  "en_US": "Não perca tempo, nós temos que terminar isso rápido!"
                 }
               },
               "4": {
@@ -520,7 +520,7 @@
                 "20": {
                   "message": {
                     "": "I'll lower the wall so you can get in.",
-                    "en_US": "Vou baixar a parede para que você possa entrar."
+                    "en_US": "Vou abrir a parede para que você possa entrar."
                   }
                 },
                 "27": {
@@ -570,13 +570,13 @@
                 "4": {
                   "message": {
                     "": "Oh, you did? Ha! What a relief...",
-                    "en_US": "Ah, você consegiu? Ho!\\. Ho!\\. Ho!\\. Que alívio..."
+                    "en_US": "Ho!\\. Ho!\\. Ho!\\. Que alívio..."
                   }
                 },
                 "5": {
                   "message": {
                     "": "And... \\.\\.\\. How are my presents? ",
-                    "en_US": "E... \\.\\.\\. Como estão os presentes?"
+                    "en_US": "E...\\.\\.\\. Como estão os presentes?"
                   }
                 },
                 "6": {
@@ -587,7 +587,7 @@
                 "7": {
                   "message": {
                     "": "Hi... \\.\\.\\. Lea...",
-                    "en_US": "Oi... \\.\\.\\. Lea..."
+                    "en_US": "Oi...\\.\\.\\. Lea..."
                   }
                 },
                 "8": {
@@ -621,7 +621,7 @@
                 "13": {
                   "message": {
                     "": "Oh no, how rude of me to not ask for your name.",
-                    "en_US": "Ah não, que falta de educação da minha parte não perguntar seu nome."
+                    "en_US": "Ah, não! Que falta de educação minha não ter perguntado seu nome."
                   }
                 },
                 "14": {
@@ -650,7 +650,7 @@
                 "18": {
                   "message": {
                     "": "Ahm... \\.\\.\\. Here, take my hat as a reward! ",
-                    "en_US": "Ahm... \\.\\.\\. Aqui, pegue meu chapéu como reconpensa! "
+                    "en_US": "Hmm... \\.\\.\\. Aqui, pegue meu chapéu como reconpensa! "
                   }
                 },
                 "19": {
@@ -732,7 +732,7 @@
               "0": {
                 "name": {
                   "": "Holiday Man",
-                  "en_US": "O Homem do Natal"
+                  "en_US": "Homem do Natal"
                 }
               },
               "2": {
@@ -828,7 +828,7 @@
                       "0": {
                         "message": {
                           "": "Oh yes! I think I may have another present for you!",
-                          "en_US": "Oh sim! Acho que posso ter outro presente para você!"
+                          "en_US": "Ah sim! Acho que posso ter outro presente para você!"
                         }
                       },
                       "1": {
@@ -850,7 +850,7 @@
                       "4": {
                         "message": {
                           "": "Maybe come back sometime later?",
-                          "en_US": "Talvez você possa voltar algum tempo mais tarde?"
+                          "en_US": "Talvez você possa voltar mais tarde?"
                         }
                       },
                       "5": {
@@ -1006,7 +1006,7 @@
               "2": {
                 "message": {
                   "": "Hm, would you call this a snow village?\\. I mean it's a village and there is snow...",
-                  "en_US": "Hm, você chamaria isso de aldeia da neve?\\. Eu quero dizer, é uma aldeia e há neve..."
+                  "en_US": "Hm, você chamaria isso de aldeia da neve?\\. Quer dizer, é uma aldeia e tem neve..."
                 }
               },
               "3": {
@@ -1280,7 +1280,7 @@
                 "3": {
                   "message": {
                     "": "\\v[lore.title.seeker].\\. A loyal soldier of the \\v[lore.title.human-government], I assume?",
-                    "en_US": "\\v[lore.title.seeker].\\. Uma soldada leal das \\v[lore.title.human-government], eu presumo?"
+                    "en_US": "\\v[lore.title.seeker].\\. Aposto que você é uma soldada fiel de \\v[lore.title.human-government], estou certo?"
                   }
                 },
                 "4": {
@@ -1309,7 +1309,7 @@
                 "8": {
                   "message": {
                     "": "Oh, don't let these moments of peace fool you.\\. The next foe is always somewhere behind the corner.",
-                    "en_US": "Ah, não deixe que estes momentos de paz a enganem.\\. O próximo inimigo está sempre em algum lugar atrás da esquina."
+                    "en_US": "Ah, não deixe que estes momentos de paz a enganem.\\. Sempre tem um inimigo esperando depois da esquina."
                   }
                 },
                 "9": {
@@ -1338,7 +1338,7 @@
                 "13": {
                   "message": {
                     "": "And as fate has it, some spectacular hardware is just within our reach.\\. Can we count on you, \\v[lore.title.seeker]?",
-                    "en_US": "E como o destino quer, algumas aparelhagens espetaculares estão ao nosso alcance. Podemos contar com você, \\v[lore.title.seeker]?"
+                    "en_US": "Parece que o destino colocou algumas máquinas extraordinárias ao nosso dispor.\\. Podemos contar com você, \\v[lore.title.seeker]?"
                   }
                 },
                 "14": {
@@ -1352,13 +1352,13 @@
                     "1": {
                       "message": {
                         "": "HURRAH!\\. Exactly the right decision, \\v[lore.title.seeker]!",
-                        "en_US": "HURRA!\\. Exatamente a decisão correta, \\v[lore.title.seeker]!"
+                        "en_US": "URRA!\\. Você fez a escolha certa, \\v[lore.title.seeker]!"
                       }
                     },
                     "2": {
                       "message": {
                         "": "Now onto your mission.\\. There is an armored combat vehicle some arms company once produced for us.",
-                        "en_US": "Agora sobre sua missão.\\. Há um veículo blindado de combate que uma vez foi produzido por uma empresa de armas para nós."
+                        "en_US": "Agora, sobre sua missão.\\. Um veículo blindado de combate foi construído para nós por uma empresa de armamentos."
                       }
                     },
                     "3": {
@@ -1376,7 +1376,7 @@
                     "5": {
                       "message": {
                         "": "Heck if I know, \\v[lore.title.seeker]!\\. Scientists and their weird ideas, am I right?",
-                        "en_US": "Diabos se eu sei, \\v[lore.title.seeker]!\\. Cientistas e suas ideias loucas, concorda?"
+                        "en_US": "Eu sei lá, \\v[lore.title.seeker]!\\. Esses cientistas gostam de uma bizarrice, não acha?"
                       }
                     },
                     "6": {
@@ -1387,7 +1387,7 @@
                     "7": {
                       "message": {
                         "": "In any case, I want you to get those things back to us and find the abandoned facility that produced it!",
-                        "en_US": "Em qualquer caso, quero que nos traga essas coisas de volta e encontre as instalações abandonadas que as produziram!"
+                        "en_US": "Seja como for, quero que você recupere essas coisas e localize as instalações abandonadas que as criaram!"
                       }
                     },
                     "8": {
@@ -1398,7 +1398,7 @@
                     "9": {
                       "message": {
                         "": "Go to the \\c[3]Old Plateau in \\v[area.bergen-trails.name]\\c[0] and kick those heavily armed butts!",
-                        "en_US": "Vá para o \\c[3]Planalto Antigo em \\v[area.bergen-trails.name]\\c[0] e chute aqueles traseiros fortemente armados!"
+                        "en_US": "Vá para o \\c[3]Planalto Antigo na \\v[area.bergen-trails.name]\\c[0] e chute aqueles traseiros fortemente armados!"
                       }
                     },
                     "10": {
@@ -1454,7 +1454,7 @@
               "2": {
                 "message": {
                   "": "The heavily armed creatures loiter around on the \\c[3]Old Plateau in \\v[area.bergen-trails.name]\\c[0].\\. Kick their butts!",
-                  "en_US": "As criaturas fortemente armadas vagam sobre o \\c[3]Planalto Antigo em \\v[area.bergen-trails.name]\\c[0].\\. Acabe com eles!"
+                  "en_US": "As criaturas armadas vagam sobre o \\c[3]Planalto Antigo na \\v[area.bergen-trails.name]\\c[0].\\. Acabe com eles!"
                 }
               }
             }
@@ -1487,7 +1487,7 @@
                 "5": {
                   "message": {
                     "": "You can be proud of yourself, soldier.\\. The data you collected will be of great use for our defense force.",
-                    "en_US": "Você pode estar orgulhosa de si mesma, soldada.\\. Os dados que você coletou serão de grande utilidade para nossa força de defesa."
+                    "en_US": "Você pode se orgulhar, soldada..\\. Os dados que você coletou serão muito úteis para nossa força de defesa."
                   }
                 },
                 "6": {
@@ -1499,7 +1499,7 @@
                 "7": {
                   "message": {
                     "": "I give you a salute and also your reward, courtesy of the \\v[lore.title.human-government]!",
-                    "en_US": "Eu lhe dou uma saudação e também sua recompensa, cortesia da \\v[lore.title.human-government]!"
+                    "en_US": "Eu lhe dou uma saudação e sua recompensa, cortesia das \\v[lore.title.human-government]!"
                   }
                 },
                 "8": {

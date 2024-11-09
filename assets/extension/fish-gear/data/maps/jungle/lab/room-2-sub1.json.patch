@@ -13,43 +13,43 @@
                 "1": {
                   "text": {
                     "": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Office 34a\n\\c[3]TO:\\c[0] \"Mech Machinery\", Management\n\n\\c[3]Subject:\\c[0] Regarding the deliveries",
-                    "en_US": "\\c[1]EMAIL INTERNO, ENVIADO\\c[0]\n\n\\c[3]DE:\\c[0] Escritório 34a\n\\c[3]PARA:\\c[0] \"Maquinário Mecânico\", Gestão\n\n\\c[3]Assunto:\\c[0] Sobre as entregas"
+                    "en_US": "\\c[1]EMAIL INTERNO, ENVIADO\\c[0]\n\n\\c[3]DE:\\c[0] Escritório 34a\n\\c[3]PARA:\\c[0] \"Máquinas Mecha\", Gestão\n\n\\c[3]Assunto:\\c[0] Sobre as entregas"
                   }
                 },
                 "2": {
                   "text": {
                     "": "Respected management,\n\nwe are grateful for all the support and material you send to us, but we are at this point very well equipped already. All those cargo boxes are starting to pile up, even in our lobby!",
-                    "en_US": "Respeitada gestão,\n\nficamos gratos por todo o apoio e material que nos enviam, mas neste momento já estamos muito bem equipados. Todas aquelas caixas de carga estão começando a se acumular, até mesmo no nosso saguão!"
+                    "en_US": "Prezada gestão,\n\nAgradecemos todo o apoio e os materiais que nos enviaram, mas no momento estamos bem equipados. As caixas de carga estão começando a se acumular, até mesmo no nosso saguão!"
                   }
                 },
                 "3": {
                   "text": {
                     "": "The same goes for boxes full of fishfood. At this point we fear that it might go bad.\nIn the worst case our subjects might even get agitated by the smell and get more aggressive than they already are.",
-                    "en_US": "O mesmo vale para caixas cheias de comida de peixe. Neste ponto, tememos que possa ficar ruim.\nNa pior das hipóteses, nossas cobaias podem ficar agitadas com o cheiro e ficar mais agressivos do que já são."
+                    "en_US": "O mesmo vale para as caixas cheias de ração para peixe. Neste momento, temos receio de que elas possam estragar.\nNa pior das hipóteses, nossas cobaias podem ficar agitadas com o cheiro e ficar mais agressivas do que já são."
                   }
                 },
                 "4": {
                   "text": {
                     "": "So please stop sending us more of your support until explicitly asked.\nThank you.\n\nSincerely,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "Então, por favor, pare de nos enviar apoio até que seja explicitamente solicitado.\nObrigado.\n\nSinceramente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "Então, por favor, parem de nos enviar suprimentos até que seja explicitamente solicitado.\nObrigado.\n\nSinceramente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 },
                 "5": {
                   "text": {
                     "": "\\c[1]INTERNAL MAIL, SENT\\c[0]\n\n\\c[3]FROM:\\c[0] Office 34a\n\\c[3]TO:\\c[0] \"Mech Machinery\", Management\n\n\\c[3]Subject:\\c[0] Regarding the deliveries, Follow-up",
-                    "en_US": "\\c[1]EMAIL INTERNO, ENVIADO\\c[0]\n\n\\c[3]DE:\\c[0] Escritório 34a\n\\c[3]PARA:\\c[0] \"Maquinário Mecânico\", Gestão\n\n\\c[3]Assunto:\\c[0] Sobre as entregas, complemento"
+                    "en_US": "\\c[1]EMAIL INTERNO, ENVIADO\\c[0]\n\n\\c[3]DE:\\c[0] Escritório 34a\n\\c[3]PARA:\\c[0] \"Máquinas Mecha\", Gestão\n\n\\c[3]Assunto:\\c[0] Sobre as entregas, complemento"
                   }
                 },
                 "6": {
                   "text": {
                     "": "Respected management,\n\non second thought, you could send more swimsuits, insect spray and hygiene articles.\nWorking desk-jobs with that unreliable air conditioning is becoming a bit of a pain.",
-                    "en_US": "Respeitada gestão,\n\npensando melhor, vocês poderiam enviar mais roupas de banho, spray de insetos e itens de higiene.\nTrabalhar em escritórios com aquele ar condicionado não confiável está se tornando um pouco chato."
+                    "en_US": "Prezada gestão,\n\npensando melhor, seria possível enviar mais roupas de banho, repelente e produtos de higiene? Trabalhar em escritórios com aquele ar condicionado instável está ficando um pouco cansativo."
                   }
                 },
                 "7": {
                   "text": {
                     "": "Me and a colleague are also planning a little \\c[3]surprise pool party\\c[0] to improve that team spirit! Maybe you can help us out there?\nWe will also send you some nice photos for recruitment flyers, I promise!!",
-                    "en_US": "Um colega e eu também estamos planejando uma pequena \\c[3]festa surpresa na piscina\\c[0] para melhorar o espírito de equipe! Talvez vocês possam nos ajudar?\nTambém enviaremos algumas fotos legais para os panfletos de recrutamento, prometo!!"
+                    "en_US": "Meu colega e eu estamos planejando uma \\c[3]festa surpresa na piscina\\c[0] para dar um up no espírito da equipe! Quem sabe vocês podem nos ajudar?\nPrometo mandar fotos incríveis para os panfletos de recrutamento!!"
                   }
                 },
                 "8": {
@@ -126,31 +126,31 @@
             "8": {
               "message": {
                 "": "Greetings, traveller.\\. Please take your time to listen to the story of this facility.",
-                "en_US": "Saudações, viajante.\\. Por favor, tome o seu tempo para ouvir a história desta instalação."
+                "en_US": "Saudações, viajante.\\. Peço que tire um tempo para ouvir a história desta instalação."
               }
             },
             "9": {
               "message": {
                 "": "My name is \\c[3]Dave Halman\\c[0], leading developer for \\c[3]Mech Machinery\\c[0].\\. I will be your narrator.",
-                "en_US": "Meu nome é \\c[3]Dave Halman\\c[0], desenvolvedor líder do \\c[3]Maquinário Mecânico\\c[0].\\. Eu serei seu narrador."
+                "en_US": "Meu nome é \\c[3]Dave Halman\\c[0], desenvolvedor líder da \\c[3]Máquinas Mecha\\c[0].\\. Eu serei seu narrador."
               }
             },
             "10": {
               "message": {
                 "": "This all began many years ago with a vision.\\. Finding an endless source of clean energy.\\. Forming a closer connection to the Track.",
-                "en_US": "Tudo isso começou há muitos anos com um foco.\\. Encontrar uma fonte inesgotável de energia limpa.\\. Formando uma conexão mais próxima com a Trilha."
+                "en_US": "Isso tudo teve início muitos anos atrás, com uma visão:\\. descobrir uma fonte inesgotável de energia limpa, fortalecendo o vínculo com a Trilha."
               }
             },
             "11": {
               "message": {
                 "": "And using modern technology to create lifelike limbs from metal... This has always been a passion of ours.",
-                "en_US": "E usar a tecnologia moderna para criar membros realistas de metal... Essa sempre foi nossa paixão."
+                "en_US": "E usar tecnologia de ponta para criar membros metálicos que pareçam autênticos... Essa sempre foi nossa paixão."
               }
             },
             "12": {
               "message": {
                 "": "With the funding we received and the support of other companies of various fields we could finally follow our ambition.",
-                "en_US": "Com o financiamento que recebemos e o apoio de outras empresas de diversas áreas, pudemos finalmente seguir a nossa ambição."
+                "en_US": "Graças ao financiamento que recebemos e ao apoio de empresas de diferentes setores, finalmente conseguimos realizar nossa ambição."
               }
             },
             "13": {
@@ -162,13 +162,13 @@
             "14": {
               "message": {
                 "": "Power such as this should be unthinkable by normal means, but by directly using the energy of the Track in our facility it became possible.",
-                "en_US": "Um poder como esse deveria ser impensável por meios normais, mas usando diretamente a energia da Trilha em nossas instalações, isso se tornou possível."
+                "en_US": "Um poder como esse seria inimaginável por métodos convencionais, mas ao usar a energia da Trilha em nossas instalações, isso se tornou possível."
               }
             },
             "15": {
               "message": {
                 "": "Well, the story will continue another day.\\. I hope you will follow along, dear visitor.",
-                "en_US": "Bem, a história continua outro dia.\\. Espero que você a acompanhe, cara visitante."
+                "en_US": "Bem, a história continua em outra hora.\\. Espero que você a acompanhe, cara visitante."
               }
             }
           }

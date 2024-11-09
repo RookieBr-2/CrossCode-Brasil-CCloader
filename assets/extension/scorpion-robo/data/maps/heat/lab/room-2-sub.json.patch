@@ -19,19 +19,19 @@
                 "2": {
                   "text": {
                     "": "Greetings,\n\nI do appreciate the fact the management is supplying us with the latest tech, but are you guys for real? Who thought this place would be good for an office?",
-                    "en_US": "Saudações,\n\nEu aprecio o fato da gestão estar nos fornecendo a tecnologia mais recente, mas vocês estão falando sério? Quem pensou que este seria um bom lugar para um escritório?"
+                    "en_US": "Saudações,\n\nAgradeço à gestão por nos fornecer a tecnologia mais avançada, mas vocês estão falando sério? Quem decidiu que este seria um bom lugar para um escritório?"
                   }
                 },
                 "3": {
                   "text": {
                     "": "We are all caked in sweat from the damn Isolation Chamber. I can only assume that something must be wrong with the ventilation but this needs to get fixed ASAP.",
-                    "en_US": "Estamos todos cobertos de suor por causa da maldita Câmara de Isolamento. Só posso supor que deve ter açgo errado com a ventilação, mas isso precisa ser corrigido o mais rápido possível."
+                    "en_US": "Estamos todos suados por causa dessa maldita Câmara de Isolamento. Imagino que algo esteja errado com a ventilação, e isso precisa ser resolvido urgentemente."
                   }
                 },
                 "4": {
                   "text": {
                     "": "For the time being something cool to drink would also suffice.\n\nSincerest Regards,\n[NAME REDACTED]\n\n\\c[1][END OF MAIL]\\c[0]",
-                    "en_US": "Por enquanto, algo legal para beber também seria suficiente.\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
+                    "en_US": "No momento, uma bebida refrescante também seria o ideal.\n\nAtenciosamente,\n[NOME REMOVIDO]\n\n\\c[1][FIM DO EMAIL]\\c[0]"
                   }
                 }
               }
@@ -102,7 +102,7 @@
             "8": {
               "message": {
                 "": "Hello, thank you for visiting the compound.\\. I am \\c[3]Steve B. Ruger\\c[0], speaking for \\c[3]High-Pressure Arms\\c[0].",
-                "en_US": "Olá, obrigado por visitar o complexo.\\. Sou \\c[3]Steve B. Ruger\\c[0], falando pelas \\c[3]Armas de Alta Pressão\\c[0]."
+                "en_US": "Olá, obrigado por visitar o complexo.\\. Sou \\c[3]Steve B. Ruger\\c[0], falando pela \\c[3]Armas de Alta Pressão\\c[0]."
               }
             },
             "9": {
@@ -114,25 +114,25 @@
             "10": {
               "message": {
                 "": "Powerful, long-ranged guns.\\. Some lasers, always nice.\\. Guided missiles as well.\\. Also, convenient self-defense guns.",
-                "en_US": "Armas, poderosas de longo alcance.\\. Alguns lasers, sempre tops.\\. Mísseis teleguiados também.\\. Além disso, convenientes armas de autodefesa."
+                "en_US": "Armas de longo alcance, poderosas.\\. Incluindo lasers de alta qualidade e mísseis teleguiados.\\. E ainda temos armas de autodefesa muito práticas."
               }
             },
             "11": {
               "message": {
                 "": "Basically lots of weapons, used by many different kinds of people.\\. Keeping the \\v[lore.title.track-of-ancients] at bay and all that.",
-                "en_US": "Basicamente muitas armas, usadas por muitos tipos diferentes de pessoas.\\. Mantendo a \\v[lore.title.track-of-ancients] à distância e tudo mais."
+                "en_US": "Em resumo, são várias armas, usadas por diferentes pessoas.\\. Para manter a \\v[lore.title.track-of-ancients] calma."
               }
             },
             "12": {
               "message": {
                 "": "We also make sure to create open systems for our products to closely work together with partners from other fields.",
-                "en_US": "Também garantimos a criação de sistemas abertos, para que nossos produtos trabalhem em conjunto com parceiros de outras áreas."
+                "en_US": "Além disso, garantimos que nossos sistemas sejam abertos, permitindo que nossos produtos colaborem com parceiros de diferentes áreas."
               }
             },
             "13": {
               "message": {
                 "": "That way we have access to a very broad set of skills to create all those ambitious projects of ours.",
-                "en_US": "Dessa forma, temos acesso a um conjunto muito amplo de habilidades, possibilitando criar todos esses projetos ambiciosos."
+                "en_US": "Assim, conseguimos acessar uma ampla gama de habilidades, o que nos permite desenvolver todos esses projetos ambiciosos."
               }
             },
             "14": {
@@ -144,13 +144,13 @@
             "15": {
               "message": {
                 "": "This could open up a variety of useful applications for society, if we see it finished.",
-                "en_US": "Isso pode abrir uma variedade de aplicações úteis para a sociedade, se o virmos concluído."
+                "en_US": "Isso pode abrir diversas aplicações benéficas para a sociedade, caso consigamos finalizá-la."
               }
             },
             "16": {
               "message": {
                 "": "In any case, I hope you enjoy following our progress and stick around for future developments.",
-                "en_US": "De qualquer forma, espero que você goste de acompanhar nosso progresso e fique por perto para desenvolvimentos futuros."
+                "en_US": "De qualquer modo, espero que você goste de seguir nosso progresso e permaneça atenta a novidades futuras."
               }
             }
           }

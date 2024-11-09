@@ -15,7 +15,7 @@
                 "5": {
                   "message": {
                     "": "There you are!",
-                    "en_US": "Aí está você!"
+                    "en_US": "Até que enfim você veio!"
                   }
                 },
                 "6": {
@@ -47,7 +47,7 @@
                     "19": {
                       "message": {
                         "": "It's time for the final beating of Grasshead!",
-                        "en_US": "Chegou a hora da batida final do Grasshead!"
+                        "en_US": "Chegou a hora da última surra do Cabeça de grama!"
                       }
                     },
                     "24": {
@@ -70,7 +70,7 @@
                     "34": {
                       "message": {
                         "": "Why...\\. of course I had to invite everyone to witness this great event!",
-                        "en_US": "Por que...\\. é claro que tive que convidar a todos para testemunhar este grande evento!"
+                        "en_US": "Como eu poderia não convidar todo mundo para esse grande evento?"
                       }
                     },
                     "35": {
@@ -82,7 +82,7 @@
                     "36": {
                       "message": {
                         "": "Engaging in one final duel to measure their skills!",
-                        "en_US": "Engajando-se em um duelo final para medir suas habilidades!"
+                        "en_US": "Lutando em um duelo final para provar suas habilidades!"
                       }
                     },
                     "37": {
@@ -90,7 +90,7 @@
                         "0": {
                           "message": {
                             "": "With no \\c[1]shameful damage glitches\\c[0] involved!",
-                            "en_US": "Sem nenhum \\c[1]bug de dano vergonhoso\\c[0] envolvido!"
+                            "en_US": "E sem qualquer \\c[1]bug de dano vergonhoso\\c[0] envolvido!"
                           }
                         }
                       }
@@ -98,7 +98,7 @@
                     "38": {
                       "message": {
                         "": "Truly, it will be a sight to behold!",
-                        "en_US": "Verdadeiramente, será um espetáculo para se ver"
+                        "en_US": "Sem dúvida, será um verdadeiro espetáculo!"
                       }
                     },
                     "42": {
@@ -409,7 +409,7 @@
                       "1": {
                         "message": {
                           "": "\\c[1]There is absolutely no honor in this.\\c[0]",
-                          "en_US": "\\c[1]Não há absolutamente nenhuma honra nisso.\\c[0]"
+                          "en_US": "\\c[1]Não há nenhuma honra nisso.\\c[0]"
                         }
                       }
                     },
@@ -435,7 +435,7 @@
                   "0": {
                     "message": {
                       "": "It's the rise of the machines, everyone!",
-                      "en_US": "É a ascensão das máquinas, pessoal!"
+                      "en_US": "É a revolta das IAs, galera!"
                     }
                   },
                   "1": {
@@ -496,7 +496,7 @@
                               "0": {
                                 "message": {
                                   "": "Oh!\\. So you die as quickly as I do!\\. This might even still be considered \\c[1]fair\\c[0]!",
-                                  "en_US": "Ah!\\. Então você morre tão rápido quanto eu! Isso ainda pode até ser considerado \\c[1]justo\\c[0]!"
+                                  "en_US": "Ah!\\. Então você morre tão rápido quanto eu!\\. Isso ainda pode até ser considerado \\c[1]justo\\c[0]!"
                                 }
                               }
                             },
@@ -506,7 +506,7 @@
                                   "0": {
                                     "message": {
                                       "": "Dying as quickly as always...",
-                                      "en_US": "Morrendo tão rápido como sempre..."
+                                      "en_US": "Morrendo rápido como sempre..."
                                     }
                                   }
                                 },
@@ -595,7 +595,7 @@
                       "0": {
                         "message": {
                           "": "You're on a roll, aren't you Polly?",
-                          "en_US": "Você está indo bem, não é Polly?"
+                          "en_US": "Você está indo bem Polly!"
                         }
                       },
                       "1": {
@@ -677,7 +677,7 @@
               "4": {
                 "message": {
                   "": "My disappointment is immeasurable.",
-                  "en_US": "Minha decepção é imensurável."
+                  "en_US": "Minha decepção é imensa."
                 }
               },
               "5": {
@@ -709,7 +709,7 @@
                   "0": {
                     "message": {
                       "": "This battle is over and the result is very clear.",
-                      "en_US": "Essa batalha está terminada e o resultado é muito claro."
+                      "en_US": "Essa batalha terminou e o resultado é muito claro."
                     }
                   }
                 },
@@ -733,7 +733,7 @@
                   "0": {
                     "message": {
                       "": "You have truly proven that you walked the right path!",
-                      "en_US": "Você realmente provou que trilhou o caminho certo!"
+                      "en_US": "Você provou que trilhou o caminho certo!"
                     }
                   },
                   "1": {
@@ -783,7 +783,7 @@
               "3": {
                 "message": {
                   "": "Now...\\. if you wish to challenge me to another duel, I suggest we hold it at the \\c[3]arena\\c[0]!",
-                  "en_US": "Agora...\\. se você quiser me desafiar para outro duelo, sugiro que o realizemos na \\c[3]arena\\c[0]!"
+                  "en_US": "Agora...\\. se você quiser me desafiar para outro duelo, sugiro que seja na \\c[3]arena\\c[0]!"
                 }
               }
             }
@@ -791,7 +791,7 @@
           "20": {
             "object": {
               "": "Apollo Arena Challenge",
-              "en_US": "Desafio Apollo Arena"
+              "en_US": "Desafio do Apollo"
             }
           },
           "22": {
@@ -965,13 +965,13 @@
               "14": {
                 "message": {
                   "": "All these duels... feel pretty pointless to me now in hindsight.",
-                  "en_US": "Todos esses duelos... me parecem bastante inúteis agora em retrospectiva."
+                  "en_US": "Agora, pensando bem, todos esses duelos parecem fúteis."
                 }
               },
               "15": {
                 "message": {
                   "": "She really did walk the right path all along.",
-                  "en_US": "Ela realmente percorreu o caminho certo o tempo todo."
+                  "en_US": "Ela esteva no caminho certo o tempo todo."
                 }
               },
               "17": {
@@ -983,7 +983,7 @@
               "18": {
                 "message": {
                   "": "I'd say, you definitely had an impact on her.",
-                  "en_US": "Eu diria que você definitivamente teve um impacto sobre ela."
+                  "en_US": "Eu diria que você causou um impacto forte nela."
                 }
               },
               "19": {
@@ -995,7 +995,7 @@
               "20": {
                 "message": {
                   "": "Really, I can't imagine that level of annoyance to have no effect on someone.",
-                  "en_US": "Sério, não consigo imaginar que esse nível de aborrecimento não cause nenhum efeito em alguém."
+                  "en_US": "Sério, é difícil imaginar que esse nível de aborrecimento não afete alguém."
                 }
               },
               "22": {
@@ -1007,7 +1007,7 @@
               "25": {
                 "message": {
                   "": "Also, was teaching her really the point of this?",
-                  "en_US": "Além disso, será que ensinar a ela realmente o objetivo disso?"
+                  "en_US": "Além disso, será que o objetivo era ensinar a ela?"
                 }
               },
               "26": {
@@ -1019,7 +1019,7 @@
               "27": {
                 "message": {
                   "": "And I remember you always looked forward to the next duel.",
-                  "en_US": "E me lembro de que você sempre ansiou pelo próximo duelo."
+                  "en_US": "E eu me lembro de que você sempre estava ansioso para o próximo duelo."
                 }
               },
               "28": {
@@ -1036,19 +1036,19 @@
               "30": {
                 "message": {
                   "": "You're probably right.",
-                  "en_US": "Você provavelmente tem razão."
+                  "en_US": "Você tem razão."
                 }
               },
               "34": {
                 "message": {
                   "": "Polly, sometimes you're just earnest to a fault.",
-                  "en_US": "Polly, às vezes você é muito rigoroso quando comete um erro.."
+                  "en_US": "Polly, às vezes você se critica demais quando erra."
                 }
               },
               "35": {
                 "message": {
                   "": "But you know...\\. moments like these are why I love you.",
-                  "en_US": "Mas você sabe...\\. momentos como esses são o motivo pelo qual eu te amo."
+                  "en_US": "Mas você sabe...\\. é por causa de momentos como esse que eu te amo."
                 }
               },
               "37": {
@@ -1060,7 +1060,7 @@
               "38": {
                 "message": {
                   "": "When you reflect on yourself.",
-                  "en_US": "Quando você reflete sobre si mesmo."
+                  "en_US": "Quando você faz uma reflexão pessoal."
                 }
               },
               "39": {
@@ -1141,7 +1141,7 @@
               "82": {
                 "message": {
                   "": "Truly!",
-                  "en_US": "De verdade!"
+                  "en_US": "De fato!"
                 }
               },
               "86": {
@@ -1184,7 +1184,7 @@
           "54": {
             "message": {
               "": "It's pretty late, so...\\. I gotta log off.",
-              "en_US": "É bem tarde, então...\\. Tenho que sair."
+              "en_US": "É bem tarde, então...\\. tenho que sair."
             }
           },
           "55": {
@@ -1208,7 +1208,7 @@
           "68": {
             "message": {
               "": "Looks like it's only us Evotars, now.",
-              "en_US": "Parece que somos só nós Evotars, agora."
+              "en_US": "Parece que agora só restamos nós, Evotars."
             }
           },
           "69": {
@@ -1220,13 +1220,13 @@
           "70": {
             "message": {
               "": "Actually...",
-              "en_US": "Na verdade..."
+              "en_US": "Pensando bem..."
             }
           },
           "76": {
             "message": {
               "": "It looks like Tronny already went ahead, huh?",
-              "en_US": "Parece que Tronny já foi na frente, não é?"
+              "en_US": "Acho que Tronny já foi na frente, não?"
             }
           },
           "83": {
@@ -1262,7 +1262,7 @@
           "1": {
             "text": {
               "": "Your words are sloppy, those rhymes are choppy so please don't be so cocky.",
-              "en_US": "Suas palavras não tem nexo, e tuas rimas são farelo então não seja um prego."
+              "en_US": "Suas palavras não tem nexo e tuas rimas são farelo, então não seja um prego."
             }
           },
           "2": {
@@ -1280,13 +1280,13 @@
           "0": {
             "text": {
               "": "What are these two dudes doing?",
-              "en_US": "O que esses dois caras estão fazendo?"
+              "en_US": "O que esses caras estão fazendo?"
             }
           },
           "1": {
             "text": {
               "": "It's some form of contest. Who can insult the other better, while also rhyming. ",
-              "en_US": "É uma forma de competição. Quem pode insultar o outro melhor, ao mesmo tempo em que rima."
+              "en_US": "É uma forma de competição. Onde o desafio é insultar o outro com rimas."
             }
           },
           "2": {
@@ -1304,13 +1304,13 @@
           "4": {
             "text": {
               "": "And they had to book a whole PvP Field for it?",
-              "en_US": "E eles tiveram que reservar um campo inteiro de PvP pra isso?"
+              "en_US": "E eles tinham que reservar um campo inteiro de PvP pra isso?"
             }
           },
           "5": {
             "text": {
               "": "Well, maybe they like the attention...",
-              "en_US": "Bem, talvez eles gostem de chamar a atenção..."
+              "en_US": "Talvez eles gostem de chamar a atenção..."
             }
           },
           "6": {
@@ -1328,31 +1328,31 @@
           "0": {
             "text": {
               "": "Ever noticed how you can find a lot of Mancers in the City?",
-              "en_US": "Você já notou que há muita maquinaria pesada aqui na cidade?"
+              "en_US": "Você já notou que tem muitos Esferomantes por aqui?"
             }
           },
           "1": {
             "text": {
               "": "Like, in the wild you rarely see them at all.",
-              "en_US": "Como, na natureza, você raramente vê isso."
+              "en_US": "Tipo, eu juro! Em outros lugares não aparece nenhum."
             }
           },
           "2": {
             "text": {
               "": "I guess it's because PvP is the most fun a Mancer can have at end game.",
-              "en_US": "Acho que é porque o PvP é o mais divertido que um Mancer pode ter no final do jogo."
+              "en_US": "Acho que é porque o PvP é a maior diversão que um Esferomante pode ter no final do jogo."
             }
           },
           "3": {
             "text": {
               "": "With them being so balanced the fights are usually pretty entertaining.",
-              "en_US": "Com eles sendo tão equilibrados, as lutas geralmente são bastante divertidas."
+              "en_US": "Como eles são equilibrados, as lutas geralmente ficam bem divertidas."
             }
           },
           "4": {
             "text": {
               "": "Huh, now that you mention it...",
-              "en_US": "Ahh, agora que você mencionou..."
+              "en_US": "Ahh, falando nisso..."
             }
           }
         }
