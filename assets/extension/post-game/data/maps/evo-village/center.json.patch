@@ -8,7 +8,7 @@
               "3": {
                 "message": {
                   "": "Lea, where are you running off to?\\. We're over here!",
-                  "en_US": "Lea, para onde você está fugindo?\\. Estamos aqui!"
+                  "en_US": "Lea, pra onde você está indo?\\. Estamos aqui!"
                 }
               }
             },
@@ -2698,7 +2698,7 @@
           "23": {
             "message": {
               "": "\\s[6]Waaaaaaaaaaaaiiiiiiiiiiit!",
-              "en_US": "\\s[6]Espeeeeeeeeereeeeeeeeeeee!"
+              "en_US": "\\s[6]Espeeeeeeeeeraaaaaaaaaaaa!"
             }
           },
           "30": {
@@ -2710,7 +2710,7 @@
           "31": {
             "message": {
               "": "Oh well...",
-              "en_US": "Ah, bem..."
+              "en_US": "Ah, bom..."
             }
           },
           "37": {
@@ -2722,7 +2722,7 @@
           "41": {
             "message": {
               "": "Well... I talked to Jet and the others.",
-              "en_US": "Bem... eu conversei com Jet e os outros"
+              "en_US": "Bem... eu conversei com Jet e os outros."
             }
           },
           "42": {
@@ -2740,7 +2740,7 @@
           "44": {
             "message": {
               "": "Wait a moment.\\. I only expected C'tron to go there.",
-              "en_US": "Espere um momento.\\. Eu só esperava que C'tron fosse lá."
+              "en_US": "Espere um momento.\\. Eu esperava que apenas C'tron fosse lá."
             }
           },
           "45": {
@@ -2752,7 +2752,7 @@
           "46": {
             "message": {
               "": "He might just remember things and \\c[1]collapse\\c[0]!",
-              "en_US": "Ele pode apenas se lembrar das coisas e \\c[1]colapsar\\c[0]!"
+              "en_US": "Ele pode se lembrar das coisas e \\c[1]colapsar\\c[0]!"
             }
           },
           "47": {
@@ -2776,25 +2776,25 @@
           "52": {
             "message": {
               "": "Come on...",
-              "en_US": "Vamos lá ..."
+              "en_US": "Qual é..."
             }
           },
           "53": {
             "message": {
               "": "I suppose you have a point.",
-              "en_US": "Suponho que você tenha razão."
+              "en_US": "Acho que você tem razão."
             }
           },
           "54": {
             "message": {
               "": "I...\\. will have to check with Jet.",
-              "en_US": "Eu ...\\. vou verificar com o Jet."
+              "en_US": "Eu...\\. vou verificar com o Jet."
             }
           },
           "55": {
             "message": {
               "": "Thanks!",
-              "en_US": "Obrigado!"
+              "en_US": "Obrigada!"
             }
           },
           "56": {
@@ -2805,7 +2805,7 @@
           "60": {
             "message": {
               "": "In any case...\\. we will start the whole operation \\c[3]tonight\\c[0].",
-              "en_US": "De qualquer forma...\\. vamos começar toda a operação \\c[3]esta noite\\c[0]."
+              "en_US": "Enfim...\\. vamos começar toda a operação \\c[3]esta noite\\c[0]."
             }
           },
           "61": {
@@ -2817,7 +2817,7 @@
           "62": {
             "message": {
               "": "Make sure you are well prepared.",
-              "en_US": "Certifique-se de estar bem preparada."
+              "en_US": "Estejam bem preparados."
             }
           },
           "65": {
@@ -2829,7 +2829,7 @@
           "71": {
             "message": {
               "": "Alright!\\. Tonight it is!",
-              "en_US": "Certo!\\. Certo!\\. Hoje é a noite!!"
+              "en_US": "Certo!\\. Hoje é a noite!!"
             }
           },
           "72": {

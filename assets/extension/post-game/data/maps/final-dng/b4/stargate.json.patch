@@ -6,13 +6,13 @@
           "35": {
             "text": {
               "": "Your journey has continued \nfor a long time.",
-              "en_US": "Sua jornada continuou \npor muito tempo."
+              "en_US": "Sua jornada continuou \npor um longo tempo."
             }
           },
           "36": {
             "text": {
               "": "You traveled far\nand passed every trial.",
-              "en_US": "Você viajou muito\ne passou em todas as provas."
+              "en_US": "Você viajou longe\ne passou em todas as provas."
             }
           },
           "37": {
@@ -36,19 +36,19 @@
           "40": {
             "text": {
               "": "As such, you are now ready\nto proceed further.",
-              "en_US": "Como tal, agora você está pronto \npara prosseguir."
+              "en_US": "Como tal, agora você está pronta\npara prosseguir."
             }
           },
           "41": {
             "text": {
               "": "Start your journey \nonce more.",
-              "en_US": "Comece sua jornada \nmais uma vez."
+              "en_US": "Comece sua jornada\nmais uma vez."
             }
           },
           "42": {
             "text": {
               "": "Because life is there\nfor you to grow.",
-              "en_US": "Porque se vive \npara você crescer."
+              "en_US": "Porque a vida é\nfeita para você crescer."
             }
           },
           "43": {
@@ -96,7 +96,7 @@
           "84": {
             "message": {
               "": "Right at this very moment you are standing in front of it.",
-              "en_US": "Neste exato momento você está parada em frente a ele."
+              "en_US": "Neste momento, você está diante dele."
             }
           },
           "85": {
@@ -108,7 +108,7 @@
           "86": {
             "message": {
               "": "A technological achievement beyond our current understanding.",
-              "en_US": "Uma conquista tecnológica além de nossa compreensão atual."
+              "en_US": "Uma conquista tecnológica que vai além da nossa compreensão atual."
             }
           },
           "87": {
@@ -120,7 +120,7 @@
           "91": {
             "message": {
               "": "Yet for now, this portal remains closed.",
-              "en_US": "No entanto, por enquanto, este portal permanece fechado."
+              "en_US": "Mas, por enquanto, este portal permanece fechado."
             }
           },
           "92": {
@@ -132,7 +132,7 @@
           "97": {
             "message": {
               "": "As more seekers pass the Ku'lero temple, more energy should be channeled towards the portal.",
-              "en_US": "À medida que mais seekers passarem pelo Templo de Ku'lero, mais energia deve ser canalizada para o portal."
+              "en_US": "À medida que mais seekers passarem pelo Templo de Ku'lero, mais energia será direcionada para o portal."
             }
           },
           "98": {
@@ -144,7 +144,7 @@
           "104": {
             "message": {
               "": "Seeker, it is thanks to your contribution that we have come this far.",
-              "en_US": "Seeker, graças à sua contribuição que chegamos até aqui."
+              "en_US": "Seeker, graças à sua contribuição, chegamos até aqui."
             }
           },
           "105": {
@@ -290,7 +290,7 @@
               "13": {
                 "message": {
                   "": "True...\\. that dungeon was seriously long.",
-                  "en_US": "Verdade...\\. aquela dungeon foi muito longa."
+                  "en_US": "Verdade...\\. essa dungeon foi muito longa."
                 }
               }
             }
@@ -298,13 +298,13 @@
           "136": {
             "message": {
               "": "More importantly: \\c[3]Space Bird battle\\c[0]!",
-              "en_US": "Mais importante: \\c[3]Batalha de Pássaros do Espaço\\c[0]!"
+              "en_US": "Mas o mais importante é: a \\c[3]Batalha dos Pássaros do Espaço\\c[0]!"
             }
           },
           "137": {
             "message": {
               "": "Finally we could fight those space birds!",
-              "en_US": "Finalmente pudemos lutar contra aqueles pássaros espaciais!"
+              "en_US": "Finalmente rolou a luta contra aqueles pássaros espaciais!"
             }
           },
           "138": {
@@ -316,13 +316,13 @@
           "140": {
             "message": {
               "": "Emilie, please, those are the Gods of the Ancients!",
-              "en_US": "Emilie, por favor, esses são os Deuses dos Antigos!"
+              "en_US": "Emilie, por favor, esses são os Deuses Antigos!"
             }
           },
           "141": {
             "message": {
               "": "We all should be grateful that we've finally found the Secret of the Ancients.",
-              "en_US": "Todos nós devemos ser gratos por finalmente termos encontrado o Segredo dos Antigos."
+              "en_US": "Todos nós devemos ser gratos por finalmente encontrar o Segredo dos Antigos."
             }
           },
           "142": {
@@ -340,13 +340,13 @@
           "146": {
             "message": {
               "": "Can't wait to run another Track of the Ancients!\\. Fantastic!",
-              "en_US": "Mal posso esperar para fazer outra Trilha dos Antigos!\\. Fantástico!"
+              "en_US": "Mal posso esperar para explorar outra Trilha dos Antigos!\\. Fantástico!"
             }
           },
           "154": {
             "message": {
               "": "...Huh.",
-              "en_US": "...Hum."
+              "en_US": "...Hmm."
             }
           },
           "162": {
@@ -364,13 +364,13 @@
           "165": {
             "message": {
               "": "Not so smug now that you run it for the first time, huh?",
-              "en_US": "Não tão presunçoso agora que você o fez pela primeira vez, hein?"
+              "en_US": "Não tá se achando tanto agora, né? Já que fez isso pela primeira vez..."
             }
           },
           "166": {
             "message": {
               "": "Hold on...",
-              "en_US": "Aguente..."
+              "en_US": "Espera aí..."
             }
           },
           "174": {
@@ -382,19 +382,19 @@
           "177": {
             "message": {
               "": "You see...",
-              "en_US": "Vejam..."
+              "en_US": "Olha..."
             }
           },
           "178": {
             "message": {
               "": "I took longer, because I was busy helping Joern out...",
-              "en_US": "Eu demorei mais, porque estava ocupado ajudando o Joern..."
+              "en_US": "Eu demorei, porque estava ocupado ajudando o Joern..."
             }
           },
           "179": {
             "message": {
               "": "Excuses.",
-              "en_US": "Desculpas."
+              "en_US": "Que desculpinha."
             }
           },
           "180": {
@@ -406,19 +406,19 @@
           "192": {
             "message": {
               "": "Phew...\\. I guess that was it!",
-              "en_US": "Pff...\\. Acho que foi isso!"
+              "en_US": "Ufa...\\. até que enfim acabou!"
             }
           },
           "193": {
             "message": {
               "": "Yeah...\\. that was quite the boss fight.\n",
-              "en_US": "Sim...\\. essa foi uma luta de chefão e tanto.\n"
+              "en_US": "Sim...\\. essa foi uma luta e tanto.\n"
             }
           },
           "194": {
             "message": {
               "": "They definitely worked hard on it.\n",
-              "en_US": "Eles definitivamente trabalharam muito nisso.\n"
+              "en_US": "Sem dúvida, eles trabalharam bastante nisso.\n"
             }
           },
           "200": {
@@ -442,7 +442,7 @@
           "206": {
             "message": {
               "": "Beaten by your own clone!\\. How does it feel, Shizuka?",
-              "en_US": "Derrotada pela sua própria clone!\\. Como se sente, Shizuka?"
+              "en_US": "Derrotada pelo seu próprio clone!\\. Como se sente, Shizuka?"
             }
           },
           "207": {
@@ -453,7 +453,7 @@
           "208": {
             "message": {
               "": "Well, figures.",
-              "en_US": "Bem, figurão."
+              "en_US": "Isso é óbvio."
             }
           },
           "209": {
@@ -476,7 +476,7 @@
           "217": {
             "message": {
               "": "That's right, Tronny is the only person missing, it seems.",
-              "en_US": "É isso mesmo, Tronny é a única pessoa que falta, ao que parece."
+              "en_US": "É verdade, Tronny é a única pessoa que falta, pelo visto."
             }
           },
           "219": {
@@ -488,19 +488,19 @@
           "234": {
             "message": {
               "": "Uhm...\\. scratch that.\\. I just checked.",
-              "en_US": "Hum...\\. risca isso.\\. Acabei de conferir."
+              "en_US": "Hmm...\\. deixa pra lá.\\. Acabei de conferir."
             }
           },
           "235": {
             "message": {
               "": "It seems he's back in Homestedt already?",
-              "en_US": "Parece que ele voltou para Fazendolar?"
+              "en_US": "Parece que ele voltou para a Fazendolar."
             }
           },
           "237": {
             "message": {
               "": "Well, maybe he finished first?",
-              "en_US": "Bem, talvez ele tenha terminado primeiro?"
+              "en_US": "Talvez ele tenha terminado primeiro?"
             }
           },
           "238": {
@@ -530,13 +530,13 @@
           "246": {
             "message": {
               "": "Have a good night!",
-              "en_US": "Tenha uma boa noite!"
+              "en_US": "Tenham uma boa noite!"
             }
           },
           "283": {
             "message": {
               "": "Hm...\\. I have a bad feeling about Tronny. ",
-              "en_US": "Hum...\\. Tenho um mau pressentimento sobre o Tronny."
+              "en_US": "Hmm...\\. Tenho um mau pressentimento sobre o Tronny."
             }
           },
           "284": {
@@ -679,7 +679,7 @@
           "5": {
             "text": {
               "": "Sloooooopes!",
-              "en_US": "Encooostaaas"
+              "en_US": "Skaaaaate"
             }
           }
         }
@@ -739,19 +739,19 @@
           "3": {
             "text": {
               "": "The gods of the Ancients are all about space, right? You could read that in the lore.",
-              "en_US": "Os deuses dos Antigos são todos sobre o espaço, certo? Você poderia ler isso na lore."
+              "en_US": "Os deuses Antigos são vivem no espaço, certo? Você pode ver isso na lore."
             }
           },
           "4": {
             "text": {
               "": "Yeah of course, but STILL!",
-              "en_US": "Sim, claro, mas AINDA!"
+              "en_US": "Sim, claro, MAS MESMO ASSIM É INSPORTÁVEL!"
             }
           },
           "5": {
             "text": {
               "": "You know what I think? You don't seem nearly as distressed as you used to.",
-              "en_US": "Sabe o que eu acho? Você não parece tão aflito como costumava."
+              "en_US": "Sabe o que eu acho? Você não parece tão aflita como antes."
             }
           },
           "6": {
@@ -763,13 +763,13 @@
           "7": {
             "text": {
               "": "There you go!",
-              "en_US": "Ai está!"
+              "en_US": "Olha aí!"
             }
           },
           "8": {
             "text": {
               "": "I still hope their next game takes place on a planet with a perfectly flat and even surface!",
-              "en_US": "Ainda espero que o próximo jogo deles ocorra em um planeta com uma superfície perfeitamente plana e uniforme!"
+              "en_US": "Espero que o próximo jogo deles seja em uma terra plana e uniforme!"
             }
           },
           "9": {

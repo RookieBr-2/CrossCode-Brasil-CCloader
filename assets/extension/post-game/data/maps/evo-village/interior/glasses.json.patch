@@ -1463,13 +1463,13 @@
           "23": {
             "message": {
               "": "Did you finish the dungeon that quickly?",
-              "en_US": "Você terminou a dungeon tão rápido?"
+              "en_US": "Você já terminou a dungeon?"
             }
           },
           "24": {
             "message": {
               "": "No...\\. I went back early.",
-              "en_US": "Não...\\. Eu voltei mais cedo."
+              "en_US": "Não...\\. eu voltei mais cedo."
             }
           },
           "25": {
@@ -1585,13 +1585,13 @@
           "58": {
             "message": {
               "": "You're joking, right?",
-              "en_US": "Você está brincando, certo?"
+              "en_US": "Você está brincando, não tá?"
             }
           },
           "62": {
             "message": {
               "": "Tell me he's joking!",
-              "en_US": "Me diga que ele está brincando!"
+              "en_US": "Me diz que ele está brincando!"
             }
           },
           "64": {
@@ -1608,19 +1608,19 @@
           "72": {
             "message": {
               "": "WHAT THE HECK?!",
-              "en_US": "QUE DIABOS?!"
+              "en_US": "TÁ DE SACANAGEM?!"
             }
           },
           "75": {
             "message": {
               "": "I'm...\\. sorry...",
-              "en_US": "Eu estou...\\. desculpe..."
+              "en_US": "Eu...\\. sinto muito..."
             }
           },
           "76": {
             "message": {
               "": "How does any of this even make sense?!",
-              "en_US": "Como tudo isso faz sentido ?!"
+              "en_US": "Mas isso nem faz sentido!"
             }
           },
           "77": {
@@ -1632,43 +1632,43 @@
           "79": {
             "message": {
               "": "Take the raid event...\n",
-              "en_US": "Participando do evento de raid...\n"
+              "en_US": "Participando do evento da raid...\n"
             }
           },
           "80": {
             "message": {
               "": "I arranged it so we could pull Lea into Evotarground.\n",
-              "en_US": "Eu organizei aquilo para que levar Lea para o Evotarground.\n"
+              "en_US": "Eu organizei aquilo para levar a Lea até o Evotarground.\n"
             }
           },
           "81": {
             "message": {
               "": "And after Lea escaped again...\\. I tried to get you two to reconcile.",
-              "en_US": "E depois que a Lea fugiu...\\. Tentei fazer com que vocês duas se reconciliassem."
+              "en_US": "E depois que a Lea fugiu...\\. tentei fazer com que vocês duas se reconciliassem."
             }
           },
           "82": {
             "message": {
               "": "Just so we could get you to go for another raid.",
-              "en_US": "Só para podermos levá-la para outra raid."
+              "en_US": "Só para poder levar ela para outra raid."
             }
           },
           "87": {
             "message": {
               "": "STOP THIS!",
-              "en_US": "PARE COM ISSO!"
+              "en_US": "PARA COM ISSO!"
             }
           },
           "88": {
             "message": {
               "": "This is not helping!",
-              "en_US": "Isso não está ajudando!"
+              "en_US": "Isso não tá ajudando!"
             }
           },
           "89": {
             "message": {
               "": "But that...",
-              "en_US": "Mas isso..."
+              "en_US": "Mas..."
             }
           },
           "90": {
@@ -1704,7 +1704,7 @@
           "97": {
             "message": {
               "": "I still remember how I got mad as hell at poor Lea for very stupid reasons.",
-              "en_US": "Ainda me lembro de como fiquei brava com a pobre Lea por motivos muito estúpidos."
+              "en_US": "Ainda lembro de como fiquei chateada com a Lea por coisas bem estúpidas."
             }
           },
           "98": {
@@ -1722,13 +1722,13 @@
           "100": {
             "message": {
               "": "Right...",
-              "en_US": "Certo..."
+              "en_US": "Sim..."
             }
           },
           "101": {
             "message": {
               "": "So what about you?",
-              "en_US": "E quanto a você?"
+              "en_US": "E você?"
             }
           },
           "102": {
@@ -1751,7 +1751,7 @@
           "109": {
             "message": {
               "": "Well...\\. I just did what I planned myself, so...",
-              "en_US": "Bem...\\. Eu apenas fiz o que eu planejei, então..."
+              "en_US": "Eu apenas fiz o que eu planejei, então..."
             }
           },
           "110": {
@@ -1816,13 +1816,13 @@
           "123": {
             "message": {
               "": "At least I think we really shouldn't be mad at you...\\. for now!",
-              "en_US": "Pelo menos eu acho que não deveríamos estar bravos com você...\\. por enquanto!"
+              "en_US": "Pelo menos eu acho que não deveríamos estar bravas com você...\\. por enquanto!"
             }
           },
           "124": {
             "message": {
               "": "I...\\. don't know what to say.",
-              "en_US": "Eu ...\\. não sei o que dizer."
+              "en_US": "Eu...\\. não sei o que dizer."
             }
           },
           "125": {
@@ -1845,7 +1845,7 @@
           "136": {
             "message": {
               "": "So...\\. Why do you think you are Sidwell?",
-              "en_US": "Então...\\. Por que você pensa que é o Sidwell?"
+              "en_US": "Então...\\. por que você pensa que é o Sidwell?"
             }
           },
           "138": {
@@ -1857,13 +1857,13 @@
           "140": {
             "message": {
               "": "I remember things that only Sidwell could have witnessed.",
-              "en_US": "Lembro-me de coisas que só o Sidwell poderia ter testemunhado."
+              "en_US": "Lembro de coisas que só o Sidwell poderia ter visto."
             }
           },
           "141": {
             "message": {
               "": "But also...\\. you felt bad for spying on us?",
-              "en_US": "E também...\\. você se sentiu mal por nos espionar?"
+              "en_US": "Mas...\\. você se sentiu mal por nos espionar?"
             }
           },
           "142": {
@@ -1875,13 +1875,13 @@
           "144": {
             "message": {
               "": "I...\\. I'm not sure...\n",
-              "en_US": "Eu ...\\. Eu não tenho certeza...\n"
+              "en_US": "Eu...\\. eu não tenho certeza...\n"
             }
           },
           "145": {
             "message": {
               "": "I just had to.\\. It was the plan.",
-              "en_US": "Eu só precisava.\\. Era o plano."
+              "en_US": "Eu tinha que fazer isso.\\. Esse era o plano."
             }
           },
           "146": {
@@ -1893,7 +1893,7 @@
           "150": {
             "message": {
               "": "The...\\. the long session...",
-              "en_US": "A...\\. seria uma longa sessão..."
+              "en_US": "A...\\. a longa sessão..."
             }
           },
           "151": {
@@ -1916,7 +1916,7 @@
           "187": {
             "message": {
               "": "What?!\\. Wait!!",
-              "en_US": "O que?!\\. Espere!!"
+              "en_US": "Que?!\\. Espera!!"
             }
           },
           "190": {
@@ -1945,7 +1945,7 @@
           "195": {
             "message": {
               "": "Tronny, please calm down!",
-              "en_US": "Tronny, por favor, acalme-se!"
+              "en_US": "Tronny, por favor, se acalma!"
             }
           },
           "217": {
@@ -1957,7 +1957,7 @@
           "219": {
             "message": {
               "": "Tronny suddenly remembered things!",
-              "en_US": "Tronny de repente lembrou-se de coisas!"
+              "en_US": "Do nada, o Tronny se lembrou de várias coisas!"
             }
           },
           "220": {
@@ -1969,31 +1969,31 @@
           "227": {
             "message": {
               "": "About the whole...\\. interrogation program.",
-              "en_US": "Sobre todo...\\. programa de interrogatório."
+              "en_US": "Sobre o...\\. programa interrogatório..."
             }
           },
           "228": {
             "message": {
               "": "There was a bottleneck.",
-              "en_US": "Houve um gargalo."
+              "en_US": "Houve um problema."
             }
           },
           "230": {
             "message": {
               "": "Simply moving players to the Evotarground wasn't enough.",
-              "en_US": "Simplesmente mover os jogadores para o Evotarground não era suficiente."
+              "en_US": "Mover os jogadores para o Evotarground não bastava."
             }
           },
           "231": {
             "message": {
               "": "We had to move them in the right moment, to make it seem plausible.",
-              "en_US": "Tivemos que movê-los no momento certo, para torná-lo plausível."
+              "en_US": "Tivemos que movê-los no momento certo, para que fosse plausível."
             }
           },
           "232": {
             "message": {
               "": "Show them familiar scenes and characters to trigger their memories.",
-              "en_US": "Mostrar a eles cenas e personagens familiares, para ativar suas memórias."
+              "en_US": "E mostrar a eles cenas e pessoas familiares, para ativar suas memórias."
             }
           },
           "233": {
@@ -2028,7 +2028,7 @@
           "238": {
             "message": {
               "": "What was strange, though...",
-              "en_US": "O que era estranho, porém..."
+              "en_US": "Mas tem algo que não faz sentido..."
             }
           },
           "239": {
@@ -2040,7 +2040,7 @@
           "240": {
             "message": {
               "": "But I don't remember...\\. any other spies working within CrossWorlds.",
-              "en_US": "Mas não me lembro...\\. de outros espiões trabalhando no CrossWorlds."
+              "en_US": "Mas não me lembro...\\. de outros espiões trabalhando em CrossWorlds."
             }
           },
           "241": {
@@ -2064,7 +2064,7 @@
           "248": {
             "message": {
               "": "I was playing CrossWorlds...\\. a lot.",
-              "en_US": "Eu estava jogando CrossWorlds...\\. muito."
+              "en_US": "Eu estava jogando CrossWorlds...\\. por muito tempo."
             }
           },
           "249": {
@@ -2076,7 +2076,7 @@
           "250": {
             "message": {
               "": "Are you absolutely sure?",
-              "en_US": "Você tem certeza absoluta?"
+              "en_US": "Você tem certeza?"
             }
           },
           "251": {
@@ -2100,7 +2100,7 @@
           "254": {
             "message": {
               "": "But whenever I do, I panic.",
-              "en_US": "Mas sempre que faço isso, entro em pânico."
+              "en_US": "Mas sempre que tento lembrar, entro em pânico."
             }
           },
           "255": {
@@ -2112,7 +2112,7 @@
           "256": {
             "message": {
               "": "However, one thing I do remember.",
-              "en_US": "Porém, uma coisa eu me lembro."
+              "en_US": "Mas, eu me lembro de uma coisa."
             }
           },
           "257": {
@@ -2130,7 +2130,7 @@
           "264": {
             "message": {
               "": "That's why we were wondering:\\. can we go there?",
-              "en_US": "Por isso nos perguntamos:\\. podemos ir lá?"
+              "en_US": "Será que podemos ir lá?"
             }
           },
           "265": {
@@ -2142,13 +2142,13 @@
           "266": {
             "message": {
               "": "I'm sure if we go there, Tronny will be able to remember!",
-              "en_US": "Tenho certeza que se formos lá, o Tronny vai conseguir se lembrar!"
+              "en_US": "Se a gente for lá, aposto que o Tronny vai se lembrar!"
             }
           },
           "268": {
             "message": {
               "": "Well, the thing is...",
-              "en_US": "Bem, a coisa é..."
+              "en_US": "Bem, o problema é..."
             }
           },
           "269": {
@@ -2172,7 +2172,7 @@
           "272": {
             "message": {
               "": "WHAT?!",
-              "en_US": "O QUE?!"
+              "en_US": "QUE?!"
             }
           },
           "274": {
@@ -2184,13 +2184,13 @@
           "275": {
             "message": {
               "": "You have to see it from their perspective.",
-              "en_US": "Você tem que ver a partir da perspectiva deles."
+              "en_US": "Você precisa ver as coisas pelo ponto de vista deles."
             }
           },
           "276": {
             "message": {
               "": "Considering all that happened there, they would rather just make it disappear.",
-              "en_US": "Considerando o que aconteceu lá, eles preferem apenas fazer tudo desaparecer."
+              "en_US": "Considerando o que aconteceu lá, eles preferem apagar tudo."
             }
           },
           "281": {
@@ -2260,7 +2260,7 @@
           "301": {
             "message": {
               "": "I had really hoped those days of doing things unofficially were finally over.",
-              "en_US": "Eu realmente esperava que aqueles dias de fazer as coisas não oficialmente tivessem finalmente acabado."
+              "en_US": "Eu esperava que aqueles dias de fazer as coisas de forma não oficial tivessem acabado de vez."
             }
           },
           "302": {
@@ -2272,7 +2272,7 @@
           "303": {
             "message": {
               "": "Thanks!",
-              "en_US": "Obrigado!"
+              "en_US": "Obrigada!"
             }
           },
           "304": {
@@ -2289,7 +2289,7 @@
           "306": {
             "message": {
               "": "For now, you better just sleep on it for a night.",
-              "en_US": "Por enquanto, é melhor você dormir por uma noite."
+              "en_US": "Por enquanto, é melhor vocês descansarem."
             }
           },
           "307": {
@@ -2329,7 +2329,7 @@
           "322": {
             "message": {
               "": "And when this is all over, make sure to finish the final temple!",
-              "en_US": "E quando tudo isso acabar, certifique-se de terminar o último templo!"
+              "en_US": "E quando tudo isso acabar, não se esqueça de terminar o último templo!"
             }
           },
           "323": {

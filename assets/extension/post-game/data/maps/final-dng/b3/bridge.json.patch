@@ -232,13 +232,13 @@
               "4": {
                 "message": {
                   "": "So...\\. we're almost there, aren't we?",
-                  "en_US": "Então...\\. estamos quase lá, não estamos?"
+                  "en_US": "Então...\\. já estamos quase lá, não é?"
                 }
               },
               "5": {
                 "message": {
                   "": "We did the obligatory final batch of bouncing puzzles...",
-                  "en_US": "Fizemos a parte final dos quebra-cabeças de parkour obrigatórios..."
+                  "en_US": "Fizemos a parte final dos puzzles..."
                 }
               },
               "6": {
@@ -262,7 +262,7 @@
                   "2": {
                     "message": {
                       "": "Oh Junge!\\. You missed it?",
-                      "en_US": "Ah Jung!\\. Você perdeu?"
+                      "en_US": "Ah Jung!\\. Você não achou?"
                     }
                   },
                   "3": {
@@ -282,7 +282,7 @@
                   "0": {
                     "message": {
                       "": "So... the final boss should not be much further.",
-                      "en_US": "Então... o chefe final não deve estar muito longe."
+                      "en_US": "O chefe final não deve estar muito longe."
                     }
                   },
                   "1": {
@@ -293,25 +293,25 @@
                   "2": {
                     "message": {
                       "": "Gyahaha!\\. You seem very determined!",
-                      "en_US": "Gyahaha! \\. Você parece bem determinada!"
+                      "en_US": "Gyahaha!\\. Você parece bem determinada!"
                     }
                   },
                   "3": {
                     "message": {
                       "": "Alright then...\\. this was pretty fun so far.",
-                      "en_US": "Tudo bem então...\\. isso foi muito divertido até agora."
+                      "en_US": "Então...\\. isso foi muito divertido até agora."
                     }
                   },
                   "4": {
                     "message": {
                       "": "Gotta admit, I got more into it than I initially expected.",
-                      "en_US": "Tenho que admitir, me interessei mais por isso do que esperava."
+                      "en_US": "Tenho que admitir, fiquei mais interessado nisso do que imaginava."
                     }
                   },
                   "5": {
                     "message": {
                       "": "Almost made me forget that I'm now a permanent part of this game.",
-                      "en_US": "Quase me fez esquecer que agora sou parte permanente desse jogo."
+                      "en_US": "Por um momento, quase esqueci que sou parte permanente desse jogo agora."
                     }
                   },
                   "6": {
@@ -328,13 +328,13 @@
                   "8": {
                     "message": {
                       "": "I mean, hey, we now have access to a whole island paradise and all that.",
-                      "en_US": "Quer dizer, ei, agora temos acesso a toda uma ilha paradisíaca e tudo mais."
+                      "en_US": "Quer dizer, olha só, agora temos acesso a uma ilha paradisíaca inteira e tudo mais."
                     }
                   },
                   "9": {
                     "message": {
                       "": "We should capitalize on that, you know?",
-                      "en_US": "Devíamos capitalizar isso, sabe?"
+                      "en_US": "Devíamos aproveitar isso, sabe?"
                     }
                   },
                   "10": {
@@ -346,7 +346,7 @@
                   "11": {
                     "message": {
                       "": "No enemy bashing, just walking and taking in the waves and breezes.",
-                      "en_US": "Sem ataques inimigos, apenas caminhando e absorvendo as ondas e a brisa."
+                      "en_US": "Sem combates, só caminhando e curtindo as ondas e a brisa."
                     }
                   },
                   "12": {
@@ -366,19 +366,19 @@
                       "2": {
                         "message": {
                           "": "Alright!\\. It's a date!",
-                          "en_US": "Certo!\\. É um encontro!"
+                          "en_US": "Beleza!\\. É um encontro!"
                         }
                       },
                       "3": {
                         "message": {
                           "": "We just have to find a time with less players around.",
-                          "en_US": "Só temos que encontrar um horário com menos jogadores por perto."
+                          "en_US": "A gente só precisa achar um horário com menos jogadores por perto."
                         }
                       },
                       "4": {
                         "message": {
                           "": "Unless you prefer walking through a war zone.",
-                          "en_US": "A menos que você prefira caminhar por uma zona de guerra."
+                          "en_US": "A menos que você prefira caminhar em uma zona de guerra."
                         }
                       },
                       "5": {
@@ -397,7 +397,7 @@
                       "1": {
                         "message": {
                           "": "Awww.\\. Not the beach walking kind, I see?",
-                          "en_US": "Awww.\\. Não é do tipo de passear na praia, entendo?"
+                          "en_US": "Awww.\\. Não curte passeios na praia?"
                         }
                       },
                       "2": {
@@ -439,7 +439,7 @@
                       "1": {
                         "message": {
                           "": "Alright, let's go!",
-                          "en_US": "Certo, vamos lá!"
+                          "en_US": "Beleza, vamos lá!"
                         }
                       }
                     },
@@ -453,7 +453,7 @@
                       "1": {
                         "message": {
                           "": "Alright!\\. I'll go ahead then!",
-                          "en_US": "Tudo bem!\\. Vou em frente então!"
+                          "en_US": "Ok!\\. Vou na frente então!"
                         }
                       },
                       "2": {

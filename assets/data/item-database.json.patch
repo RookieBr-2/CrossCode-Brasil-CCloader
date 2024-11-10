@@ -6563,7 +6563,7 @@
       },
       "description": {
         "": "Unlocks the \\c[3]\\v[arena.ancient-cup.name]\\c[0] & the \\c[3]\\v[arena.ancient-boss-cup.name]\\c[0] in the \\v[area.rhombus-sqr.name] Arena.",
-        "en_US": "Desbloqueia a \\c[3]\\v[arena.ancient-cup.name]\\c[0] & a \\c[3]\\v[arena.ancient-boss-cup.name]\\c[0] na Arena da \\v[area.rhombus-sqr.name]."
+        "en_US": "Desbloqueia a \\c[3]\\v[arena.ancient-cup.name]\\c[0] e a \\c[3]\\v[arena.ancient-boss-cup.name]\\c[0] na Arena da \\v[area.rhombus-sqr.name]."
       }
     },
     "626": {
