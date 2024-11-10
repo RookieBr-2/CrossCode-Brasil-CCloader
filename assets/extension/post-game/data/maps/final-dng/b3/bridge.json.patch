@@ -28,13 +28,13 @@
               "4": {
                 "message": {
                   "": "I was just having a closer look at the elevator symbols.",
-                  "en_US": "Eu só estava olhando mais de perto os símbolos do elevador."
+                  "en_US": "Eu estava apenas dando uma olhada nos símbolos do elevador."
                 }
               },
               "5": {
                 "message": {
                   "": "And then it just came over me how it all might be connected!",
-                  "en_US": "E então me dei conta de como tudo isso pode estar conectado!"
+                  "en_US": "Foi então que percebi como tudo isso pode estar conectado!"
                 }
               },
               "6": {
@@ -59,7 +59,7 @@
                   "1": {
                     "message": {
                       "": "Alrighty!\\. Let's have a look together!",
-                      "en_US": "Tudo bem!\\. Vamos dar uma olhada juntos!"
+                      "en_US": "Tudo bem!\\. Vamos dar uma olhada juntas!"
                     }
                   },
                   "9": {
@@ -83,7 +83,7 @@
                   "15": {
                     "message": {
                       "": "Floor 4: \"The Impact\"!\nWell... I'm sure you get the idea.",
-                      "en_US": "Piso 4: \"O Impacto\"!\nBem... Tenho certeza que você entendeu."
+                      "en_US": "Piso 4: \"O Impacto\"!\nBem... tenho certeza que você entendeu."
                     }
                   },
                   "17": {
@@ -101,7 +101,7 @@
                   "22": {
                     "message": {
                       "": "Say, Lea. Do you remember the \\c[3]Message of the Sky\\c[0]?",
-                      "en_US": "Diga Lea. Você lembra da \\c[3]Mensagem do Céu\\c[0]?"
+                      "en_US": "Você se lembra da \\c[3]Mensagem do Céu\\c[0]?"
                     }
                   },
                   "23": {
@@ -113,13 +113,13 @@
                   "24": {
                     "message": {
                       "": "Di'aro wrapped it in an \\c[3]envelope of rock and ice\\c[0].",
-                      "en_US": "Di'aro o envolveu em um \\c[3]envelope de pedra e gelo\\c[0]."
+                      "en_US": "Di'aro a envolveu em um \\c[3]envelope de pedra e gelo\\c[0]."
                     }
                   },
                   "25": {
                     "message": {
                       "": "And \\c[3]K'win\\c[0] made it \\c[3]approach this planet fast enough\\c[0], so it arrived in time.",
-                      "en_US": "E \\c[3]K'win\\c[0] fez \\c[3]aproximar-se deste planeta rápido o suficiente\\c[0], então chegou a tempo."
+                      "en_US": "E \\c[3]K'win\\c[0] fez ela \\c[3]se aproximar deste planeta rápido o suficiente\\c[0], então chegou a tempo."
                     }
                   },
                   "32": {
@@ -136,7 +136,7 @@
                   "34": {
                     "message": {
                       "": "And it landed right here, at this very location!",
-                      "en_US": "E caiu bem aqui, neste mesmo local!"
+                      "en_US": "E caiu bem aqui, neste local!"
                     }
                   },
                   "35": {
@@ -153,13 +153,13 @@
                   "37": {
                     "message": {
                       "": "And I'm sure at the bottom we'll finally find out what it is!",
-                      "en_US": "E tenho certeza que no fundo finalmente descobriremos o que é!"
+                      "en_US": "E tenho certeza que finalmente vamos descobrir o que é!"
                     }
                   },
                   "38": {
                     "message": {
                       "": "The message of the sky - the secret of the Ancients!",
-                      "en_US": "A mensagem do céu - o segredo dos Antigos!"
+                      "en_US": "A mensagem do céu, o segredo dos Antigos!"
                     }
                   },
                   "39": {
@@ -184,7 +184,7 @@
                   "1": {
                     "message": {
                       "": "Awww...\\. I was hoping to share it with somebody.",
-                      "en_US": "Awww...\\. Eu estava esperando para compartilhar com alguém."
+                      "en_US": "Awww...\\. Eu queria compartilhar isso com alguém."
                     }
                   },
                   "2": {
@@ -503,7 +503,7 @@
           "2": {
             "text": {
               "": "I guess I did... But it's still so exhausting.",
-              "en_US": "Acho que sim... Mas ainda é tão cansativo."
+              "en_US": "Acho que sim... mas é tão cansativo."
             }
           },
           "3": {
@@ -515,7 +515,7 @@
           "4": {
             "text": {
               "": "Oh, come on!",
-              "en_US": "Ah, vamos!"
+              "en_US": "Ah, qual é!"
             }
           }
         }
@@ -539,7 +539,7 @@
           "2": {
             "text": {
               "": "Well, just look down. We're getting close to the bottom of the crater.",
-              "en_US": "Bem, basta olhar para baixo. Estamos chegando perto do fundo da cratera."
+              "en_US": "É só olhar para baixo. Estamos chegando perto do fundo da cratera."
             }
           },
           "3": {
@@ -551,7 +551,7 @@
           "4": {
             "text": {
               "": "Right...",
-              "en_US": "Certo..."
+              "en_US": "Ok..."
             }
           }
         }
@@ -581,7 +581,7 @@
           "3": {
             "text": {
               "": "Then let's not wait here and find out, right?",
-              "en_US": "Então não vamos ficar esperando aqui para descobrir, certo?"
+              "en_US": "Acho que é melhor não pagar pra ver, certo?"
             }
           },
           "4": {

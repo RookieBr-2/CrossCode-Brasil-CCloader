@@ -169,7 +169,7 @@
                 "2": {
                   "message": {
                     "": "There you are, dear!",
-                    "en_US": "Aí está você, querida!"
+                    "en_US": "Oi, querida!"
                   }
                 },
                 "3": {
@@ -187,13 +187,13 @@
                 "5": {
                   "message": {
                     "": "Just talk to \\c[3]Lukas\\c[0] if you want your current stats evaluated.",
-                    "en_US": "Fale com \\c[3]Lukas\\c[0] se você quiser que suas estatísticas atuais sejam avaliadas."
+                    "en_US": "Fale com \\c[3]Lukas\\c[0] se você quiser que ele confira seus atributos."
                   }
                 },
                 "6": {
                   "message": {
                     "": "Now with all that being said...",
-                    "en_US": "Agora com tudo o que foi dito..."
+                    "en_US": "Agora que já falamos tudo..."
                   }
                 },
                 "7": {
@@ -219,7 +219,7 @@
                     "2": {
                       "message": {
                         "": "Let's all try to get closer to the entrance!",
-                        "en_US": "Vamos todos tentar chegar mais perto da entrada!"
+                        "en_US": "Vamos chegar mais perto da entrada!"
                       }
                     }
                   },
@@ -233,7 +233,7 @@
                     "1": {
                       "message": {
                         "": "Alright, dear.\\. Take your time to be well prepared!",
-                        "en_US": "Tudo bem, querida.\\. Aproveite o tempo necessário para se preparar bem!"
+                        "en_US": "Tudo bem, querida.\\. Vai com calma e se prepare bem!"
                       }
                     }
                   },
@@ -272,7 +272,7 @@
               "3": {
                 "message": {
                   "": "Do you want me to have a look at your stats and equipment?",
-                  "en_US": "Você quer que eu dê uma olhada em suas estatísticas e equipamentos?"
+                  "en_US": "Você quer que eu dê uma olhada em seus atributos e equipamentos?"
                 }
               },
               "4": {
@@ -294,7 +294,7 @@
                       "0": {
                         "message": {
                           "": "Jawohl! I see you're \\c[3]well prepared\\c[0].",
-                          "en_US": "Jawohl! Vejo que você \\c[3]bem preparada\\c[0]"
+                          "en_US": "Jawohl! Você está \\c[3]bem preparada\\c[0]."
                         }
                       },
                       "1": {
@@ -305,7 +305,7 @@
                       "2": {
                         "message": {
                           "": "Good equipment and stats for your level. You'll be fine!",
-                          "en_US": "Bons equipamentos e estatísticas para o seu nível. Você vai ficar bem!"
+                          "en_US": "Bons equipamentos e atributos para o seu nível. Você vai ficar bem!"
                         }
                       }
                     },
@@ -315,7 +315,7 @@
                           "0": {
                             "message": {
                               "": "Hm... I'd say you \\c[3]could do better\\c[0].",
-                              "en_US": "Hm... Eu diria que você poderia fazer \\c[3]melhor do que isso\\c[0]."
+                              "en_US": "Hm... eu diria que você pode fazer \\c[3]melhor do que isso\\c[0]."
                             }
                           },
                           "1": {
@@ -326,13 +326,13 @@
                           "2": {
                             "message": {
                               "": "Things might still work with those stats, but it won't be a breeze.",
-                              "en_US": "As coisas ainda podem funcionar com essas estatísticas, mas não será fácil."
+                              "en_US": "As coisas ainda podem funcionar com esses atributos, mas não será fácil."
                             }
                           },
                           "3": {
                             "message": {
                               "": "I suggest you look for \\c[3]better equipment\\c[0]. It's the most important factor for your stats.",
-                              "en_US": "Sugiro que você procure por \\c[3]equipamentos melhores\\c[0]. É o fator mais importante para suas estatísticas"
+                              "en_US": "Sugiro que você procure \\c[3]equipamentos melhores\\c[0]. É o fator mais importante para seus atributos."
                             }
                           }
                         },
@@ -340,7 +340,7 @@
                           "0": {
                             "message": {
                               "": "Oh junge. You really gotta \\c[3]work on your stats\\c[0]!",
-                              "en_US": "Oh junge. Você realmente precisa \\c[3]melhorar suas estatísticas\\c[0]!"
+                              "en_US": "Oh junge. Você realmente precisa \\c[3]melhorar seus atributos\\c[0]!"
                             }
                           },
                           "1": {
@@ -351,7 +351,7 @@
                           "2": {
                             "message": {
                               "": "Those may have been sufficient back for the raid, but you'll have a \\c[3]hard time\\c[0] for the final temple.",
-                              "en_US": "Elas podem ter sido suficientes para a raid,, mas você terá \\c[3]dificuldades\\c[0] no templo final."
+                              "en_US": "Eles podem ter sido suficientes para a raid, mas você vai \\c[3]passar mal\\c[0] no templo final."
                             }
                           },
                           "3": {
@@ -368,7 +368,7 @@
                           "5": {
                             "message": {
                               "": "Also make sure to \\c[3]check your circuit tree\\c[0] if there are any more skills you can learn.",
-                              "en_US": "E também cheque sua \\c[3]árvore de circuitos\\c[0] para ver se existe mais alguma habilidade que você possa aprender."
+                              "en_US": "E também cheque sua \\c[3]árvore de circuitos\\c[0] para ver se tem mais alguma habilidade que você possa aprender."
                             }
                           }
                         }
@@ -386,7 +386,7 @@
                   "1": {
                     "message": {
                       "": "Sure thing!\\. Let me know when you change your mind.",
-                      "en_US": "Claro que sim!\\. Me avise quando você mudar de idéia."
+                      "en_US": "Beleza!\\. Me avise quando você mudar de idéia."
                     }
                   }
                 },
@@ -428,13 +428,13 @@
           "36": {
             "message": {
               "": "Everyone is here, right?",
-              "en_US": "Todos estão aqui, certo?"
+              "en_US": "Estão todos aqui?"
             }
           },
           "37": {
             "message": {
               "": "It should start any moment, now!",
-              "en_US": "Deve começar a qualquer momento, agora!"
+              "en_US": "Deve começar a qualquer momento!"
             }
           },
           "44": {
@@ -452,13 +452,13 @@
           "48": {
             "message": {
               "": "I heard you're all going to run the new temple together?\n",
-              "en_US": "Ouvi dizer que todos vocês vão entrar no novo templo juntos, verdade?\n"
+              "en_US": "Ouvi dizer que vocês vão entrar no novo templo juntos, é verdade?\n"
             }
           },
           "50": {
             "message": {
               "": "Yes, my dear! Feel free to join us!",
-              "en_US": "Sim, minha querida! Esteja à vontade para se juntar a nós!"
+              "en_US": "Sim, minha querida! Fique à vontade para se juntar a nós!"
             }
           },
           "51": {
@@ -494,7 +494,7 @@
           "71": {
             "message": {
               "": "It's the old geezer!\\. And he's flying!",
-              "en_US": "É o velhote!\\. E ele está voando!"
+              "en_US": "É o velho!\\. E ele está voando!"
             }
           },
           "75": {
@@ -506,7 +506,7 @@
           "76": {
             "message": {
               "": "I am very grateful that all of you have assembled here.",
-              "en_US": "Estou muito grato por todos vocês terem se reunido aqui."
+              "en_US": "Agradeço imensamente a todos por estarem aqui."
             }
           },
           "77": {
@@ -566,7 +566,7 @@
           "105": {
             "message": {
               "": "IT'S DUNGEON TIIIIMEE!!",
-              "en_US": "É HORA DA MASMORRAAA!!"
+              "en_US": "É HORA DA DUUUUNGEON!!"
             }
           },
           "114": {
@@ -584,19 +584,19 @@
           "0": {
             "text": {
               "": "Another dungeon...\\. Okay...\\. I have to prepare mentally.",
-              "en_US": "Outra dungeon...\\. Certo....\\. Eu tenho que me preparar mentalmente."
+              "en_US": "Outra dungeon...\\. eu tenho que me preparar mentalmente."
             }
           },
           "1": {
             "text": {
               "": "Come on!\\. It might just be a very flat dungeon without any height difference at all.",
-              "en_US": "Vamos lá!\\. Pode ser apenas uma dungeon muito plana, sem nenhuma diferença de altura."
+              "en_US": "Qual é!\\. Pode ser apenas uma dungeon plana, sem nenhuma diferença de altura."
             }
           },
           "2": {
             "text": {
               "": "Yeah right... Just look at their track record. I bet it will be chasms and towers all over again!",
-              "en_US": "Sim, certo... Basta olhar para o histórico delas. Aposto que serão abismos e torres de novo!"
+              "en_US": "Sim, claro...\\. é só olhar o histórico deles. Aposto que terão abismos e torres de novo!"
             }
           }
         }
@@ -638,13 +638,13 @@
           "0": {
             "text": {
               "": "Hey!\\. How long do plan to keep sitting there?",
-              "en_US": "Ei!\\. Quanto tempo planeja continuar sentada aí?"
+              "en_US": "Ei!\\. Quanto tempo vai ficar sentada aí?"
             }
           },
           "1": {
             "text": {
               "": "It's such a nice view from up here!",
-              "en_US": "É uma vista tão agradável daqui de cima!"
+              "en_US": "A vista aqui de cima é tão boa!"
             }
           },
           "2": {
@@ -662,13 +662,13 @@
           "4": {
             "text": {
               "": "Don't you want to run the dungeon as well?",
-              "en_US": "Você não quer entrar na dungeon também?"
+              "en_US": "Você não quer entrar na dungeon?"
             }
           },
           "5": {
             "text": {
               "": "I don't know...\\. You think there are tables in there?",
-              "en_US": "Eu não sei...\\. Você acha que há mesas lá dentro?"
+              "en_US": "Eu não sei...\\. você acha que tem mesas lá dentro?"
             }
           },
           "6": {

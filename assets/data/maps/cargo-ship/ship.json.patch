@@ -799,13 +799,13 @@
               "13": {
                 "message": {
                   "": "Yeah, at least within reasonable water pressure.",
-                  "en_US": "Sim, pelo menos dentro de uma pressão de água razoável."
+                  "en_US": "Sim, desde que a pressão da água seja razoável."
                 }
               },
               "14": {
                 "message": {
                   "": "So who knows?\\. Maybe avatars will eventually learn to swim!",
-                  "en_US": "Então, quem sabe?\\. Talvez os avatares acabem aprendendo a nadar!"
+                  "en_US": "Talvez os avatares finalmente aprendam a nadar!"
                 }
               },
               "15": {
@@ -816,13 +816,13 @@
               "16": {
                 "message": {
                   "": "Though I'm sure it will take some time until a company like Instatainment will adopt such new technology.",
-                  "en_US": "Embora eu tenha certeza de que levará algum tempo até que uma empresa como a Instatainment adote essa nova tecnologia."
+                  "en_US": "Embora eu ache que ainda vai levar algum tempo para uma empresa como a Instatainment adotar essa tecnologia."
                 }
               },
               "17": {
                 "message": {
                   "": "Then again...\\. I heard they recently integrated some really advanced A.I. technology.",
-                  "en_US": "Então continuando...\\. Ouvi dizer que recentemente eles integraram alguma tecnologia realmente avançada de A.I."
+                  "en_US": "Então continuando...\\. Fiquei sabendo que eles integraram recentemente uma tecnologia de IA bem avançada."
                 }
               },
               "18": {
@@ -916,13 +916,13 @@
               "3": {
                 "message": {
                   "": "Oh, you're back as well?\\. It has been a while!",
-                  "en_US": "Oh, você voltou também?\\. Faz tanto tempo!"
+                  "en_US": "Ah, você voltou também?\\. Quanto tempo!"
                 }
               },
               "4": {
                 "message": {
                   "": "But I also saw another avatar...\\. that orange dude with glasses.",
-                  "en_US": "Mas eu também vi outro avatar...\\. aquela cara laranja com óculos."
+                  "en_US": "Eu também vi outro avatar...\\. aquela cara laranja com óculos."
                 }
               },
               "5": {
@@ -940,13 +940,13 @@
               "7": {
                 "message": {
                   "": "My, my...\\. You avatars certainly are a special bunch.",
-                  "en_US": "Meu...\\. Vocês avatares certamente são um grupo especial."
+                  "en_US": "Meu...\\. vocês avatares são muito estranhos."
                 }
               },
               "8": {
                 "message": {
                   "": "Combining a futuristic armor with a...\\. \\c[3]cravat\\c[0]?",
-                  "en_US": "Combinando uma armadura futurista com uma...\\. \\c[3]gravata\\c[0]?"
+                  "en_US": "O cara combina uma armadura futurista com um...\\. \\c[3]babado\\c[0]?"
                 }
               },
               "9": {
@@ -963,7 +963,7 @@
               "11": {
                 "message": {
                   "": "Say, do all avatars in CrossWorlds look like his?",
-                  "en_US": "Me conta, todos os avatares em CrossWorlds têm esse estilo exótico?"
+                  "en_US": "Diz aí, todos os avatares em CrossWorlds seguem esse estilo exótico?"
                 }
               },
               "12": {
@@ -980,7 +980,7 @@
               "14": {
                 "message": {
                   "": "Huh...\\. I guess we got a couple outliers, then?",
-                  "en_US": "Huh...\\. Eu acho que temos algumas exceções, então?"
+                  "en_US": "Hmm...\\. Eu acho que temos algumas exceções, então?"
                 }
               }
             }

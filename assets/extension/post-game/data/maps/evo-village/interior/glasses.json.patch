@@ -1294,7 +1294,7 @@
           "8": {
             "message": {
               "": "Are you here to tell me about the meeting for the new dungeon?",
-              "en_US": "Você está aqui para me contar sobre a reunião para a nova dungeon?"
+              "en_US": "Você veio aqui para me falar sobre a reunião para a nova dungeon?"
             }
           },
           "9": {
@@ -1323,7 +1323,7 @@
           "18": {
             "message": {
               "": "You know...\\. Yesterday, I told you the truth, Lea.",
-              "en_US": "Você sabe...\\. Ontem eu te contei a verdade Lea."
+              "en_US": "Sabe...\\. ontem eu te contei a verdade Lea."
             }
           },
           "19": {
@@ -1341,7 +1341,7 @@
           "21": {
             "message": {
               "": "Wait.",
-              "en_US": "Espere."
+              "en_US": "Espera."
             }
           },
           "22": {
@@ -1359,7 +1359,7 @@
           "24": {
             "message": {
               "": "I suppose...",
-              "en_US": "Eu suponho..."
+              "en_US": "Eu acho que..."
             }
           },
           "25": {
@@ -1371,13 +1371,13 @@
           "26": {
             "message": {
               "": "At least I feel...\\. like something is still missing.",
-              "en_US": "Pelo menos eu sinto...\\. como se algo ainda estivesse faltando."
+              "en_US": "Pelo menos eu tenho a sensação...\\. de que ainda falta algo."
             }
           },
           "27": {
             "message": {
               "": "What?",
-              "en_US": "O que?"
+              "en_US": "Que?"
             }
           },
           "28": {
@@ -1400,13 +1400,13 @@
           "31": {
             "message": {
               "": "You know...",
-              "en_US": "Você sabe..."
+              "en_US": "Sabe..."
             }
           },
           "32": {
             "message": {
               "": "Maybe running the dungeon with everyone is a good idea to take my mind off it.",
-              "en_US": "Talvez correr pela dungeon com todo mundo seja uma boa ideia, para me distrair."
+              "en_US": "Talvez explorar a dungeon com todo mundo seja uma boa ideia, para me distrair."
             }
           },
           "33": {
@@ -1428,7 +1428,7 @@
           "40": {
             "message": {
               "": "Let's go to that meeting.",
-              "en_US": "Vamos para aquela reunião."
+              "en_US": "Vamos para a reunião."
             }
           },
           "42": {

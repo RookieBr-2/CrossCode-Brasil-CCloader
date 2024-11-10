@@ -4969,7 +4969,7 @@
       },
       "description": {
         "": "The last upgrade. The ultimate strawhat, vastly increasing your focus.",
-        "en_US": "O chapéu composto por todas as plantas que você analisou, aumenta enormemente seu foco."
+        "en_US": "O chapéu composto por todas as plantas que você analisou, aumenta seu foco."
       }
     },
     "470": {
@@ -5698,7 +5698,7 @@
     "538": {
       "name": {
         "": "Lil' Reap",
-        "en_US": "Mano Ceifador"
+        "en_US": "Ceifador"
       },
       "description": {
         "": "Don't be a creep, don't make a meep, or he'll make you go to sleep.",
@@ -5731,7 +5731,7 @@
       },
       "description": {
         "": "A fully decrypted key to access \\c[3]Facility X\\c[0] somewhere in \\c[3]Sapphire Ridge\\c[0].",
-        "en_US": "Uma chave totalmente descriptografada para acessar a \\c[3]Instalação X\\c[0] em algum lugar na \\c[3]Serra da Safira\\c[3]."
+        "en_US": "Uma chave descriptografada da \\c[3]Instalação X\\c[0] que fica em algum lugar na \\c[3]Serra da Safira\\c[3]."
       }
     },
     "542": {
@@ -5937,7 +5937,7 @@
       },
       "description": {
         "": "A seed from the mighty cone trees found in Ku'lero Temple.",
-        "en_US": "Uma semente das poderosas árvores cone encontradas no Templo Ku'lero"
+        "en_US": "Uma semente das poderosas árvores cone encontradas no Templo de Ku'lero"
       }
     },
     "563": {
@@ -6266,7 +6266,7 @@
       },
       "description": {
         "": "Based on a mythical beast, these boots grant inhuman speed and endurance. \\i[ascended]",
-        "en_US": "Baseadas em uma besta mítica, essas botas garantem velocidade e resistência desumanas. \\i[ascended]"
+        "en_US": "Baseadas em uma besta mítica, garantem velocidade e resistência excepcionais. \\i[ascended]"
       }
     },
     "596": {
@@ -6549,7 +6549,7 @@
     "624": {
       "name": {
         "": "Ku'lero Master Key",
-        "en_US": "Chame Mestra de Ku'lero"
+        "en_US": "Chave Mestra de Ku'lero"
       },
       "description": {
         "": "Master key for the \\c[3]\\v[area.final-dng.name]\\c[0].",

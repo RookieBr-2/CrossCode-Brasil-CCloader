@@ -6,7 +6,7 @@
           "9": {
             "message": {
               "": "Oh, hello everyone!\\.\nWas that the whole dungeon already?",
-              "en_US": "Ah, olá a todos!\\.\nJá foi a dungeon toda??"
+              "en_US": "Ah, e aí galera!\\.\nA dungeon já acabou??"
             }
           },
           "11": {
@@ -18,13 +18,13 @@
           "18": {
             "message": {
               "": "Holerö! Everyone else here as well?",
-              "en_US": "Holerö! Todo mundo aqui também?"
+              "en_US": "Holerö! Todos estão aqui?"
             }
           },
           "20": {
             "message": {
               "": "Looks like the dungeon includes outdoor areas this time!",
-              "en_US": "Parece que a masmorra inclui áreas ao ar livre desta vez!"
+              "en_US": "Parece que a dungeon tem áreas ao ar livre dessa vez!"
             }
           },
           "22": {
@@ -72,7 +72,7 @@
           "6": {
             "message": {
               "": "Those crystals...\\. they almost look like this new puzzle element, don't they?",
-              "en_US": "Esses cristais...\\. eles quase se parecem com esse novo elemento de quebra-cabeça, não é?"
+              "en_US": "Esses cristais...\\. eles quase se parecem com aquele elemento novo do puzzle, não é?"
             }
           },
           "7": {
@@ -84,7 +84,7 @@
           "8": {
             "message": {
               "": "You think the ancients created them?",
-              "en_US": "Você acha que os antigos criaram?"
+              "en_US": "Você acha que os antigos criaram eles?"
             }
           },
           "9": {
@@ -96,7 +96,7 @@
           "10": {
             "message": {
               "": "Oh!\\. Interesting thought!",
-              "en_US": "Ah!\\. Pensamento interessante!"
+              "en_US": "Ah!\\. Uma ideia interessante!"
             }
           }
         }
@@ -138,13 +138,13 @@
           "1": {
             "text": {
               "": "Really not sure, what they were thinking...",
-              "en_US": "Realmente não tenho certeza, o que eles estavam pensando…"
+              "en_US": "Que ideia maluca passou pela cabeça deles?"
             }
           },
           "2": {
             "text": {
               "": "So I have to go back to the beach area, just to collect another Shade?",
-              "en_US": "Então eu tenho que voltar para a área da praia, só para pegar outro Shade?"
+              "en_US": "Então eu tenho que voltar para a praia, só para pegar outro fragmento?"
             }
           },
           "3": {
@@ -162,19 +162,19 @@
           "5": {
             "text": {
               "": "They could at least have added another shade barrier outside of the dungeon, really.",
-              "en_US": "Na verdade, eles poderiam pelo menos ter adicionado outra barreira de fragmento fora da masmorra."
+              "en_US": "Eles pelo menos poderiam adicionar a barreira do lado de fora da dungeon."
             }
           },
           "6": {
             "text": {
               "": "Welp... I guess we have to return back to Rhombus Square.",
-              "en_US": "Bem... Acho que temos que voltar para Praça Losango."
+              "en_US": "Bem... acho que temos que voltar para a Praça Losango."
             }
           },
           "7": {
             "text": {
               "": "Don't wanna. Lemme sit here and keep complaining for a while longer.",
-              "en_US": "Não quero. Deixe-me sentado aqui e ficar reclamando mais um pouco."
+              "en_US": "Não quero. Vou ficar aqui sentado, reclamando mais um pouco."
             }
           }
         }

@@ -133,13 +133,13 @@
           "35": {
             "message": {
               "": "Wait...",
-              "en_US": "Espere..."
+              "en_US": "Espera..."
             }
           },
           "37": {
             "message": {
               "": "Huh?",
-              "en_US": "Hum?"
+              "en_US": "Hã?"
             }
           },
           "38": {
@@ -150,7 +150,7 @@
           "39": {
             "message": {
               "": "You...\\. don't think I should force it?",
-              "en_US": "Você...\\. não acha que devo forçar?"
+              "en_US": "Você...\\. quer dizer que eu não deveria forçar?"
             }
           },
           "40": {
@@ -168,7 +168,7 @@
           "42": {
             "message": {
               "": "After all, you tend to remember things when you least expect it.",
-              "en_US": "Afinal, você tende a se lembrar das coisas quando menos espera."
+              "en_US": "Afinal, as memórias costumam voltar quando menos esperamos."
             }
           },
           "43": {
@@ -185,7 +185,7 @@
           "47": {
             "message": {
               "": "Still...\\. I feel like taking a break right now.",
-              "en_US": "Mesmo assim...\\. Eu sinto vontade de fazer uma pausa agora."
+              "en_US": "Mesmo assim...\\. eu sinto vontade de fazer uma pausa agora."
             }
           },
           "48": {
@@ -215,7 +215,7 @@
           "10": {
             "message": {
               "": "Welcome to our little midboss discussion!",
-              "en_US": "Bem-vinda à nossa pequena discussão sobre midboss!"
+              "en_US": "Seja bem-vinda ao nosso bate-papo sobre o midboss!"
             }
           },
           "11": {
@@ -232,7 +232,7 @@
           "13": {
             "message": {
               "": "Evotar controlled mid bosses!",
-              "en_US": "Evotares controlar mid bosses!"
+              "en_US": "Midbosses controlados por Evotares!"
             }
           },
           "14": {
@@ -243,7 +243,7 @@
           "15": {
             "message": {
               "": "Just think about it!",
-              "en_US": "Apenas pense nisso!"
+              "en_US": "Imagina só!"
             }
           },
           "16": {
@@ -261,25 +261,25 @@
           "24": {
             "message": {
               "": "How's that supposed to scale though?",
-              "en_US": "Como isso deve escalar?"
+              "en_US": "Como isso ia funcionar?"
             }
           },
           "25": {
             "message": {
               "": "You'd need an Evotar for each fight happening in parallel.",
-              "en_US": "Você precisaria de um Evotar para cada luta acontecendo em paralelo."
+              "en_US": "Seria necessário ter um Evotar para cada combate paralelo."
             }
           },
           "26": {
             "message": {
               "": "Well...\\. I suppose they could \\c[3]clone the Evotars\\c[0]?",
-              "en_US": "Bem...\\. Acho que eles poderiam \\c[3]clonar os Evotares\\c[0]?"
+              "en_US": "Bem...\\. acho que eles poderiam \\c[3]clonar os Evotares\\c[0]?"
             }
           },
           "27": {
             "message": {
               "": "Uhm...\\. are you sure about that?",
-              "en_US": "Hum...\\. tem certeza disso?"
+              "en_US": "Hmm...\\. tem certeza disso?"
             }
           },
           "28": {
@@ -300,13 +300,14 @@
           },
           "32": {
             "message": {
-              "": "Nope!"
+              "": "Nope!",
+              "en_US": "Nem pensar!"
             }
           },
           "33": {
             "message": {
               "": "Yeah, let's drop that idea.\\. And never talk of it again.",
-              "en_US": "Sim, vamos deixar de lado essa ideia.\\. E nunca mais fale nisso."
+              "en_US": "Vamos deixar essa ideia de lado.\\. E nunca mais falar disso."
             }
           },
           "34": {
@@ -348,7 +349,7 @@
           "10": {
             "message": {
               "": "That means we all have defeated the bird dude!",
-              "en_US": "Isso significa que todos nós derrotamos o cara pássaro!"
+              "en_US": "Isso significa que derrotamos o cara pássaro!"
             }
           },
           "11": {
@@ -366,19 +367,19 @@
           "20": {
             "message": {
               "": "Anyway! What a lucky coincidence that both of you are here!",
-              "en_US": "De qualquer forma! Que feliz coincidência vocês duas estarem aqui!"
+              "en_US": "Enfim! Que coincidência boa vocês duas estarem aqui!"
             }
           },
           "22": {
             "message": {
               "": "Why is that?",
-              "en_US": "Por que isso?"
+              "en_US": "Por que?"
             }
           },
           "23": {
             "message": {
               "": "You know, I met Lea quite some time ago.",
-              "en_US": "Sabe, conheci Lea há algum tempo."
+              "en_US": "Sabe, faz um tempo que conheci a Lea."
             }
           },
           "24": {
@@ -402,25 +403,25 @@
           "27": {
             "message": {
               "": "Right, but you see...",
-              "en_US": "Certo, mas veja..."
+              "en_US": "Olha..."
             }
           },
           "28": {
             "message": {
               "": "With Lea's vocabulary it's pretty hard to ask her anything specific.",
-              "en_US": "Com o vocabulário de Lea, é muito difícil perguntar algo específico a ela."
+              "en_US": "A fala da Lea é meio limitada, então é complicado fazer uma pergunta mais direta."
             }
           },
           "30": {
             "message": {
               "": "So I had this idea!",
-              "en_US": "Então tive essa ideia!"
+              "en_US": "Eu tive uma ideia agora!"
             }
           },
           "31": {
             "message": {
               "": "Since you and Lea share the same past, can't I just ask you instead?",
-              "en_US": "Já que você e Lea compartilham o mesmo passado, posso te perguntar sobre?"
+              "en_US": "Já que você e a Lea têm o mesmo passado, posso te fazer umas perguntas?"
             }
           },
           "32": {
@@ -430,7 +431,7 @@
           },
           "33": {
             "message": {
-              "": "Uhm..."
+              "": "Hmm..."
             }
           },
           "35": {
@@ -442,7 +443,7 @@
           "41": {
             "message": {
               "": "I don't know, don't you think this is weird?",
-              "en_US": "Não sei, você não acha isso estranho?"
+              "en_US": "Não sei, você não acha isso esquisito?"
             }
           },
           "42": {
@@ -454,7 +455,7 @@
           "44": {
             "message": {
               "": "Oui, of course!\\. But like...\\. 90% or so, right?",
-              "en_US": "Oui, claro!\\. Mas tipo...\\. 90% é, certo?"
+              "en_US": "Oui, claro!\\. Mas tipo...\\. vocês devem ser uns 90% parecidas, né?"
             }
           },
           "45": {
@@ -472,7 +473,7 @@
           "51": {
             "message": {
               "": "For instance?\\. It's embarrassing.\\. And I hardly know you.",
-              "en_US": "Por exemplo?\\. É embaraçoso.\\. E mal te conheço."
+              "en_US": "Por exemplo?\\. É constrangedor.\\. E eu mal te conheço."
             }
           },
           "52": {
@@ -496,7 +497,7 @@
           "60": {
             "message": {
               "": "Hey!\\. Don't just run away like that!",
-              "en_US": "Ei!\\. Não saia correndo assim!"
+              "en_US": "Ei!\\. Não sai correndo assim!"
             }
           },
           "64": {
@@ -529,19 +530,19 @@
           "0": {
             "text": {
               "": "That mid boss was quite something, wasn't it?",
-              "en_US": "Aquele mid boss era fortinho, né?"
+              "en_US": "Aquele midboss era fortinho, né?"
             }
           },
           "1": {
             "text": {
               "": "Yeah... it would've been half as bad if the battle arena was inside.",
-              "en_US": "Sim... teria sido ruim se a arena estivesse na parte interna."
+              "en_US": "Sim... teria sido complicado se a arena estivesse na parte interna."
             }
           },
           "2": {
             "text": {
               "": "Of course...",
-              "en_US": "É claro..."
+              "en_US": "Claro..."
             }
           }
         }
@@ -553,7 +554,7 @@
           "0": {
             "text": {
               "": "Getting deeper...",
-              "en_US": "Se aprofundar..."
+              "en_US": "Estamos indo mais fundo..."
             }
           },
           "1": {

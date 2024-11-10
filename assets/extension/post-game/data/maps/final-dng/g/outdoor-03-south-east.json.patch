@@ -66,7 +66,7 @@
               "6": {
                 "message": {
                   "": "Man, wished I could have seen it.",
-                  "en_US": "Cara, queria ter visto."
+                  "en_US": "Cara, queria ter visto isso."
                 }
               },
               "7": {
@@ -77,31 +77,31 @@
               "8": {
                 "message": {
                   "": "That fight was instanced.\\. You just barely notice it, though!",
-                  "en_US": "Aquela luta foi instanciada.\\. Você mal percebe isso, no entanto!"
+                  "en_US": "Aquela luta foi instanciada.\\. Mas não dá pra notar!"
                 }
               },
               "22": {
                 "message": {
                   "": "See?\\. This is how you appeared for me as well.",
-                  "en_US": "Vê?\\. Foi assim que você também apareceu para mim."
+                  "en_US": "Viu?\\. Foi assim que eu vi você aparecer."
                 }
               },
               "23": {
                 "message": {
                   "": "I thought it would be perfect to play a little trick on somebody.",
-                  "en_US": "Achei que seria perfeito pregar uma peça em alguém."
+                  "en_US": "Achei que seria perfeito para pregar uma peça em alguém."
                 }
               },
               "25": {
                 "message": {
                   "": "You know...\\. jumping right in front of them after they appear from the instance.",
-                  "en_US": "Você sabe...\\. pulando bem na frente deles depois que eles saem da instância."
+                  "en_US": "Tipo...\\. pular na frente de alguém assim que ela saísse da instância."
                 }
               },
               "26": {
                 "message": {
                   "": "Whhhyyyyy...?",
-                  "en_US": "Pooorr quueeee....?"
+                  "en_US": "Por quueeee....?"
                 }
               },
               "27": {
@@ -124,7 +124,7 @@
               "30": {
                 "message": {
                   "": "Oh well!\\. Time to move on!",
-                  "en_US": "Bem!\\. Hora de seguir em frente!"
+                  "en_US": "É isso aí!\\. Hora de seguir em frente!"
                 }
               }
             }

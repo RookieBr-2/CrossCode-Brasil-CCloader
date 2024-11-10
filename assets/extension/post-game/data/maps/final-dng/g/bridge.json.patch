@@ -25,13 +25,13 @@
           "7": {
             "message": {
               "": "I guess we're pretty much in sync with the dungeon.",
-              "en_US": "Acho que estamos bem sincronizados com a dungeon."
+              "en_US": "Acho que estamos no mesmo pique na dungeon!"
             }
           },
           "8": {
             "message": {
               "": "You just fought one of these statue guardians too, right?",
-              "en_US": "Você acabou de lutar com um desses guardiões da estátua também, certo?"
+              "en_US": "Você acabou de lutar com um desses guardiões também, não é?"
             }
           },
           "9": {
@@ -43,7 +43,7 @@
           "10": {
             "message": {
               "": "I like those enemies!\\. They're fun to fight!",
-              "en_US": "Eu gosto desses inimigos!\\. Eles são divertidos de lutar!"
+              "en_US": "Eu gosto desses inimigos!\\. Eles são divertidos de socar!"
             }
           },
           "12": {
@@ -55,19 +55,19 @@
           "19": {
             "message": {
               "": "Oui! It's a great feeling to get close for a beating right after dodging their shield!",
-              "en_US": "Oui! É uma ótima sensação dar um golpe logo depois de desviar do escudo!"
+              "en_US": "Oui! Não tem sensação melhor do que dar um golpe depois de desviar do escudo!"
             }
           },
           "20": {
             "message": {
               "": "But I guess things would be different for a Hexacast, right?",
-              "en_US": "Mas acho que as coisas seriam diferentes para um Hexamagia, certo?"
+              "en_US": "Mas acho que as coisas são diferentes para um Hexamago, né?"
             }
           },
           "21": {
             "message": {
               "": "More ranged attacks and the like.",
-              "en_US": "Mais ataques à distância e similares."
+              "en_US": "Mais ataques à distância e tal."
             }
           },
           "22": {
@@ -79,13 +79,13 @@
           "23": {
             "message": {
               "": "We have a number of close-combat moves at our disposal as well.",
-              "en_US": "Também temos vários movimentos de combate corpo a corpo à nossa disposição."
+              "en_US": "Também temos várias técnicas de combate corpo a corpo à nossa disposição."
             }
           },
           "24": {
             "message": {
               "": "And I happen to prefer those as well.",
-              "en_US": "E acontece que prefiro esses também."
+              "en_US": "E acontece que prefiro essas também."
             }
           },
           "25": {
@@ -103,7 +103,7 @@
           "27": {
             "message": {
               "": "Indeed.",
-              "en_US": "De fato."
+              "en_US": "Com certeza."
             }
           }
         }
@@ -115,19 +115,19 @@
           "3": {
             "message": {
               "": "Hey!\\. Those signs just appeared!",
-              "en_US": "Ei!\\. Esses sinais acabaram de aparecer!"
+              "en_US": "Ei!\\. Esses símbolos acabaram de aparecer!"
             }
           },
           "8": {
             "message": {
               "": "Yes and those depictions are quite interesting as well!",
-              "en_US": "Sim, e essas representações também são bastante interessantes!"
+              "en_US": "Sim, e essas representações também são muito interessantes!"
             }
           },
           "10": {
             "message": {
               "": "Do you think there's an elevator inside?",
-              "en_US": "Você acha que tem elevador lá dentro?"
+              "en_US": "Será que tem um elevador lá dentro?"
             }
           },
           "11": {
@@ -139,19 +139,19 @@
           "12": {
             "message": {
               "": "I guess the Ancients pretty much learned the elevator technology ever since the Temple Mine.",
-              "en_US": "Eu acho que os Antigos praticamente aprenderam a tecnologia de elevadores desde a Mina do Templo."
+              "en_US": "Eu acho que os Antigos pegaram a tecnologia dos elevadores na Mina do Templo."
             }
           },
           "18": {
             "message": {
               "": "No, Buggy. If there is an elevator, it won't be based on human technology.",
-              "en_US": "Não Buggy. Se houver um elevador, não será baseado em tecnologia humana."
+              "en_US": "Não Buggy. Se tiver um elevador, não será baseado em tecnologia humana."
             }
           },
           "19": {
             "message": {
               "": "You see, this temple must be much older than the Temple Mine.",
-              "en_US": "Veja bem, este templo deve ser muito mais antigo que a Mina do Templo."
+              "en_US": "Olha, esse templo deve ser bem mais antigo que a Mina do Templo."
             }
           },
           "20": {
@@ -163,7 +163,7 @@
           "21": {
             "message": {
               "": "So it must have been here long before humankind arrived.",
-              "en_US": "Portanto, deve estar aqui muito antes de a humanidade chegar."
+              "en_US": "Isso significa que ele já estava aqui bem antes da chegada da humanidade."
             }
           },
           "23": {
@@ -175,7 +175,7 @@
           "24": {
             "message": {
               "": "Still, I bet it's an elevator!\\. Let's see what's inside!",
-              "en_US": "Ainda assim, aposto que é um elevador!\\. Vamos ver o que tem dentro!"
+              "en_US": "Mesmo assim, aposto que é um elevador!\\. Vamos ver o que tem dentro!"
             }
           }
         }
@@ -218,13 +218,13 @@
               "15": {
                 "message": {
                   "": "Some people think they're connected to some Ancient magic to cover up the whole place.",
-                  "en_US": "Algumas pessoas pensam que estão conectadas a alguma magia Antiga para encobrir todo o lugar."
+                  "en_US": "Algumas pessoas pensam que estão conectados a alguma magia dos Antigos para cobrir todo o lugar."
                 }
               },
               "16": {
                 "message": {
                   "": "That's probably why it remained hidden up until now.",
-                  "en_US": "Provavelmente é por isso que permaneceu escondida até agora."
+                  "en_US": "Provavelmente é por isso que esse lugar permaneceu escondido até agora."
                 }
               },
               "17": {
@@ -243,13 +243,13 @@
           "0": {
             "text": {
               "": "I told you!\\. They did it again!",
-              "en_US": "Eu te disse!\\. Fizeram de novo!"
+              "en_US": "Eu te disse!\\. Eles fizeram de novo!"
             }
           },
           "1": {
             "text": {
               "": "Hey, at least it's not a giant tree that leads up to space!",
-              "en_US": "Ei, pelo menos não é uma árvore gigante que leva ao espaço!"
+              "en_US": "Ei, pelo menos não é uma árvore gigante que te leva pro espaço!"
             }
           },
           "2": {
@@ -261,19 +261,19 @@
           "3": {
             "text": {
               "": "You know... I thought at this point you'd be able to handle this.",
-              "en_US": "Sabe... Achei que a essa altura você seria capaz de lidar com isso."
+              "en_US": "Sabe... achei que você tinha superado isso."
             }
           },
           "4": {
             "text": {
               "": "We haven't been playing CrossWorlds for a long time, right?",
-              "en_US": "Faz muito tempo que não jogamos CrossWorlds, certo?"
+              "en_US": "Faz muito tempo que não jogamos CrossWorlds, não é?"
             }
           },
           "5": {
             "text": {
               "": "I entirely forgot how bad this game was with heights.",
-              "en_US": "Esqueci completamente o quão cruel era esse jogo com alturas."
+              "en_US": "Esqueci completamente o abuso psicológico que esse jogo faz usando as alturas."
             }
           }
         }
@@ -297,7 +297,7 @@
           "2": {
             "text": {
               "": "That makes it even more mysterious!",
-              "en_US": "Isso o torna ainda mais misterioso!"
+              "en_US": "Isso torna o lugar ainda mais misterioso!"
             }
           }
         }

@@ -1192,7 +1192,7 @@
                 "2": {
                   "message": {
                     "": "Lea, dear!\\. You're here!",
-                    "en_US": "Lea querida!\\. Você está aqui!"
+                    "en_US": "Lea querida!\\. Você chegou!"
                   }
                 },
                 "3": {
@@ -1210,7 +1210,7 @@
                 "5": {
                   "message": {
                     "": "Strange.\\. He's usually not the type to be late.",
-                    "en_US": "Estranho.\\. Ele geralmente não é do tipo que se atrasa."
+                    "en_US": "Estranho.\\. Ele não é do tipo que se atrasa."
                   }
                 },
                 "6": {
@@ -1221,7 +1221,7 @@
                 "7": {
                   "message": {
                     "": "Now that I think about it, he didn't seem all that enthusiastic when I contacted him.",
-                    "en_US": "Pensando nisso, ele não parecia tão entusiasmado quando o contatei."
+                    "en_US": "Pensando bem, ele não pareceu muito animado quando entrei em contato com ele."
                   }
                 },
                 "8": {
@@ -1536,7 +1536,7 @@
           "17": {
             "message": {
               "": "The rumors have been around for quite some time, but today it will finally happen!",
-              "en_US": "Os rumores já existem há algum tempo, mas hoje finalmente acontecerá!"
+              "en_US": "Os rumores já estão rolando há um tempo, mas hoje finalmente acontecerá!"
             }
           },
           "18": {
@@ -1548,7 +1548,7 @@
           "19": {
             "message": {
               "": "The last trial for us seekers to take!",
-              "en_US": "A última prova para nós seekers enfrentarmos!"
+              "en_US": "A última prova que nós, seekers, teremos que enfrentar!"
             }
           },
           "29": {
@@ -1560,7 +1560,7 @@
           "31": {
             "message": {
               "": "We should all do a race together!",
-              "en_US": "Todos nós deveríamos fazer uma corrida juntos!"
+              "en_US": "Acho que a gente devia fazer uma corrida juntos!"
             }
           },
           "35": {
@@ -1578,7 +1578,7 @@
           "42": {
             "message": {
               "": "Yeah, we grandpas should take things slowly.",
-              "en_US": "Sim, nós vovôs devemos levar as coisas devagar."
+              "en_US": "Sim, nós veteranos gostamos de levar as coisas devagar."
             }
           },
           "43": {
@@ -1588,7 +1588,7 @@
           },
           "45": {
             "message": {
-              "": "Huh?"
+              "": "Hã?"
             }
           },
           "50": {
@@ -1600,13 +1600,13 @@
           "51": {
             "message": {
               "": "I'd rather not rush through it but enjoy it at my own pace.",
-              "en_US": "Prefiro não me apressar, mas aproveitar no meu próprio ritmo."
+              "en_US": "Prefiro seguir no meu próprio ritmo, sem pressa."
             }
           },
           "53": {
             "message": {
               "": "But...\\. our racing tradition!",
-              "en_US": "Mas...\\. nossa corrida de tradição!"
+              "en_US": "Mas...\\. nossa corrida é uma tradição!"
             }
           },
           "58": {
@@ -1640,7 +1640,7 @@
               "1": {
                 "message": {
                   "": "Whhhhyyyyy?!",
-                  "en_US": "Pooor quueee?!"
+                  "en_US": "Por queeee?!"
                 }
               }
             },
@@ -1668,7 +1668,7 @@
           "79": {
             "message": {
               "": "We heard you're preparing an event to tackle the final temple!",
-              "en_US": "Ouvimos dizer que está preparando um evento para enfrentar o templo final!"
+              "en_US": "Ouvimos dizer que vocês estão se organizando para enfrentar o templo final!"
             }
           },
           "80": {
@@ -1704,7 +1704,7 @@
           "99": {
             "message": {
               "": "Let's run the temple together!",
-              "en_US": "Vamos correr para o templo juntos!"
+              "en_US": "Vamos explorar o templo juntos!"
             }
           },
           "100": {
@@ -1716,7 +1716,7 @@
           "101": {
             "message": {
               "": "Let's all meet in front of the temple tonight when it opens, eh?",
-              "en_US": "Vamos todos nos encontrar em frente ao templo hoje à noite, quando ele abrir, hein?"
+              "en_US": "Vamos todos nos encontrar em frente ao templo hoje à noite, quando ele abrir, combinado?"
             }
           },
           "102": {
@@ -1727,13 +1727,14 @@
           },
           "106": {
             "message": {
-              "": "Roger, Ma'am!"
+              "": "Roger, Ma'am!",
+              "en_US": "Sim, senhora!"
             }
           },
           "111": {
             "message": {
               "": "Everyone, make sure your gear is upgraded.",
-              "en_US": "Pessoal, certifiquem-se de que seus equipamentos estão atualizados."
+              "en_US": "Pessoal, verifiquem se os equipamentos de vocês estão atualizados."
             }
           },
           "114": {
@@ -1751,19 +1752,19 @@
           "129": {
             "message": {
               "": "Hey Apollo, this is my spot up here!",
-              "en_US": "Ei Apolo, este é o meu lugar aqui!"
+              "en_US": "Ei Apolo, esse lugar é meu!"
             }
           },
           "138": {
             "task": {
               "": "Meet everyone at the dungeon entrance in \\c[3]Sapphire Ridge - Ascension Temple\\c[0].",
-              "en_US": "Encontre todos na entrada da dungeon da \\c[3]Serra da Safira - Templo da Ascensão\\c[0]."
+              "en_US": "Encontre todos na entrada da dungeon em \\c[3]Serra da Safira - Templo da Ascensão\\c[0]."
             }
           },
           "154": {
             "task": {
               "": "Prepare to run the final dungeon!\\. Meet the others in \\c[3]Sapphire Ridge - Ascension Temple\\c[0] when you are ready.",
-              "en_US": "Prepare-se para correr a dungeon final!\\. Encontre os outros em \\c[3]Serra da Safira - Templo da Ascensão\\c[0] quando estiver pronta."
+              "en_US": "Prepare-se para explorar a dungeon final!\\. Encontre os outros em \\c[3]Serra da Safira - Templo da Ascensão\\c[0] quando estiver pronta."
             }
           },
           "155": {

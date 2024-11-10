@@ -94,7 +94,7 @@
           "8": {
             "message": {
               "": "It was \\c[3]RIGHT THERE\\c[0]!",
-              "en_US": "Foi \\c[3]BEM AÍ\\c[0]!"
+              "en_US": "Estava \\c[3]BEM AÍ\\c[0]!"
             }
           },
           "9": {
@@ -106,19 +106,19 @@
           "10": {
             "message": {
               "": "I mean...\\. you missed it as well, right?",
-              "en_US": "Quer dizer...\\. você também sentiu falta, né?"
+              "en_US": "Quer dizer...\\. você também não viu, né?"
             }
           },
           "11": {
             "message": {
               "": "Well, I jumped down without thinking because you were standing down here.",
-              "en_US": "Bem, eu pulei sem pensar porque você estava aqui embaixo."
+              "en_US": "Bom, eu pulei sem pensar porque você estava aqui embaixo."
             }
           },
           "12": {
             "message": {
               "": "Oh, so that's my fault now as well?",
-              "en_US": "Ah, então a culpa é minha agora?"
+              "en_US": "Oxe, então a culpa é minha agora?"
             }
           },
           "18": {
@@ -136,13 +136,13 @@
           "21": {
             "message": {
               "": "What?",
-              "en_US": "O que?"
+              "en_US": "Que?"
             }
           },
           "22": {
             "message": {
               "": "Well...\\. we both jumped down here, but...",
-              "en_US": "Bem...\\. nós dois pulamos aqui, mas..."
+              "en_US": "Então...\\. nós dois pulamos aqui, mas..."
             }
           },
           "27": {
@@ -160,7 +160,7 @@
           "35": {
             "message": {
               "": "You remembered to push the switch, right?",
-              "en_US": "Você lembrou de apertar o interruptor, certo?"
+              "en_US": "Você lembrou de apertar o botão, não é?"
             }
           },
           "36": {
@@ -198,7 +198,7 @@
               "3": {
                 "message": {
                   "": "Ouch...",
-                  "en_US": "Aii..."
+                  "en_US": "Putz..."
                 }
               },
               "5": {
@@ -218,7 +218,7 @@
           "38": {
             "message": {
               "": "Time for some backtracking.",
-              "en_US": "Hora de voltar atrás."
+              "en_US": "Hora de voltar."
             }
           }
         }
@@ -230,7 +230,7 @@
           "0": {
             "text": {
               "": "That's a whole lot of crystal enemies in this place!",
-              "en_US": "Há muitos inimigos de cristal neste lugar!"
+              "en_US": "Tem muitos inimigos de cristal neste lugar!"
             }
           },
           "1": {
@@ -248,7 +248,7 @@
           "3": {
             "text": {
               "": "Yeah, I know...\\. one can only dream.",
-              "en_US": "Sim, eu sei...\\. só se pode sonhar."
+              "en_US": "Sim, eu sei...\\. mas sonhar não custa nada."
             }
           },
           "4": {
@@ -266,13 +266,13 @@
           "0": {
             "text": {
               "": "Huh...\\. I guess all the crystals are gone now.",
-              "en_US": "Hum...\\. Acho que todos os cristais sumiram."
+              "en_US": "Hmm...\\. Acho que todos os cristais sumiram."
             }
           },
           "1": {
             "text": {
               "": "No worries.\\. I'm sure they'll be back soon enough.",
-              "en_US": "Sem problemas.\\. Tenho certeza de que eles voltarão em breve."
+              "en_US": "Relaxa.\\. Tenho certeza de que eles voltarão em breve."
             }
           },
           "2": {

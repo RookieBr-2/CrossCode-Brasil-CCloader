@@ -109,7 +109,7 @@
               "1": {
                 "message": {
                   "": "That new wobbly puzzle thingee was a bit confusing at first...",
-                  "en_US": "Esse novo quebra-cabeça maluco foi um pouco confuso no começo..."
+                  "en_US": "Esse novo puzzle maluco foi um pouco confuso no começo..."
                 }
               },
               "2": {
@@ -129,19 +129,19 @@
               "1": {
                 "message": {
                   "": "Seems like most of the others are ahead, huh?",
-                  "en_US": "Parece que a maioria dos outros está na frente, hein?"
+                  "en_US": "Parece que a maioria dos outros está na frente, né?"
                 }
               },
               "2": {
                 "message": {
                   "": "Ah... who cares! It's not a race this time, oui?",
-                  "en_US": "Ah... quem se importa! Não é uma corrida desta vez, oui?"
+                  "en_US": "Ah... quem se importa! Não é uma corrida dessa vez, oui?"
                 }
               },
               "3": {
                 "message": {
                   "": "I'll just take my sweet time!",
-                  "en_US": "Eu só vou levar o meu doce tempo!"
+                  "en_US": "Vou seguir no meu próprio ritmo."
                 }
               }
             }
@@ -166,7 +166,7 @@
           "34": {
             "message": {
               "": "Uhm...\\. hi!",
-              "en_US": "Uhm...\\. oi!"
+              "en_US": "Hmm...\\. oi!"
             }
           },
           "36": {
@@ -178,7 +178,7 @@
           "38": {
             "message": {
               "": "I didn't expect an outdoor area like this.",
-              "en_US": "Não esperava uma área externa assim."
+              "en_US": "Não pensei que a área externa fosse ser assim."
             }
           },
           "39": {
@@ -208,7 +208,7 @@
           "51": {
             "message": {
               "": "Uhm...\\. where to, though?",
-              "en_US": "Hum...\\. para onde?"
+              "en_US": "Hmm...\\. pra onde?"
             }
           },
           "52": {
@@ -220,7 +220,7 @@
           "53": {
             "message": {
               "": "Alright!\\. To the west, then!",
-              "en_US": "Tudo bem!\\. Para o oeste então!"
+              "en_US": "Tudo bem!\\. Para a esquerda então!"
             }
           }
         }
@@ -232,7 +232,7 @@
           "3": {
             "message": {
               "": "Ah, what a view, eh?\\. The Ancients certainly don't disappoint!",
-              "en_US": "Ah, que vista hein?\\. Os Antigos certamente não decepcionam!"
+              "en_US": "Ah, que vista hein?\\. Os Antigos não decepcionam!"
             }
           }
         }
@@ -250,7 +250,7 @@
           "1": {
             "text": {
               "": "I know, right?\\. So...\\. should we go on?",
-              "en_US": "Eu sei, certo?\\. Então...\\. devemos continuar?"
+              "en_US": "Pois é, né?\\. Então...\\. vamos continuar?"
             }
           },
           "2": {

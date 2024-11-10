@@ -2217,7 +2217,7 @@
     "final-dng": {
       "name": {
         "": "Ku'lero Temple",
-        "en_US": "Templo Ku'lero"
+        "en_US": "Templo de Ku'lero"
       },
       "description": {
         "": "The last temple built by the Ancients, meant to test the worth of all who enter.",
@@ -12652,7 +12652,7 @@
             "5": {
               "message": {
                 "": "Has been some time since I've played a dungeon for the first time.",
-                "en_US": "Já faz algum tempo desde que eu entrei em uma dungeon pela primeira vez."
+                "en_US": "Já faz algum tempo que eu não entro numa dungeon."
               }
             },
             "6": {
@@ -13657,7 +13657,7 @@
             "3": {
               "message": {
                 "": "We have to show everyone that we Spheromancers, the most honorable class of all, will be at the very front of this endeavor!!",
-                "en_US": "Temos que mostrar a todos que nós, Esferomantes, a classe mais honrada de todas, estaremos na frente desta empreitada!"
+                "en_US": "Temos que mostrar a todos que nós, Esferomantes, a classe mais honrada de todas, estaremos na linha de frente desta empreitada!"
               }
             },
             "4": {
@@ -14147,7 +14147,7 @@
             "1": {
               "message": {
                 "": "Each of us has to master the Ku'lero Temple on their own now!",
-                "en_US": "Cada um de nós tem que explorar o Templo Ku'lero por conta própria agora!"
+                "en_US": "Cada um de nós tem que explorar o Templo de Ku'lero por conta própria agora!"
               }
             }
           }
@@ -16167,13 +16167,13 @@
                 "4": {
                   "message": {
                     "": "I mean...\\. it is really important!\\. And a lot of people keep forgetting about it.",
-                    "en_US": "Então...\\. Isso é realmente importante!\\. E muitas pessoas esquecem disso."
+                    "en_US": "Pois é...\\. isso é realmente importante!\\. E muitas pessoas esquecem disso."
                   }
                 },
                 "5": {
                   "message": {
                     "": "That should be a lesson for Instatainment to keep in mind when designing future games.",
-                    "en_US": "Isso devia ser uma lição para a Instatainment ter em mente ao projetar futuros jogos."
+                    "en_US": "Isso é o que vai fazer toda a diferença entre mandar bem ou se lascar."
                   }
                 }
               }
@@ -16762,7 +16762,7 @@
             "2": {
               "message": {
                 "": "This might very well be our most important mission for us Seekers!",
-                "en_US": "Essa pode muito bem ser nossa missão mais importante para nós, Seekers!"
+                "en_US": "Essa pode muito bem ser a missão mais importante para nós, Seekers!"
               }
             }
           }
@@ -17667,7 +17667,7 @@
             "13": {
               "message": {
                 "": "That's why I hope that the Ku'lero Temple will be of decent length.",
-                "en_US": "É por isso que eu espero que o Templo Ku'lero tenha um tamanho decente."
+                "en_US": "É por isso que eu espero que o Templo de Ku'lero tenha um tamanho decente."
               }
             }
           }
@@ -27321,7 +27321,7 @@
     "final": {
       "title": {
         "": "Ku'lero Temple",
-        "en_US": "Templo Ku'lero"
+        "en_US": "Templo de Ku'lero"
       },
       "content": {
         "page-01-01": {
