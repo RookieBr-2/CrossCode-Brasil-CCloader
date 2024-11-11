@@ -1813,7 +1813,7 @@
               "66": {
                 "message": {
                   "": "Lea you...\\. can't really speak, can you...?",
-                  "en_US": "Lea você... \\.não consegue falar, não é?"
+                  "en_US": "Lea você...\\. não consegue falar, não é?"
                 }
               },
               "67": {
@@ -2831,7 +2831,7 @@
               "86": {
                 "message": {
                   "": "Pardon everyone...\\. I really have to log off now.",
-                  "en_US": "Pardon pessoal.. \\. Eu realmente tenho que sair agora."
+                  "en_US": "Pardon pessoal..\\. Eu realmente tenho que sair agora."
                 }
               },
               "88": {
@@ -3374,7 +3374,7 @@
               "3": {
                 "message": {
                   "": "Well...\\. we had to split everyone in two equal-sized teams, so...",
-                  "en_US": "Bem... \\. nós temos que dividir o pessoal em equipes com a mesma quantidade, então..."
+                  "en_US": "Bem...\\. nós temos que dividir o pessoal em equipes com a mesma quantidade, então..."
                 }
               },
               "4": {
@@ -3852,7 +3852,7 @@
           "27": {
             "message": {
               "": "Hm...\\. is everything ok?",
-              "en_US": "Hm... \\. está tudo bem?"
+              "en_US": "Hm...\\. está tudo bem?"
             }
           },
           "28": {
@@ -5155,7 +5155,7 @@
           "63": {
             "message": {
               "": "Well...\\. we should not forget that we are logged into an MMO. ",
-              "en_US": "Bem... \\. é importante lembrar que estamos dentro de um MMO."
+              "en_US": "Bem...\\. é importante lembrar que estamos dentro de um MMO."
             }
           },
           "64": {

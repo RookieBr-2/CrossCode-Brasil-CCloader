@@ -447,7 +447,7 @@
               "1": {
                 "message": {
                   "": "Yummy...\\. almost like the real thing!",
-                  "en_US": "Que delicia...\\. quase como comida real!"
+                  "en_US": "Que delicia...\\. parece comida real!"
                 }
               },
               "3": {
@@ -459,7 +459,7 @@
               "6": {
                 "message": {
                   "": "So they finally support proper taste senses.\\. That's great!",
-                  "en_US": "Então eles finalmente suportam os sentidos gustativos adequados.\\. Isso é ótimo!"
+                  "en_US": "Então, finalmente, eles adicionaram sensores de sabor.\\. Isso é ótimo!"
                 }
               },
               "7": {
@@ -494,7 +494,7 @@
               "12": {
                 "message": {
                   "": "I'm sure that taste is impossible to simulate without breaking pain constraints.",
-                  "en_US": "Tenho certeza de que é impossível simular o sabor sem quebrar as restrições da dor."
+                  "en_US": "Tenho certeza que é impossível simular esse gosto sem quebrar as restrições de dor."
                 }
               },
               "13": {
@@ -505,7 +505,7 @@
               "16": {
                 "message": {
                   "": "Don't listen to him, Lea!",
-                  "en_US": "Não ligue pra ele, Lea!"
+                  "en_US": "Não liga pra ele, Lea!"
                 }
               }
             },
@@ -524,7 +524,7 @@
               "4": {
                 "message": {
                   "": "So they finally support proper taste senses.\\. That's great!",
-                  "en_US": "Então eles finalmente suportam os sentidos gustativos adequados.\\. Isso é ótimo!"
+                  "en_US": "Então, finalmente, eles adicionaram sensores de sabor.\\. Isso é ótimo!"
                 }
               },
               "5": {
@@ -541,7 +541,7 @@
               "7": {
                 "message": {
                   "": "It may look horrible...\\. it might also taste a bit horrible...",
-                  "en_US": "Pode parecer horrível...\\. e pode também ter um sabor um pouco horrível..."
+                  "en_US": "Pode parecer horrível...\\. e ter um sabor um pouco horrível..."
                 }
               },
               "9": {

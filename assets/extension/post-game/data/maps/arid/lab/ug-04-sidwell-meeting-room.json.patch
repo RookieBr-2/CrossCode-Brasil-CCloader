@@ -53,7 +53,7 @@
           "24": {
             "message": {
               "": "Occasionally I also submitted IDs of additional players to turn into Evotars.",
-              "en_US": "Ocasionalmente, também enviava IDs de jogadores adicionais, para transformar em Evotares."
+              "en_US": "Ocasionalmente, também enviava IDs de outros jogadores, para transformar eles em Evotares."
             }
           },
           "25": {
@@ -65,13 +65,13 @@
           "26": {
             "message": {
               "": "Having friends around actually helped their memories to return faster.",
-              "en_US": "Ter amigos por perto realmente ajudou suas memórias a voltarem mais rápido."
+              "en_US": "Ter amigos por perto fez suas memórias voltarem mais rápido."
             }
           },
           "34": {
             "message": {
               "": "Huh...\\. alright?",
-              "en_US": "Hum...\\. tudo bem?"
+              "en_US": "Hmm...\\. ok?"
             }
           },
           "35": {
@@ -89,7 +89,7 @@
           "37": {
             "message": {
               "": "Fortunately, you didn't.",
-              "en_US": "Felizmente, você não fez isso."
+              "en_US": "Mas, felizmente, isso não ocorreu."
             }
           },
           "47": {
@@ -101,7 +101,7 @@
           "54": {
             "message": {
               "": "It seems I can't play it again.\\. That's too bad.\n",
-              "en_US": "Parece que não consigo mais ligar ela.\\. Isso é muito ruim.\n"
+              "en_US": "Parece que não consigo mais ativar ela.\\. Isso é muito ruim.\n"
             }
           },
           "57": {
@@ -143,7 +143,7 @@
           "69": {
             "message": {
               "": "Which people I had to interrogate...",
-              "en_US": "Que pessoas eu tinha que interrogar..."
+              "en_US": "Quais pessoas eu tinha que interrogar..."
             }
           },
           "70": {
@@ -184,7 +184,7 @@
           "80": {
             "message": {
               "": "I...\\. I wasn't just playing CrossWorlds the normal way.",
-              "en_US": "Eu ...\\. Eu não estava jogando CrossWorlds da maneira normal."
+              "en_US": "Eu...\\. eu não estava jogando CrossWorlds da maneira normal."
             }
           },
           "85": {
@@ -230,7 +230,7 @@
           "128": {
             "message": {
               "": "Just...\\. breathe slowly or something, okay?",
-              "en_US": "Apenas...\\. respire devagar ou algo assim, ok?"
+              "en_US": "Calma...\\. respira devagar ou algo assim, ok?"
             }
           },
           "130": {
@@ -263,31 +263,31 @@
           "144": {
             "message": {
               "": "Huh?",
-              "en_US": "Hum?"
+              "en_US": "Hm?"
             }
           },
           "146": {
             "message": {
               "": "Right...\\. You said you met that person in Evotarground.",
-              "en_US": "Certo...\\. Você disse que conheceu aquela pessoa no Evotarground."
+              "en_US": "Então...\\. você disse que conheceu aquela pessoa no Evotarground."
             }
           },
           "147": {
             "message": {
               "": "Was it in this room?",
-              "en_US": "Foi nesta sala?"
+              "en_US": "Foi nessa sala?"
             }
           },
           "148": {
             "message": {
               "": "No...\\. It was somewhere else.",
-              "en_US": "Não...\\. Foi em outro lugar."
+              "en_US": "Não...\\. foi em outro lugar."
             }
           },
           "149": {
             "message": {
               "": "Right, I remember!",
-              "en_US": "Certo, eu me lembro!"
+              "en_US": "Sim, eu me lembro!"
             }
           },
           "159": {
@@ -299,13 +299,13 @@
           "164": {
             "message": {
               "": "That room is not accessible by default.\\. I just opened it.",
-              "en_US": "Essa sala não pode ser acessada por padrão.\\. Acabei de abrir."
+              "en_US": "Aquela sala não pode ser acessada por padrão.\\. Acabei de abrir."
             }
           },
           "165": {
             "message": {
               "": "Let's go there!",
-              "en_US": "Vamos para lá!"
+              "en_US": "Vamos até lá!"
             }
           }
         }
@@ -317,19 +317,19 @@
           "12": {
             "message": {
               "": "The message I recorded for myself...",
-              "en_US": "A mensagem que gravei para mim..."
+              "en_US": "Na mensagem que gravei para mim..."
             }
           },
           "13": {
             "message": {
               "": "It told me about a prolonged playing session.",
-              "en_US": "Ele me contou sobre uma sessão prolongada de jogo."
+              "en_US": "Ele me contou sobre uma longa sessão de jogo."
             }
           },
           "14": {
             "message": {
               "": "That I used a special connection to the game.",
-              "en_US": "Que eu usei uma conexão especial para o jogo."
+              "en_US": "Onde eu usei uma conexão especial."
             }
           },
           "15": {
@@ -341,7 +341,7 @@
           "21": {
             "message": {
               "": "I...\\. just accepted it. \n",
-              "en_US": "Eu ...\\. apenas aceitei. \n"
+              "en_US": "Eu...\\. apenas acreditei. \n"
             }
           },
           "22": {
@@ -389,7 +389,7 @@
           "40": {
             "message": {
               "": "I...\\. myself...\\. was an Evotar.\n",
-              "en_US": "Eu ...\\. eu proprio...\\. era um Evotar.\n"
+              "en_US": "Eu...\\. eu proprio...\\. era um Evotar.\n"
             }
           },
           "41": {
@@ -407,13 +407,13 @@
           "5": {
             "message": {
               "": "Let me have a look.",
-              "en_US": "Deixa eu dar uma olhada"
+              "en_US": "Deixa eu dar uma olhada."
             }
           },
           "14": {
             "message": {
               "": "Yes...\\. it's still here. My \\c[3]former user ID\\c[0].",
-              "en_US": "Sim...\\. ainda está aqui. Meu \\c[3]ID do usuário anterior\\c[0]."
+              "en_US": "Sim...\\. ainda está aqui. Meu \\c[3]antigo ID do usuário\\c[0]."
             }
           },
           "19": {
@@ -425,7 +425,7 @@
           "21": {
             "message": {
               "": "That day...\\. really changed everything.",
-              "en_US": "Naquele dia...\\. realmente tudo mudou."
+              "en_US": "Aquele dia...\\. realmente tudo mudou."
             }
           },
           "22": {
@@ -437,7 +437,7 @@
           "23": {
             "message": {
               "": "And Lea's reappearance strongly hinted toward an elaborate mission to find and rescue Satoshi.",
-              "en_US": "E o reaparecimento da Lea, sugere fortemente uma missão elaborada para encontrar e resgatar Satoshi."
+              "en_US": "O retorno da Lea indicava claramente que havia uma missão elaborada para encontrar e resgatar Satoshi."
             }
           },
           "24": {
@@ -449,7 +449,7 @@
           "25": {
             "message": {
               "": "And potentially... save all the Evotars on it.",
-              "en_US": "E potencialmente... salvar todos os Evotars nele."
+              "en_US": "E provavelmente... salvar todos os Evotares nele."
             }
           },
           "26": {
@@ -461,7 +461,7 @@
           "27": {
             "message": {
               "": "Sidwell's Evotars, as I would eventually recall, were stored on a separate server.",
-              "en_US": "Os Evotares do Sidwell, como eu acabaria lembrando, eram armazenados em um servidor separado."
+              "en_US": "Eu acabei lembrando que os Evotares do Sidwell eram armazenados em um servidor separado."
             }
           },
           "28": {
@@ -533,7 +533,7 @@
           "48": {
             "message": {
               "": "And that's who I am.",
-              "en_US": "Esse é quem sou."
+              "en_US": "Esse sou eu."
             }
           },
           "49": {
@@ -545,13 +545,13 @@
           "53": {
             "message": {
               "": "Wait...",
-              "en_US": "Espere..."
+              "en_US": "Espera..."
             }
           },
           "54": {
             "message": {
               "": "Wait, wait, wait....",
-              "en_US": "Espere, espere, espere...."
+              "en_US": "Como assim? Espera aí...."
             }
           },
           "55": {
@@ -569,7 +569,7 @@
           "57": {
             "message": {
               "": "What.",
-              "en_US": "O que."
+              "en_US": "Que?"
             }
           },
           "58": {

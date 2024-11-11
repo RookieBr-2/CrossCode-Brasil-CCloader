@@ -1801,7 +1801,7 @@
           "20": {
             "message": {
               "": "I know there is no point in apologizing.",
-              "en_US": "Sei que não adianta se desculpar."
+              "en_US": "Sei que não adianta me desculpar."
             }
           },
           "21": {
@@ -1855,7 +1855,7 @@
           "44": {
             "message": {
               "": "I...\\. can't believe this!\n",
-              "en_US": "Eu ...\\. não consigo acreditar!\n"
+              "en_US": "Eu...\\. não posso acreditar!\n"
             }
           },
           "46": {
@@ -1867,7 +1867,7 @@
           "47": {
             "message": {
               "": "Who thought it was a good idea to just allow him to be here?!",
-              "en_US": "Quem achou que seria uma boa ideia simplesmente permitir que ele estivesse aqui?!"
+              "en_US": "Quem achou que seria uma boa ideia permitir que ele vivesse aqui?!"
             }
           },
           "52": {
@@ -1920,7 +1920,7 @@
           "73": {
             "message": {
               "": "You two still remember what you went through because of him, right?\n",
-              "en_US": "Vocês dois ainda se lembram do que passaram por causa dele, certo?\n"
+              "en_US": "Vocês dois ainda se lembram do que passaram por causa dele, não é?\n"
             }
           },
           "74": {
@@ -1931,7 +1931,7 @@
           "75": {
             "message": {
               "": "I certainly remember what he did to me!\n",
-              "en_US": "Eu certamente me lembro do que ele fez comigo!\n"
+              "en_US": "Eu me lembro muito bem do que ele fez comigo!\n"
             }
           },
           "76": {
@@ -1949,7 +1949,7 @@
           "81": {
             "message": {
               "": "Sidwell pushed Gautham toward his early demise.",
-              "en_US": "Sidwell empurrou Gautham para sua morte prematura."
+              "en_US": "Sidwell empurrou Gautham para uma morte prematura."
             }
           },
           "82": {
@@ -1979,7 +1979,7 @@
           "89": {
             "message": {
               "": "Lock him away, get the information you need, and delete him!",
-              "en_US": "Tranque-o, obtenha as informações que você precisa e exclua-o!"
+              "en_US": "Tranca esse cara, obtenha as informações que você precisa e deleta ele!"
             }
           },
           "97": {
@@ -1991,7 +1991,7 @@
           "98": {
             "message": {
               "": "Doesn't that sound an awful lot like Sidwell's old business model?",
-              "en_US": "Isso não parece muito com o antigo modelo de negócios do Sidwell?"
+              "en_US": "Isso não lembra os métodos do Sidwell?"
             }
           },
           "99": {
@@ -2009,7 +2009,7 @@
           "101": {
             "message": {
               "": "Okay, he was created by...\\. himself...\\. I guess.",
-              "en_US": "Ok, ele foi criado por...\\. ele mesmo...\\. Eu acho."
+              "en_US": "Ok, ele foi criado por...\\. ele mesmo...\\. eu acho."
             }
           },
           "102": {
@@ -2027,13 +2027,13 @@
           "106": {
             "message": {
               "": "More like: he acted according to his own plan!",
-              "en_US": "Mais como: ele agiu conforme seu próprio plano!"
+              "en_US": "Na verdade, ele agiu conforme o plano dele!"
             }
           },
           "107": {
             "message": {
               "": "I really don't see how this changes anything!",
-              "en_US": "Eu realmente não vejo como isso muda alguma coisa!"
+              "en_US": "Não vejo como isso muda alguma coisa!"
             }
           },
           "108": {
@@ -2068,7 +2068,7 @@
           "126": {
             "message": {
               "": "You act like I don't have a say in this!",
-              "en_US": "Você age como se eu não tivesse voz nisso!"
+              "en_US": "Vocês agem como se eu não tivesse voz nisso!"
             }
           },
           "129": {
@@ -2086,7 +2086,7 @@
           "131": {
             "message": {
               "": "He played together with me and Lea!",
-              "en_US": "Ele jogou junto comigo e com a Lea!"
+              "en_US": "Ele jogou comigo e com a Lea!"
             }
           },
           "132": {
@@ -2116,7 +2116,7 @@
           "140": {
             "message": {
               "": "Lea!\\. You're with me, right?",
-              "en_US": "Lea!\\. Você está comigo, certo?"
+              "en_US": "Lea!\\. Você está comigo, não é?"
             }
           },
           "141": {
@@ -2194,7 +2194,7 @@
               "14": {
                 "message": {
                   "": "If anything, it helps for him to stay cooperative.",
-                  "en_US": "Na verdade, pode ajudar ele a continuar cooperativo."
+                  "en_US": "Na verdade, isso vai garantir que ele permaneça cooperativo."
                 }
               },
               "20": {
@@ -2235,7 +2235,7 @@
               "41": {
                 "message": {
                   "": "You really let him off the hook that easily?!",
-                  "en_US": "Você realmente o deixou se safar tão facilmente?!"
+                  "en_US": "Vocês realmente deixaram ele se safar tão facilmente?!"
                 }
               },
               "42": {
@@ -2247,7 +2247,7 @@
               "43": {
                 "message": {
                   "": "It's your village - do what you want.",
-                  "en_US": "É a sua vila - faça o que quiser."
+                  "en_US": "É a sua vila, façam o que quiser."
                 }
               },
               "44": {
@@ -2278,19 +2278,19 @@
               "7": {
                 "message": {
                   "": "Sorry...",
-                  "en_US": "Desculpe..."
+                  "en_US": "Desculpa..."
                 }
               },
               "8": {
                 "message": {
                   "": "I guess...\\. I really don't see the whole picture, do I?",
-                  "en_US": "Acho que...\\. Eu realmente não vejo o quadro completo, não é?"
+                  "en_US": "Acho que...\\. não sei a história toda, não é?"
                 }
               },
               "10": {
                 "message": {
                   "": "You don't...",
-                  "en_US": "Você não ..."
+                  "en_US": "Você não..."
                 }
               },
               "11": {
@@ -2341,13 +2341,13 @@
               "33": {
                 "message": {
                   "": "You guys... ",
-                  "en_US": "Vocês caras..."
+                  "en_US": "Vocês..."
                 }
               },
               "36": {
                 "message": {
                   "": "...ARE SO HEARTLESS!!",
-                  "en_US": "...SÃO TÃO SEM CORAÇÃO!!"
+                  "en_US": "...VOCÊS NÃO TÊM CORAÇÃO!!"
                 }
               }
             },
@@ -2381,7 +2381,7 @@
           "18": {
             "message": {
               "": "So...\\. I guess this is it?",
-              "en_US": "Então...\\. Acho que é isso?"
+              "en_US": "Então...\\. acho que é isso?"
             }
           },
           "20": {
@@ -2392,7 +2392,7 @@
           "21": {
             "message": {
               "": "Sorry.",
-              "en_US": "Desculpe."
+              "en_US": "Desculpa."
             }
           },
           "22": {
@@ -2404,7 +2404,7 @@
           "23": {
             "message": {
               "": "After all the things I have been involved in, there was no reason to hope I could stay.",
-              "en_US": "Depois de todas as coisas em que estive envolvido, não tinha motivos para esperar que eu pudesse ficar."
+              "en_US": "Depois de todas as coisas em que estive envolvido, não tinha motivos para crer que eu poderia ficar."
             }
           },
           "25": {
@@ -2437,7 +2437,7 @@
           "33": {
             "message": {
               "": "But...\\. I still hope you believe me when I tell you...",
-              "en_US": "Mas...\\. Ainda espero que acredite em mim quando digo..."
+              "en_US": "Mas...\\. ainda espero que acreditem em mim quando digo..."
             }
           },
           "34": {
@@ -2490,7 +2490,7 @@
           "23": {
             "message": {
               "": "But...\\. those are not the Evotars we saw in Vermillion Wasteland, right?",
-              "en_US": "Mas...\\. esses não são os Evotares que vimos no Deserto Carmesim, certo?"
+              "en_US": "Mas...\\. esses não são os Evotares que vimos no Deserto Carmesim?"
             }
           },
           "24": {
@@ -2514,7 +2514,7 @@
           "29": {
             "message": {
               "": "Well...\\. I keep hold of a backup, should we still find a way.",
-              "en_US": "Bem...\\. Eu mantenho um backup, caso ainda encontremos um jeito."
+              "en_US": "Bem...\\. eu tenho um backup ainda, nunca se sabe."
             }
           }
         }

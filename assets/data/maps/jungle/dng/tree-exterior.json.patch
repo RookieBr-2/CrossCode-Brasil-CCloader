@@ -770,7 +770,7 @@
               "5": {
                 "message": {
                   "": "Oh!\\. Fancy hair, right?",
-                  "en_US": "Oh!\\. Você gosta do meu cabelo?"
+                  "en_US": "Ah!\\. Você gostou do meu cabelo?"
                 }
               },
               "6": {
@@ -805,7 +805,7 @@
               "11": {
                 "message": {
                   "": "Uhm...\\. I guess not?\n\n",
-                  "en_US": "Uhm.\\. Eu acho que não né?\n\n"
+                  "en_US": "Hmm.\\. Eu acho que não né?\n\n"
                 }
               },
               "12": {
@@ -837,13 +837,13 @@
                   "3": {
                     "message": {
                       "": "It's like billions of explosions burning far away!",
-                      "en_US": "É como se bilhões de explosões estivessem acesas de longe!"
+                      "en_US": "É como se bilhões de explosões estivessem ardendo de longe!"
                     }
                   },
                   "4": {
                     "message": {
                       "": "What's not to like?",
-                      "en_US": "Isso impressiona a todos!"
+                      "en_US": "Como alguém não ia gostar disso?"
                     }
                   },
                   "5": {
@@ -862,13 +862,13 @@
                   "1": {
                     "message": {
                       "": "Oh!\\. I don't want to ruin the surprise, then!",
-                      "en_US": "Oh!\\. Não quero estragar a surpresa, então!"
+                      "en_US": "Ah!\\. Não quero estragar a surpresa, então!"
                     }
                   },
                   "2": {
                     "message": {
                       "": "Let's just say there's a real special place up there!",
-                      "en_US": "Digamos que há um lugar realmente especial lá em cima!"
+                      "en_US": "Digamos que tem um lugar realmente especial lá em cima!"
                     }
                   },
                   "3": {
@@ -883,7 +883,7 @@
                   "0": {
                     "message": {
                       "": "Ohhhh wait!\\. Is that a \\c[3]mooncake\\c[0] you got there?\n\n",
-                      "en_US": "Ohhhh espera!\\. Isso é um \\c[3]bolo da lua\\c[0]?\n\n"
+                      "en_US": "Ahhhh espera!\\. Isso é um \\c[3]bolo da lua\\c[0]?\n\n"
                     }
                   },
                   "1": {
@@ -906,13 +906,13 @@
                   "4": {
                     "message": {
                       "": "It's just too bad they only have the regular kind, though.",
-                      "en_US": "É uma pena que eles só tenham o tipo normal, no entanto."
+                      "en_US": "É uma pena que eles só tem do tipo normal."
                     }
                   },
                   "5": {
                     "message": {
                       "": "A chocolate mooncake would really hit the spot right now!",
-                      "en_US": "Um bolo da lua de chocolate é exatamente o que você precisa!"
+                      "en_US": "Um bolinho da lua de chocolate é exatamente o que você precisa!"
                     }
                   }
                 }

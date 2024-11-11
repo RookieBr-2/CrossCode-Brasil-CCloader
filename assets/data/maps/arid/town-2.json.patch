@@ -1123,7 +1123,7 @@
               "3": {
                 "message": {
                   "": "Oh hey!\\. It's someone else!",
-                  "en_US": "Ei! \\. É outra pessoa!"
+                  "en_US": "Ei!\\. É outra pessoa!"
                 }
               },
               "4": {
@@ -1344,7 +1344,7 @@
           "8": {
             "message": {
               "": "That building to the far north!\n",
-              "en_US": "Aquele prédio no extremo norte!\n"
+              "en_US": "É aquele prédio no norte!\n"
             }
           }
         }
@@ -1356,7 +1356,7 @@
           "5": {
             "message": {
               "": "Here it is.",
-              "en_US": "Aqui está."
+              "en_US": "É aqui."
             }
           },
           "10": {
@@ -1403,13 +1403,13 @@
           "30": {
             "message": {
               "": "Thanks!\n",
-              "en_US": "Obrigado!\n"
+              "en_US": "Obrigada!\n"
             }
           },
           "32": {
             "message": {
               "": "Onwards!",
-              "en_US": "Avante!"
+              "en_US": "Vamos!"
             }
           }
         }

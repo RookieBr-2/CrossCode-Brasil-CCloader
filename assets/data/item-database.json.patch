@@ -5049,7 +5049,7 @@
       },
       "description": {
         "": "Light armor, composed of various materials, each representing a warrior's virtue.",
-        "en_US": "Armadura leve, composta de vários materiais, cada um representando a virtude de um guerreiro."
+        "en_US": "Armadura leve, feita de vários materiais, representando a virtude de um guerreiro."
       }
     },
     "478": {
@@ -6147,7 +6147,7 @@
       },
       "description": {
         "": "Light armor, composed of various materials, each representing a warrior's virtue. \\i[ascended]",
-        "en_US": "Armadura leve, composta de vários materiais, cada um representando a virtude de um guerreiro. \\i[ascended]"
+        "en_US": "Armadura leve, feita de vários materiais, representando a virtude de um guerreiro. \\i[ascended]"
       }
     },
     "584": {
@@ -6609,11 +6609,11 @@
     "630": {
       "name": {
         "": "Worm Band",
-        "en_US": "Faixa de Minhocas"
+        "en_US": "Faixa de Minhoca"
       },
       "description": {
         "": "A piece of mushy fabric that is extremely stretchable. Often used for underground music.",
-        "en_US": "Um pedaço de tecido pastoso que é extremamente extensível. Muitas vezes usado para música subterrânea."
+        "en_US": "Um pedaço de tecido pastoso que é extremamente extensível."
       }
     },
     "631": {

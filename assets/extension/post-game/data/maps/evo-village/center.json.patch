@@ -30,7 +30,7 @@
           "4": {
             "text": {
               "": "Once you enter, you will embark to Vermillion Wasteland.\n\\c[1]Warning: This will be a point of no return!\nMake sure to keep a save before you enter!\\c[0]",
-              "en_US": "Depois de entrar, você embarcará para o Deseto Carmesim.\n\\c[1]Aviso: Esse será um ponto sem volta!\nCertifique-se de salvar antes de entrar!\\c[0]"
+              "en_US": "Depois de entrar, você irá para o Deseto Carmesim.\n\\c[1]Aviso: Esse será um ponto sem volta!\nCertifique-se de salvar antes de entrar!\\c[0]"
             }
           },
           "5": {
@@ -2859,7 +2859,7 @@
           "28": {
             "text": {
               "": "The day had arrived.\\.\nWe had to tell them.\\.\nEveryone involved.",
-              "en_US": "O dia chegou.\\.\nE tivemos que contar a eles.\\.\nTodos os envolvidos."
+              "en_US": "O dia chegou.\\.\nE tivemos que contar a\\.\ntodos os envolvidos."
             }
           }
         }
@@ -2900,7 +2900,7 @@
           "19": {
             "message": {
               "": "For real?!",
-              "en_US": "De verdade ?!"
+              "en_US": "De verdade?!"
             }
           },
           "20": {
@@ -2923,7 +2923,7 @@
           "27": {
             "message": {
               "": "That...\\. That goes without saying!",
-              "en_US": "Isso...\\. Nem precisa falar!"
+              "en_US": "Sim...\\. nem precisa falar!"
             }
           },
           "31": {
@@ -2959,7 +2959,7 @@
           "21": {
             "message": {
               "": "However, I found a way for her to look for words reasonably fast!",
-              "en_US": "No entanto, descobri uma maneira dela procurar palavras razoavelmente rápido!"
+              "en_US": "No entanto, descobri uma forma dela se comunicar!"
             }
           },
           "26": {
@@ -2988,7 +2988,7 @@
           "40": {
             "message": {
               "": "Wow!\\. Amazing improvement!",
-              "en_US": "Uau!\\. Melhoria surpreendente!"
+              "en_US": "Uou!\\. Que melhoria incrível!"
             }
           },
           "46": {
@@ -3096,7 +3096,7 @@
           "47": {
             "message": {
               "": "WHAT?!",
-              "en_US": "O QUE?!"
+              "en_US": "QUE?!"
             }
           },
           "50": {
@@ -3132,13 +3132,13 @@
           "68": {
             "message": {
               "": "Thanks...",
-              "en_US": "Obrigado..."
+              "en_US": "Obrigada..."
             }
           },
           "75": {
             "message": {
               "": "Thanks!\\. Thanks!\\. Thanks!",
-              "en_US": "Obrigado!\\. Obrigado!\\. Obrigado!"
+              "en_US": "Obrigada!\\. Obrigada!\\. Obrigada!"
             }
           }
         }
@@ -3209,7 +3209,7 @@
           "29": {
             "message": {
               "": "Then I'll invite you to my world-famous apple pancakes!",
-              "en_US": "Então vou convidá-los para as minhas mundialmente famosas panquecas de maçã!"
+              "en_US": "Então você vai poder experimentar as minhas mundialmente famosas panquecas de maçã!"
             }
           }
         }
@@ -3238,7 +3238,7 @@
           "44": {
             "message": {
               "": "So...\\. I can just put those on the grill?",
-              "en_US": "Então...\\. Posso colocar na grelha?"
+              "en_US": "Então...\\. posso colocar na grelha?"
             }
           },
           "45": {
@@ -3250,19 +3250,19 @@
           "46": {
             "message": {
               "": "Just like the real thing?",
-              "en_US": "Assim como a coisa real?"
+              "en_US": "Será que elas assam igual às reais?"
             }
           },
           "47": {
             "message": {
               "": "Pretty much... ",
-              "en_US": "Bastante..."
+              "en_US": "Sim..."
             }
           },
           "48": {
             "message": {
               "": "Just much harder to burn, I heard!",
-              "en_US": "Só muito mais difícil de queimar, ouvi dizer!"
+              "en_US": "Só que é muito mais difícil de queimar, pelo que ouvi!"
             }
           },
           "49": {
@@ -3274,7 +3274,7 @@
           "55": {
             "message": {
               "": "Man, I can't wait!",
-              "en_US": "Cara, mal posso esperar!"
+              "en_US": "Mal posso esperar!"
             }
           },
           "58": {
@@ -3288,13 +3288,13 @@
               "1": {
                 "message": {
                   "": "Don't you feel a little bit worried?\\. I heard we're the first players to eat this stuff.",
-                  "en_US": "Você não se sente um pouco preocupada?\\. Ouvi dizer que somos os primeiros jogadores a comer essas coisas."
+                  "en_US": "Você não fica preocupada?\\. Ouvi dizer que somos os primeiros a comer isso."
                 }
               },
               "2": {
                 "message": {
                   "": "Come on, it will be delicious!",
-                  "en_US": "Vamos lá, vai estar uma delícia!"
+                  "en_US": "Qual é, vai estar uma delícia!"
                 }
               }
             }
@@ -3314,7 +3314,7 @@
           "77": {
             "message": {
               "": "Come on!\\. Tell me he'll show up, too!",
-              "en_US": "Vamos!\\. Diga-me que ele vai aparecer também!"
+              "en_US": "Vamos!\\. Diz que ele vai aparecer também!"
             }
           },
           "79": {
@@ -3366,7 +3366,7 @@
           "103": {
             "text": {
               "": "Reset back to before you embarked to Evotarground?",
-              "en_US": "Voltar para antes de ir para o Evotarground?"
+              "en_US": "Voltar para o ponto antes da ida ao Evotarground?"
             },
             "options": {
               "0": {

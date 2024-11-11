@@ -57,7 +57,7 @@
                   "0": {
                     "message": {
                       "": "It's not over until it's over.",
-                      "en_US": "Não acaba até o fim."
+                      "en_US": "Ainda não acabou."
                     }
                   }
                 }
@@ -121,7 +121,7 @@
               "1": {
                 "message": {
                   "": "I really need to step up my game.",
-                  "en_US": "Eu realmente preciso intensificar meu jogo. "
+                  "en_US": "Eu realmente preciso treinar mais. "
                 }
               },
               "2": {
@@ -132,7 +132,7 @@
               "3": {
                 "message": {
                   "": "I'll make sure to not let it happen again.",
-                  "en_US": "Vou me certificar de que isso não aconteça novamente."
+                  "en_US": "Vou garantir que isso não se repita."
                 }
               }
             },

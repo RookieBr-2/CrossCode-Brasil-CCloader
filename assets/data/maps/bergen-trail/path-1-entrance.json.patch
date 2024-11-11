@@ -317,7 +317,7 @@
                 "10": {
                   "message": {
                     "": "Yeah, hi... \\.\\.\\.Again, sorry. I'm normally not so jumpy. ",
-                    "en_US": "Sim, oi... \\.\\.\\.Me perdoe. Normalmente não fico tão nervosa."
+                    "en_US": "Sim, oi...\\.\\.\\. Me perdoe. Normalmente não fico tão nervosa."
                   }
                 },
                 "12": {
@@ -365,7 +365,7 @@
                 "19": {
                   "message": {
                     "": "... \\.\\.\\.You know what? ",
-                    "en_US": "... \\.\\.\\.Quer saber?"
+                    "en_US": "...\\.\\.\\. Quer saber?"
                   }
                 },
                 "20": {
@@ -1091,7 +1091,7 @@
                 "37": {
                   "message": {
                     "": "A live legendary monster in my inventory! \\.\\.Super awesome!",
-                    "en_US": "Um monstro lendário vivo em meu inventário! \\.\\.Super incrível!"
+                    "en_US": "Um monstro lendário vivo em meu inventário!\\.\\. Super incrível!"
                   }
                 },
                 "38": {
@@ -1329,7 +1329,7 @@
               "2": {
                 "message": {
                   "": "Damn straight!\\. We'll serve you the beating of a lifetime!",
-                  "en_US": "Com certeza! \\. Daremos a você a maior surra de sua vida!"
+                  "en_US": "Com certeza!\\. Daremos a você a maior surra de sua vida!"
                 }
               }
             },
@@ -1440,7 +1440,7 @@
                         "0": {
                           "message": {
                             "": "Hm...\\. Your \\c[3]stats seem rather low\\c[0]. I suggest you upgrade your \\c[3]circuits\\c[0] and \\c[3]equipment\\c[0] before the duel.",
-                            "en_US": "Hm... \\. Seus atributos \\c[3]parecem bastante baixos\\c[0]. Eu sugiro que você atualize seus \\c[3]circuitos\\c[0] e \\c[3]equipamentos\\c[0] antes do duelo."
+                            "en_US": "Hm...\\. Seus atributos \\c[3]parecem bastante baixos\\c[0]. Eu sugiro que você atualize seus \\c[3]circuitos\\c[0] e \\c[3]equipamentos\\c[0] antes do duelo."
                           }
                         },
                         "1": {
@@ -1685,7 +1685,7 @@
                       "0": {
                         "message": {
                           "": "W-WHAT?!?!\\. WHAT IS THIS DAMAGE?!",
-                          "en_US": "O QUÊ?!?! \\. O QUE É ESSE DANO ?!"
+                          "en_US": "O QUÊ?!?!\\. O QUE É ESSE DANO ?!"
                         }
                       },
                       "1": {
@@ -2079,7 +2079,7 @@
                   "3": {
                     "message": {
                       "": "It would be a very weird reason to cheat...\\. but it's cheating none the less!",
-                      "en_US": "Seria um motivo muito estranho para trapacear ... \\. mas é trapaça mesmo assim!"
+                      "en_US": "Seria um motivo muito estranho para trapacear...\\. mas é trapaça mesmo assim!"
                     }
                   }
                 }

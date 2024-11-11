@@ -18,7 +18,7 @@
           "2": {
             "message": {
               "": "Mon dieu...\\. what's with this creepy atmosphere?",
-              "en_US": "Mon dieu...\\. o que há com essa atmosfera assustadora?"
+              "en_US": "Mon dieu...\\. que atmosfera assustadora..."
             }
           },
           "3": {
@@ -36,7 +36,7 @@
           "14": {
             "message": {
               "": "Whoa, those rhinos were creepy, too!",
-              "en_US": "Nossa, aqueles rinocerontes eram assustadores também!"
+              "en_US": "Nossa, aqueles rinocerontes eram assustadores!"
             }
           },
           "16": {
@@ -54,7 +54,7 @@
           "19": {
             "message": {
               "": "I suppose this part was hidden well enough, so they just missed them.\n",
-              "en_US": "Suponho que esta parte estava bem escondida, então eles simplesmente não perceberam.\n"
+              "en_US": "Acho que esta parte estava bem escondida, por isso eles não perceberam.\n"
             }
           },
           "20": {
@@ -66,7 +66,7 @@
           "21": {
             "message": {
               "": "I would rather not.\n",
-              "en_US": "Prefiro não.\n"
+              "en_US": "É melhor não.\n"
             }
           },
           "23": {
@@ -90,7 +90,7 @@
           "26": {
             "message": {
               "": "More creepy enemies, I guess.\\. Oh well...\n",
-              "en_US": "Mais inimigos assustadores, eu acho.\\. Bem...\n"
+              "en_US": "Mais inimigos assustadores, então...\n"
             }
           }
         }

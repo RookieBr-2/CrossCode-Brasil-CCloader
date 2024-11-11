@@ -20662,7 +20662,7 @@
       },
       "subArea": {
         "": "Commonly found near larger crystal formations in \\v[area.final-dng.name].",
-        "en_US": "Comumente encontrado perto de formações de cristais maiores no \\v[area.final-dng.name]."
+        "en_US": "Encontrado perto de cristais maiores no \\v[area.final-dng.name]."
       }
     },
     "STONE_VALOR": {
@@ -20864,7 +20864,7 @@
       },
       "subArea": {
         "": "Commonly found near grey cliffs in \\c[3]\\v[area.beach.name]\\c[0].",
-        "en_US": "Comumente encontrado perto de penhascos cinzentos no \\c[3]\\v[area.beach.name]\\c[0]."
+        "en_US": "Encontrado perto de penhascos cinzentos no \\c[3]\\v[area.beach.name]\\c[0]."
       }
     },
     "Beach-Grey-2": {
@@ -20874,7 +20874,7 @@
       },
       "subArea": {
         "": "Commonly found near grey cliffs in \\c[3]\\v[area.beach.name]\\c[0].",
-        "en_US": "Comumente encontrado perto de penhascos cinzentos no \\c[3]\\v[area.beach.name]\\c[0]."
+        "en_US": "Encontrado perto de penhascos cinzentos no \\c[3]\\v[area.beach.name]\\c[0]."
       }
     }
   },
@@ -26041,27 +26041,32 @@
       "content": {
         "page-01": {
           "content": {
-            "": "In the next morning, Lea was awakened by her old self: \\c[3]Shizuka\\c[0]. They both decided to drop by at their brother's house and see what he was up to. Unsurprisingly, \\c[3]Satoshi\\c[0] was stuck deep in his work as usual. Shizuka wouldn't have it and convinced him to take a break and visit Azure Archipelago with her.\nAt that moment, Lea learned that the \\c[3]Final Temple\\c[0] was planned \\c[3]to be released\\c[0] later that day and quickly got a call from Emilie telling her that the \\c[3]First Scholars were planning to run the dungeon together\\c[0]. Lea joined and even managed to drag \\c[3]C'tron\\c[0] with her, who was still feeling down about yesterday."
+            "": "In the next morning, Lea was awakened by her old self: \\c[3]Shizuka\\c[0]. They both decided to drop by at their brother's house and see what he was up to. Unsurprisingly, \\c[3]Satoshi\\c[0] was stuck deep in his work as usual. Shizuka wouldn't have it and convinced him to take a break and visit Azure Archipelago with her.\nAt that moment, Lea learned that the \\c[3]Final Temple\\c[0] was planned \\c[3]to be released\\c[0] later that day and quickly got a call from Emilie telling her that the \\c[3]First Scholars were planning to run the dungeon together\\c[0]. Lea joined and even managed to drag \\c[3]C'tron\\c[0] with her, who was still feeling down about yesterday.",
+            "en_US": "Na manhã seguinte, Lea foi despertada por seu antigo eu: \\c[3]Shizuka\\c[0]. As duas decidiram passar na casa do irmão e ver o que ele estava fazendo. Como era de se esperar, \\c[3]Satoshi\\c[0] estava completamente imerso em seu trabalho. Shizuka não aceitou isso e o convenceu a fazer uma pausa e visitar o Arquipélago Azul com ela. Naquele momento, Lea soube que o \\c[3]Templo Final\\c[0] estava \\c[3]prestes a ser aberto\\c[0] naquele dia e logo recebeu uma chamada de Emilie, dizendo que os \\c[3]Primeiros Estudiosos planejavam explorar o templo juntos\\c[0]. Lea se juntou a eles e ainda conseguiu levar \\c[3]C'tron\\c[0], que ainda estava desanimado por causa do dia anterior."
           }
         },
         "page-02": {
           "content": {
-            "": "Everyone joined the masses at the entrance of the \\c[3]Ku'lero Temple\\c[0] to enter the dungeon just as it opened. After a very long playing session, Lea reached the end of the temple and learned about the \\c[3]Secret of the Ancients\\c[0]: a portal to a \\c[3]new world\\c[0] and the setup for the new expansion \"\\c[3]CrossWorlds - New Horizons\\c[0]\", which was still in development.\nSoon afterwards, she caught up with everyone else who completed the temple - except for \\c[3]C'tron\\c[0], who seemed to have \\c[3]dropped out and returned back to Homestedt\\c[0]."
+            "": "Everyone joined the masses at the entrance of the \\c[3]Ku'lero Temple\\c[0] to enter the dungeon just as it opened. After a very long playing session, Lea reached the end of the temple and learned about the \\c[3]Secret of the Ancients\\c[0]: a portal to a \\c[3]new world\\c[0] and the setup for the new expansion \"\\c[3]CrossWorlds - New Horizons\\c[0]\", which was still in development.\nSoon afterwards, she caught up with everyone else who completed the temple - except for \\c[3]C'tron\\c[0], who seemed to have \\c[3]dropped out and returned back to Homestedt\\c[0].",
+            "en_US": "Todos se juntaram à multidão na entrada do \\c[3]Templo de Ku'lero\\c[0] para entrar na dungeon assim que ela foi aberta. Após uma sessão de jogo bem longa, Lea chegou ao final do templo e descobriu o \\c[3]Segredo dos Antigos\\c[0]: um portal para um \\c[3]novo mundo\\c[0] e a preparação para a nova expansão \"\\c[3]CrossWorlds - Novos Horizontes\\c[0]\", que ainda estava em desenvolvimento. Logo depois, ela se reuniu com todos os outros que completaram o templo, exceto \\c[3]C'tron\\c[0], que parece ter \\c[3]desistido e voltado para casa\\c[0]."
           }
         },
         "page-03": {
           "content": {
-            "": "\\c[3]Emilie and Lea\\c[0] decided to drop by at \\c[3]C'tron's place\\c[0]. C'tron explained that he wasn't feeling up to running the temple and also \\c[3]opened up to Emilie\\c[0], telling her about his \\c[3]connection to Sidwell\\c[0]. Emilie, being very surprised, tried very hard not to be too angry at C'tron and instead asked about his \\c[3]personal feelings toward the whole thing\\c[0]. \\c[3]C'tron\\c[0] confirmed that he indeed \\c[3]felt bad for what he did\\c[0]. At that moment, he suddenly \\c[3]recalled a detail about his past\\c[0] that was painful for him to remember. An event that took place in \\c[3]Evotarground\\c[0]. "
+            "": "\\c[3]Emilie and Lea\\c[0] decided to drop by at \\c[3]C'tron's place\\c[0]. C'tron explained that he wasn't feeling up to running the temple and also \\c[3]opened up to Emilie\\c[0], telling her about his \\c[3]connection to Sidwell\\c[0]. Emilie, being very surprised, tried very hard not to be too angry at C'tron and instead asked about his \\c[3]personal feelings toward the whole thing\\c[0]. \\c[3]C'tron\\c[0] confirmed that he indeed \\c[3]felt bad for what he did\\c[0]. At that moment, he suddenly \\c[3]recalled a detail about his past\\c[0] that was painful for him to remember. An event that took place in \\c[3]Evotarground\\c[0]. ",
+            "en_US": "\\c[3]Emilie e Lea\\c[0] decidiram visitar \\c[3]C'tron\\c[0]. Ele explicou que não estava se sentindo bem para explorar o templo e também \\c[3]se abriu com Emilie\\c[0], contando a ela sobre a \\c[3]conexão dele com Sidwell\\c[0]. Emilie, muito surpresa, se esforçou para não ficar muito brava com C'tron e, em vez disso, perguntou sobre seus \\c[3]sentimentos pessoais em relação a tudo isso\\c[0]. \\c[3]C'tron\\c[0] confirmou que realmente \\c[3]se sentia mal pelo que fez\\c[0]. Nesse momento, ele subitamente \\c[3]recordou um detalhe de seu passado\\c[0] que era doloroso de lembrar. Um evento que ocorreu em \\c[3]Evotarground\\c[0]."
           }
         },
         "page-04": {
           "content": {
-            "": "Seeing \\c[3]C'tron suffering\\c[0] like that, Lea and Emilie \\c[3]called Sergey for help\\c[0] and asked him if it was possible to visit \\c[3]Evotarground\\c[0] one last time, to try to \\c[3]find the location of his past memories\\c[0] and help him remember. \\c[3]Sergey\\c[0] was concerned about going against Instatainment policies, but \\c[3]reluctantly agreed\\c[0] due to the urgency of the situation: \\c[3]Instatainment\\c[0] was planning to \\c[3]destroy Evotarground\\c[0] in the near future."
+            "": "Seeing \\c[3]C'tron suffering\\c[0] like that, Lea and Emilie \\c[3]called Sergey for help\\c[0] and asked him if it was possible to visit \\c[3]Evotarground\\c[0] one last time, to try to \\c[3]find the location of his past memories\\c[0] and help him remember. \\c[3]Sergey\\c[0] was concerned about going against Instatainment policies, but \\c[3]reluctantly agreed\\c[0] due to the urgency of the situation: \\c[3]Instatainment\\c[0] was planning to \\c[3]destroy Evotarground\\c[0] in the near future.",
+            "en_US": "Vendo \\c[3]C'tron sofrendo\\c[0] daquele jeito, Lea e Emilie \\c[3]chamaram Sergey para ajudar\\c[0] e perguntaram a ele se seria possível visitar \\c[3]Evotarground\\c[0] uma última vez, para tentar \\c[3]recuperar as memórias de C'tron\\c[0]. \\c[3]Sergey\\c[0] ficou preocupado com a possibilidade de ir contra as políticas da Instatainment, mas \\c[3]concordou\\c[0] devido à urgência da situação, já que a \\c[3]Instatainment\\c[0] estava planejando \\c[3]destruir Evotarground\\c[0] em breve."
           }
         },
         "page-05": {
           "content": {
-            "": "Thus it was decided that \\c[3]Lea, Emilie and C'tron\\c[0] would embark on a final trip to \\c[3]Evotarground\\c[0], hopefully learning the \\c[3]full truth about C'tron\\c[0]."
+            "": "Thus it was decided that \\c[3]Lea, Emilie and C'tron\\c[0] would embark on a final trip to \\c[3]Evotarground\\c[0], hopefully learning the \\c[3]full truth about C'tron\\c[0].",
+            "en_US": "Assim, ficou decidido que \\c[3]Lea, Emilie e C'tron\\c[0] fariam uma viagem final a \\c[3]Evotarground\\c[0], com a esperança de descobrir \\c[3]toda a verdade sobre C'tron\\c[0]."
           }
         }
       }

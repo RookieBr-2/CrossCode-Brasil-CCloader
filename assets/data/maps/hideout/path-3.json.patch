@@ -553,7 +553,7 @@
               "6": {
                 "message": {
                   "": "Oh hey!\\. Didn't expect to see you here.",
-                  "en_US": "Ei! \\. Não esperava te ver aqui."
+                  "en_US": "Ei!\\. Não esperava te ver aqui."
                 }
               },
               "13": {
@@ -564,7 +564,7 @@
               "14": {
                 "message": {
                   "": "It's great that they allow us to still go to this place.",
-                  "en_US": "É ótimo que eles ainda nos permitam ir a este lugar."
+                  "en_US": "Que bom que ainda nos deixam visitar este lugar."
                 }
               },
               "15": {
@@ -581,7 +581,7 @@
               "17": {
                 "message": {
                   "": "Then again...\\. this place is connected to a lot of bad memories, too.",
-                  "en_US": "Então, novamente...\\. este lugar também está ligado a muitas lembranças ruins."
+                  "en_US": "Por outro lado...\\. este lugar também está associado a muitas lembranças ruins."
                 }
               },
               "18": {
@@ -598,7 +598,7 @@
               "20": {
                 "message": {
                   "": "Honestly...\\. I was stupid.\\. Acting like a child.",
-                  "en_US": "Honestamente...\\. Eu fui idiota.\\. Agindo como uma criança."
+                  "en_US": "Honestamente...\\. eu fui idiota.\\. Agi como uma criança."
                 }
               },
               "21": {
@@ -609,7 +609,7 @@
               "22": {
                 "message": {
                   "": "It's still so embarrassing when I think about it...",
-                  "en_US": "Ainda é tão constrangedor quando eu penso nisso..."
+                  "en_US": "Lembrar disso é tão vergonhoso..."
                 }
               },
               "23": {
@@ -632,13 +632,13 @@
               "27": {
                 "message": {
                   "": "Let me guess.",
-                  "en_US": "Deixe-me adivinhar."
+                  "en_US": "Deixa eu ver se adivinho."
                 }
               },
               "28": {
                 "message": {
                   "": "It's \"no problem\", or \"I understand\" or something like that.",
-                  "en_US": "É \"sem problemas\", ou \"eu entendo\" ou algo assim."
+                  "en_US": "É \"tudo bem\", ou \"eu entendo\" ou algo assim."
                 }
               },
               "29": {
@@ -650,13 +650,13 @@
               "30": {
                 "message": {
                   "": "Of course...",
-                  "en_US": "É claro..."
+                  "en_US": "Sim..."
                 }
               },
               "31": {
                 "message": {
                   "": "Honestly, though...\\. I've been thinking back to that moment a lot recently...",
-                  "en_US": "Honestamente, porém...\\. Eu tenho pensado muito no que aconteceu recentemente..."
+                  "en_US": "Pra falar a verdade...\\. não paro de pensar no que aconteceu recentemente..."
                 }
               },
               "32": {
@@ -670,7 +670,7 @@
                   "0": {
                     "message": {
                       "": "You totally whooped my ass.",
-                      "en_US": "Você deu uma surra na minha bunda."
+                      "en_US": "Você me deu uma surra."
                     }
                   },
                   "1": {
@@ -681,7 +681,7 @@
                   "2": {
                     "message": {
                       "": "I want a rematch!\\. How about it?",
-                      "en_US": "Eu quero uma revanche!\\. Que tal isso?"
+                      "en_US": "Eu quero uma revanche!\\. Que tal?"
                     }
                   },
                   "3": {
@@ -695,7 +695,7 @@
                   "0": {
                     "message": {
                       "": "I totally whooped your ass!",
-                      "en_US": "Eu darei uma surra na sua bunda!"
+                      "en_US": "Eu vou te dar uma surra!"
                     }
                   },
                   "1": {
@@ -726,7 +726,7 @@
               "41": {
                 "message": {
                   "": "I'll quickly go to the \\c[3]arena\\c[0] then and create a \\c[3]custom cup\\c[0].",
-                  "en_US": "Vou rapidamente na \\c[3]arena\\c[0] e depois crio uma \\c[3]copa personalizada\\c[0]."
+                  "en_US": "Vou passar na \\c[3]arena\\c[0] para criar uma \\c[3]copa personalizada\\c[0]."
                 }
               },
               "42": {
@@ -2146,7 +2146,7 @@
           "14": {
             "message": {
               "": "Alright...\\. enough break!",
-              "en_US": "Tudo bem...\\. pausa suficiente!"
+              "en_US": "Ok...\\. já chega de pausa!"
             }
           },
           "15": {

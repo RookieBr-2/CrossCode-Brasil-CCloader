@@ -6,13 +6,13 @@
           "19": {
             "message": {
               "": "Wow, that was weird!",
-              "en_US": "Uau, isso foi estranho!"
+              "en_US": "Uau, isso foi insano!"
             }
           },
           "23": {
             "message": {
               "": "Ye're welcome.\n",
-              "en_US": "Seja bem-vinda.\n"
+              "en_US": "Disponha.\n"
             }
           },
           "24": {
@@ -42,19 +42,19 @@
           "38": {
             "message": {
               "": "Ah!\\. I see you have arrived.",
-              "en_US": "Ah!\\. Vejo que você chegou."
+              "en_US": "Ah!\\. Vocês chegaram."
             }
           },
           "39": {
             "message": {
               "": "You are at the \\c[3]border of Vermillion Wasteland\\c[0].",
-              "en_US": "Você está na \\c[3]fronteira do Deserto Carmesim\\c[0]."
+              "en_US": "Vocês estão na \\c[3]fronteira do Deserto Carmesim\\c[0]."
             }
           },
           "40": {
             "message": {
               "": "Just continue straight ahead, jump down the wall, and you'll be inside.",
-              "en_US": "Apenas continue em frente, pule na parede e você estará dentro."
+              "en_US": "Sigam em frente, saltem na parede e vocês estarão dentro."
             }
           },
           "42": {

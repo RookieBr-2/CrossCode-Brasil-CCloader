@@ -1212,25 +1212,25 @@
           "15": {
             "message": {
               "": "Ah...\\. We're here now.\\. I see.",
-              "en_US": "Ah...\\. Estamos aqui agora.\\. Entendo."
+              "en_US": "Ah...\\. então chegamos."
             }
           },
           "17": {
             "message": {
               "": "Do you remember where to go?",
-              "en_US": "Você se lembra para onde ir?"
+              "en_US": "Você se lembra onde tem que ir?"
             }
           },
           "18": {
             "message": {
               "": "Yes...\\. it's to the west.",
-              "en_US": "Sim...\\. é a oeste."
+              "en_US": "Sim...\\. é para o lado oeste."
             }
           },
           "19": {
             "message": {
               "": "Close to the \\c[3]quest hub\\c[0].",
-              "en_US": "Perto do \\c[3]centro de missões\\c[0]."
+              "en_US": "Perto da \\c[3]central de missões\\c[0]."
             }
           },
           "22": {
@@ -1270,7 +1270,7 @@
           "15": {
             "message": {
               "": "What is it?",
-              "en_US": "O que é isso?"
+              "en_US": "O que foi?"
             }
           },
           "16": {
@@ -1282,7 +1282,7 @@
           "17": {
             "message": {
               "": "There's nothing more to add.",
-              "en_US": "Não há mais nada a adicionar."
+              "en_US": "Não tenho mais nada a acrescentar."
             }
           },
           "18": {
@@ -1294,7 +1294,7 @@
           "19": {
             "message": {
               "": "Sure...\\. I was used by him, but...",
-              "en_US": "Claro...\\. Eu fui usado por ele, mas..."
+              "en_US": "Claro...\\. eu fui usado por ele, mas..."
             }
           },
           "20": {
@@ -1322,13 +1322,13 @@
           "24": {
             "message": {
               "": "To stay in Homestedt?",
-              "en_US": "Ficar na Fazendolar?"
+              "en_US": "Vivendo na Fazendolar?"
             }
           },
           "25": {
             "message": {
               "": "Not gonna lie, this is...\\. a tough one.",
-              "en_US": "Não vou mentir, isso é...\\. bem difícil."
+              "en_US": "Não vou mentir, isso é...\\. bem complicado."
             }
           },
           "26": {
@@ -1346,7 +1346,7 @@
           "33": {
             "message": {
               "": "This is not something just for us here to decide.",
-              "en_US": "Isso não é algo apenas para nós aqui decidirmos."
+              "en_US": "Isso não é uma decisão exclusiva nossa."
             }
           },
           "34": {
@@ -1358,7 +1358,7 @@
           "42": {
             "text": {
               "": "We all knew it would be difficult,\nbut there was no reason \nin delaying it any further.",
-              "en_US": "Todos sabíamos que seria difícil, mas não havia razão para adiar ainda mais."
+              "en_US": "Todos sabíamos que seria difícil,\nmas não havia razão \npara adiar ainda mais."
             }
           }
         }

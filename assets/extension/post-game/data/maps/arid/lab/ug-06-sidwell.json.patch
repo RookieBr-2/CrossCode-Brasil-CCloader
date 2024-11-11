@@ -6,7 +6,7 @@
           "6": {
             "message": {
               "": "This...\\. this is it.",
-              "en_US": "Esta...\\. é esta."
+              "en_US": "Essa...\\. é essa."
             }
           },
           "7": {
@@ -24,7 +24,7 @@
           "15": {
             "message": {
               "": "Wow, a whole bonsai garden!",
-              "en_US": "Uau, todo um jardim bonsai!"
+              "en_US": "Uau, tem até um jardim bonsai!"
             }
           },
           "20": {
@@ -53,13 +53,13 @@
           "37": {
             "message": {
               "": "Somebody you know?",
-              "en_US": "Alguém que você conhece?"
+              "en_US": "É alguém que você conhece?"
             }
           },
           "39": {
             "message": {
               "": "Yeah...\\. you could say that.",
-              "en_US": "Sim...\\. pode-se dizer assim."
+              "en_US": "Sim...\\. pode-se dizer que sim."
             }
           },
           "46": {
@@ -70,7 +70,7 @@
           "47": {
             "message": {
               "": "She was a person I used to work with.",
-              "en_US": "Ela era uma pessoa com quem trabalhava."
+              "en_US": "Ela era uma colega de trabalho."
             }
           },
           "48": {
@@ -87,13 +87,13 @@
           "53": {
             "message": {
               "": "Actually...",
-              "en_US": "Na realidade..."
+              "en_US": "Na verdade..."
             }
           },
           "54": {
             "message": {
               "": "Lea...\\. I think I told you about her several times, didn't I?",
-              "en_US": "Lea...\\. Acho que já falei dela várias vezes, não é?"
+              "en_US": "Lea...\\. acho que já falei dela várias vezes, não é?"
             }
           },
           "55": {
@@ -105,7 +105,7 @@
           "57": {
             "message": {
               "": "Huh.\\. So why was I left out?",
-              "en_US": "Hum. \\. Então por que eu fiquei de fora?"
+              "en_US": "Hmm.\\. Então por que eu fiquei de fora?"
             }
           },
           "58": {
@@ -117,7 +117,7 @@
           "59": {
             "message": {
               "": "Back when she was created, when I entered the game as Sidwell.",
-              "en_US": "Na época em que ela foi criada, foi quando entrei no jogo como Sidwell."
+              "en_US": "Foi naquela época, quando ela foi criada, que comecei a jogar como Sidwell."
             }
           },
           "60": {
@@ -140,13 +140,13 @@
           "63": {
             "message": {
               "": "You two share a lot of history...\\. never would have guessed.",
-              "en_US": "Vocês dois compartilham muita história...\\. nunca teria imaginado."
+              "en_US": "Vocês passaram por muita coisa juntos...\\. nunca teria imaginado."
             }
           },
           "64": {
             "message": {
               "": "Those times were...\\. complicated.",
-              "en_US": "Esses tempos foram...\\. complicados."
+              "en_US": "Aqueles dias foram...\\. complicados."
             }
           },
           "71": {
@@ -158,13 +158,13 @@
           "72": {
             "message": {
               "": "Manuela couldn't talk either, you see?",
-              "en_US": "Manuela também não podia falar, entendeu?"
+              "en_US": "Manuela também não podia falar."
             }
           },
           "87": {
             "text": {
               "": "The one person that felt close to us.",
-              "en_US": "A única pessoa que sentia nos aproximar."
+              "en_US": "A única pessoa com quem nos sentíamos próximos."
             }
           },
           "109": {
@@ -176,7 +176,7 @@
           "110": {
             "message": {
               "": "That person...\\. I met him here.",
-              "en_US": "Aquela pessoa...\\. Conheci ele aqui."
+              "en_US": "Aquela pessoa...\\. encontrei ele aqui."
             }
           },
           "126": {
@@ -193,7 +193,7 @@
           "151": {
             "message": {
               "": "Pull yourself together!",
-              "en_US": "Controle-se!"
+              "en_US": "Fica calmo!"
             }
           },
           "152": {
@@ -209,7 +209,7 @@
           "166": {
             "message": {
               "": "There is a hidden entrance behind those shelves.",
-              "en_US": "Há uma entrada escondida atrás daquelas prateleiras."
+              "en_US": "Tem uma entrada escondida atrás daquelas prateleiras."
             }
           },
           "167": {
@@ -244,7 +244,7 @@
           "183": {
             "message": {
               "": "Wha...\\. What's back there?\n",
-              "en_US": "O q...\\. O que há lá atrás?\n"
+              "en_US": "O que...\\. o que tem lá atrás?\n"
             }
           },
           "184": {
@@ -256,7 +256,7 @@
           "190": {
             "message": {
               "": "This was...\\. where things ended for me.",
-              "en_US": "Isso foi...\\. onde as coisas acabaram para mim."
+              "en_US": "Foi aqui...\\. onde as coisas acabaram para mim."
             }
           },
           "192": {
@@ -268,13 +268,13 @@
           "193": {
             "message": {
               "": "I...\\. can't remember any further.",
-              "en_US": "Eu ...\\. não consigo me lembrar de mais nada."
+              "en_US": "Eu...\\. não consigo me lembrar de mais nada."
             }
           },
           "194": {
             "message": {
               "": "We have to go and see for ourselves.",
-              "en_US": "Temos que ir e ver por nós mesmos."
+              "en_US": "Precisamos ir e ver com nossos próprios olhos."
             }
           },
           "195": {
@@ -285,7 +285,7 @@
           "196": {
             "message": {
               "": "Alright, let's get this over with.",
-              "en_US": "Certo, vamos acabar logo com isso."
+              "en_US": "Ok, vamos acabar logo com isso."
             }
           },
           "198": {
@@ -303,7 +303,7 @@
           "31": {
             "text": {
               "": "By now, you should have realized \nyour true circumstances.",
-              "en_US": "A essa altura, você já deveria ter percebido\nsuas verdadeiras circunstâncias."
+              "en_US": "A essa altura, você já deve ter percebido \na condição em que se encontra."
             }
           },
           "36": {
@@ -315,7 +315,7 @@
           "41": {
             "text": {
               "": "The time has come \nto release you of your position.",
-              "en_US": "Chegou o momento de liberá-lo de sua posição."
+              "en_US": "Chegou o momento \nde dispensá-lo de sua função."
             }
           },
           "47": {
@@ -333,7 +333,7 @@
           "70": {
             "message": {
               "": "WHAT?!",
-              "en_US": "O QUE?!"
+              "en_US": "QUE?!"
             }
           },
           "72": {
@@ -345,13 +345,13 @@
           "76": {
             "message": {
               "": "It...\\. it was him...\\. All this time...\\. I...\n",
-              "en_US": "Isto...\\. Era ele...\\. Todo esse tempo...\\. Eu...\n"
+              "en_US": "Isso...\\. era ele...\\. esse tempo todo...\\. eu...\n"
             }
           },
           "89": {
             "message": {
               "": "Pull yourself together, Tronny!",
-              "en_US": "Se recomponha Tronny!"
+              "en_US": "Levanta Tronny!"
             }
           },
           "90": {
@@ -363,13 +363,13 @@
           "97": {
             "message": {
               "": "There...\\. There is no point fighting him!",
-              "en_US": "Aqui...\\. Não vale a pena lutar com ele!"
+              "en_US": "Não...\\. não vale a pena lutar com ele!"
             }
           },
           "108": {
             "message": {
               "": "Really?\\. We'll see about that!",
-              "en_US": "Sério?\\. Veremos isso!"
+              "en_US": "Sério?\\. Vamos ver!"
             }
           }
         }
@@ -381,7 +381,7 @@
           "30": {
             "message": {
               "": "WE JUST BEAT HIM!!\\. PUNCHED HIS FACE!!",
-              "en_US": "ACABAMOS DE VENCE-LO!!\\. DANDO UM SOCO NA CARA DELE !!"
+              "en_US": "A GENTE VENCEU ELE!!\\. COM SOCOS NA CARA!!"
             }
           },
           "32": {
@@ -393,25 +393,25 @@
           "37": {
             "message": {
               "": "I never expected we could just...\\. defeat him.\n",
-              "en_US": "Nunca esperei que pudéssemos simplesmente...\\. derrota-lo.\n"
+              "en_US": "Nunca imaginei que pudéssemos...\\. derrotá-lo.\n"
             }
           },
           "38": {
             "message": {
               "": "I guess...\\. it was just an enemy designed in his image.\n",
-              "en_US": "Acho que...\\. era apenas um inimigo projetado da sua imagem.\n"
+              "en_US": "Acho que...\\. era apenas um inimigo usando a imagem dele.\n"
             }
           },
           "39": {
             "message": {
               "": "But still...",
-              "en_US": "Mas ainda..."
+              "en_US": "Mas..."
             }
           },
           "45": {
             "message": {
               "": "Some of them...\\. look exactly like you.",
-              "en_US": "Alguns deles...\\. parecem exatamente com você."
+              "en_US": "Alguns deles...\\. parecem com você."
             }
           },
           "47": {
@@ -434,7 +434,7 @@
           "53": {
             "message": {
               "": "Something I knew for some time now...",
-              "en_US": "Algo que eu já sabia há algum tempo..."
+              "en_US": "Algo que eu já sabia há bom tempo..."
             }
           },
           "54": {
@@ -452,13 +452,13 @@
           "56": {
             "message": {
               "": "When I was spying in CrossWorlds.",
-              "en_US": "Quando eu estava espionando no CrossWorlds."
+              "en_US": "Quando eu estava espionando em CrossWorlds."
             }
           },
           "57": {
             "message": {
               "": "My whole existence...\\. resided in this game.\n",
-              "en_US": "Toda a minha existência...\\. reside neste jogo.\n"
+              "en_US": "Toda a minha existência...\\. está neste jogo.\n"
             }
           }
         }
@@ -470,7 +470,7 @@
           "11": {
             "message": {
               "": "I'd also remember...\\. that this whole procedure had repeated itself.",
-              "en_US": "Eu também me lembraria...\\. que todo esse procedimento se repetiu."
+              "en_US": "Eu também lembrei...\\. que todo esse procedimento se repetiu."
             }
           },
           "12": {
@@ -488,7 +488,7 @@
           "22": {
             "message": {
               "": "Would tell them the narrative of the \"long playing session\".",
-              "en_US": "Contando para eles a narrativa da \"longo sessão de jogo\"."
+              "en_US": "Contando para eles a narrativa da \"longa sessão de jogo\"."
             }
           },
           "30": {
@@ -500,7 +500,7 @@
           "31": {
             "message": {
               "": "For as long as it worked.",
-              "en_US": "Enquanto funcionou."
+              "en_US": "Enquanto isso ainda funcionava."
             }
           },
           "39": {
@@ -530,7 +530,7 @@
           "77": {
             "message": {
               "": "To make sure I didn't keep any secrets from the real me.",
-              "en_US": "Para ter certeza de que não esconderia nenhum segredo do meu verdadeiro eu."
+              "en_US": "Para garantir que não esconderia nenhum segredo do meu verdadeiro eu."
             }
           },
           "79": {
@@ -541,25 +541,25 @@
           "81": {
             "message": {
               "": "Damn, this is messed up.",
-              "en_US": "Droga, isso está confuso."
+              "en_US": "Droga, isso é horrível."
             }
           },
           "86": {
             "message": {
               "": "C'tron...\\. There is one thing I am still puzzled about.",
-              "en_US": "C'tron...\\. Há uma coisa que ainda me intriga."
+              "en_US": "C'tron...\\. tem uma coisa que ainda me intriga."
             }
           },
           "87": {
             "message": {
               "": "That is...\\. why is your Evotar still here?",
-              "en_US": "É que...\\. Por que seu Evotar ainda está aqui?"
+              "en_US": "Por que seu Evotar ainda está aqui?"
             }
           },
           "88": {
             "message": {
               "": "It sounds like you experienced your interrogation here, so...",
-              "en_US": "Parece que você passou pelo interrogatório aqui, então..."
+              "en_US": "Sendo que você passou pelo interrogatório..."
             }
           },
           "89": {
@@ -577,7 +577,7 @@
           "91": {
             "message": {
               "": "I should have been deleted and in fact...\\. I was.",
-              "en_US": "Eu deveria ter sido deletado e de fato...\\. Eu fui."
+              "en_US": "Eu deveria ter sido deletado e de fato...\\. eu fui."
             }
           },
           "93": {
@@ -589,7 +589,7 @@
           "94": {
             "message": {
               "": "But...\\. I found a loophole.\\. And that's why I'm still here.",
-              "en_US": "Mas...\\. Achei uma brecha.\\. E é por isso que ainda estou aqui."
+              "en_US": "Mas...\\. achei uma brecha.\\. e é por isso que ainda estou aqui."
             }
           },
           "95": {
@@ -601,7 +601,7 @@
           "96": {
             "message": {
               "": "Let's go back to the new Meeting Room...\\. M04-02.",
-              "en_US": "Vamos voltar para a nova Sala de Reuniões...\\. M04-02."
+              "en_US": "Vamos voltar para a nova sala de reuniões...\\. M04-02."
             }
           }
         }
@@ -613,7 +613,7 @@
           "1": {
             "message": {
               "": "I already realized I was an Evotar, several weeks before I was deleted...",
-              "en_US": "Eu já percebi que eu era um Evotar, várias semanas antes de ser deletado..."
+              "en_US": "Eu já sabia que era um Evotar, várias semanas antes de ser deletado..."
             }
           }
         }
@@ -642,7 +642,7 @@
           "12": {
             "message": {
               "": "It is a scripted enemy using his avatar's appearance.",
-              "en_US": "É um inimigo programado usando a aparência de seu avatar."
+              "en_US": "É um inimigo programado usando a aparência dele."
             }
           },
           "13": {
@@ -654,19 +654,19 @@
           "14": {
             "message": {
               "": "This time, it is using a ridiculously large \\c[3]defense boost\\c[0] to negate your damage.",
-              "en_US": "Desta vez, ele está usando um \\c[3]aumento de defesa\\c[0] ridiculamente alto para anular seu dano."
+              "en_US": "Desta vez, ele está usando um \\c[3]aumento de defesa\\c[0] ridiculamente alto para anular o dano."
             }
           },
           "15": {
             "message": {
               "": "I found a way to manipulate his \\c[3]clones\\c[0].\\. Defeat them to boost your \\c[3]attack\\c[0].",
-              "en_US": "Encontrei uma forma de manipular seus \\c[3]clones\\c[0].\\. Derrote-os para aumentar seu \\c[3]ataque\\c[0]."
+              "en_US": "Encontrei uma forma de manipular seus \\c[3]clones\\c[0].\\. Derrotem eles para aumentar seu \\c[3]ataque\\c[0]."
             }
           },
           "16": {
             "message": {
               "": "Also...\\. make sure to tell Emilie.\\. I cannot send her this message.",
-              "en_US": "Também...\\. certifique-se de contar a Emilie.\\. Não posso enviar esta mensagem a ela."
+              "en_US": "E lembrem-se de contar à Emilie.\\. Não posso enviar esta mensagem a ela."
             }
           },
           "17": {
@@ -678,13 +678,13 @@
           "24": {
             "message": {
               "": "Uhm...\\. \\c[3]Emilie\\c[0]! Attack the \\c[3]clones\\c[0]! Sergey did a thing!",
-              "en_US": "Hum...\\. \\c[3]Emilie\\c[0]! Ataque os \\c[3]clones\\c[0]! Sergey fez uma coisa!"
+              "en_US": "Hmm...\\. \\c[3]Emilie\\c[0]! Ataque os \\c[3]clones\\c[0]! Sergey fez uma coisa!"
             }
           },
           "25": {
             "message": {
               "": "What?\\. Uhm...\\. Alright, I guess?!",
-              "en_US": "O que?\\. Hum...\\. Tudo bem, eu acho?!"
+              "en_US": "O que?\\. Hmm...\\. tudo bem, eu acho?!"
             }
           }
         }
@@ -716,7 +716,7 @@
               "0": {
                 "text": {
                   "": "We saw you communicating via message \nwith an anonymous individual. \nWho was that?",
-                  "en_US": "Vimos você se comunicando por mensagem \ncom um indivíduo anônimo. \nQuem era aquele?"
+                  "en_US": "Vimos você trocando mensagens \ncom uma pessoa anônima. \nQuem era?"
                 }
               },
               "1": {
@@ -752,7 +752,7 @@
               "0": {
                 "text": {
                   "": "You used certain characteristic \nhand gestures in public. \nWhy did you do that?\n",
-                  "en_US": "Você usou certos gestos \nmanuais característicos em público. \nPor que você fez isso?\n"
+                  "en_US": "Você usou certos gestos \nde mão em público. \nPor que você fez isso?\n"
                 }
               },
               "1": {
@@ -800,7 +800,7 @@
           "1": {
             "message": {
               "": "We're barely doing damage!\\. What is this?!",
-              "en_US": "Mal estamos fazendo estragos!\\. O que é isso?!"
+              "en_US": "Não estamos fazendo dano nenhum!\\. O que é isso?!"
             }
           },
           "2": {
@@ -812,7 +812,7 @@
           "3": {
             "message": {
               "": "Well...\\. we won't give up this easily!!",
-              "en_US": "Bem...\\. não vamos desistir tão facilmente!!"
+              "en_US": "Não vamos desistir tão facilmente!!"
             }
           }
         }
@@ -826,7 +826,7 @@
               "0": {
                 "message": {
                   "": "Oh...\\. No!\\. Nonononono!\\. Please!!",
-                  "en_US": "Ah...\\. Não!\\. Nãonãonãonãonão!\\. Por favor!!"
+                  "en_US": "Ah...\\. não!\\. Não não não não não!\\. Por favor!!"
                 }
               },
               "1": {
@@ -838,7 +838,7 @@
               "2": {
                 "message": {
                   "": "It...\\. It's the interogation!\\. Please...\\. you have to stop it!!",
-                  "en_US": "Isso...\\. É o interrogatório!\\. Por favor...\\. você tem que parar!!"
+                  "en_US": "Esse...\\. é o interrogatório!\\. Por favor...\\. vocês precisam parar ele!!"
                 }
               },
               "3": {
@@ -858,7 +858,7 @@
               "1": {
                 "message": {
                   "": "Don't worry, Tronny!\\. We can beat the clones before they attack you!",
-                  "en_US": "Não se preocupe Tronny!\\. Nós podemos derrotar os clones antes que eles ataquem você!"
+                  "en_US": "Não se preocupe Tronny!\\. Vamos derrotar os clones antes que eles ataquem você!"
                 }
               },
               "2": {
@@ -919,13 +919,13 @@
               "0": {
                 "message": {
                   "": "Ahhhhh...\\. W-Wait...\\. It didn't hurt?",
-                  "en_US": "Ahhhh...\\. E-espere...\\. Não doeu?"
+                  "en_US": "Ahhhh...\\. e-espere...\\. não doeu?"
                 }
               },
               "1": {
                 "message": {
                   "": "Don't worry, you're using regular pain sensors.",
-                  "en_US": "Não se preocupe, você está usando sensores normais de dor."
+                  "en_US": "Não se preocupe, você está usando sensores de dor normais."
                 }
               }
             },
@@ -1036,7 +1036,7 @@
           "3": {
             "message": {
               "": "\\s[5]Whaaaaaaaaaaaaaaaaaaaaaaaat?!?!?!",
-              "en_US": "\\s[5]Oooqqquuueeeeeeeeeeeeeeeeee?!?!?!"
+              "en_US": "\\s[5]Quuueeeeeeeeeeeeeeeeee?!?!?!"
             }
           }
         }
