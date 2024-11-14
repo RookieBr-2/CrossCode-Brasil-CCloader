@@ -529,7 +529,7 @@
                 "4": {
                   "message": {
                     "": "What have you been up to?\\. I have heard stories but I'd love to hear the real thing.",
-                    "en_US": "O que você tem feito?\\. Eu já ouvi histórias, mas eu adoraria ouvir a coisa real."
+                    "en_US": "O que você tem feito?\\. Já ouvi histórias, mas prefiro ouvir a verdade."
                   }
                 },
                 "5": {
@@ -546,7 +546,7 @@
                 "7": {
                   "message": {
                     "": "Wooow, that sounds exciting.\\. You sure have gone through a lot while I was stuck here, eh?",
-                    "en_US": "Wooow, isso parece emocionante.\\. Você com certeza passou por muita coisa enquanto eu estava presa aqui, hein?"
+                    "en_US": "Uaauu, isso parece emocionante.\\. Você deve ter passado por muita coisa enquanto eu estava presa aqui, né?"
                   }
                 },
                 "8": {
@@ -557,7 +557,7 @@
                 "9": {
                   "message": {
                     "": "But we better get to business.\\. We both got lots on our plate.\\. Like this venture here.",
-                    "en_US": "Mas é melhor irmos ao que interessa.\\. Nós dois temos muito em nosso prato.\\. Como este empreendimento aqui."
+                    "en_US": "Mas é melhor irmos ao que interessa.\\. Nós duais temos muita coisa pra fazer."
                   }
                 },
                 "10": {
@@ -569,7 +569,7 @@
                 "11": {
                   "message": {
                     "": "I assume Kney filled you in on what I've been brewing up this time.\\. It's time to upgrade our distillery again!",
-                    "en_US": "Imagino que Kney tenha lhe contado o que estou preparando desta vez.\\. É hora de atualizar nossa destilaria novamente!"
+                    "en_US": "Aposto que o Kney já te contou o que estou planejando.\\. É hora de atualizar nossa destilaria de novo!"
                   }
                 },
                 "12": {
@@ -580,7 +580,7 @@
                 "13": {
                   "message": {
                     "": "Boring parts first, I got the concept tweaked out but there's still a lot of materials I need.",
-                    "en_US": "Partes chatas primeiro, eu ajustei o conceito, mas ainda há muitos materiais que preciso."
+                    "en_US": "Vamos começar pelas partes chatas: eu ajustei o conceito, mas ainda preciso de muitos materiais."
                   }
                 },
                 "15": {
@@ -591,19 +591,19 @@
                 "16": {
                   "message": {
                     "": "Here, take a list of the things.\\. I'll need some of that super valuable \\c[3]\\v[item.192.name]\\c[0] for one.",
-                    "en_US": "Aqui, pegue uma lista das coisas.\\. Vou precisar de um pouco desse super valioso \\c[3]\\v[item.192.name]\\c[0] para um."
+                    "en_US": "Aqui, pegue essa lista.\\. Vou precisar de um pouco desse valioso \\c[3]\\v[item.192.name]\\c[0]."
                   }
                 },
                 "17": {
                   "message": {
                     "": "Then a few \\c[3]\\v[item.185.name]s\\c[0] straight out of our desert.",
-                    "en_US": "Depois, alguns \\c[3]\\v[item.185.name]s\\c[0] direto do nosso deserto."
+                    "en_US": "Depois, um pouco de \\c[3]\\v[item.185.name]\\c[0] do nosso deserto."
                   }
                 },
                 "18": {
                   "message": {
                     "": "The rest you should find on \\v[area.beach.name].\\. I hope you enjoy a nice trip to the beach!",
-                    "en_US": "O resto você deve encontrar em \\v[area.beach.name].\\. Espero que gostem de uma boa viagem à praia!"
+                    "en_US": "O resto você deve encontrar no \\v[area.beach.name].\\. Espero que você aproveite uma pequena pausa na praia!"
                   }
                 },
                 "19": {
@@ -615,7 +615,7 @@
                 "20": {
                   "message": {
                     "": "Awesome!\\. I'll be counting on you!",
-                    "en_US": "Incrível!\\. Estarei contando com você!"
+                    "en_US": "Ótimo!\\. Conto com você!"
                   }
                 },
                 "21": {
@@ -683,7 +683,7 @@
                 "4": {
                   "message": {
                     "": "Amazing, that's all that rare stuff I still needed.\\. Now I can get straight to finishing the last tweaks on the machine!",
-                    "en_US": "Incrível, isso é tudo que eu ainda precisava de coisas raras.\\. Agora posso ir direto para terminar os últimos ajustes na máquina!"
+                    "en_US": "Incrível, esse é todo o material raro que eu precisava.\\. Agora posso fazer os últimos ajustes na máquina!"
                   }
                 },
                 "5": {
@@ -700,7 +700,7 @@
                 "24": {
                   "message": {
                     "": "Alrighty, it's done.\\. All that's needed now is for a \\v[lore.title.seeker] to calibrate it and do a test run.",
-                    "en_US": "Pronto, está feito.\\. Tudo o que é necessário agora é um \\v[lore.title.seeker] para calibrá-lo e fazer um teste."
+                    "en_US": "Pronto, está feito.\\. Agora preciso que você faça um teste com a máquina."
                   }
                 },
                 "25": {
@@ -724,13 +724,13 @@
                 "28": {
                   "message": {
                     "": "I'd do it myself but those track-gadgets need \\v[lore.title.seeker]s for some interactions.\\. It is what it is.",
-                    "en_US": "Eu mesmo faria isso, mas esses gadgets de pista precisam de \\v[lore.title.seeker]s para algumas interações.\\. É o que é."
+                    "en_US": "Eu mesma faria isso, mas esses dispositivos da trilha só podem ser operados por \\v[lore.title.seeker]s.\\. É assim que as coisas são."
                   }
                 },
                 "29": {
                   "message": {
                     "": "Better not question it.\\. You could just finish this job instead, right?",
-                    "en_US": "Melhor não questionar.\\. Você poderia apenas terminar este trabalho em vez disso, certo?"
+                    "en_US": "Melhor não questionar.\\. Em vez disso, que tal terminar este trabalho?"
                   }
                 },
                 "30": {

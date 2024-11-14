@@ -1257,19 +1257,19 @@
           "64": {
             "message": {
               "": "Heya, \\v[lore.title.seeker].\\. Are you done by now?\\. You made a lot of noise for just upgrading a machine, y'know?",
-              "en_US": "Heya, \\v[lore.title.seeker].\\. Você já terminou?\\. Você fez muito barulho por apenas atualizar uma máquina, tá ligada?"
+              "en_US": "Ei, \\v[lore.title.seeker].\\. Já terminou?\\. Você fez muito barulho atualizando a máquina, sabia?"
             }
           },
           "65": {
             "message": {
               "": "... Sorry... How?\\. .\\..\\..\\. Why?",
-              "en_US": "... Desculpe... Como?\\. .\\..\\..\\. Por quê?"
+              "en_US": "... Desculpa... Como?\\. .\\..\\..\\. Por quê?"
             }
           },
           "66": {
             "message": {
               "": "Oh, wait, wait.\\. So you're telling me, that upgrading this thing involved fighting monstrous incarnations of booze?",
-              "en_US": "Oh, espere, espere.\\. Então você está me dizendo que atualizar essa coisa envolvia lutar contra encarnações monstruosas de bebida?"
+              "en_US": "Ah, espera.\\. Quer dizer que, para atualizar essa coisa, você teve que lutar contra encarnações monstruosas de álcool?"
             }
           },
           "67": {
@@ -1281,7 +1281,7 @@
           "69": {
             "message": {
               "": "Oh, woops, haha.\\. That's pretty crazy, but I guess we should've expected the Track to throw some final test at us.",
-              "en_US": "Oh, woops, haha.\\. Isso é muito louco, mas acho que deveríamos ter esperado que a Pista nos fizesse algum teste final."
+              "en_US": "Ah, ops, haha.\\. Isso é muito louco, mas acho que já deveríamos ter previsto que a Trilha nos passaria um teste final."
             }
           },
           "70": {
@@ -1304,7 +1304,7 @@
           "73": {
             "message": {
               "": "And you can feel a clear change to the aura of our baby here.\\. Now it should be well-equipped for \\c[3]Fox Sake\\c[0], the last missing recipe!",
-              "en_US": "E você pode sentir uma clara mudança na aura da nossa bebê aqui.\\. Agora deve estar bem equipada para \\c[3]Fox Sake\\c[0], a última receita que falta!"
+              "en_US": "E já é possível sentir uma mudança na aura da nossa bebê aqui.\\. Agora deve estar bem equipada para fazer \\c[3]Saquê de Raposa\\c[0], a última receita que falta!"
             }
           },
           "74": {
@@ -1315,7 +1315,7 @@
           "75": {
             "message": {
               "": "Just report back to our dear Kney' on the market.\\. I will handle the rest down here!",
-              "en_US": "Basta informar ao nosso querido Kney' no mercado.\\. Eu cuido do resto aqui embaixo!"
+              "en_US": "Informe ao nosso querido Kney no mercado.\\. O resto eu resolvo aqui embaixo!"
             }
           },
           "76": {
@@ -1327,7 +1327,7 @@
           "77": {
             "message": {
               "": "Was great working with you again, sweetie!\\. Don't forget to visit now and then for some drinks!",
-              "en_US": "Foi ótimo trabalhar com você novamente, querida!\\. Não se esqueça de fazer uma visita de vez em quando para algumas bebidas!"
+              "en_US": "Foi maravilhoso trabalhar com você de novo, querida!\\. Não se esqueça de vir nos visitar de vez em quando para umas bebidas!"
             }
           },
           "78": {

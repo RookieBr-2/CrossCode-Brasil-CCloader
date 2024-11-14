@@ -76,7 +76,7 @@
                 "8": {
                   "message": {
                     "": "Hey Lea, do you want to tackle the Maroon Tree Quest by yourself now?",
-                    "en_US": "Ei Lea, você quer fazer a quest da Árvore Castanha sozinha?"
+                    "en_US": "Ei Lea, você quer fazer a quest da Castanheira do Vale sozinha?"
                   }
                 },
                 "9": {
@@ -284,7 +284,7 @@
                 "16": {
                   "message": {
                     "": "Strange item very good for Maroon Tree!\\. Putting in earth helps to grow!",
-                    "en_US": "O item estranho é muito bom para a Árvore Castanha!\\. Colocar isso na terra ajuda a árvore a crescer!"
+                    "en_US": "O item estranho é muito bom para a Castanheira do Vale!\\. Colocar isso na terra ajuda a árvore a crescer!"
                   }
                 },
                 "17": {
@@ -555,7 +555,7 @@
           "18": {
             "message": {
               "": "The maroon tree in all its majestic glory was but within a stone's throw!",
-              "en_US": "E a árvore Castanha, em toda a sua majestosa beleza, estava a poucos passos de distância!"
+              "en_US": "E a Castanheira do Vale, em toda a sua majestosa beleza, estava a poucos passos de distância!"
             }
           },
           "19": {
@@ -602,7 +602,7 @@
           "0": {
             "message": {
               "": "There we are! That must be the \\c[3]Maroon Tree\\c[0]!",
-              "en_US": "Chegamos! Esta deve ser a \\c[3]Árvore Castanha\\c[0]!"
+              "en_US": "Chegamos! Esta deve ser a \\c[3]Castanheira do Vale\\c[0]!"
             }
           }
         }

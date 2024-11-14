@@ -1923,7 +1923,7 @@
           },
           "description": {
             "": "The small guild village sometimes called \"Hidden Leaf\".",
-            "en_US": "A pequena vila da guilda às vezes chamada de \"Folha Oculta\"."
+            "en_US": "A pequena vila da guilda, também conhecida como \"Folha Oculta\"."
           }
         },
         "observatory": {
@@ -1943,7 +1943,7 @@
           },
           "description": {
             "": "Western Exit leading to Rookie Harbor.",
-            "en_US": "Saída Oeste levando ao Porto do Novato."
+            "en_US": "Saída Oeste que leva ao Porto do Novato."
           }
         },
         "end": {
@@ -1953,7 +1953,7 @@
           },
           "description": {
             "": "Exit to the rural Bergen Trail area.",
-            "en_US": "Saída para a área rural de Bergen Trail."
+            "en_US": "Saída para a área rural da Trilha de Bergen."
           }
         },
         "obelisk": {
@@ -1975,7 +1975,7 @@
       },
       "description": {
         "": "Known for it's many ponds and ruins this area is the little brother of Autumn's Rise. ",
-        "en_US": "Conhecida por seus muitos lagos e ruínas, esta área é a irmã mais nova do Nascer do Outono."
+        "en_US": "Conhecida por seus lagos e ruínas, esta área é a irmã mais nova do Nascer do Outono."
       },
       "landmarks": {
         "east": {
@@ -1985,7 +1985,7 @@
           },
           "description": {
             "": "East Exit of Autumn's Fall leading to the Sapphire Ridge.",
-            "en_US": "Saída leste da Autumn's Fall que leva à Sapphire Ridge."
+            "en_US": "Saída leste do Pôr do Outono que leva à Serra da Safira."
           }
         },
         "raid": {
@@ -2061,7 +2061,7 @@
           },
           "description": {
             "": "Surrounded by sharp cliffs, this lagoon is home to only the most chill fauna.",
-            "en_US": "Cercado por penhascos afiados, este lago abriga apenas a fauna mais fria[???]."
+            "en_US": "Cercado por penhascos afiados, este lago abriga apenas as criaturas mais tranquilas."
           }
         },
         "entrance": {
@@ -2113,7 +2113,7 @@
           },
           "description": {
             "": "The base of \\v[area.bergen-trails.name]. Often used as a preparation spot before the climb.",
-            "en_US": "A base da \\v[area.bergen-trails.name]. Muitas vezes utilizado como local de preparação antes da subida."
+            "en_US": "A base da \\v[area.bergen-trails.name]. Usado como local de preparação para a subida."
           }
         }
       }
@@ -2125,7 +2125,7 @@
       },
       "description": {
         "": "A sleepy village hidden in the snowy heights of Mount Berg.",
-        "en_US": "Uma pacata aldeia escondida nas alturas nevadas do Monte Berg."
+        "en_US": "Uma pacata aldeia escondida nas alturas nevadas do Monte Bergen."
       },
       "landmarks": {
         "north": {
@@ -2179,7 +2179,7 @@
       },
       "description": {
         "": "A once busy Mine with an uncovered temple crawling with hostile robots.",
-        "en_US": "Uma mina outrora ocupada com um templo exposto cheio de robôs hostis."
+        "en_US": "Uma mina em um templo cheio de robôs hostis."
       }
     },
     "evo-village": {
@@ -2189,7 +2189,7 @@
       },
       "description": {
         "": "The small settlement established as a home for Evotars.",
-        "en_US": "O pequeno vilarejo estabelecido como um lar para Evotars."
+        "en_US": "A pequena vila criada para os Evotares."
       },
       "landmarks": {
         "center": {
@@ -2199,7 +2199,7 @@
           },
           "description": {
             "": "This landmark sits right at the heart of \\v[area.evo-village.name].",
-            "en_US": "Este marco se situa bem no coração do \\v[area.evo-village.name]."
+            "en_US": "Este marco se situa bem no coração da \\v[area.evo-village.name]."
           }
         }
       }
@@ -2221,7 +2221,7 @@
       },
       "description": {
         "": "The last temple built by the Ancients, meant to test the worth of all who enter.",
-        "en_US": "O último templo construído pelos Antigos, destinado a testar o valor de todos os que entram nele."
+        "en_US": "O último templo erguido pelos Antigos, feito para testar o valor dos exploradores."
       },
       "landmarks": {
         "center": {
@@ -2243,7 +2243,7 @@
       },
       "description": {
         "": "The tranquil ridge filled with bamboo structures and hidden paths.",
-        "en_US": "O serra tranquila cheia de estruturas de bambu e caminhos escondidos."
+        "en_US": "A serra tranquila cheia de estruturas de bambu e caminhos escondidos."
       },
       "landmarks": {
         "temple": {
@@ -2283,7 +2283,7 @@
           },
           "description": {
             "": "An Inn designed after temples used to build centuries ago.",
-            "en_US": "Uma pousada com o estilo dos templos construídos há séculos em terras distantes."
+            "en_US": "Uma pousada no estilo dos templos construídos séculos atrás."
           }
         },
         "west": {
@@ -2335,7 +2335,7 @@
           },
           "description": {
             "": "A single pillar inside the Great Scar from which a temple of the Ancient can be seen.",
-            "en_US": "Um pilar situado dentro da Grande Cicatriz de onde se pode ver um templo dos Antigos."
+            "en_US": "Um pilar situado dentro da Grande Cicatriz de onde se pode ver o Templo Faj'ro."
           }
         },
         "middle": {
@@ -2351,11 +2351,11 @@
         "oasis": {
           "name": {
             "": "Maroon Tree",
-            "en_US": "Árvore Castanha"
+            "en_US": "Castanheira do Vale"
           },
           "description": {
             "": "A lush and vivid oasis crowned by a majestic maroon tree.",
-            "en_US": "Um oásis exuberante e vívido coroado por um majestoso castanheiro."
+            "en_US": "Um oásis exuberante e vívido coroado por uma majestosa árvore."
           }
         },
         "entrance": {
@@ -2365,7 +2365,7 @@
           },
           "description": {
             "": "The eastern entrance of \\v[area.heat-area.name] leading to \\v[area.bergen-trails.name].",
-            "en_US": "A entrada leste de \\v[area.heat-area.name] levando a \\v[area.bergen-trails.name]."
+            "en_US": "A entrada leste de \\v[area.heat-area.name] que dá acesso a \\v[area.bergen-trails.name]."
           }
         }
       }
@@ -2396,7 +2396,7 @@
           },
           "description": {
             "": "Right in front of the largest building in town and only a few steps away from the market.",
-            "en_US": "Bem em frente ao maior prédio da cidade e a apenas alguns metros do mercado."
+            "en_US": "Na frente do maior prédio da cidade, a poucos metros do mercado."
           }
         }
       }
@@ -2450,7 +2450,7 @@
           },
           "description": {
             "": "A crossroad leading to the Zir'vitar Temple, So'najiz Temple and the Grand Krys'kajo.",
-            "en_US": "Um cruzamento que leva ao Templo Zir'vitar, ao Templo So'najiz e ao Grande Krys'kajo."
+            "en_US": "Um cruzamento que leva ao Templo Zir'vitar, ao Templo So'najiz e ao Grand Krys'kajo."
           }
         },
         "infested": {
@@ -2520,7 +2520,7 @@
       },
       "description": {
         "": "The final tutorial dungeon teaching players the basics of CrossWorlds.",
-        "en_US": "A dungeon final do tutorial ensinando aos jogadores o básico de CrossWorlds."
+        "en_US": "A dungeon do tutorial, onde os jogadores aprendem o básico de CrossWorlds."
       }
     },
     "rhombus-sqr": {
@@ -2611,7 +2611,7 @@
           },
           "description": {
             "": "The entrance to Rookie Harbor from Cross Central.",
-            "en_US": "A entrada principal para o Porto do Novato de Cross Central."
+            "en_US": "A entrada principal para o Porto do Novato."
           }
         },
         "center": {
@@ -22878,7 +22878,7 @@
         "0": {
           "text": {
             "": "A slightly mutated version of the common \\v[combat.name.heat/sandworm] which made the cave below the famous Maroon Tree in \\c[3]\\v[area.heat-area.name]\\c[0] its home.\nIt seems to have some sort of control over the rock formations inside the cave, being able to to raise and lower parts of the cave system. \nIt uses this to attack intruders from higher ground without them being able to reach it. However disposing of other Tim can raise platforms to make it possible to reach it.",
-            "en_US": "Uma versão mutante do \\v[combat.name.heat/sandworm] comum que fez da caverna abaixo da famosa Árvore Castanha seu lar. \nEle parece ter algum tipo de controle sobre as formações rochosas dentro da caverna, sendo capaz de levantar e baixar plataforma dentro da caverna. Ele usa isso para atacar intrusos de terrenos mais altos sem que eles possam alcançá-lo. No entanto, eliminar outros Tim pode fazer com que surjam outras plataformas para alcançá-lo."
+            "en_US": "Uma versão mutante do \\v[combat.name.heat/sandworm] comum que fez da caverna abaixo da famosa Castanheira do Vale seu lar. \nEle parece ter algum tipo de controle sobre as formações rochosas dentro da caverna, sendo capaz de levantar e baixar plataforma dentro da caverna. Ele usa isso para atacar intrusos de terrenos mais altos sem que eles possam alcançá-lo. No entanto, eliminar outros Tim pode fazer com que surjam outras plataformas para alcançá-lo."
           }
         }
       }
@@ -25214,13 +25214,13 @@
         "para-1": {
           "content": {
             "": "In an unknown area at an unknown time, a woman called \\c[3]Shizuka\\c[0] materialized. She demanded to know where her brother \\c[3]Satoshi\\c[0] was and why he was being held captive. \nAs she moved towards her destination, she was interrupted by an \\c[3]obfuscated man\\c[0] who summoned enemies that blocked Shizuka's way. As she was an experienced fighter, she quickly disposed of the enemies and pressed onward, until she eventually found herself in front of a large building.",
-            "en_US": "Em uma área desconhecida em um momento desconhecido, uma mulher chamada \\c[3]Shizuka\\c[0] se materializou. Ela exigiu saber onde seu irmão \\c[3]Satoshi\\c[0] estava e por que ele estava sendo mantido em cativeiro. \no se mover em direção ao seu destino, ela foi interrompida por um \\c[3]homem misterioso\\c[0] que convocou inimigos para bloquear o caminho de Shizuka. Como ela era uma lutadora experiente, ela rapidamente se desfez dos inimigos e seguiu em frente, até que finalmente se viu na frente de um grande edifício."
+            "en_US": "Em uma área desconhecida, uma mulher chamada \\c[3]Shizuka\\c[0] se materializou. Ela exigiu saber onde estava seu irmão \\c[3]Satoshi\\c[0] e por que ele estava em cativeiro. Ao seguir seu caminho, ela foi parada por um \\c[3]homem misterioso\\c[0], que convocou inimigos para detê-la. Como uma lutadora experiente, Shizuka rapidamente derrotou os inimigos e continuou até encontrar um grande edifício."
           }
         },
         "para-2": {
           "content": {
             "": "At the end of a hallway she found her brother in front of a computer system. He seemed to be working on something as Shizuka was urging him to stop because of his poor health. \nHowever, Satoshi stated that it was already too late for him and as he finished his work he collapsed on the floor. Shocked, Shizuka ran to him, but Satoshi's words rang true, and he passed in her arms.",
-            "en_US": "No final de um corredor, ela encontrou seu irmão na frente de um computador. Ele parecia estar trabalhando em algo, pois Shizuka estava insistindo para que ele parasse por causa de sua saúde debilitada. \nNo entanto, Satoshi afirmou que já era tarde demais para ele e, ao terminar seu trabalho, caiu no chão. Em choque, Shizuka correu para ele, mas as palavras de Satoshi soaram verdadeiras, e ele descansou em paz nos braços dela."
+            "en_US": "No final de um corredor, ela viu seu irmão diante de um computador. Ele parecia estar trabalhando em algo, mas Shizuka insistiu para que ele parasse por causa de sua saúde debilitada. \nNo entanto, Satoshi disse que já era tarde demais e, ao terminar seu trabalho, desabou no chão. Shizuka correu até ele, mas era tarde demais e ele descansou em paz nos braços dela."
           }
         }
       }
@@ -25234,61 +25234,61 @@
         "p1": {
           "content": {
             "": "\\c[3]Lea\\c[0] awoke in a strange environment. She couldn't remember how she got there or who she was. She had no time to think about her situation, as she was greeted by a floating display in front of her. It showed \\c[3]Sergey\\c[0], who told her that her \\c[3]\"initialization\"\\c[0] was successful and asked if she could understand him.\nHowever, Lea \\c[3]couldn't talk\\c[0]. She wanted to, but her \\c[3]speech module\\c[0] seemed to be broken according to Sergey.\n\n",
-            "en_US": "\\c[3]Lea\\c[0] acordou em um ambiente estranho. Ela não conseguia se lembrar de como ela chegou lá ou quem ela era. Ela não teve tempo para pensar sobre sua situação, pois foi saudada por uma tela flutuante na sua frente. Ela mostrava \\c[3]Sergey\\c[0], que disse a ela que sua \\c[3]\"inicialização\"\\c[0] foi bem-sucedida e perguntou se ela poderia entendê-lo.\nPorém, Lea \\c[3]não conseguia falar\\c[0]. Ela queria, mas seu \\c[3]módulo de voz\\c[0] sparecia estar quebrado, de acordo com Sergey.\n\n"
+            "en_US": "\\c[3]Lea\\c[0] acordou em um lugar estranho. Não conseguia lembrar como havia chegado ou quem era. Não teve tempo para pensar muito sobre isso, pois uma tela apareceu na sua frente. Nela, \\c[3]Sergey\\c[0] informou que sua \\c[3]\"inicialização\"\\c[0] foi bem-sucedida e perguntou se ela conseguia entendê-lo.\nPorém, Lea \\c[3]não conseguia falar\\c[0], pois, segundo Sergey, seu \\c[3]módulo de voz\\c[0] estava quebrado.\n\n"
           }
         },
         "p2": {
           "content": {
             "": "Without delay, he asked her to perform some simple tasks to understand the \"gameplay\" mechanics. Lea mastered each task with ease, almost as if she already knew what to do.\nAfter finishing the final challenge she met \\c[3]Carla\\c[0], who welcomed her to the \"cargo hold\".  ",
-            "en_US": "Sem demora, ele pediu a ela que realizasse algumas tarefas simples para entender a mecânica de \"jogababilidade\". Lea dominou cada tarefa com facilidade, quase como se já soubesse o que fazer.\nDepois de terminar o desafio final, ela conheceu \\c[3]Carla\\c[0], que a recebeu no \"compartimento de carga\".  "
+            "en_US": "Sem demora, Sergey pediu que Lea realizasse algumas tarefas simples para entender como \"jogar\". Ela completou cada tarefa com facilidade, como se já soubesse o que fazer.\nDepois de terminar o desafio final, ela conheceu \\c[3]Carla\\c[0], que a recebeu no \"compartimento de carga\"."
           }
         },
         "p3": {
           "content": {
             "": "Without any explanation Lea had to fulfill several other challenges, none of them proving too difficult. But she also grew more restless, and once the final challenge was completed, Carla and Sergey promised to tell Lea everything as soon as they spoke with \\c[3]Captain Jet\\c[0].\nThe captain welcomed Lea to the ship, but stated that she had to leave as soon as possible, because an \\c[3]Avatar\\c[0] on board of his ship just \"calls for darn trouble\". Nevertheless he promised to teach her some tricks later.",
-            "en_US": "Sem nenhuma explicação Lea teve que cumprir vários outros desafios, nenhum deles se mostrando muito difícil. Mas ela também ficou mais inquieta e, assim que o desafio final fosse concluído, Carla e Sergey prometeram contar tudo a Lea assim que falassem com o \\c[3]Capitão Jet\\c[0].\nO capitão deu as boas-vindas a Lea para o navio, mas afirmou que ela tinha que sair o mais rápido possível, porque um \\c[3]Avatar\\c[0] a bordo de seu navio apenas \"traria mais problemas\". Mesmo assim, ele prometeu ensiná-la alguns truques mais tarde."
+            "en_US": "Sem mais explicações, Lea teve que concluir vários outros desafios, nos quais passou sem muita dificuldade. Mas ela estava ficando cada vez mais ansiosa e, quando o desafio final terminou, Carla e Sergey prometeram explicar tudo a Lea depois de falarem com o \\c[3]Capitão Jet\\c[0]. Ele deu as boas-vindas a Lea em seu navio, mas disse que ela deveria partir o mais rápido possível, pois ter um \\c[3]Avatar\\c[0] a bordo do navio \"traria problemas\". Mesmo assim, ele prometeu a Lea que lhe ensinaria alguns truques mais tarde."
           }
         },
         "p4": {
           "content": {
             "": "As Carla and Lea stepped outside, it became clear that they were aboard a ship called the \\c[3]M.S. Solar\\c[0]. They moved ahead to the bow of the boat and Sergey explained Lea's situation.",
-            "en_US": "Quando Carla e Lea saíram, ficou claro que estavam a bordo de um navio chamado \\c[3]M.S. Solar\\c[0]. TEles avançaram para a proa do barco e Sergey explicou a situação de Lea."
+            "en_US": "Quando Carla e Lea saíram, ficou claro que estavam a bordo de um navio chamado \\c[3]M.S. Solar\\c[0]. Eles foram para a proa do navio e Sergey explicou a situação de Lea."
           }
         },
         "p5": {
           "content": {
             "": "As it turned out, Lea was actually inside a game called \\c[3]CrossWorlds\\c[0] which takes place on a real planet. Lea is inside the body of an \\c[3]Avatar\\c[0] which is tightly connected to all her senses. Sergey went on by saying that they hoped to recover her memory by letting her play the game since there is a high chance that it might help. \nCarla added that everyone on deck except her is actually human and belongs to the maintenance crew of the game. ",
-            "en_US": "Na verdade, Lea estava dentro de um jogo chamado \\c[3]CrossWorlds\\c[0] que se passa em um planeta real. Lea está dentro do corpo de um \\c[3]Avatar\\c[0] que está fortemente conectado a todos os seus sentidos. Sergey continuou dizendo que eles esperavam recuperar a memória dela deixando-a jogar, pois há uma grande chance de que isso possa ajudar. \nCarla acrescentou que todos no convés, exceto ela, são humanos e pertencem à equipe de manutenção do jogo. "
+            "en_US": "Lea estava, na verdade, em um jogo chamado \\c[3]CrossWorlds\\c[0], que se passa em um planeta real. Ela estava em um \\c[3]Avatar\\c[0] conectado a todos os seus sentidos. Sergey explicou que eles esperavam que o jogo ajudasse Lea a recuperar a memória.\nCarla acrescentou que todos no convés, exceto ela, são humanos e fazem parte da equipe de manutenção do jogo."
           }
         },
         "p6": {
           "content": {
             "": "After the explanation concluded, Sergey surprised Lea by giving her the ability to say certain words that he \"hardcoded\" into the system, (\\c[3]\"Hi\"\\c[0] in this case). They moved on and met the captain in the cabins, where he told Lea to get up to the balcony in order to start combat training.",
-            "en_US": "Após a explicação ser concluída, Sergey surpreendeu Lea dando a ela a capacidade de dizer certas palavras que ele \"codificou\" no sistema, (\\c[3]\"Oi\"\\c[0] neste caso). Eles seguiram em frente e encontraram o capitão nas cabines, onde ele mandou Lea subir até a varanda para iniciar o treinamento de combate."
+            "en_US": "Após a explicação, Sergey surpreendeu Lea ao dar a ela a capacidade de dizer algumas palavras específicas (neste caso, \\c[3]\"Oi\"\\c[0]) que ele \"codificou\" no sistema. Eles seguiram até as cabines, onde encontraram o capitão, que pediu a Lea para ir à varanda para iniciar seu treino de combate."
           }
         },
         "p7": {
           "content": {
             "": "While the captain showed Lea special combat mechanics, they were interrupted by a \\c[3]mysterious man\\c[0]. As he floated in midair, he claimed that something was not right on this ship and quickly turned to Lea, identifying her as the source of the anomaly. He approached her and was about to \"erase\" her. However, he noticed something peculiar about Lea, and threw her on top of the cargo containers to \"test her abilities and see if he is right about her\".",
-            "en_US": "Enquanto o capitão mostrava a Lea a mecânica de combate especial, eles foram interrompidos por um \\c[3]homem misterioso\\c[0]. Enquanto flutuava no ar, ele alegou que algo não estava certo nesta nave e rapidamente se virou para Lea, identificando-a como a fonte da anomalia. Ele se aproximou dela e estava prestes a \"apagá-la\". Porém, ele percebeu algo peculiar em Lea, e a jogou em cima dos contêineres de carga para \"testar suas habilidades e ver se ele estava certo sobre ela\"."
+            "en_US": "Enquanto o capitão ensinava a Lea algumas técnicas especiais de combate, um \\c[3]homem misterioso\\c[0] apareceu flutuando. Ele afirmou que havia algo estranho no navio e, ao notar Lea, identificou-a como a causa da anomalia. Prestes a \"apagá-la\", ele percebeu algo incomum nela e a lançou sobre os contêineres de carga, desafiando-a para \"testar suas habilidades e confirmar suas suspeitas\"."
           }
         },
         "p8": {
           "content": {
             "": "A \\c[3]\\v[combat.name.boss-test]\\c[0] appeared out of thin air and prepared to attack Lea. Sergey dropped in and told Lea to take on the enemy as the crab's stats matched Lea's. \nLea took a deep breath, nodded, and prepared to fight the crab. After a tough fight, she came out on top and stared at the mysterious man floating in the air.",
-            "en_US": "A \\c[3]\\v[combat.name.boss-test]\\c[0] apareceu do nada e se preparou para atacar Lea. Sergey apareceu e disse a Lea para enfrentar o inimigo, já que as estatísticas do caranguejo correspondiam às de Lea. \nLea respirou fundo, concordou e se preparou para lutar contra o caranguejo. Depois de uma luta difícil, ela saiu por cima e olhou para o homem misterioso flutuando no ar."
+            "en_US": "De repente, um \\c[3]\\v[combat.name.boss-test]\\c[0] surgiu para atacar Lea. Sergey apareceu e orientou Lea a enfrentar o inimigo, já que o caranguejo tinha atributos iguais aos dela.\nLea respirou fundo, concordou, e se preparou para a batalha. Após uma luta difícil, ela saiu vitoriosa e olhou para o homem misterioso que ainda flutuava no ar."
           }
         },
         "p9": {
           "content": {
             "": "He was overjoyed with the results of the battle, and was about to finally take Lea away with him. Thankfully, Captain Jet intervened and attacked using his \\c[3]Solar Fist\\c[0], which disrupted parts of the man's arm. \nThe captain quickly grabbed Lea and flew her back to the balcony, where she was told to escape back to the \\c[3]teleporter\\c[0] she awoke in.",
-            "en_US": "Ele ficou muito feliz com o resultado da batalha e estava prestes a finalmente levar Lea consigo. Felizmente, o Capitão Jet interveio e atacou usando seu \\c[3]Punho Solar\\c[0], que danificou partes do braço do homem. \nO capitão rapidamente agarrou Lea e a levou de volta para a varanda, onde foi instruída a escapar de volta para o \\c[3]teletransportador\\c[0] em que ela acordou"
+            "en_US": "Ele ficou muito satisfeito com o resultado da luta e quase levou Lea com ele. Felizmente, o Capitão Jet interveio, atacando com seu \\c[3]Punho Solar\\c[0], que danificou o braço do homem.\nRapidamente, o capitão pegou Lea e a levou de volta para a varanda, orientando-a a escapar para o \\c[3]teleportador\\c[0] onde ela acordou."
           }
         },
         "p10": {
           "content": {
             "": "Together with Carla, Lea returned to the cargo hold, but was stopped by a display of the floating man who summoned enemies to stop her. The enemies were far above Lea's level, so Sergey told her to just run to the teleporter instead of fighting them. Just before the enemies caught up with Lea, she stepped into the teleporter and exchanged one last glance with Carla before the woman activated it.",
-            "en_US": "Junto com Carla, Lea voltou ao porão, mas foi interrompida por uma exibição do homem flutuante que convocou inimigos para detê-la. Os inimigos estavam muito acima do nível de Lea, então Sergey disse a ela para apenas correr para o teletransportador em vez de lutar contra eles. Pouco antes de os inimigos alcançarem Lea, ela entrou no teletransportador e trocou um último olhar com Carla antes que a mulher o ativasse."
+            "en_US": "Lea voltou ao porão com Carla, mas foi interrompida por um holograma do homem flutuante, que convocou inimigos para detê-la. Como eles estavam em um nível muito superior, Sergey orientou Lea a correr para o teletransportador em vez de lutar. Pouco antes de ser alcançada, ela conseguiu entrar no teletransportador, trocando um último olhar com Carla antes que ela o ativasse."
           }
         }
       }
@@ -25302,37 +25302,37 @@
         "page-01-01": {
           "content": {
             "": "After narrowly escaping the \\c[3]mysterious blue man\\c[0] on the \\c[3]M.S. Solar\\c[0], Lea arrived at \\c[3]Newcomer's Bridge\\c[0] in \\c[3]Rhombus Square\\c[0] via teleportation. Sergey explained the tight security measures of that location, relieved because the blue individual would be unable to interfere again. He was also worried, though, because Lea had to pass as a real player. He promised to unlock new words for her soon to make that task easier.",
-            "en_US": "Depois de escapar por pouco do \\c[3]misterioso homem azul\\c[0] no \\c[3]M.S. Solar\\c[0], Lea chegou a \\c[3]Ponte dos Iniciantes\\c[0] na \\c[3]Praça Losango\\c[0] via teletransporte. Sergey explicou as rígidas medidas de segurança daquele local, aliviado porque o indivíduo azul não seria capaz de interferir novamente. Ele também estava preocupado, porque Lea tinha que se passar por uma jogadora de verdade. Ele prometeu desbloquear novas palavras para ela em breve para tornar essa tarefa mais fácil."
+            "en_US": "Após escapar do \\c[3]misterioso homem azul\\c[0] no \\c[3]M.S. Solar\\c[0], Lea chegou à \\c[3]Ponte dos Iniciantes\\c[0], na \\c[3]Praça Losango\\c[0], através do teletransporte. Sergey explicou as fortes medidas de segurança do local, aliviado por saber que o homem azul não poderia interferir novamente. Ele também estava preocupado, pois Lea precisava parecer uma jogadora real, prometendo liberar mais palavras para ela em breve para facilitar isso."
           }
         },
         "page-01-02": {
           "content": {
             "": "On the way to the \\c[3]Rhombus Dungeon\\c[0], a last test for new players before arriving at the mainland, Lea bumped into a \\c[3]feisty redhead\\c[0] who was also a fellow rookie. Being a competitive lass, she instantly challenged Lea to a race through the dungeon which they both promptly started. They did not notice the trouble that followed them...",
-            "en_US": "No caminho para a \\c[3]Caverna Losango\\c[0], um último teste para novos jogadores antes de chegar ao continente, Lea deu de cara com uma \\c[3]garota ruiva\\c[0] que também era novata. Sendo uma garota competitiva, ela instantaneamente desafiou Lea para uma corrida pela dungeon que ambas começaram imediatamente. Elas não perceberam os problemas que os seguiram..."
+            "en_US": "Enquanto ia para a \\c[3]Caverna Losango\\c[0], o último teste para iniciantes, Lea encontrou uma \\c[3]garota ruiva\\c[0] que também era novata. A garota, sendo competitiva, desafiou Lea para uma corrida pela dungeon, e ambas começaram de imediato, sem imaginar os problemas que viriam a seguir..."
           }
         },
         "page-02-01": {
           "content": {
             "": "Using the skills she learned on the ship and her own wits, Lea managed to beat the Dungeon while picking up \\c[3]new abilities\\c[0] along the way. In the meantime, Sergey was inquiring about the situation on the M.S. Solar and the identity of the blue man. While the crew of the ship was fine, he was unable to find anything about their mysterious attacker.",
-            "en_US": "Usando as habilidades que aprendeu no navio e sua própria inteligência, Lea conseguiu vencer a Dungeon enquanto adquiria \\c[3]novas habilidades\\c[0] ao longo do caminho. Nesse meio tempo, Sergey estava perguntando sobre a situação no M.S. Solar e a identidade do homem azul. Embora a tripulação do navio estivesse bem, eles não conseguiram encontrar nada sobre seu misterioso atacante."
+            "en_US": "Usando as habilidades que aprendeu no navio e sua inteligência, Lea superou a dungeon e ainda obteve \\c[3]novas habilidades\\c[0] no processo. Enquanto isso, Sergey buscava respostas sobre o incidente no M.S. Solar e a identidade do homem azul. A tripulação estava segura, mas sem pistas sobre o agressor misterioso."
           }
         },
         "page-02-02": {
           "content": {
             "": "After unlocking the largest update, the \\c[3]Circuit\\c[0], Sergey finally added the second word to Lea's language: Her own name, \\c[3]\"Lea\"\\c[0]. Twice as eloquent but still disappointed, Lea left the dungeon to talk to the girl who had challenged her to the race before and just barely beaten her. She introduced herself as \\c[3]Emilie\\c[0], or \\c[3]Emilienator\\c[0] as her nickname, whereupon Lea used her newfound vocabulary to introduce herself in turn.",
-            "en_US": "Depois de desbloquear uma grande atualização, o \\c[3]Circuito\\c[0], Sergey finalmente adicionou a segunda palavra ao vocabulário de Lea: seu próprio nome \\c[3]\"Lea\"\\c[0]. Duas vezes mais eloquente, mas ainda decepcionada, Lea saiu do calabouço para conversar com a garota que a havia desafiado para a corrida antes e por pouco a derrotou. Ela se apresentou como \\c[3]Emilie\\c[0], ou \\c[3]Emilienator\\c[0] acomo seu apelido, então Lea usou seu novo vocabulário para se apresentar."
+            "en_US": "Após desbloquear uma grande atualização, os \\c[3]Circuitos\\c[0], Sergey finalmente adicionou a segunda palavra ao vocabulário de Lea: seu próprio nome \\c[3]\"Lea\"\\c[0]. Agora mais eloquente, mas ainda frustrada, Lea deixou a masmorra e conversou com a garota que a desafiou e venceu por pouco. Ela se apresentou como \\c[3]Emilie\\c[0], com o nick de \\c[3]Emilienator\\c[0], e então Lea usou seu novo vocabulário para se apresentar."
           }
         },
         "page-03-01": {
           "content": {
             "": "Their friendly conversation was cut short, though, as a fancy guy named \\c[3]Apollo\\c[0] entered the scene seeking \"justice\". He accused Lea of cheating because her level was higher than usual at that point (thanks to the unplanned fight against the crab), and wanted her to atone. The situation was defused, however, as his friend \\c[3]Joern\\c[0] appeared and apologized for Apollo before leaving with the protesting vigilante in tow.",
-            "en_US": "Porém, sua conversa amigável foi interrompida quando um cara chique chamado \\c[3]Apollo\\c[0] entrou em cena em busca de \"justiça\". Ele acusou Lea de trapacear porque seu nível estava mais alto do que o normal naquele momento (graças à luta não planejada contra o caranguejo), e queria que ela confessasse.Entretanto, a situação melhorou quando seu amigo \\c[3]Joern\\c[0] apareceu e se desculpou por Apollo que estava tentando se tornar um moderador do jogo."
+            "en_US": "Porém, sua conversa amigável foi interrompida quando um rapaz excêntrico chamado \\c[3]Apollo\\c[0] entrou em cena em busca de \"justiça\". Ele acusou Lea de trapacear, pois seu nível estava mais alto do que o normal naquele momento (graças à luta não planejada contra o caranguejo) e queria que ela confessasse. A situação se acalmou quando seu amigo \\c[3]Joern\\c[0] apareceu e se desculpou por Apollo, que estava agindo como se fosse um moderador do jogo."
           }
         },
         "page-03-02": {
           "content": {
             "": "Lea and Emilie moved on from the confusing scene by taking the \\c[3]Skyrails\\c[0] to \\c[3]CrossCentral\\c[0], the main teleportation HUB of CrossWorlds. There, they took the only way to the mainland that was available to new players: The teleporter to the coastal town \\c[3]Rookie Harbor\\c[0].",
-            "en_US": "Lea e Emilie saíram da confusa cena utilizando os \\c[3]Trilhos Aéreos\\c[0] para \\c[3]CrossCentral\\c[0], o principal centro de teletransporte de CrossWorlds. Lá, eles pegaram o único caminho para o continente que estava disponível para novos jogadores: O teletransportador para a cidade costeira \\c[3]Porto do Novato\\c[0]."
+            "en_US": "Lea e Emilie deixaram a cena confusa e usaram os \\c[3]Trilhos Aéreos\\c[0] para chegar a \\c[3]CrossCentral\\c[0], o principal centro de teletransporte de CrossWorlds. Lá, elas pegaram o único teletransportador disponível para novos jogadores, indo para a cidade costeira do \\c[3]Porto do Novato\\c[0]."
           }
         }
       }
@@ -25346,31 +25346,31 @@
         "page-01-01": {
           "content": {
             "": "Shortly after arriving in the cozy beginner's town \\c[3]\\v[area.rookie-harbor.name]\\c[0] the two were surprised by a player called \\c[3]Schneider\\c[0], a friend of Emilie. He welcomed them to the mainland of CrossWorlds, also known as the \\c[3]Croissant\\c[0], and gave them a quick tour of the city. This quickly led them to the \\c[3]Seeker-HUB\\c[0] which is where new players get an introduction into the background lore and main story of the game.",
-            "en_US": "Pouco depois de chegar na aconchegante cidade para iniciantes \\c[3]\\v[area.rookie-harbor.name]\\c[0] as duas foram surpreendidas por um jogador chamado \\c[3]Schneider\\c[0], um amigo de Emilie. Ele as deu boas-vindas ao continente de CrossWorlds, também conhecido como \\c[3]Croaçâ\\c[0], e fez um rápido tour pela cidade. Isso rapidamente os levou ao \\c[3]Seeker-HUB\\c[0] que é onde os novos jogadores obtêm uma introdução à tradição e à história principal do jogo."
+            "en_US": "Logo após chegarem à cidade dos iniciantes, \\c[3]\\v[area.rookie-harbor.name]\\c[0], as duas foram surpreendidas por Schneider, um amigo de Emilie. Ele as deu boas-vindas ao continente CrossWorlds, também conhecido como \\c[3]Croassã\\c[0], e fez um rápido tour pela cidade. O tour as levou até a \\c[3]Central Seeker\\c[0], onde os novos jogadores recebem uma introdução à história do jogo."
           }
         },
         "page-01-02": {
           "content": {
             "": "As explained by the \\c[3]wise hologram\\c[0], the players are on the planet \\c[3]Shadoon\\c[0] and are supposed to follow the \\c[3]Track of the Ancients\\c[0] as part of \\c[3]Operation Trackwalker\\c[0]. This means that they have to visit \\c[3]various temples of the Ancients\\c[0], earn the power of the \\c[3]4 elements\\c[0] and finally solve the mystery of the planet itself via a final challenge.",
-            "en_US": "Conforme explicado pelo sábio \\c[3]homem holograma\\c[0], os jogadores estão no planeta \\c[3]Shadoon\\c[0] e devem seguir a \\c[3]Trilha dos Antigos\\c[0] como parte da \\c[3]Operação Andarilho\\c[0]. Isso significa que eles têm que visitar \\c[3]vários templos dos Antigos\\c[0], ganhar o poder dos \\c[3]4 elementos\\c[0] e finalmente resolver o mistério de o próprio planeta por meio de um desafio final."
+            "en_US": "Como explicou o sábio \\c[3]homem do holograma\\c[0], os jogadores estão no planeta \\c[3]Shadoon\\c[0] e devem explorar a \\c[3]Trilha dos Antigos\\c[0] como parte da \\c[3]Operação Andarilho\\c[0]. Isso significa que precisam visitar vários templos dos Antigos, para dominar os \\c[3]4 elementos\\c[0] e, por fim, resolver o mistério do planeta através de um desafio final."
           }
         },
         "page-02-01": {
           "content": {
             "": "After receiving permission to leave the town with the \\c[3]Green Leaf Shade\\c[0] and the option to consult the \\c[3]very informative lore-texts\\c[0] at any time, Lea and Emilie went outside to join up with Schneider again. The group then traveled to the town's exit, after which Schneider had to leave the two rookies because of his guild-duties. Thus, Emilie and Lea \\c[3]formed a party\\c[0] and took their first steps into CrossWorlds together.",
-            "en_US": "Depois de receber permissão para sair da cidade com o \\c[3]Fragmento da Folha\\c[0] e a opção de consultar os \\c[3]textos informativos sobre a história\\c[0] a qualquer momento, Lea e Emilie saíram para se juntar a Schneider novamente. O grupo então viajou para a saída da cidade, logo após Schneider teve que deixar as duas novatas por causa de suas obrigações na guilda. Assim, Emilie e Lea \\c[3]formaram um grupo\\c[0] e deram seus primeiros passos em CrossWorlds juntas."
+            "en_US": "Após receber permissão para sair da cidade com o \\c[3]Fragmento da Folha\\c[0] e a opção de consultar os \\c[3]textos sobre a história\\c[0] quando quisessem, Lea e Emilie saíram para se encontrar com Schneider. O grupo seguiu até a saída da cidade, mas logo Schneider precisou se afastar devido às suas responsabilidades na guilda. Então, Emilie e Lea \\c[3]formaram um grupo\\c[0] e começaram sua jornada em CrossWorlds juntas."
           }
         },
         "page-03-01": {
           "content": {
             "": "Lea and Emilie started their exploration of CrossWorlds by travelling through \\c[3]\\v[area.autumn-area.name]\\c[0] and interacting with the local wildlife. Shortly after they began exploring, they were reunited with the honorable player Apollo, who challenged Lea to a PvP duel, in honor of the \\c[3]Spheromancer\\c[0]-class. Before he left, Apollo told Lea to meet him at the entrance of \\c[3]\\v[area.bergen-trails.name]\\c[0].",
-            "en_US": "Lea e Emilie começaram sua exploração de CrossWorlds viajando pelo \\c[3]\\v[area.autumn-area.name]\\c[0] e interagindo com a vida selvagem local. Pouco depois de começarem a explorar, elas se reuniram com o honorável jogador Apollo, que desafiou Lea para um duelo PvP, em homenagem à classe \\c[3]Esferomante\\c[0]. Antes de partir, Apollo disse a Lea para encontrá-lo na entrada da \\c[3]\\v[area.bergen-trails.name]\\c[0]."
+            "en_US": "Lea e Emilie começaram a explorar CrossWorlds, viajando pelo \\c[3]\\v[area.autumn-area.name]\\c[0] e interagindo com a vida selvagem local. Logo, encontraram Apollo, que desafiou Lea para um duelo PvP em homenagem à classe \\c[3]Esferomante\\c[0]. Antes de partir, Apollo pediu a Lea para encontrá-lo na entrada da \\c[3]\\v[area.bergen-trails.name]\\c[0]."
           }
         },
         "page-03-02": {
           "content": {
             "": "As they arrived at \\v[area.bergen-trails.name], Apollo made his presence known with another dramatic entrance and demanded his duel. After an uncertain outcome, he shared more of his wisdom and left. Emilie and Lea then decided to end the session and say their goodbyes, helped by the well-timed addition of another word to the latter's vocabulary: \\c[3]\"Bye\"\\c[0]!",
-            "en_US": "Quando eles chegaram a \\v[area.bergen-trails.name], Apollo surge com outra entrada dramática e exigiu seu duelo. Depois de um resultado incerto, ele compartilhou mais de sua sabedoria e foi embora. Emilie e Lea decidiram então encerrar a sessão e se despedir, ajudadas pelo acréscimo oportuno de outra palavra ao vocabulário: \\c[3]\"Tchau\"\\c[0]!"
+            "en_US": "Quando chegaram a \\v[area.bergen-trails.name], Apollo apareceu de forma dramática e exigiu o duelo. Após um resultado incerto, ele compartilhou mais de sua sabedoria e foi embora. Emilie e Lea decidiram encerrar a sessão e se despedir, com a ajuda de uma nova palavra no vocabulário:\\c[3]\"Tchau\"\\c[0]!"
           }
         }
       }
@@ -25384,43 +25384,43 @@
         "page-01-01": {
           "content": {
             "": "After logging back into CrossWorlds, Lea and Sergey decided to move on towards the \\c[3]\\v[area.bergen.name]\\c[0]. But before Lea could even start to make her way up \\c[3]\\v[area.bergen-trails.name]\\c[0], she was already contacted by Emilie who offered to join her party at any time.",
-            "en_US": "Depois de fazer login novamente em CrossWorlds, Lea e Sergey decidiram seguir em direção ao \\c[3]\\v[area.bergen.name]\\c[0]. Mas antes mesmo que Lea pudesse começar a subir \\c[3]\\v[area.bergen-trails.name]\\c[0], ela já foi contatada por Emilie, que se ofereceu para se juntar a seu grupo."
+            "en_US": "Depois de fazer login, Lea e Sergey decidiram ir até a \\c[3]\\v[area.bergen.name]\\c[0]. Mas antes de Lea partir, Emilie a contatou para se juntar ao grupo."
           }
         },
         "page-02-01": {
           "content": {
             "": "On the top of the mountain, Lea finally arrived in Bergen village and at the first real challenge of the Track: The \\c[3]\\v[area.cold-dng.name]\\c[0]. After receiving the key to it bundled with an explanation of its background, both Lea and Emilie were invited by Schneider to join his guild, the \\c[3]First Scholars\\c[0]. So they met their friend in \\v[area.autumn-area.name] to gain entrance to the guild's headquarters.",
-            "en_US": "No topo da montanha, Lea finalmente chegou ao vilarejo de Bergen e ao primeiro desafio real da Trilha: o \\c[3]\\v[area.cold-dng.name]\\c[0]. Depois de receber a chave junto com uma explicação de seus antecedentes, tanto Lea quanto Emilie foram convidadas por Schneider para se juntarem à sua guilda, os \\c[3]Primeiros Estudiosos\\c[0]. Então eles encontraram seu amigo em \\v[area.autumn-area.name] para obter acesso ao quartel-general da guilda."
+            "en_US": "No topo da montanha, Lea finalmente chegou ao vilarejo de Bergen e encontrou seu primeiro grande desafio na Trilha: a \\c[3]\\v[area.cold-dng.name]\\c[0]. Depois disso, Schneider convidou Lea e Emilie para sua guilda, os \\c[3]Primeiros Estudiosos\\c[0]."
           }
         },
         "page-02-02": {
           "content": {
             "": "In the small headquarters the two new players were greeted by the veterans of the guild, namely \\c[3]Buggy\\c[0], \\c[3]Beowulf\\c[0] and their leader, \\c[3]Hlin\\c[0] who was thrilled about the prospect of new members. Still, the guild takes the lore of CrossWorlds very seriously, so every new member has to pass a quiz about background information found at the end of the \\v[area.cold-dng.name].",
-            "en_US": "Na pequena sede, os dois novos jogadores foram recebidos pelos veteranos da guilda, chamados \\c[3]Buggy\\c[0], \\c[3]Beowulf\\c[0] e sua líder, \\c[3]Hlin\\c[0] que ficou entusiasmada com a vinda de novos membros. Ainda assim, a guilda leva o conhecimento de CrossWorlds muito a sério, então cada novo membro tem que passar em um questionário sobre informações da história encontradas no final do \\v[area.cold-dng.name]."
+            "en_US": "Na pequena sede, as novatas foram recebidas pelos veteranos da guilda: \\c[3]Buggy\\c[0], \\c[3]Beowulf\\c[0] e sua líder, \\c[3]Hlin\\c[0], que ficou animada com os novos membros. No entanto, a guilda valoriza muito o conhecimento de CrossWorlds, e cada novo integrante deve passar em um questionário sobre a história, com informações encontradas ao final da \\v[area.cold-dng.name]."
           }
         },
         "page-03-01": {
           "content": {
             "": "Emilie and Lea returned to \\v[area.bergen.name] to finally visit the \\v[area.cold-dng.name], learn more about the Ancients and progress in the game. The \\c[3]instanced system\\c[0] of Dungeons prevented them from solving the dungeon together, so Emilie once again decided to turn it into a \\c[3]race\\c[0]. Thus, armed with additional motivation and the warmth of friendship, the two players entered the icy mine.",
-            "en_US": "Emilie e Lea voltaram para \\v[area.bergen.name] para finalmente visitar a \\v[area.cold-dng.name], e aprender mais sobre os Antigos para progredir no jogo. O \\c[3]sistema instanciado\\c[0] de Dungeons impediu que elas resolvessem a dungeon juntas, então Emilie mais uma vez decidiu transformá-la em uma \\c[3]corrida\\c[0]. Assim, munidas de muita motivação e do calor da amizade, as duas jogadoras entraram na mina de gelo."
+            "en_US": "Emilie e Lea voltaram para a \\v[area.bergen.name] afim de explorar a \\v[area.cold-dng.name] e aprender mais sobre os Antigos para avançar no jogo. O \\c[3]sistema instanciado\\c[0] das dungeons impediu que elas explorassem a dungeon juntas, então Emilie propôs uma \\c[3]corrida\\c[0]. Cheias de motivação e amizade, as duas jogadoras entraram na mina de gelo."
           }
         },
         "page-03-02": {
           "content": {
             "": "For all its insects, machines, puzzles and insidious icy floors, in the end, the mine was no match for the two heroines. With the newly found \\c[3]Heat-element\\c[0] they were able to defeat their ferocious frosty foes and even the menacing mining machine at the end. As their reward (both the key to the next area and their needed information) awaited, so they returned to the First Scholars.",
-            "en_US": "Apesar de todos os insetos, máquinas, quebra-cabeças e pisos de gelo escorregadios, no final, a mina congelada não foi páreo para as duas heroínas. Com o recém-descoberto \\c[3]Elemento Fogo\\c[0] elas foram capazes de derrotar seus ferozes inimigos gelados e até mesmo a ameaçadora máquina de mineração no final. Com a sua recompensa (tanto a chave para a próxima área quanto as informações necessárias) recebida, elas retornaram aos Primeiros Estudiosos."
+            "en_US": "Apesar dos insetos, máquinas, puzzles e pisos de gelo escorregadios, a mina congelada não foi páreo para as duas heroínas. Com o recém-descoberto \\c[3]Elemento Fogo\\c[0], elas derrotaram os inimigos de gelo e a ameaçadora máquina de mineração no final. Com a recompensa (a chave para a próxima área e as informações necessárias) em mãos, elas retornaram aos Primeiros Estudiosos."
           }
         },
         "page-04-01": {
           "content": {
             "": "While waiting for Emilie to finish the quiz, Sergey correctly assumed that Lea's limited speech would make correctly answering difficult, so it was decided to tell the guild veterans about it during their turn. They were very sympathetic with Lea and so passing was no problem.",
-            "en_US": "Enquanto esperava que Emilie terminasse o teste, Sergey presumiu corretamente que a fala limitada de Lea tornaria difícil responder corretamente, então decidiu-se contar aos veteranos da guilda sobre isso durante a sua vez. Eles foram muito solidários com Lea e então passar não foi problema."
+            "en_US": "Enquanto esperava Emilie terminar o teste, Sergey percebeu que a fala limitada de Lea dificultaria suas respostas, então na vez dela a verdade foi revelada. Os membros da guilda foram muito solidários, e assim Lea conseguiu passar sem problemas."
           }
         },
         "page-04-02": {
           "content": {
             "": "With the last hindrance out of the way, Lea and Emilie \\c[3]officially joined the First Scholars\\c[0]! And then, after a long and eventful session, they finally logged out.",
-            "en_US": "Com o último obstáculo fora do caminho, Lea e Emilie \\c[3]oficialmente juntaram-se aos Primeiros Estudiosos\\c[0]! E então, após uma sessão longa e agitada, elas finalmente se desconectaram."
+            "en_US": "Com o último obstáculo superado, Lea e Emilie \\c[3]oficialmente se juntaram aos Primeiros Estudiosos\\c[0]! Após uma sessão longa e agitada, elas finalmente se desconectaram."
           }
         }
       }
@@ -25458,7 +25458,7 @@
         "page-03-01": {
           "content": {
             "": "After logging in again, Lea invited her new Hexacast friend, \\c[3]C'tron\\c[0], to her party. Together they decided to solve the quest of the \\c[3]Maroon Tree\\c[0]. During their travels together, Lea not only experienced his skills in combat, but also his \\c[3]fascinating knowledge of biology and other fields of science\\c[0]. ",
-            "en_US": "Depois de logar novamente, Lea convidou seu novo amigo Hexamago, \\c[3]C'tron\\c[0], para seu grupo. Juntos, eles decidiram concluir a missão da \\c[3]Árvore Castanha\\c[0]. Durante a viagem, Lea não apenas conheceu as habilidades de C'tron em combate, mas também seu \\c[3]fascinante conhecimento de biologia e outros campos da ciência\\c[0]."
+            "en_US": "Depois de logar novamente, Lea convidou seu novo amigo Hexamago, \\c[3]C'tron\\c[0], para seu grupo. Juntos, eles decidiram concluir a missão da \\c[3]Castanheira do Vale\\c[0]. Durante a viagem, Lea não apenas conheceu as habilidades de C'tron em combate, mas também seu \\c[3]fascinante conhecimento de biologia e outros campos da ciência\\c[0]."
           }
         },
         "page-03-02": {
@@ -32066,21 +32066,25 @@
     "ape-battle": {
       "hubSettings": {
         "location": {
-          "": "Challenge. I need a challenge. \\c[3]- Sandy Bar, \\v[area.beach.name]\\c[0]"
+          "": "Challenge. I need a challenge. \\c[3]- Sandy Bar, \\v[area.beach.name]\\c[0]",
+          "en_US": "Desafio. Eu preciso de um Desafio. \\c[3]- Bar da Areia, \\v[area.beach.name]\\c[0]"
         }
       },
       "name": {
-        "": "Beach Fight"
+        "": "Beach Fight",
+        "en_US": "Luta na Praia"
       },
       "person": {
         "": "Son of the Beach",
         "en_US": "Filho da Praia"
       },
       "description": {
-        "": "A massively powerful ape is on vacation at the beaches of \\v[area.beach.name]. He seems bored from all the relaxation and lack of challenge. He craves some action!"
+        "": "A massively powerful ape is on vacation at the beaches of \\v[area.beach.name]. He seems bored from all the relaxation and lack of challenge. He craves some action!",
+        "en_US": "Um macaco extremamente poderoso está de férias nas praias do \\v[area.beach.name]. Ele parece entediado com toda a tranquilidade e a falta de desafios. Ele quer um pouco de ação!"
       },
       "briefing": {
-        "": "You defeated the \\v[combat.name.beach/ape-beach] and proved that you are the strongest primate on the beach!"
+        "": "You defeated the \\v[combat.name.beach/ape-beach] and proved that you are the strongest primate on the beach!",
+        "en_US": "Você derrotou o \\v[combat.name.beach/ape-beach] e provou que você é o primata mais forte da praia!"
       },
       "tasks": {
         "0": {
@@ -34288,7 +34292,7 @@
     "maroon-tree-defend": {
       "name": {
         "": "Maroon Tree Defender",
-        "en_US": "Defensor da Árvore Castanha"
+        "en_US": "Defensor da Castanheira do Vale"
       },
       "person": {
         "": "Eldress",
@@ -34296,7 +34300,7 @@
       },
       "description": {
         "": "Defend the Maroon Tree from the threat of the sandworms.\n\n",
-        "en_US": "Proteja a Árvore Castanha da ameaça das minhocas da areia.\n\n"
+        "en_US": "Proteja a Castanheira do Vale da ameaça das minhocas da areia.\n\n"
       },
       "briefing": {
         "": "You successfully defended the tree!",
@@ -34306,19 +34310,19 @@
         "0": {
           "task": {
             "": "Enter the cave below the pink-colored \\c[3]Maroon Tree\\c[0] in the east of \\c[3]Maroon Valley\\c[0]",
-            "en_US": "Entre na caverna abaixo da árvore \\c[3]Árvore Castanha\\c[0] no leste do \\c[3]Vale Castanho\\c[0]"
+            "en_US": "Entre na caverna abaixo da árvore \\c[3]Castanheira do Vale\\c[0] no leste do \\c[3]Vale Castanho\\c[0]"
           }
         },
         "1": {
           "task": {
             "": "Defeat the \\c[3]red Sandworm\\c[0] inside \\c[3]Maroon Tree Cave\\c[0]",
-            "en_US": "Derrote a \\c[3]Minhoca vermelha\\c[0] dentro da \\c[3]Caverna da Árvore Castanha\\c[0]"
+            "en_US": "Derrote a \\c[3]Minhoca vermelha\\c[0] dentro da \\c[3]Caverna da Castanheira do Vale\\c[0]"
           }
         },
         "2": {
           "task": {
             "": "Show \\c[3]\\v[item.362.name]\\c[0] to the guard of the Maroon Tree",
-            "en_US": "Mostre o \\c[3]\\v[item.362.name]\\c[0] para o guarda da Árvore Castanha"
+            "en_US": "Mostre o \\c[3]\\v[item.362.name]\\c[0] para o guarda da Castanheira do Vale"
           }
         },
         "3": {
@@ -34811,7 +34815,8 @@
     "bakiTrader-3-brewing_ghosts_1": {
       "hubSettings": {
         "location": {
-          "": "Drink machine need final polish! Seeking finest of \\v[lore.title.seeker]s! \\c[3]- Ba'kii Kum Market\\c[0]"
+          "": "Drink machine need final polish! Seeking finest of \\v[lore.title.seeker]s! \\c[3]- Ba'kii Kum Market\\c[0]",
+          "en_US": "Máquina de bebidas precisa de polimento final! \\c[3]- Mercado de Ba'kii\\c[0]"
         }
       },
       "name": {
@@ -34822,20 +34827,24 @@
         "": "Kney'tehab"
       },
       "description": {
-        "": "Ryda of the \\v[lore.title.faction-shock-baki] wants to upgrade the brewing device to unlock even more recipes! A worthy task for an experienced \\v[lore.title.seeker]!"
+        "": "Ryda of the \\v[lore.title.faction-shock-baki] wants to upgrade the brewing device to unlock even more recipes! A worthy task for an experienced \\v[lore.title.seeker]!",
+        "en_US": "Ryda da \\v[lore.title.faction-shock-baki], quer atualizar a máquina de bebidas para desbloquear mais receitas! Essa é uma tarefa digna de um \\v[lore.title.seeker]!"
       },
       "briefing": {
-        "": "After some exorcism, you have successfully upgraded the brewing device. \\c[3]It is now properly equipped for Fox Sake!\\c[0]"
+        "": "After some exorcism, you have successfully upgraded the brewing device. \\c[3]It is now properly equipped for Fox Sake!\\c[0]",
+        "en_US": "Depois de um certo exorcismo, você conseguiu atualizar a máquina de bebidas. \\c[3]Agora é possível fazer Saquê de Raposa\\c[0]!"
       },
       "tasks": {
         "0": {
           "task": {
-            "": "Talk to \\c[3]Ryda\\c[0] in the \\c[3]\\v[area.heat-village.name] Bazaar building\\c[0]"
+            "": "Talk to \\c[3]Ryda\\c[0] in the \\c[3]\\v[area.heat-village.name] Bazaar building\\c[0]",
+            "en_US": "Fale com \\c[3]Ryda\\c[0] no \\c[3]Prédio do Bazar em \\v[area.heat-village.name]\\c[0]"
           }
         },
         "1": {
           "task": {
-            "": "Get the \\c[3]needed materials\\c[0] to upgrade the device"
+            "": "Get the \\c[3]needed materials\\c[0] to upgrade the device",
+            "en_US": "Colete os \\c[3]materiais necessários\\c[0] para atualizar a máquina"
           }
         },
         "2": {
@@ -34846,12 +34855,14 @@
         },
         "3": {
           "task": {
-            "": "Upgrade the \\c[3]brewing machine\\c[0] in the basement"
+            "": "Upgrade the \\c[3]brewing machine\\c[0] in the basement",
+            "en_US": "Atualize a \\c[3]máquina de bebidas\\c[0] no porão"
           }
         },
         "4": {
           "task": {
-            "": "Report back to \\c[3]Bazaarboss Kney'tehab\\c[0] in the \\c[3]Ba'kii Kum Market\\c[0]"
+            "": "Report back to \\c[3]Bazaarboss Kney'tehab\\c[0] in the \\c[3]Ba'kii Kum Market\\c[0]",
+            "en_US": "Fale com o \\c[3]Chefe do Bazar Kney'tehab\\c[0] no \\c[3]Mercado de Ba'kii\\c[0]"
           }
         }
       }
@@ -38878,13 +38889,13 @@
     "basinLoot1": {
       "name": {
         "": "Loot Gaia's Garden West",
-        "en_US": "Itens do Oeste do Jardim de Gaia"
+        "en_US": "Loots do Oeste do Jardim"
       }
     },
     "basinLoot2": {
       "name": {
         "": "Loot Gaia's Garden East",
-        "en_US": "Itens do Leste do Jardim de Gaia"
+        "en_US": "Loots do Leste do Jardim"
       }
     },
     "basinLoot3": {

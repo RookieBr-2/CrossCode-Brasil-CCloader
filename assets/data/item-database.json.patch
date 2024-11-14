@@ -107,7 +107,7 @@
       },
       "description": {
         "": "Foxy footwear that seems to constantly be at odds with the fabric of the universe.",
-        "en_US": "Calçados de raposa que parecem estar constantemente em desacordo com o tecido do universo."
+        "en_US": "Calçados de raposa que parecem desafiar o tecido do universo."
       }
     },
     "11": {
@@ -157,7 +157,7 @@
       },
       "description": {
         "": "The floppy hat of the Boosi Man. Not really a crown, but don't let that haunt you.",
-        "en_US": "O chapéu frouxo do Boosi Man. Não é realmente uma coroa, mas não se deixe assombrar por isso."
+        "en_US": "O chapéu frouxo do Fantasmão. Não é uma coroa, mas não se assuste."
       }
     },
     "16": {
@@ -277,7 +277,7 @@
       },
       "description": {
         "": "A larger Sandwich, to properly greet the hunger. \\c[2]Heals 25% of max HP\\c[0].",
-        "en_US": "Um sanduíche maior, para saciar devidamente a fome. \\c[2]Cura 25% de HP Máximo\\c[0]."
+        "en_US": "Um sanduíche maior, para saciar a fome. \\c[2]Cura 25% de HP Máximo\\c[0]."
       }
     },
     "28": {
@@ -307,7 +307,7 @@
       },
       "description": {
         "": "Mass-produced, pretty sturdy and shining in the sun. A soldier's cheap bread and butter.",
-        "en_US": "Produzido em massa, muito resistente e brilha no sol. O misto quente barato de um soldado."
+        "en_US": "Armadura resistente e brilhante. A favorita dos soldados."
       }
     },
     "31": {
@@ -407,7 +407,7 @@
       },
       "description": {
         "": "A sandwich family pack made for long journeys. \\c[1]Slow\\c[0], but \\c[2]heals 70% of max HP\\c[0].",
-        "en_US": "Um pacote familiar de sanduíches para viagens longas. \\c[1]Lento\\c[0], mas \\c[2]Cura 70% do HP máx\\c[0]."
+        "en_US": "Um pacote de sanduíches para viagens longas. \\c[1]Lento\\c[0], mas \\c[2]Cura 70% do HP máx\\c[0]."
       }
     },
     "41": {
@@ -457,7 +457,7 @@
       },
       "description": {
         "": "Comfortable sandals which offer little protection but grant a liberating feeling.",
-        "en_US": "Sandálias confortáveis com pouca proteção, mas que emitem uma sensação libertadora."
+        "en_US": "Sandálias confortáveis com pouca proteção, mas que dão uma sensação de liberdade."
       }
     },
     "46": {
@@ -467,7 +467,7 @@
       },
       "description": {
         "": "Symbolize agility, surefootedness and a weakness for moving lights.",
-        "en_US": "Simboliza agilidade, firmeza nos pés e uma fraqueza por luzes em movimento."
+        "en_US": "Simboliza agilidade, firmeza nos pés e fraqueza por luzes em movimento."
       }
     },
     "47": {
@@ -507,7 +507,7 @@
       },
       "description": {
         "": "What seems like a desperate attempt at class can reveal a foe's weak spots.",
-        "en_US": "Parece uma tentativa desesperada de ter classe mas pode revelar os pontos fracos do inimigo."
+        "en_US": "Tenta ter classe, mas revela os pontos fracos do inimigo."
       }
     },
     "51": {
@@ -547,7 +547,7 @@
       },
       "description": {
         "": "Though in bad shape now, it was once a regalia of an Ancient civilization in the desert.",
-        "en_US": "Embora em mau estado agora, foi outrora uma regalia de uma civilização Antiga no deserto."
+        "en_US": "Embora desgastada, foi uma relíquia de uma civilização Antiga no deserto."
       }
     },
     "55": {
@@ -567,7 +567,7 @@
       },
       "description": {
         "": "Small, rusty blade for close quarters. Cheap, yet dangerous.",
-        "en_US": "Lâmina pequena e enferrujada para ambientes fechados. Barato, mas perigoso."
+        "en_US": "Pequena lâmina enferrujada para combate corpo a corpo. Barata, mas perigosa."
       }
     },
     "57": {
@@ -586,7 +586,7 @@
       },
       "description": {
         "": "Based on a mythical beast, this weapon grants regeneration and additional attacks.",
-        "en_US": "Baseada numa besta mítica, esta arma concede regeneração e ataques adicionais."
+        "en_US": "Inspirada por uma besta mítica, oferece regeneração e ataques extras."
       }
     },
     "59": {
@@ -596,7 +596,7 @@
       },
       "description": {
         "": "Heavy plate made from spare metal parts. Offers good protection but limits mobility.",
-        "en_US": "Placa pesada fabricada com peças metálicas de reposição. Oferece boa proteção, mas limita a mobilidade."
+        "en_US": "Placa pesada de metal, oferece boa proteção, mas limita a mobilidade."
       }
     },
     "60": {
@@ -696,7 +696,7 @@
       },
       "description": {
         "": "Hits your body with pure joy on every bite.",
-        "en_US": "Atinge seu corpo com pura alegria em cada mordida."
+        "en_US": "Cada mordida é um puro deleite para seu paladar."
       }
     },
     "70": {
@@ -796,7 +796,7 @@
       },
       "description": {
         "": "Perfect to shortly keep you warm on a cold winter night.",
-        "en_US": "Perfeito para mantê-lo aquecido em breve em uma noite fria de inverno."
+        "en_US": "Perfeito para mantê-lo aquecido em uma noite fria de inverno."
       }
     },
     "80": {
@@ -806,7 +806,7 @@
       },
       "description": {
         "": "Someone must have hit it with a blunt object at high velocity.",
-        "en_US": "Alguém deve ter acertado com um objeto pontudo em alta velocidade."
+        "en_US": "Deve ter sido atingido por um objeto contundente em alta velocidade."
       }
     },
     "81": {
@@ -896,7 +896,7 @@
       },
       "description": {
         "": "Almost tiny drill whose strength depends on the willpower of the user.",
-        "en_US": "Broca quase minúscula, cuja potencia depende da força de vontade do usuário."
+        "en_US": "Broca quase minúscula, cuja potência depende da força de vontade do usuário."
       }
     },
     "90": {
@@ -966,7 +966,7 @@
       },
       "description": {
         "": "These beautiful creatures sparkle azure blue at dawn until the sun sets.",
-        "en_US": "Essas belas criaturas cintilam azul-celeste ao amanhecer até o pôr do sol."
+        "en_US": "Essas belas criaturas brilham na cor azul desde o amanhecer até o pôr do sol."
       }
     },
     "97": {
@@ -1032,7 +1032,7 @@
       },
       "description": {
         "": "Various metal parts. Might look old but could be used to create new equipment.",
-        "en_US": "Várias peças de metal. Parece antigo, mas pode ser usado para criar equipamentos."
+        "en_US": "Parece antiga, mas pode ser usada para novos equipamentos."
       },
       "sources": {
         "0": {
@@ -1080,7 +1080,7 @@
       },
       "description": {
         "": "Ranged weapon, ideal to defend a fortified border against hostile neighbors.",
-        "en_US": "Arma de longo alcance, ideal para defender uma fronteira fortificada contra vizinhos hostis."
+        "en_US": "Arma de longo alcance, ideal para defender uma fronteira contra vizinhos hostis."
       }
     },
     "103": {
@@ -1180,7 +1180,7 @@
       },
       "description": {
         "": "This gauntlet may have seen better days but can still take and dish out a solid beating.",
-        "en_US": "Esta manopla já viu dias melhores, mas ainda pode levar e dar uma surra sólida."
+        "en_US": "Essa manopla já teve dias melhores, mas ainda pode dar uma surra."
       }
     },
     "112": {
@@ -1220,7 +1220,7 @@
       },
       "description": {
         "": "A shining weapon that was once even used to battle among the stars.",
-        "en_US": "Uma arma brilhante que uma vez foi usada até mesmo para lutar entre as estrelas."
+        "en_US": "Uma arma brilhante que já foi usada até mesmo para lutar entre as estrelas."
       }
     },
     "116": {
@@ -1296,11 +1296,11 @@
     "123": {
       "name": {
         "": "Hardrock Plate",
-        "en_US": "Armadura de Rochas"
+        "en_US": "Armadura de Pedra"
       },
       "description": {
         "": "Heavy plate made out of almost unbreakable rock. Emits distinctive sounds on hit.",
-        "en_US": "Uma chapa pesada feita de rocha quase inquebrável. Emite sons distintos ao bater."
+        "en_US": "Armadura pesada feita de pedra quase inquebrável. Emite sons distintos ao bater."
       }
     },
     "124": {
@@ -1360,7 +1360,7 @@
       },
       "description": {
         "": "Someone dropped this mic hard. It's shattered and unusable.",
-        "en_US": "Alguém deixou cair este microfone com força. Está quebrado e inutilizável."
+        "en_US": "Alguém deixou cair este microfone. Está quebrado e inutilizável."
       }
     },
     "130": {
@@ -1518,7 +1518,7 @@
       },
       "description": {
         "": "Scarcely used gloves belonging to a young martial artist, learning an ancient art.",
-        "en_US": "Luvas raramente usadas pertencentes a um jovem artista marcial, aprendendo uma arte milenar."
+        "en_US": "Luvas pouco usadas de um jovem artista marcial."
       }
     },
     "144": {
@@ -1698,7 +1698,7 @@
       },
       "description": {
         "": "An expertly patched tophat. It's not uniquely impressive but at least without holes.",
-        "en_US": "Uma cartola remendada habilmente. Não é excepcionalmente impressionante, mas pelo menos sem buracos."
+        "en_US": "Cartola bem remendada, sem buracos, mas nada notável."
       }
     },
     "162": {
@@ -1728,7 +1728,7 @@
       },
       "description": {
         "": "Worn out sandals, probably of Ancient origin. Still emit some residual aura.",
-        "en_US": "Sandálias gastas, provavelmente de origem Anciã. Ainda emite alguma aura residual."
+        "en_US": "Sandálias gastas, de origem antiga. Ainda emitem alguma aura residual."
       }
     },
     "165": {
@@ -1868,7 +1868,7 @@
       },
       "description": {
         "": "A mix between a palm tree and a pineapple. It might sting when eaten.",
-        "en_US": "Uma mistura entre uma palmeira e um abacaxi. Pode picar quando comido."
+        "en_US": "Uma mistura entre uma palmeira e um abacaxi. Pode arder quando ingerida."
       }
     },
     "179": {
@@ -1968,7 +1968,7 @@
       },
       "description": {
         "": "This inconspicuous rock holds the most durable ore on all of Shadoon.",
-        "en_US": "Esta rocha inocente contém o minério mais durável de toda a Shadoon."
+        "en_US": "Esta rocha simples contém o minério mais durável de toda a Shadoon."
       }
     },
     "188": {
@@ -2216,7 +2216,7 @@
       },
       "description": {
         "": "A huge fin attached to a cap. Helps to keep balance and grants a predatory aura.",
-        "en_US": "Uma enorme barbatana presa a uma touca. Ajuda a manter o equilíbrio e garante uma aura predatória."
+        "en_US": "Grande barbatana presa a uma touca, garante equilíbrio e tem uma aura predatória."
       }
     },
     "209": {
@@ -2236,7 +2236,7 @@
       },
       "description": {
         "": "A lacquered vest, often worn in dry regions. Was named for its sweet smell.",
-        "en_US": "Um colete envernizado, muitas vezes usado em regiões secas. Foi nomeado por seu cheiro doce."
+        "en_US": "Colete de verniz, usado em regiões secas. Foi nomeado por seu cheiro doce."
       }
     },
     "211": {
@@ -2256,7 +2256,7 @@
       },
       "description": {
         "": "Typical headdress of hunters in the desert who are said to be excellent marksmen.",
-        "en_US": "Típica touca de caçadores no deserto que se diz serem excelentes atiradores desportivos."
+        "en_US": "Touca típica de caçadores do deserto, usada por exímios atiradores."
       }
     },
     "213": {
@@ -2266,7 +2266,7 @@
       },
       "description": {
         "": "A fine headscarf blessed with cooling protection to withstand even scorching heat.",
-        "en_US": "Um fino lenço de cabeça abençoado com proteção de resfriamento para resistir até mesmo ao calor abrasador."
+        "en_US": "Fino lenço com proteção refrescante, resistente ao calor extremo."
       }
     },
     "214": {
@@ -2296,7 +2296,7 @@
       },
       "description": {
         "": "Light clothes for covert operations that are made to look strikingly inconspicuous.",
-        "en_US": "Roupas leves para operações secretas, que são feitas para parecerem impressionantemente discretas."
+        "en_US": "Roupas leves para operações secretas, feitas para serem discretas."
       }
     },
     "217": {
@@ -2306,7 +2306,7 @@
       },
       "description": {
         "": "Heavy plate, reinforced with crystals and gems that actively defend against harm.",
-        "en_US": "Armadura pesada, reforçada com cristais e pedras preciosas que tem proteção ativa contra danos."
+        "en_US": "Armadura pesada com cristais e pedras preciosas que oferecem proteção ativa."
       }
     },
     "218": {
@@ -2316,7 +2316,7 @@
       },
       "description": {
         "": "Amazingly soft and comfortable footwear that somehow also manages to be curly.",
-        "en_US": "Calçados incrivelmente macios e confortáveis que, de alguma forma, também conseguem ser encaracolados."
+        "en_US": "Calçados supermacios e confortáveis que ainda conseguem ser encaracolados."
       }
     },
     "219": {
@@ -2326,7 +2326,7 @@
       },
       "description": {
         "": "Heavy boots with extravagant decorations. Reinforce both stance and self-esteem.",
-        "en_US": "Botas pesadas com decorações extravagantes. Reforçam tanto a postura quanto a autoestima."
+        "en_US": "Botas pesadas e extravagantes que reforçam postura e autoestima."
       }
     },
     "220": {
@@ -2362,7 +2362,7 @@
     "223": {
       "name": {
         "": "Western Starfist",
-        "en_US": "Punho Estrelar do Ocidente"
+        "en_US": "Punho do Oeste"
       },
       "description": {
         "": "Gauntlets with excellent armor. Many owners would already be dead without them.",
@@ -2396,7 +2396,7 @@
       },
       "description": {
         "": "A fine, lightly cooked piece of meat that is supposedly not very common.",
-        "en_US": "Um pedaço de carne fina, levemente cozida, que supostamente não é muito comum."
+        "en_US": "Um pedaço de carne fina e levemente cozida, considerada rara."
       }
     },
     "227": {
@@ -2416,7 +2416,7 @@
       },
       "description": {
         "": "Just wearing this band will make enemies drop more Credits in fear.",
-        "en_US": "O simples fato de usar esta faixa fará com que os inimigos deixem cair mais créditos com medo."
+        "en_US": "Com esta faixa, os inimigos deixam cair mais créditos por medo."
       }
     },
     "229": {
@@ -2426,7 +2426,7 @@
       },
       "description": {
         "": "Once used to train a young warrior aiming to be an all mighty hero.",
-        "en_US": "Uma vez usada para treinar um jovem guerreiro com o objetivo de ser um herói todo-poderoso."
+        "en_US": "Usada no treinamento de um jovem guerreiro que buscava se tornar herói."
       }
     },
     "230": {
@@ -2486,7 +2486,7 @@
       },
       "description": {
         "": "Soft and warming socks, hand-knitted from healthy goat-wool by very patient monks.",
-        "en_US": "Meias macias e aquecidas de lã de cabra saudável, tricotadas à mão por monges muito pacientes."
+        "en_US": "Meias macias e quentes de lã de cabra, tricotadas à mão por monges pacientes."
       }
     },
     "236": {
@@ -2496,7 +2496,7 @@
       },
       "description": {
         "": "Pass to access the sacred cave below the \\c[3]Maroon Tree\\c[0].",
-        "en_US": "Passe para acessar a caverna sagrada abaixo da \\c[3]Árvore Castanha\\c[0]."
+        "en_US": "Passe para acessar a caverna sagrada abaixo da \\c[3]Castanheira do Vale\\c[0]."
       }
     },
     "237": {
@@ -2506,7 +2506,7 @@
       },
       "description": {
         "": "A shiny orb that is indeed very shiny. The statue in \\c[3]Ba'kii Kum\\c[0] should react to it.",
-        "en_US": "Uma esfera brilhante que é de fato muito brilhante. A estátua em Ba'kii Kum deve reagir a ela."
+        "en_US": "Uma esfera muito brilhante. A estátua em \\c[3]Ba'kii Kum\\c[0] deve reagir a ela."
       }
     },
     "238": {
@@ -2724,7 +2724,7 @@
       },
       "description": {
         "": "\\v[combat.name.jungle/parrot]s store these in nearby water plants in case they need food.",
-        "en_US": "Ela é guardada por \\v[combat.name.jungle/parrot]s em plantas aquáticas próximas, caso necessitem de alimentos."
+        "en_US": "Colocadas em plantas aquáticas por \\v[combat.name.jungle/parrot]s, caso precisem de alimento."
       }
     },
     "260": {
@@ -2804,7 +2804,7 @@
       },
       "description": {
         "": "Said to be effective against the unnatural. Works just fine against everything though.",
-        "en_US": "Disse ser eficaz contra o não natural. Mas funciona muito bem contra tudo."
+        "en_US": "Dizem que é eficaz contra o sobrenatural. Mas funciona muito bem contra tudo."
       }
     },
     "267": {
@@ -2854,7 +2854,7 @@
       },
       "description": {
         "": "While extremely robust, they are not actually made for titans, so they will fit just fine.",
-        "en_US": "Embora extremamente robustas, elas não são realmente feitas para titãs, portanto, elas se encaixam muito bem."
+        "en_US": "Embora robustas, não são feitas para titãs, então encaixam muito bem."
       }
     },
     "272": {
@@ -3034,7 +3034,7 @@
       },
       "description": {
         "": "Surprisingly big variant of a tasty nut. Opening the shell is half of the fun!",
-        "en_US": "Uma versão incrívelmente grande de uma noz saborosa. Abrir a casca é diversão garantida!"
+        "en_US": "Uma noz enorme e saborosa. Abrir a casca é diversão garantida!"
       }
     },
     "290": {
@@ -3103,7 +3103,7 @@
       },
       "description": {
         "": "A classic hat, popular in cities. This version, though, emits a strange aura.",
-        "en_US": "Um chapéu clássico, popular nas cidades. Essa versão, no entanto, emite uma estranha aura."
+        "en_US": "Chapéu clássico, popular nas cidades, mas emite uma aura estranha."
       }
     },
     "297": {
@@ -3123,7 +3123,7 @@
       },
       "description": {
         "": "Ranged weapon with high precision, used to bring down game with few attacks.",
-        "en_US": "Arma de longo alcance de alta precisão, usada para derrubar o jogo com poucos ataques."
+        "en_US": "Arma de longo alcance de alta precisão, elimina alvos com poucos disparos."
       }
     },
     "299": {
@@ -3142,7 +3142,7 @@
       },
       "description": {
         "": "According to a translator it means \"honor\". In any case it keeps the wielder healthy.",
-        "en_US": "Segundo um tradutor, isso significa \"honra\". Em qualquer caso, mantém o portador saudável."
+        "en_US": "Segundo um tradutor, isso significa \"honra\" e mantém o portador saudável."
       }
     },
     "301": {
@@ -3192,7 +3192,7 @@
       },
       "description": {
         "": "Heavy plate with built-in life support system that protects against the elements.",
-        "en_US": "Armadura pesada com sistema de suporte de vida integrado que protege contra os elementos."
+        "en_US": "Armadura robusta com suporte de vida integrado que protege contra os elementos."
       }
     },
     "306": {
@@ -3202,7 +3202,7 @@
       },
       "description": {
         "": "Weird looking clothes made from a mass of finely intertwined roots.",
-        "en_US": "Roupas de aparência estranha, feitas de raízes finamente tecidas."
+        "en_US": "Roupa de aparência estranha, feita de raízes finamente tecidas."
       }
     },
     "307": {
@@ -3222,7 +3222,7 @@
       },
       "description": {
         "": "Always looks slightly too big for your body. Still a favorite of clever investigators.",
-        "en_US": "Parece sempre um pouco grande demais para o corpo. Ainda é um dos preferidos dos investigadores inteligentes."
+        "en_US": "Parece um pouco grande, mas ainda é um dos preferidos pelos investigadores inteligentes."
       }
     },
     "309": {
@@ -3232,7 +3232,7 @@
       },
       "description": {
         "": "They protect both the feet and lower legs. The natural foes of kicks to the shin.",
-        "en_US": "Eles protegem os pés e a parte inferior das pernas. Os inimigos naturais dos chutes na canela"
+        "en_US": "Protegem pés e pernas, ideais contra chutes na canela."
       }
     },
     "310": {
@@ -3272,7 +3272,7 @@
       },
       "description": {
         "": "Solid boots, made to explore even the deepest part of an unknown world.",
-        "en_US": "Botas sólidas, feitas para explorar até mesmo a parte mais profunda de um mundo desconhecido."
+        "en_US": "Botas sólidas, feitas para explorar os confins de um mundo desconhecido."
       }
     },
     "314": {
@@ -3282,7 +3282,7 @@
       },
       "description": {
         "": "Sadly you have no means to access the mass of information stored on this weird object.",
-        "en_US": "Infelizmente, você não tem como acessar a massa de informações armazenadas neste estranho objeto."
+        "en_US": "Infelizmente, não é possível acessar as informações neste objeto estranho."
       }
     },
     "315": {
@@ -3371,7 +3371,7 @@
       },
       "description": {
         "": "Infused with infinite power, this weapon grows ever stronger with its user.",
-        "en_US": "Infundida de infinito poder, esta arma cresce cada vez mais forte com seu usuário."
+        "en_US": "Infundida com poder infinito, esta arma fica mais forte com seu usuário."
       }
     },
     "324": {
@@ -3421,7 +3421,7 @@
       },
       "description": {
         "": "Once owned by an eastern prince, it's now old and has lost all color.",
-        "en_US": "Antes propriedade de um príncipe oriental, agora é velha e perdeu toda a cor."
+        "en_US": "Pertenceu a um príncipe oriental, agora é velha e perdeu toda a cor."
       }
     },
     "329": {
@@ -3450,7 +3450,7 @@
       },
       "description": {
         "": "A small but well mixed package of different snacks for handfood on the go.",
-        "en_US": "Uma pequena embalagem de diferentes petiscos para a alimentação rápida numa viagem."
+        "en_US": "Pacote pequeno de petiscos para uma refeição rápida durante a viagem."
       }
     },
     "332": {
@@ -3460,7 +3460,7 @@
       },
       "description": {
         "": "It's a branch from a tree! Truly the treasure of legends.",
-        "en_US": "É um ramo de uma árvore! Verdadeiramente o tesouro das lendas."
+        "en_US": "É um ramo de uma árvore! O verdadeiro tesouro das lendas."
       }
     },
     "333": {
@@ -3470,7 +3470,7 @@
       },
       "description": {
         "": "Large weapon of massive size. It is very huge and packs an immensely gigantic punch.",
-        "en_US": "Grande arma de tamanho volumoso. É muito grande e tem um soco imensamente gigantesco."
+        "en_US": "Uma arma gigante com golpes absolutamente gigantescos."
       }
     },
     "334": {
@@ -3490,7 +3490,7 @@
       },
       "description": {
         "": "A great variety of dishes, served cold on a large plate. \\c[1]Slow\\c[0].",
-        "en_US": "Uma grande variedade de pratos, servidos frios em um prato grande. \\c[1]Lento\\c[0]."
+        "en_US": "Uma variedade de pratos frios servidos em um grande prato. \\c[1]Lento\\c[0]."
       }
     },
     "336": {
@@ -3550,7 +3550,7 @@
       },
       "description": {
         "": "Armor crafted from chests of any kind. Precious valuables naturally radiate towards it.",
-        "en_US": "Armadura feita de vários baús que atrai objetos de valor preciosos."
+        "en_US": "Armadura feita de vários baús que atrai objetos preciosos."
       }
     },
     "342": {
@@ -3570,7 +3570,7 @@
       },
       "description": {
         "": "A most convenient bomb emitting a dense smoke. Use to escape bothersome guards.",
-        "en_US": "Uma bomba muito conveniente que emite uma fumaça densa. Utilizada para escapar de guardas incômodos."
+        "en_US": "Bomba que emite uma fumaça densa, útil para fugir de guardas."
       }
     },
     "344": {
@@ -3676,11 +3676,11 @@
     "354": {
       "name": {
         "": "Wrap Roll",
-        "en_US": "Panqueca de Embrulho"
+        "en_US": "Massa Enrolada"
       },
       "description": {
         "": "A wrap inside a roll which is a wrap too. Confusing but tasty nonetheless.",
-        "en_US": "Um embrulho dentro de uma panqueca que também é um embrulho. Confuso, mas saboroso, no entanto."
+        "en_US": "Uma massa enrolada dentro de uma massa enrolada. Complicado, mas é delicioso."
       }
     },
     "355": {
@@ -3750,7 +3750,7 @@
       },
       "description": {
         "": "This bag is seemingly infinitely deep. Many Adventurers used them on their journeys.",
-        "en_US": "Esta bolsa é aparentemente infinitamente profunda. Muitos aventureiros a utilizaram em suas viagens."
+        "en_US": "Bolsa com profundidade infinita, popular entre aventureiros em suas jornadas."
       }
     },
     "362": {
@@ -3800,7 +3800,7 @@
       },
       "description": {
         "": "Molten ice, held in some sort of container. Dangerous in large volumes! \\c[3]Fast\\c[0].",
-        "en_US": "Gelo derretido, mantido em algum tipo de recipiente. Perigoso em grandes volumes! \\c[3]Rápido\\c[0]."
+        "en_US": "Gelo derretido em um recipiente, pode ser perigoso em excesso! \\c[3]Rápido\\c[0]."
       }
     },
     "367": {
@@ -3856,41 +3856,41 @@
     "372": {
       "name": {
         "": "Brewing Kit: Bear",
-        "en_US": "Kit de Bebida: Urso"
+        "en_US": "Kit de Urso"
       },
       "description": {
         "": "Ingredients to brew \"Bear Beer\". Use at the Brewing Machine in Ba'kii Kum.",
-        "en_US": "Ingredientes para fabricar \"Cerveja de Urso\". Use na Máquina de Bebidas em Ba'kii Kum."
+        "en_US": "Ingredientes para fabricar \"Cerveja de Urso\". Use na Máquina de Bebidas."
       }
     },
     "373": {
       "name": {
         "": "Brewing Kit: Crab",
-        "en_US": "Kit de Bebida: Caranguejo"
+        "en_US": "Kit de Caranguejo"
       },
       "description": {
         "": "Ingredients to brew \"Crab Mead\". Use at the Brewing Machine in Ba'kii Kum.",
-        "en_US": "Ingredientes para fabricar \"Hidromel de Caranguejo\". Use na Máquina de Bebidas em Ba'kii Kum."
+        "en_US": "Ingredientes para fabricar \"Hidromel de Caranguejo\". Use na Máquina de Bebidas."
       }
     },
     "374": {
       "name": {
         "": "Brewing Kit: Fox",
-        "en_US": "Kit de Bebida: Raposa"
+        "en_US": "Kit de Raposa"
       },
       "description": {
         "": "Ingredients to brew \"Fox Sake\". Use at the Brewing Machine in Ba'kii Kum.",
-        "en_US": "Ingredientes para fabricar \"Saquê de Raposa\". Use na Máquina de Bebidas em Ba'kii Kum."
+        "en_US": "Ingredientes para fabricar \"Saquê de Raposa\". Use na Máquina de Bebidas."
       }
     },
     "375": {
       "name": {
         "": "Brewing Kit: Whale",
-        "en_US": "Kit de Bebida: Baleia"
+        "en_US": "Kit de Baleia"
       },
       "description": {
         "": "Ingredients to brew \"Whale Wine\". Use at the Brewing Machine in Ba'kii Kum.",
-        "en_US": "Ingredientes para fabricar \"Vinho de Baleia\". Use na Máquina de Bebidas em Ba'kii Kum."
+        "en_US": "Ingredientes para fabricar \"Vinho de Baleia\". Use na Máquina de Bebidas."
       }
     },
     "376": {
@@ -3920,7 +3920,7 @@
       },
       "description": {
         "": "A book belonging to an old man you traded with. It mentions \\c[3]Sapphire Ridge\\c[0].",
-        "en_US": "Um livro pertencente a um homem velho com quem você negociou. Ele menciona a \\c[3]Serra da Safira\\c[0]."
+        "en_US": "Um livro de um velho com quem você negociou. Ele menciona a \\c[3]Serra da Safira\\c[0]."
       }
     },
     "379": {
@@ -3956,11 +3956,11 @@
     "382": {
       "name": {
         "": "Rising Super Star",
-        "en_US": "Super Estrela Ascendente"
+        "en_US": "Super Estrela"
       },
       "description": {
         "": "A delicious sandwich snack for every Kawaii Gun Jumper.",
-        "en_US": "Um delicioso lanche de sanduíche para cada Kawaii Gun Jumper."
+        "en_US": "Um delicioso sanduíche para cada Kawaii Gun Jumper."
       }
     },
     "383": {
@@ -3970,7 +3970,7 @@
       },
       "description": {
         "": "This grass obtains its blue tint thanks to the rare nutrients found in \\v[area.forest.name].",
-        "en_US": "Essa grama obtém sua tonalidade azul graças aos raros nutrientes encontrados na \\v[area.forest.name]."
+        "en_US": "Essa grama tem tonalidade azul por causa dos raros nutrientes da \\v[area.forest.name]."
       }
     },
     "384": {
@@ -4090,7 +4090,7 @@
       },
       "description": {
         "": "A weapon that is as beautiful as it is dangerous. Swings create a satisfying blur.",
-        "en_US": "Uma arma que é tão bela quanto perigosa. Os balanços criam um desfoque satisfatório."
+        "en_US": "Uma arma que é tão bela quanto perigosa. Os ataques criam um desfoque satisfatório."
       }
     },
     "395": {
@@ -4120,7 +4120,7 @@
       },
       "description": {
         "": "Empowers your sight with lasers! Not as deadly as it sounds but still very effective.",
-        "en_US": "Dê poder à sua visão com lasers! Não é tão mortal quanto parece, mas ainda assim muito eficaz."
+        "en_US": "Dê poder à sua visão com lasers! Não é mortal, mas funciona bem."
       }
     },
     "398": {
@@ -4150,7 +4150,7 @@
       },
       "description": {
         "": "These shiny boots keep your feet as indestructible as the bridges they walk on!",
-        "en_US": "Essas botas brilhantes mantêm seus pés tão indestrutíveis quanto as pontes sobre as quais elas andam!"
+        "en_US": "Botas brilhantes que tornam seus pés tão indestrutíveis quanto as pontes laser!"
       }
     },
     "401": {
@@ -4200,7 +4200,7 @@
       },
       "description": {
         "": "This shell is used as metal coating to enhance a weapon's durability.",
-        "en_US": "Esta concha é usada como revestimento metálico para aumentar a durabilidade de uma arma."
+        "en_US": "Concha usada como revestimento para maior durabilidade da arma."
       }
     },
     "406": {
@@ -4269,7 +4269,7 @@
       },
       "description": {
         "": "A versatile tool used for cutting, cooking, killing... a true lifesaver and -taker!",
-        "en_US": "Uma ferramenta versátil utilizada para cortar, cozinhar, matar... um verdadeiro salva-vidas!"
+        "en_US": "Ferramenta versátil para cortar, cozinhar e matar... ela salva e tira vidas!"
       }
     },
     "413": {
@@ -4289,7 +4289,7 @@
       },
       "description": {
         "": "An armored fist that is very reliable. Might be the reason for Pandza's lack of arms.",
-        "en_US": "Um punho blindado que é muito confiável. Talvez seja a razão pela qual os Pandzas não tenham braços."
+        "en_US": "Punho blindado e bem confiável. Vai ver é por isso que os Pandzas não têm braços."
       }
     },
     "415": {
@@ -4309,7 +4309,7 @@
       },
       "description": {
         "": "Extremely heavy body armor with twice the expected plating. Almost impenetrable.",
-        "en_US": "Armadura corporal extremamente pesada com o dobro do revestimento esperado. Quase impenetrável."
+        "en_US": "Armadura corporal pesada, com o dobro do revestimento. Quase impenetrável."
       }
     },
     "417": {
@@ -4319,7 +4319,7 @@
       },
       "description": {
         "": "Footwear sewn together from some of the sturdiest plants of nature.",
-        "en_US": "Calçados costurados juntos de algumas das plantas mais robustas da natureza."
+        "en_US": "Calçados costurados com algumas das plantas mais robustas da natureza."
       }
     },
     "418": {
@@ -4389,7 +4389,7 @@
       },
       "description": {
         "": "Arm protection preferred by sages and philosophers that saw a life of conflict.",
-        "en_US": "Proteção de braços preferida por sábios e filósofos que viram uma vida de conflito."
+        "en_US": "Proteção para os braços, preferida por sábios e filósofos que enfrentaram conflitos."
       }
     },
     "425": {
@@ -4470,7 +4470,7 @@
       },
       "description": {
         "": "Polished arm protection that was traditionally used by young heroes of legend.",
-        "en_US": "Proteção polida dos braços que era tradicionalmente usada por jovens heróis da lenda."
+        "en_US": "Proteção dos braços, tradicionalmente usada por heróis jovens da lenda."
       }
     },
     "433": {
@@ -4480,7 +4480,7 @@
       },
       "description": {
         "": "Light protective gear for the lower arms that is studded with nasty thorns.",
-        "en_US": "Equipamento de proteção leve para os antebraços cravejado de espinhos nojentos."
+        "en_US": "Proteção leve para os antebraços, cheia de espinhos malignos."
       }
     },
     "434": {
@@ -4500,7 +4500,7 @@
       },
       "description": {
         "": "A token given to you by a golden bug. It's a golden bug, just smaller... and golden.",
-        "en_US": "Um emblema dado a você por um inseto dourado. É um bicho dourado, apenas menor... e dourado."
+        "en_US": "Emblema dado por um inseto dourado. É só um bichinho menor e dourado."
       }
     },
     "436": {
@@ -4530,7 +4530,7 @@
       },
       "description": {
         "": "An extremely rare weapon created by a paramilitary organization of unknown origin.",
-        "en_US": "Uma arma extremamente rara, criada por uma organização paramilitar de origem desconhecida."
+        "en_US": "Arma rara, criada por uma organização paramilitar desconhecida"
       }
     },
     "439": {
@@ -4979,7 +4979,7 @@
       },
       "description": {
         "": "Protective headgear of thick fabric with highly advanced heating regulators.",
-        "en_US": "Capacete protetor de tecido grosso com reguladores de aquecimento altamente avançados."
+        "en_US": "Capacete de tecido grosso, equipado com reguladores térmicos avançados."
       }
     },
     "471": {
@@ -4989,7 +4989,7 @@
       },
       "description": {
         "": "A forcefield generator encases the head in a protective and relaxing bubble.",
-        "en_US": "Um gerador de campo de força encerra a cabeça em uma bolha protetora e relaxante."
+        "en_US": "Gerador de campo de força que envolve a cabeça em uma bolha relaxante."
       }
     },
     "472": {
@@ -4999,7 +4999,7 @@
       },
       "description": {
         "": "Headgear that empowers its user with powerful generators while creating heat.",
-        "en_US": "Capacete que capacita seu usuário com geradores potentes enquanto cria calor."
+        "en_US": "Capacete que fortalece seu usuário com geradores potentes enquanto cria calor."
       }
     },
     "473": {
@@ -5009,7 +5009,7 @@
       },
       "description": {
         "": "State-of-the-art visor that was custom-tailored to the needs of Trackwalker expeditions.",
-        "en_US": "Viseira de última geração que foi customizada para as necessidades das expedições da Trilha."
+        "en_US": "Visor de última geração, projetado para as expedições da Trilha."
       }
     },
     "474": {
@@ -5019,7 +5019,7 @@
       },
       "description": {
         "": "Fast weapon that performs exceptionally with hit and run tactics.",
-        "en_US": "Uma arma rápida que é excepcionalmente adequada para situações de ataque surpresa."
+        "en_US": "Arma rápida, ideal para ataques surpresa."
       }
     },
     "475": {
@@ -5029,7 +5029,7 @@
       },
       "description": {
         "": "This huge fist was created from the hardest materials and is said to be indestructible.",
-        "en_US": "Este enorme punho foi criado a partir dos materiais mais duros e é dito ser indestrutível."
+        "en_US": "Feito com materiais duros, este punho colossal é indestrutível."
       }
     },
     "476": {
@@ -5039,7 +5039,7 @@
       },
       "description": {
         "": "A long-ranged weapon, perfectly refined to destroy targets far, far away.",
-        "en_US": "Arma à distância perfeitamente equilibrada para atingir até mesmo alvos muito distantes."
+        "en_US": "Arma de longo alcance, ideal para atingir alvos distantes."
       }
     },
     "477": {
@@ -5059,7 +5059,7 @@
       },
       "description": {
         "": "Recently developed vest for elite explorers, equipped with high-grade survival features.",
-        "en_US": "Colete para exploradores de elite, equipado com características de sobrevivência de alta qualidade."
+        "en_US": "Colete de elite para exploradores, com recursos de sobrevivência de alta qualidade."
       }
     },
     "479": {
@@ -5069,7 +5069,7 @@
       },
       "description": {
         "": "Highly advanced heavy plate armor that repels hits with explosive force.",
-        "en_US": "Armadura de placa pesada altamente avançada, que repele golpes com força explosiva."
+        "en_US": "Armadura pesada, capaz de repelir ataques com força explosiva."
       }
     },
     "480": {
@@ -5079,7 +5079,7 @@
       },
       "description": {
         "": "Wide garment, dyed in an unsettling reddish color. Emits a weird kind of energy.",
-        "en_US": "Veste larga, tingida com uma cor avermelhada inquietante. Emite um tipo estranho de energia."
+        "en_US": "Veste larga, tingida de vermelho inquietante, que emite uma energia estranha."
       }
     },
     "481": {
@@ -5089,7 +5089,7 @@
       },
       "description": {
         "": "Elegant shoes favored by agile gunslingers. Allow for fast movement in firefights.",
-        "en_US": "Sapatos elegantes, preferidos por pistoleiros ágeis. Permitem movimentos rápidos em tiroreios."
+        "en_US": "Sapatos elegantes que favorecem pistoleiros rápidos em tiroteios."
       }
     },
     "482": {
@@ -5105,11 +5105,11 @@
     "483": {
       "name": {
         "": "Mistwalkers",
-        "en_US": "Caminhantes da Névoa"
+        "en_US": "Viajantes da Névoa"
       },
       "description": {
         "": "Almost weightless boots that are often used by skilled agents, only known from stories.",
-        "en_US": "Botas quase sem peso que são frequentemente usadas por agentes habilidosos. Pelo menos é o que eles dizem."
+        "en_US": "Botas leves, usadas por agentes habilidosos, pelo menos é o que dizem."
       }
     },
     "484": {
@@ -5257,7 +5257,7 @@
       },
       "description": {
         "": "A tiny pulsing globe. Be careful not to \"go faster than the music\".",
-        "en_US": "Um pequeno globo pulsante. Tenha cuidado para não \"ir mais rápido que a música\"."
+        "en_US": "Um globo pulsante. Cuidado para não \"ir mais rápido que a música\"."
       }
     },
     "496": {
@@ -5296,7 +5296,7 @@
       },
       "description": {
         "": "An ancient coin-like token that bears images of primitive humans from old times.",
-        "en_US": "Uma antigo emblema em forma de moeda que traz imagens de humanos primitivos dos tempos antigos."
+        "en_US": "Antigo emblema em forma de moeda com imagens de humanos primitivos."
       }
     },
     "500": {
@@ -5356,7 +5356,7 @@
       },
       "description": {
         "": "Barely controllable, formless weapon that seems to exist in several places at once.",
-        "en_US": "Arma pouco controlável, sem forma, que parece existir em vários lugares ao mesmo tempo."
+        "en_US": "Arma instável, sem forma, presente em vários lugares ao mesmo tempo."
       }
     },
     "505": {
@@ -5376,7 +5376,7 @@
       },
       "description": {
         "": "Based on a mythical beast, this veil grants adeptness in slowly weakening foes.",
-        "en_US": "Baseado em uma besta mítica, este véu garante a habilidade em enfraquecer lentamente os inimigos."
+        "en_US": "Baseado em uma besta mítica, este véu enfraquece lentamente os inimigos."
       }
     },
     "507": {
@@ -5386,7 +5386,7 @@
       },
       "description": {
         "": "Based on a mythical beast, this vest grants exceptional aim on the move.",
-        "en_US": "Baseado em uma besta mítica, este colete confere uma precisão excepcional de movimento."
+        "en_US": "Inspirado por uma besta mítica, este colete garante movimento preciso."
       }
     },
     "508": {
@@ -5405,7 +5405,7 @@
       },
       "description": {
         "": "Used to unify chests of all different material, forms and sizes into multi-purpose chests.",
-        "en_US": "Utilizado para unificar baús de todos os diferentes materiais, formas e tamanhos em baús multiuso."
+        "en_US": "Usado para unificar baús de todos os tipos em modelos versáteis."
       }
     },
     "510": {
@@ -5415,7 +5415,7 @@
       },
       "description": {
         "": "Dress spun from living thread that forms a nigh symbiontic relationship with its wearer.",
-        "en_US": "Vestido fiado por um fio vivo que forma uma relação quase simbiótica com seu detentor."
+        "en_US": "Vestido feito de fio vivo, criando uma relação simbiótica com quem o usa."
       }
     },
     "511": {
@@ -5425,7 +5425,7 @@
       },
       "description": {
         "": "This container transcends infinity and can preserve anything until the end of time.",
-        "en_US": "Este recipiente transcende o infinito e pode preservar qualquer coisa até o fim dos tempos."
+        "en_US": "Este recipiente transcende o infinito, guardando tudo para sempre."
       }
     },
     "512": {
@@ -5504,7 +5504,7 @@
       },
       "description": {
         "": "Robust footwear that somehow stimulates tense concentration.",
-        "en_US": "Calçados robustos que, de alguma forma, estimulam a concentração tensa."
+        "en_US": "Botas resistentes que, de alguma forma, estimulam a concentração ansiosa."
       }
     },
     "519": {
@@ -5543,17 +5543,17 @@
       },
       "description": {
         "": "Created by masterful craftsmen, this curious device helps to achieve a healthy posture.",
-        "en_US": "Criado por mestres artesãos, este curioso dispositivo ajuda a alcançar uma postura saudável."
+        "en_US": "Feito por mestres artesãos, ajuda a melhorar a postura.."
       }
     },
     "523": {
       "name": {
         "": "Killing Dress",
-        "en_US": "Vestido de Matança"
+        "en_US": "Vestido Mortal"
       },
       "description": {
         "": "Fine suit, tailored to always adapt for maximum professionalism in every situation.",
-        "en_US": "Traje fino, feito sob medida para sempre se adaptar para o máximo profissionalismo em cada situação."
+        "en_US": "Traje elegante, adaptável para máxima eficiência profissional"
       }
     },
     "524": {
@@ -5583,7 +5583,7 @@
       },
       "description": {
         "": "Once white, it turned deeply red by absorbing blood and murderous intent.",
-        "en_US": "Uma vez branco, ele ficou profundamente vermelho ao absorver sangue e intenções assassinas."
+        "en_US": "Antes branca, tornou-se vermelha ao absorver sangue e intenções assassinas."
       }
     },
     "527": {
@@ -5633,7 +5633,7 @@
       },
       "description": {
         "": "Streamlined protective gear, created for full-frontal assaults.",
-        "en_US": "Equipamento de proteção aerodinâmico, criado para investidas frontais completas."
+        "en_US": "Equipamento de proteção aerodinâmico projetado para ataques frontais."
       }
     },
     "532": {
@@ -5683,7 +5683,7 @@
       },
       "description": {
         "": "Highly-advanced footwear that magnifies one's power at the cost of quicker exhaustion.",
-        "en_US": "Calçados altamente avançados que ampliam a potência à custa de um esgotamento mais rápido."
+        "en_US": "Calçados avançados, que aumentam a potência, mas aceleram o cansaço."
       }
     },
     "537": {
@@ -5707,7 +5707,9 @@
     },
     "539": {
       "name": {
-        "": "Red Liz"
+        "": "Red Liz",
+        "en_US": "Dragonita"
+
       },
       "description": {
         "": "A dragon flying at your side even in the darkest of times.",
@@ -5913,7 +5915,7 @@
     "560": {
       "name": {
         "": "Ku'lero Key",
-        "en_US": "Chave Ku'lero"
+        "en_US": "Chave de Ku'lero"
       },
       "description": {
         "": "A regular key for the \\c[3]\\v[area.final-dng.name]\\c[0].",
@@ -5957,7 +5959,7 @@
       },
       "description": {
         "": "These giant cones never seem to grow into the same size as their violet kin.",
-        "en_US": "Estes cones gigantes nunca parecem crescer no mesmo tamanho que seus parentes violetas."
+        "en_US": "Esses cones gigantes não parecem estar ficando tão grandes quanto os cones roxos."
       }
     },
     "565": {
@@ -6027,7 +6029,7 @@
       },
       "description": {
         "": "A forcefield generator encases the head in a protective and relaxing bubble. \\i[ascended]",
-        "en_US": "Um gerador de campo de força encerra a cabeça em uma bolha protetora e relaxante. \\i[ascended]"
+        "en_US": "Gerador de campo de força que envolve a cabeça em uma bolha relaxante. \\i[ascended]"
       }
     },
     "572": {
@@ -6037,17 +6039,17 @@
       },
       "description": {
         "": "Headgear that empowers its user with powerful generators while creating heat. \\i[ascended]",
-        "en_US": "Capacete que capacita seu usuário com geradores potentes enquanto cria calor. \\i[ascended]"
+        "en_US": "Capacete que fortalece seu usuário com geradores potentes enquanto cria calor. \\i[ascended]"
       }
     },
     "573": {
       "name": {
         "": "Trackwalker Visor+",
-        "en_US": "Visor do Andarilho"
+        "en_US": "Visor do Andarilho+"
       },
       "description": {
         "": "State-of-the-art visor, custom-tailored to the needs of Trackwalker expeditions. \\i[ascended]",
-        "en_US": "Viseira de última geração que foi customizada para as necessidades das expedições da Trilha. \\i[ascended]"
+        "en_US": "Visor de última geração, projetado para as expedições da Trilha. \\i[ascended]"
       }
     },
     "574": {
@@ -6057,7 +6059,7 @@
       },
       "description": {
         "": "Based on a mythical beast, this veil grants adeptness in slowly weakening foes. \\i[ascended]",
-        "en_US": "Baseado em uma besta mítica, este véu garante a habilidade em enfraquecer lentamente os inimigos. \\i[ascended]"
+        "en_US": "Baseado em uma besta mítica, este véu enfraquece lentamente os inimigos. \\i[ascended]"
       }
     },
     "575": {
@@ -6067,7 +6069,7 @@
       },
       "description": {
         "": "Once white, it turned deeply red by absorbing blood and murderous intent. \\i[ascended]",
-        "en_US": "Uma vez branco, ele ficou profundamente vermelho ao absorver sangue e intenções assassinas. \\i[ascended]"
+        "en_US": "Antes branca, tornou-se vermelha ao absorver sangue e intenções assassinas. \\i[ascended]"
       }
     },
     "576": {
@@ -6087,7 +6089,7 @@
       },
       "description": {
         "": "Fast weapon that performs exceptionally with hit and run tactics. \\i[ascended]",
-        "en_US": "Uma arma rápida que é excepcionalmente adequada para situações de ataque surpresa. \\i[ascended]"
+        "en_US": "Arma rápida, ideal para ataques surpresa. \\i[ascended]"
       }
     },
     "578": {
@@ -6097,7 +6099,7 @@
       },
       "description": {
         "": "Huge fist, created from the hardest materials and said to be indestructible. \\i[ascended]",
-        "en_US": "Este enorme punho foi criado a partir dos materiais mais duros e é dito ser indestrutível. \\i[ascended]"
+        "en_US": "Feito com materiais duros, este punho colossal é indestrutível. \\i[ascended]"
       }
     },
     "579": {
@@ -6117,7 +6119,7 @@
       },
       "description": {
         "": "A long-ranged weapon, perfectly refined to destroy targets far, far away. \\i[ascended]",
-        "en_US": "Arma à distância perfeitamente equilibrada para atingir até mesmo alvos muito distantes. \\i[ascended]"
+        "en_US": "Arma de longo alcance, ideal para atingir alvos distantes. \\i[ascended]"
       }
     },
     "581": {
@@ -6127,7 +6129,7 @@
       },
       "description": {
         "": "Extremely rare weapon created by a paramilitary organization of unknown origin. \\i[ascended]",
-        "en_US": "Uma arma extremamente rara, criada por uma organização paramilitar de origem desconhecida. \\i[ascended]"
+        "en_US": "Arma rara, criada por uma organização paramilitar desconhecida \\i[ascended]"
       }
     },
     "582": {
@@ -6137,7 +6139,7 @@
       },
       "description": {
         "": "Based on a mythical beast, it grants regeneration and additional attacks. \\i[ascended]",
-        "en_US": "Com base em uma besta mítica, ela garante a regeneração e ataques adicionais. \\i[ascended]"
+        "en_US": "Inspirada por uma besta mítica, oferece regeneração e ataques extras. \\i[ascended]"
       }
     },
     "583": {
@@ -6157,7 +6159,7 @@
       },
       "description": {
         "": "Recently developed vest for elite explorers, equipped with quality survival features. \\i[ascended]",
-        "en_US": "Colete para exploradores de elite, equipado com características de sobrevivência de alta qualidade. \\i[ascended]"
+        "en_US": "Colete de elite para exploradores, com recursos de sobrevivência de alta qualidade. \\i[ascended]"
       }
     },
     "585": {
@@ -6167,7 +6169,7 @@
       },
       "description": {
         "": "Highly advanced heavy plate armor that repels hits with explosive force. \\i[ascended]",
-        "en_US": "Armadura de placa pesada altamente avançada, que repele golpes com força explosiva. \\i[ascended]"
+        "en_US": "Armadura pesada, capaz de repelir ataques com força explosiva. \\i[ascended]"
       }
     },
     "586": {
@@ -6177,17 +6179,17 @@
       },
       "description": {
         "": "Based on a mythical beast, this vest grants exceptional aim on the move. \\i[ascended]",
-        "en_US": "Baseado em uma besta mítica, este colete confere uma precisão excepcional de movimento. \\i[ascended]"
+        "en_US": "Inspirado por uma besta mítica, este colete garante movimento preciso. \\i[ascended]"
       }
     },
     "587": {
       "name": {
         "": "Killing Dress+",
-        "en_US": "Vestido de Matança+"
+        "en_US": "Vestido Mortal+"
       },
       "description": {
         "": "Fine suit, tailored to always adapt for maximum professionalism in every situation. \\i[ascended]",
-        "en_US": "Traje fino, feito sob medida para sempre se adaptar para o máximo profissionalismo em cada situação. \\i[ascended]"
+        "en_US": "Traje elegante, adaptável para máxima eficiência profissional \\i[ascended]"
       }
     },
     "588": {
@@ -6197,7 +6199,7 @@
       },
       "description": {
         "": "Streamlined protective gear, created for full-frontal assaults. \\i[ascended]",
-        "en_US": "Equipamento de proteção aerodinâmico, criado para investidas frontais completas. \\i[ascended]"
+        "en_US": "Equipamento de proteção aerodinâmico projetado para ataques frontais. \\i[ascended]"
       }
     },
     "589": {
@@ -6236,7 +6238,7 @@
       },
       "description": {
         "": "Elegant shoes favored by agile gunslingers. Allow for fast movement in firefights. \\i[ascended]",
-        "en_US": "Sapatos elegantes, preferido por pistoleiros ágeis. Permitem movimentos rápidos em tiroteios. \\i[ascended]"
+        "en_US": "Sapatos elegantes que favorecem pistoleiros rápidos em tiroteios. \\i[ascended]"
       }
     },
     "593": {
@@ -6252,11 +6254,11 @@
     "594": {
       "name": {
         "": "Mistwalkers+",
-        "en_US": "Caminhantes da Névoa+"
+        "en_US": "Viajantes da Névoa+"
       },
       "description": {
         "": "Almost weightless - often used by skilled agents, only known from stories. \\i[ascended]",
-        "en_US": "Botas quase sem peso que são frequentemente usadas por agentes habilidosos. \\i[ascended]"
+        "en_US": "Botas leves, usadas por agentes habilidosos, pelo menos é o que dizem. \\i[ascended]"
       }
     },
     "595": {
@@ -6285,7 +6287,7 @@
       },
       "description": {
         "": "Created by masterful craftsmen, helps to achieve a healthy posture. \\i[ascended]",
-        "en_US": "Criado por mestres artesãos, este curioso dispositivo ajuda a alcançar uma postura saudável. \\i[ascended]"
+        "en_US": "Feito por mestres artesãos, ajuda a melhorar a postura. \\i[ascended]"
       }
     },
     "598": {
@@ -6345,7 +6347,7 @@
       },
       "description": {
         "": "Highly-advanced footwear, magnifying one's power at the cost of quicker exhaustion. \\i[ascended]",
-        "en_US": "Calçados altamente avançados, ampliando a potência ao custo de uma exaustão mais rápida. \\i[ascended]"
+        "en_US": "Calçados avançados, que aumentam a potência, mas aceleram o cansaço. \\i[ascended]"
       }
     },
     "604": {
@@ -6425,7 +6427,7 @@
       },
       "description": {
         "": "Ideal for those who aspire to move at very high velocities. \\i[ascended]",
-        "en_US": "Ideal para aqueles que querem se mover com uma velocidade muito alta. \\i[ascended]"
+        "en_US": "Feito para quem busca se mover com agilidade e rapidez. \\i[ascended]"
       }
     },
     "612": {
@@ -6523,7 +6525,7 @@
       },
       "description": {
         "": "This coconut is shaped like a sea shell. ",
-        "en_US": "Esde côco tem a forma de uma concha do mar."
+        "en_US": "Esse côco tem a forma de uma concha do mar."
       }
     },
     "622": {
@@ -6703,7 +6705,7 @@
       },
       "description": {
         "": "Barely controllable, formless weapon that seems to exist in several places at once. \\i[ascended]",
-        "en_US": "Arma pouco controlável, sem forma, que parece existir em vários lugares ao mesmo tempo. \\i[ascended]"
+        "en_US": "Arma instável, sem forma, presente em vários lugares ao mesmo tempo. \\i[ascended]"
       }
     },
     "640": {
@@ -6823,7 +6825,7 @@
       },
       "description": {
         "": "Inhabited by the very concept of \\c[3]\"Killing Dress\"\\c[0]. Can \\c[3]empower\\c[0] the item.",
-        "en_US": "Nascida do próprio conceito do \\c[3]\"Vestido de Matança\"\\c[0]. Pode \\c[3]aumentar a força\\c[0] do item."
+        "en_US": "Nascida do próprio conceito do \\c[3]\"Vestido Mortal\"\\c[0]. Pode \\c[3]aumentar a força\\c[0] do item."
       },
       "sources": {
         "0": {
@@ -6903,7 +6905,7 @@
       },
       "description": {
         "": "An Ancient sculpture in the shape of a grey sphere. \\c[3]Adds an additional Neutral CP.\\c[0] \\i[element-neutral]",
-        "en_US": "Uma escultura dos Antigos em forma de esfera cinza. \\c[3]Adiciona um CP adicional Neutro\\c[0]. \\i[element-neutral]"
+        "en_US": "Escultura dos Antigos em forma de esfera cinza. \\c[3]Adiciona um CP adicional Neutro\\c[0]. \\i[element-neutral]"
       }
     },
     "651": {
@@ -6913,7 +6915,7 @@
       },
       "description": {
         "": "An Ancient sculpture in the shape of a smoldering flame. \\c[3]Adds an additional Heat CP.\\c[0] \\i[element-heat]",
-        "en_US": "Uma escultura dos Antigos em forma de chama ardente. \\c[3]Adiciona um CP adicional de Fogo \\c[0]. \\i[element-heat]"
+        "en_US": "Escultura dos Antigos em forma de chama. \\c[3]Adiciona um CP adicional de Fogo \\c[0]. \\i[element-heat]"
       }
     },
     "652": {
@@ -6923,7 +6925,7 @@
       },
       "description": {
         "": "An Ancient sculpture in the shape of an icy crystal. \\c[3]Adds an additional Cold CP.\\c[0] \\i[element-cold]",
-        "en_US": "Uma escultura dos Antigos em forma de um cristal gélido. \\c[3]Adiciona um CP adicional de Gelo \\c[0]. \\i[element-cold]"
+        "en_US": "Escultura dos Antigos em forma de cristal. \\c[3]Adiciona um CP adicional de Gelo\\c[0]. \\i[element-cold]"
       }
     },
     "653": {
@@ -6933,7 +6935,7 @@
       },
       "description": {
         "": "An Ancient sculpture in the shape of a lightning bolt. \\c[3]Adds an additional Shock CP.\\c[0] \\i[element-shock]",
-        "en_US": "Uma escultura dos Antigos em forma de um relâmpago. \\c[3]Adiciona um CP adicional de Choque \\c[0]. \\i[element-shock]"
+        "en_US": "Escultura dos Antigos em forma de relâmpago. \\c[3]Adiciona um CP adicional de Choque\\c[0]. \\i[element-shock]"
       }
     },
     "654": {
@@ -6943,7 +6945,7 @@
       },
       "description": {
         "": "An Ancient sculpture in the shape of mysterious waves. \\c[3]Adds an additional Wave CP.\\c[0] \\i[element-wave]",
-        "en_US": "Uma escultura dos Antigos em forma de ondas misteriosas. \\c[3]Adiciona um CP adicional de Onda\\c[0]. \\i[element-wave]"
+        "en_US": "Escultura dos Antigos em forma de ondas. \\c[3]Adiciona um CP adicional de Onda\\c[0]. \\i[element-wave]"
       }
     },
     "655": {
@@ -6979,11 +6981,11 @@
     "657": {
       "name": {
         "": "Sunglass Visor",
-        "en_US": "Visor de Óculos de Sol"
+        "en_US": "Visor Solar"
       },
       "description": {
         "": "Tinted eye protection that was crafted from a transparent, sun-forged alloy. \\i[ascended]",
-        "en_US": "Proteção dos olhos que foi elaborada a partir de uma liga transparente, forjada pelo sol. \\i[ascended]"
+        "en_US": "Proteção ocular feita de uma liga transparente, forjada pelo sol. \\i[ascended]"
       }
     },
     "658": {
@@ -6993,7 +6995,7 @@
       },
       "description": {
         "": "Upgraded glitch-affinity through a refined \"\\c[3]U\\c[0]ltra\\c[3]w\\c[0]att \\c[3]U\\c[0]nit\"-system. \\i[ascended]",
-        "en_US": "Atualização da afinidade de falhas através de um refinado \"\\c[3]S\\c[0]istema de \\c[3]u\\c[0]nidade \\c[3]u\\c[0]ltra\" watt. \\i[ascended]"
+        "en_US": "Atualização da afinidade de bugs através de um refinado \"\\c[3]S\\c[0]istema de \\c[3]u\\c[0]nidade \\c[3]u\\c[0]ltra\" watt. \\i[ascended]"
       }
     },
     "659": {
@@ -7003,7 +7005,7 @@
       },
       "description": {
         "": "Allegedly used by elite agents from neighboring solar systems. \\i[ascended]",
-        "en_US": "Alegadamente utilizado por agentes de elite de sistemas solares vizinhos. \\i[ascended]"
+        "en_US": "Supostamente utilizado por agentes de elite de outros sistemas solares. \\i[ascended]"
       }
     },
     "660": {
@@ -7031,7 +7033,7 @@
       },
       "description": {
         "": "Piece from a rock floating through space. Brought to the planet by a spacefarer.",
-        "en_US": "Pedaço de uma rocha flutuando pelo espaço. Trazido para o planeta por um explorador do espaço."
+        "en_US": "Pedaço de rocha espacial, trazido por um explorador."
       }
     },
     "663": {
@@ -7051,13 +7053,13 @@
       },
       "description": {
         "": "This container transcends infinity and can preserve anything until the end of time. \\i[ascended]",
-        "en_US": "Este recipiente transcende o infinito e pode preservar qualquer coisa até o fim dos tempos. \\i[ascended]"
+        "en_US": "Este recipiente transcende o infinito, guardando tudo para sempre. \\i[ascended]"
       }
     },
     "665": {
       "name": {
         "": "Lis'mita Cap",
-        "en_US": "Boina de Bur'guista"
+        "en_US": "Boina de Burguês"
       },
       "description": {
         "": "Ancient head adornment, luxuriously represents the desire for wealth. \\i[ascended]",
@@ -7071,7 +7073,7 @@
       },
       "description": {
         "": "Shining ring, floating above the heads of ascended beings. \\i[ascended]",
-        "en_US": "Anel luminoso, flutuando acima das cabeças dos seres ascendidos. \\i[ascended]"
+        "en_US": "Anel luminoso, flutua acima das cabeças dos seres ascendidos. \\i[ascended]"
       }
     },
     "667": {

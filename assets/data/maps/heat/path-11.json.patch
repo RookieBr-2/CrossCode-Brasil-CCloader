@@ -379,7 +379,7 @@
                 "21": {
                   "message": {
                     "": "Did you already finish that \\c[3]Maroon Tree Quest\\c[0]?",
-                    "en_US": "Você já terminou aquela \\c[3]Missão da Árvore Castanha\\c[0]?"
+                    "en_US": "Você já terminou aquela \\c[3]Missão da Castanheira do Vale\\c[0]?"
                   }
                 },
                 "22": {
@@ -469,7 +469,7 @@
                 "39": {
                   "task": {
                     "": "You and C'tron decided to explore Maroon Valley and solve the \\c[3]Maroon Tree Defender\\c[0] quest together.",
-                    "en_US": "Você e C'tron decidiram explorar o Vale Castanho e resolver a missão \\c[3]Defensor da Árvore Castanha\\c[0] juntos."
+                    "en_US": "Você e C'tron decidiram explorar o Vale Castanho e resolver a missão \\c[3]Defensor da Castanheira do Vale\\c[0] juntos."
                   }
                 }
               }

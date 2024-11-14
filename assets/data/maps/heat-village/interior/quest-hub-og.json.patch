@@ -23,7 +23,7 @@
                     "1": {
                       "message": {
                         "": "Please take this \\c[3]Pass\\c[0]. Needed to enter cave below \\c[3]Maroon Tree\\c[0].",
-                        "en_US": "Por favor, pegue este \\c[3]Passe\\c[0]. Vai precisar dele para entrar na caverna abaixo da \\c[3]Árvore Castanha\\c[0]."
+                        "en_US": "Por favor, pegue este \\c[3]Passe\\c[0]. Vai precisar dele para entrar na caverna abaixo da \\c[3]Castanheira do Vale\\c[0]."
                       }
                     },
                     "4": {
@@ -55,7 +55,7 @@
               "2": {
                 "message": {
                   "": "Please defeat pesky \\c[3]sandworms\\c[0] in cave below \\c[3]Maroon Tree\\c[0].",
-                  "en_US": "Por favor, derrote as malditas \\c[3]minhocas\\c[0] na caverna abaixo da \\c[3]Árvore Castanha\\c[0]."
+                  "en_US": "Por favor, derrote as malditas \\c[3]minhocas\\c[0] na caverna abaixo da \\c[3]Castanheira do Vale\\c[0]."
                 }
               },
               "3": {
@@ -72,7 +72,7 @@
                 "2": {
                   "message": {
                     "": "Dear Human! Did you defeat pesky sandworms below Maroon Tree?",
-                    "en_US": "Humana Querida! Você derrotou as malditas Minhocas que estavam embaixo da Árvore Castanha?"
+                    "en_US": "Humana Querida! Você derrotou as malditas Minhocas que estavam embaixo da Castanheira do Vale?"
                   }
                 },
                 "3": {
@@ -262,19 +262,19 @@
           "26": {
             "message": {
               "": "In \\c[3]East part of Maroon Valley\\c[0] you find majestic \\c[3]Maroon Tree\\c[0].",
-              "en_US": "Na \\c[3]parte Leste do Vale Castanho\\c[0] está a majestosa \\c[3]Árvore Castanha\\c[0]."
+              "en_US": "Na \\c[3]parte Leste do Vale Castanho\\c[0] está a majestosa \\c[3]Castanheira do Vale\\c[0]."
             }
           },
           "28": {
             "message": {
               "": "Maroon Tree very important to Shad, but attacked by \\c[3]Sandworms\\c[0] of Track.",
-              "en_US": "Árvore Castanha é muito importante para os Shads, mas é atacada por \\c[3]Minhocas\\c[0] da Trilha."
+              "en_US": "Castanheira do Vale é muito importante para os Shads, mas é atacada por \\c[3]Minhocas\\c[0] da Trilha."
             }
           },
           "29": {
             "message": {
               "": "We ask Human to defeat pesky Sandworms in cave below Maroon Tree.",
-              "en_US": "Pedimos aos Humanos que derrotem as Minhocas na caverna abaixo da Árvore Castanha."
+              "en_US": "Pedimos aos Humanos que derrotem as Minhocas na caverna abaixo da Castanheira do Vale."
             }
           },
           "30": {

@@ -178,7 +178,7 @@
     "status-hud": {
       "maxhp": "HP MAX",
       "atk": "ATQ",
-      "lvl": "NV"
+      "lvl": "NVL"
     },
     "msg": {
       "outgoing": "Solicitando Direct Link",
@@ -533,8 +533,8 @@
             "keep-traders": "Comerciantes",
             "money-plus-2": "Créditos x 2",
             "money-plus-4": "Créditos x 4",
-            "drop-rate-2": "Taxa de Saque x 2",
-            "drop-rate-4": "Taxa de Saque x 4",
+            "drop-rate-2": "Taxa de Loot x 2",
+            "drop-rate-4": "Taxa de Loot x 4",
             "disable-exp": "Desabilitar EXP.",
             "disable-money": "Desabilitar Créditos",
             "dash-1": "Mestre da Esquiva",
@@ -930,10 +930,10 @@
         "res": "resistencia",
         "heat": "Resistencia a Fogo",
         "cold": "Resistencia a Gelo",
-        "shock": "Resistencia a Elétrico",
+        "shock": "Resistencia a Choque",
         "wave": "Resistencia a Onda",
         "param": "Parâmetro",
-        "equip": "Equipamento",
+        "equip": "Equip",
         "skills": "Circuito",
         "info": "Info.",
         "modifiers": "Modificadores",
@@ -1086,7 +1086,7 @@
         "chapter": "Capítulo",
         "chapter0": "Prólogo",
         "chapterLast": "Epílogo",
-        "level": "Nvl",
+        "level": "NVL",
         "playtime": "Tempo de Jogo",
         "credit": "créditos",
         "noAuto": "- Nenhum arquivo de salvamento automático ainda -",
@@ -1151,7 +1151,7 @@
         "fav": "Definir Favoritos",
         "Back": "Voltar",
         "solved": "Resolvido",
-        "atCurLvl": "*no Level atual",
+        "atCurLvl": "*no Nível atual",
         "accept": "Aceitar",
         "collect": "Coletar Recompensas",
         "decline": "Recusar",
@@ -1189,7 +1189,7 @@
           "DASH_SPECIAL": "Esquiva",
           "GUARD_SPECIAL": "Escudo"
         },
-        "lvl": "NV",
+        "lvl": "NVL",
         "dmgType": "DANO",
         "damageTypes": {
           "0": "Corpo a Copo",
@@ -1822,7 +1822,7 @@
               "content": {
                 "0": "Um único arquivo salvo exibe algumas informações básicas sobre o seu progresso:",
                 "2": "--\\c[3]Capitulo\\c[0]:-- Reflete o progresso da história por meio do capitulo em que você está e um pequeno gráfico. ",
-                "3": "--\\c[3]Nível[LVL]\\c[0]:-- O level que você tem neste arquivo salvo.",
+                "3": "--\\c[3]Nível[NV]\\c[0]:-- O nível que você tem neste arquivo salvo.",
                 "4": "--\\c[3]Elemento\\c[0]:-- Os elementos que você tem neste arquivo salvo.",
                 "5": "--\\c[3]Posição\\c[0]:-- A área e o mapa que você salvou.",
                 "6": "--\\c[3]Versão\\c[0]:-- Exibido no canto inferior direito. Mostra a versão do jogo com a qual esse arquivo foi criado pela primeira vez. ",

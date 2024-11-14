@@ -2052,19 +2052,19 @@
                 "3": {
                   "message": {
                     "": "Legendary \\v[lore.title.seeker]!\\. Tales of big exploits reached humble market!\\. Such splendor!",
-                    "en_US": "Lendário \\v[lore.title.seeker]!\\. Contos de grandes façanhas chegaram ao humilde mercado!\\. Que esplendor!"
+                    "en_US": "Lendária \\v[lore.title.seeker]!\\. Contos de grandes façanhas chegaram ao mercado!!\\. Que maravilha!"
                   }
                 },
                 "4": {
                   "message": {
                     "": "Meet.",
-                    "en_US": "Encontrar"
+                    "en_US": "Encontrar."
                   }
                 },
                 "5": {
                   "message": {
                     "": "Yes, yes, great honor to meet again.\\. Hope memory past cooperations still blessing \\v[lore.title.seeker]s heart!",
-                    "en_US": "Sim, sim, uma grande honra nos encontrarmos novamente.\\. Espero que a memória de cooperações passadas ainda abençoe o coração de \\v[lore.title.seeker]!"
+                    "en_US": "Sim, sim, uma grande honra nos encontrarmos novamente.\\. Que o coração de \\v[lore.title.seeker] seja tocado pelas memórias das parcerias passadas!"
                   }
                 },
                 "6": {
@@ -2076,7 +2076,7 @@
                 "7": {
                   "message": {
                     "": "Good, good.\\. Thus honorable Bazaar also holds great steaks in success of \\v[lore.title.seeker], never forget!",
-                    "en_US": "Bom, bom.\\. Assim o honroso Bazaar também guarda sucessos carnudos de \\v[lore.title.seeker], nunca se esqueça!"
+                    "en_US": "Que bom.\\. Honroso Bazaar guarda sucessos de \\v[lore.title.seeker], nunca se esqueça!"
                   }
                 },
                 "8": {
@@ -2087,13 +2087,13 @@
                 "9": {
                   "message": {
                     "": "With that in back of mind, new task awaits to further inflate credit of \\v[lore.title.seeker] legend!",
-                    "en_US": "Com isso em mente, uma nova tarefa aguarda para aumentar ainda mais o crédito da lenda \\v[lore.title.seeker]!"
+                    "en_US": "Uma nova tarefa aguarda para aumentar ainda mais a fama da lenda \\v[lore.title.seeker]!"
                   }
                 },
                 "10": {
                   "message": {
                     "": "Red woman found way to grade brewing machine up further into the heavens!\\. A task worthy of attention, yes?",
-                    "en_US": "A mulher ruiva encontrou uma maneira de deixar a máquina de fabricação de bebidas ainda mais divina!\\. Uma tarefa digna de atenção, sim?"
+                    "en_US": "A mulher ruiva encontrou uma maneira de deixar máquina de fabricação de bebidas ainda mais divina!\\. Uma tarefa digna de atenção, não acha?"
                   }
                 },
                 "11": {
@@ -2118,7 +2118,7 @@
                     "3": {
                       "message": {
                         "": "Details are known to technical people of lower paygrade.\\. But involving new Ancient recipe for exciting drink!",
-                        "en_US": "Os detalhes são conhecidos por técnicos de menor grau de pagamento.\\. Mas envolvendo nova receita antiga para bebida emocionante!"
+                        "en_US": "Os detalhes são conhecidos por técnicos com salários menores,\\. mas envolvem uma nova receita antiga para uma bebida empolgante!"
                       }
                     },
                     "4": {
@@ -2129,7 +2129,7 @@
                     "5": {
                       "message": {
                         "": "Pay visit to \\c[3]female red human\\c[0] in the \\c[3]trade-building behind me\\c[0], again.\\. She giving you special task!",
-                        "en_US": "Faça uma visita à \\c[3]mulher ruiva\\c[0] no \\c[3]Prédio Comercial atrás de mim\\c[0], novamente.\\. Ela lhe dará tarefa especial!"
+                        "en_US": "Faça uma visita à \\c[3]mulher ruiva\\c[0] no \\c[3]Prédio Comercial atrás de mim\\c[0].\\. Ela lhe dará tarefa especial!"
                       }
                     },
                     "6": {
@@ -2155,7 +2155,7 @@
                     "1": {
                       "message": {
                         "": "\\v[lore.title.seeker] disagree?\\. Glory not ruined taste for material wealth, yes?",
-                        "en_US": "\\v[lore.title.seeker] discorda?\\. A glória não arruinou o gosto pela riqueza material, sim?"
+                        "en_US": "\\v[lore.title.seeker] discorda?\\. A glória arruinou o gosto pela riqueza material?"
                       }
                     },
                     "2": {
@@ -2178,7 +2178,7 @@
               "2": {
                 "message": {
                   "": "You speak to \\c[3]woman with red hair\\c[0] in \\c[3]Trade house\\c[0] again.\\. She still busy employee!",
-                  "en_US": "Você fala com \\c[3]mulher ruiva\\c[0] em \\c[3]Centro comercial\\c[0] novamente.\\. Ela ainda ocupada no emprego!"
+                  "en_US": "Você fala com \\c[3]mulher ruiva\\c[0] no \\c[3]Centro comercial\\c[0].\\. Ela ainda está ocupada no emprego!"
                 }
               }
             }
@@ -2200,7 +2200,7 @@
                 "3": {
                   "message": {
                     "": "Great \\v[lore.title.seeker]!\\. Happy report of success already flew into reach.\\. Splendid!",
-                    "en_US": "Ótimo \\v[lore.title.seeker]! Feliz relatório de sucesso já chegou.\\. Esplêndido!"
+                    "en_US": "\\v[lore.title.seeker]! Feliz relatório de sucesso já chegou.\\. Esplêndido!"
                   }
                 },
                 "4": {
@@ -2212,7 +2212,7 @@
                 "5": {
                   "message": {
                     "": "Heard of complications happening with machine spirit.\\. But as expected of \\v[lore.title.seeker], chance of ghost was zero.",
-                    "en_US": "Ouvi falar de complicações acontecendo com o espírito da máquina.\\. Mas como esperado de \\v[lore.title.seeker], a chance de assombração foi zero."
+                    "en_US": "Soube das complicações envolvendo espírito da máquina, mas como era de se esperar de \\v[lore.title.seeker], a chance da assombração foi zero."
                   }
                 },
                 "6": {
@@ -2223,7 +2223,7 @@
                 "7": {
                   "message": {
                     "": "Now, as red woman explained, work was for Sake of Fox.\\. Machine should be ready to produce now!",
-                    "en_US": "Agora, como a mulher ruiva explicou, o trabalho era por causa do Saquê da Raposa.\\. A máquina deve estar pronta para produzir agora!"
+                    "en_US": "Agora, como mulher ruiva explicou, a máquina deve estar pronta para produzir Saquê de Raposa!"
                   }
                 },
                 "8": {
@@ -2234,7 +2234,7 @@
                 "9": {
                   "message": {
                     "": "Certainly this foxy drink shall deliver in great profits and bring eternal honor to cooperation of humens and shad!",
-                    "en_US": "Certamente este Saquê da Raposa trará grandes lucros e trará honra eterna à cooperação dos humanos e dos Shads!"
+                    "en_US": "Certamente este Saquê trará grandes lucros e trará honra eterna à cooperação dos humanos e dos Shads!"
                   }
                 },
                 "10": {
@@ -2245,7 +2245,7 @@
                 "11": {
                   "message": {
                     "": "\\v[lore.title.seeker] services have been of great asset for us.\\. May your well be fair until we meet again.",
-                    "en_US": "Os serviços do \\v[lore.title.seeker] têm sido de grande valor para nós.\\. Que seu bem seja justo até que nos encontremos novamente."
+                    "en_US": "Serviços de \\v[lore.title.seeker] têm sido muito úteis.\\. Fique bem até nos encontrarmos novamente."
                   }
                 },
                 "12": {
@@ -2273,7 +2273,7 @@
               "3": {
                 "message": {
                   "": "Also, all profit go to hardworking \\v[lore.title.shad] and helping humans.",
-                  "en_US": "Além disso, todo o lucro vai para os trabalhadores \\v[lore.title.shad] e para ajudar os humanos."
+                  "en_US": "Além disso, todo lucro vai para trabalhadores \\v[lore.title.shad] e para ajudar humanos."
                 }
               },
               "4": {
@@ -2556,7 +2556,7 @@
           "11": {
             "message": {
               "": "It seems like Emilie is still busy with the Maroon Tree Cave.",
-              "en_US": "Parece que Emilie ainda está ocupada com a Caverna da Árvore Castanha."
+              "en_US": "Parece que Emilie ainda está ocupada com a Caverna da Castanheira do Vale."
             }
           },
           "12": {
@@ -3406,7 +3406,7 @@
           "145": {
             "task": {
               "": "It's finally time to complete the \\c[3]Maroon Tree Defender\\c[0] quest together with Emilie and C'tron!",
-              "en_US": "Finalmente é hora de completar a missão \\c[3]Defender a Árvore Castanha\\c[0] junto com Emilie e C'tron!"
+              "en_US": "Finalmente é hora de completar a missão \\c[3]Defensor da Castanheira do Vale\\c[0] junto com Emilie e C'tron!"
             }
           }
         }

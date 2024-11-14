@@ -383,13 +383,13 @@
                 "9": {
                   "text": {
                     "": "\\v[lore.title.seeker]. I am the guardian of this peaceful island. Long have I been undisturbed.",
-                    "en_US": "\\v[lore.title.seeker]. Eu sou o guardião desta pacífica ilha. Há muito tempo não sou perturbado."
+                    "en_US": "Sabe minha chapinha, eu sou o guardião desta pacífica ilha. Há muito tempo não sou perturbado."
                   }
                 },
                 "10": {
                   "text": {
                     "": "But now, humans have come and are crawling all around me, left and right.",
-                    "en_US": "Mas agora, humanos vieram e estão rastejando ao meu redor, à esquerda e à direita."
+                    "en_US": "Mas agora, humanos vieram e estão andando ao meu redor, à esquerda e à direita."
                   }
                 },
                 "11": {
@@ -401,7 +401,7 @@
                 "16": {
                   "text": {
                     "": "Hoho, you misunderstand!\\. This is exciting!",
-                    "en_US": "Hoho, você não entendeu!\\. Isso é emocionante!"
+                    "en_US": "Haha, você não entendeu!\\. Isso é emocionante!"
                   }
                 },
                 "19": {
@@ -413,7 +413,7 @@
                 "20": {
                   "text": {
                     "": "\\v[lore.title.seeker], do me the honor and meet me in combat.\\. I shall gladly test your abilities.",
-                    "en_US": "\\v[lore.title.seeker], me dê a honra e me enfrente em combate.\\. Terei prazer em testar suas habilidades."
+                    "en_US": "Chapinha, me enfrente em um combate.\\. Terei prazer em testar suas habilidades."
                   }
                 },
                 "21": {
@@ -441,13 +441,13 @@
                     "2": {
                       "text": {
                         "": "What?\\. And you call yourself a \\v[lore.title.seeker], human?\\. Certainly not a \\v[lore.title.seeker] of challenges!",
-                        "en_US": "O que?\\. E você se considera uma \\v[lore.title.seeker], humana?\\. Certamente não é uma \\v[lore.title.seeker] de desafios!"
+                        "en_US": "O que?\\. E você se considera uma \\v[lore.title.seeker]?\\. Certamente não é uma \\v[lore.title.seeker] de desafios!"
                       }
                     },
                     "3": {
                       "message": {
                         "": "Sorry...",
-                        "en_US": "Desculpe..."
+                        "en_US": "Desculpa..."
                       }
                     }
                   }
@@ -487,7 +487,7 @@
                     "5": {
                       "text": {
                         "": "We shall hold our epic battle in an undisturbed arena.",
-                        "en_US": "Devemos realizar nossa batalha épica em uma arena imperturbável."
+                        "en_US": "Devemos realizar nossa batalha épica em uma arena isolada."
                       }
                     },
                     "6": {
@@ -499,7 +499,7 @@
                     "7": {
                       "text": {
                         "": "You will see.\\. But for now\\..\\..\\..\\. Hold on tight!",
-                        "en_US": "Você verá.\\. Mas por agora\\..\\..\\..\\. Segure firme!"
+                        "en_US": "Você verá.\\. Mas por enquanto\\..\\..\\..\\. Segure firme!"
                       }
                     },
                     "8": {
@@ -578,7 +578,7 @@
           "18": {
             "text": {
               "": "Yes, \\v[lore.title.seeker].\\. That was a splendid fight!\\. I haven't felt so alive in ages!",
-              "en_US": "Sim \\v[lore.title.seeker].\\. Foi uma luta esplêndida!\\. Não me sinto tão vivo há anos!"
+              "en_US": "Sim chapinha.\\. Foi uma luta esplêndida!\\. Não me sinto tão vivo há anos!"
             }
           },
           "19": {
@@ -595,13 +595,13 @@
           "21": {
             "text": {
               "": "But now I will take another rest and savor the sun.\\.\\.\\. I mean\\..\\..\\.. Guard this island, of course.\\. Goodbye!",
-              "en_US": "Mas agora vou descansar mais um pouco e saborear o sol.\\.\\.\\. Quer dizer\\..\\..\\.. Proteger esta ilha, é claro.\\. Adeus!"
+              "en_US": "Mas agora vou descansar mais um pouco e saborear o sol.\\.\\.\\. Quer dizer\\..\\..\\.. proteger esta ilha, é claro.\\. Adeus!"
             }
           },
           "23": {
             "message": {
               "": "... Bye.",
-              "en_US": "... Tchau"
+              "en_US": "... Tchau."
             }
           },
           "39": {
