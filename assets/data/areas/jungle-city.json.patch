@@ -67,19 +67,19 @@
         "5": {
           "name": {
             "": "Calzone Shop",
-            "en_US": "Shopping Calzone"
+            "en_US": "Calzone e Pão de Batata"
           }
         },
         "6": {
           "name": {
             "": "Seeker Hub 1st Floor",
-            "en_US": "Central Seeker 1º Andar"
+            "en_US": "Central Seeker 1A"
           }
         },
         "7": {
           "name": {
             "": "Clipson Tower 1st Floor",
-            "en_US": "Torre Clipson 1 Andar"
+            "en_US": "Torre Clipson 1A"
           }
         },
         "8": {
@@ -185,7 +185,7 @@
         "1": {
           "name": {
             "": "Papagang HQ Roof",
-            "en_US": "QG da Papagang, Cobertura"
+            "en_US": "Cobertura do QG da Papagangue"
           }
         }
       }

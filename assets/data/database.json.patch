@@ -367,7 +367,7 @@
       },
       "description": {
         "": "Finish all Trial Caves in Bergen with \\c[3]all handicaps in under 1:45\\c[0].",
-        "en_US": "Termine todas as Cavernas do Desafio em Bergen em \\c[3]todas as dificuldades em menos de 1:45\\c[0]."
+        "en_US": "Complete as Cavernas do Desafio em Bergen em \\c[3]todas as dificuldades em menos de 1:45\\c[0]."
       }
     },
     "spider-cave": {
@@ -1975,7 +1975,7 @@
       },
       "description": {
         "": "Known for it's many ponds and ruins this area is the little brother of Autumn's Rise. ",
-        "en_US": "Conhecida por seus lagos e ruínas, esta área é a irmã mais nova do Nascer do Outono."
+        "en_US": "Conhecido por seus lagos e ruínas, é o irmão mais novo do Nascer do Outono."
       },
       "landmarks": {
         "east": {
@@ -2047,7 +2047,7 @@
         "landmark_2": {
           "name": {
             "": "Altar Steps",
-            "en_US": "Passos do Altar"
+            "en_US": "Degraus do Altar"
           },
           "description": {
             "": "An old temple said to hold the Ancient's key.",
@@ -2067,7 +2067,7 @@
         "entrance": {
           "name": {
             "": "Airway Entrance",
-            "en_US": "Entrada dos Trilhos Aéreos"
+            "en_US": "Trilhos Aéreos da Praia"
           },
           "description": {
             "": "Build on top of an ancient pillar, used as a power source.",
@@ -2311,7 +2311,7 @@
         "balcony": {
           "name": {
             "": "Faj'ro Balcony",
-            "en_US": "Sacada Faj'ro"
+            "en_US": "Sacada do Templo Faj'ro"
           },
           "description": {
             "": "The Balcony of Faj'ro Temple.",
@@ -2607,7 +2607,7 @@
         "harbor": {
           "name": {
             "": "Harbor Teleporter",
-            "en_US": "Teletransportador do Porto"
+            "en_US": "Teleportador do Porto"
           },
           "description": {
             "": "The entrance to Rookie Harbor from Cross Central.",
@@ -19898,7 +19898,7 @@
     "Autumn-Ground-1": {
       "name": {
         "": "Alpha Ball Plant",
-        "en_US": "Planta Esférica Alfa"
+        "en_US": "Planta Bola Alfa"
       },
       "subArea": {
         "": "Commonly found everywhere.",
@@ -19908,7 +19908,7 @@
     "Autumn-Ground-2": {
       "name": {
         "": "Beta Ball Plant",
-        "en_US": "Planta Esférica Beta"
+        "en_US": "Planta Bola Beta"
       },
       "subArea": {
         "": "Commonly found everywhere.",
@@ -19918,7 +19918,7 @@
     "Autumn-Ground-Rare": {
       "name": {
         "": "Omega Ball Plant",
-        "en_US": "Planta Esférica Omega"
+        "en_US": "Planta Bola Omega"
       },
       "subArea": {
         "": "Rarely found on high grounds.",
@@ -19928,7 +19928,7 @@
     "Autumn-Water-1": {
       "name": {
         "": "Alpha Water Blades",
-        "en_US": "Planta Cilíndrica Alfa"
+        "en_US": "Planta Cortante Alfa"
       },
       "subArea": {
         "": "Mostly found near Water.",
@@ -19938,7 +19938,7 @@
     "Autumn-Water-2": {
       "name": {
         "": "Beta Water Blades",
-        "en_US": "Planta Cilíndrica Beta"
+        "en_US": "Planta Cortante Beta"
       },
       "subArea": {
         "": "Mostly found near Water.",
@@ -19948,7 +19948,7 @@
     "Autumn-Water-Rare": {
       "name": {
         "": "Omega Water Blades",
-        "en_US": "Planta Cilíndrica Omega"
+        "en_US": "Planta Cortante Omega"
       },
       "subArea": {
         "": "Rarely found on hard to reach places near water.",
@@ -20338,7 +20338,7 @@
     "Autumn-Fall-Ground-Rare": {
       "name": {
         "": "Omega Sphere Plant",
-        "en_US": "Planta Cilíndrica Omega"
+        "en_US": "Planta Esférica Omega"
       },
       "subArea": {
         "": "Rarely found on high grounds.",
@@ -20348,7 +20348,7 @@
     "Autumn-Fall-Water-1": {
       "name": {
         "": "Alpha Water Cutlass",
-        "en_US": "Planta Cilíndrica Alfa"
+        "en_US": "Sabre Aquático Alfa"
       },
       "subArea": {
         "": "Mostly found near Water.",
@@ -20358,7 +20358,7 @@
     "Autumn-Fall-Water-2": {
       "name": {
         "": "Beta Water Cutlass",
-        "en_US": "Planta Cilíndrica Beta"
+        "en_US": "Sabre Aquático Beta"
       },
       "subArea": {
         "": "Mostly found near Water.",
@@ -20368,7 +20368,7 @@
     "Autumn-Fall-Water-Rare": {
       "name": {
         "": "Omega Water Cutlass",
-        "en_US": "Planta Cilíndrica Omega"
+        "en_US": "Sabre Aquático Omega"
       },
       "subArea": {
         "": "Rarely found on hard to reach places near water.",
@@ -20402,7 +20402,7 @@
       },
       "subArea": {
         "": "Rarely found on high grounds outside infested- and V'rda Vil region.",
-        "en_US": "Raramente encontrada em locais altos menos na região infestada e em V'rda Vil."
+        "en_US": "Rara, só aparece em locais altos, menos na região infestada e V'rda Vil."
       }
     },
     "jungle-common-water-1": {
@@ -25434,55 +25434,55 @@
         "page-01-01": {
           "content": {
             "": "After logging back into CrossWorlds Lea and Sergey had a conversation about a \\c[3]mysterious dream\\c[0] that she had. It was seen as a potential sign of her memory returning, which would help to make sense of her convoluted situation. Lea went back to Bergen to take the elevator down to \\c[3]\\v[area.heat-area.name]\\c[0]. Along the way she got an unexpected call by \\c[3]another member of the First Scholars\\c[0], the \\c[3]Hexacast C'tron\\c[0], who asked to join Lea the next day.",
-            "en_US": "Depois de entrar novamente no CrossWorlds, Lea e Sergey tiveram uma conversa sobre um \\c[3]sonho misterioso\\c[0] que ela teve. Foi visto como um potencial sinal do retorno de sua memória, o que ajudaria a dar sentido à sua situação complicada. Lea voltou para Bergen para pegar o elevador até \\c[3]\\v[area.heat-area.name]\\c[0]. Ao longo do caminho, ela recebeu uma ligação inesperada de \\c[3]outro membro dos Primeiros Estudiosos\\c[0], o \\c[3]Hexacast C'tron\\c[0], que pediu para ingressar no grupo de Lea no dia seguinte."
+            "en_US": "Depois de entrar novamente em CrossWorlds, Lea e Sergey conversaram sobre um \\c[3]sonho misterioso\\c[0] que ela teve, visto como um possível sinal de retorno de suas memórias, o que ajudaria a esclarecer sua situação. Lea voltou para Bergen para pegar os trilhos aéreos até o \\c[3]\\v[area.heat-area.name]\\c[0]. No caminho, ela recebeu uma ligação inesperada de \\c[3]outro membro dos Primeiros Estudiosos\\c[0], o \\c[3]Hexamago C'tron\\c[0], que pediu para se juntar ao grupo de Lea no dia seguinte."
           }
         },
         "page-01-02": {
           "content": {
             "": "At the entrance of the desert that is \\c[3]\\v[area.heat-area.name]\\c[0], Lea was once again joined by Emilie. The usually carefree Pentafist was distraught about real-life events, because the thrilling adventures in CrossWorlds made her miss \\c[3]group assignments in college\\c[0] and thus brought down the wrath of her fellow students upon her. She continued to talk about her problems all the way to \\c[3]\\v[area.heat-village.name]\\c[0].",
-            "en_US": "Na entrada do deserto \\c[3]\\v[area.heat-area.name]\\c[0], Lea foi mais uma vez acompanhada por Emilie. A Pentapunho que normalmente é despreocupada, estava perturbada com eventos da vida real, porque as aventuras emocionantes de CrossWorlds fizeram com que ela perdesse as \\c[3]tarefas de grupo na faculdade\\c[0] e, assim, despertou a ira dos seus colegas estudantes. Ela continuou a falar de seus problemas até \\c[3]\\v[area.heat-village.name]\\c[0]."
+            "en_US": "Na entrada do \\c[3]\\v[area.heat-area.name]\\c[0], Lea foi novamente acompanhada por Emilie. A sempre despreocupada Pentapunho estava chateada com eventos da vida real, já que as aventuras emocionantes de CrossWorlds a fizeram perder \\c[3]tarefas de grupo na faculdade\\c[0], o que irritou seus colegas. Ela continuou falando de seus problemas até chegarem em \\c[3]\\v[area.heat-village.name]\\c[0]."
           }
         },
         "page-02-01": {
           "content": {
             "": "Upon arriving in \\c[3]\\v[area.heat-village.name]\\c[0] Lea and Emilie, feeling much better after talking about her worries, went to the local Quest HUB to accept the quest necessary for entering the next dungeon, the \\c[3]\\v[area.heat-dng.name]\\c[0]. This quest was given by the Ba'Kii Kum Eldress and involved slaying a \\c[3]nefarious Sandworm\\c[0]. However, since Emilie still needed to catch up with her assignment, they decided to quit for the day. ",
-            "en_US": "Ao chegarem em \\c[3]\\v[area.heat-village.name]\\c[0] Lea e Emilie, sentindo-se muito melhor depois de conversar sobre suas preocupações, foram á Central de Missões local para aceitar uma missão necessária para entrar na próxima dungeon, o \\c[3]\\v[area.heat-dng.name]\\c[0]. Essa missão foi dada pela Anciã de Ba'Kii Kum e envolveu a matança de uma \\c[3]Minhoca nefasta\\c[0]. No entanto, como Emilie ainda precisava terminar seus trabalhos na faculdade, elas decidiram desistir por hoje."
+            "en_US": "Em \\c[3]\\v[area.heat-village.name]\\c[0], Lea e Emilie, foram até a Central de Missões local para aceitar uma missão necessária para entrar na próxima dungeon, o \\c[3]\\v[area.heat-dng.name]\\c[0]. A missão foi dada pela Anciã de Ba'Kii Kum e envolvia derrotar uma \\c[3]Minhoca nefasta\\c[0]. No entanto, como Emilie ainda precisava terminar seus trabalhos da faculdade, elas decidiram deixar essa missão para outro dia."
           }
         },
         "page-02-02": {
           "content": {
             "": "As Sergey was preparing to log Lea out of the game, she interrupted him, demanding answers about her current condition. Reluctantly Sergey explained that she is \\c[3]in a coma\\c[0], to her shock and surprise. Despite the dire situation he ensures her that her condition is stable and that regaining her memories through continued playing might help her to wake up again. Then they agreed to log out. ",
-            "en_US": "Enquanto Sergey se preparava para tirar Lea do jogo, ela o interrompeu, exigindo respostas sobre sua condição atual. Relutantemente, Sergey explicou que ela está \\c[3]em coma\\c[0], para seu choque e surpresa. Apesar da situação terrível, ele assegura que sua condição é estável e que recuperar suas memórias através do jogo pode ajudá-la a acordar novamente. Então eles concordaram em sair do jogo."
+            "en_US": "Enquanto Sergey se preparava para desconectar Lea do jogo, ela o interrompeu, exigindo respostas sobre sua condição. Relutante, Sergey explicou que ela está \\c[3]em coma\\c[0], o que a chocou e surpreendeu. Apesar da situação difícil, ele a tranquilizou dizendo que sua condição é estável e que recuperar suas memórias através do jogo pode ajudá-la a acordar. Com isso, ambos concordaram em sair do jogo."
           }
         },
         "page-03-01": {
           "content": {
             "": "After logging in again, Lea invited her new Hexacast friend, \\c[3]C'tron\\c[0], to her party. Together they decided to solve the quest of the \\c[3]Maroon Tree\\c[0]. During their travels together, Lea not only experienced his skills in combat, but also his \\c[3]fascinating knowledge of biology and other fields of science\\c[0]. ",
-            "en_US": "Depois de logar novamente, Lea convidou seu novo amigo Hexamago, \\c[3]C'tron\\c[0], para seu grupo. Juntos, eles decidiram concluir a missão da \\c[3]Castanheira do Vale\\c[0]. Durante a viagem, Lea não apenas conheceu as habilidades de C'tron em combate, mas também seu \\c[3]fascinante conhecimento de biologia e outros campos da ciência\\c[0]."
+            "en_US": "Após logar novamente, Lea convidou seu novo amigo Hexamago, \\c[3]C'tron\\c[0], para seu grupo. Juntos, decidiram completar a missão da \\c[3]Castanheira do Vale\\c[0]. Durante a jornada, Lea não apenas conheceu as habilidades de C'tron em combate, mas também seu \\c[3]fascinante conhecimento em biologia e outras áreas da ciência\\c[0]."
           }
         },
         "page-03-02": {
           "content": {
             "": "After some hard-fought battles they were able to defeat the leader of the Earthworms, Ti'im, and collect its valuable digestive essence that will nourish the precious tree. Upon leaving the cave they also ran into Emilie, who, after a short introduction to C'tron, proceeded to solve the quest herself. Meanwhile, Lea and C'tron returned to \\v[area.heat-village.name], to finish the quest. ",
-            "en_US": "Depois de duras batalhas, eles foram capazes de derrotar o líder das minhocas, Ti'im, e coletaram sua valiosa essência digestiva que irá alimentar a árvore preciosa. Ao sair da caverna, eles também encontraram Emilie, que, após ser apresentada a C'tron, prosseguiu para resolver a missão sozinha. Enquanto isso, Lea e C'tron retornaram à \\v[area.heat-village.name], para terminar a missão."
+            "en_US": "Com muito esforço, eles conseguiram derrotar o líder das minhocas, Ti'im, e coletaram sua valiosa essência digestiva para alimentar a árvore preciosa. Ao saírem da caverna, encontraram Emilie, que, após ser apresentada a C'tron, decidiu concluir a missão sozinha. Enquanto isso, Lea e C'tron retornaram à \\v[area.heat-village.name] para finalizar a missão."
           }
         },
         "page-04-01": {
           "content": {
             "": "After completing the quest, though, Lea was once again confronted by \\c[3]Apollo\\c[0], who was accompanied by his friend \\c[3]Joern\\c[0]. After an array of banter, and Emilie rejoining the fray, a new duel was agreed upon, right in front of the \\c[3]\\v[area.heat-dng.name]\\c[0].",
-            "en_US": "Depois de completar a missão, Lea foi confrontada novamente por \\c[3]Apollo\\c[0], que estava acompanhado de seu amigo \\c[3]Joern\\c[0]. Depois de um monte de galhofas, um novo duelo foi marcado, na frente do \\c[3]\\v[area.heat-dng.name]\\c[0]."
+            "en_US": "Depois de completar a missão, Lea foi novamente confrontada por \\c[3]Apollo\\c[0], que estava acompanhado de seu amigo \\c[3]Joern\\c[0]. Após algumas provocações, um novo duelo foi marcado em frente ao \\c[3]\\v[area.heat-dng.name]\\c[0]."
           }
         },
         "page-04-02": {
           "content": {
             "": "After fighting their faithful duel, and earning enough of Apollo's respect to be called by her proper name, the challenge of the next dungeon was waiting for the group of three. Making their way through a flood of formidable foes and bothersome bubble-based braintwisters, they were able to acquire the \\c[3]element of cold\\c[0] and bring down the boss, a gigantic moth with lasers (much to Emilie's dismay).",
-            "en_US": "Depois de um duelo insano, Lea ganhou o respeito de Apollo para ser chamada pelo seu nome próprio. Assim, Lea e seus amigos, enfrentaram os desafios da dungeon e foram capazes de adquirir o \\c[3]elemento do gelo\\c[0] depois de derrotar uma mariposa gigante com lasers (RIP Emilie)."
+            "en_US": "Um duelo intenso foi travado, e com isso, Lea conquistou o respeito de Apollo, que passou a chamá-la pelo nome. Em seguida, Lea e seus amigos enfrentaram os desafios da dungeon e conseguiram adquirir o \\c[3]elemento do gelo\\c[0] ao derrotarem uma mariposa gigante com lasers (Pobre Emilie)."
           }
         },
         "page-05-01": {
           "content": {
             "": "After defeating the boss, the way was free to acquire \\c[3]more Ancient knowledge\\c[0] and have a \\c[3]well-deserved hug between the girls\\c[0] on the top of the temple. Then, before logging out, Emilie asked Lea about \\c[3]her life outside of the game\\c[0], which the latter was unable to answer. Thus \\c[3]Lea's speech issues\\c[0] were also finally revealed towards Emilie, to her shock.",
-            "en_US": "Depois de derrotar o chefe do templo, o caminho estava livre para o trio de amigos adiquirirem \\c[3]mais conhecimentos antigos\\c[0], depois disso rolou uma cena fofa de \\c[3]Lea e Emilie se abraçando\\c[0] no topo do templo. Antes de sair do jogo, Emilie perguntou sobre a \\c[3]vida real de Lea fora do jogo\\c[0], mas Lea não conseguiu responder a pergunta. Esse fato acabou revelando o \\c[3]problema de fala da Lea\\c[0], que deixou Emilie chocada."
+            "en_US": "Ao derrotar o chefe do templo, o caminho ficou livre para o trio adquirir \\c[3]mais conhecimentos antigos\\c[0]. Depois, aconteceu uma cena fofa onde \\c[3]Lea e Emilie se abraçaram\\c[0] no topo do templo. Antes de sair do jogo, Emilie perguntou sobre a \\c[3]vida real de Lea\\c[0], mas Lea não conseguiu responder, revelando seu \\c[3]problema de fala\\c[0], o que deixou Emilie surpresa."
           }
         },
         "page-05-02": {
@@ -25502,49 +25502,49 @@
         "page-01-01": {
           "content": {
             "": "Following her return to CrossWorlds, Lea was instantly informed by Sergey about her \\c[3]three day long absence\\c[0] due to technical difficulties. He apologized but also implemented another useful word to her vocabulary: \\c[3]\"Wait\"\\c[0]. This was supposed to become useful for signaling new information for Lea to share and immediately used to clue Sergey in on another dream that Lea had.",
-            "en_US": "Após seu retorno ao CrossWorlds, Lea foi imediatamente informada por Sergey sobre sua ausência de \\c[3]três dias\\c[0] devido a dificuldades técnicas. Ele pediu desculpas, mas também implementou outra palavra útil para o vocabulário dela: \\c[3]\"Espera\"\\c[0]. Isso deve ser útil para sinalizar novas informações para Sergey sobre outro sonho que Lea teve."
+            "en_US": "Após retornar ao CrossWorlds, Lea foi imediatamente informada por Sergey sobre sua ausência de \\c[3]três dias\\c[0] devido a dificuldades técnicas. Ele pediu desculpas e também adicionou outra palavra útil ao vocabulário dela: \\c[3]\"Espera\"\\c[0]."
           }
         },
         "page-01-02": {
           "content": {
             "": "Through an array of questions Sergey was able to deduce that Lea had dreamed of a yet unreached place, but a call from Emilie and C'tron interrupted further investigation. Worried about Lea's absence they asked her to meet them in \\v[area.rookie-harbor.name] to continue their adventure together.",
-            "en_US": "Por meio de uma série de perguntas, Sergey foi capaz de deduzir que Lea sonhou com um lugar ainda não alcançado, mas uma ligação de Emilie e C'tron interrompeu uma investigação mais aprofundada. Preocupados com a ausência de Lea, pediram que ela se encontrasse com eles no \\v[area.rookie-harbor.name] para continuar a aventura juntos."
+            "en_US": "Por meio de uma série de perguntas, Sergey deduziu que Lea sonhou com um lugar que ainda não alcançou, mas uma ligação de Emilie e C'tron interrompeu a investigação. Preocupados com a ausência de Lea, eles pediram que ela os encontrasse no \\v[area.rookie-harbor.name] para continuarem a aventura juntos."
           }
         },
         "page-02-01": {
           "content": {
             "": "At the fountain in \\v[area.rookie-harbor.name] Lea was met by her two friends and an exciting announcement: They would participate in a \\c[3]raid\\c[0] together with the rest of the \\c[3]\\v[lore.title.first-scholars]\\c[0]! For that Lea would need to solve a \\c[3]mandatory quest\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0]. Despite having already solved it, Emilie and C'tron gladly agreed to accompany Lea again.",
-            "en_US": "Na fonte do \\v[area.rookie-harbor.name] Lea foi recebida por seus dois amigos e um anúncio emocionante: Eles iriam participar de uma raid em conjunto com o resto do resto dos \\c[3]\\v[lore.title.first-scholars]\\c[0]! Para isso, Lea precisaria concluir uma \\c[3]missão obrigatória\\c[0] no \\c[3]\\v[area.autumn-fall.name]\\c[0]. Apesar de já terem finalizado essa missão, Emilie e C'tron concordaram em acompanhar Lea novamente."
+            "en_US": "Na fonte do \\v[area.rookie-harbor.name], Lea foi recebida por seus dois amigos com um anúncio emocionante: eles participariam de uma raid junto com o restante dos\\c[3]\\v[lore.title.first-scholars]\\c[0]! Para isso, Lea precisaria completar uma \\c[3]missão obrigatória\\c[0] no \\c[3]\\v[area.autumn-fall.name]\\c[0]. Mesmo já tendo concluído essa missão, Emilie e C'tron concordaram em acompanhar Lea novamente."
           }
         },
         "page-02-02": {
           "content": {
             "": "The group traveled through the vivid lands of \\c[3]\\v[area.autumn-fall.name]\\c[0], received the quest from an Ancient statue and followed a \\c[3]colorful bunny\\c[0] to finally defeat it and receive the \\c[3]Green Seed Shade\\c[0]. Said Shade was needed to proceed towards the jungle area called \\c[3]\\v[area.jungle.name]\\c[0], though of course their attendance was needed at the raid with their guild.",
-            "en_US": "O grupo viajou através das terras vívidas do \\c[3]\\v[area.autumn-fall.name]\\c[0], e Lea recebeu a missão de uma estátua dos Antigos e seguiu um \\c[3]coelhinho colorido\\c[0] para finalmente derrotá-lo e receber o \\c[3]Fragmento da Semente\\c[0]. Esse fragmento era necessário para liberar outra área de CrossWorlds chamada \\c[3]\\v[area.jungle.name]\\c[0], embora, é claro, sua presença fosse necessária na raid da sua guilda."
+            "en_US": "O grupo atravessou as terras vívidas do \\c[3]\\v[area.autumn-fall.name]\\c[0], onde Lea recebeu uma missão de uma estátua dos Antigos e seguiu um \\c[3]coelhinho colorido\\c[0], até derrotá-lo e obter o \\c[3]Fragmento da Semente\\c[0]. Esse fragmento era necessário para liberar uma nova área em CrossWorlds, o \\c[3]\\v[area.jungle.name]\\c[0]."
           }
         },
         "page-03-01": {
           "content": {
             "": "Lea, Emilie and C'tron reached the raid area called \\c[3]Para Island\\c[0] by going through an underwater cave in \\v[area.autumn-fall.name]. There they met up with their high-level guild-comrades Hlin, Buggy and Schneider, who explained the event to them.",
-            "en_US": "Lea, Emilie e C'tron chegaram na área de raid chamada \\c[3]Ilha Para\\c[0], passando por uma caverna subaquática no \\v[area.autumn-fall.name]. Lá eles se encontraram com seus companheiros de guilda: Hlin, Buggy e Schneider, que lhes explicaram o evento."
+            "en_US": "Lea, Emilie e C'tron chegaram à área de raid chamada \\c[3]Ilha Para\\c[0], passando por uma caverna subaquática no \\v[area.autumn-fall.name]. Lá, eles se encontraram com seus companheiros de guilda, que explicaram o evento."
           }
         },
         "page-03-02": {
           "content": {
             "": "The event was split between two paths, one for higher and one for lower levels. The teams on both paths had to destroy colored pillars in sync with each other to proceed and fight many enemies along the way. The raid was going well, when the group neared the final stage with excitement. Alas, a sinister force interrupted their enjoyment...",
-            "en_US": "O evento foi dividido entre dois caminhos, um para a equipe de nível mais alto e outro para a equipe de nível mais baixo. As equipes nos dois caminhos tiveram que destruir pilares coloridos em sincronia entre si para prosseguir e lutar com mais inimigos ao longo do caminho. A raid estava indo bem, quando o grupo se aproximava da etapa final com entusiasmo. Infelizmente, uma força sinistra interrompeu o divertimento..."
+            "en_US": "O evento foi dividido em dois caminhos: um para a equipe de nível mais alto e outro para a de nível mais baixo. As equipes nos dois caminhos precisavam destruir pilares coloridos em sincronia para avançar e enfrentar mais inimigos ao longo do percurso. A raid estava indo bem, e o grupo se aproximava animado da etapa final, quando, infelizmente, uma força sinistra interrompeu a diversão..."
           }
         },
         "page-04-01": {
           "content": {
             "": "Instead of following her friends, Lea was forcefully pulled out of the raid by the malevolent machinations of the \\c[3]Blue Avatar\\c[0], who teleported her to a secluded mountaintop in \\v[area.bergen-trails.name]. There she was forced to face him in single combat to give Sergey time to somehow find a way out of that convoluted situation.",
-            "en_US": "Em vez de seguir seus amigos, Lea foi arrancada à força da raid pelas maquinações malévolas do \\c[3]Avatar Azul\\c[0], que a teletransportou para o topo de uma montanha isolada na \\v[area.bergen-trails.name]. Lá ela foi forçada a enfrentá-lo em um combate enquanto Sergey, de alguma forma, tentava encontrar uma saída para aquela situação complicada."
+            "en_US": "Em vez de seguir seus amigos, Lea foi arrancada à força da raid pelas ações malévolas do \\c[3]Avatar Azul\\c[0], que a teletransportou para o topo de uma montanha isolada na \\v[area.bergen-trails.name]. Lá, ela foi obrigada a enfrentá-lo em combate, enquanto Sergey tentava, de alguma forma, encontrar uma saída para essa situação complicada."
           }
         },
         "page-04-02": {
           "content": {
             "": "Escape was in sight after Sergey was able to create an exit portal but the mysterious Blue Avatar was able to yet again block Lea's way. Wary of Lea having outside support with control over the environment he stopped giving her a fighting chance and instead proceeded to capture her with his seemingly omnipotent abilities. Thus Lea was dragged away to an \\c[3]unknown location\\c[0]...",
-            "en_US": "Lea estava pronta para fugir quando Sergey criou um portal de saída. mas o misterioso Avatar Azul conseguiu bloquear novamente o caminho de Lea. Desconfiando de que Lea estava recebendo ajuda externa, ele a capturou com suas habilidades aparentemente onipotentes. Assim, Lea foi arrastada para um \\c[3]local desconhecido\\c[0]..."
+            "en_US": "Lea estava pronta para escapar quando Sergey criou um portal de saída, mas o misterioso Avatar Azul bloqueou o caminho dela novamente. Suspeitando que Lea estava recebendo ajuda externa, ele a capturou com suas habilidades aparentemente onipotentes. Assim, Lea foi arrastada para um \\c[3]local desconhecido\\c[0]..."
           }
         }
       }
@@ -26092,7 +26092,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name\\c[0]: Carla Salvatore\nCarla is a mechanic on board the cargo ship \\c[3]M.S. Solar\\c[0] belonging to the maintenance crew of \\c[3]\\v[lore.title.cross-worlds]\\c[0]. She is a cheerful and open-minded person who likes to play around with new technology. Also kinda lazy.",
-            "en_US": "\\c[3]Nome\\c[0]: Carla Salvatore\nCarla é uma mecânica a bordo do navio de carga \\c[3]M.S. Solar\\c[0] pertencente à equipe de manutenção de \\c[3]\\v[lore.title.cross-worlds]\\c[0]. Ela é uma pessoa alegre e de mente aberta que gosta de brincar com as novas tecnologias. Também meio preguiçoso."
+            "en_US": "\\c[3]Nome\\c[0]: Carla Salvatore\nCarla é mecânica no navio de carga \\c[3]M.S. Solar\\c[0] e parte da equipe de manutenção de \\c[3]\\v[lore.title.cross-worlds]\\c[0]. Ela é alegre, de mente aberta e adora brincar com novas tecnologias, embora seja um pouco preguiçosa."
           }
         }
       }
@@ -26105,7 +26105,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name\\c[0]: Sergey Asimov\nSergey is a skilled software engineer with no apparent occupation other than helping Lea. He likes to be rational and tends to be specific on technical terms which might leave the impression of a pragmatic personality.",
-            "en_US": "\\c[3]Nome\\c[0]: Sergey Asimov\nSergey é um engenheiro de software habilidoso, aparentemente sem ocupação a não ser ajudar Lea. Gosta de ser racional e tende a ser específico em termos técnicos que podem deixar a impressão de uma personalidade pragmática."
+            "en_US": "\\c[3]Nome\\c[0]: Sergey Asimov\nSergey é um engenheiro de software habilidoso, aparentemente sem ocupação além de ajudar Lea. Ele gosta de ser racional e costuma usar termos técnicos precisos, o que faz parecer que tem uma personalidade pragmática."
           }
         }
       }
@@ -26119,7 +26119,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name\\c[0]: Gerald \"Jet\" McFly\nJet is the captain of the cargo ship \\c[3]M.S. Solar\\c[0] belonging to the maintenance crew of \\c[3]\\v[lore.title.cross-worlds]\\c[0].\nHis stoic and tidy character makes him a respected man among his crew. His trusted jetpack Betty is always at his side.",
-            "en_US": "\\c[3]Nome\\c[0]: Gerald \"Jet\" McFly\nJet é o capitão do navio de carga \\c[3]M.S. Solar\\c[0] pertencente à equipe de manutenção de \\c[3]\\v[lore.title.cross-worlds]\\c[0].\n Seu caráter estóico e arrumado o torna um homem respeitado entre sua tripulação. Seu confiável jetpack Betty está sempre ao seu lado."
+            "en_US": "\\c[3]Nome\\c[0]: Gerald \"Jet\" McFly\nJet é o capitão do navio de carga \\c[3]M.S. Solar\\c[0], parte da equipe de manutenção de \\c[3]\\v[lore.title.cross-worlds]\\c[0].\nSeu caráter calmo e organizado faz dele um homem respeitado pela tripulação. Seu confiável jetpack, Betty, está sempre ao seu lado."
           }
         }
       }
@@ -26159,7 +26159,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name:\\c[0] Satoshi Sakai\nA highly skilled developer formerly employed by \\c[3]\\v[lore.title.dev-company]\\c[0] and responsible for the \\c[3]\\v[lore.title.cross-code]\\c[0]. He mysteriously vanished from the company to further his research together with his sister \\c[3]Shizuka\\c[0] and friend \\c[3]Gautham\\c[0].\n",
-            "en_US": "\\c[3]Nome:\\c[0] Satoshi Sakai\nUm desenvolvedor altamente qualificado, anteriormente empregado pela \\c[3]\\v[lore.title.dev-company]\\c[0] e responsável para o \\c[3]\\v[lore.title.cross-code]\\c[0]. Ele desapareceu misteriosamente da empresa para continuar suas pesquisas junto com sua irmã \\c[3]Shizuka\\c[0] e seu amigo \\c[3]Gautham\\c[0].\n"
+            "en_US": "\\c[3]Nome:\\c[0] Satoshi Sakai\nUm desenvolvedor altamente qualificado, que trabalhou anteriormente para a \\c[3]\\v[lore.title.dev-company]\\c[0] e foi responsável pelo \\c[3]\\v[lore.title.cross-code]\\c[0]. Ele desapareceu misteriosamente da empresa para continuar suas pesquisas com sua irmã \\c[3]Shizuka\\c[0] e seu amigo \\c[3]Gautham\\c[0].\n"
           }
         },
         "p2": {
@@ -26178,7 +26178,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name:\\c[0] Shizuka Sakai\nShizuka was a developer employed by \\c[3]\\v[lore.title.dev-company]\\c[0]. Together with her brother \\c[3]Satoshi\\c[0] and \\c[3]Gautham\\c[0] she left the company to further Satoshi's research. Her Avatar was used to create the first \\c[3]Evotar\\c[0]: \\c[3]Lea\\c[0].",
-            "en_US": "\\c[3]Nome:\\c[0] Shizuka Sakai\nera uma desenvolvedora empregada pela \\c[3]\\v[lore.title.dev-company]\\c[0]. Junto com seu irmão \\c[3]Satoshi\\c[0] e \\c[3]Gautham\\c[0] ela deixou a empresa para continuar as pesquisas de Satoshi. Seu Avatar foi usado para criar o primeiro \\c[3]Evotar\\c[0]: \\c[3]Lea\\c[0]."
+            "en_US": "\\c[3]Nome:\\c[0] Shizuka Sakai\nEra uma desenvolvedora empregada pela \\c[3]\\v[lore.title.dev-company]\\c[0]. Junto com seu irmão \\c[3]Satoshi\\c[0] e \\c[3]Gautham\\c[0], ela deixou a empresa para continuar as pesquisas de Satoshi. Seu avatar foi usado para criar o primeiro \\c[3]Evotar\\c[0]: \\c[3]Lea\\c[0]."
           }
         }
       }
@@ -26191,7 +26191,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name:\\c[0] Benedict Sidwell\nSidwell is an eccentric businessman with a cold and calculating personality. He is the one who financed the evotar research and the one who provided \\c[3]\\v[area.arid.name]\\c[0] for Satoshi, Shizuka and Gautham. Other than that, not much is known about him.",
-            "en_US": "\\c[3]Nome:\\c[0] Benedict Sidwell\nSidwell é um empresário excêntrico com uma personalidade fria e calculista. Foi ele quem financiou a pesquisa evotar e quem forneceu \\c[3]\\v[area.arid.name]\\c[0] para Satoshi, Shizuka e Gautham. Fora isso, não se sabe muito sobre ele."
+            "en_US": "\\c[3]Nome:\\c[0] Benedict Sidwell\nSidwell é um empresário excêntrico com uma personalidade fria e calculista. Foi ele quem financiou a pesquisa evotar e quem forneceu o \\c[3]\\v[area.arid.name]\\c[0] para Satoshi, Shizuka e Gautham. Fora isso, não se sabe muito sobre ele."
           }
         }
       }
@@ -26204,7 +26204,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name:\\c[0] Emilie-Sophie de Belmond\nEmilie is an energetic young \\c[3]CrossWorlds\\c[0] player who recently joined the game and seems to be quite enthusiastic about it. She has a very competitive nature and wants to prove her skill wherever she can.  ",
-            "en_US": "\\c[3]Nome:\\c[0] Emilie-Sophie de Belmond\nEmilie é uma jovem e enérgica jogadora de \\c[3]CrossWorlds\\c[0] que recentemente entrou no jogo e parece estar bastante entusiasmada sobre isso. Ela tem uma natureza muito competitiva e quer provar sua habilidade sempre que puder.  "
+            "en_US": "\\c[3]Nome:\\c[0] Emilie-Sophie de Belmond\nEmilie é uma jovem jogadora de \\c[3]CrossWorlds\\c[0] que entrou no jogo recentemente e está muito entusiasmada. Ela tem uma natureza competitiva e quer sempre provar sua habilidade."
           }
         }
       }
@@ -26217,7 +26217,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name:\\c[0] Lukas Fink\nSchneider is a seasoned \\c[3]CrossWorlds\\c[0] player who is friends with Emilie. Though he is very helpful he also enjoys teasing his friends. As a veteran in the game he knows almost every inch of it like his vest pocket.",
-            "en_US": "\\c[3]Nome:\\c[0] Lukas Fink\nSchneider Schneider é um jogador experiente de \\c[3]CrossWorlds\\c[0] que é amigo de Emilie. Embora seja muito prestativo, ele também gosta de provocar os amigos. Como um veterano no jogo, ele conhece quase cada centímetro dele como a palma de sua mão."
+            "en_US": "\\c[3]Nome:\\c[0] Lukas Fink\nSchneider é um jogador experiente de \\c[3]CrossWorlds\\c[0] que é amigo de Emilie. Embora seja muito prestativo, ele também gosta de provocar os amigos. Como um veterano no jogo, ele conhece quase cada centímetro dele como a palma de sua mão."
           }
         }
       }
@@ -26230,7 +26230,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name:\\c[0] Lukas\nThe \\c[3]Evotar\\c[0] of the player \\c[3]Lukas Fink\\c[0] a.k.a. \\c[3]Schneider\\c[0]. He is trapped inside \\c[3]\\v[area.arid.name]\\c[0] much like \\c[3]Lea\\c[0]. His character is almost the same with the exception of the circumstantial problem. ",
-            "en_US": "\\c[3]Nome:\\c[0] Lukas\nO \\c[3]Evotar\\c[0] do jogador \\c[3]Lukas Fink\\c[0] apelido: \\c[3]Schneider\\c[0]. Ele está preso dentro de \\c[3]\\v[area.arid.name]\\c[0] muito parecido com \\c[3]Lea\\c[0]. Seu caráter é quase o mesmo, com exceção do problema circunstancial."
+            "en_US": "\\c[3]Nome:\\c[0] Lukas\nO \\c[3]Evotar\\c[0] do jogador \\c[3]Lukas Fink (Schneider)\\c[0]. Ele está preso dentro de \\c[3]\\v[area.arid.name]\\c[0] assim como \\c[3]Lea\\c[0]. Sua personalidade é quase idêntica a do original."
           }
         }
       }
@@ -26243,7 +26243,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name:\\c[0] Linda Palmer\nHlin is a friendly, motherly player who created the \\c[3]First Scholars\\c[0] guild together with \\c[3]Beowulf\\c[0]. Manners, community and the lore of \\c[3]CrossWorlds\\c[0] are most dear to her and she welcomes everyone with open arms.",
-            "en_US": "\\c[3]Nome:\\c[0] Linda Palmer\nHlin é uma jogadora amigável e maternal que criou a guilda \\c[3]Os Primeiros Estudiosos\\c[0] junto com \\c[3]Beowulf\\c[0]. Boas maneiras, amizades e a história de \\c[3]CrossWorlds\\c[0] são muito importantes para ela e ela recebe a todos de braços abertos."
+            "en_US": "\\c[3]Nome:\\c[0] Linda Palmer\nHlin é uma jogadora amigável e maternal que fundou a guilda \\c[3]Os Primeiros Estudiosos\\c[0] junto com \\c[3]Beowulf\\c[0]. Para ela, boas maneiras, amizades e a história de \\c[3]CrossWorlds\\c[0] são muito importantes, e ela recebe todos de braços abertos."
           }
         }
       }
@@ -26269,7 +26269,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name:\\c[0] Toby Tremblay\nToby is a rather new member of the \\c[3]First Scholars\\c[0]. He appears to be highly knowledgeable when it comes to science which leads to a lot of displeasure whenever CrossWorlds does not hold up to his sense of realism.",
-            "en_US": "\\c[3]Nome:\\c[0] Toby Tremblay\nToby é um membro relativamente novo dos \\c[3]Primeiros Estudiosos\\c[0]. Ele parece ter um grande conhecimento quando se trata de ciência, o que leva a muito desprazer sempre que CrossWorlds não mantém seu senso de realismo."
+            "en_US": "\\c[3]Nome:\\c[0] Toby Tremblay\nToby é o novo membro dos \\c[3]Primeiros Estudiosos\\c[0]. Ele tem um grande conhecimento em ciência, o que o deixa muito frustrado sempre que CrossWorlds não mantém seu senso de realismo."
           }
         }
       }
@@ -26282,7 +26282,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name:\\c[0] Raphael Luiz Vega\nBuggy is a pun-loving player and one of the earliest members of the \\c[3]First Scholars\\c[0] guild. His cheerful nature stems mostly from bad puns and jokes and he almost always laughs about his own jests the most.",
-            "en_US": "\\c[3]Nome:\\c[0] Raphael Luiz Vega\nBuggy é um jogador que adora trocadilhos e um dos primeiros membros da guilda \\c[3]Os Primeiros Estudiosos\\c[0]. Sua natureza alegre deriva principalmente de trocadilhos e piadas ruins e ele quase sempre ri sozinho de suas próprias piadas."
+            "en_US": "\\c[3]Nome:\\c[0] Raphael Luiz Vega\nBuggy é um jogador que adora trocadilhos e um dos primeiros membros da guilda \\c[3]Os Primeiros Estudiosos\\c[0]. Ele se diverte com trocadilhos e piadas ruins, rindo quase sempre sozinho de suas próprias piadas."
           }
         }
       }
@@ -26295,7 +26295,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name:\\c[0] Apollo\nApollo is a justice-driven player of \\c[3]CrossWorlds\\c[0] who started around the same time as Lea and Emilie. His respect for the rules and disgust for cheaters are only matched by his outstanding sense of style. ",
-            "en_US": "\\c[3]Nome:\\c[0] Apollo\nApollo é um jogador motivado pela justiça de \\c[3]CrossWorlds\\c[0] que começou na mesma época que Lea e Emilie. Seu respeito pelas regras e aversão aos trapaceiros só se comparam ao seu notável senso de estilo. "
+            "en_US": "\\c[3]Nome:\\c[0] Apollo\nApollo é um jogador de \\c[3]CrossWorlds\\c[0] obcecado por justiça. Seu respeito pelas regras e aversão aos trapaceiros só se comparam ao seu notável senso de estilo."
           }
         }
       }
@@ -26308,7 +26308,7 @@
         "page-01-01": {
           "content": {
             "": "\\c[3]Name:\\c[0] Joern\nJoern is a laid-back player of \\c[3]CrossWorlds\\c[0] and friend of \\c[3]Apollo\\c[0]. Though they seem to be very close to each other, Apollo's vigilante antics often tend to annoy Joern, who then apologizes to everyone involved before moving on.",
-            "en_US": "\\c[3]Nome:\\c[0] Joern\nJoern é um jogador descontraído de \\c[3]CrossWorlds\\c[0] e amigo de \\c[3]Apollo\\c[0]. Embora eles pareçam ser muito próximos um do outro, as palhaçadas vigilantes de Apollo costumam irritar Joern, que então se desculpa com todos os envolvidos antes de seguir em frente."
+            "en_US": "\\c[3]Nome:\\c[0] Joern\nJoern é um jogador descontraído de \\c[3]CrossWorlds\\c[0] e amigo de \\c[3]Apollo\\c[0]. Embora pareçam muito próximos, as palhaçadas de Apollo costumam irritar Joern, que se desculpa com todos antes de seguir em frente."
           }
         }
       }
@@ -37045,13 +37045,13 @@
         "0": {
           "task": {
             "": "Meet up with \\c[3]Pioneer Deggart\\c[0] at the landmark of \\c[3]Village Remains\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0]",
-            "en_US": "Encontre o \\c[3]Pioneiro Deggart\\c[0] no marco da \\c[3]Vila Arruinada\\c[0] no \\c[3]\\v[area.autumn-fall.name]\\c[0]"
+            "en_US": "Encontre o \\c[3]Pioneiro Deggart\\c[0] no marco da \\c[3]Vila em Ruínas\\c[0] no \\c[3]\\v[area.autumn-fall.name]\\c[0]"
           }
         },
         "1": {
           "task": {
             "": "Activate \\c[3]the Probe\\c[0] in \\c[3]Village Remains\\c[0] and guide it along the path",
-            "en_US": "Ative \\c[3]a Sonda\\c[0] na \\c[3]Vila Arruinada\\c[0] e guie ela ao longo do caminho"
+            "en_US": "Ative \\c[3]a Sonda\\c[0] na \\c[3]Vila em Ruínas\\c[0] e guie ela ao longo do caminho"
           }
         },
         "2": {

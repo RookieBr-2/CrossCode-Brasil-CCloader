@@ -55,19 +55,19 @@
         "0": {
           "name": {
             "": "Maroon Cave 1",
-            "en_US": "Caverna Marrom 1"
+            "en_US": "Caverna Castanha 1"
           }
         },
         "1": {
           "name": {
             "": "Maroon Cave 2",
-            "en_US": "Caverna Marrom 2"
+            "en_US": "Caverna Castanha 2"
           }
         },
         "2": {
           "name": {
             "": "Maroon Cave 3",
-            "en_US": "Caverna Marrom 3"
+            "en_US": "Caverna Castanha 3"
           }
         },
         "3": {
@@ -128,7 +128,7 @@
         "3": {
           "name": {
             "": "Vivid Path",
-            "en_US": "Caminho Animado"
+            "en_US": "Caminho Vivo"
           }
         },
         "4": {
@@ -224,7 +224,7 @@
         "19": {
           "name": {
             "": "Rising Railway",
-            "en_US": "Trilhos Aéreos Bergen"
+            "en_US": "Trilhos Aéreos do Vale"
           }
         },
         "20": {
@@ -266,13 +266,13 @@
         "26": {
           "name": {
             "": "Faj'ro Roof",
-            "en_US": "Cobertura Faj'ro"
+            "en_US": "Cobertura do Templo Faj'ro"
           }
         },
         "27": {
           "name": {
             "": "Bone Lair",
-            "en_US": "Covil de Osso"
+            "en_US": "Covil de Ossos"
           }
         },
         "28": {

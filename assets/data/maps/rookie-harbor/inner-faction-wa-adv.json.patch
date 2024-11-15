@@ -513,7 +513,7 @@
                     "4": {
                       "message": {
                         "": "Meet him at the \\c[3]Village Remains\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0] and he will explain everything!",
-                        "en_US": "Encontre-o na \\c[3]Vila arruinada\\c[0] no \\c[3]\\v[area.autumn-fall.name]\\c[0] e ele irá explicar tudo!"
+                        "en_US": "Encontre-o na \\c[3]Vila em Ruínas\\c[0] no \\c[3]\\v[area.autumn-fall.name]\\c[0] e ele irá explicar tudo!"
                       }
                     },
                     "5": {
@@ -579,7 +579,7 @@
               "2": {
                 "message": {
                   "": "The device is with our Scout Deggart by the \\c[3]Village Remains\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0].",
-                  "en_US": "O dispositivo está com nosso explorador Deggart na \\c[3]Vila arruinada\\c[0] no \\c[3]\\v[area.autumn-fall.name]\\c[0]."
+                  "en_US": "O dispositivo está com nosso explorador Deggart na \\c[3]Vila em Ruínas\\c[0] no \\c[3]\\v[area.autumn-fall.name]\\c[0]."
                 }
               },
               "3": {

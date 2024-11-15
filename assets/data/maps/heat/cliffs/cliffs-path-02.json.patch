@@ -59,13 +59,13 @@
               "8": {
                 "message": {
                   "": "I'm part of the \\v[lore.unlock.colony-federation]\\c[3]ACF's\\c[0] exploration team.",
-                  "en_US": "Faço parte da \\v[lore.unlock.colony-federation]\\c[3]ACF's\\c[0], equipe de exploração."
+                  "en_US": "Faço parte da equipe de exploração do \\v[lore.unlock.colony-federation]\\c[3]ACF\\c[0]."
                 }
               },
               "9": {
                 "message": {
                   "": "Once a year we're exploring and charting a new part of a larger sector.",
-                  "en_US": "Uma vez por ano, exploramos e traçamos uma nova parte de um setor maior."
+                  "en_US": "Uma vez por ano, exploramos e mapeamos uma nova área de um setor maior."
                 }
               },
               "10": {

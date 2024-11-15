@@ -3486,7 +3486,7 @@
     "335": {
       "name": {
         "": "Cold Platter",
-        "en_US": "Prato frio"
+        "en_US": "Prato Frio"
       },
       "description": {
         "": "A great variety of dishes, served cold on a large plate. \\c[1]Slow\\c[0].",
@@ -3596,7 +3596,7 @@
     "346": {
       "name": {
         "": "One Up",
-        "en_US": "Calzone Mágico"
+        "en_US": "Cogumelão"
       },
       "description": {
         "": "This peculiar remedy soothes the pain of whoever takes it. \\c[1]Slow\\c[0].",
@@ -4730,7 +4730,7 @@
       },
       "description": {
         "": "A portrait that portrays a man that seems to magically grow older.",
-        "en_US": "Um retrato que retrata um homem que parece envelhecer magicamente."
+        "en_US": "Um retrato de um homem que parece envelhecer magicamente."
       },
       "sources": {
         "0": {
