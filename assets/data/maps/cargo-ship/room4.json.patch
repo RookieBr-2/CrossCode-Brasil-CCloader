@@ -103,8 +103,8 @@
             "thenStep": {
               "0": {
                 "message": {
-                  "": "Not that it's \\c[3]likely\\c[0] they'll get the chance with the amount of damage you deal, but anyway...",
-                  "en_US": "Não que seja \\c[3]provável\\c[0] que eles tenham chance com a quantidade de dano que você causa, mas enfim..."
+                  "": "Not that it's \\c[3]likely\\c[3] they'll get the chance with the amount of damage you deal, but anyway...",
+                  "en_US": "Não que eles tenham \\c[3]muita chance\\c[0], com o tanto de dano que você causa, mas enfim..."
                 }
               }
             },
@@ -131,7 +131,7 @@
           "15": {
             "message": {
               "": "Uhm...\\. that means there's no real danger!\\. Go ahead and kick some ass!",
-              "en_US": "Uhm...\\. Confie em si mesma. Você está pronta para enfrentar qualquer coisa!"
+              "en_US": "Hmm...\\. confie em si mesma. Você está pronta para enfrentar qualquer coisa!"
             }
           },
           "18": {

@@ -175,7 +175,7 @@
                   "10": {
                     "message": {
                       "": "Well then...\\. Good luck with the \\c[3]Temple Mine\\c[0].",
-                      "en_US": "Bem então...\\. Boa sorte com o \\c[3]Mina do Templo\\c[0]."
+                      "en_US": "Bem então...\\. Boa sorte com a \\c[3]Mina do Templo\\c[0]."
                     }
                   }
                 }
@@ -383,7 +383,7 @@
                   "3": {
                     "message": {
                       "": "Well, just tell me when you two completed the \\c[3]Temple Mine\\c[0] so we can have the quiz!",
-                      "en_US": "Bem, diga-me quando vocês duas completarem o \\c[3]Mina do Templo\\c[0] para que possamos fazer o teste!"
+                      "en_US": "Me avise quando vocês duas completarem a \\c[3]Mina do Templo\\c[0] para que possamos fazer o teste!"
                     }
                   },
                   "4": {
@@ -1018,7 +1018,7 @@
                   "10": {
                     "message": {
                       "": "Well, to be honest, it was very close.",
-                      "en_US": "Bem, para ser honesta, foi por muito pouco."
+                      "en_US": "Então, pra ser honesta, foi por muito pouco."
                     }
                   },
                   "11": {

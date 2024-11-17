@@ -63,7 +63,7 @@
           "50": {
             "message": {
               "": "... Apparently. Well, something just had to go wrong.",
-              "en_US": "... Aparentemente sim. Bem, algo tinha que dar errado."
+              "en_US": "...Aparentemente sim. Algo tinha que dar errado."
             }
           },
           "51": {
@@ -130,7 +130,7 @@
           "56": {
             "message": {
               "": "You... are probably confused about this situation, correct?",
-              "en_US": "Você... provavelmente está confusa sobre esta situação, correto?"
+              "en_US": "Você... provavelmente está confusa sobre esta situação, não é?"
             }
           },
           "57": {
@@ -142,7 +142,7 @@
           "59": {
             "message": {
               "": "Alright. Let us take small steps. ",
-              "en_US": "Bem. Vamos dar pequenos passos."
+              "en_US": "Vamos dar pequenos passos."
             }
           },
           "60": {
@@ -219,7 +219,7 @@
           "88": {
             "message": {
               "": "VRPs are your most essential tool and weapon.",
-              "en_US": "PRV é sua ferramenta e arma mais essencial. "
+              "en_US": "PRVs são ferramentas e armas essenciais. "
             }
           },
           "89": {
@@ -237,7 +237,7 @@
           "91": {
             "message": {
               "": "So, give it a shot!\\.\nOr rather...\\.\\.\\. a throw!",
-              "en_US": "Então, dê um tiro!\\.\nOu melhor ...\\.\\.\\. um arremesso!"
+              "en_US": "Então, dê um tiro!\\.\nOu melhor...\\.\\.\\. um arremesso!"
             }
           },
           "92": {
@@ -254,7 +254,7 @@
           "6": {
             "message": {
               "": "Nice work!",
-              "en_US": "Bom Trabalho!"
+              "en_US": "Bom trabalho!"
             }
           },
           "7": {
@@ -420,7 +420,7 @@
               "1": {
                 "message": {
                   "": "... Well, that was quick...",
-                  "en_US": "... Bem, isso foi rápido..."
+                  "en_US": "...Bem, isso foi rápido..."
                 }
               },
               "2": {
@@ -448,7 +448,7 @@
           "7": {
             "message": {
               "": "It is about time we put you down on your feet.\n",
-              "en_US": "Já é hora de colocar seus pés no chão. \n"
+              "en_US": "É hora de colocar seus pés no chão. \n"
             }
           },
           "8": {
@@ -518,7 +518,7 @@
           "49": {
             "message": {
               "": "Attagirl!",
-              "en_US": "É isso aí Garota!"
+              "en_US": "É isso aí garota!"
             }
           },
           "50": {
@@ -536,7 +536,7 @@
           "52": {
             "message": {
               "": "Right...\\. Her name is Lea.",
-              "en_US": "Certo...\\. O nome dela é Lea."
+              "en_US": "Certo...\\. o nome dela é Lea."
             }
           },
           "53": {

@@ -69,7 +69,7 @@
           "15": {
             "message": {
               "": "Ha!\\. ...\\. Told you I would be...\\. first...",
-              "en_US": "Ha!\\. ...\\. Eu falei que seria...\\. a primeira..."
+              "en_US": "Ha!\\. Eu falei que seria...\\. a primeira..."
             }
           },
           "16": {
@@ -81,13 +81,13 @@
           "20": {
             "message": {
               "": "...\\. Phew...",
-              "en_US": "...\\. Ufa..."
+              "en_US": "...\\.Ufa..."
             }
           },
           "22": {
             "message": {
               "": "Ah, oui~\\. But wasn't that fun? ",
-              "en_US": "Ah, oui~\\. Mas não foi divertido? "
+              "en_US": "Ah, oui,\\. mas não foi divertido? "
             }
           },
           "23": {
@@ -138,7 +138,7 @@
           },
           "31": {
             "message": {
-              "": "... Lea!"
+              "": "...Lea!"
             }
           },
           "32": {
@@ -150,7 +150,7 @@
           "33": {
             "message": {
               "": "So...\\. Are you ready to take the sky rails?",
-              "en_US": "Então...\\. Você está pronta para pegar os trilhos aéreos?"
+              "en_US": "Então...\\. você tá pronta pra pegar os trilhos aéreos?"
             }
           },
           "47": {
@@ -244,7 +244,7 @@
           "84": {
             "message": {
               "": "... have been \\c[3]cheating\\c[0]!",
-              "en_US": "... está \\c[3]trapaceando\\c[0]!"
+              "en_US": "...está \\c[3]trapaceando\\c[0]!"
             }
           },
           "85": {
@@ -534,7 +534,7 @@
           "124": {
             "message": {
               "": "N-No problem...",
-              "en_US": "S-Sem problemas..."
+              "en_US": "T-tudo bem..."
             }
           },
           "137": {
@@ -566,7 +566,7 @@
               "6": {
                 "message": {
                   "": "It's just a game.\\. We're only here to have some fun!",
-                  "en_US": "Isso é apenas um jogo.\\. Nós estamos aqui para ter alguma diversão!"
+                  "en_US": "Isso é apenas um jogo.\\. Nós estamos aqui para nos divertir!"
                 }
               },
               "8": {
@@ -612,7 +612,7 @@
               "2": {
                 "message": {
                   "": "Though I have to admit, your level really is a bit...\\. far out there.",
-                  "en_US": "Embora eu tenha que admitir, seu nível é realmente um pouco...\\. acima do normal."
+                  "en_US": "Mas não dá pra negar que seu nível é um pouco...\\. acima do normal."
                 }
               }
             },
@@ -1097,7 +1097,7 @@
           "4": {
             "text": {
               "": "What?\\. How did you do that?\\. It moved to the center of that hole in the second phase, didn't it?",
-              "en_US": "Lá ele...\\. Digo, como você fez isso?\\. A torre se afasta no segundo estágio, não é?"
+              "en_US": "Lá ele...\\. digo, como você fez isso?\\. A torre se afasta no segundo estágio, não é?"
             }
           },
           "5": {

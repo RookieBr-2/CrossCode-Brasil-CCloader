@@ -291,7 +291,7 @@
                   "3": {
                     "message": {
                       "": "That's what I wanna ask! That's not normal, right?!",
-                      "en_US": "Isso é o que eu queria perguntar! Isso não é normal, certo?!"
+                      "en_US": "Era isso que eu queria perguntar! Isso não é normal, né?!"
                     }
                   },
                   "4": {
@@ -309,13 +309,13 @@
                   "6": {
                     "message": {
                       "": "I-It was just a little experiment!\\. Seeing if I could somehow tamper with the damage output in a secure way.",
-                      "en_US": "E-Era apenas um pequeno experimento!\\. Queria ver se conseguia de alguma forma adulterar o resultado dos danos de uma forma segura."
+                      "en_US": "E-Era apenas um pequeno experimento!\\. Queria ver se era possível manipular os danos de forma segura."
                     }
                   },
                   "7": {
                     "message": {
                       "": "... and I forgot to comment out that part.",
-                      "en_US": "... e eu esqueci de comentar essa parte do código."
+                      "en_US": "...E eu esqueci de comentar essa parte do código."
                     }
                   },
                   "8": {
@@ -331,7 +331,7 @@
                   "10": {
                     "message": {
                       "": "Oh...\\. Oh no...\\. I do not think I can undo this...",
-                      "en_US": "Ah...\\. Ah não...\\. Eu acho que não dá para reverter isso..."
+                      "en_US": "Ah...\\. Ah não...\\. eu acho que não dá para reverter isso..."
                     }
                   },
                   "11": {

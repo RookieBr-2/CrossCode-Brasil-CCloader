@@ -70,7 +70,7 @@
               "3": {
                 "message": {
                   "": "I seriously envy him!\\. I didn't have the money for the game and now... well... I'm on a ship.",
-                  "en_US": "Eu morro de inveja dele!\\. Eu não tinha dinheiro para comprar o jogo e agora... bem... estou em um navio."
+                  "en_US": "Eu morro de inveja dele!\\. Eu não tinha dinheiro para comprar o jogo e agora... estou em um navio."
                 }
               },
               "4": {
@@ -128,7 +128,7 @@
               "6": {
                 "message": {
                   "": "... I suppose it's a good thing they did!\\. It's a steady income for me, being a small cog in this machine.",
-                  "en_US": "...Acho que foi uma ótima iniciativa!\\. Para mim, é uma renda segura, mesmo que eu seja apenas uma pequena engrenagem nesta engrenagem complexa."
+                  "en_US": "...Acho que foi uma ótima iniciativa!\\. Para mim, é uma renda segura, mesmo que eu seja apenas uma pequena engrenagem nessa máquina complexa."
                 }
               }
             }
@@ -176,7 +176,7 @@
           "23": {
             "message": {
               "": "Yeah... I know.\\. I'm supposed to clean that up.",
-              "en_US": "Sim, eu sei...\\. Eu tinha que limpar isso."
+              "en_US": "Sim, eu sei...\\. eu tinha que limpar isso."
             }
           },
           "24": {
@@ -242,7 +242,7 @@
           "13": {
             "message": {
               "": "Anyway, Carla just passed by us again.",
-              "en_US": "Enfim, Carla acabou de passar por nós novamente."
+              "en_US": "Enfim, Carla acabou de passar por aqui de novo."
             }
           },
           "14": {
@@ -260,7 +260,7 @@
           "16": {
             "message": {
               "": "Well, she has a point.",
-              "en_US": "Bem, ela tem razão."
+              "en_US": "Ela tem razão."
             }
           },
           "17": {
@@ -341,7 +341,7 @@
           "1": {
             "message": {
               "": "Well, it certainly works!",
-              "en_US": "Bom, parece que funciona mesmo!"
+              "en_US": "Parece que funciona mesmo!"
             }
           }
         }
@@ -359,7 +359,7 @@
           "9": {
             "message": {
               "": "I'm really surprised how quickly those balls were flying.",
-              "en_US": "Estou realmente surpreso com a velocidade com que essas esferas voaram."
+              "en_US": "Estou surpreso com a velocidade com que essas esferas voaram."
             }
           },
           "12": {

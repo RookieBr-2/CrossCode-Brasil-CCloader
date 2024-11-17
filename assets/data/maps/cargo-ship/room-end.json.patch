@@ -71,7 +71,7 @@
           "19": {
             "message": {
               "": "Well, well... Our endeavor has not been concluded!",
-              "en_US": "Pois bem... Nosso trabalho não foi concluido!"
+              "en_US": "Pois bem... nosso trabalho não foi concluido!"
             }
           },
           "33": {
@@ -113,7 +113,7 @@
               "2": {
                 "message": {
                   "": "Alright, you will \\c[1]probably just kill them with ease\\c[0].",
-                  "en_US": "Muito bem, você vai \\c[1]provavelmente apenas matá-los com facilidade\\c[0]"
+                  "en_US": "Ok... eu sei que você vai \\c[1]eliminar eles com facilidade\\c[0]."
                 }
               },
               "3": {

@@ -348,7 +348,7 @@
                           "1": {
                             "message": {
                               "": "Huh... I suppose he did not even notice you are an avatar.",
-                              "en_US": "Hmm... suponho que ele nem percebeu que você é um avatar."
+                              "en_US": "Hmm... acho que ele nem percebeu que você é um avatar."
                             }
                           },
                           "2": {
@@ -663,7 +663,7 @@
               "3": {
                 "message": {
                   "": "Hey, can't you see I'm busy here?\\. ... Wait, who are you?",
-                  "en_US": "Ei, você não vê que estou ocupado aqui?\\. ...Espere, quem é você?"
+                  "en_US": "Ei, você não vê que estou ocupado aqui?\\. Espera, quem é você?"
                 }
               },
               "4": {
@@ -3170,7 +3170,7 @@
               "17": {
                 "message": {
                   "": "W-Well...\\. you see...\\. That was a mistake on my end.",
-                  "en_US": "B-Bem...\\. veja...\\. Isso foi um erro da minha parte."
+                  "en_US": "B-Bem...\\. veja...\\. isso foi um erro da minha parte."
                 }
               },
               "18": {
@@ -3288,7 +3288,7 @@
               "17": {
                 "message": {
                   "": "... That's none of yer bloody business!",
-                  "en_US": "... Isso não é da sua conta!"
+                  "en_US": "...Isso não é da sua conta!"
                 }
               },
               "18": {
@@ -3585,7 +3585,7 @@
           "0": {
             "text": {
               "": "Dude...\\. I know you're new around here, but really, ya gotta be more relaxed about all this.",
-              "en_US": "Cara...\\. Eu sei que você é novo por aqui, mas sério, você tem que ir com calma com tudo isso."
+              "en_US": "Cara...\\. eu sei que você é novo por aqui, mas sério, você tem que ir com calma com tudo isso."
             }
           },
           "1": {

@@ -8,7 +8,7 @@
               "0": {
                 "message": {
                   "": "Amazing work.\\. Numbers sure can't beat \\c[1]ridiculously high damage... numbers\\c[0].",
-                  "en_US": "Belo trabalho.\\. Inimigos em grande número não podem bater \\c[1]números ridiculamente altos de dano...\\c[0]."
+                  "en_US": "Belo trabalho.\\. Inimigos em grande número não conseguem dar conta de \\c[1]danos tão altos\\c[0]..."
                 }
               },
               "1": {
@@ -140,7 +140,7 @@
           "10": {
             "message": {
               "": "Yeah yeah I know,\\. a second waited is an attack wasted. ",
-              "en_US": "Sim, eu sei,\\. Cada segundo desperdiçado é um ataque a menos."
+              "en_US": "Sim, eu sei,\\. cada segundo desperdiçado é um ataque a menos."
             }
           },
           "12": {
@@ -269,7 +269,7 @@
           "16": {
             "message": {
               "": "...called VPI...\\.",
-              "en_US": "...chamado IPV...\\."
+              "en_US": "Chamado IPV...\\."
             }
           },
           "17": {
@@ -440,7 +440,7 @@
           "14": {
             "message": {
               "": "I suppose it is about time we explain all the circumstances.",
-              "en_US": "Suponho que seja hora de explicarmos todas as circunstâncias."
+              "en_US": "Acho que agora é a hora de esclarecer tudo."
             }
           },
           "15": {
