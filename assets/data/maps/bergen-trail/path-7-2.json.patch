@@ -85,7 +85,7 @@
           "6": {
             "message": {
               "": "...was just a normal \\v[combat.name.gray-frobbit].",
-              "en_US": "...era apenas um \\v[combat.name.gray-frobbit] normal."
+              "en_US": "... Era apenas um \\v[combat.name.gray-frobbit] normal."
             }
           },
           "7": {
@@ -282,7 +282,7 @@
           "24": {
             "message": {
               "": "... how?",
-              "en_US": "... como?"
+              "en_US": "... Como?"
             }
           },
           "25": {
@@ -317,7 +317,7 @@
           "35": {
             "message": {
               "": "... bye.",
-              "en_US": "... tchau."
+              "en_US": "... Tchau."
             }
           }
         }

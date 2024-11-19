@@ -36,7 +36,7 @@
           "20": {
             "message": {
               "": "...How?",
-              "en_US": "...Como?"
+              "en_US": "... Como?"
             }
           },
           "21": {
@@ -273,13 +273,13 @@
           "71": {
             "message": {
               "": "...I...",
-              "en_US": "...Eu..."
+              "en_US": "... Eu..."
             }
           },
           "72": {
             "message": {
               "": "...I can't...\\. remove the Cross Gear.",
-              "en_US": "...Eu não posso...\\. remover o Cross Gear."
+              "en_US": "... Eu não posso...\\. remover o Cross Gear."
             }
           },
           "74": {
@@ -302,7 +302,7 @@
           "85": {
             "message": {
               "": "...Wait!",
-              "en_US": "...Espera!"
+              "en_US": "... Espera!"
             }
           }
         }
@@ -448,7 +448,7 @@
           "24": {
             "message": {
               "": "...No?",
-              "en_US": "...Não?"
+              "en_US": "... Não?"
             }
           },
           "25": {

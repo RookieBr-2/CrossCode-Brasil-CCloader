@@ -63,7 +63,7 @@
           "50": {
             "message": {
               "": "... Apparently. Well, something just had to go wrong.",
-              "en_US": "...Aparentemente sim. Algo tinha que dar errado."
+              "en_US": "... Aparentemente sim. Algo tinha que dar errado."
             }
           },
           "51": {
@@ -159,7 +159,7 @@
           "62": {
             "message": {
               "": "...Virtual Ricochet Projectiles?",
-              "en_US": "...Projéteis de Ricochete Virtual?"
+              "en_US": "... Projéteis de Ricochete Virtual?"
             }
           },
           "63": {
@@ -170,7 +170,7 @@
           "64": {
             "message": {
               "": "...Balls?",
-              "en_US": "...Esferas?"
+              "en_US": "... Esferas?"
             }
           },
           "65": {
@@ -420,7 +420,7 @@
               "1": {
                 "message": {
                   "": "... Well, that was quick...",
-                  "en_US": "...Bem, isso foi rápido..."
+                  "en_US": "... Bem, isso foi rápido..."
                 }
               },
               "2": {

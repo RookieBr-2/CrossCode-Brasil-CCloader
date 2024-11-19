@@ -12,19 +12,19 @@
           "10": {
             "text": {
               "": "...with the endurance of a flowing river...",
-              "en_US": "...com a resistência de um rio fluente..."
+              "en_US": "... Com a resistência de um rio fluente..."
             }
           },
           "11": {
             "text": {
               "": "... with the agility of a gust of wind....",
-              "en_US": "... com a agilidade de uma rajada de vento...."
+              "en_US": "... Com a agilidade de uma rajada de vento...."
             }
           },
           "12": {
             "text": {
               "": "...you shall reach your destination.",
-              "en_US": "...você deve chegar ao seu destino."
+              "en_US": "... Você deve chegar ao seu destino."
             }
           }
         }
@@ -42,19 +42,19 @@
           "10": {
             "text": {
               "": "...with the strength of a burning sun...",
-              "en_US": "...com a força de um sol ardente..."
+              "en_US": "... Com a força de um sol ardente..."
             }
           },
           "11": {
             "text": {
               "": "... with the resilience of a solid mountain...",
-              "en_US": "... com a resiliência de uma montanha sólida..."
+              "en_US": "... Com a resiliência de uma montanha sólida..."
             }
           },
           "12": {
             "text": {
               "": "...you shall reach your destination.",
-              "en_US": "...você deve chegar ao seu destino."
+              "en_US": "... Você deve chegar ao seu destino."
             }
           }
         }
@@ -68,7 +68,7 @@
               "2": {
                 "message": {
                   "": "...Hi!",
-                  "en_US": "...Oi!"
+                  "en_US": "... Oi!"
                 }
               },
               "3": {
@@ -135,7 +135,7 @@
               "4": {
                 "message": {
                   "": "...Hi...",
-                  "en_US": "...Oi..."
+                  "en_US": "... Oi..."
                 }
               },
               "5": {
@@ -453,7 +453,7 @@
           "35": {
             "message": {
               "": "...Hi.",
-              "en_US": "...Oi."
+              "en_US": "... Oi."
             }
           },
           "36": {
@@ -714,7 +714,7 @@
           "110": {
             "text": {
               "": "... just how insignificant \nwe are to this world.",
-              "en_US": "... como somos insignificantes \nneste mundo."
+              "en_US": "... Como somos insignificantes \nneste mundo."
             }
           },
           "111": {
@@ -1297,13 +1297,13 @@
           "1": {
             "text": {
               "": "...Because he's holding cards?",
-              "en_US": "...Só porque ele está segurando cartas?"
+              "en_US": "... Só porque ele está segurando cartas?"
             }
           },
           "2": {
             "text": {
               "": "...Yes.",
-              "en_US": "...Sim."
+              "en_US": "... Sim."
             }
           },
           "3": {

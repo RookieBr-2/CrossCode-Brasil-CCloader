@@ -41,7 +41,7 @@
               "2": {
                 "message": {
                   "": "...Hi!",
-                  "en_US": "...Oi!"
+                  "en_US": "... Oi!"
                 }
               },
               "3": {
@@ -329,7 +329,7 @@
               "0": {
                 "message": {
                   "": "...Wait!",
-                  "en_US": "...Espera!"
+                  "en_US": "... Espera!"
                 }
               }
             },
@@ -406,7 +406,7 @@
           "51": {
             "message": {
               "": "...Dad?",
-              "en_US": "...Pai?"
+              "en_US": "... Pai?"
             }
           },
           "60": {
@@ -795,7 +795,7 @@
                     "1": {
                       "message": {
                         "": "...How?",
-                        "en_US": "...Como?"
+                        "en_US": "... Como?"
                       }
                     },
                     "3": {
@@ -955,7 +955,7 @@
           "16": {
             "message": {
               "": "...How?",
-              "en_US": "...Como?"
+              "en_US": "... Como?"
             }
           },
           "17": {
@@ -1119,7 +1119,7 @@
           "47": {
             "message": {
               "": "...the chakrams for a Spheromancer!",
-              "en_US": "...os chakrams para um Esferomante!"
+              "en_US": "... Os chakrams para um Esferomante!"
             }
           },
           "48": {

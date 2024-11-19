@@ -174,7 +174,7 @@
           "110": {
             "message": {
               "": "...and enter a \\c[3]new world\\c[0].",
-              "en_US": "...e entrar num \\c[3]novo mundo\\c[0]."
+              "en_US": "... E entrar num \\c[3]novo mundo\\c[0]."
             }
           },
           "116": {
@@ -346,7 +346,7 @@
           "154": {
             "message": {
               "": "...Huh.",
-              "en_US": "...Hmm."
+              "en_US": "... Hmm."
             }
           },
           "162": {
@@ -601,7 +601,7 @@
               "7": {
                 "message": {
                   "": "... until the release arrives.",
-                  "en_US": "... até o lançamento chegar."
+                  "en_US": "... Até o lançamento chegar."
                 }
               },
               "8": {

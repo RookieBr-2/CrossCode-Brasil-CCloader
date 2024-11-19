@@ -3565,7 +3565,7 @@
             "7": {
               "message": {
                 "": "... which is way too expensive and can only be bought after grinding for hours.",
-                "en_US": "... equipamento que é caro demais e só pode ser comprado depois de muitas horas farmando."
+                "en_US": "Equipamento que é caro demais e só pode ser comprado depois de muitas horas farmando."
               }
             },
             "8": {
@@ -3626,7 +3626,7 @@
             "0": {
               "message": {
                 "": "...\\. Why?",
-                "en_US": "...\\. Por que?"
+                "en_US": "Por que?"
               }
             }
           }
@@ -3934,7 +3934,7 @@
             "16": {
               "message": {
                 "": "\\c[1]...those guys...\\c[0]",
-                "en_US": "\\c[1]...esses caras...\\c[0]"
+                "en_US": "\\c[1]... Esses caras...\\c[0]"
               }
             },
             "20": {
@@ -3945,7 +3945,7 @@
             "22": {
               "message": {
                 "": "...would throw a fit and get me nerfed.\n",
-                "en_US": "...podem surtar e me nerfar.\n"
+                "en_US": "... Podem surtar e me nerfar.\n"
               }
             },
             "23": {
@@ -4415,7 +4415,7 @@
             "35": {
               "message": {
                 "": "...because the developer thought \"Ho boy, that might be a good spot for an NPC!\".",
-                "en_US": "...porque os desenvolvedores pensaram \"Ora, esse é um bom lugar para colocar um NPC!\""
+                "en_US": "... Porque os desenvolvedores pensaram \"Ora, esse é um bom lugar para colocar um NPC!\""
               }
             },
             "36": {
@@ -4495,7 +4495,7 @@
             "0": {
               "message": {
                 "": "...Why?",
-                "en_US": "...Por que?"
+                "en_US": "... Por que?"
               }
             }
           }
@@ -4532,7 +4532,7 @@
             "1": {
               "message": {
                 "": "...How?",
-                "en_US": "...Como?"
+                "en_US": "... Como?"
               }
             }
           }
@@ -6571,7 +6571,7 @@
                 "0": {
                   "message": {
                     "": "...Lea?\\. I think I need a break.",
-                    "en_US": "...Lea?\\. Acho que preciso de uma pausa."
+                    "en_US": "... Lea?\\. Acho que preciso de uma pausa."
                   }
                 }
               },
@@ -8056,7 +8056,7 @@
                 "1": {
                   "message": {
                     "": "...Right.",
-                    "en_US": "...Certo."
+                    "en_US": "... Certo."
                   }
                 }
               }
@@ -9809,7 +9809,7 @@
             "0": {
               "message": {
                 "": "...Urgh, I couldn't handle this!",
-                "en_US": "...Urgh, Isso foi demais pra mim!"
+                "en_US": "... Urgh, isso foi demais pra mim!"
               }
             }
           },
@@ -9871,7 +9871,7 @@
             "0": {
               "message": {
                 "": "...Pardon. That was just too much for me to handle.",
-                "en_US": "...Pardon. Isso foi demais para mim."
+                "en_US": "... Pardon. Isso foi demais para mim."
               }
             }
           },
@@ -9963,7 +9963,7 @@
             "0": {
               "message": {
                 "": "...You know that water can have 3 states. And this is the only deadly one.",
-                "en_US": "...Você sabe que a água pode ter 3 estados. E este é mortal."
+                "en_US": "... Você sabe que a água pode ter 3 estados. E este é mortal."
               }
             }
           }
@@ -16235,7 +16235,7 @@
             "3": {
               "message": {
                 "": "...What?",
-                "en_US": "...Que?"
+                "en_US": "... Que?"
               }
             },
             "4": {
@@ -16276,7 +16276,7 @@
             "10": {
               "message": {
                 "": "...What?",
-                "en_US": "...Que?"
+                "en_US": "... Que?"
               }
             },
             "11": {

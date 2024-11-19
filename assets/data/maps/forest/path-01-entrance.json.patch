@@ -402,13 +402,13 @@
           "14": {
             "text": {
               "": "...Well done Seeker... ",
-              "en_US": "...Muito bem, Seeker..."
+              "en_US": "... Muito bem, Seeker..."
             }
           },
           "15": {
             "text": {
               "": "...You have completed the \\c[3]Trial of Agility\\c[0]...",
-              "en_US": "...Você completou a \\c[3]Prova da Agilidade\\c[0]..."
+              "en_US": "... Você completou a \\c[3]Prova da Agilidade\\c[0]..."
             }
           },
           "16": {
@@ -426,7 +426,7 @@
           "0": {
             "text": {
               "": "...so no traders here.",
-              "en_US": "...então, nada de comerciantes aqui."
+              "en_US": "... Então, nada de comerciantes aqui."
             }
           },
           "1": {
@@ -528,7 +528,7 @@
                 "23": {
                   "message": {
                     "": "...we eagerly welcome your punctuality and willingness to join our cause and serve your fellow player!",
-                    "en_US": "...acolhemos com entusiasmo sua pontualidade e vontade de ajudar a nossa causa e servir seus companheiros de jogo!"
+                    "en_US": "... Acolhemos com entusiasmo sua pontualidade e vontade de ajudar a nossa causa e servir seus companheiros de jogo!"
                   }
                 },
                 "24": {

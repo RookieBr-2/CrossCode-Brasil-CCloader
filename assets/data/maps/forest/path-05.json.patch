@@ -9,43 +9,43 @@
                 "5": {
                   "text": {
                     "": "...A Trial it is you seek, and a trial you shall receive... ",
-                    "en_US": "...Um teste você procura, e um teste você receberá..."
+                    "en_US": "... Um teste você procura, e um teste você receberá..."
                   }
                 },
                 "18": {
                   "text": {
                     "": "...Perception is a skill few can master...",
-                    "en_US": "...Percepção é uma habilidade que poucos podem dominar..."
+                    "en_US": "... Percepção é uma habilidade que poucos podem dominar..."
                   }
                 },
                 "19": {
                   "text": {
                     "": "...This trial will test your awareness and wit...",
-                    "en_US": "...Este desafio testará sua consciência e inteligência..."
+                    "en_US": "... Este desafio testará sua consciência e inteligência..."
                   }
                 },
                 "20": {
                   "text": {
                     "": "...Catch the golden bug in the thicket \\c[3]6 times\\c[0]...",
-                    "en_US": "...Capture o inseto dourado na mata \\c[3]6 vezes\\c[0]..."
+                    "en_US": "... Capture o inseto dourado na mata \\c[3]6 vezes\\c[0]..."
                   }
                 },
                 "21": {
                   "text": {
                     "": "...But do so quickly, or else the trial is failed...",
-                    "en_US": "...Mas faça isso rapidamente, ou então o teste será mal-sucedido..."
+                    "en_US": "... Mas faça isso rapidamente, ou então o teste será mal-sucedido..."
                   }
                 },
                 "22": {
                   "text": {
                     "": "...Speak to me again if you wish to begin the trial...",
-                    "en_US": "...Fale comigo novamente se você deseja começar o teste..."
+                    "en_US": "... Fale comigo novamente se você deseja começar o teste..."
                   }
                 },
                 "23": {
                   "text": {
                     "": "...Or cancel it...",
-                    "en_US": "...Ou cancelá-lo..."
+                    "en_US": "... Ou cancelá-lo..."
                   }
                 },
                 "27": {
@@ -69,13 +69,13 @@
                     "8": {
                       "text": {
                         "": "...You have returned...",
-                        "en_US": "...Você retornou..."
+                        "en_US": "... Você retornou..."
                       }
                     },
                     "9": {
                       "text": {
                         "": "...Do you wish to begin your trial... ",
-                        "en_US": "...Você deseja começar seu teste..."
+                        "en_US": "... Você deseja começar seu teste..."
                       }
                     },
                     "11": {
@@ -115,7 +115,7 @@
                 "9": {
                   "text": {
                     "": "...Are you ready?...",
-                    "en_US": "....Você está pronta?..."
+                    "en_US": ".... Você está pronta?..."
                   }
                 },
                 "12": {
@@ -129,7 +129,7 @@
                     "7": {
                       "text": {
                         "": "...Let the trial begin...",
-                        "en_US": "...Que o teste comece..."
+                        "en_US": "... Que o teste comece..."
                       }
                     },
                     "9": {
@@ -153,7 +153,7 @@
                     "1": {
                       "text": {
                         "": "...If that is your choice...",
-                        "en_US": "...Se essa é a sua escolha..."
+                        "en_US": "... Se essa é a sua escolha..."
                       }
                     }
                   },
@@ -161,7 +161,7 @@
                     "0": {
                       "text": {
                         "": "...This trial will test your awareness and wit...",
-                        "en_US": "...Este desafio testará sua consciência e inteligência..."
+                        "en_US": "... Este desafio testará sua consciência e inteligência..."
                       }
                     },
                     "1": {
@@ -173,7 +173,7 @@
                     "2": {
                       "text": {
                         "": "...But do so fast, or else the trial is failed...",
-                        "en_US": "...Mas faça isso rapidamente, ou então o teste será mal-sucedido..."
+                        "en_US": "... Mas faça isso rapidamente, ou então o teste será mal-sucedido..."
                       }
                     }
                   },
@@ -212,7 +212,7 @@
               "2": {
                 "text": {
                   "": "...Giving up so soon, Seeker...",
-                  "en_US": "...Desistindo tão cedo, Seeker..."
+                  "en_US": "... Desistindo tão cedo, Seeker..."
                 }
               },
               "4": {
@@ -220,7 +220,7 @@
                   "9": {
                     "text": {
                       "": "...If that is your choice...",
-                      "en_US": "...Se essa é a sua escolha..."
+                      "en_US": "... Se essa é a sua escolha..."
                     }
                   }
                 },
@@ -247,7 +247,7 @@
                 "1": {
                   "text": {
                     "": "...You have completed the \\c[3]Trial of Insight\\c[0]...",
-                    "en_US": "...Você concluiu o \\c[3]Teste da Percepção\\c[0]..."
+                    "en_US": "... Você concluiu o \\c[3]Teste da Percepção\\c[0]..."
                   }
                 },
                 "2": {
@@ -264,7 +264,7 @@
               "1": {
                 "text": {
                   "": "...Stay ever vigilant, Seeker...",
-                  "en_US": "...Fique sempre vigilante, Seeker..."
+                  "en_US": "... Fique sempre vigilante, Seeker..."
                 }
               }
             }
@@ -278,7 +278,7 @@
           "14": {
             "text": {
               "": "...The time is up, Seeker...",
-              "en_US": "...O tempo acabou, Seeker..."
+              "en_US": "... O tempo acabou, Seeker..."
             }
           },
           "15": {
@@ -286,7 +286,7 @@
               "0": {
                 "text": {
                   "": "...You didn't even find the bug once...",
-                  "en_US": "...Você nem sequer encontrou o inseto uma única vez..."
+                  "en_US": "... Você nem sequer encontrou o inseto uma única vez..."
                 }
               }
             },
@@ -296,7 +296,7 @@
                   "0": {
                     "text": {
                       "": "...You only found the bug once...",
-                      "en_US": "...Você encontrou o inseto apenas uma vez..."
+                      "en_US": "... Você encontrou o inseto apenas uma vez..."
                     }
                   }
                 },
@@ -304,7 +304,7 @@
                   "0": {
                     "text": {
                       "": "...You only found the bug \\v[tmp.bugCounter] times...",
-                      "en_US": "...Você encontrou o inseto \\v[tmp.bugCounter] vezes..."
+                      "en_US": "... Você encontrou o inseto \\v[tmp.bugCounter] vezes..."
                     }
                   }
                 }
@@ -314,13 +314,13 @@
           "16": {
             "text": {
               "": "...There is still much you need to learn...",
-              "en_US": "...Você ainda tem muito a aprender..."
+              "en_US": "... Você ainda tem muito a aprender..."
             }
           },
           "17": {
             "text": {
               "": "...Speak to me to try again...",
-              "en_US": "...Fale comigo para tentar novamente..."
+              "en_US": "... Fale comigo para tentar novamente..."
             }
           }
         }
@@ -332,13 +332,13 @@
           "30": {
             "text": {
               "": "...You have done well, Seeker... ",
-              "en_US": "...Você se saiu bem, Seeker..."
+              "en_US": "... Você se saiu bem, Seeker..."
             }
           },
           "31": {
             "text": {
               "": "...Come to me to claim your reward... ",
-              "en_US": "...Venha até mim para reivindicar sua recompensa..."
+              "en_US": "... Venha até mim para reivindicar sua recompensa..."
             }
           }
         }

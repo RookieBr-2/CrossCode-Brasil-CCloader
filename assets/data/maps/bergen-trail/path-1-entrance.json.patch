@@ -132,7 +132,7 @@
                     "1": {
                       "message": {
                         "": "...T-\\.Thanks! You're a lifesaver!",
-                        "en_US": "...O-\\.Obrigada! Você salvou minha vida!"
+                        "en_US": "... O-\\.Obrigada! Você salvou minha vida!"
                       }
                     },
                     "2": {
@@ -188,7 +188,7 @@
                 "3": {
                   "message": {
                     "": "...Oh!\\. I-\\.Is that the \\c[3]\\v[item.30.name]\\c[0] you bought for me?",
-                    "en_US": "...Ah!\\. É-\\.É essa a \\c[3]\\v[item.30.name]\\c[0], que você comprou para mim?"
+                    "en_US": "... Ah!\\. É-\\.É essa a \\c[3]\\v[item.30.name]\\c[0], que você comprou para mim?"
                   }
                 },
                 "4": {
@@ -311,7 +311,7 @@
                 "9": {
                   "message": {
                     "": "...Hi?",
-                    "en_US": "...Oi?"
+                    "en_US": "... Oi?"
                   }
                 },
                 "10": {

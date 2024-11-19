@@ -315,7 +315,7 @@
           "64": {
             "message": {
               "": "... given we have enough guild members to help us.",
-              "en_US": "... levando em conta que contamos com membros suficientes da guilda para ajudar."
+              "en_US": "... Levando em conta que contamos com membros suficientes da guilda para ajudar."
             }
           },
           "65": {
@@ -495,7 +495,7 @@
               "2": {
                 "message": {
                   "": "...Hi!",
-                  "en_US": "...Oi!"
+                  "en_US": "... Oi!"
                 }
               },
               "3": {

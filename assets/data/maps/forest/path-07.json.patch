@@ -9,31 +9,31 @@
                 "2": {
                   "text": {
                     "": "...A Trial it is you seek, and a trial you shall receive... ",
-                    "en_US": "...Um teste é o que você procura, e um teste você receberá..."
+                    "en_US": "... Um teste é o que você procura, e um teste você receberá..."
                   }
                 },
                 "9": {
                   "text": {
                     "": "...Patience has become rare in this world..",
-                    "en_US": "...A paciência se tornou rara neste mundo..."
+                    "en_US": "... A paciência se tornou rara neste mundo..."
                   }
                 },
                 "10": {
                   "text": {
                     "": "...This trial will test your focus and will...",
-                    "en_US": "....Este desfio testará seu foco e sua vontade..."
+                    "en_US": ".... Este desfio testará seu foco e sua vontade..."
                   }
                 },
                 "11": {
                   "text": {
                     "": "...Watch the pipe, as water fills up and flows out...",
-                    "en_US": "...Observe o tubo de bambu, enquanto a água se enche e escoa..."
+                    "en_US": "... Observe o tubo de bambu, enquanto a água se enche e escoa..."
                   }
                 },
                 "18": {
                   "text": {
                     "": "...Speak to me again if you wish to begin the trial...",
-                    "en_US": "...Fale comigo novamente se quiser começar o teste..."
+                    "en_US": "... Fale comigo novamente se quiser começar o teste..."
                   }
                 },
                 "20": {
@@ -66,37 +66,37 @@
               "1": {
                 "text": {
                   "": "...Let us test your patience...",
-                  "en_US": "...Vamos testar sua paciência..."
+                  "en_US": "... Vamos testar sua paciência..."
                 }
               },
               "2": {
                 "text": {
                   "": "...Stand in the flower circle, still like a stone...",
-                  "en_US": "...Fique de pé no círculo de flores, imóvel como uma pedra..."
+                  "en_US": "... Fique de pé no círculo de flores, imóvel como uma pedra..."
                 }
               },
               "13": {
                 "text": {
                   "": "...Watch the bamboo pipe closely...",
-                  "en_US": "...Observe de perto o tubo de bambu..."
+                  "en_US": "... Observe de perto o tubo de bambu..."
                 }
               },
               "14": {
                 "text": {
                   "": "...Wait patiently until it touches\nthe stone \\c[3]12 times\\c[0]...",
-                  "en_US": "...Espere pacientemente até que ele toque\na pedra \\c[3]12 vezes\\c[0]..."
+                  "en_US": "... Espere pacientemente até que ele toque\na pedra \\c[3]12 vezes\\c[0]..."
                 }
               },
               "22": {
                 "text": {
                   "": "...Then you shall hit this switch...",
-                  "en_US": "...Então você deve acertar este interruptor..."
+                  "en_US": "... Então você deve acertar este interruptor..."
                 }
               },
               "27": {
                 "text": {
                   "": "...Let the trial begin...",
-                  "en_US": "...Que o teste comece..."
+                  "en_US": "... Que o teste comece..."
                 }
               },
               "33": {
@@ -112,7 +112,7 @@
               "1": {
                 "text": {
                   "": "...Stay ever vigilant Seeker...",
-                  "en_US": "...Fique sempre vigilante Seeker..."
+                  "en_US": "... Fique sempre vigilante Seeker..."
                 }
               }
             }
@@ -126,19 +126,19 @@
           "8": {
             "text": {
               "": "...You lost your patience and moved out of the circle... ",
-              "en_US": "...Você perdeu a paciência e saiu do círculo... "
+              "en_US": "... Você perdeu a paciência e saiu do círculo... "
             }
           },
           "9": {
             "text": {
               "": "...You failed the trial...",
-              "en_US": "...Você falhou no teste..."
+              "en_US": "... Você falhou no teste..."
             }
           },
           "10": {
             "text": {
               "": "...Talk to me again to test your patience once more...",
-              "en_US": "...Fale comigo novamente para testar sua paciência mais um vez..."
+              "en_US": "... Fale comigo novamente para testar sua paciência mais um vez..."
             }
           }
         }
@@ -150,7 +150,7 @@
           "12": {
             "text": {
               "": "...The pipe touched the stone \\c[3]\\v[tmp.finalCount]\\c[0] times... ",
-              "en_US": "...O tubo tocou a pedra \\c[3]\\v[tmp.finalCount]\\c[0] vezes..."
+              "en_US": "... O tubo tocou a pedra \\c[3]\\v[tmp.finalCount]\\c[0] vezes..."
             }
           },
           "13": {
@@ -158,19 +158,19 @@
               "0": {
                 "text": {
                   "": "...You reacted in the right moment...",
-                  "en_US": "...Você reagiu no momento certo..."
+                  "en_US": "... Você reagiu no momento certo..."
                 }
               },
               "1": {
                 "text": {
                   "": "...Thus, you completed the \\c[3]Trial of Patience\\c[0]...",
-                  "en_US": "...Assim, você completou o \\c[3]Teste da Paciência\\c[0]..."
+                  "en_US": "... Assim, você completou o \\c[3]Teste da Paciência\\c[0]..."
                 }
               },
               "2": {
                 "text": {
                   "": "...Take this token as a sign of your victory...",
-                  "en_US": "...Aceite este emblema como um símbolo de sua vitória..."
+                  "en_US": "... Aceite este emblema como um símbolo de sua vitória..."
                 }
               }
             },
@@ -180,7 +180,7 @@
                   "0": {
                     "text": {
                       "": "...You lost patience and hit the switch too soon...",
-                      "en_US": "...Você perdeu a paciência e acertou o interruptor muito cedo..."
+                      "en_US": "... Você perdeu a paciência e acertou o interruptor muito cedo..."
                     }
                   }
                 },
@@ -188,7 +188,7 @@
                   "0": {
                     "text": {
                       "": "...You lost focus and missed the right moment...",
-                      "en_US": "...Você perdeu o foco e perdeu o momento exato..."
+                      "en_US": "... Você perdeu o foco e perdeu o momento exato..."
                     }
                   }
                 }
@@ -196,13 +196,13 @@
               "1": {
                 "text": {
                   "": "...You failed the trial...",
-                  "en_US": "...Você falhou no teste..."
+                  "en_US": "... Você falhou no teste..."
                 }
               },
               "2": {
                 "text": {
                   "": "...Talk to me again to test your patience once more...",
-                  "en_US": "...Fale comigo novamente para testar sua paciência mais uma vez..."
+                  "en_US": "... Fale comigo novamente para testar sua paciência mais uma vez..."
                 }
               }
             }
@@ -292,7 +292,7 @@
                           "0": {
                             "message": {
                               "": "...Wait...",
-                              "en_US": "...Espera..."
+                              "en_US": "... Espera..."
                             }
                           }
                         }
@@ -505,19 +505,19 @@
           "8": {
             "text": {
               "": "...The water must flow naturally, no tampering allowed... ",
-              "en_US": "...A água deve fluir naturalmente, nenhuma adulteração é permitida..."
+              "en_US": "... A água deve fluir naturalmente, nenhuma adulteração é permitida..."
             }
           },
           "9": {
             "text": {
               "": "...You failed the trial...",
-              "en_US": "...Você falhou no teste..."
+              "en_US": "... Você falhou no teste..."
             }
           },
           "10": {
             "text": {
               "": "...Talk to me again to test your patience once more...",
-              "en_US": "...Fale comigo novamente para testar sua paciência mais uma vez..."
+              "en_US": "... Fale comigo novamente para testar sua paciência mais uma vez..."
             }
           }
         }

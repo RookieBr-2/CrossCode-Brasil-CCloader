@@ -88,7 +88,7 @@
               "15": {
                 "message": {
                   "": "... bye.",
-                  "en_US": "... tchau."
+                  "en_US": "... Tchau."
                 }
               }
             }
@@ -126,7 +126,7 @@
               "6": {
                 "message": {
                   "": "... bye.",
-                  "en_US": "... tchau."
+                  "en_US": "... Tchau."
                 }
               }
             }
@@ -193,7 +193,7 @@
               "10": {
                 "message": {
                   "": "... wait.",
-                  "en_US": "... espera."
+                  "en_US": "... Espera."
                 }
               },
               "11": {
@@ -205,7 +205,7 @@
               "12": {
                 "message": {
                   "": "... b-bye.",
-                  "en_US": "... t-tchau."
+                  "en_US": "... T-tchau."
                 }
               }
             }
@@ -232,7 +232,7 @@
               "4": {
                 "message": {
                   "": "... bye.",
-                  "en_US": "... tchau."
+                  "en_US": "... Tchau."
                 }
               }
             }
@@ -316,13 +316,13 @@
               "13": {
                 "message": {
                   "": "... but right now, talking to you is making me get my butt kicked. So please go away and talk to someone else.",
-                  "en_US": "...mas agora, conversar com você está me fazendo apanhar feio. Então, por favor, vá falar com outra pessoa."
+                  "en_US": "... Mas agora, conversar com você está me fazendo apanhar feio. Então, por favor, vá falar com outra pessoa."
                 }
               },
               "14": {
                 "message": {
                   "": "...bye.",
-                  "en_US": "...tchau."
+                  "en_US": "... Tchau."
                 }
               }
             }
@@ -349,7 +349,7 @@
               "4": {
                 "message": {
                   "": "...bye.",
-                  "en_US": "...tchau."
+                  "en_US": "... Tchau."
                 }
               }
             }
@@ -405,7 +405,7 @@
               "8": {
                 "message": {
                   "": "... how?",
-                  "en_US": "... como?"
+                  "en_US": "... Como?"
                 }
               },
               "9": {
@@ -417,7 +417,7 @@
               "10": {
                 "message": {
                   "": "... why?",
-                  "en_US": "... por que?"
+                  "en_US": "... Por que?"
                 }
               },
               "11": {
@@ -429,7 +429,7 @@
               "12": {
                 "message": {
                   "": "... how?",
-                  "en_US": "... como?"
+                  "en_US": "... Como?"
                 }
               },
               "13": {
@@ -441,7 +441,7 @@
               "14": {
                 "message": {
                   "": "... why?",
-                  "en_US": "... por que?"
+                  "en_US": "... Por que?"
                 }
               },
               "15": {

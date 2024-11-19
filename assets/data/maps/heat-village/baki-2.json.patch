@@ -184,7 +184,7 @@
                     "21": {
                       "message": {
                         "": "...bye.",
-                        "en_US": "...tchau."
+                        "en_US": "... Tchau."
                       }
                     }
                   },
@@ -458,25 +458,25 @@
           "61": {
             "message": {
               "": "...Why?",
-              "en_US": "...Por que?"
+              "en_US": "... Por que?"
             }
           },
           "65": {
             "message": {
               "": "...How?",
-              "en_US": "...Como?"
+              "en_US": "... Como?"
             }
           },
           "70": {
             "message": {
               "": "...How...",
-              "en_US": "...Como..."
+              "en_US": "... Como..."
             }
           },
           "71": {
             "message": {
               "": "...Why?",
-              "en_US": "...Por que?"
+              "en_US": "... Por que?"
             }
           },
           "74": {
@@ -494,7 +494,7 @@
           "76": {
             "message": {
               "": "...Why?",
-              "en_US": "...Por que?"
+              "en_US": "... Por que?"
             }
           },
           "77": {
@@ -511,7 +511,7 @@
           "79": {
             "message": {
               "": "...How?",
-              "en_US": "...Como?"
+              "en_US": "... Como?"
             }
           },
           "80": {
@@ -694,7 +694,7 @@
           "121": {
             "message": {
               "": "...Okay?",
-              "en_US": "...Ok?"
+              "en_US": "... Ok?"
             }
           },
           "122": {
@@ -755,7 +755,7 @@
           "136": {
             "message": {
               "": "... if we continue playing CrossWorlds.",
-              "en_US": "... se continuarmos jogando CrossWorlds."
+              "en_US": "... Se continuarmos jogando CrossWorlds."
             }
           },
           "137": {
@@ -1147,7 +1147,7 @@
                 "3": {
                   "message": {
                     "": "... hi!",
-                    "en_US": "... oi!"
+                    "en_US": "... Oi!"
                   }
                 },
                 "4": {
@@ -1188,7 +1188,7 @@
                 "10": {
                   "message": {
                     "": "...bye.",
-                    "en_US": "...tchau."
+                    "en_US": "... Tchau."
                   }
                 }
               }
@@ -1210,7 +1210,7 @@
               "3": {
                 "message": {
                   "": "...bye.",
-                  "en_US": "...tchau."
+                  "en_US": "... Tchau."
                 }
               }
             }
@@ -1231,7 +1231,7 @@
               "3": {
                 "message": {
                   "": "...bye.",
-                  "en_US": "...tchau."
+                  "en_US": "... Tchau."
                 }
               }
             }
@@ -2251,7 +2251,7 @@
                 "12": {
                   "message": {
                     "": "... Bye.",
-                    "en_US": "... tchau!"
+                    "en_US": "... Tchau!"
                   }
                 }
               }
@@ -2411,7 +2411,7 @@
           "44": {
             "message": {
               "": "... after all the things I told you yesterday ...",
-              "en_US": "... depois de todas as coisas que eu te disse ontem ..."
+              "en_US": "... Depois de todas as coisas que eu te disse ontem ..."
             }
           },
           "45": {
@@ -2585,7 +2585,7 @@
           "28": {
             "message": {
               "": "...Hi.",
-              "en_US": "...oi."
+              "en_US": "... Oi."
             }
           },
           "29": {
@@ -2980,7 +2980,7 @@
           "116": {
             "message": {
               "": "... Well...",
-              "en_US": "... ok..."
+              "en_US": "... Ok..."
             }
           },
           "117": {
@@ -3019,7 +3019,7 @@
           "127": {
             "message": {
               "": "...Is something the matter, Lea?",
-              "en_US": "...Está acontecendo alguma coisa, Lea?"
+              "en_US": "... Está acontecendo alguma coisa, Lea?"
             }
           },
           "128": {
@@ -3059,7 +3059,7 @@
           "22": {
             "message": {
               "": "...Hi.",
-              "en_US": "...oi."
+              "en_US": "... Oi."
             }
           },
           "23": {
@@ -3308,7 +3308,7 @@
           "94": {
             "message": {
               "": "... Bye.",
-              "en_US": "... tchau."
+              "en_US": "... Tchau."
             }
           },
           "108": {
@@ -3975,7 +3975,7 @@
                     "2": {
                       "message": {
                         "": "...bye.",
-                        "en_US": "...tchau."
+                        "en_US": "... Tchau."
                       }
                     }
                   }
@@ -4136,7 +4136,7 @@
                 "93": {
                   "message": {
                     "": "... b-bye?",
-                    "en_US": "... t-tchau?"
+                    "en_US": "... T-tchau?"
                   }
                 }
               }

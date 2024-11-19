@@ -123,7 +123,7 @@
               "7": {
                 "message": {
                   "": "...What?",
-                  "en_US": "...Que?"
+                  "en_US": "... Que?"
                 }
               },
               "8": {
@@ -481,7 +481,7 @@
                   "3": {
                     "message": {
                       "": "...Why?",
-                      "en_US": "...Por que?"
+                      "en_US": "... Por que?"
                     }
                   },
                   "4": {
@@ -559,7 +559,7 @@
                   "5": {
                     "message": {
                       "": "...Why?",
-                      "en_US": "...Por que?"
+                      "en_US": "... Por que?"
                     }
                   },
                   "6": {
@@ -582,7 +582,7 @@
                   "9": {
                     "message": {
                       "": "...Bye!",
-                      "en_US": "...Tchau!"
+                      "en_US": "... Tchau!"
                     }
                   },
                   "10": {
@@ -704,7 +704,7 @@
           "40": {
             "message": {
               "": "...as usual?",
-              "en_US": "...como sempre?"
+              "en_US": "... Como sempre?"
             }
           },
           "41": {
@@ -945,7 +945,7 @@
               "9": {
                 "message": {
                   "": "...Why?",
-                  "en_US": "...Por que?"
+                  "en_US": "... Por que?"
                 }
               },
               "10": {
@@ -2073,7 +2073,7 @@
           "22": {
             "message": {
               "": "...Next question...",
-              "en_US": "...Próxima pergunta..."
+              "en_US": "... Próxima pergunta..."
             }
           },
           "23": {
@@ -2539,7 +2539,7 @@
               "0": {
                 "message": {
                   "": "...and...",
-                  "en_US": "...e..."
+                  "en_US": "... E..."
                 }
               },
               "1": {
@@ -2984,7 +2984,7 @@
               "136": {
                 "message": {
                   "": "...Bye!",
-                  "en_US": "...Tchau!"
+                  "en_US": "... Tchau!"
                 }
               },
               "138": {
@@ -3043,7 +3043,7 @@
               "159": {
                 "message": {
                   "": "...Um...\\. did Lea just talk to somebody?",
-                  "en_US": "...Um...\\. Lea falou com alguém?"
+                  "en_US": "... Hmm...\\. Lea falou com alguém?"
                 }
               }
             }
@@ -3236,7 +3236,7 @@
           "53": {
             "message": {
               "": "...Because you need question words to ask questions...",
-              "en_US": "...Porque você precisa de palavras de pergunta para fazer perguntas..."
+              "en_US": "... Porque você precisa de palavras de pergunta para fazer perguntas..."
             }
           },
           "54": {
@@ -3354,7 +3354,7 @@
           "40": {
             "message": {
               "": "...and the high-level team with \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0], and \\c[3]me\\c[0]!",
-              "en_US": "...e a equipe de nível alto com \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0], e \\c[3]euzinha\\c[0]!"
+              "en_US": "... E a equipe de nível alto com \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0], e \\c[3]euzinha\\c[0]!"
             }
           },
           "42": {
@@ -3858,7 +3858,7 @@
           "28": {
             "message": {
               "": "...Wait.",
-              "en_US": "...Espera."
+              "en_US": "... Espera."
             }
           },
           "29": {
@@ -3882,7 +3882,7 @@
           "32": {
             "message": {
               "": "...Why?",
-              "en_US": "...Por que?"
+              "en_US": "... Por que?"
             }
           },
           "33": {
@@ -3924,7 +3924,7 @@
           "39": {
             "message": {
               "": "...Why?",
-              "en_US": "...Por que?"
+              "en_US": "... Por que?"
             }
           },
           "40": {
@@ -4148,7 +4148,7 @@
           "25": {
             "message": {
               "": "...Why?",
-              "en_US": "...Por que?"
+              "en_US": "... Por que?"
             }
           },
           "26": {
@@ -4189,7 +4189,7 @@
           "33": {
             "message": {
               "": "...How...?",
-              "en_US": "...Como...?"
+              "en_US": "... Como...?"
             }
           },
           "34": {
@@ -5293,7 +5293,7 @@
           "22": {
             "message": {
               "": "...Hi!",
-              "en_US": "...Oi!"
+              "en_US": "... Oi!"
             }
           },
           "23": {
@@ -5467,7 +5467,7 @@
           "66": {
             "message": {
               "": "...Hi!",
-              "en_US": "...Oi!"
+              "en_US": "... Oi!"
             }
           },
           "73": {
@@ -5581,7 +5581,7 @@
           "104": {
             "message": {
               "": "....WHY?!?!",
-              "en_US": "...POR QUE?!?!"
+              "en_US": "... POR QUE?!?!"
             }
           },
           "105": {
@@ -5683,7 +5683,7 @@
           "133": {
             "message": {
               "": "...Hi!",
-              "en_US": "...Oi!"
+              "en_US": "... Oi!"
             }
           },
           "134": {
@@ -5829,7 +5829,7 @@
           "90": {
             "message": {
               "": "...Meet?",
-              "en_US": "...Encontrar?"
+              "en_US": "... Encontrar?"
             }
           },
           "93": {
@@ -7337,7 +7337,7 @@
           "94": {
             "message": {
               "": "...Okay?",
-              "en_US": "...Ok?"
+              "en_US": "... Ok?"
             }
           },
           "98": {

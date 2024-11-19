@@ -413,13 +413,13 @@
               "61": {
                 "message": {
                   "": "...taking care of you...",
-                  "en_US": "... cuidando de você ..."
+                  "en_US": "... Cuidando de você ..."
                 }
               },
               "62": {
                 "message": {
                   "": "...Sorry.",
-                  "en_US": "...Desculpa."
+                  "en_US": "... Desculpa."
                 }
               },
               "65": {
@@ -809,19 +809,19 @@
           "24": {
             "message": {
               "": "...re-enter the Playground....",
-              "en_US": "...entra novamente no Playground...."
+              "en_US": "... Entra novamente no Playground...."
             }
           },
           "27": {
             "message": {
               "": "... just strolling around with my memories...",
-              "en_US": "... e anda com as minhas memórias por aí na maior tranquilidade..."
+              "en_US": "... E anda com as minhas memórias por aí na maior tranquilidade..."
             }
           },
           "30": {
             "message": {
               "": "... like they're yours to use freely.",
-              "en_US": "... como se elas fossem suas."
+              "en_US": "... Como se elas fossem suas."
             }
           },
           "40": {
@@ -872,7 +872,7 @@
           "49": {
             "message": {
               "": "...Sorry?",
-              "en_US": "...Desculpa?"
+              "en_US": "... Desculpa?"
             }
           },
           "52": {
@@ -1262,7 +1262,7 @@
           "13": {
             "message": {
               "": "...Yes?",
-              "en_US": "...Sim?"
+              "en_US": "... Sim?"
             }
           },
           "14": {
@@ -1430,7 +1430,7 @@
           "9": {
             "message": {
               "": "...Wait.",
-              "en_US": "...Espera."
+              "en_US": "... Espera."
             }
           },
           "16": {
@@ -1488,7 +1488,7 @@
           "25": {
             "message": {
               "": "...Why?",
-              "en_US": "...Por que?"
+              "en_US": "... Por que?"
             }
           },
           "26": {
@@ -1753,7 +1753,7 @@
           "50": {
             "message": {
               "": "...Meet?",
-              "en_US": "...Encontrar?"
+              "en_US": "... Encontrar?"
             }
           },
           "51": {
@@ -1765,7 +1765,7 @@
           "52": {
             "message": {
               "": "...Meet Lea!",
-              "en_US": "...Encontrar Lea!"
+              "en_US": "... Encontrar Lea!"
             }
           },
           "53": {
