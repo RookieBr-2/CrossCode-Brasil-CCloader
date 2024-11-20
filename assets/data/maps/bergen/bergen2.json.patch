@@ -326,7 +326,7 @@
                 "13": {
                   "message": {
                     "": ".\\..\\..\\.and done!\\.\\. Here you go!",
-                    "en_US": ".\\..\\..\\.eee pronto!\\.\\. Aqui está!"
+                    "en_US": ".\\..\\..\\. Pronto!\\.\\. Aqui está!"
                   }
                 },
                 "15": {
@@ -980,7 +980,7 @@
           "13": {
             "message": {
               "": "Well...\\. I suppose you cannot tell anybody about it anyway, correct?",
-              "en_US": "Bem...\\. Parece que não será possível para você contar isso, não é mesmo?"
+              "en_US": "Mas...\\. parece que não será possível para você contar isso, não é mesmo?"
             }
           },
           "14": {

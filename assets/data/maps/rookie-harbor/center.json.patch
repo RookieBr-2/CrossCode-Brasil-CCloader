@@ -540,7 +540,7 @@
                 "7": {
                   "message": {
                     "": "But, if you bring me some \\c[3]fresh ice from Bergen Trail\\c[0], I could quickly produce new ice cream.",
-                    "en_US": "Mas, se você trouxer um pouco de \\c[3]gelo da Trilha de Bergen\\c[0], Eu poderia produzir mais sorvetes."
+                    "en_US": "Mas, se você trouxer um pouco de \\c[3]gelo da Trilha de Bergen\\c[0], eu poderia produzir mais sorvetes."
                   }
                 },
                 "8": {
@@ -872,7 +872,7 @@
                 "10": {
                   "message": {
                     "": "Well... \\.\\. He clearly should have!",
-                    "en_US": "Pois é...\\.\\. Ele deveria ter ensinado!"
+                    "en_US": "Pois é...\\.\\. ele deveria ter ensinado!"
                   }
                 },
                 "11": {
@@ -2021,7 +2021,7 @@
                 "7": {
                   "message": {
                     "": "I...\\. I see.\\. So you want to arrest me for my crimes?",
-                    "en_US": "Eu...\\. Saquei.\\. Então você quer me prender por meus crimes?"
+                    "en_US": "Eu...\\. saquei.\\. Então você quer me prender por meus crimes?"
                   }
                 },
                 "8": {
@@ -2033,7 +2033,7 @@
                 "9": {
                   "message": {
                     "": "Alright, it was only a matter of time.\\. But I just had to earn money somehow for...\\. for...\\. here let me show you...",
-                    "en_US": "Tudo bem, era apenas uma questão de tempo.\\. Mas eu tinha que ganhar dinheiro de alguma forma para...\\.para...\\.Aqui, deixa eu te mostrar..."
+                    "en_US": "Tudo bem, era apenas uma questão de tempo.\\. Mas eu tinha que ganhar dinheiro de alguma forma para...\\. para...\\. Aqui, deixa eu te mostrar..."
                   }
                 },
                 "21": {
@@ -2178,7 +2178,7 @@
           "1": {
             "text": {
               "": "What about it, Pa?",
-              "en_US": "Qual problema, Papai?"
+              "en_US": "Qual problema, papai?"
             }
           },
           "2": {
@@ -2190,7 +2190,7 @@
           "3": {
             "text": {
               "": "Please don't, Pa....",
-              "en_US": "Por favor não, Papai...."
+              "en_US": "Por favor não, papai...."
             }
           },
           "4": {

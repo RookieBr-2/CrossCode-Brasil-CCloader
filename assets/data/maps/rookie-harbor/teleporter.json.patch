@@ -318,7 +318,7 @@
               "2": {
                 "message": {
                   "": "You'll find a lot of awesome rails to grind all around this planet!",
-                  "en_US": "Você vai encontrará muitos corrimões incríveis para explorar em todo o planeta!"
+                  "en_US": "Você vai achar muitos corrimões incríveis em todo o planeta!"
                 }
               },
               "3": {
@@ -1403,7 +1403,7 @@
           "12": {
             "message": {
               "": "Hrm, after all that trouble, those buckets of junk can't even get rid of some \\v[lore.title.seeker]s.",
-              "en_US": "Argh, depois de todo esse problema, esse bando de sucatas não conseguem nem se livrar de um \\v[lore.title.seeker]s."
+              "en_US": "Argh, depois de todo esse problema, esse bando de sucatas não consegue nem se livrar de uma \\v[lore.title.seeker]."
             }
           },
           "14": {
@@ -2403,7 +2403,7 @@
               "6": {
                 "message": {
                   "": "I hope you enjoy your stay.... And never give up!",
-                  "en_US": "Espero que você aproveite a sua estadia... E nunca desista!"
+                  "en_US": "Espero que você aproveite a sua estadia... e nunca desista!"
                 }
               }
             }

@@ -167,8 +167,7 @@
                 "12": {
                   "message": {
                     "": "I do remember that you can summon some sort of \\c[3]Legendary Bunny\\c[0] by collecting 5 \\c[3]\\v[item.139.name]s\\c[0] somewhere in \\c[3]Bergen Trail\\c[0].",
-                    "en_US": "Eu me lembro que você pode invocar um tipo de \\c[3]Coelhapo Lendário\\c[0] coletando 5 \\c[3]Cenouras Congeladas\\c[0] Em algum lugar na \\c[3]Trilha de Bergen\\c[0].",
-                    "ko_KR": "\\c[3]베르겐 산길\\c[0]에 있는 \\c[3]\\v[item.139.name]\\c[0] 5개를 모아서 \\c[3]전설의 토끼\\c[0]를소환할 수 있다고 들었어."
+                    "en_US": "Eu me lembro que você pode invocar um tipo de \\c[3]Coelhapo Lendário\\c[0] coletando 5 \\c[3]Cenouras Congeladas\\c[0] em algum lugar na \\c[3]Trilha de Bergen\\c[0]."
                   }
                 },
                 "13": {
@@ -247,7 +246,7 @@
               "4": {
                 "message": {
                   "": "I DL'd Jean everything, so you don't have to tell her.",
-                  "en_US": "Eu enviei tudo para Jean, então você não precisa falar para ela."
+                  "en_US": "Eu enviei tudo para Jean, então você não precisa explicar pra ela."
                 }
               },
               "5": {

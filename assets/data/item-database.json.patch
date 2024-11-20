@@ -1468,7 +1468,7 @@
       },
       "description": {
         "": "A package of freshly picked ingredients from Autumn's Rise for a crucial business lunch.",
-        "en_US": "Um pacote de ingredientes recém-colhidos de Autumn's Rise para um importante almoço de negócios."
+        "en_US": "Ingredientes frescos do Nascer do Outono para um almoço de negócios."
       }
     },
     "139": {
@@ -1578,7 +1578,7 @@
       },
       "description": {
         "": "The pass for \\c[3]Temple Mine\\c[0]. Acquired after extensive amounts of forced exposition.",
-        "en_US": "A passagem para o \\c[3]Mina do Templo\\c[0]. Adquirido após muitas explicações chatas."
+        "en_US": "O passe para a \\c[3]Mina do Templo\\c[0]. Adquirido após muitas explicações chatas."
       }
     },
     "150": {
@@ -1608,7 +1608,7 @@
       },
       "description": {
         "": "A regular key for the \\c[3]Temple Mine\\c[0].",
-        "en_US": "Uma chave comum para o \\c[3]Templos da Mina\\c[0]."
+        "en_US": "Uma chave comum para a \\c[3]Mina do Templo\\c[0]."
       }
     },
     "153": {
@@ -1938,7 +1938,7 @@
       },
       "description": {
         "": "A mysterious piece of tech dropped by the \\c[3]Hillkat Bandleader\\c[0]. It might store data?",
-        "en_US": "ma peça misteriosa de tecnologia deixada pelo \\c[3]Hillkat Bandleader\\c[0]. Ele pode armazenar dados?"
+        "en_US": "Um dispositivo misterioso deixado pelo \\c[3]Lider Topeira\\c[0]. Será que armazena dados?"
       }
     },
     "185": {
@@ -2476,7 +2476,7 @@
       },
       "description": {
         "": "Some old looking image of a Frobbit, hewn into stone from Mt. Bergen. ",
-        "en_US": "Alguma imagem de aparência antiga de um Coelhapo, talhada na pedra do Monte Bergen."
+        "en_US": "Alguma imagem antiga de um Coelhapo, talhada na pedra do Monte Bergen."
       }
     },
     "235": {
@@ -3780,7 +3780,7 @@
       },
       "description": {
         "": "A storage unit used by the \\c[3]Omni Gilders\\c[0] to hold trade materials.",
-        "en_US": "Uma unidade de armazenamento usada pelos \\c[3]Omni Gilders\\c[0] para armazenar materiais comerciais."
+        "en_US": "Dispositivo usado pelos \\c[3]Omni Gilders\\c[0] para armazenar itens comerciais."
       }
     },
     "365": {

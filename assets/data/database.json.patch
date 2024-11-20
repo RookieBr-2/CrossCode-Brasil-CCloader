@@ -4596,7 +4596,7 @@
             "1": {
               "message": {
                 "": "Seriously Lea, what is this...?\\. Are those, like, really powerful critical hits or something?",
-                "en_US": "Sério Lea, o que é isso...?\\. Esses são, tipo, golpes críticos realmente poderosos ou algo assim?"
+                "en_US": "Sério Lea, o que é isso...?\\. São, tipo, golpes críticos muito fortes ou algo assim?"
               }
             }
           }
@@ -7451,7 +7451,7 @@
             "0": {
               "message": {
                 "": "Huh. Did we just beat up a cow wearing some kind of iron mask?",
-                "en_US": "Ué. A gente acabou de bater em uma vaca com uma máscara de ferro?"
+                "en_US": "Ué? A gente acabou de bater em uma vaca com uma máscara de ferro?"
               }
             },
             "1": {
@@ -17281,7 +17281,7 @@
             "1": {
               "message": {
                 "": "Good morning! You are online again, I see.",
-                "en_US": "Bom Dia! Você está online novamente, pelo visto."
+                "en_US": "Bom dia! Você está online novamente, pelo visto."
               }
             },
             "2": {
@@ -20952,7 +20952,8 @@
     },
     "snowtank": {
       "name": {
-        "": "Karrotank"
+        "": "Karrotank",
+        "en_US": "Karrotanque"
       },
       "species": {
         "": "Modified Snowman",
@@ -21246,7 +21247,8 @@
     },
     "jungle.pumpkin": {
       "name": {
-        "": "Jack'On'Fire"
+        "": "Jack'On'Fire",
+        "en_US": "Abóbora Flamejante"
       },
       "species": {
         "": "Fiery Enchanted Pumpkin",
@@ -22581,7 +22583,8 @@
     },
     "goat-cave": {
       "name": {
-        "": "Horny Cavegoat"
+        "": "Horny Cavegoat",
+        "en_US": "Cabra Chifruda da Caverna"
       },
       "species": {
         "": "Mammal",
@@ -22598,7 +22601,8 @@
     },
     "cold.goat-worker": {
       "name": {
-        "": "Goat Worker"
+        "": "Goat Worker",
+        "en_US": "Cabra Trabalhadora"
       },
       "species": {
         "": "Mammal",
@@ -23115,7 +23119,8 @@
     },
     "jungle.special.parrot-gangster-1": {
       "name": {
-        "": "Papagangster Softhat"
+        "": "Papagangster Softhat",
+        "en_US": "Papagangster Elegante"
       },
       "species": {
         "": "Lawless Bird",
@@ -23132,7 +23137,8 @@
     },
     "jungle.special.parrot-gangster-2": {
       "name": {
-        "": "Papagangster Muscle"
+        "": "Papagangster Muscle",
+        "en_US": "Papagangster Guarda-costas"
       },
       "species": {
         "": "Lawless Bird",
@@ -23495,7 +23501,8 @@
     },
     "guest.honeybear": {
       "name": {
-        "": "Beearbot"
+        "": "Beearbot",
+        "en_US": "Urso Colméia"
       },
       "species": {
         "": "Bear",
@@ -23927,7 +23934,7 @@
     "mouse-bot": {
       "name": {
         "": "Beta Mouse Bot",
-        "en_US": "Robô Rato Beta"
+        "en_US": "Rato Robô Beta"
       },
       "species": {
         "": "Rookie Robot",
@@ -24893,7 +24900,7 @@
     "killer-mouse-bot": {
       "name": {
         "": "Uber Beta Mouse Bot",
-        "en_US": "Super Robô Rato Beta"
+        "en_US": "Super Rato Robô Beta"
       },
       "species": {
         "": "Rookie Robot",
@@ -33091,7 +33098,7 @@
       },
       "description": {
         "": "You have talked to the Monks of the \\c[3]Ascension Spirits\\c[0] in Bergen. To prove your harmonic connection with the Track, \\c[3]beating a trial\\c[0] shall be necessary.\n(\\c[1]Warning: No modifiers are active during the trial!\\c[0])",
-        "en_US": "Você conversou com os Monges dos \\c[3]Espíritos da Ascensão\\c[0] em Bergen. Para provar sua conexão harmônica com a Trilha, será necessário \\c[3]finalizar um teste\\c[0].(\\c[1]Aviso: Nenhum modificador está ativo durante o teste!\\c[0])"
+        "en_US": "Os Monges dos \\c[3]Espíritos da Ascensão\\c[0] pediram que você \\c[3]complete um teste\\c[0] para provar sua conexão com a Trilha. (\\c[1]Aviso: Nenhum modificador está ativo durante o teste!\\c[0])"
       },
       "briefing": {
         "": "You beat the trial and are now deemed worthy by the monks.",

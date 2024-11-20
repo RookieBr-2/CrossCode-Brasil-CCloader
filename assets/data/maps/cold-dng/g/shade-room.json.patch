@@ -198,7 +198,7 @@
           "6": {
             "text": {
               "": "So...\\. Let's collect the shade already.\\. We clearly earned it!",
-              "en_US": "Então...\\. Vamos coletar o fragmento.\\. Nós claramente merecemos!"
+              "en_US": "Então...\\. vamos coletar o fragmento.\\. Nós claramente merecemos!"
             }
           },
           "7": {
@@ -261,7 +261,7 @@
                   "0": {
                     "message": {
                       "": "Also I'm sure we both can agree that you being \\c[1]over-powered\\c[0] certainly made a difference.",
-                      "en_US": "Além disso, tenho certeza de que podemos concordar que o fato de você estar \\c[1]forte demais\\c[0] certamente fez a diferença."
+                      "en_US": "Além disso, não dá pra negar que seu dano \\c[1]exagerado\\c[0] te ajudou."
                     }
                   },
                   "1": {
@@ -408,7 +408,7 @@
           "23": {
             "message": {
               "": "Fair enough.",
-              "en_US": "Justo."
+              "en_US": "Saquei."
             }
           },
           "24": {
@@ -449,7 +449,7 @@
           "1": {
             "message": {
               "": "Alright! Just read everything there is.",
-              "en_US": "Certo! Basta ler tudo o que tiver nessa sala."
+              "en_US": "Certo! É só ler tudo o que tiver nessa sala."
             }
           },
           "2": {

@@ -173,7 +173,7 @@
               "0": {
                 "message": {
                   "": "I see your level remains as \\c[1]UNACCEPTABLE\\c[0] as it has been before!",
-                  "en_US": "Eu vejo que seu nível permanece \\c[1]INACEITÁVEL\\c[0] como tem sido antes!"
+                  "en_US": "Eu vejo que seu nível permanece \\c[1]INACEITÁVEL\\c[0] como antes!"
                 }
               },
               "1": {
@@ -185,8 +185,7 @@
               "3": {
                 "message": {
                   "": "AGAIN, SHE IS \\c[1]LEVEL \\v[player.level]\\c[0]!",
-                  "en_US": "REPITO, ELA ESTÁ NO \\c[1]NÍVEL \\v[player.level]\\c[0]!",
-                  "de_DE": "NOCHMAL:SIE HAT \\c[1]LEVEL \\v[player.level]\\c[0]!"
+                  "en_US": "REPITO, ELA ESTÁ NO \\c[1]NÍVEL \\v[player.level]\\c[0]!"
                 }
               },
               "5": {
@@ -204,7 +203,7 @@
               "7": {
                 "message": {
                   "": "Anyway...",
-                  "en_US": "De qualquer forma..."
+                  "en_US": "Enfim..."
                 }
               }
             },
@@ -268,7 +267,7 @@
           "30": {
             "message": {
               "": "Wait...\\. You're a Spheromancer, too?",
-              "en_US": "Espera...\\. Você é um Esferomante, também?"
+              "en_US": "Espera...\\. você é um Esferomante, também?"
             }
           },
           "31": {
@@ -320,7 +319,7 @@
           },
           "40": {
             "message": {
-              "": "...\\.Lea."
+              "": "...\\. Lea."
             }
           },
           "49": {
@@ -361,7 +360,7 @@
           "58": {
             "message": {
               "": "I'll test your skills properly - to make sure you don't use any more dishonest methods!",
-              "en_US": "Vou testar suas habilidades adequadamente - para ter certeza de que você não usará mais métodos desonestos!"
+              "en_US": "Vou testar suas habilidades adequadamente, para ter certeza de que você não usará mais métodos desonestos!"
             }
           },
           "59": {
@@ -414,7 +413,7 @@
           },
           "62": {
             "message": {
-              "": "...\\.Lea."
+              "": "...\\. Lea."
             }
           },
           "63": {
@@ -458,7 +457,7 @@
               "3": {
                 "message": {
                   "": "But I'd really like to level up a bit before that, too. If that's okay!",
-                  "en_US": "Mas eu também gostaria muito de aumentar um pouco o meu nível antes disso. Se não houver problema!"
+                  "en_US": "Mas eu queria muito dar uma subida no meu nível antes disso. Tudo bem?"
                 }
               },
               "4": {
@@ -515,7 +514,7 @@
           "82": {
             "task": {
               "": "Apollo challenged you to a duel and waits for you at the entrance of \\c[3]Bergen Trail\\c[0]. Be prepared!",
-              "en_US": "Apollo desafiou você a um duelo e espera por você na entrada de \\c[3]Bergen Trail\\c[0]. Esteja preparado!"
+              "en_US": "Apollo desafiou você para um duelo e está esperando na entrada da \\c[3]Trilha de Bergen\\c[0]. Esteja preparada!"
             }
           }
         }

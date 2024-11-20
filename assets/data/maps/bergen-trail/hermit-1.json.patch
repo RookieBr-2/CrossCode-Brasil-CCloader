@@ -148,7 +148,7 @@
                 "12": {
                   "message": {
                     "": "... and some chunks of \\c[3]\\v[item.109.name]\\c[0] for the cooling.\\. You should find that Ice \\c[3]not far from here\\c[0].",
-                    "en_US": ".. e alguns pedaços de \\c[3]\\v[item.109.name]\\c[0] para o resfriamento.\\. Você deve achar Gelo \\c[3]não muito longe daqui\\c[0]."
+                    "en_US": ".. E alguns pedaços de \\c[3]\\v[item.109.name]\\c[0] para o resfriamento.\\. Você deve achar o gelo \\c[3]não muito longe daqui\\c[0]."
                   }
                 },
                 "13": {

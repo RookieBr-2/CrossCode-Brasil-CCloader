@@ -163,7 +163,7 @@
                     "7": {
                       "message": {
                         "": "You can find him in the Quest Hub, the \\c[3]grand building in the north of Bergen\\c[0].",
-                        "en_US": "Você pode encontrá-lo no Seeker Hub, um \\c[3]grande edifício no norte de Bergen\\c[0]."
+                        "en_US": "Você pode encontrá-lo na Central Seeker, um \\c[3]grande edifício no norte de Bergen\\c[0]."
                       }
                     }
                   }
@@ -640,7 +640,7 @@
                   "2": {
                     "message": {
                       "": "Slip into the cave and reach the end of the track to beat the trial.",
-                      "en_US": "Entre na caverna e alcance o fim da trilha para vençer a prova."
+                      "en_US": "Entre na caverna e alcance o fim da trilha para vencer a prova."
                     }
                   },
                   "3": {
@@ -1060,7 +1060,7 @@
                   "3": {
                     "message": {
                       "": "\\v[lore.title.seeker]...why did you disturb my meditation?",
-                      "en_US": "\\v[lore.title.seeker]...porque você interrompeu minha meditação?"
+                      "en_US": "\\v[lore.title.seeker]... porque você interrompeu minha meditação?"
                     }
                   },
                   "4": {

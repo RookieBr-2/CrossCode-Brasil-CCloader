@@ -77,13 +77,13 @@
                 "6": {
                   "message": {
                     "": "Great! ...\\. I mean uh...\\. Could you help me with something?",
-                    "en_US": "Demais!\\. Digo....\\. Você poderia me ajudar com uma coisa?"
+                    "en_US": "Demais!\\. Digo....\\. você poderia me ajudar com uma coisa?"
                   }
                 },
                 "7": {
                   "message": {
                     "": "See...\\. I need equipment...\\. A \\c[3]\\v[item.30.name]\\c[0].",
-                    "en_US": "Olha...\\. Eu preciso de um equipamento...\\. Uma \\c[3]\\v[item.30.name]\\c[0]."
+                    "en_US": "Olha...\\. eu preciso de um equipamento...\\. Uma \\c[3]\\v[item.30.name]\\c[0]."
                   }
                 },
                 "8": {
@@ -95,7 +95,7 @@
                 "9": {
                   "message": {
                     "": "I'd teleport back to the city and buy it myself...\\. but...\\. see...",
-                    "en_US": "Eu me teleportaria de volta para a cidade e compraria eu mesma...\\. mas...\\. Eu..."
+                    "en_US": "Eu me teleportaria de volta para a cidade e compraria eu mesma...\\. mas...\\. eu..."
                   }
                 },
                 "10": {
@@ -112,7 +112,7 @@
                 "12": {
                   "message": {
                     "": "So uh...\\. Could you please buy a \\c[3]\\v[item.30.name]\\c[0] for me in Rookie Harbor?",
-                    "en_US": "Então...\\. Você poderia por favor comprar uma \\c[3]\\v[item.30.name]\\c[0] para mim no Porto do Novato?"
+                    "en_US": "Então...\\. você poderia por favor comprar uma \\c[3]\\v[item.30.name]\\c[0] para mim no Porto do Novato?"
                   }
                 },
                 "13": {
@@ -246,7 +246,7 @@
               "4": {
                 "message": {
                   "": "Puh... Apologies my lady. I just came down from \\c[3]Bergen\\c[0].",
-                  "en_US": "Puh... Desculpe senhorita. Eu acabei de descer de \\c[3]Bergen\\c[0]."
+                  "en_US": "Ufa... Desculpe senhorita. Eu acabei de descer de \\c[3]Bergen\\c[0]."
                 }
               },
               "5": {
@@ -854,7 +854,7 @@
                 "20": {
                   "message": {
                     "": "So\\..\\..\\.. Here you go. Take the device.",
-                    "en_US": "Então\\..\\..\\.. Aqui está. Pegue o dispositivo."
+                    "en_US": "Então\\..\\..\\.. aqui está. Pegue o dispositivo."
                   }
                 },
                 "21": {
@@ -1323,13 +1323,13 @@
               "0": {
                 "message": {
                   "": "Though I hardly believe there is any reason for you to prepare with \\c[1]your kind of level\\c[0].",
-                  "en_US": "Embora eu dificilmente acredite que haja alguma razão para você se preparar com \\c[1]seu nível atual\\c[0]"
+                  "en_US": "Embora eu dificilmente acredite que haja alguma razão para você se preparar com \\c[1]seu nível atual\\c[0]."
                 }
               },
               "2": {
                 "message": {
                   "": "Damn straight!\\. We'll serve you the beating of a lifetime!",
-                  "en_US": "Com certeza!\\. Daremos a você a maior surra de sua vida!"
+                  "en_US": "Com certeza!\\. Daremos a você a maior surra da sua vida!"
                 }
               }
             },
@@ -1374,7 +1374,7 @@
           "50": {
             "message": {
               "": "Oui, oui, I know!",
-              "en_US": "Oui, oui, Eu sei!"
+              "en_US": "Oui, oui, eu sei!"
             }
           },
           "51": {
@@ -1413,7 +1413,7 @@
                     "1": {
                       "message": {
                         "": "Yes...\\. beating you with those \\c[1]stats\\c[0] will be very challenging.",
-                        "en_US": "Sim...\\. vencê-la com esses \\c[1]status elevados\\c[0] será muito desafiador"
+                        "en_US": "Sim...\\. vencê-la com esses \\c[1]atributos elevados\\c[0] será muito desafiador."
                       }
                     },
                     "2": {
@@ -1424,7 +1424,7 @@
                     "3": {
                       "message": {
                         "": "But I'll show you what a true Spheromancer is capable of!",
-                        "en_US": "Mas vou te mostrar do que um verdadeiro Spheromancer é capaz!"
+                        "en_US": "Mas vou te mostrar do que um verdadeiro Esferomante é capaz!"
                       }
                     },
                     "4": {
@@ -2030,13 +2030,13 @@
                   "4": {
                     "message": {
                       "": "Yet it PAINS me to no end, that a SPHEROMANCER out of all classes commits such a dire crime!",
-                      "en_US": "No entanto, me Dói muito que um ESFEROMANTE de todas as classes cometa um crime tão terrível!"
+                      "en_US": "No entanto, me dói muito que uma ESFEROMANTE cometa um crime tão terrível!"
                     }
                   },
                   "5": {
                     "message": {
                       "": "I shall find a way to BREAK your cheating habits, personally!",
-                      "en_US": "Vou encontrar uma maneira de QUEBRAR seus hábitos de trapaça, pessoalmente!"
+                      "en_US": "Eu vou dar um jeito de ACABAR com seus hábitos de trapaça, pessoalmente!"
                     }
                   },
                   "6": {
@@ -2324,7 +2324,7 @@
           "84": {
             "message": {
               "": "Do not worry... You will be back in the game soon enough.",
-              "en_US": "Não se preocupe... Você estará de volta ao jogo em breve."
+              "en_US": "Não se preocupe... você estará de volta ao jogo em breve."
             }
           },
           "85": {
@@ -2482,7 +2482,7 @@
           "33": {
             "message": {
               "": "Oh.\\. That must be her.",
-              "en_US": "Ah.\\. Provavelmente deve ser ela."
+              "en_US": "Provavelmente deve ser ela."
             }
           },
           "34": {
@@ -2598,7 +2598,7 @@
           "56": {
             "message": {
               "": "Aaaaand...\\. Link end...\\. There!",
-              "en_US": "Eeee...\\. Fim do Link...\\. Tchau!"
+              "en_US": "Eeee...\\. fim do Link...\\. Tchau!"
             }
           },
           "61": {

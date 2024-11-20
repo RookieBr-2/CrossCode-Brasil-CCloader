@@ -48,7 +48,7 @@
                   "3": {
                     "message": {
                       "": "Pardon... Your name was \\c[3]Albert\\c[0], non?",
-                      "en_US": "Perdão... Seu nome é \\c[3]Albert\\c[0], non?"
+                      "en_US": "Pardon... seu nome é \\c[3]Albert\\c[0], non?"
                     }
                   },
                   "4": {
@@ -101,7 +101,7 @@
                   "12": {
                     "message": {
                       "": "Well then... Good luck with the \\c[3]Temple Mine\\c[0].",
-                      "en_US": "Pois bem... Boa sorte com a \\c[3]Mina do Templo\\c[0]."
+                      "en_US": "Pois bem... boa sorte com a \\c[3]Mina do Templo\\c[0]."
                     }
                   },
                   "13": {
@@ -115,7 +115,7 @@
                       "1": {
                         "message": {
                           "": "Uh...\\. this guy's kinda hard to talk to, non?",
-                          "en_US": "Hum...\\. É meio difícil falar com esse cara, non?"
+                          "en_US": "Hm...\\. É meio difícil falar com esse cara, non?"
                         }
                       }
                     }
@@ -416,7 +416,7 @@
           "20": {
             "message": {
               "": "Now, now, Raphael - don't call them 'newbies'! It's rude.",
-              "en_US": "Ora, ora, Raphael - não chame elas de 'noobs'! Isso é rude."
+              "en_US": "Ora, ora, Raphael. Não chame elas de 'noobs'! Isso é rude."
             }
           },
           "21": {
@@ -709,7 +709,7 @@
           "103": {
             "message": {
               "": "Well, I think it's nice to be in a small guild like this.",
-              "en_US": "Bem, eu acho que é bom estar em uma pequena guilda como essa."
+              "en_US": "Bom, eu acho que é bom estar em uma guilda pequena como essa."
             }
           },
           "105": {
@@ -884,14 +884,13 @@
           "142": {
             "message": {
               "": "Feel free to drop by whenever you like.",
-              "en_US": "Sinta-se à vontade para aparecer quando quiser."
+              "en_US": "Sintam-se à vontade para aparecer quando quiserem."
             }
           },
           "143": {
             "message": {
               "": "Oh, and I suppose now is a good time to share contacts, too!",
-              "en_US": "Ah, e acho que agora é um bom momento para compartilhar nossos contatos também!",
-              "de_DE": "Ach, bevor ich's vergesse:Lasst uns noch unsere Kontaktdaten austauschen!"
+              "en_US": "Ah, e acho que agora é um bom momento para compartilhar nossos contatos também!"
             }
           },
           "145": {
@@ -903,13 +902,13 @@
           "149": {
             "message": {
               "": "Alrighty! Tell me when you're ready for the quiz!",
-              "en_US": "Tudo bem! Diga-me quando estiverem prontas para o teste!"
+              "en_US": "Tudo bem! Avisem quando estiverem prontas para o teste!"
             }
           },
           "164": {
             "task": {
               "": "Enter the \\c[3]Temple Mine\\c[0] together with \\c[3]Emilie\\c[0].",
-              "en_US": "Entre no \\c[3]Mina do Templo\\c[0] junto com \\c[3] Emilie \\c[0]."
+              "en_US": "Entre na \\c[3]Mina do Templo\\c[0] junto com \\c[3]Emilie\\c[0]."
             }
           },
           "175": {
