@@ -432,7 +432,7 @@
           "28": {
             "message": {
               "": "I mean...\\. I understand why you'd feel down in a situation like this.",
-              "en_US": "Tudo bem...\\. É normal que você esteja triste com tudo isso."
+              "en_US": "Tudo bem...\\. é normal que você esteja triste com tudo isso."
             }
           },
           "29": {
@@ -465,7 +465,7 @@
           },
           "36": {
             "message": {
-              "": "....Lea?"
+              "": ".... Lea?"
             }
           },
           "45": {
@@ -507,7 +507,7 @@
               "0": {
                 "message": {
                   "": "They might throw another high level enemy at us, so I'll be counting on your support in that case.",
-                  "en_US": "Eles podem lançar outro inimigo de alto nível em nós, então vou contar com o seu apoio nesse caso."
+                  "en_US": "Eles podem mandar outro inimigo de nível alto, então vou precisar da sua ajuda."
                 }
               }
             },

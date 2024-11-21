@@ -91,7 +91,7 @@
               "0": {
                 "message": {
                   "": "Anyway...\\. Got that over and done with.",
-                  "en_US": "Enfim....\\. Acabou."
+                  "en_US": "Enfim....\\. acabou."
                 }
               },
               "1": {
@@ -130,7 +130,7 @@
           "62": {
             "message": {
               "": "Drat...\\. I'm last this time.",
-              "en_US": "Droga...\\. Eu cheguei por último."
+              "en_US": "Droga...\\. eu cheguei por último."
             }
           },
           "71": {
@@ -154,7 +154,7 @@
           "74": {
             "message": {
               "": "Yes...\\. Also that boss. I mean...\\. how are you holding up, Emilie?",
-              "en_US": "Sim...\\. E também aquele boss. Falando nisso...\\. como você está se aguentando, Emilie?"
+              "en_US": "Sim...\\. e aquele boss também. Falando nisso...\\. como você está se aguentando, Emilie?"
             }
           },
           "75": {
@@ -640,7 +640,7 @@
           "70": {
             "message": {
               "": "Wait. Do the other guild members know, too?",
-              "en_US": "Espera. Os outros membros da guilda também sabiam?"
+              "en_US": "Espera, os outros membros da guilda também sabiam?"
             }
           },
           "71": {
@@ -959,7 +959,7 @@
           "27": {
             "message": {
               "": "I...\\. hope you slept well?",
-              "en_US": "Eu...\\. Espero que você tenha dormido bem."
+              "en_US": "Eu...\\. espero que você tenha dormido bem."
             }
           },
           "28": {
@@ -1171,7 +1171,7 @@
           "69": {
             "message": {
               "": "I see...\\. Maybe a place?",
-              "en_US": "Entendo...\\. Talvez um lugar?"
+              "en_US": "Entendo...\\. talvez um lugar?"
             }
           },
           "70": {
@@ -1288,7 +1288,7 @@
           "96": {
             "message": {
               "": "Well... let us discuss your dream another time.",
-              "en_US": "Bem... vamos falar sobre o seu sonho em outro momento."
+              "en_US": "Vamos falar sobre o seu sonho em outro momento."
             }
           },
           "97": {
@@ -1498,7 +1498,7 @@
           "2": {
             "text": {
               "": "What about those jellyfish? They have to come from somewhere...",
-              "en_US": "E aquelas águas-vivas do templo? Eles devem vir de algum lugar..."
+              "en_US": "E aquelas águas-vivas do templo? Elas devem vir de algum lugar..."
             }
           },
           "3": {

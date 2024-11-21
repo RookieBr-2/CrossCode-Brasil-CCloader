@@ -247,13 +247,13 @@
               "4": {
                 "message": {
                   "": "This is human guard.",
-                  "en_US": "Esta é a guarda humana."
+                  "en_US": "Esta é guarda humana."
                 }
               },
               "5": {
                 "message": {
                   "": "Helps to protect Shad and humans from hard desert.",
-                  "en_US": "Ajuda a proteger Shads e os humanos do rigoroso deserto."
+                  "en_US": "Ajuda a proteger Shads e humanos do rigoroso deserto."
                 }
               },
               "6": {
@@ -557,7 +557,7 @@
           },
           "30": {
             "message": {
-              "": "...Lea..."
+              "": "... Lea..."
             }
           },
           "32": {

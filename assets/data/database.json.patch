@@ -577,7 +577,7 @@
       },
       "description": {
         "": "\\c[3]Defeat \\v[combat.name.heat/sandworm-boss]\\c[0] below the Maroon Tree in \\v[area.heat-area.name].",
-        "en_US": "\\c[3]Derrote o \\v[combat.name.heat/sandworm-boss]\\c[0] abaixo da Ávore Castanha no \\v[area.heat-area.name]."
+        "en_US": "\\c[3]Derrote o \\v[combat.name.heat/sandworm-boss]\\c[0] abaixo da Árvore Castanha no \\v[area.heat-area.name]."
       }
     },
     "kill-boss-moth": {
@@ -3172,13 +3172,13 @@
             "9": {
               "message": {
                 "": "Say no more, I know that look, 'seen it a thousand times. ",
-                "en_US": "Não diga mais nada, Eu conheço esse olhar, já vi esse tipo de olhar milhares de vezes."
+                "en_US": "Não diga mais nada, eu conheço esse olhar, já vi esse tipo de olhar milhares de vezes."
               }
             },
             "10": {
               "message": {
                 "": "And of course, I'll accept your challenge once more! ",
-                "en_US": "E sim, Eu aceito seu desafio novamente!"
+                "en_US": "E sim, eu aceito seu desafio novamente!"
               }
             },
             "11": {
@@ -4439,7 +4439,7 @@
             "39": {
               "message": {
                 "": "Really, I'm probably the best written character out there, no matter where I appear!",
-                "en_US": "Sério, Eu sou o melhor personagem já feito, não importa onde eu apareça!"
+                "en_US": "Sério, eu sou o melhor personagem já feito, não importa onde eu apareça!"
               }
             },
             "40": {
@@ -5328,7 +5328,7 @@
             "0": {
               "message": {
                 "": "Alright, I get it! You like fighting those bugs!",
-                "en_US": "Certo, Eu entendi! Você gosta de lutar com esses insetos!"
+                "en_US": "Certo, eu entendi! Você gosta de lutar com esses insetos!"
               }
             }
           }
@@ -6240,7 +6240,7 @@
             "7": {
               "message": {
                 "": "Come on, I know this is about buying a present for Lea.",
-                "en_US": "Qual é, Eu sei que tudo isso é só para você descobrir que presente comprar pra Lea."
+                "en_US": "Qual é, eu sei que tudo isso é só para você descobrir que presente comprar pra Lea."
               }
             },
             "8": {
@@ -7072,7 +7072,7 @@
             "0": {
               "message": {
                 "": "Wow, I think I'm healed. It's all good, Lea. We can now stop fighting them!",
-                "en_US": "Uau, Eu acho que estou curada. Tá tudo bem, Lea. Agora a gente pode parar de lutar contra eles!"
+                "en_US": "Uau, eu acho que estou curada. Tá tudo bem, Lea. Agora a gente pode parar de lutar contra eles!"
               }
             },
             "1": {
@@ -10115,7 +10115,7 @@
             "0": {
               "message": {
                 "": "In the name of Justice, I have returned!!",
-                "en_US": "Em nome da justiça, Eu retornei!"
+                "en_US": "Em nome da justiça, eu retornei!"
               }
             }
           },
@@ -10155,7 +10155,7 @@
             "0": {
               "message": {
                 "": "Whoops, I'm out.",
-                "en_US": "Oxe, Eu morri."
+                "en_US": "Oxe, eu morri."
               }
             }
           },
@@ -10343,7 +10343,7 @@
             "0": {
               "message": {
                 "": "Dreck, I walked right into that one.",
-                "en_US": "Dreck, Eu caí nessa."
+                "en_US": "Dreck, eu caí nessa."
               }
             }
           },
@@ -10359,7 +10359,7 @@
             "0": {
               "message": {
                 "": "Woops, I guess I slipped.",
-                "en_US": "Opa, Eu acho que escorreguei."
+                "en_US": "Opa, eu acho que escorreguei."
               }
             }
           }
@@ -10450,7 +10450,7 @@
             "0": {
               "message": {
                 "": "Woops, I guess I slipped.",
-                "en_US": "Opa, Eu acho que escorreguei."
+                "en_US": "Opa, eu acho que escorreguei."
               }
             }
           }
@@ -12729,7 +12729,7 @@
             "6": {
               "message": {
                 "": "Oh!\\. Don't worry, I'm feeling better already.",
-                "en_US": "Ah!\\. Não se preocupe, Eu estou me sentindo melhor agora."
+                "en_US": "Ah!\\. Não se preocupe, eu estou me sentindo melhor agora."
               }
             },
             "7": {
@@ -14173,7 +14173,7 @@
             "0": {
               "message": {
                 "": "Spheromancer Lea, I'm waiting for you at the \\c[3]Open PVP Fields\\c[0] in Rhombus Square!",
-                "en_US": "Esferomante Lea, Eu estou esperando você nos \\c[3]Campos Abertos de PVP\\c[0] na Praça Losango!"
+                "en_US": "Esferomante Lea, eu estou esperando você nos \\c[3]Campos Abertos de PVP\\c[0] na Praça Losango!"
               }
             },
             "1": {
@@ -16338,7 +16338,7 @@
             "2": {
               "message": {
                 "": "Junge, I'm exhausted...",
-                "en_US": "Junge, Eu estou exausto..."
+                "en_US": "Junge, eu estou exausto..."
               }
             },
             "3": {
@@ -16967,7 +16967,7 @@
             "1": {
               "message": {
                 "": "Lea dear, I hope you'll be fine in that tower.",
-                "en_US": "Lea querida, Eu espero que você fique bem na torre."
+                "en_US": "Lea querida, eu espero que você fique bem na torre."
               }
             },
             "2": {
@@ -19407,7 +19407,7 @@
             "2": {
               "message": {
                 "": "Sorry, I am a bit busy right now...",
-                "en_US": "Desculpe, Eu estou um pouco ocupado agora..."
+                "en_US": "Desculpe, eu estou um pouco ocupado agora..."
               }
             },
             "3": {
@@ -34366,7 +34366,7 @@
         "0": {
           "task": {
             "": "Enter the \\c[3]Toisecave\\c[0] on \\c[3]Vivid Path\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]",
-            "en_US": "Entre na \\c[3]Toisecave\\c[0] no \\c[3]Caminho Anumado\\c[0] em \\c[3]\\v[area.heat-area.name]\\c[0]"
+            "en_US": "Entre na \\c[3]Toisecave\\c[0] no \\c[3]Caminho Vivo\\c[0] em \\c[3]\\v[area.heat-area.name]\\c[0]"
           }
         },
         "1": {

@@ -235,7 +235,7 @@
               "0": {
                 "message": {
                   "": "So...\\. you really are as \\c[1]over-leveled\\c[0] as they told me.",
-                  "en_US": "Então...\\. você realmente tem um \\c[1]nível bem alto\\c[0] como eles me contaram."
+                  "en_US": "Então...\\. parece que eles tinham razão sobre seu \\c[1]nível alto\\c[0]."
                 }
               },
               "1": {
@@ -257,7 +257,7 @@
           "19": {
             "message": {
               "": "So...\\. I could join your party, right?",
-              "en_US": "Então...\\. Posso entrar no seu grupo?"
+              "en_US": "Então...\\. posso entrar no seu grupo?"
             }
           },
           "20": {
@@ -269,7 +269,7 @@
           "21": {
             "message": {
               "": "Anyway, I'm still busy today...",
-              "en_US": "Enfim, Eu ainda estou ocupado hoje..."
+              "en_US": "Enfim, eu ainda estou ocupado hoje..."
             }
           },
           "22": {

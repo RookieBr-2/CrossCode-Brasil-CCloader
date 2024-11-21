@@ -299,7 +299,7 @@
                 "7": {
                   "message": {
                     "": "Well... I know \\c[3]C'tron\\c[0] is a bit strange. You can also call me \\c[3]Toby\\c[0] if you like.",
-                    "en_US": "Bem... Eu sei que \\c[3]C'tron\\c[0] é um pouco estranho. Você pode me chamar de \\c[3]Toby\\c[0] se preferir."
+                    "en_US": "Eu sei que \\c[3]C'tron\\c[0] é um pouco estranho. Você pode me chamar de \\c[3]Toby\\c[0] se preferir."
                   }
                 },
                 "8": {
@@ -456,7 +456,7 @@
                     "3": {
                       "message": {
                         "": "A-Anyway, let's go!",
-                        "en_US": "B-Bem, deixa pra lá... Vamos andando!."
+                        "en_US": "B-Bom, deixa pra lá... vamos andando!"
                       }
                     }
                   }

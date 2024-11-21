@@ -236,7 +236,7 @@
           "6": {
             "message": {
               "": "And well... that area is supposed to be a \\c[3]jungle\\c[0].",
-              "en_US": "E, bem... essa área é para ser uma \\c[3]selva\\c[0]."
+              "en_US": "E... essa área é uma \\c[3]selva\\c[0]."
             }
           },
           "7": {
@@ -258,7 +258,7 @@
           "10": {
             "message": {
               "": "Insects...\\. like \\c[3]bugs\\c[0].",
-              "en_US": "Insetos...\\. tipo \\c[3]besouros\\c[0]."
+              "en_US": "Insetos...\\. tipo \\c[1]muitos insetos\\c[0]."
             }
           },
           "11": {
@@ -452,13 +452,13 @@
           "0": {
             "message": {
               "": "Ah I see we're back in the Ancient ruins of puzzle village!",
-              "en_US": "Ah, voltamos às ruinas do quebra-cabeça Ancestral!"
+              "en_US": "Ah, voltamos às ruinas do puzzle Ancestral!"
             }
           },
           "1": {
             "message": {
               "": "Still serving puzzles even thousands of years later.",
-              "en_US": "Oferecendo quebra-cabeças mesmo depois de milênios."
+              "en_US": "Oferecendo puzzles mesmo depois de milênios."
             }
           }
         }
@@ -470,7 +470,7 @@
           "0": {
             "message": {
               "": "Say hello to the hardest puzzle of the Playground!",
-              "en_US": "Diga olá para o quebra-cabeça mais difícil do Playground!"
+              "en_US": "Diga olá para o puzzle mais difícil do Playground!"
             }
           },
           "1": {

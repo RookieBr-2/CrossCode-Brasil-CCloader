@@ -99,7 +99,7 @@
           "33": {
             "task": {
               "": "Have a look around and try to figure out why you have been teleported to this location.",
-              "en_US": "Dê uma olhada ao redor e tente descobrir por que você foi teletransportada para este local."
+              "en_US": "Dê uma olhada ao redor e tente descobrir por que você foi teleportada para este local."
             }
           }
         }
@@ -368,7 +368,7 @@
                   "0": {
                     "message": {
                       "": "...\\. We forget about your...\\. \\c[1]ridiculous damage output\\c[0].",
-                      "en_US": "...\\. Esquecemos da sua...\\. \\c[1]produção de dano ridículo\\c[0]."
+                      "en_US": "...\\. Esquecemos do seu...\\. \\c[1]dano absurdo\\c[0]."
                     }
                   }
                 },
@@ -434,7 +434,7 @@
           "6": {
             "message": {
               "": "There will be a teleporter to the right! Run to it and use it as quickly as possible!",
-              "en_US": "Haverá um teletransportador à direita! Corra até ele o mais rápido possível e use-o!"
+              "en_US": "Tem um teletransportador à direita! Corra até ele o mais rápido possível e use-o!"
             }
           },
           "7": {
@@ -649,7 +649,7 @@
           "0": {
             "message": {
               "": "WHAT.",
-              "en_US": "O QUE."
+              "en_US": "O QUE?"
             }
           }
         }

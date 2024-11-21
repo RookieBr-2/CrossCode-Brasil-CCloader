@@ -226,7 +226,7 @@
                             "2": {
                               "message": {
                                 "": "Well then... good luck!",
-                                "en_US": "Bem, então... Boa sorte!"
+                                "en_US": "Boa sorte!"
                               }
                             },
                             "3": {
@@ -359,7 +359,7 @@
                         "1": {
                           "message": {
                             "": "Or do you plan to once again turn this into a display of \\c[1]BLATANT CHEATING\\c[0] in front of everyone?!",
-                            "en_US": "Ou você planeja novamente tornar isso em uma exibição de \\c[1]TRAPAÇA DESCARADA\\c[0] na frente de todos?!"
+                            "en_US": "Ou vai transformar isso de novo em uma exibição de \\c[1]TRAPAÇA DESCARADA\\c[0] na frente de todo mundo?!"
                           }
                         },
                         "2": {
@@ -1046,7 +1046,7 @@
           "60": {
             "message": {
               "": "Well then...\\. Our next stage would be \\c[3]Faj'ro Temple\\c[0], right?",
-              "en_US": "Então...\\. Nossa próxima etapa será o \\c[3]Templo Faj'ro\\c[0], não é?"
+              "en_US": "Então...\\. nossa próxima etapa será o \\c[3]Templo Faj'ro\\c[0], não é?"
             }
           },
           "61": {

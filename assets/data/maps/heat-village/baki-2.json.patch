@@ -334,7 +334,7 @@
           "28": {
             "message": {
               "": "Still...\\. I'd really like to know more about you.",
-              "en_US": "Mas...\\. Eu gostaria de saber mais sobre você."
+              "en_US": "Mas...\\. eu queria te conhecer melhor."
             }
           },
           "29": {
@@ -517,7 +517,7 @@
           "80": {
             "message": {
               "": "Lea...\\. I am sorry I cannot...",
-              "en_US": "Lea...\\. Sinto não poder..."
+              "en_US": "Lea...\\. sinto não poder..."
             }
           },
           "82": {
@@ -550,7 +550,7 @@
           "87": {
             "message": {
               "": "You are wondering about your \\c[3]real life\\c[0]...\\. Correct?",
-              "en_US": "Você quer saber sobre sua \\c[3]vida real\\c[0]...\\. Correto?"
+              "en_US": "Você quer saber sobre sua \\c[3]vida real\\c[0]...\\. não é?"
             }
           },
           "88": {
@@ -665,7 +665,7 @@
           "116": {
             "message": {
               "": "Lea...\\. P-Please calm down...",
-              "en_US": "Lea...\\. P-Por favor, acalme-se..."
+              "en_US": "Lea...\\. p-por favor, acalme-se..."
             }
           },
           "117": {
@@ -1010,7 +1010,7 @@
           "1": {
             "text": {
               "": "NEVER! We will tank everything!",
-              "en_US": "NUNCA! Vamos tancar tudo!"
+              "en_US": "NUNCA! Vamos tankar tudo!"
             }
           },
           "2": {
@@ -1414,7 +1414,7 @@
               "2": {
                 "message": {
                   "": "Human!\\. Got quality tableware for sale!\\. Best craftworks, it much smooth!",
-                  "en_US": "Humana!\\. Vende-se talheres de qualidade!\\. Melhor artesanato, é muito polido!"
+                  "en_US": "Humana!\\. Vendo talheres de qualidade!\\. Melhor artesanato, é muito polido!"
                 }
               },
               "3": {
@@ -2479,7 +2479,7 @@
           "61": {
             "message": {
               "": "Drat! I forgot.",
-              "en_US": "Puts! Esqueci."
+              "en_US": "Putz! Esqueci."
             }
           },
           "62": {
@@ -2550,7 +2550,7 @@
           "4": {
             "message": {
               "": "Here we are.",
-              "en_US": "Aqui estamos."
+              "en_US": "Chegamos."
             }
           },
           "11": {
@@ -2562,7 +2562,7 @@
           "12": {
             "message": {
               "": "Well...\\. I guess I'll have a look around the market.",
-              "en_US": "Bom...\\. Acho que vou dar uma volta pelo mercado."
+              "en_US": "Acho que vou dar uma volta pelo mercado."
             }
           },
           "13": {
@@ -2601,7 +2601,7 @@
           "31": {
             "message": {
               "": "Hm.\\. Are you looking for my friend?",
-              "en_US": "Hum.\\. Está procurando meu amigo?"
+              "en_US": "Hm.\\. Está procurando meu amigo?"
             }
           },
           "32": {
@@ -2703,7 +2703,7 @@
           "40": {
             "message": {
               "": "Hm.\\. A girl of few words, aren't you?",
-              "en_US": "Hum.\\. Você é uma garota de poucas palavras, não é?"
+              "en_US": "Hm.\\. Você é uma garota de poucas palavras, não é?"
             }
           },
           "41": {
@@ -2895,13 +2895,13 @@
           "96": {
             "message": {
               "": "Well...\\. I guess it'd be a bother to learn it.",
-              "en_US": "Bom...\\. Acho que seria trabalhoso aprender isso."
+              "en_US": "Mas acho que seria trabalhoso aprender isso."
             }
           },
           "97": {
             "message": {
               "": "Also, I guess most other players don't know sign language either.",
-              "en_US": "Além disso, acho que a maioria dos outros jogadores também não conhece a linguagem de sinais."
+              "en_US": "Além disso, a maioria dos outros jogadores também não conhece a linguagem de sinais."
             }
           },
           "98": {
@@ -3035,7 +3035,7 @@
           "130": {
             "message": {
               "": "Uhm...\\. anyway...\\. Let's just go, okay?",
-              "en_US": "Hum...\\. bem...\\. Vamos logo, ok?"
+              "en_US": "Hmm...\\. bem...\\. Vamos logo, ok?"
             }
           }
         }
@@ -3096,7 +3096,7 @@
               "1": {
                 "message": {
                   "": "I've come back to STOP this disingenuous behavior of yours!",
-                  "en_US": "Voltei para PARAR com esse seu comportamento dissimulado!"
+                  "en_US": "Voltei para ACABAR com esse seu comportamento dissimulado!"
                 }
               }
             },
@@ -3332,7 +3332,7 @@
           "125": {
             "message": {
               "": "Oh.\\. He's some kind of self proclaimed Justice guy.",
-              "en_US": "Ah.\\. Ele é algum tipo de justiceiro autoproclamado."
+              "en_US": "Ah, ele é algum tipo de justiceiro autoproclamado."
             }
           },
           "126": {
@@ -3436,7 +3436,7 @@
           "23": {
             "message": {
               "": "So this is your first time playing CrossWorlds, too?",
-              "en_US": "Então esta é sua primeira vez jogando CrossWorlds também?"
+              "en_US": "Então essa é sua primeira vez jogando CrossWorlds também?"
             }
           },
           "24": {
