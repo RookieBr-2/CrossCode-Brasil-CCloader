@@ -107,7 +107,7 @@
                 "11": {
                   "message": {
                     "": "Gonna check for pollution and radiation and take those samples we need.",
-                    "en_US": "Vamos verificar a poluição e a radiação e recolher as amostras de que precisamos."
+                    "en_US": "Vamos verificar a poluição e a radiação e recolher as amostras que precisamos."
                   }
                 },
                 "12": {
@@ -542,7 +542,7 @@
           "3": {
             "message": {
               "": "There's all kind of stuff in there.\\. Including bugs.\\. Lots of bugs.",
-              "en_US": "Há todo o tipo de coisas lá dentro.\\. Incluindo insetos.\\. Muitos insetos."
+              "en_US": "Tem várias coisas lá dentro.\\. Incluindo insetos.\\. Muitos insetos."
             }
           },
           "4": {

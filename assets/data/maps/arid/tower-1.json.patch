@@ -109,7 +109,7 @@
               "0": {
                 "message": {
                   "": "I'm afraid your \\c[1]one-hit-kill\\c[0] ability won't help us much here.",
-                  "en_US": "Acho que sua habilidade \\c[1]roubada\\c[0] não vai nos ajudar aqui."
+                  "en_US": "Acho que seu dano \\c[1]absurdo\\c[0] não vai nos ajudar aqui."
                 }
               }
             }
@@ -123,7 +123,7 @@
           "18": {
             "message": {
               "": "Let's go separately, it's probably easier to stay hidden that way.",
-              "en_US": "Vamos nos separar, provavelmente é mais fácil ficar escondidos assim."
+              "en_US": "Vamos nos separar, é mais fácil ficar escondidos assim."
             }
           },
           "19": {
@@ -380,19 +380,19 @@
           "19": {
             "message": {
               "": "I don't know what you hope to achieve with this...",
-              "en_US": "Não sei o que você espera alcançar com isso..."
+              "en_US": "Não sei o que vocês esperam alcançar com isso..."
             }
           },
           "20": {
             "message": {
               "": "But it is clear that your goal is to interfere with the Evotars of this area.",
-              "en_US": "Mas é claro que seu objetivo é interferir nos Evotares dessa área."
+              "en_US": "Mas é claro que o objetivo de vocês é interferir nos Evotares dessa área."
             }
           },
           "21": {
             "message": {
               "": "I won't let you continue doing this as you please.",
-              "en_US": "Eu não vou deixar você o que quer."
+              "en_US": "Eu não vou deixar vocês fazerem o que querem."
             }
           },
           "36": {
@@ -546,7 +546,7 @@
           "20": {
             "message": {
               "": "What about...\\.",
-              "en_US": "Que tal...\\."
+              "en_US": "Mas...\\."
             }
           },
           "21": {
@@ -1087,7 +1087,7 @@
           "139": {
             "message": {
               "": "We can only operate in the shadow of this company, hidden in the Playground.",
-              "en_US": "Só podemos operar na sombra desta empresa, escondidos do Playground."
+              "en_US": "Só podemos operar na sombra desta empresa, escondidos no Playground."
             }
           },
           "140": {
@@ -1183,13 +1183,13 @@
           "189": {
             "message": {
               "": "I assume you plan to just walk up to the server, reboot it and fetch the data, am I right?",
-              "en_US": "Imagino que você tenha a intenção de acessar o servidor, reiniciá-lo e pegar os dados, estou certo?"
+              "en_US": "Imagino que vocês tenham a intenção de acessar o servidor, reiniciá-lo e pegar os dados, estou certo?"
             }
           },
           "190": {
             "message": {
               "": "Well, I have bad news for you.",
-              "en_US": "Bom, eu tenho más notícias para você."
+              "en_US": "Bom, eu tenho más notícias para vocês."
             }
           },
           "192": {
@@ -1362,7 +1362,7 @@
           "304": {
             "message": {
               "": "Gautham...\\. I can't believe this!",
-              "en_US": "Gautham...\\. Você não pode estar falando sério!"
+              "en_US": "Gautham...\\. você não pode estar falando sério!"
             }
           },
           "305": {
@@ -1662,13 +1662,13 @@
           "76": {
             "message": {
               "": "I just thought...\\. he didn't care anymore...",
-              "en_US": "Eu achei...\\. ele não se importava mais..."
+              "en_US": "Eu achei...\\. que ele não se importava mais..."
             }
           },
           "84": {
             "text": {
               "": "It was one thing I never considered...\\.\n\\.\nThat it was him who took on the heavy burden.\\.\nHandling the worst parts of Sidwell's business...\\.\n\\.\nHe must have lost control...\\. a long time ago.",
-              "en_US": "Nunca me passou pela cabeça, durante todo esse tempo...\\.\n\\.\nQue era ele quem carregava o fardo mais pesado.\\.\nFazendo o trabalho sujo de Sidwell...\\.\n\\.\Ele deve ter perdido o controle de si mesmo...\\. há muito tempo atrás."
+              "en_US": "Nunca me passou pela cabeça, durante todo esse tempo...\\.\n\\.\nQue era ele quem carregava o fardo mais pesado.\\.\nFazendo o trabalho sujo de Sidwell...\\.\n\\.\nEle deve ter perdido o controle de si mesmo...\\. há muito tempo atrás."
             }
           },
           "86": {

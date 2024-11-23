@@ -409,7 +409,7 @@
               "2": {
                 "message": {
                   "": "Oh! Hey, Lea! Did you have a look around the ship already?",
-                  "en_US": "Oh! Ei, Lea! Já deu uma olhada ao redor do navio?"
+                  "en_US": "Ei, Lea! Já deu uma olhada ao redor do navio?"
                 }
               },
               "3": {
@@ -813,7 +813,7 @@
           "73": {
             "message": {
               "": "I just thought it would be for the best...",
-              "en_US": "Pensei que seria para o melhor..."
+              "en_US": "Pensei que seria melhor..."
             }
           },
           "74": {
@@ -876,7 +876,7 @@
           "11": {
             "message": {
               "": "So, yes... that is what you are, Lea. An \\c[3]Evotar\\c[0] based on \\c[3]Shizuka\\c[0].",
-              "en_US": "Então, sim... é isso que você é, Lea. Um \\c[3]Evotar\\c[0] baseado em \\c[3]Shizuka\\c[0]."
+              "en_US": "Então, sim... é isso que você é, Lea. Um \\c[3]Evotar\\c[0] baseado na \\c[3]Shizuka\\c[0]."
             }
           },
           "12": {
@@ -939,7 +939,7 @@
           "22": {
             "message": {
               "": "Again... I am sorry for all of this.",
-              "en_US": "Novamente... Sinto muito por tudo isso."
+              "en_US": "Sinto muito por tudo isso."
             }
           },
           "23": {
@@ -998,7 +998,7 @@
           "36": {
             "message": {
               "": "There are these... \\c[3]Evotars\\c[0] in CrossWorlds?",
-              "en_US": "Existem esses... \\c[3]Evotares\\c[0] em CrossWorlds?"
+              "en_US": "Esses... \\c[3]Evotares\\c[0] existem em CrossWorlds?"
             }
           },
           "37": {

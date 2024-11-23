@@ -372,7 +372,7 @@
                       "0": {
                         "message": {
                           "": "Spheromancer Lea! Here you can see a prime example of perfectly regular bamboo!",
-                          "en_US": "Esferomante Lea! Aqui você pode ver um excelente exemplo de bambu perfeitamente comum!"
+                          "en_US": "Esferomante Lea! Aqui você pode ver um excelente exemplo de bambu perfeitamente quadrado!"
                         }
                       }
                     },
@@ -446,7 +446,7 @@
           "3": {
             "text": {
               "": "Well...\\.\\.\\. You are as fit as you feel, I guess.",
-              "en_US": "Bem...\\.\\.\\. Você atrai aquilo o que pensa, acho eu."
+              "en_US": "Você atrai aquilo o que pensa, acho eu."
             }
           }
         }
@@ -952,7 +952,7 @@
                     "13": {
                       "message": {
                         "": "Now that I think about it...\\. you haven't said terribly much so far, huh?",
-                        "en_US": "Agora que eu notei...\\. você não falou muito até agora, né?"
+                        "en_US": "Agora que eu notei...\\. Você não falou muito até agora, né?"
                       }
                     },
                     "14": {
@@ -1093,7 +1093,7 @@
                         "23": {
                           "message": {
                             "": "I honestly have no idea what this player is up to.",
-                            "en_US": "Sinceramente, não tenho idéia do que esta jogadora está fazendo."
+                            "en_US": "Sinceramente, não tenho ideia do que esta jogadora está fazendo."
                           }
                         },
                         "24": {

@@ -61,7 +61,7 @@
               "3": {
                 "message": {
                   "": "We will give \\c[3]Shiny Orb\\c[0] as reward. You need orb to enter \\c[3]Faj'ro Temple\\c[0].",
-                  "en_US": "Daremos o \\c[3]Orbe Brilhante\\c[0] como recompensa. Você vair precisar dele para entrar no \\c[3]Templo Faj'ro\\c[0]."
+                  "en_US": "Daremos o \\c[3]Orbe Brilhante\\c[0] como recompensa. Você vair precisar dele para entrar no \\c[3]Templo de Faj'ro\\c[0]."
                 }
               }
             }
@@ -102,7 +102,7 @@
                 "7": {
                   "message": {
                     "": "Human now can go to \\c[3]mystic statue\\c[0] at market to receive key to \\c[3]Faj'ro Temple\\c[0].",
-                    "en_US": "A humana agora pode ir até a \\c[3]estárua mística\\c[0] no mercado para receber a chave do \\c[3]Templo Faj'ro\\c[0]."
+                    "en_US": "A humana agora pode ir até a \\c[3]estárua mística\\c[0] no mercado para receber a chave do \\c[3]Templo de Faj'ro\\c[0]."
                   }
                 },
                 "8": {
@@ -238,7 +238,7 @@
           "18": {
             "message": {
               "": "Statue holds key to \\c[3]Faj'ro Temple\\c[0], important place for Seeker Human.",
-              "en_US": "A estátua guarda a chave do \\c[3]Templo Faj'ro\\c[0], lugar importante para os Humanos Seekers."
+              "en_US": "A estátua guarda a chave do \\c[3]Templo de Faj'ro\\c[0], lugar importante para os Humanos Seekers."
             }
           },
           "19": {

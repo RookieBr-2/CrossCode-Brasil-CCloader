@@ -15,7 +15,7 @@
                   "5": {
                     "message": {
                       "": "This is \\c[3]Zir'vitar Temple\\c[0]. One of the temples in Gaia's Garden.",
-                      "en_US": "Este é o \\c[3]Templo Zir'vitar\\c[0]. Um dos templos no Jardim de Gaia."
+                      "en_US": "Este é o \\c[3]Templo de Zir'vitar\\c[0]. Um dos templos no Jardim de Gaia."
                     }
                   },
                   "6": {
@@ -75,13 +75,13 @@
                               "0": {
                                 "message": {
                                   "": "Uhm...\\. we already started the race of the \\c[3]So'najiz Temple\\c[0].",
-                                  "en_US": "Hum....\\. já começamos a corrida do \\c[3]Templo So'najiz\\c[0]."
+                                  "en_US": "Hum....\\. já começamos a corrida do \\c[3]Templo de So'najiz\\c[0]."
                                 }
                               },
                               "1": {
                                 "message": {
                                   "": "I mean we can just put that race on the hold and run the \\c[3]Zir'vitar Temple\\c[0] instead.",
-                                  "en_US": "Bem, podemos deixar essa corrida pra depois e vez disso correr no \\c[3]Templo Zir'vitar\\c[0]."
+                                  "en_US": "Bem, podemos deixar essa corrida pra depois e vez disso correr no \\c[3]Templo de Zir'vitar\\c[0]."
                                 }
                               },
                               "2": {
@@ -93,7 +93,7 @@
                               "3": {
                                 "message": {
                                   "": "You want to start the race of the Zir'vitar Temple?",
-                                  "en_US": "Você quer começar a corrida do Templo Zir'vitar?"
+                                  "en_US": "Você quer começar a corrida do Templo de Zir'vitar?"
                                 }
                               }
                             },
@@ -147,7 +147,7 @@
                               "1": {
                                 "message": {
                                   "": "Ready to start the race of the Zir'vitar Temple?",
-                                  "en_US": "Pronta para começar a corrida do Templo Zir'vitar?"
+                                  "en_US": "Pronta para começar a corrida do Templo de Zir'vitar?"
                                 }
                               }
                             }
@@ -297,7 +297,7 @@
           "20": {
             "message": {
               "": "That's what the Shad believe anyway.",
-              "en_US": "Pelo menos. é nisso que os Shads acreditam."
+              "en_US": "Pelo menos, é nisso que os Shads acreditam."
             }
           }
         }
@@ -384,7 +384,7 @@
           "19": {
             "message": {
               "": "From the track's perspective, the plant might as well not be here!",
-              "en_US": "Do ponto de vista da trilha, a fábrica pode muito bem não estar aqui!"
+              "en_US": "Do ponto de vista da trilha, a usina pode muito bem não estar aqui!"
             }
           },
           "20": {
@@ -407,7 +407,7 @@
           "23": {
             "message": {
               "": "Well...I'm sure you're here to enter the temple, so I won't distract you any further.",
-              "en_US": "Bem... tenho certeza de que você está aqui para entrar no templo, então não vou distraí-la mais."
+              "en_US": "Tenho certeza de que você está aqui para entrar no templo, então não vou distraí-la mais."
             }
           },
           "24": {
@@ -598,7 +598,7 @@
                 "15": {
                   "message": {
                     "": "So please, go ahead!\n",
-                    "en_US": "Portanto, por favor, vá em frente!\n"
+                    "en_US": "Então, por favor, vá em frente!\n"
                   }
                 },
                 "28": {

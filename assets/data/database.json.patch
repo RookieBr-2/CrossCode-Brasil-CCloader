@@ -2311,7 +2311,7 @@
         "balcony": {
           "name": {
             "": "Faj'ro Balcony",
-            "en_US": "Sacada do Templo Faj'ro"
+            "en_US": "Sacada do Templo de Faj'ro"
           },
           "description": {
             "": "The Balcony of Faj'ro Temple.",
@@ -2335,7 +2335,7 @@
           },
           "description": {
             "": "A single pillar inside the Great Scar from which a temple of the Ancient can be seen.",
-            "en_US": "Um pilar situado dentro da Grande Cicatriz de onde se pode ver o Templo Faj'ro."
+            "en_US": "Um pilar situado dentro da Grande Cicatriz de onde se pode ver o Templo de Faj'ro."
           }
         },
         "middle": {
@@ -2373,7 +2373,7 @@
     "heat-dng": {
       "name": {
         "": "Faj'ro Temple",
-        "en_US": "Templo Faj'ro"
+        "en_US": "Templo de Faj'ro"
       },
       "description": {
         "": "An ancient temple whose shape granted it the nickname \"Hourglass\".",
@@ -2450,7 +2450,7 @@
           },
           "description": {
             "": "A crossroad leading to the Zir'vitar Temple, So'najiz Temple and the Grand Krys'kajo.",
-            "en_US": "Um cruzamento que leva ao Templo Zir'vitar, ao Templo So'najiz e ao Grand Krys'kajo."
+            "en_US": "Um cruzamento que leva ao Templo de Zir'vitar, ao Templo de So'najiz e ao Grand Krys'kajo."
           }
         },
         "infested": {
@@ -2629,7 +2629,7 @@
     "shock-dng": {
       "name": {
         "": "Zir'vitar Temple",
-        "en_US": "Templo Zir'vitar"
+        "en_US": "Templo de Zir'vitar"
       },
       "description": {
         "": "An ancient shad temple, home to many shocking creatures.",
@@ -2670,7 +2670,7 @@
     "wave-dng": {
       "name": {
         "": "So'najiz Temple",
-        "en_US": "Templo So'najiz"
+        "en_US": "Templo de So'najiz"
       },
       "description": {
         "": "An ancient underwater shad temple, home to many bouncing foes.",
@@ -2964,7 +2964,7 @@
             "0": {
               "message": {
                 "": "Huh... I guess we have to reach those glowing spots, right?",
-                "en_US": "Huh... Acho que temos que alcançar esses pontos brilhantes, não é?"
+                "en_US": "Acho que temos que alcançar esses pontos brilhantes, não é?"
               }
             },
             "1": {
@@ -4706,7 +4706,7 @@
             "1": {
               "message": {
                 "": "No...\\. You can't possibly do so much damage even with a maxed-out attack stat.",
-                "en_US": "Não...\\. Não é possível fazer tantos dano, mesmo com um ataque máximo."
+                "en_US": "Não...\\. Não é possível fazer tanto dano, mesmo com um ataque maximizado."
               }
             }
           }
@@ -4715,7 +4715,8 @@
           "thenStep": {
             "0": {
               "message": {
-                "": "\\c[1]Bye.\\c[0]"
+                "": "\\c[1]Bye.\\c[0]",
+                "en_US": "\\c[1]Tchau.\\c[0]"
               }
             },
             "1": {
@@ -4804,7 +4805,7 @@
             "2": {
               "message": {
                 "": "You probably could \\c[1]shoot through any kind of matter like butter\\c[0], if they were consistent with it.",
-                "en_US": "Parece quee você poderia fazer qualquer coisa \\c[1]virar manteiga com seus disparos\\c[0], se isso fosse possível"
+                "en_US": "Parece que você poderia fazer qualquer coisa \\c[1]virar manteiga com seus disparos\\c[0], se isso fosse possível."
               }
             },
             "3": {
@@ -4820,13 +4821,13 @@
             "0": {
               "message": {
                 "": "\\c[1]Bye~\\c[0]",
-                "en_US": "\\c[1]Tchau~\\c[0]"
+                "en_US": "\\c[1]Tchau!\\c[0]"
               }
             },
             "1": {
               "message": {
                 "": "And another one gone...\\. Not much to do for me, I suppose.",
-                "en_US": "E lá se vai outro...\\. Não tenho muito o que fazer, eu suponho."
+                "en_US": "E lá se vai outro...\\. Não tenho muito o que fazer, eu acho."
               }
             }
           }
@@ -4982,7 +4983,7 @@
             "1": {
               "message": {
                 "": "Seems like combat is smooth sailing with her in the party.\\. More time to enjoy the landscape.",
-                "en_US": "Parece que o combate é tranquilo com ela na grupo.\\. Mais tempo de sobra para desfrutar da paisagem."
+                "en_US": "O combate é tranquilo com ela na grupo.\\. Sobra mais tempo para desfrutar a paisagem."
               }
             },
             "2": {
@@ -5452,7 +5453,7 @@
         "0": {
           "message": {
             "": "We're sharing blows with the \\c[3]\\v[combat.name.jungle/blob]\\c[0]! Be aware of their team attacks!",
-            "en_US": "Estamos trocando golpes com o \\c[3]\\v[combat.name.jungle/blob]\\c[0]! Estejam atentos aos ataques da equipe dele!"
+            "en_US": "Estamos trocando golpes com a \\c[3]\\v[combat.name.jungle/blob]\\c[0]! Estejam atentos aos ataques da equipe dela!"
           }
         }
       }
@@ -6039,7 +6040,7 @@
             "1": {
               "message": {
                 "": "Uhm...\\. hello.",
-                "en_US": "Uhm...\\. olá."
+                "en_US": "Hmm...\\. olá."
               }
             },
             "2": {
@@ -6258,7 +6259,7 @@
             "10": {
               "message": {
                 "": "Uhm...\\. whoops...",
-                "en_US": "Uhm...\\. oops..."
+                "en_US": "Hmm...\\. oops..."
               }
             },
             "11": {
@@ -6381,7 +6382,7 @@
             "1": {
               "message": {
                 "": "Uhm yeah...\\. I guess!",
-                "en_US": "Uhm sim...\\. Eu acho!"
+                "en_US": "Hmm sim...\\. Eu acho!"
               }
             }
           }
@@ -6818,7 +6819,7 @@
             "0": {
               "message": {
                 "": "Uhm... anyone up for a break?",
-                "en_US": "Uhm... alguém quer fazer uma pausa?"
+                "en_US": "Hmm... alguém quer fazer uma pausa?"
               }
             }
           },
@@ -7892,7 +7893,7 @@
             "0": {
               "message": {
                 "": "Have you ever seen one of these Hillkats digging...\\. over a \\c[3]laser bridge\\c[0]?\\. Yes, they do that.",
-                "en_US": "Já viu uma dessas Topeiras cavando...\\. numa \\c[3]ponte de laser\\c[0]?\\. Pois é, elas fazem isso."
+                "en_US": "Já viu um desses Suricavas cavando...\\. numa \\c[3]ponte de laser\\c[0]?\\. Pois é, eles fazem isso."
               }
             },
             "1": {
@@ -7904,7 +7905,7 @@
             "2": {
               "message": {
                 "": "Still, I wish they would have made them stop in front of the laser bridges.\\. It does break the illusion.",
-                "en_US": "Mesmo assim, gostaria que eles tivessem feito as Topeiras pararem antes das pontes de laser.\\. Isso quebra a ilusão."
+                "en_US": "Mesmo assim, gostaria que eles tivessem feito os Suricavas pararem antes das pontes de laser.\\. Isso quebra a ilusão."
               }
             }
           }
@@ -8215,7 +8216,7 @@
             "0": {
               "message": {
                 "": "Drillertoise? I honestly have no idea what those are supposed to be.",
-                "en_US": "Drillertoise? Sinceramente, não tenho idéia do que isso deveria ser."
+                "en_US": "Drillertoise? Sinceramente, não tenho ideia do que isso deveria ser."
               }
             },
             "1": {
@@ -8471,7 +8472,7 @@
             "1": {
               "message": {
                 "": "Unless you count those jellyfish enemies of the Faj'ro Temple.",
-                "en_US": "A menos que você leve em conta as medusas do Templo Faj'ro."
+                "en_US": "A menos que você leve em conta as medusas do Templo de Faj'ro."
               }
             },
             "2": {
@@ -8765,7 +8766,7 @@
             "1": {
               "message": {
                 "": "Well... I'm a Hexacast. I specialize in ranged attacks.",
-                "en_US": "Bem... Eu sou um Hexamago. Sou especialista em ataques à distância."
+                "en_US": "Eu sou um Hexamago. Sou especialista em ataques à distância."
               }
             },
             "2": {
@@ -10985,7 +10986,7 @@
             "1": {
               "message": {
                 "": "Uhm, hey Lea. Why the DL? I'm in your party, non?",
-                "en_US": "Uhm, ei Lea. Por que o DL? Eu tô no seu grupo, non?"
+                "en_US": "Hm, ei Lea. Por que o DL? Eu tô no seu grupo, non?"
               }
             },
             "2": {
@@ -12368,7 +12369,7 @@
             "2": {
               "message": {
                 "": "Let's just chill a bit longer here on top of Faj'ro Temple.",
-                "en_US": "Vamos relaxar um pouco mais aqui no topo do Templo Faj'ro."
+                "en_US": "Vamos relaxar um pouco mais aqui no topo do Templo de Faj'ro."
               }
             }
           }
@@ -13362,7 +13363,7 @@
             "0": {
               "message": {
                 "": "Uhm...\\. maybe later?\\. I suppose we're all running the dungeon on our own, now.",
-                "en_US": "Uhm...\\. talvez depois?\\. Acho que temos que explorar as dungeons por conta própria, agora."
+                "en_US": "Hmm...\\. talvez depois?\\. Acho que temos que explorar as dungeons por conta própria, agora."
               }
             }
           }
@@ -13434,13 +13435,13 @@
             "0": {
               "message": {
                 "": "Uhm... it's getting rather late isn't it?",
-                "en_US": "Uhm... está ficando um pouco tarde, não está?"
+                "en_US": "Hmm... está ficando um pouco tarde, não está?"
               }
             },
             "1": {
               "message": {
                 "": "I'm also a bit tired right after beating Faj'ro Temple. Let's call it day, okay?",
-                "en_US": "Também estou um pouco cansado depois de explorar o Templo Faj'ro. Vamos encerrar o dia, certo?"
+                "en_US": "Também estou um pouco cansado depois de explorar o Templo de Faj'ro. Vamos encerrar o dia, certo?"
               }
             }
           }
@@ -15979,7 +15980,7 @@
             "0": {
               "message": {
                 "": "Uhm...\\. sure!\\. I actually have time now!",
-                "en_US": "Uhm...\\. claro!\\. Eu tenho tempo agora!"
+                "en_US": "Hmm...\\. claro!\\. Eu tenho tempo agora!"
               }
             }
           },
@@ -19749,7 +19750,7 @@
               },
               "text": {
                 "": "You decided \\c[3]not to update your save file\\c[0].\n\nBecause of this it's very likely that you'll encounter \\c[1]game breaking bugs\\c[0]. Please be aware, that we won't be able to fix those bugs.\n\nYou can still reload the save and select to update your save if you change your mind.",
-                "en_US": "Você decidiu \\c[3]não atualizar o seu save\\c[0].\n\nPor causa disso é bem provável que você se depare com \\c[1]bugs fatais\\c[1]. Por favor, esteja ciente de que não seremos capazes de corrigir esses bugs.\n\nVocê ainda pode recarregar o save e selecionar a opção de atualizar seu save se mudar de idéia."
+                "en_US": "Você decidiu \\c[3]não atualizar o seu save\\c[0].\n\nPor causa disso é bem provável que você se depare com \\c[1]bugs fatais\\c[1]. Por favor, esteja ciente de que não seremos capazes de corrigir esses bugs.\n\nVocê ainda pode recarregar o save e selecionar a opção de atualizar seu save se mudar de ideia."
               }
             }
           }
@@ -19785,7 +19786,7 @@
               },
               "text": {
                 "": "You decided \\c[3]not to update your save file\\c[0].\n\nBecause of this it's very likely that you'll encounter \\c[1]game breaking bugs\\c[0]. Please be aware, that we won't be able to fix those bugs.\n\nYou can still reload the save and select to update your save if you change your mind.",
-                "en_US": "Você decidiu \\c[3]não atualizar o seu save\\c[0].\n\nPor causa disso é bem provável que você se depare com \\c[1]bugs fatais\\c[1]. Por favor, esteja ciente de que não seremos capazes de corrigir esses bugs.\n\nVocê ainda pode recarregar o save e selecionar a opção de atualizar seu save se mudar de idéia."
+                "en_US": "Você decidiu \\c[3]não atualizar o seu save\\c[0].\n\nPor causa disso é bem provável que você se depare com \\c[1]bugs fatais\\c[1]. Por favor, esteja ciente de que não seremos capazes de corrigir esses bugs.\n\nVocê ainda pode recarregar o save e selecionar a opção de atualizar seu save se mudar de ideia."
               }
             }
           }
@@ -20891,7 +20892,7 @@
         "0": {
           "text": {
             "": "It is said that this curious being was brought to life by a sorceress in a moment of loneliness but it got left behind which transformed it into a mean Gatling Gun wielding grump.\nIt doesn't really need to but will attack anything that comes close to it by disguising itself as a simple snowman.\nGetting close for too long is not a good idea as it will use a ground slam attack to deal a lot of damage.",
-            "en_US": "Dizem que este ser curioso foi trazido à vida por uma feiticeira em um momento de solidão, mas ele foi abandonado pouco tempo depois. Por causa disso ele virou um psicopata armado até os dentes. Ele não precisa atacar, mas vai atacar qualquer coisa que se aproxime dele, enquanto se disfarça como um simples boneco de neve. Chegar muito perto dele não é uma boa idéia, já que ele executa um salto que causa muito dano."
+            "en_US": "Dizem que este ser curioso foi trazido à vida por uma feiticeira em um momento de solidão, mas ele foi abandonado pouco tempo depois. Por causa disso ele virou um psicopata armado até os dentes. Ele não precisa atacar, mas vai atacar qualquer coisa que se aproxime dele, enquanto se disfarça como um simples boneco de neve. Chegar muito perto dele não é uma boa ideia, já que ele executa um salto que causa muito dano."
           }
         }
       }
@@ -20970,7 +20971,8 @@
     },
     "heat.jellyfish": {
       "name": {
-        "": "Trijelly"
+        "": "Trijelly",
+        "en_US": "Tridusa"
       },
       "species": {
         "": "Flying Jellyfish",
@@ -20987,7 +20989,8 @@
     },
     "heat.special.jellyfish-booze": {
       "name": {
-        "": "Pintjelly"
+        "": "Pintjelly",
+        "en_US": "Alcodusa"
       },
       "species": {
         "": "Alcoholic Jellyfish",
@@ -21056,7 +21059,8 @@
     },
     "jungle.blob": {
       "name": {
-        "": "Gelleric"
+        "": "Gelleric",
+        "en_US": "Geleca"
       },
       "species": {
         "": "Gelatin Mass",
@@ -21066,14 +21070,15 @@
         "0": {
           "text": {
             "": "Can't go without a slime enemy in an RPG, right? Well, this is not it! The actual core of this creature is a bright light inside the gelatin mass, totally different. \nDespite that it is pretty weak when fought alone and will not even attack if not startled. In larger groups however it can quickly overwhelm you with group attacks. Use Combat Arts to quickly dispatch them!",
-            "en_US": "Não da pra ficar sem um inimigo slime em um RPG, não é? Bem, ele não é exatamente um slime! O núcleo real dessa criatura é uma luz brilhante dentro de uma massa de gelatina, então é totalmente diferente de um slime. \nApesar disso, eles são bastante fracos quando estão sozinhos e não atacam por conta própria. Mas em grupos maiores eles pode ser um grande problema. Use as habilidades de combate para se livrar deles rapidamente."
+            "en_US": "Não da pra ficar sem um inimigo slime em um RPG, não é? Bem, ela não é exatamente um slime! O núcleo real dessa criatura é uma luz brilhante dentro de uma massa de gelatina, então é totalmente diferente de um slime. \nApesar disso, elas são bastante fracas quando estão sozinhas e não atacam por conta própria. Mas em grupos maiores elas pode ser um grande problema. Use as habilidades de combate para se livrar delas rapidamente."
           }
         }
       }
     },
     "jungle.blob-wave": {
       "name": {
-        "": "Jelleric"
+        "": "Jelleric",
+        "en_US": "Meleca"
       },
       "species": {
         "": "Gelatin Mass +",
@@ -21083,7 +21088,7 @@
         "0": {
           "text": {
             "": "A stronger slime enemy? Really? Not really! Just like the \\v[combat.name.jungle/blob] the actual enemy is the light inside the mass. But the mass is harder and a bit darker which makes it stronger! Other than that it behaves exactly like its weaker kind, yep. ",
-            "en_US": "Um inimigo slime mais forte? Sério? Na verdade não! Assim como o \\v[combat.name.jungle/blob] o inimigo real é a luz dentro da massa. Mas a massa deste aqui é mais dura e um pouco mais escura e isso torna ele mais forte! Fora isso, ele se comporta exatamente como um \\v[combat.name.jungle/blob]."
+            "en_US": "Um inimigo slime mais forte? Sério? Na verdade não! Assim como a \\v[combat.name.jungle/blob] o inimigo real é a luz dentro da massa. Mas a massa deste aqui é mais dura e um pouco mais escura e isso torna ele mais forte! Fora isso, ela se comporta exatamente como uma \\v[combat.name.jungle/blob]."
           }
         }
       }
@@ -21091,7 +21096,7 @@
     "jungle.special.quest_td_blob_1": {
       "name": {
         "": "Tunnel Gelleric",
-        "en_US": "Gelleric do Túnel"
+        "en_US": "Geleca do Túnel"
       },
       "species": {
         "": "Gelatin Mass ",
@@ -21101,14 +21106,15 @@
         "0": {
           "text": {
             "": "A close relative to the regular \\c[3]\\v[combat.name.jungle/blob]\\c[0], this specimen prefers to live underground. Usually they have a close connection to intensive points of Ancient power that they are eager to protect.\nSince it is more prone to traverse on strict paths, one might think of it as very inflexible. It is, however, just as wobbly as its overworldly relative.",
-            "en_US": "Um parente próximo do \\c[3]\\v[combat.name.jungle/blob]\\c[0] comum, este espécime prefere viver no subsolo. Normalmente eles têm uma estreita conexão com os pontos de poder dos Antigos, que eles defenderão até a morte.\nComo eles são conhecidos por se moverem por caminhos fixos, você pode pensar que eles são bastante inflexíveis. Entretanto, eles são tão trêmulos quanto seus parentes na superfície."
+            "en_US": "Um parente próximo da \\c[3]\\v[combat.name.jungle/blob]\\c[0] comum, este espécime prefere viver no subsolo. Normalmente elas têm uma estreita conexão com os pontos de energia dos Antigos, que elas defenderão até a morte.\nComo elas são conhecidas por se moverem por caminhos fixos, você pode pensar que elas são bastante inflexíveis. Entretanto, elas são tão trêmulos quanto seus parentes na superfície."
           }
         }
       }
     },
     "beach.special.blob-salt": {
       "name": {
-        "": "Salteric"
+        "": "Salteric",
+        "en_US": "Saleca"
       },
       "species": {
         "": "Salty Gelatin Mass ",
@@ -21118,7 +21124,7 @@
         "0": {
           "text": {
             "": "A salty blob of water, gelatin and, of course, salt. Unsurprisingly it is at home in the ocean and rarely visits the land unless disturbed.\nWas discovered a few years ago by the explorer Ivan Leifler. After experiencing its salty taste he named it in honor of his colleague and alleged friend, Dr. Eric Koll.",
-            "en_US": "Um \"slime\" feito de água salgada, gelatina e, claro, sal. Para a surpresa de ninguém, ele faz do ocenano a sua casa e raramente visita a terra firme, a menos que seja perturbado.\nFoi descoberto há alguns anos pelo explorador Ivan Leifler. Depois de experimentar seu sabor salgado, ele o batizou em homenagem ao seu colega e suposto amigo, Dr. Eric Koll."
+            "en_US": "Um \"slime\" feito de água salgada, gelatina e, claro, sal. Para a surpresa de ninguém, ela faz do ocenano a sua casa e raramente visita a terra firme, a menos que seja perturbada.\nFoi descoberta há alguns anos pelo explorador Ivan Leifler. Depois de experimentar seu sabor salgado, ele a batizou em homenagem ao seu colega e suposto amigo, Dr. Eric Koll."
           }
         }
       }
@@ -21240,7 +21246,7 @@
         "0": {
           "text": {
             "": "This starfish is the leader of both the \\v[combat.name.jungle/blob] and the \\v[combat.name.jungle/blob-wave]. It can enter a strange synthesis with them to create a large mass that is almost impenetrable. Only by using compressed shock balls can the bond be broken.",
-            "en_US": "Essa estrela do mar é lider do \\v[combat.name.jungle/blob] e do \\v[combat.name.jungle/blob-wave]. Ela pode entrar em uma estranha síntese com eles para criar uma grande massa quase impenetrável. Somente usando bolas de choque comprimidas é que a ligação pode ser quebrada."
+            "en_US": "Essa estrela do mar é lider da \\v[combat.name.jungle/blob] e da \\v[combat.name.jungle/blob-wave]. Ela pode entrar em uma estranha síntese com elas para criar uma grande massa quase impenetrável. Somente usando bolas de choque comprimidas é que a ligação pode ser quebrada."
           }
         }
       }
@@ -21714,7 +21720,7 @@
         "0": {
           "text": {
             "": "This starfish is the leader of both the \\v[combat.name.jungle/blob] and the \\v[combat.name.jungle/blob-wave]. It can enter a strange synthesis with them to create a large mass that is almost impenetrable. Only by using compressed shock balls can the bond be broken.",
-            "en_US": "Essa estrela do mar é lider do \\v[combat.name.jungle/blob] e do \\v[combat.name.jungle/blob-wave]. Ela pode entrar em uma estranha síntese com eles para criar uma grande massa quase impenetrável. Somente usando bolas de choque comprimidas é que a ligação pode ser quebrada."
+            "en_US": "Essa estrela do mar é lider da \\v[combat.name.jungle/blob] e da \\v[combat.name.jungle/blob-wave]. Ela pode entrar em uma estranha síntese com elas para criar uma grande massa quase impenetrável. Somente usando bolas de choque comprimidas é que a ligação pode ser quebrada."
           }
         }
       }
@@ -22198,7 +22204,7 @@
     "meerkat": {
       "name": {
         "": "Rockin' Hillkat",
-        "en_US": "Topeira Roqueira"
+        "en_US": "Suricava Roqueiro"
       },
       "species": {
         "": "Headbanging Mammal",
@@ -22216,7 +22222,7 @@
     "meerkat-alt": {
       "name": {
         "": "Flamin' Hillkat",
-        "en_US": "Topeira Flamejante"
+        "en_US": "Suricava Flamejante"
       },
       "species": {
         "": "Headbanging Mammal",
@@ -22234,7 +22240,7 @@
     "autumn-fall.meerkat-fall": {
       "name": {
         "": "Chillin' Hillkat",
-        "en_US": "Topeira Tranquila"
+        "en_US": "Suricava Tranquilo"
       },
       "species": {
         "": "Headbanging Mammal",
@@ -22244,7 +22250,7 @@
         "0": {
           "text": {
             "": "This meerkat shows the same characteristics as normal ones. However it has gained the ability to surround stones in a thick layer of ice and throw them at aggressors. Those hurt like hell, so you better watch out.\nIts name is quite misleading, as the music its listening to has been found to be heavy metal.",
-            "en_US": "Esta suricata apresenta as mesma características que as normais. No entanto, ganhou a revestir as pedras em uma espessa camada de gelo e jogá-las contra os agressores. Elas doem pra caramba, por isso é melhor ter cuidado.\nO nome da suricata é bastante enganoso, pois a música que ela escuta é o heavy metal."
+            "en_US": "Este suricato apresenta as mesma características que os normais. No entanto, ganhou a revestir as pedras em uma espessa camada de gelo e jogá-las contra os agressores. Elas doem pra caramba, por isso é melhor ter cuidado.\nO nome da suricata é bastante enganoso, pois a música que ela escuta é o heavy metal."
           }
         }
       }
@@ -22252,7 +22258,7 @@
     "meerkat-special-command-1": {
       "name": {
         "": "Hillkat Bandleader",
-        "en_US": "Topeira Líder do Bando"
+        "en_US": "Suricava Líder do Bando"
       },
       "species": {
         "": "Headbanging Leader",
@@ -22262,14 +22268,15 @@
         "0": {
           "text": {
             "": "A \\c[3]Hillkat\\c[0] of unusual intelligence and charisma that was able to unite groups of lesser Hillkats for organized raids on humans.\nWhile it is already a threat by itself it will also call additional \\c[3]reinforcements\\c[0] when under attack.",
-            "en_US": "Uma \\c[3]Topeira\\c[0] de inteligência e carisma incomuns que foi capaz de unir grupos de \\c[3]Topeiras\\c[0] menores para ataques organizados contra humanos.\nEmbora já seja uma ameaça por si só, ela também chama reforços adicionais quando está sob ataque."
+            "en_US": "Um \\c[3]Suricava\\c[0] de inteligência e carisma incomuns que foi capaz de unir grupos de \\c[3]Suricavas\\c[0] menores para ataques organizados contra humanos.\nEmbora já seja uma ameaça por si só, ele também chama reforços adicionais quando está sob ataque."
           }
         }
       }
     },
     "rhombus.meerkat-car": {
       "name": {
-        "": "Carkat"
+        "": "Carkat",
+        "en_US": "Motocava"
       },
       "species": {
         "": "Driving Mammal",
@@ -22279,14 +22286,15 @@
         "0": {
           "text": {
             "": "A more intelligent but reckless \\v[combat.name.meerkat] that likes to headbang while driving fast cars and engage in dangerous drive-by battles. To finance their expensive lifestyle they often take illegal road-jobs like smuggling and theft.",
-            "en_US": "Uma \\v[combat.name.meerkat] inteligente, mas imprudente, que gosta de bater de cabeça enquanto dirige carros velozes e se envolve em perigosas disputas de racha. Para financiar seu caro estilo de vida, elas freqüentemente fazem trabalhos ilegais nas estradas, como contrabando e roubo."
+            "en_US": "Um \\v[combat.name.meerkat] inteligente, mas imprudente, que gosta de bater de cabeça enquanto dirige carros velozes e se envolve em perigosas disputas de racha. Para financiar seu caro estilo de vida, eles freqüentemente fazem trabalhos ilegais nas estradas, como contrabando e roubo."
           }
         }
       }
     },
     "rhombus.meerkat-delorean": {
       "name": {
-        "": "Hillcart"
+        "": "Hillcart",
+        "en_US": "Suricarro"
       },
       "species": {
         "": "Futuristic Mammal",
@@ -22350,7 +22358,7 @@
         "0": {
           "text": {
             "": "The \\v[combat.name.autumn-fall/buffalo-fall] is the oldest of the bovines and gets its bright and blue colors once it reaches old age. This means it has become wise enough to rest and enjoy the rest of its life. It will spend most of its time away from its younger kind and eat grass. \nThis doesn't mean it is not strong however. It will attack even harder and emit strong shockwaves both when charging and stomping. Mindlessly rushing in will only get you hurt!",
-            "en_US": "O \\v[combat.name.autumn-fall/buffalo-fall] é o mais velho dos bovinos e ganha cores brilhantes e azuis quando atinge a velhice. Isso significa que se tornou sábio o suficiente para descansar e aproveitar o resto de sua vida. Ele vai passar a maior parte de seu tempo longe de sua espécie mais jovem e comerá grama.\nMas isso não significa, que ele não seja forte. Ele ataca com muito mais força e emite fortes ondas de choque. Então atacá-lo de forma precipitada não é uma boa idéia!"
+            "en_US": "O \\v[combat.name.autumn-fall/buffalo-fall] é o mais velho dos bovinos e ganha cores brilhantes e azuis quando atinge a velhice. Isso significa que se tornou sábio o suficiente para descansar e aproveitar o resto de sua vida. Ele vai passar a maior parte de seu tempo longe de sua espécie mais jovem e comerá grama.\nMas isso não significa, que ele não seja forte. Ele ataca com muito mais força e emite fortes ondas de choque. Então atacá-lo de forma precipitada não é uma boa ideia!"
           }
         }
       }
@@ -22660,7 +22668,8 @@
     },
     "cold.mine-coldbug-quest": {
       "name": {
-        "": "Experienced Fleazer"
+        "": "Experienced Fleazer",
+        "en_US": "Fleazer Experiente"
       },
       "species": {
         "": "Insect, Bug",
@@ -23067,7 +23076,7 @@
     "jungle.special.quest_td_shockcat_2": {
       "name": {
         "": "Tunnel Shockcat",
-        "en_US": "Shockcat do Túnel"
+        "en_US": "Shokat do Túnel"
       },
       "species": {
         "": "Mammal",
@@ -23277,7 +23286,8 @@
     },
     "jungle.fish-gear": {
       "name": {
-        "": "Leggy Angler"
+        "": "Leggy Angler",
+        "en_US": "Angler Pernudo"
       },
       "species": {
         "": "Running Fish",
@@ -23512,14 +23522,15 @@
         "0": {
           "text": {
             "": "This powerful being is half machine, half bear and all danger. As if this was not enough, it has entered a symbiotic relationship with an entire hive filled with deadly bee weapons.\nAgainst the powerful armor a \\c[3]frontal assault seems hopeless\\c[0] so it might be a good idea to \\c[3]wait for a distraction\\c[0]. Thankfully, this bear is prone to \\c[3]playing with his food\\c[0]...",
-            "en_US": "Este poderoso ser é metade máquina, metade urso e muito perigoso. Como se isso não fosse suficiente, ele entrou numa relação simbiótica com uma colméia inteira cheia de armas mortais de abelhas. \nContra a poderosa armadura, um \\c[3]ataque frontal parece inútil\\c[0], então, pode ser uma boa idéia \\c[3]esperar por uma distração\\c[0]. Felizmente, este urso é propenso a \\c[3]brincar com sua comida\\c[0]."
+            "en_US": "Este poderoso ser é metade máquina, metade urso e muito perigoso. Como se isso não fosse suficiente, ele entrou numa relação simbiótica com uma colméia inteira cheia de armas mortais de abelhas. \nContra a poderosa armadura, um \\c[3]ataque frontal parece inútil\\c[0], então, pode ser uma boa ideia \\c[3]esperar por uma distração\\c[0]. Felizmente, este urso é propenso a \\c[3]brincar com sua comida\\c[0]."
           }
         }
       }
     },
     "final.colibri": {
       "name": {
-        "": "Hummagnum"
+        "": "Hummagnum",
+        "en_US": "Beija-Sniper"
       },
       "species": {
         "": "Silent Sniper",
@@ -24147,7 +24158,8 @@
     },
     "special.target-bot": {
       "name": {
-        "": "Tr4in-0"
+        "": "Tr4in-0",
+        "en_US": "Tr3in-0"
       },
       "species": {
         "": "Training Bot",
@@ -26685,7 +26697,7 @@
         "page-03": {
           "content": {
             "": "The two gods then had a new idea. They were creating millions and millions of new suns far far away in all directions. Thanks to \\c[3]E'nel\\c[0] and \\c[3]Di'orbis\\c[0]' effort we can today enjoy the night with a beautiful starry sky. Not only are the stars beautiful, \\c[3]Di'orbis\\c[0] placed them in particular to stir our curiosity for other worlds out there.",
-            "en_US": "Os dois deuses então tiveram uma nova idéia. Eles criaram milhões e milhões de novos sóis distantes em todas as direções. Graças ao esforço de \\c[3]E'nel\\c[0] e \\c[3]Di'orbis\\c[0], hoje podemos desfrutar da noite com um lindo céu estrelado. Mas as estrelas não se limitam à beleza. \\c[3]Di'orbis\\c[0] as criou especificamente para despertar nosso interesse por outros mundos lá fora."
+            "en_US": "Os dois deuses então tiveram uma nova ideia. Eles criaram milhões e milhões de novos sóis distantes em todas as direções. Graças ao esforço de \\c[3]E'nel\\c[0] e \\c[3]Di'orbis\\c[0], hoje podemos desfrutar da noite com um lindo céu estrelado. Mas as estrelas não se limitam à beleza. \\c[3]Di'orbis\\c[0] as criou especificamente para despertar nosso interesse por outros mundos lá fora."
           }
         },
         "page-04": {
@@ -26717,7 +26729,7 @@
         "page-03": {
           "content": {
             "": "As K'win watched those boring, calm waters, she had an idea. She created light winds flying over the ocean, creating an abundance of dancing waves on its surface. At first G'oni did not like this change, as he preferred his waters calm and quiet. But as he saw creatures playing with the waves and using the winds to travel across the oceans, he reluctantly agreed to keep it. ",
-            "en_US": "Enquanto K'win observava aquelas águas chatas e calmas, ela teve uma idéia. Ela criou ventos suaves nos oceanos, para criar uma abundância de ondas dançantes em sua superfície. No início G'oni não gostou desta mudança, pois preferia suas águas calmas e tranquilas. Mas como ele viu criaturas brincando com as ondas e usando os ventos para viajar através dos oceanos, ele relutantemente concordou em mantê-las assim."
+            "en_US": "Enquanto K'win observava aquelas águas chatas e calmas, ela teve uma ideia. Ela criou ventos suaves nos oceanos, para criar uma abundância de ondas dançantes em sua superfície. No início G'oni não gostou desta mudança, pois preferia suas águas calmas e tranquilas. Mas como ele viu criaturas brincando com as ondas e usando os ventos para viajar através dos oceanos, ele relutantemente concordou em mantê-las assim."
           }
         },
         "page-04": {
@@ -26761,7 +26773,7 @@
         "page-03": {
           "content": {
             "": "However, he was constantly busy refilling the lakes on the land as the water kept flowing down the hills back into the ocean. Then G'oni had an idea. He took the water from the oceans and moved it into clouds floating high in the sky. Then he asked \\c[3]K'win\\c[0], his twin-sister and creator of wind and thunder, to move the clouds back to the land. Once the clouds would reach the lakes, G'oni would let them rain down, refilling the lakes and making the water flow in circles.",
-            "en_US": "No entanto, ele estava sempre ocupado reabastecendo os lagos, pois a água continuava descendo pelas colinas e retornando ao oceano. Então G'oni teve uma idéia. Ele tirou a água dos oceanos e a moveu para as nuvens flutuando alto no céu. Então ele pediu a \\c[3]K'win\\c[0], sua irmã gêmea e criadora de ventos e trovões, para mover as nuvens de volta para a terra. Quando as nuvens chegassem aos lagos, G'oni as deixaria chover, enchendo novamente os lagos e fazendo a água fluir em círculos."
+            "en_US": "No entanto, ele estava sempre ocupado reabastecendo os lagos, pois a água continuava descendo pelas colinas e retornando ao oceano. Então G'oni teve uma ideia. Ele tirou a água dos oceanos e a moveu para as nuvens flutuando alto no céu. Então ele pediu a \\c[3]K'win\\c[0], sua irmã gêmea e criadora de ventos e trovões, para mover as nuvens de volta para a terra. Quando as nuvens chegassem aos lagos, G'oni as deixaria chover, enchendo novamente os lagos e fazendo a água fluir em círculos."
           }
         },
         "page-04": {
@@ -27162,7 +27174,7 @@
     "heat-dng": {
       "title": {
         "": "Faj'ro Temple",
-        "en_US": "Templo Faj'ro"
+        "en_US": "Templo de Faj'ro"
       },
       "alternative": {
         "": "Hourglass",
@@ -27184,7 +27196,7 @@
         "page-01-03": {
           "content": {
             "": "Its unique shape granted it the nickname: \\c[3]Hourglass\\c[0]. Steam-powered furnaces, water blocks, and poles that can hold elemental charges are what Seekers must use to overcome the puzzles inside. \nIn contrast to the infested \\c[3]Temple Mine\\c[0], Faj'ro Temple is home to moths, floating jellyfish, and fierce Golems. ",
-            "en_US": "O templo, com sua forma única, é conhecido como \\c[3]Ampulheta\\c[0]. Os \\c[3]Seekers\\c[0] precisam usar fornos a vapor, bexigas de água e postes que recebem cargas elementais para resolver os enigmas do local. \nDiferente da \\c[3]Mina do Templo\\c[0], que está infestada, o Templo Faj'ro abriga mariposas, medusas flutuantes e Golems ferozes."
+            "en_US": "O templo, com sua forma única, é conhecido como \\c[3]Ampulheta\\c[0]. Os \\c[3]Seekers\\c[0] precisam usar fornos a vapor, bexigas de água e postes que recebem cargas elementais para resolver os enigmas do local. \nDiferente da \\c[3]Mina do Templo\\c[0], que está infestada, o Templo de Faj'ro abriga mariposas, medusas flutuantes e Golems ferozes."
           }
         }
       }
@@ -27204,13 +27216,13 @@
         "page-02": {
           "content": {
             "": "In the south-east a small Shad tribe calls the trees their home. They mostly keep to themselves and live in harmony with the jungle. However, tensions between humans and Shad have arisen ever since humans built a power plant at the entrance of the \\c[3]Zir'vitar Temple\\c[0]. A vile infestation has spread in the north-east of the jungle which seems to originate from the power plant.",
-            "en_US": "A parte sul da floresta é o lar de uma pequena tribo Shad. Na maioria das vezes, eles são pacíficos e vivem em harmonia com a selva. Entretanto, tensões entre humanos e Shads têm surgido desde que os humanos construíram uma usina elétrica na entrada do \\c[3]Templo Zir'vitar\\c[0]. Uma praga vil espalhou-se pela parte norte da selva, e a usina elétrica parece ser a fonte."
+            "en_US": "A parte sul da floresta é o lar de uma pequena tribo Shad. Na maioria das vezes, eles são pacíficos e vivem em harmonia com a selva. Entretanto, tensões entre humanos e Shads têm surgido desde que os humanos construíram uma usina elétrica na entrada do \\c[3]Templo de Zir'vitar\\c[0]. Uma praga vil espalhou-se pela parte norte da selva, e a usina elétrica parece ser a fonte."
           }
         },
         "page-03": {
           "content": {
             "": "In the north one can find the mighty \\c[3]Grand Krys'kajo\\c[0]. A tree that stands above all other trees. However to get close to it, a \\c[3]Seeker\\c[0] first needs to finish the trials of both the \\c[3]Zir'vitar Temple\\c[0] and \\c[3]So'najiz Temple\\c[0] which stand beside the tree.",
-            "en_US": "No norte, pode-se encontrar o poderoso \\c[3]Grand Krys'kajo\\c[0]. Uma árvore que está acima de todas as outras árvores. Para chegar até lá, um \\c[3]Seeker\\c[0] precisa primeiro terminar os desafios do \\c[3]Templo Zir'vitar\\c[0] e do \\c[3]Templo So'najiz\\c[0] que ficam ao lado da árvore. "
+            "en_US": "No norte, pode-se encontrar o poderoso \\c[3]Grand Krys'kajo\\c[0]. Uma árvore que está acima de todas as outras árvores. Para chegar até lá, um \\c[3]Seeker\\c[0] precisa primeiro terminar os desafios do \\c[3]Templo de Zir'vitar\\c[0] e do \\c[3]Templo de So'najiz\\c[0] que ficam ao lado da árvore. "
           }
         }
       }
@@ -27238,13 +27250,13 @@
     "shock-dng": {
       "title": {
         "": "Zir'vitar Temple",
-        "en_US": "Templo Zir'vitar"
+        "en_US": "Templo de Zir'vitar"
       },
       "content": {
         "page-01-01": {
           "content": {
             "": "This temple is the third or fourth challenge a \\c[3]Seeker\\c[0] needs to master in order to progress on the Track of the Ancients. Other than the previous temples, both this one and the \\c[3]So'najiz Temple\\c[0] can be completed in any order. In this Temple the Seeker can acquire the element: \\c[3]Wave\\c[0].",
-            "en_US": "Este templo é o terceiro ou quarto desafio que um \\c[3]Seeker\\c[0] precisa superar para progredir na Trilha dos Antigos. Ao contrário dos templos anteriores, tanto este como o \\c[3]Templo So'najiz\\c[0] podem ser concluídos em qualquer ordem. Neste Templo, o Seeker pode adquirir o elemento: \\c[3]Onda\\c[0]."
+            "en_US": "Este templo é o terceiro ou quarto desafio que um \\c[3]Seeker\\c[0] precisa superar para progredir na Trilha dos Antigos. Ao contrário dos templos anteriores, tanto este como o \\c[3]Templo de So'najiz\\c[0] podem ser concluídos em qualquer ordem. Neste Templo, o Seeker pode adquirir o elemento: \\c[3]Onda\\c[0]."
           }
         },
         "page-02": {
@@ -27258,13 +27270,13 @@
     "wave-dng": {
       "title": {
         "": "So'najiz Temple",
-        "en_US": "Templo So'najiz"
+        "en_US": "Templo de So'najiz"
       },
       "content": {
         "page-01-01": {
           "content": {
             "": "This temple is the third or fourth challenge a \\c[3]Seeker\\c[0] needs to master in order to progress on the Track of the Ancients. Other than the previous temples, both this one and the \\c[3]Zir'vitar Temple\\c[0] can be completed in any order. In this Temple the Seeker can acquire the element: \\c[3]Shock\\c[0].",
-            "en_US": "Este templo é o terceiro ou quarto desafio que um \\c[3]Seeker\\c[0] precisa superar para progredir na Trilha dos Antigos. Ao contrário dos templos anteriores, tanto este como o \\c[3]Templo Zir'vitar\\c[0] podem ser concluídos em qualquer ordem. Neste Templo, o Seeker pode adquirir o elemento: \\c[3]Choque\\c[0]."
+            "en_US": "Este templo é o terceiro ou quarto desafio que um \\c[3]Seeker\\c[0] precisa superar para progredir na Trilha dos Antigos. Ao contrário dos templos anteriores, tanto este como o \\c[3]Templo de Zir'vitar\\c[0] podem ser concluídos em qualquer ordem. Neste Templo, o Seeker pode adquirir o elemento: \\c[3]Choque\\c[0]."
           }
         }
       }
@@ -27277,7 +27289,7 @@
         "page-01-01": {
           "content": {
             "": "This temple is built right into the name giving tree at the heart of \\c[3]Gaia's Garden\\c[0]. It can only be accessed by first completing both the \\c[3]Zir'vitar Temple\\c[0] and \\c[3]So'najiz Temple\\c[0]. \nA \\c[3]Seeker\\c[0] needs to show that they have mastered both elements acquired in the temples to prove their worthiness. It is said a guardian tests every Seeker personally at the top of the tree.",
-            "en_US": "Este templo se estende dentro da grande árvore, no coração do \\c[3]Jardim de Gaia\\c[0]. Ele só pode ser acessado completando o \\c[3]Templo Zir'vitar\\c[0] e o \\c[3]Templo So'najiz\\c[0]. \nUm \\c[3]Seeker\\c[0] precisa mostrar que dominou ambos os elementos adquiridos nos templos para provar seu valor. Dizem que um guardião testa cada Seeker pessoalmente no topo da árvore."
+            "en_US": "Este templo se estende dentro da grande árvore, no coração do \\c[3]Jardim de Gaia\\c[0]. Ele só pode ser acessado completando o \\c[3]Templo de Zir'vitar\\c[0] e o \\c[3]Templo de So'najiz\\c[0]. \nUm \\c[3]Seeker\\c[0] precisa mostrar que dominou ambos os elementos adquiridos nos templos para provar seu valor. Dizem que um guardião testa cada Seeker pessoalmente no topo da árvore."
           }
         }
       }
@@ -35818,7 +35830,7 @@
         "1": {
           "task": {
             "": "Find the \\c[3]Stones of Origin\\c[0] hidden in the cities of CrossWorlds",
-            "en_US": "Encontre as \\c[3]Pedras Originais\\c[0] escondidas nas cidades de CrossWorlds"
+            "en_US": "Encontre as \\c[3]Pedras da Origem\\c[0] escondidas nas cidades de CrossWorlds"
           }
         },
         "2": {
@@ -35960,7 +35972,7 @@
         "0": {
           "task": {
             "": "Collect decorative flames from \\c[3]Jack'on'Fire\\c[0] within the \\c[3]infested jungle\\c[0]",
-            "en_US": "Colete chamas decorativas dos \\c[3]Jack'on'Fire\\c[0] nos \\c[3]pântanos infestados\\c[0]"
+            "en_US": "Colete chamas decorativas das \\c[3]Abóboras Flamejantes\\c[0] nos \\c[3]pântanos infestados\\c[0]"
           }
         },
         "1": {
@@ -36090,19 +36102,19 @@
         "0": {
           "task": {
             "": "Follow Dr. Cretia to the power plant at the \\c[3]Zir'vitar Temple Entrance\\c[0]",
-            "en_US": "Siga a Dra. Cretia até a usina de energia na \\c[3]Entrada do Templo Zir'vitar\\c[0]"
+            "en_US": "Siga a Dra. Cretia até a usina de energia na \\c[3]Entrada do Templo de Zir'vitar\\c[0]"
           }
         },
         "1": {
           "task": {
             "": "Follow Dr. Cretia to her office at the \\c[3]Zir'vitar Temple Entrance\\c[0]",
-            "en_US": "Siga a Dra. Cretia até seu escritório na \\c[3]Entrada do Templo Zir'vitar\\c[0]"
+            "en_US": "Siga a Dra. Cretia até seu escritório na \\c[3]Entrada do Templo de Zir'vitar\\c[0]"
           }
         },
         "2": {
           "task": {
             "": "Talk to Dr. Cretia at the \\c[3]Zir'vitar temple Entrance\\c[0]",
-            "en_US": "Fale com a Dra. Cretia na \\c[3]Entrada do Templo Zir'vitar\\c[0]"
+            "en_US": "Fale com a Dra. Cretia na \\c[3]Entrada do Templo de Zir'vitar\\c[0]"
           }
         },
         "3": {
@@ -36114,31 +36126,31 @@
         "4": {
           "task": {
             "": "Talk to Dr. Cretia at the \\c[3]Zir'vitar Temple Entrance\\c[0] again",
-            "en_US": "Fale novamente com a Dra. Cretia na \\c[3]Entrada do Templo Zir'vitar\\c[0]"
+            "en_US": "Fale novamente com a Dra. Cretia na \\c[3]Entrada do Templo de Zir'vitar\\c[0]"
           }
         },
         "5": {
           "task": {
             "": "Find a way to defeat the pole at the \\c[3]Zir'vitar Temple Entrance\\c[0]",
-            "en_US": "Encontre uma forma de derrotar o pólo na \\c[3]Entrada do Templo Zir'vitar\\c[0]"
+            "en_US": "Encontre uma forma de derrotar o pólo na \\c[3]Entrada do Templo de Zir'vitar\\c[0]"
           }
         },
         "6": {
           "task": {
             "": "Defeat the other pole at the \\c[3]Zir'vitar Temple Entrance\\c[0]",
-            "en_US": "Derrote o outro pólo na entrada do \\c[3]Templo Zir'vitar\\c[0]"
+            "en_US": "Derrote o outro pólo na entrada do \\c[3]Templo de Zir'vitar\\c[0]"
           }
         },
         "7": {
           "task": {
             "": "Talk to Dr. Cretia at the \\c[3]Zir'vitar Temple Entrance\\c[0]",
-            "en_US": "Fale com a Dra. Cretia na \\c[3]Entrada do Templo Zir'vitar\\c[0]"
+            "en_US": "Fale com a Dra. Cretia na \\c[3]Entrada do Templo de Zir'vitar\\c[0]"
           }
         },
         "8": {
           "task": {
             "": "Follow the trail of poles south of \\c[3]Zir'vitar Temple Entrance\\c[0]",
-            "en_US": "Siga a trilha dos pólos ao sul da \\c[3]Entrada do Templo Zir'vitar\\c[0]"
+            "en_US": "Siga a trilha dos pólos ao sul da \\c[3]Entrada do Templo de Zir'vitar\\c[0]"
           }
         },
         "9": {
@@ -36204,7 +36216,7 @@
         "19": {
           "task": {
             "": "Report back to Dr. Cretia in her lab at \\c[3]Zir'vitar Temple Entrance\\c[0]",
-            "en_US": "Fale com a Dra. Cretia em seu laboratório na \\c[3]Entrada do Templo Zir'vitar\\c[0]"
+            "en_US": "Fale com a Dra. Cretia em seu laboratório na \\c[3]Entrada do Templo de Zir'vitar\\c[0]"
           }
         }
       }
@@ -36543,23 +36555,23 @@
       },
       "description": {
         "": "A troupe of Hillkats has been spotted in the parks of Rhombus Square, digging up the precious soil. Help Captain Curtis to catch them!",
-        "en_US": "Uma trupe de Topeiras foi vista nos parques da Praça Losango, escavando o precioso solo. Ajude o Capitão Curtis a capturá-las!"
+        "en_US": "Uma trupe de Suricavas foi vista nos parques da Praça Losango, escavando o precioso solo. Ajude o Capitão Curtis a capturá-los!"
       },
       "briefing": {
         "": "All of the Hillkats and their dirt-filled vehicles have been dealt with!\\. Hopefully the parks of Rhombus Square are now safe.",
-        "en_US": "Todas as Topeiras e seus veículos cheios de terra foram eliminados!\\. Tomara que os parques da Praça Losango estejam seguros agora."
+        "en_US": "Todas os Suricavas e seus veículos cheios de terra foram eliminados!\\. Tomara que os parques da Praça Losango estejam seguros agora."
       },
       "tasks": {
         "0": {
           "task": {
             "": "Watch for meerkats to appear in \\c[3]Rhombus Square - North Arch\\c[0]",
-            "en_US": "Veja a apareção das topeiras em \\c[3]Praça Losango - Arco Norte\\c[0]"
+            "en_US": "Veja a apareção dos suricavas em \\c[3]Praça Losango - Arco Norte\\c[0]"
           }
         },
         "1": {
           "task": {
             "": "Fight the Meerkats in the grass patch of \\c[3]Rhombus Square - North Arch\\c[0]",
-            "en_US": "Lute contra as Topeiras no gramado de \\c[3]Praça Losango - Arco Norte\\c[0]"
+            "en_US": "Lute contra os Suricavas no gramado de \\c[3]Praça Losango - Arco Norte\\c[0]"
           }
         },
         "2": {
@@ -36571,7 +36583,7 @@
         "3": {
           "task": {
             "": "Fight the Meerkats on the Highway",
-            "en_US": "Lute contra as Topeiras na estrada"
+            "en_US": "Lute contra os Suricavas na estrada"
           }
         },
         "4": {
@@ -36928,7 +36940,7 @@
       },
       "briefing": {
         "": "You found the data, brought it back and whooped some naughty Hillkats as a bonus.",
-        "en_US": "Você encontrou os dados, trouxe de volta e eliminou algumas Topeiras perversas como um bônus."
+        "en_US": "Você encontrou os dados, trouxe de volta e eliminou alguns Suricavas perversos como um bônus."
       },
       "tasks": {
         "0": {
@@ -36940,7 +36952,7 @@
         "1": {
           "task": {
             "": "Defeat all the \\c[3]\\v[combat.name.meerkat]s\\c[0]",
-            "en_US": "Derrote todos as \\c[3]\\v[combat.name.meerkat]s\\c[0]"
+            "en_US": "Derrote todos os \\c[3]\\v[combat.name.meerkat]s\\c[0]"
           }
         },
         "2": {
@@ -36961,7 +36973,7 @@
       "hubSettings": {
         "location": {
           "": "A surprisingly organized band of dangerous Hillkats requires a beating. \\c[3]- Falldivers HQ\\c[0]",
-          "en_US": "Um grupo organizado de Topeiras perigosas precisa de uma surra. \\c[3]- QG Mergulhadores\\c[0]"
+          "en_US": "Um grupo organizado de Suricavas perigosas precisa de uma surra. \\c[3]- QG Mergulhadores\\c[0]"
         }
       },
       "name": {
@@ -36974,11 +36986,11 @@
       },
       "description": {
         "": "The \\c[3]data storage\\c[0] and reports from Tucos talk of an organized group of Hillkats. Meet up with him to confront the threat.",
-        "en_US": "Os \\c[3]dados armanezados\\c[0] e relatórios de Tucos falam de um grupo organizado de Topeiras. Encontre-se com ele para enfrentar a ameaça."
+        "en_US": "Os \\c[3]dados armanezados\\c[0] e relatórios de Tucos falam de um grupo organizado de Suricavas. Encontre-se com ele para enfrentar a ameaça."
       },
       "briefing": {
         "": "You defeated the leader of the dangerous Hillkat group and also discovered a mysterious item for the Falldivers to examine.",
-        "en_US": "Você derrotou o líder do perigoso grupo das Topeiras e também descobriu um item misterioso para os Mergulhadores examinarem."
+        "en_US": "Você derrotou o líder do perigoso grupo dos Suricavas e também descobriu um item misterioso para os Mergulhadores examinarem."
       },
       "tasks": {
         "0": {
@@ -37042,11 +37054,11 @@
       },
       "description": {
         "": "The \\c[3]device you took from the Hillkats\\c[0] has been used to create a probe that can extract energy and information directly from the Track. And you are chosen to assist!",
-        "en_US": "O \\c[3]dispositivo que você tirou das Topeiras\\c[0] foi usado para criar uma sonda que pode extrair energia e informações diretamente da Trilha. E você foi escolhida para ajudar!"
+        "en_US": "O \\c[3]dispositivo que você tirou dos Suricavas\\c[0] foi usado para criar uma sonda que pode extrair energia e informações diretamente da Trilha. E você foi escolhida para ajudar!"
       },
       "briefing": {
         "": "You used the probe to extract data from the Track and also defeated another band of Hillkats. Good job!",
-        "en_US": "Você usou a sonda para extrair dados da Trilha e também derrotou outro grupo de Topeiras. Bom trabalho!"
+        "en_US": "Você usou a sonda para extrair dados da Trilha e também derrotou outro grupo de Suricavas. Bom trabalho!"
       },
       "tasks": {
         "0": {
@@ -37259,13 +37271,13 @@
         "0": {
           "task": {
             "": "Talk to \\c[3]Captain Turbine\\c[0] in Southern \\c[3]Beginners Arc\\c[0]",
-            "en_US": "Fale com o \\c[3]Capitão Turbine\\c[0] no Sul do \\c[3]Arco dos Iniciantes\\c[0]"
+            "en_US": "Fale com o \\c[3]Capitão Turbina\\c[0] no Sul do \\c[3]Arco dos Iniciantes\\c[0]"
           }
         },
         "1": {
           "task": {
             "": "Talk to \\c[3]Captain Turbine\\c[0] in \\c[3]Beginners Arc\\c[0] again and start the patrol",
-            "en_US": "Fale novamente com o \\c[3]Capitão Turbine\\c[0] no \\c[3]Arco dos Iniciantes\\c[0] para iniciar a patrulha"
+            "en_US": "Fale novamente com o \\c[3]Capitão Turbina\\c[0] no \\c[3]Arco dos Iniciantes\\c[0] para iniciar a patrulha"
           }
         },
         "2": {
@@ -37302,13 +37314,13 @@
         "0": {
           "task": {
             "": "Talk to \\c[3]Captain Turbine\\c[0] in Southern \\c[3]Beginners Arc\\c[0]",
-            "en_US": "Fale com o \\c[3]Capitão Turbine\\c[0] no sul do \\c[3]Arco dos Iniciantes\\c[0]"
+            "en_US": "Fale com o \\c[3]Capitão Turbina\\c[0] no sul do \\c[3]Arco dos Iniciantes\\c[0]"
           }
         },
         "1": {
           "task": {
             "": "Talk to \\c[3]Captain Turbine\\c[0] in \\c[3]Beginners Arc\\c[0] again and start the patrol",
-            "en_US": "Fale com o \\c[3]Capitão Turbine\\c[0] no \\c[3]Arco dos Iniciantes\\c[0] novamente e inicie a patrulha"
+            "en_US": "Fale com o \\c[3]Capitão Turbina\\c[0] no \\c[3]Arco dos Iniciantes\\c[0] novamente e inicie a patrulha"
           }
         },
         "2": {

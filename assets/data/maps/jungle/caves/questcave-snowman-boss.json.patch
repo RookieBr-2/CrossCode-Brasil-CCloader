@@ -25,7 +25,7 @@
               "0": {
                 "task": {
                   "": "Use the \\c[3]Hyperforce Plasmaoven\\c[0]  to melt the icy walls.\n\\c[3]Teleport it with charged Wave projectiles\\c[0] and \\c[3]trigger heat-explosions with repeated Shock attacks\\c[0].",
-                  "en_US": "Use o \\c[3]Forno de Plasma de Hiperforça\\c[0] para derreter as paredes de gelo.\n\\c[3]Teleporte-o com projéteis de Ondas carregados\\c[0] e \\c[3]acione as explosões de calor com repetidos ataques de Choque\\c[0]."
+                  "en_US": "Use o \\c[3]Forno de Plasma de Hiperforça\\c[0] para derreter as paredes de gelo.\n\\c[3]Teleporte-o com projéteis de Ondasz\\c[0] e \\c[3]cause as explosões de calor com ataques de Choque\\c[0]."
                 }
               }
             }
@@ -84,7 +84,7 @@
           "26": {
             "message": {
               "": "In any case, \\v[lore.title.seeker], we have work to do!\\. Feast your eyes on this technological marvel!",
-              "en_US": "De qualquer forma, \\v[lore.title.seeker], nós temos trabalho a ser feito!\\. Contemple esta maravilha tecnológica!"
+              "en_US": "Enfim, \\v[lore.title.seeker], nós temos trabalho a ser feito!\\. Contemple esta maravilha tecnológica!"
             }
           },
           "31": {

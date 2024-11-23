@@ -42,7 +42,7 @@
               "11": {
                 "message": {
                   "": "I'm so,\\. so sorry.",
-                  "en_US": "Eu...\\. Sinto muito."
+                  "en_US": "Eu...\\. sinto muito."
                 }
               },
               "12": {
@@ -54,7 +54,7 @@
               "22": {
                 "message": {
                   "": "I...\\. I just didn't know any better, but still...\\. I'm sorry.",
-                  "en_US": "Eu...\\. não fazia ideia de nada, mas mesmo assim...\\. Me perdoe."
+                  "en_US": "Eu...\\. não fazia ideia de nada, mas mesmo assim...\\. me perdoe."
                 }
               },
               "31": {
@@ -155,7 +155,7 @@
               "6": {
                 "message": {
                   "": "Wait...\\. Do you want me to drop the \"Spheromancer\" part as well? ",
-                  "en_US": "Espere...\\. Você quer que eu pare de falar \"Esferomante\"?"
+                  "en_US": "Espere...\\. você quer que eu pare de falar \"Esferomante\"?"
                 }
               },
               "7": {
@@ -215,7 +215,7 @@
                   "1": {
                     "message": {
                       "": "Okay... with your \\c[1]insane attack damage\\c[0] it was rather obvious.",
-                      "en_US": "Ok... com seu \\c[1]dano de ataque insano\\c[0] foi bastante óbvio."
+                      "en_US": "Claro... com seu \\c[1]dano de ataque insano\\c[0] foi bastante óbvio."
                     }
                   }
                 },
@@ -423,7 +423,7 @@
               "12": {
                 "message": {
                   "": "It's always a joy to play together with you!",
-                  "en_US": "Foi muito bom jogar junto com você!"
+                  "en_US": "Foi muito bom jogar com você!"
                 }
               },
               "13": {

@@ -13,7 +13,7 @@
               "5": {
                 "message": {
                   "": "This is \\c[3]So'najiz Temple\\c[0]. One of the temples in Gaia's Garden.",
-                  "en_US": "Este é o \\c[3]Templo So'najiz\\c[0]. Um dos templos do Jardim de Gaia."
+                  "en_US": "Este é o \\c[3]Templo de So'najiz\\c[0]. Um dos templos do Jardim de Gaia."
                 }
               },
               "6": {
@@ -73,13 +73,13 @@
                           "0": {
                             "message": {
                               "": "Uhm...\\. we already started the race of the \\c[3]Zir'vitar Temple\\c[0].",
-                              "en_US": "Uhm...\\. já começamos a corrida do \\c[3]Templo Zir'vitar\\c[0]."
+                              "en_US": "Hmm...\\. já começamos a corrida do \\c[3]Templo de Zir'vitar\\c[0]."
                             }
                           },
                           "1": {
                             "message": {
                               "": "I mean we can just put that race on the hold and run the \\c[3]So'najiz Temple\\c[0] instead.",
-                              "en_US": "Podemos deixar essa corrida de lado e correr no \\c[3]Templo So'najiz\\c[0]."
+                              "en_US": "Podemos deixar essa corrida de lado e correr no \\c[3]Templo de So'najiz\\c[0]."
                             }
                           },
                           "2": {
@@ -91,7 +91,7 @@
                           "3": {
                             "message": {
                               "": "You want to start the race of the So'najiz Temple?",
-                              "en_US": "Você quer começar a corrida do Templo So'najiz?"
+                              "en_US": "Você quer começar a corrida do Templo de So'najiz?"
                             }
                           }
                         },
@@ -145,7 +145,7 @@
                           "1": {
                             "message": {
                               "": "Ready to start the race of the So'najiz Temple?",
-                              "en_US": "Prontos para começar a corrida do Templo So'najiz?"
+                              "en_US": "Pronta para começar a corrida do Templo de So'najiz?"
                             }
                           }
                         }
@@ -269,13 +269,13 @@
           "8": {
             "message": {
               "": "Standing in front of \\c[3]So'najiz Temple\\c[0]!",
-              "en_US": "E aqui está o \\c[3]Templo So'najiz\\c[0]!"
+              "en_US": "E aqui está o \\c[3]Templo de So'najiz\\c[0]!"
             }
           },
           "9": {
             "message": {
               "": "So nice~",
-              "en_US": "Tão legal~"
+              "en_US": "Que legal!"
             }
           },
           "17": {

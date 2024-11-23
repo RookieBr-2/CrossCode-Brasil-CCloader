@@ -59,7 +59,7 @@
                   "0": {
                     "message": {
                       "": "No wonder you did, with your weird \\c[1]damage thing\\c[0] or whatever.\\. Cheater.",
-                      "en_US": "Não surpreende que você tenha conseguido, com sua \\c[1]coisa estranha de dano ou o que quer que seja\\c[0]. Trapaceira."
+                      "en_US": "Não é à toa que você conseguiu, com esse \\c[1]dano bizarro\\c[0]. Trapaceira."
                     }
                   }
                 }
@@ -67,7 +67,7 @@
               "34": {
                 "message": {
                   "": "Sorry~",
-                  "en_US": "Desculpa~"
+                  "en_US": "Desculpa..."
                 }
               },
               "35": {
@@ -79,7 +79,7 @@
               "36": {
                 "message": {
                   "": "Oui...\\. And this is not our last race!",
-                  "en_US": "Oui...\\. E essa não é a nossa última corrida!"
+                  "en_US": "Oui...\\. e essa não é a nossa última corrida!"
                 }
               },
               "37": {
@@ -193,7 +193,7 @@
             "2": {
               "text": {
                 "": "Then G'oni had an idea. He took the water from the oceans and moved it into clouds floating high in the sky.",
-                "en_US": "Então G'oni teve uma idéia. Ele tirou a água dos oceanos e a moveu para as nuvens flutuando alto no céu."
+                "en_US": "Então G'oni teve uma ideia. Ele tirou a água dos oceanos e a moveu para as nuvens flutuando alto no céu."
               }
             },
             "3": {
@@ -441,7 +441,7 @@
           "5": {
             "text": {
               "": "With the exception of those teleporters that send you straight through the ground.",
-              "en_US": "Sim, com exceção daqueles teletransportadores que mandam a gente diretamente pelo chão."
+              "en_US": "Sim, com exceção daqueles teleportadores que mandam a gente diretamente pelo chão."
             }
           },
           "6": {

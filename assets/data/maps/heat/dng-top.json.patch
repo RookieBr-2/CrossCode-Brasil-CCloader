@@ -302,7 +302,7 @@
             "4": {
               "text": {
                 "": "The two gods then had a new idea. They created millions upon millions of new suns far far away in all directions.",
-                "en_US": "Os dois deuses então tiveram uma nova idéia. Eles criaram milhões e milhões de novos sóis distantes em todas as direções."
+                "en_US": "Os dois deuses então tiveram uma nova ideia. Eles criaram milhões e milhões de novos sóis distantes em todas as direções."
               }
             },
             "5": {
@@ -427,7 +427,7 @@
       "settings": {
         "teleportLabel": {
           "": "Faj'ro Temple Entrance",
-          "en_US": "Entrada do Templo Faj'ro"
+          "en_US": "Entrada do Templo de Faj'ro"
         },
         "blockEvent": {
           "4": {
@@ -1401,7 +1401,7 @@
               "9": {
                 "message": {
                   "": "Huh?\\. What do you mean?",
-                  "en_US": "HuH?\\. O que você quer dizer?"
+                  "en_US": "Hã?\\. O que você quer dizer?"
                 }
               },
               "10": {

@@ -555,7 +555,7 @@
                   "1": {
                     "message": {
                       "": "D'accord! Just call us then when you change your mind!",
-                      "en_US": "D'accord! Liga pra gente quando mudar de idéia!"
+                      "en_US": "D'accord! Liga pra gente quando mudar de ideia!"
                     }
                   }
                 },
@@ -615,7 +615,7 @@
           "2": {
             "text": {
               "": "I know...\\. they're still the worst, though!",
-              "en_US": "Eu sei....\\. Mas eles continuram sendo horrorosos ainda!"
+              "en_US": "Eu sei....\\. mas eles continuam sendo horrorosos ainda!"
             },
             "event": {
               "2": {

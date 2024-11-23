@@ -252,7 +252,7 @@
           "42": {
             "message": {
               "": "Lea...\\. you are here...",
-              "en_US": "Lea...\\. Você está aqui..."
+              "en_US": "Lea...\\. você está aqui..."
             }
           },
           "43": {
@@ -310,7 +310,7 @@
           "77": {
             "message": {
               "": "Satoshi...\\. I am so glad to see you again.",
-              "en_US": "Satoshi...\\. Estou tão feliz em ver você novamente."
+              "en_US": "Satoshi...\\. estou tão feliz em ver você novamente."
             }
           },
           "79": {
@@ -364,7 +364,7 @@
           "114": {
             "message": {
               "": "Well then... allow me to get straight to the point.",
-              "en_US": "Agora... Eu gostaria de ir direto ao ponto."
+              "en_US": "Agora... eu gostaria de ir direto ao ponto."
             }
           },
           "115": {
@@ -556,7 +556,7 @@
               "2": {
                 "text": {
                   "": "The crime rate has developed quite unfavorably recently.",
-                  "en_US": "A taxa de criminalidade evoluiu de forma bastante desfavorável recentemente."
+                  "en_US": "A taxa de criminalidade cresceu de forma bastante desfavorável recentemente."
                 }
               },
               "3": {
@@ -862,7 +862,7 @@
           "22": {
             "message": {
               "": "I'm sorry...\\. The Satoshi you knew died two years ago.",
-              "en_US": "Sinto muito...\\. O Satoshi que você conhecia morreu há dois anos."
+              "en_US": "Sinto muito...\\. o Satoshi que você conhecia morreu há dois anos."
             }
           },
           "23": {
@@ -1118,7 +1118,7 @@
           "65": {
             "message": {
               "": "Yes...\\. I am glad I was able to meet both of you again.",
-              "en_US": "Sim...\\. Estou feliz por poder reencontrar vocês dois."
+              "en_US": "Sim...\\. estou feliz por poder reencontrar vocês dois."
             }
           },
           "66": {
@@ -1130,7 +1130,7 @@
           "67": {
             "message": {
               "": "One last thing, though.",
-              "en_US": "Só mais uma coisa"
+              "en_US": "Só mais uma coisa."
             }
           },
           "68": {
@@ -1374,7 +1374,7 @@
           "65": {
             "message": {
               "": "Right...\\. there is the real life side of things as well.",
-              "en_US": "Droga...\\. Eu nem tinha pensado nesse detalhe."
+              "en_US": "Droga...\\. eu nem tinha pensado nesse detalhe."
             }
           },
           "70": {
@@ -1415,7 +1415,7 @@
           "79": {
             "message": {
               "": "Anyway...\\. I decided I'd better not tell him too much.",
-              "en_US": "Enfim...\\. Decidi que seria melhor não falar mais nada pra ele."
+              "en_US": "Enfim...\\. decidi que seria melhor não falar mais nada pra ele."
             }
           },
           "80": {

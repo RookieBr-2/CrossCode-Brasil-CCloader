@@ -445,7 +445,7 @@
                     "7": {
                       "message": {
                         "": "We got something prepared.\\. Go to \\c[3]Beginners Arc\\c[0] and talk to \\c[3]Captain Turbine, South of the teleporter\\c[0].",
-                        "en_US": "Temos algo preparado.\\. Vá para o \\c[3]Arco dos Iniciantes\\c[0] e fale com o \\c[3]Capitão Turbine, ao sul do teletransportador\\c[0]."
+                        "en_US": "Temos algo preparado.\\. Vá para o \\c[3]Arco dos Iniciantes\\c[0] e fale com o \\c[3]Capitão Turbina, ao sul do teletransportador\\c[0]."
                       }
                     },
                     "8": {
@@ -655,7 +655,7 @@
                     "7": {
                       "message": {
                         "": "\\c[3]Captain Turbine\\c[0] will fill you in on the details, just like last time.\\. Visit him at \\c[3]Beginner's Arc\\c[0].",
-                        "en_US": "O \\c[3]Capitão Turbine\\c[0] dará as instruções.\\. Encontre ele no \\c[3]Arco dos iniciantes\\c[0]."
+                        "en_US": "O \\c[3]Capitão Turbina\\c[0] dará as instruções.\\. Encontre ele no \\c[3]Arco dos iniciantes\\c[0]."
                       }
                     },
                     "8": {
@@ -710,7 +710,7 @@
               "2": {
                 "message": {
                   "": "Return to \\c[3]Beginners Arc\\c[0] and have another talk with \\c[3]Captain Turbine, South of the teleporter\\c[0].",
-                  "en_US": "Volte ao \\c[3]Arco dos Iniciantes\\c[0] e fale novamente com o \\c[3]Capitão Turbine, ao sul do teletransportador\\c[0]."
+                  "en_US": "Volte ao \\c[3]Arco dos Iniciantes\\c[0] e fale novamente com o \\c[3]Capitão Turbina, ao sul do teletransportador\\c[0]."
                 }
               }
             }

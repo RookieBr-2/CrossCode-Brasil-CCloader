@@ -428,7 +428,7 @@
                 "25": {
                   "message": {
                     "": "You helped Shad. For that, we are thankful. I wish your kindness was more common for your kind.",
-                    "en_US": "Você ajudou Shad. Por isso, estamos gratos. Gostaria que sua gentileza fosse mais comum em sua espécie."
+                    "en_US": "Você ajudou Shads. Por isso, estamos gratos. Gostaria que sua gentileza fosse mais comum em sua espécie."
                   }
                 },
                 "26": {
@@ -976,7 +976,7 @@
           "59": {
             "message": {
               "": "Uhm...\\. hello there, Lea!",
-              "en_US": "Uhm...\\. Olá, Lea!"
+              "en_US": "Hmm...\\. Olá, Lea!"
             }
           },
           "60": {
@@ -1018,7 +1018,7 @@
           "67": {
             "message": {
               "": "Uhm...\\. did you finish any of the dungeons already?",
-              "en_US": "Uhm...\\. você já terminou alguma das dungeons?"
+              "en_US": "Hmm...\\. você já terminou alguma das dungeons?"
             }
           },
           "68": {

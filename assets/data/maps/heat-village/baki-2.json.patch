@@ -420,7 +420,7 @@
           "43": {
             "message": {
               "": "And don't forget about our race at the Faj'ro Temple!",
-              "en_US": "E não se esqueça da nossa corrida no Templo Faj'ro!"
+              "en_US": "E não se esqueça da nossa corrida no Templo de Faj'ro!"
             }
           },
           "44": {
@@ -944,7 +944,7 @@
           "1": {
             "text": {
               "": "The next dungeon is going to be \\c[3]Faj'ro Temple\\c[0].",
-              "en_US": "A próxima dungeon será o \\c[3]Templo Faj'ro\\c[0]."
+              "en_US": "A próxima dungeon será o \\c[3]Templo de Faj'ro\\c[0]."
             }
           },
           "2": {
@@ -3290,7 +3290,7 @@
           "90": {
             "message": {
               "": "Let's meet in front of the Faj'ro Temple! ",
-              "en_US": "Vamos nos encontrar na frente do Templo Faj'ro!"
+              "en_US": "Vamos nos encontrar na frente do Templo de Faj'ro!"
             }
           },
           "91": {
@@ -3383,7 +3383,7 @@
           "140": {
             "message": {
               "": "Let's wrap up that quest already so we can finally go to Faj'ro Temple!",
-              "en_US": "Vamos encerrar essa missão, para que possamos finalmente ir ao Templo Faj'ro!"
+              "en_US": "Vamos encerrar essa missão, para que possamos finalmente ir ao Templo de Faj'ro!"
             }
           },
           "141": {
@@ -3507,7 +3507,7 @@
           "35": {
             "message": {
               "": "Anyway...\\. Next is Faj'ro Temple.",
-              "en_US": "De qualquer forma...\\. O próximo destino é o Templo Faj'ro."
+              "en_US": "De qualquer forma...\\. O próximo destino é o Templo de Faj'ro."
             }
           },
           "36": {
@@ -3598,7 +3598,7 @@
           "47": {
             "task": {
               "": "Meet \\c[3]Apollo\\c[0] for the duel in front of \\c[3]Faj'ro Temple\\c[0]!",
-              "en_US": "Encontre \\c[3]Apollo\\c[0] para o duelo em frente ao \\c[3]Templo Faj'ro\\c[0]!"
+              "en_US": "Encontre \\c[3]Apollo\\c[0] para o duelo em frente ao \\c[3]Templo de Faj'ro\\c[0]!"
             }
           }
         }
@@ -3766,7 +3766,7 @@
           "7": {
             "text": {
               "": "You know, there are probably even more of these at Faj'ro...",
-              "en_US": "Bem, provavelmente tem mais coisas assim no Templo Faj'ro..."
+              "en_US": "Bem, provavelmente tem mais coisas assim no Templo de Faj'ro..."
             }
           },
           "8": {

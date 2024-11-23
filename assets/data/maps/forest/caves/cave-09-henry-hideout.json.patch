@@ -53,7 +53,7 @@
           "18": {
             "message": {
               "": "Well... C-C-Could an actual human do t-t-this?",
-              "en_US": "Bem... Um humano de verdade p-p-pode fazer isso?"
+              "en_US": "... Um humano de verdade p-p-pode fazer isso?"
             }
           },
           "27": {
@@ -203,7 +203,7 @@
           "38": {
             "message": {
               "": "You successfully completed the quest line created by the \\c[3]IHSO\\c[0] in celebration of the \\c[3]2205th International Hackspace Convention\\c[0]. ",
-              "en_US": "Você completou com sucesso a série de missões criadas pela \\c[3]IHSO\\c[0] em celebração do \\c[3]2205º Congresso Internacional do Espaço Hacker\\c[0]. "
+              "en_US": "Você completou com sucesso a série de missões criadas pela \\c[3]OIHS\\c[0] em celebração do \\c[3]2205º Congresso Internacional do Espaço Hacker\\c[0]. "
             }
           },
           "39": {
@@ -314,7 +314,7 @@
           "61": {
             "message": {
               "": "The \\c[3]IHSO\\c[0] is an organization dedicated to finding exploits in all kinds of systems.",
-              "en_US": "A \\c[3]IHSO\\c[0] é uma organização dedicada a encontrar brechas em todos os tipos de sistemas."
+              "en_US": "A \\c[3]OIHS\\c[0] é uma organização dedicada a encontrar brechas em todos os tipos de sistemas."
             }
           },
           "62": {
@@ -600,7 +600,7 @@
               "3": {
                 "message": {
                   "": "You successfully completed the quest line created by the \\c[3]IHSO\\c[0] in celebration of the \\c[3]2205th International Hackspace Convention\\c[0]. ",
-                  "en_US": "Você completou com sucesso a série de missões criadas pela \\c[3]IHSO\\c[0] em celebração do \\c[3]2205º Congresso Internacional do Espaço Hacker\\c[0]. "
+                  "en_US": "Você completou com sucesso a série de missões criadas pela \\c[3]OIHS\\c[0] em celebração do \\c[3]2205º Congresso Internacional do Espaço Hacker\\c[0]. "
                 }
               },
               "4": {
@@ -705,7 +705,7 @@
               "4": {
                 "message": {
                   "": "I wasn't aware that the IHSO had messed with CrossWorlds in the past.",
-                  "en_US": "Eu não sabia que a IHSO havia se envolvido com CrossWorlds no passado."
+                  "en_US": "Eu não sabia que a OIHS havia se envolvido com CrossWorlds no passado."
                 }
               },
               "5": {

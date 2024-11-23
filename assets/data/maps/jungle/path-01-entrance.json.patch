@@ -411,7 +411,8 @@
           },
           "16": {
             "message": {
-              "": "...Lea."
+              "": "...Lea.",
+              "en_US": "... Lea."
             }
           },
           "17": {
@@ -864,7 +865,7 @@
                       "7": {
                         "message": {
                           "": "You leave me no choice but to report your behavior to the \\c[1]moderators\\c[0].",
-                          "en_US": "Você não me deixa outra escolha a não ser relatar seu comportamento aos \\c[1]moderadores\\c[0]."
+                          "en_US": "Você não me deixa outra escolha a não ser reportar seu comportamento aos \\c[1]moderadores\\c[0]."
                         }
                       }
                     },
@@ -999,7 +1000,7 @@
               "0": {
                 "message": {
                   "": "You really seem quite...\\. \\c[1]sad\\c[0]...\\. especially considering how you just beat up Polly in that duel.",
-                  "en_US": "Você realmente parece bem...\\. \\c[1]triste\\c[0]...\\. especialmente considerando como você acabou de bater no Polly nesse duelo."
+                  "en_US": "Você parece muito...\\. \\c[1]triste\\c[0]...\\. mesmo depois de bater no Polly nesse duelo."
                 }
               }
             },
@@ -1025,7 +1026,7 @@
           "46": {
             "message": {
               "": "She really doesn't talk much, does she?",
-              "en_US": "Ela realmente não fala muito, não é mesmo?"
+              "en_US": "Ela não fala muito, não é mesmo?"
             }
           },
           "48": {
@@ -1481,7 +1482,7 @@
           "3": {
             "text": {
               "": "Not sure...\\. maybe we just played for a bit too long.",
-              "en_US": "Sei lá...\\.  acho que jogamos por muito tempo."
+              "en_US": "Sei lá...\\. acho que jogamos por muito tempo."
             }
           }
         }

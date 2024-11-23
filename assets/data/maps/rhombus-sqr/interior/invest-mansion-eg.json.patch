@@ -162,7 +162,7 @@
               "4": {
                 "message": {
                   "": "Right... Your name is \\c[3]Lea\\c[0].\n",
-                  "en_US": "Certo... Seu nome é \\c[3]Lea\\c[0].\n"
+                  "en_US": "Certo... seu nome é \\c[3]Lea\\c[0].\n"
                 }
               },
               "5": {
@@ -638,7 +638,7 @@
           "66": {
             "message": {
               "": "In that case,\\. what's your \\c[3]favorite\\c[0]?\\.\nA:\\. Lettuce,\\. B:\\. Tomatoes,\\.\nC:\\. Bananas,\\. D:\\. Eggplants?",
-              "en_US": "Neste caso,\\. qual a sua \\c[3]favorita?\\c[0]?\\.\nA:\\. Alface,\\. B:\\. Tomate,\\.\nC:\\. Banana,\\. D:\\. Berinjela?"
+              "en_US": "Neste caso,\\. qual a sua \\c[3]favorita\\c[0]?\\.\nA:\\. Alface,\\. B:\\. Tomate,\\.\nC:\\. Banana,\\. D:\\. Berinjela?"
             }
           },
           "67": {
@@ -994,7 +994,7 @@
           "87": {
             "message": {
               "": "You could in fact just be a human-controlled program mocking an AI.",
-              "en_US": "Você poderia, é claro, ser um programa controlado por humanos que apenas finge ser uma IA."
+              "en_US": "Você pode ser apenas um programa controlado por humanos que finge ser uma IA."
             }
           },
           "88": {
@@ -1367,7 +1367,7 @@
                   "15": {
                     "message": {
                       "": "Mr. Asimov, I'm honestly impressed.",
-                      "en_US": "Sr. Asimov, Estou realmente impressionado."
+                      "en_US": "Sr. Asimov, estou realmente impressionado."
                     }
                   },
                   "16": {
@@ -1403,7 +1403,7 @@
                   "21": {
                     "message": {
                       "": "And Lea...\\. I hope you enjoyed our conversation as much as I did.",
-                      "en_US": "E Lea...\\. Espero que tenha apreciado a nossa conversa tanto quanto eu."
+                      "en_US": "E Lea...\\. espero que tenha apreciado a nossa conversa tanto quanto eu."
                     }
                   },
                   "22": {

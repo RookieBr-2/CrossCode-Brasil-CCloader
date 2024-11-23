@@ -29,7 +29,7 @@
                   "13": {
                     "message": {
                       "": "Are you ready for the Faj'ro Temple race?",
-                      "en_US": "Você está pronta para a corrida do Templo Faj'ro?"
+                      "en_US": "Você está pronta para a corrida do Templo de Faj'ro?"
                     }
                   },
                   "14": {
@@ -54,7 +54,7 @@
                       "18": {
                         "task": {
                           "": "Complete \\c[3]Faj'ro Temple\\c[0] in the race against Emilie and C'tron.",
-                          "en_US": "Complete o \\c[3]Templo Faj'ro\\c[0] em uma corrida contra Emilie e C'tron."
+                          "en_US": "Complete o \\c[3]Templo de Faj'ro\\c[0] em uma corrida contra Emilie e C'tron."
                         }
                       }
                     },
@@ -1046,7 +1046,7 @@
           "60": {
             "message": {
               "": "Well then...\\. Our next stage would be \\c[3]Faj'ro Temple\\c[0], right?",
-              "en_US": "Então...\\. nossa próxima etapa será o \\c[3]Templo Faj'ro\\c[0], não é?"
+              "en_US": "Então...\\. nossa próxima etapa será o \\c[3]Templo de Faj'ro\\c[0], não é?"
             }
           },
           "61": {
@@ -1141,7 +1141,7 @@
           "98": {
             "task": {
               "": "Enter \\c[3]Faj'ro Temple\\c[0] to start the next dungeon race again Emilie and C'tron!",
-              "en_US": "Entre no \\c[3]Templo Faj'ro\\c[0] para começar a próxima corrida de dungeon com Emilie e C'tron!"
+              "en_US": "Entre no \\c[3]Templo de Faj'ro\\c[0] para começar a próxima corrida de dungeon com Emilie e C'tron!"
             }
           }
         }

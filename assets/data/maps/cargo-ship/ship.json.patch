@@ -641,7 +641,7 @@
               "2": {
                 "message": {
                   "": "I have no idea what is going on, but you better listen to the Cap' and get going!",
-                  "en_US": "Eu não tenho idéia do que está acontecendo, mas é melhor você ouvir o Cap' e ir andando!"
+                  "en_US": "Eu não tenho ideia do que está acontecendo, mas é melhor você ouvir o Cap' e ir andando!"
                 }
               }
             }
@@ -2395,7 +2395,7 @@
                 "57": {
                   "message": {
                     "": "Sorry!\\. They talked me into it...",
-                    "en_US": "Desculpa!\\. Eles me convenceram a fazer isso..."
+                    "en_US": "Desculpa!\\. Eles me obrigaram a fazer isso..."
                   }
                 },
                 "63": {
@@ -2564,7 +2564,8 @@
                 },
                 "123": {
                   "message": {
-                    "": "...Lea!"
+                    "": "...Lea!",
+                    "en_US": "... Lea!"
                   }
                 },
                 "124": {
@@ -2658,7 +2659,7 @@
                 "155": {
                   "message": {
                     "": "Oh boy...\\. I wasn't aware of that.",
-                    "en_US": "Caramba...\\. Eu não sabia disso."
+                    "en_US": "Caramba...\\. eu não sabia disso."
                   }
                 },
                 "157": {
@@ -2913,7 +2914,7 @@
                 "293": {
                   "message": {
                     "": "Well... I'm relieved...",
-                    "en_US": "Que bom... Estou aliviado..."
+                    "en_US": "Que bom... estou aliviado..."
                   }
                 },
                 "298": {
@@ -2942,7 +2943,7 @@
                 "317": {
                   "message": {
                     "": "Hey Lea...\\. I see you are having fun with the crew?",
-                    "en_US": "Ei Lea...\\. Parece que você está se divertindo com a tripulação."
+                    "en_US": "Ei Lea...\\. parece que você está se divertindo com a tripulação."
                   }
                 },
                 "318": {
@@ -2965,7 +2966,7 @@
                 "321": {
                   "message": {
                     "": "It is probably a good idea to log you off in the meantime.",
-                    "en_US": "Seria uma boa idéia desconectar você nesse intervalo de tempo."
+                    "en_US": "Seria uma boa ideia desconectar você nesse intervalo de tempo."
                   }
                 },
                 "322": {
@@ -3083,7 +3084,7 @@
                 "348": {
                   "message": {
                     "": "Satoshi...\\. he always envisioned a place like that, even back then.",
-                    "en_US": "Satoshi...\\. ele sempre imaginou um lugar como esse, mesmo naquela época."
+                    "en_US": "Satoshi...\\. sempre imaginou um lugar como esse, mesmo naquela época."
                   }
                 },
                 "349": {
@@ -3106,7 +3107,7 @@
                 "352": {
                   "message": {
                     "": "Well then...\\. should we call it a day?",
-                    "en_US": "Bem, então...\\. devemos dar o dia por encerrado?"
+                    "en_US": "Então...\\. devemos dar o dia por encerrado?"
                   }
                 },
                 "353": {
@@ -3832,7 +3833,7 @@
           "25": {
             "message": {
               "": "Well then...\\. preparations to go back to the official Playground are all finished!",
-              "en_US": "Bem, então...\\. os preparativos para voltar ao playground oficial estão terminados!"
+              "en_US": "Bom...\\. os preparativos para voltar ao playground oficial estão terminados!"
             }
           },
           "26": {
@@ -3867,7 +3868,7 @@
           "31": {
             "message": {
               "": "Also...\\. I did a few more preparations on my side...",
-              "en_US": "Além disso...\\. Eu fiz mais alguns ajustes pessoais..."
+              "en_US": "Além disso...\\. eu fiz mais alguns ajustes pessoais..."
             }
           },
           "32": {
@@ -3879,7 +3880,7 @@
           "33": {
             "message": {
               "": "Well...\\. I \\c[3]moved locations\\c[0] again.",
-              "en_US": "Bem...\\. Eu \\c[3]me mudei\\c[0] novamente."
+              "en_US": "Eu \\c[3]me mudei\\c[0] novamente."
             }
           },
           "34": {
@@ -3902,7 +3903,7 @@
           "37": {
             "message": {
               "": "I did the same after you completed the Faj'ro Temple.",
-              "en_US": "Eu fiz o mesmo depois que você completou o Templo Faj'ro."
+              "en_US": "Eu fiz o mesmo depois que você completou o Templo de Faj'ro."
             }
           },
           "38": {
@@ -4096,7 +4097,7 @@
           "56": {
             "message": {
               "": "Uhm...\\. bonjour!\\. I'm Emilie!",
-              "en_US": "Uhm...\\. bonjour!\\. Eu sou Emilie!"
+              "en_US": "Hm...\\. bonjour!\\. Eu sou Emilie!"
             }
           },
           "58": {

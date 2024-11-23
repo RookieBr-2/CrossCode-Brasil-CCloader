@@ -60,7 +60,7 @@
                   "5": {
                     "message": {
                       "": "Uhm... may I ask what your class is?",
-                      "en_US": "Uhm... posso perguntar qual é a sua classe?"
+                      "en_US": "Hmm... posso perguntar qual é a sua classe?"
                     }
                   },
                   "6": {
@@ -1274,7 +1274,7 @@
           "40": {
             "message": {
               "": "Well...\\. There really wasn't.",
-              "en_US": "Bem...\\. Realmente não tinha."
+              "en_US": "... Realmente não tinha."
             }
           },
           "41": {
@@ -1326,7 +1326,7 @@
           "71": {
             "message": {
               "": "Whoa...\\. I'm joking, just joking!",
-              "en_US": "Calma...\\. Eu só estou brincando!"
+              "en_US": "Calma...\\. eu só estou brincando!"
             }
           },
           "75": {
@@ -1426,7 +1426,7 @@
           "103": {
             "message": {
               "": "Well...\\. Sorry, but I have to logout now.",
-              "en_US": "Enfim...\\. Desculpe, eu tenho que sair agora."
+              "en_US": "Enfim...\\. desculpe, eu tenho que sair agora."
             }
           },
           "110": {
@@ -1663,7 +1663,7 @@
           "53": {
             "message": {
               "": "Gautham... he didn't look like he was an avatar.",
-              "en_US": "Gautham... ele não parecia ser um avatar."
+              "en_US": "Gautham... não parecia ser um avatar."
             }
           },
           "54": {
@@ -1768,7 +1768,7 @@
           "76": {
             "message": {
               "": "Uhm...\\. maybe.\\. We'll see.",
-              "en_US": "Uhm...\\. talvez.\\. veremos."
+              "en_US": "Hmm...\\. talvez.\\. veremos."
             }
           },
           "77": {

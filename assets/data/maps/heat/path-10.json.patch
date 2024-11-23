@@ -32,7 +32,7 @@
       "settings": {
         "teleportLabel": {
           "": "To Faj'ro Temple",
-          "en_US": "Para o Templo Faj'ro"
+          "en_US": "Para o Templo de Faj'ro"
         }
       }
     },
@@ -100,7 +100,7 @@
           "12": {
             "message": {
               "": "That must be \\c[3]Faj'ro Temple\\c[0], non?",
-              "en_US": "Este deve ser o \\c[3]Templo Faj'ro\\c[0], non?"
+              "en_US": "Este deve ser o \\c[3]Templo de Faj'ro\\c[0], non?"
             }
           },
           "13": {

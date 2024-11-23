@@ -624,7 +624,7 @@
           "23": {
             "message": {
               "": "Uhm... captain?",
-              "en_US": "Uhm... capitão?"
+              "en_US": "Hm... capitão?"
             }
           },
           "26": {
@@ -659,13 +659,14 @@
           },
           "39": {
             "message": {
-              "": "...Lea."
+              "": "...Lea.",
+              "en_US": "... Lea."
             }
           },
           "40": {
             "message": {
               "": "Huh? Do you want me to call you by your first name?",
-              "en_US": "Huh? Você que eu a chame pelo primeiro nome?"
+              "en_US": "Hã? Você que eu a chame pelo primeiro nome?"
             }
           },
           "41": {

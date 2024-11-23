@@ -1594,7 +1594,7 @@
               "0": {
                 "message": {
                   "": "Uhm...\\. wait a moment.",
-                  "en_US": "Uhm...\\. espera um pouco."
+                  "en_US": "Hmm...\\. espera um pouco."
                 }
               },
               "1": {
@@ -3006,7 +3006,7 @@
           "38": {
             "message": {
               "": "Also, the stores now offer \\c[3]better equipment\\c[0], since we've beaten Faj'ro Temple.",
-              "en_US": "Além disso, as lojas agora oferecem \\c[3]equipamentos melhores\\c[0], já que vencemos o Templo Faj'ro."
+              "en_US": "Além disso, as lojas agora oferecem \\c[3]equipamentos melhores\\c[0], já que vencemos o Templo de Faj'ro."
             }
           },
           "40": {
@@ -3089,7 +3089,7 @@
           "54": {
             "message": {
               "": "Uhm... wait.",
-              "en_US": "Uhm... espera."
+              "en_US": "Hmm... espera."
             }
           },
           "55": {

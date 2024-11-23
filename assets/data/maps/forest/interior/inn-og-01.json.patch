@@ -50,7 +50,7 @@
                 "10": {
                   "message": {
                     "": "Need to find 5 Stones first. Called \\c[3]Origin Stones\\c[0].",
-                    "en_US": "Primeiro é preciso encontrar cinco pedras. Elas são chamadass de \\c[3]Pedras Originais\\c[0]."
+                    "en_US": "Primeiro é preciso encontrar cinco pedras. Elas são chamadass de \\c[3]Pedras da Origem\\c[0]."
                   }
                 },
                 "11": {
@@ -89,7 +89,7 @@
               "3": {
                 "message": {
                   "": "Need to find 5 Stones first. Called \\c[3]Origin Stones\\c[0].",
-                  "en_US": "Primeiro é preciso encontrar cinco pedras. Elas são chamadass de \\c[3]Pedras Originais\\c[0]."
+                  "en_US": "Primeiro é preciso encontrar cinco pedras. Elas são chamadass de \\c[3]Pedras da Origem\\c[0]."
                 }
               },
               "4": {
@@ -610,7 +610,7 @@
                 "20": {
                   "message": {
                     "": "Wait... There is something here...",
-                    "en_US": "Espere... Há algo aqui..."
+                    "en_US": "Espere... tem algo aqui..."
                   }
                 },
                 "21": {
@@ -984,7 +984,7 @@
                 "29": {
                   "message": {
                     "": "It seems he is part of an organization called \\c[3]IHSO\\c[0].",
-                    "en_US": "Parece que ele faz parte de uma organização chamada \\c[3]IHSO\\c[0]."
+                    "en_US": "Parece que ele faz parte de uma organização chamada \\c[3]OIHS\\c[0]."
                   }
                 },
                 "30": {
@@ -1128,7 +1128,8 @@
                 },
                 "6": {
                   "message": {
-                    "": "...Lea."
+                    "": "...Lea.",
+                    "en_US": "... Lea."
                   }
                 },
                 "7": {
@@ -1440,7 +1441,7 @@
           "3": {
             "text": {
               "": "Well, yes... \\.\\.\\. I want to make sure that I get it right.",
-              "en_US": "Sim...\\.\\.\\. Quero ter certeza de que estou fazendo tudo certo."
+              "en_US": "Sim...\\.\\.\\. quero ter certeza de que estou fazendo tudo certo."
             }
           },
           "4": {

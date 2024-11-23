@@ -57,7 +57,7 @@
           "42": {
             "message": {
               "": "No matter what I do... I... I just can't move...",
-              "en_US": "Não importa o que eu faça... eu... eu simplesmente não consigo me mexer..."
+              "en_US": "Não importa o que eu faça... eu... eu não consigo me mexer..."
             }
           },
           "43": {
@@ -146,7 +146,8 @@
           },
           "89": {
             "message": {
-              "": "... Lea..."
+              "": "... Lea...",
+              "en_US": "... Lea..."
             }
           },
           "91": {
@@ -157,7 +158,7 @@
           "95": {
             "message": {
               "": "GET AWAY ALREADY!",
-              "en_US": "FUJA JÁ!"
+              "en_US": "FUJA AGORA!"
             }
           },
           "98": {
@@ -215,7 +216,7 @@
           "127": {
             "message": {
               "": "RUN ALREADY!",
-              "en_US": "CORRA JÁ!"
+              "en_US": "CORRE!"
             }
           },
           "130": {

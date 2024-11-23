@@ -42,7 +42,7 @@
                 "5": {
                   "message": {
                     "": "Sorry...",
-                    "en_US": "Desculpe..."
+                    "en_US": "Desculpa..."
                   }
                 },
                 "7": {
@@ -203,13 +203,13 @@
                 "47": {
                   "message": {
                     "": "Ahhh, fine then. But you know she has to find the fragments of the stones first, aye?",
-                    "en_US": "Ahhh, tudo bem então. Mas você sabe que ela tem que encontrar os fragmentos das pedras primeiro, não é?"
+                    "en_US": "Ahhh, tudo bem então. Mas você sabe que ela tem que encontrar as pedras primeiro, não é?"
                   }
                 },
                 "48": {
                   "message": {
                     "": "Already did. All you need to do is put 'em together.",
-                    "en_US": "Ela já tem. Tudo o que você precisa fazer é juntá-los."
+                    "en_US": "Ela já tem. Tudo o que você precisa fazer é juntá-las."
                   }
                 },
                 "49": {
@@ -226,7 +226,7 @@
                 "51": {
                   "message": {
                     "": "Well, I'll still need an ember strong enough to melt them.",
-                    "en_US": "Certo, mas ainda preciso de uma brasa poderosa para derretê-los."
+                    "en_US": "Certo, mas ainda preciso de uma brasa poderosa para derretê-las."
                   }
                 },
                 "52": {
@@ -325,7 +325,7 @@
                 "7": {
                   "object": {
                     "": "Origin Stones",
-                    "en_US": "Pedras Originais"
+                    "en_US": "Pedras da Origem"
                   }
                 },
                 "9": {

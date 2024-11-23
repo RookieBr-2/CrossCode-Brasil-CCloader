@@ -1701,7 +1701,8 @@
                 "2": {
                   "0": {
                     "message": {
-                      "": "... Lea..."
+                      "": "... Lea...",
+                      "en_US": "... Lea..."
                     }
                   },
                   "1": {
@@ -1763,7 +1764,8 @@
                 "2": {
                   "0": {
                     "message": {
-                      "": "... Lea..."
+                      "": "... Lea...",
+                      "en_US": "... Lea..."
                     }
                   }
                 },
@@ -3912,7 +3914,7 @@
           "37": {
             "message": {
               "": "Uhm... another location?",
-              "en_US": "Uhm... outro lugar?"
+              "en_US": "Hm... outro lugar?"
             }
           },
           "38": {
@@ -4246,7 +4248,7 @@
           "50": {
             "message": {
               "": "Alors... I guess all that's left then is asking lots of \\c[3]questions\\c[0]!",
-              "en_US": "Então... Acho que o jeito é fazer muitas \\c[3]perguntas\\c[0]!"
+              "en_US": "Então... acho que o jeito é fazer muitas \\c[3]perguntas\\c[0]!"
             }
           },
           "51": {
@@ -4635,7 +4637,8 @@
           },
           "78": {
             "message": {
-              "": "... Lea?"
+              "": "... Lea?",
+              "en_US": "... Lea?"
             }
           },
           "79": {
@@ -5345,7 +5348,8 @@
           },
           "31": {
             "message": {
-              "": "...Pardon?"
+              "": "...Pardon?",
+              "en_US": "... Pardon?"
             }
           },
           "32": {
@@ -5385,7 +5389,8 @@
           },
           "38": {
             "message": {
-              "": "Uhm..."
+              "": "Uhm...",
+              "en_US": "Hmm..."
             }
           },
           "39": {
@@ -5403,7 +5408,7 @@
           "41": {
             "message": {
               "": "Well then, let me check...",
-              "en_US": "Pois bem, irei checar..."
+              "en_US": "Tá bom, vou checar..."
             }
           },
           "42": {
@@ -5490,7 +5495,8 @@
           },
           "76": {
             "message": {
-              "": "Hmm..."
+              "": "Uhm...",
+              "en_US": "Hmm..."
             }
           },
           "77": {
@@ -5553,7 +5559,8 @@
           },
           "95": {
             "message": {
-              "": "Hmm..."
+              "": "Uhm...",
+              "en_US": "Hmm..."
             }
           },
           "96": {
@@ -5598,7 +5605,7 @@
           "108": {
             "message": {
               "": "I'm sorry~",
-              "en_US": "Me desculpe~"
+              "en_US": "Me desculpe."
             }
           },
           "109": {
@@ -5851,7 +5858,8 @@
           },
           "108": {
             "message": {
-              "": "Hmm..."
+              "": "Uhm...",
+              "en_US": "Hmm..."
             }
           },
           "109": {
@@ -6057,7 +6065,7 @@
           "191": {
             "message": {
               "": "Spheromancer Lea!\\. I...\\. I don't know how to respond to this!",
-              "en_US": "Esferomante Lea!\\. Eu...\\. Não sei como reagir a isto!"
+              "en_US": "Esferomante Lea!\\. Eu...\\. não sei como reagir a isto!"
             }
           },
           "195": {
@@ -6156,7 +6164,7 @@
           "223": {
             "message": {
               "": "She can be an AI or a loaf of baguette for all I care!",
-              "en_US": "Ela pode ser uma IA ou um pãozinho de baguete mas ainda é importante pra mim!"
+              "en_US": "Ela pode ser uma IA ou um pãozinho de baguete, mas ainda é importante pra mim!"
             }
           },
           "225": {
@@ -6276,7 +6284,7 @@
           "281": {
             "message": {
               "": "Honestly...\\. I never expected this amount of enthusiasm.",
-              "en_US": "Sinceramente...\\. Eu não imaginava ver tanta empolgação."
+              "en_US": "Sinceramente...\\. eu não imaginava ver tanta empolgação."
             }
           },
           "282": {
@@ -6642,7 +6650,7 @@
           "57": {
             "message": {
               "": "I am here because I wanted to talk to you - about Lea, her circumstances, and other things.",
-              "en_US": "Estou aqui porque queria falar com você sobre Lea, suas circunstâncias, e outras coisas."
+              "en_US": "Estou aqui porque queria falar com você sobre Lea e outras coisas."
             }
           },
           "58": {
@@ -6907,7 +6915,7 @@
           "28": {
             "message": {
               "": "Albert will pick you up at the \\c[3]sky rail station in Rhombus Square - South Arch\\c[0] and lead the way.",
-              "en_US": "Albert irá buscá-la nos \\c[3]trilhos aéreos no Arco Sul - Praça Losango\\c[0]."
+              "en_US": "Albert irá buscá-la nos \\c[3]trilhos aéreos no Arco Sul da Praça Losango\\c[0]."
             }
           },
           "29": {

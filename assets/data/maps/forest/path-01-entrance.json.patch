@@ -270,7 +270,7 @@
                       "0": {
                         "message": {
                           "": "I'd appreciate it a lot if you could just \\c[1]snipe away\\c[1] those bugs real quick before they get too close.",
-                          "en_US": "Eu agradeceria muito se você pudesse \\c[1]estompar\\c[1] aqueles insetos antes que eles se aproximem demais."
+                          "en_US": "Eu agradeceria muito se você pudesse \\c[1]stompar\\c[0] aqueles insetos antes que eles se aproximem demais."
                         }
                       }
                     }

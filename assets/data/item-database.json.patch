@@ -836,7 +836,7 @@
       },
       "description": {
         "": "Nobody really knows where hillkats get them but they sound amazing.",
-        "en_US": "Ninguém sabe como as topeiras conseguem isso, mas eles parecem incríveis."
+        "en_US": "Ninguém sabe como os suricavas conseguem isso, mas eles parecem incríveis."
       }
     },
     "84": {
@@ -1548,7 +1548,7 @@
       },
       "description": {
         "": "A regular key for \\c[3]Faj'ro Temple\\c[0].",
-        "en_US": "Um chave comum do \\c[3]Templo Faj'ro\\c[0]."
+        "en_US": "Um chave comum do \\c[3]Templo de Faj'ro\\c[0]."
       }
     },
     "147": {
@@ -1558,7 +1558,7 @@
       },
       "description": {
         "": "The Master Key of the \\c[3]Faj'ro Temple\\c[0].",
-        "en_US": "A Chave Mestra do \\c[3]Templo Faj'ro\\c[0]."
+        "en_US": "A Chave Mestra do \\c[3]Templo de Faj'ro\\c[0]."
       }
     },
     "148": {
@@ -1568,7 +1568,7 @@
       },
       "description": {
         "": "Provides access to \\c[3]Faj'ro Temple\\c[0].",
-        "en_US": "Fornece acesso ao \\c[3]Templo Faj'ro\\c[0]"
+        "en_US": "Fornece acesso ao \\c[3]Templo de Faj'ro\\c[0]"
       }
     },
     "149": {
@@ -1668,7 +1668,7 @@
       },
       "description": {
         "": "One of the \\c[3]Origin Stones\\c[0]. Shifting smoothly between orange and red colors.",
-        "en_US": "Uma das \\c[3]Pedras Originais\\c[0]. Mudando suavemente entre as cores laranja e vermelha."
+        "en_US": "Uma das \\c[3]Pedras da Origem\\c[0]. Mudando suavemente entre as cores laranja e vermelha."
       }
     },
     "159": {
@@ -1934,11 +1934,11 @@
     "184": {
       "name": {
         "": "Weird Hillkat Tech",
-        "en_US": "Artefato das Topeiras"
+        "en_US": "Artefato dos Suricavas"
       },
       "description": {
         "": "A mysterious piece of tech dropped by the \\c[3]Hillkat Bandleader\\c[0]. It might store data?",
-        "en_US": "Um dispositivo misterioso deixado pelo \\c[3]Lider Topeira\\c[0]. Será que armazena dados?"
+        "en_US": "Um dispositivo misterioso deixado pelo \\c[3]Lider Suricava\\c[0]. Será que armazena dados?"
       }
     },
     "185": {
@@ -2406,7 +2406,7 @@
       },
       "description": {
         "": "One of the \\c[3]Origin Stones\\c[0]. Emits strange sparks when touched.",
-        "en_US": "Uma das \\c[3]Pedras Originais\\c[0]. Emite faíscas estranhas quando tocada."
+        "en_US": "Uma das \\c[3]Pedras da Origem\\c[0]. Emite faíscas estranhas quando tocada."
       }
     },
     "228": {
@@ -2864,7 +2864,7 @@
       },
       "description": {
         "": "A regular key for \\c[3]Zir'vitar Temple\\c[0].",
-        "en_US": "Uma chave commum do \\c[3]Templo Zir'vitar\\c[0]."
+        "en_US": "Uma chave commum do \\c[3]Templo de Zir'vitar\\c[0]."
       }
     },
     "273": {
@@ -3331,7 +3331,7 @@
       },
       "description": {
         "": "A regular key for \\c[3]So'najiz Temple\\c[0].",
-        "en_US": "Uma chave commum do \\c[3]Templo So'najiz\\c[0]."
+        "en_US": "Uma chave commum do \\c[3]Templo de So'najiz\\c[0]."
       }
     },
     "320": {
@@ -3381,7 +3381,7 @@
       },
       "description": {
         "": "One of the \\c[3]Origin Stones\\c[0]. Its pulsing green light is almost surreal. ",
-        "en_US": "Uma das \\c[3]Pedras Originais\\c[0]. Sua luz verde pulsante é quase surreal."
+        "en_US": "Uma das \\c[3]Pedras da Origem\\c[0]. Sua luz verde pulsante é quase surreal."
       }
     },
     "325": {
@@ -4590,7 +4590,7 @@
       },
       "description": {
         "": "One of the \\c[3]Origin Stones\\c[0]. Ever shifting between the realms.",
-        "en_US": "Uma das \\c[3]Pedras Originais\\c[0]. Sempre mudando entre as dimensões."
+        "en_US": "Uma das \\c[3]Pedras da Origem\\c[0]. Sempre mudando entre as dimensões."
       }
     },
     "445": {
@@ -4600,7 +4600,7 @@
       },
       "description": {
         "": "The combination of the origin stones. Said to be the origin of creation.",
-        "en_US": "A combinação das pedras originais. Dito como sendo a origem da criação."
+        "en_US": "A combinação das pedras da origem. Dito como sendo a origem da criação."
       },
       "sources": {
         "0": {
@@ -4620,7 +4620,7 @@
       },
       "description": {
         "": "One of the \\c[3]Origin Stones\\c[0]. Often used to read the future or the past.",
-        "en_US": "Uma das \\c[3]Pedras Originais\\c[0]. Muitas vezes usada para ler o futuro ou o passado."
+        "en_US": "Uma das \\c[3]Pedras da Origem\\c[0]. Muitas vezes usada para ler o futuro ou o passado."
       }
     },
     "447": {

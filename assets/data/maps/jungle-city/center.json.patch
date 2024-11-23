@@ -496,13 +496,13 @@
                     "2": {
                       "message": {
                         "": "You can collect \\c[3]\\v[item.320.name]\\c[0] from those \\c[3]\\v[combat.name.jungle/pumpkin]\\c[0]!",
-                        "en_US": "Tente coletar algumas \\c[3]Chamas de Abóbora\\c[0] desses \\c[3]\\v[combat.name.jungle/pumpkin]\\c[0]!"
+                        "en_US": "Tente coletar algumas \\c[3]Chamas de Abóbora\\c[0] dessas \\c[3]Abóboras Flamejantes\\c[0]!"
                       }
                     },
                     "3": {
                       "message": {
                         "": "They wander about in the \\c[3]infested Jungle\\c[0] to the \\c[3]northeast\\c[0]!",
-                        "en_US": "Eles vagam pela região dos \\c[3]Pântanos Infestados\\c[0]!"
+                        "en_US": "Elas vagam pela região dos \\c[3]Pântanos Infestados\\c[0]!"
                       }
                     },
                     "4": {
@@ -570,13 +570,13 @@
               "2": {
                 "message": {
                   "": "You can collect \\c[3]\\v[item.320.name]\\c[0] from those \\c[3]\\v[combat.name.jungle/pumpkin]\\c[0]!",
-                  "en_US": "Tente coletar algumas \\c[3]Chamas de Abóbora\\c[0] desses \\c[3]\\v[combat.name.jungle/pumpkin]\\c[0]!"
+                  "en_US": "Tente coletar algumas \\c[3]Chamas de Abóbora\\c[0] desses \\c[3]Abóboras Flamejantes\\c[0]!"
                 }
               },
               "3": {
                 "message": {
                   "": "They wander about in the \\c[3]infested Jungle\\c[0] to the \\c[3]northeast\\c[0]!",
-                  "en_US": "Eles vagam pela região dos \\c[3]Pântanos Infestados\\c[0]!"
+                  "en_US": "Elas vagam pela região dos \\c[3]Pântanos Infestados\\c[0]!"
                 }
               },
               "4": {

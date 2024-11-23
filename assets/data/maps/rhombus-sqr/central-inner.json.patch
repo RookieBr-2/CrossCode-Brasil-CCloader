@@ -618,7 +618,8 @@
           },
           "44": {
             "message": {
-              "": "...Bonjour."
+              "": "...Bonjour.",
+              "en_US": "... Bonjour."
             }
           },
           "45": {

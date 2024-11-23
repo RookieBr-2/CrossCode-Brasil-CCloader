@@ -211,7 +211,7 @@
               "2": {
                 "message": {
                   "": "This is a private party \\c[3]Seeker\\c[0], you better run off\\..\\..\\.. fast.",
-                  "en_US": "Essa é uma festa privada \\c[3]Seeker\\c[0], é melhor tu vazar\\..\\..\\.. rápidinho."
+                  "en_US": "Essa é uma festa privada \\c[3]Seeker\\c[0], é melhor tu vazar\\..\\..\\.. rapidinho."
                 }
               },
               "3": {
@@ -466,7 +466,7 @@
                 "6": {
                   "message": {
                     "": "My Dad wants me to collect some goods for him from the infested jungle region.",
-                    "en_US": "Meu Pai quer que eu colete umas coisas pra ele na região da selva infestada."
+                    "en_US": "Meu Pai quer que eu colete umas coisas pra ele na selva infestada."
                   }
                 },
                 "7": {
