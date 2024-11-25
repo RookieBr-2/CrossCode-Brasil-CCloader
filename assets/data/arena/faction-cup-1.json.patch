@@ -16,7 +16,7 @@
     "0": {
       "name": {
         "": "Hillkat Hoodlums",
-        "en_US": "Bandidos Suricavas"
+        "en_US": "Bandidos Suricatos"
       },
       "objective": {
         "": "Refight the \\c[3]\\v[combat.name.meerkat-special-command-1]\\c[0] and his gang of \\c[3]Hillkats\\c[0] in their cave in \\c[3]\\v[area.autumn-area.name]\\c[0]!",

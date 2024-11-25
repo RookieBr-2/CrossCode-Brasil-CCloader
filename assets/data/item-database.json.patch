@@ -836,7 +836,7 @@
       },
       "description": {
         "": "Nobody really knows where hillkats get them but they sound amazing.",
-        "en_US": "Ninguém sabe como os suricavas conseguem isso, mas eles parecem incríveis."
+        "en_US": "Ninguém sabe como os Suricatos conseguem isso, mas eles parecem incríveis."
       }
     },
     "84": {
@@ -1934,11 +1934,11 @@
     "184": {
       "name": {
         "": "Weird Hillkat Tech",
-        "en_US": "Artefato dos Suricavas"
+        "en_US": "Artefato dos Suricatos"
       },
       "description": {
         "": "A mysterious piece of tech dropped by the \\c[3]Hillkat Bandleader\\c[0]. It might store data?",
-        "en_US": "Um dispositivo misterioso deixado pelo \\c[3]Lider Suricava\\c[0]. Será que armazena dados?"
+        "en_US": "Um dispositivo misterioso deixado pelo \\c[3]Lider Suricato\\c[0]. Será que armazena dados?"
       }
     },
     "185": {
@@ -4369,7 +4369,7 @@
       },
       "description": {
         "": "Heavy Boots which are often used during windy days.",
-        "en_US": "Botas pesadas que são freqüentemente usadas durante os dias de ventania."
+        "en_US": "Botas pesadas que são frequentemente usadas durante os dias de ventania."
       }
     },
     "423": {

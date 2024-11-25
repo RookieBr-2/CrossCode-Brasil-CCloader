@@ -7893,7 +7893,7 @@
             "0": {
               "message": {
                 "": "Have you ever seen one of these Hillkats digging...\\. over a \\c[3]laser bridge\\c[0]?\\. Yes, they do that.",
-                "en_US": "Já viu um desses Suricavas cavando...\\. numa \\c[3]ponte de laser\\c[0]?\\. Pois é, eles fazem isso."
+                "en_US": "Já viu um desses Suricatos cavando...\\. numa \\c[3]ponte de laser\\c[0]?\\. Pois é, eles fazem isso."
               }
             },
             "1": {
@@ -7905,7 +7905,7 @@
             "2": {
               "message": {
                 "": "Still, I wish they would have made them stop in front of the laser bridges.\\. It does break the illusion.",
-                "en_US": "Mesmo assim, gostaria que eles tivessem feito os Suricavas pararem antes das pontes de laser.\\. Isso quebra a ilusão."
+                "en_US": "Mesmo assim, gostaria que eles tivessem feito os Suricatos pararem antes das pontes de laser.\\. Isso quebra a ilusão."
               }
             }
           }
@@ -8364,7 +8364,7 @@
             "0": {
               "message": {
                 "": "People tend to make a big deal out of the Venus Flytrap.",
-                "en_US": "Os Dioneias são freqüentemente objeto de muita discussão."
+                "en_US": "Os Dioneias são frequentemente objeto de muita discussão."
               }
             },
             "1": {
@@ -20910,7 +20910,7 @@
         "0": {
           "text": {
             "": "A \\c[3]\\v[combat.name.snowman]\\c[0] that developed a somewhat higher intelligence and curiousity and thus wanted to leave its home of \\c[3]\\v[area.bergen-trails.name]\\c[0] to visit warmer lands.\nUnfortunately the burning sun has caused some problems, so it usually stays \\c[3]in caves\\c[0] and tries to \\c[3]steal cooling devices\\c[0] to live in a more comfortable temperature.",
-            "en_US": "Um \\c[3]\\v[combat.name.snowman]\\c[0] que desenvolveu de alguma forma uma inteligência e curiosidade elevadas, e assim, saiu de sua casa na \\c[3]\\v[area.bergen-trails.name]\\c[0] para visitar terras mais quentes.\nInfelizmente o sol ardente causou alguns problemas, por isso ele fica geralmente \\c[3]em cavernas\\c[0] e tenta \\c[3]roubar aparelhos de resfriamento\\c[0] para viver em uma temperatura mais confortável."
+            "en_US": "Um \\c[3]\\v[combat.name.snowman]\\c[0] que de alguma forma, desenvolveu uma inteligência e curiosidade elevadas, e assim, saiu de sua casa na \\c[3]\\v[area.bergen-trails.name]\\c[0] para visitar terras mais quentes.\nInfelizmente o sol ardente causou alguns problemas, por isso ele fica geralmente \\c[3]em cavernas\\c[0] e tenta \\c[3]roubar aparelhos de resfriamento\\c[0] para viver em uma temperatura mais confortável."
           }
         }
       }
@@ -20928,7 +20928,7 @@
         "0": {
           "text": {
             "": "The fruit-obsessed leader of a rogue group of \\c[3]\\v[combat.name.snowman]\\c[0] that aspired to make the warm lands of \\c[3]\\v[area.jungle.name]\\c[0] their home.\nTo that end it led robberies to steal large quantities of \\c[3]cooling devices\\c[0] which were supposed to slowly turn the Jungle into a climate more comfortable for Snowmen to live in.\nDespite its exceptional intelligence, it could not grasp the irony of that entire plan.",
-            "en_US": "O líder obcecado por frutas de um grupo de \\c[3]\\v[combat.name.snowman]\\c[0] patifes, que queria fazer das terras quentes do \\c[3]\\v[area.jungle.name]\\c[0] seu lar.\nPara isso, eles começaram a roubar grandes quantidades de \\c[3]dispositivos de resfriamento\\c[0] que seriam usados para transformar o clima da selva em um clima mais confortável para os bonecos de neve viverem.\nApesar da sua inteligência excepcional, ele não conseguia entender a ironia de todo esse plano. "
+            "en_US": "O líder obcecado por frutas de um grupo de \\c[3]Karottos\\c[0] patifes, que queriam transformar as terras quentes do \\c[3]\\v[area.jungle.name]\\c[0] em seu lar.\nPara isso, começaram a roubar grandes quantidades de \\c[3]dispositivos de resfriamento\\c[0], que seriam usados para alterar o clima da selva e torná-lo mais agradável para os bonecos de neve. Apesar de sua inteligência excepcional, ele não conseguia perceber a ironia de seu plano. "
           }
         }
       }
@@ -21000,7 +21000,7 @@
         "0": {
           "text": {
             "": "A variant of the \\v[combat.name.heat/jellyfish], but with a much higher amount of alcohol. There are no known natural habitats, but they tend to appear near distilleries with a powerful connection to Ancient energy.\nLike with their more common relative, they can be temporarily stunned by using their own bubbles against them. Though you might need to get rid of an external shield first!",
-            "en_US": "Uma variante da \\v[combat.name.heat/jellyfish], mas com uma quantidade muito maior de álcool. Seu habitat natural é desconhecido, mas elas tentem a aparecer perto de destilarias com uma poderosa conexão com a energia dos Antigos.\nAssim como sua parente mais comum, elas podem ser atordoadas temporariamente usando as próprias bolhas delas contra elas. Embora você precise se livrar de um escudo externo primeiro!"
+            "en_US": "Uma variante da \\v[combat.name.heat/jellyfish], mas com uma quantidade muito maior de álcool. Seu habitat natural é desconhecido, mas elas tentem a aparecer perto de destilarias com uma poderosa conexão com a energia dos Antigos.\nAssim como sua parente mais comum, elas podem ser atordoadas temporariamente com suas próprias bolhas. Embora você precise se livrar de um escudo externo primeiro!"
           }
         }
       }
@@ -21035,7 +21035,7 @@
         "0": {
           "text": {
             "": "A close relative to the regular \\c[3]\\v[combat.name.jungle/plant]\\c[0], this specimen prefers to live underground. Usually they have a close connection to intensive points of Ancient power that they are eager to protect.\nOne would think that a plant like this would have difficulties surviving without direct sunlight, but it gets compensated by a high concentration of Track energy and a diet of nutritious cave insects. \nAlso of note is its ability to \\c[3]sense incoming turret-shots\\c[0] and \\c[3]evade them\\c[0] by teleporting. \\c[3]It can't uphold its shield while doing so\\c[0], though, so a \\c[3]powerful projectile might disturb its balance during that period\\c[0].",
-            "en_US": "Um parente próximo à \\c[3]\\v[combat.name.jungle/plant]\\c[0] comum, este espécime prefere viver no subsolo. Normalmente elas têm uma estreita conexão com os pontos de poder dos Antigos, que elas defenderão até a morte.\nAcredita-se que uma planta como essa teria dificuldades para sobreviver sem a luz solar direta, mas ela é compensada por uma alta concentração de energia da trilha e uma dieta nutritiva de insetos da caverna. \nTambém é notável a sua capacidade de \\c[3]sentir os disparos das torres\\c[0] e \\c[3]desviar deles\\c[0] através do teletransporte. \\c[3]Mas enquanto faz isso ela não consegue manter o escudo\\c[0], então um \\c[3]projétil poderoso pode romper o seu equilíbrio durante esse período\\c[0]."
+            "en_US": "Uma parente próxima da \\c[3]\\v[combat.name.jungle/plant]\\c[0] comum, que prefere viver no subsolo. Elas geralmente têm uma ligação próxima com pontos de energia Antigos e fazem de tudo para protegê-los.\nAcredita-se que uma planta como essa teria dificuldades para sobreviver sem a luz solar direta, mas ela é compensada por uma alta concentração de energia da trilha e uma dieta nutritiva de insetos da caverna. \nTambém é notável a sua habilidade de \\c[3]perceber os disparos das torres\\c[0] e \\c[3]desviar deles\\c[0] com o teleporte. Porém, enquanto realiza essa manobra, ela não consegue manter o escudo, ficando vulnerável a ataques."
           }
         }
       }
@@ -21052,7 +21052,7 @@
         "0": {
           "text": {
             "": "A \\v[combat.name.jungle/plant] that somehow got infected and now radiates \\c[3]Shock-energy\\c[0]. Said energy empowers it's attack and also creates an almost impenetrable shield that can only be neutralized with an opposing element.\nIt seems like the infection spreads between its NANO-MACHINES, which also explains why they are polluting the water.",
-            "en_US": "Uma \\v[combat.name.jungle/plant] que de alguma forma foi infectada e agora irradia \\c[3]energia de choque\\c[0]. Dizem que essa energia fortalece seu ataque e também cria um escudo quase impenetrável que só pode ser neutralizado com um elemento oposto.\nParece que a infecção se espalha entre suas NANO-MÁQUINAS, o que também explica por que elas estão poluindo a água."
+            "en_US": "Uma \\v[combat.name.jungle/plant] que de alguma forma foi infectada e agora irradia \\c[3]energia do choque\\c[0]. Dizem que essa energia fortalece seu ataque e também cria um escudo quase impenetrável, que só pode ser neutralizado com um elemento oposto.\nParece que a infecção se espalha entre suas NANO-MÁQUINAS, o que também explica por que elas estão poluindo a água."
           }
         }
       }
@@ -21070,7 +21070,7 @@
         "0": {
           "text": {
             "": "Can't go without a slime enemy in an RPG, right? Well, this is not it! The actual core of this creature is a bright light inside the gelatin mass, totally different. \nDespite that it is pretty weak when fought alone and will not even attack if not startled. In larger groups however it can quickly overwhelm you with group attacks. Use Combat Arts to quickly dispatch them!",
-            "en_US": "Não da pra ficar sem um inimigo slime em um RPG, não é? Bem, ela não é exatamente um slime! O núcleo real dessa criatura é uma luz brilhante dentro de uma massa de gelatina, então é totalmente diferente de um slime. \nApesar disso, elas são bastante fracas quando estão sozinhas e não atacam por conta própria. Mas em grupos maiores elas pode ser um grande problema. Use as habilidades de combate para se livrar delas rapidamente."
+            "en_US": "Não da pra ficar sem slimes em um RPG, não é? Bem, ela não é exatamente um slime! O núcleo real dessa criatura é uma luz brilhante dentro de uma massa de gelatina, então é totalmente diferente de um slime. \nApesar disso, elas são bastante fracas quando estão sozinhas e não atacam por conta própria. Mas em grupos maiores elas pode ser um grande problema. Use as habilidades de combate para se livrar delas rapidamente."
           }
         }
       }
@@ -21088,7 +21088,7 @@
         "0": {
           "text": {
             "": "A stronger slime enemy? Really? Not really! Just like the \\v[combat.name.jungle/blob] the actual enemy is the light inside the mass. But the mass is harder and a bit darker which makes it stronger! Other than that it behaves exactly like its weaker kind, yep. ",
-            "en_US": "Um inimigo slime mais forte? Sério? Na verdade não! Assim como a \\v[combat.name.jungle/blob] o inimigo real é a luz dentro da massa. Mas a massa deste aqui é mais dura e um pouco mais escura e isso torna ele mais forte! Fora isso, ela se comporta exatamente como uma \\v[combat.name.jungle/blob]."
+            "en_US": "Um slime mais forte? Sério? Na verdade não! Assim como a \\v[combat.name.jungle/blob] o inimigo real é a luz dentro da massa. Mas a massa dessa aqui é mais dura e um pouco mais escura e isso torna ela mais forte! Fora isso, ela se comporta exatamente como uma \\v[combat.name.jungle/blob]."
           }
         }
       }
@@ -21106,7 +21106,7 @@
         "0": {
           "text": {
             "": "A close relative to the regular \\c[3]\\v[combat.name.jungle/blob]\\c[0], this specimen prefers to live underground. Usually they have a close connection to intensive points of Ancient power that they are eager to protect.\nSince it is more prone to traverse on strict paths, one might think of it as very inflexible. It is, however, just as wobbly as its overworldly relative.",
-            "en_US": "Um parente próximo da \\c[3]\\v[combat.name.jungle/blob]\\c[0] comum, este espécime prefere viver no subsolo. Normalmente elas têm uma estreita conexão com os pontos de energia dos Antigos, que elas defenderão até a morte.\nComo elas são conhecidas por se moverem por caminhos fixos, você pode pensar que elas são bastante inflexíveis. Entretanto, elas são tão trêmulos quanto seus parentes na superfície."
+            "en_US": "Uma parente próxima da \\c[3]\\v[combat.name.jungle/blob]\\c[0] comum, que prefere viver no subsolo. Elas geralmente têm uma ligação próxima com pontos de energia Antigos e fazem de tudo para protegê-los.\nEmbora se mova por caminhos mais estreitos, o que pode sugerir inflexibilidade, ela é, na verdade, tão vacilante quanto sua parente do mundo exterior."
           }
         }
       }
@@ -21142,7 +21142,7 @@
         "0": {
           "text": {
             "": "Once bullied in tree school for being a flower this plant swore to get revenge on the trees by training every day to become the strongest plant the jungle has ever seen.  But time went on and it got a job at the local temple to test Seekers instead. \nNowadays it uses its strength to hurl itself onto Seekers or punches them with its bulky fists.",
-            "en_US": "Uma vez perseguida na escola das árvores por ser uma flor, esta planta jurou se vingar das árvores treinando todos os dias para se tornar a planta mais forte que a selva já viu. Mas o tempo passou e ela conseguiu um emprego no templo local para testar os Seelers. \nAtualmente ela usa sua força para se atirar sobre os Seekers ou socá-los com seus punhos volumosos."
+            "en_US": "Uma vez perseguida na escola das árvores por ser uma flor, esta planta jurou se vingar das árvores treinando todos os dias para se tornar a planta mais forte que a selva já viu. Mas o tempo passou e ela conseguiu um emprego no templo local para testar os Seekers. \nAtualmente ela usa sua força para se atirar sobre os Seekers ou socá-los com seus punhos volumosos."
           }
         }
       }
@@ -21160,7 +21160,7 @@
         "0": {
           "text": {
             "": "A \\v[combat.name.jungle/powerplant] that seems to radiate an extraordinary excess of power, unusual even for its kind.\nInvestigation suggests that, in a desire to further improve the buffness of its well-toned roots, it turned to dangerous substances that were meant to power experimental generators. Its body and mind were not able to handle it, so it became a danger to itself and others.\nIt will serve as a reminder that improving one's body, no matter if root or flesh, should always be done responsibly!",
-            "en_US": "Uma \\v[combat.name.jungle/powerplant] que parece irradiar um extraordinário excesso de poder, incomum até mesmo para seu tipo.\nA investigação sugere que, no desejo de melhorar ainda mais o brilho de suas raízes bem tonificadas, ela usou substâncias perigosas destinadas a alimentar geradores experimentais. Seu corpo e mente não foram capazes de lidar com isso, tornando-se um perigo para si mesma e para os outros. Serve como um lembrete de que melhorar o corpo, não importa se raiz ou carne, sempre deve ser feito com responsabilidade!"
+            "en_US": "Uma \\v[combat.name.jungle/powerplant] que parece irradiar um extraordinário excesso de poder, incomum até mesmo para seu tipo.\nA investigação sugere que, no desejo de melhorar ainda mais o brilho de suas raízes bem tonificadas, ela usou substâncias perigosas destinadas a alimentar geradores experimentais. Seu corpo e mente não foram capazes de lidar com isso, tornando-se um perigo para si mesma e para os outros. Serve como um lembrete de que, ao melhorar o corpo, seja raiz ou carne, é essencial agir com responsabilidade!"
           }
         }
       }
@@ -21317,7 +21317,7 @@
         "0": {
           "text": {
             "": "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \nSimilarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. ",
-            "en_US": "A encarnação viva dos cristais encontrados por todo o \\c[3]\\v[area.final-dng.name]\\c[0]. Parece que não são criações dos antigos, pois ao contrário da maioria dos inimigos que se encontram dentro do templo, eles são feitos de pedra. \nAs versões coloridas também apresentam uma estranha ligação que lhes permite combinar energia para lançar ataques poderosos. "
+            "en_US": "A encarnação viva dos cristais encontrados no \\c[3]\\v[area.final-dng.name]\\c[0]. Parece que não são criações dos antigos, pois ao contrário da maioria dos inimigos que se encontram dentro do templo, eles são feitos de pedra. \nAs versões coloridas também apresentam uma estranha ligação que lhes permite combinar energia para lançar ataques poderosos. "
           }
         }
       }
@@ -21335,7 +21335,7 @@
         "0": {
           "text": {
             "": "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \nSimilarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. ",
-            "en_US": "A encarnação viva dos cristais encontrados por todo o \\c[3]\\v[area.final-dng.name]\\c[0]. Parece que não são criações dos antigos, pois ao contrário da maioria dos inimigos que se encontram dentro do templo, eles são feitos de pedra. \nAs versões coloridas também apresentam uma estranha ligação que lhes permite combinar energia para lançar ataques poderosos."
+            "en_US": "A encarnação viva dos cristais encontrados no \\c[3]\\v[area.final-dng.name]\\c[0]. Parece que não são criações dos antigos, pois ao contrário da maioria dos inimigos que se encontram dentro do templo, eles são feitos de pedra. \nAs versões coloridas também apresentam uma estranha ligação que lhes permite combinar energia para lançar ataques poderosos."
           }
         }
       }
@@ -21353,7 +21353,7 @@
         "0": {
           "text": {
             "": "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \nSimilarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. ",
-            "en_US": "A encarnação viva dos cristais encontrados por todo o \\c[3]\\v[area.final-dng.name]\\c[0]. Parece que não são criações dos antigos, pois ao contrário da maioria dos inimigos que se encontram dentro do templo, eles são feitos de pedra. \nAs versões coloridas também apresentam uma estranha ligação que lhes permite combinar energia para lançar ataques poderosos."
+            "en_US": "A encarnação viva dos cristais encontrados no \\c[3]\\v[area.final-dng.name]\\c[0]. Parece que não são criações dos antigos, pois ao contrário da maioria dos inimigos que se encontram dentro do templo, eles são feitos de pedra. \nAs versões coloridas também apresentam uma estranha ligação que lhes permite combinar energia para lançar ataques poderosos."
           }
         }
       }
@@ -21371,7 +21371,7 @@
         "0": {
           "text": {
             "": "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \nSimilarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. ",
-            "en_US": "A encarnação viva dos cristais encontrados por todo o \\c[3]\\v[area.final-dng.name]\\c[0]. Parece que não são criações dos antigos, pois ao contrário da maioria dos inimigos que se encontram dentro do templo, eles são feitos de pedra. \nAs versões coloridas também apresentam uma estranha ligação que lhes permite combinar energia para lançar ataques poderosos."
+            "en_US": "A encarnação viva dos cristais encontrados no \\c[3]\\v[area.final-dng.name]\\c[0]. Parece que não são criações dos antigos, pois ao contrário da maioria dos inimigos que se encontram dentro do templo, eles são feitos de pedra. \nAs versões coloridas também apresentam uma estranha ligação que lhes permite combinar energia para lançar ataques poderosos."
           }
         }
       }
@@ -21424,7 +21424,7 @@
         "0": {
           "text": {
             "": "A version of the \\v[combat.name.arid/virus-neutral] that uses Heat based attacks. It uses the neutral Viruses as pawns to attack its enemies. However this is also its weak spot. Once the neutral ones are stunned, push them into the Heat Virus to break their shield.",
-            "en_US": "Uma versão do \\v[combat.name.arid/virus-neutral] que usa ataques de Fogo. Ela usa os vírus neutros como peões para atacar seus inimigos. No entanto, este é também seu ponto fraco. Uma vez que os neutros são atordoados, empurre eles contra o Vírus de Fogo para quebrar seu escudo."
+            "en_US": "Uma versão do \\v[combat.name.arid/virus-neutral] que usa ataques de Fogo. Ele usa os vírus neutros como peões para atacar seus inimigos. No entanto, este é também seu ponto fraco. Uma vez que os neutros são atordoados, empurre eles contra o Vírus de Fogo para quebrar seu escudo."
           }
         }
       }
@@ -21442,7 +21442,7 @@
         "0": {
           "text": {
             "": "A version of the \\v[combat.name.arid/virus-neutral] that uses Cold based attacks. It uses the neutral Viruses as pawns to attack its enemies. However this is also its weak spot. Once the neutral ones are stunned, push them into the Cold Virus to break their shield.",
-            "en_US": "Uma versão do \\v[combat.name.arid/virus-neutral] que usa ataques de Gelo. Ela usa os vírus neutros como peões para atacar seus inimigos. No entanto, este é também seu ponto fraco. Uma vez que os neutros são atordoados, empurre eles contra o Vírus de Gelo para quebrar seu escudo."
+            "en_US": "Uma versão do \\v[combat.name.arid/virus-neutral] que usa ataques de Gelo. Ele usa os vírus neutros como peões para atacar seus inimigos. No entanto, este é também seu ponto fraco. Uma vez que os neutros são atordoados, empurre eles contra o Vírus de Gelo para quebrar seu escudo."
           }
         }
       }
@@ -21790,7 +21790,7 @@
         "0": {
           "text": {
             "": "The self proclaimed warrior of justice returns and this time he has the heat element on his side! Just like last time he will get more creative with his attacks as you have more wins over him.",
-            "en_US": "O autoproclamado guerreiro da justiça retorna e desta vez ele tem o elemento de fogo ap seu lado! Assim como da última vez, quanto mais rodadas você ganha, mais ele se tornará criativo com seus ataques."
+            "en_US": "O autoproclamado guerreiro da justiça retorna e desta vez ele tem o elemento de fogo ao seu lado! Assim como da última vez, quanto mais rodadas você ganha, mais ele se tornará criativo com seus ataques."
           }
         }
       }
@@ -21807,7 +21807,7 @@
         "0": {
           "text": {
             "": "Look who's back! Apollo wants to settle things and is ready to use both heat and cold against you to show you the \"true potential\" of a seeker. Just like you, he can use level 2 Combat Arts which can pack quite a punch and break your guard too if you're not careful.",
-            "en_US": "Olha só quem voltou! Apollo quer acertar as contas e está pronto para usar o fogo e o gelo contra você para mostrar o \"verdadeiro potencial\" de um seeker. Assim como você, ele pode usar Habilidades de Combate de nível 2, que podem quebrar sua guarda também se você não tiver cuidado."
+            "en_US": "Olha só quem voltou! Apollo quer acertar as contas e está pronto para usar o fogo e o gelo contra você para mostrar o \"verdadeiro potencial\" de um Esferomante. Assim como você, ele pode usar Habilidades de Combate de nível 2, que podem quebrar sua guarda se você não tiver cuidado."
           }
         }
       }
@@ -21842,7 +21842,7 @@
         "0": {
           "text": {
             "": "A guard patrolling the route used by the \\c[3]Calzone Family\\c[0] to smuggle mushrooms from the infested area to \\c[3]Basin Keep\\c[0]. Their job is to walk the corridors of the cave system and check for any suspicious entities, all day.",
-            "en_US": "Um guarda que patrulha a rota usada pela \\c[3]Família Calzone\\c[0] para contrabandear cogumelos da área infesta para a \\c[3]Baixada Bastião\\c[0]. O trabalho dele é andar pelos corredores da caverna e procurar por elementos suspeitos, o dia inteiro."
+            "en_US": "Um guarda que patrulha a rota usada pela \\c[3]Família Calzone\\c[0], para contrabandear cogumelos da área infesta para a \\c[3]Baixada Bastião\\c[0]. O trabalho dele é andar pelos corredores da caverna e procurar por elementos suspeitos, o dia inteiro."
           }
         }
       }
@@ -21860,7 +21860,7 @@
         "0": {
           "text": {
             "": "A corrupt guard that holds no respect for the Shad that are native on Shadoon. Did formerly hold a respectable position in the \\c[3]Maroon Ba'kii Guard\\c[0], before his crimes were uncovered.\n\nWhile his sense of justice is warped, he is still a very capable fighter. He wields the standard issue \\c[3]Laserlance\\c[0] of the guards with great skill and always carries a few of \\c[3]his favorite sandwiches\\c[0], in case the battle tires him.",
-            "en_US": "Um guarda corrupto que não tem respeito pelos Shads que são nativos de Shadoon. Ele ocupava anteriormente uma posição respeitável na \\c[3]Guarda Baki\\c[0], antes de seus crimes serem descobertos.\n Embora seu senso de justiça seja distorcido, ele ainda é um lutador muito capaz. Ele usa com grande habilidade uma \\c[3]Lança Laser\\c[0] padrão dos guardas e sempre carrega alguns de \\c[3]seus sanduíches favoritos\\c[0], para uso emergencial."
+            "en_US": "Um guarda corrupto que não tem respeito pelos Shads que são nativos de Shadoon. Ele ocupava anteriormente uma posição respeitável na \\c[3]Guarda Baki\\c[0], antes de seus crimes serem descobertos.\nEmbora seu senso de justiça seja distorcido, ele ainda é um lutador muito capaz. Ele usa com grande habilidade uma \\c[3]Lança Laser\\c[0], típica dos guardas e sempre carrega alguns de \\c[3]seus sanduíches favoritos\\c[0], para uso emergencial."
           }
         }
       }
@@ -21911,7 +21911,7 @@
         "0": {
           "text": {
             "": "A hexacast player from a new guild called the \\c[3]Star Chasers\\c[0]. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!",
-            "en_US": "Uma jogadara hexamaga de uma guilda nova chamada os \\c[3]Star Chasers\\c[0]. Ela está bastante curiosa sobre seu novo ambiente (e novo líder depois que o anterior foi banido permanentemente[???]). Enquanto seu doce comportamento é desarmante, ela luta com a graça de uma brisa e tão feroz como a tempestade!"
+            "en_US": "Uma jogadora hexamaga de uma guilda nova chamada: os \\c[3]Caçadores de Estrelas\\c[0]. Ela se tornou a nova líder da guilda, depois que o anterior foi banido permanentemente. Embora seu jeito gentil seja desconcertante, ela luta com a graça de uma brisa e com a ferocidade da tempestade!"
           }
         }
       }
@@ -21928,7 +21928,7 @@
         "0": {
           "text": {
             "": "A guardian as old as the Ancients themselves. It serves as both protector and guard to the final secret of the Ancients. Much like all Seekers, it can switch elements and will attack relentlessly using a weird combination of elemental attacks.\nIn desperation it will call upon the power of all elements to deliver a devastating attack that will be the final judgement for those that are worthy enough.",
-            "en_US": "Um guardião tão antigo quanto os próprios Anciãos. Ele serve como protetor e guarda do segredo final dos Antigos. Como todos os Seekers, ele pode trocar elementos e atacará incessantemente usando uma estranha combinação de ataques elementais.\nEm desespero, ele apelará para o poder de todos os elementos para produzir um ataque devastador que será o julgamento final para aqueles que são dignos o suficiente."
+            "en_US": "Um guardião tão antigo quanto os próprios Antigos. Ele serve como protetor e guarda do segredo final dos Antigos. Como todos os Seekers, ele pode trocar elementos e ataca incessantemente usando uma estranha combinação de ataques elementais.\nEm desespero, ele apelará para o poder de todos os elementos para produzir um ataque devastador, que será o julgamento final para aqueles que são dignos o suficiente."
           }
         }
       }
@@ -21992,7 +21992,8 @@
       "descriptions": {
         "0": {
           "text": {
-            "": "Nin!"
+            "": "Nin!",
+            "en_US": "Arre!"
           }
         }
       }
@@ -22160,7 +22161,7 @@
         "0": {
           "text": {
             "": "This sub-species of the common \\v[combat.name.hedgehog] can only be found in \\c[3]\\v[area.autumn-fall.name]\\c[0]. Their needles are pitch black and the red patch on their back is meant to scare off potential predators since it looks like blood. \nDespite all this, these creatures are passive and only attack when attacked. They will use the same attacks \\v[combat.name.hedgehog] and \\v[combat.name.hedgehog-alt] use but will mix up the dash attack by attacking twice in a row.",
-            "en_US": "Esta subespécie do \\v[combat.name.hedgehog] comum só pode ser encontrada no \\c[3]\\v[area.autumn-fall.name]\\c[0]. Suas agulhas são pretas e a mancha vermelha em suas costas tem o objetivo de afugentar potenciais predadores, pois parece sangue.\nApesar de tudo isso, estas criaturas são passivas e só atacam quando são atacadas. Eles usam os mesmos ataques do \\v[combat.name.hedgehog] e do \\v[combat.name.hedgehog-alt], mas vão misturar os ataques, atacando duas vezes seguidas."
+            "en_US": "Esta subespécie do \\v[combat.name.hedgehog] comum vive apenas no \\c[3]\\v[area.autumn-fall.name]\\c[0]. Suas agulhas pretas e a mancha vermelha nas costas, parecendo sangue, assustam predadores.\nApesar disso, são pacíficos e só atacam se provocados, combinando os ataques do \\v[combat.name.hedgehog] e do \\v[combat.name.hedgehog-alt], com dois golpes seguidos."
           }
         }
       }
@@ -22178,7 +22179,7 @@
         "0": {
           "text": {
             "": "This rare \\v[combat.name.hedgehog] can only be found under certain conditions and is commonly theorized to be the leader of its pack. It is feared for its speedy attacks and its blue color and red eyes make it even more menacing. Usually mistaken for a third eye, the object on its forehead is actually a gem. If someone is brave enough to face it and defeat it, it often leaves behind a golden ring of unknown origin.",
-            "en_US": "Este \\v[combat.name.hedgehog] raro só pode ser encontrado sob certas condições e teorias dizem que ele é o lider do bando. Ele é temido por seus ataques rápidos e sua cor azul e olhos vermelhos o tornam ainda mais ameaçador. É provavelmente por isso que muitos consideram o ponto vermelho em sua testa como sendo um terceiro olho, mas na verdade é uma jóia. Se alguém for suficientemente corajoso para derrotá-lo, receberá um anel dourado de origem desconhecida."
+            "en_US": "Este \\v[combat.name.hedgehog] raro aparece apenas em condições específicas e é considerado o líder do bando. Seus ataques rápidos, sua cor azul e seus olhos vermelhos o tornam assustador. Muitos acreditam que o ponto vermelho em sua testa é um terceiro olho, mas é, na verdade, uma joia. Quem tiver coragem de derrotá-lo ganhará um anel dourado de origem misteriosa."
           }
         }
       }
@@ -22204,7 +22205,7 @@
     "meerkat": {
       "name": {
         "": "Rockin' Hillkat",
-        "en_US": "Suricava Roqueiro"
+        "en_US": "Suricato Roqueiro"
       },
       "species": {
         "": "Headbanging Mammal",
@@ -22222,7 +22223,7 @@
     "meerkat-alt": {
       "name": {
         "": "Flamin' Hillkat",
-        "en_US": "Suricava Flamejante"
+        "en_US": "Suricato Flamejante"
       },
       "species": {
         "": "Headbanging Mammal",
@@ -22240,7 +22241,7 @@
     "autumn-fall.meerkat-fall": {
       "name": {
         "": "Chillin' Hillkat",
-        "en_US": "Suricava Tranquilo"
+        "en_US": "Suricato Tranquilo"
       },
       "species": {
         "": "Headbanging Mammal",
@@ -22258,7 +22259,7 @@
     "meerkat-special-command-1": {
       "name": {
         "": "Hillkat Bandleader",
-        "en_US": "Suricava Líder do Bando"
+        "en_US": "Suricato Líder do Bando"
       },
       "species": {
         "": "Headbanging Leader",
@@ -22268,7 +22269,7 @@
         "0": {
           "text": {
             "": "A \\c[3]Hillkat\\c[0] of unusual intelligence and charisma that was able to unite groups of lesser Hillkats for organized raids on humans.\nWhile it is already a threat by itself it will also call additional \\c[3]reinforcements\\c[0] when under attack.",
-            "en_US": "Um \\c[3]Suricava\\c[0] de inteligência e carisma incomuns que foi capaz de unir grupos de \\c[3]Suricavas\\c[0] menores para ataques organizados contra humanos.\nEmbora já seja uma ameaça por si só, ele também chama reforços adicionais quando está sob ataque."
+            "en_US": "Um \\c[3]Suricato\\c[0] de inteligência e carisma incomuns que foi capaz de unir grupos de \\c[3]Suricatos\\c[0] menores para ataques organizados contra humanos.\nEmbora já seja uma ameaça por si só, ele também chama reforços adicionais quando está sob ataque."
           }
         }
       }
@@ -22276,7 +22277,7 @@
     "rhombus.meerkat-car": {
       "name": {
         "": "Carkat",
-        "en_US": "Motocava"
+        "en_US": "Motocato"
       },
       "species": {
         "": "Driving Mammal",
@@ -22286,7 +22287,7 @@
         "0": {
           "text": {
             "": "A more intelligent but reckless \\v[combat.name.meerkat] that likes to headbang while driving fast cars and engage in dangerous drive-by battles. To finance their expensive lifestyle they often take illegal road-jobs like smuggling and theft.",
-            "en_US": "Um \\v[combat.name.meerkat] inteligente, mas imprudente, que gosta de bater de cabeça enquanto dirige carros velozes e se envolve em perigosas disputas de racha. Para financiar seu caro estilo de vida, eles freqüentemente fazem trabalhos ilegais nas estradas, como contrabando e roubo."
+            "en_US": "Um \\v[combat.name.meerkat] inteligente, mas imprudente, que gosta de bater de cabeça enquanto dirige carros velozes e se envolve em perigosas disputas de racha. Para financiar seu caro estilo de vida, eles frequentemente fazem trabalhos ilegais nas estradas, como contrabando e roubo."
           }
         }
       }
@@ -22394,7 +22395,7 @@
         "0": {
           "text": {
             "": "A close relative to the regular \\c[3]Teslabovine\\c[0], this specimen prefers to live underground. Usually they have a close connection to intensive points of Ancient power that they are eager to protect.\nThough it is currently unknown what a \"regular Teslabovine\" is, it is assumed that these are somewhat similar to it. In any case, they follow strict paths at a relaxed pace but sometimes feel compelled to \\c[3]charge forward\\c[0]. These charges will incite a \\c[3]powerful bolt of lightning\\c[0] on their trampled path!",
-            "en_US": "Um parente próximo do \\c[3]Teslabovino\\c[0] comum, este espécime prefere viver no subsolo. Eles geralmente têm uma estreita conexão com pontos de poder dos Antigos, que eles defendem até a morte.\nEmbora não seja claro o que é um \"Teslabovino comum\", supõe-se que eles sejam semelhantes. Normalmente, eles trotam por caminhos seguros, mas às vezes se sentem compelidos a dar uma \\c[3]investida\\c[0]. Essas investidas criarão um \\c[3]poderoso raio de luz\\c[0] no caminho!"
+            "en_US": "Um parente próximo do \\c[3]Teslabovino\\c[0] comum, este espécime prefere viver no subsolo. Eles geralmente têm uma ligação próxima com pontos de energia Antigos e fazem de tudo para protegê-los.\nEmbora não seja claro o que é um \"Teslabovino comum\", supõe-se que eles sejam semelhantes. Normalmente, eles trotam por caminhos seguros, mas às vezes se sentem compelidos a dar uma \\c[3]investida\\c[0]. Essas investidas criarão um \\c[3]poderoso raio de luz\\c[0] no caminho!"
           }
         }
       }
@@ -22412,7 +22413,7 @@
         "0": {
           "text": {
             "": "This weird mixture between frog and rabbit calls the lower parts of Mount Bergen its home. Its cute demeanor quickly turns to evil killer beast when attacked. It will jump around its aggressor and use its strong legs for attacks. Watch out for its fake-outs! It will pretend to charge at you only to jump behind you and give you a boot to the head.",
-            "en_US": "Essa estranha mistura entre sapo e coelho é nativa da parte inferior do Monte Bergen. É uma criatura doce mas quando é atacado se transforma rapidamente em uma besta assassina. Ele salta em torno de seu agressor e usa suas pernas fortes para atacar. Cuidado com suas fintas! Ele vai fingir te atacar apenas para saltar atrás de você e lhe dar um chute na cara."
+            "en_US": "Essa estranha mistura de coelho e sapo vive na base do Monte Bergen. É uma criatura doce, mas vira uma fera assassina se atacada. Ela pula ao redor do inimigo e usa suas pernas fortes para golpear. Fique atento às fintas! Ela pode fingir um ataque para saltar por trás e acertar seu rosto com um chute."
           }
         }
       }
@@ -22430,7 +22431,7 @@
         "0": {
           "text": {
             "": "This white counterpart to the \\v[combat.name.gray-frobbit] lives in the higher places of Mount. Bergen and is every bit as cute... and evil. \nHowever it is stronger and can quickly whittle you down when encountered in big packs.",
-            "en_US": "Essa variante do \\v[combat.name.gray-frobbit] vive nos lugares mais altos do Monte Bergen e é tão fofo... e maligno. No entanto, é mais forte e pode rapidamente abafá-lo quando encontrado em grandes grupos. "
+            "en_US": "Esse tipo alternativo de \\v[combat.name.gray-frobbit] habita as partes mais altas do Monte Bergen. É fofo... e maligno. Porém, é mais forte e pode facilmente dominar você se estiver em grandes grupos. "
           }
         }
       }
@@ -22448,7 +22449,7 @@
         "0": {
           "text": {
             "": "A \\c[3]\\v[combat.name.frobbit]\\c[0] that got dirty by hopping around mining machines.\nThe thick filth has not only made its fur become \\c[3]almost impervious to damage\\c[0], it also enraged the usually peaceful animal to \\c[3]attack any human\\c[0] it sees.\nOnly a \\c[3]forced bath\\c[0] will clean up their fur and make them vulnerable again.",
-            "en_US": "Um \\c[3]\\v[combat.name.frobbit]\\c[0] que ficou sujo ao saltar em torno de máquinas de mineração. \nA sujeira grossa não só tornou seu pêlo \\c[3]quase impermeável a danos\\c[0], como também enfureceu o animal normalmente pacífico para atacar \\c[3]qualquer humano\\c[0] que visse. Somente um \\c[3]banho forçado\\c[0] limpará seu pêlo e o tornará vulnerável novamente."
+            "en_US": "Um \\c[3]\\v[combat.name.frobbit]\\c[0] que se sujou ao saltar entre as máquinas de mineração. \nA sujeira espessa não só tornou seu pêlo \\c[3]quase imune a danos\\c[0], como também enfureceu o animal normalmente pacífico, fazendo-o atacar \\c[3]qualquer humano\\c[0] que visse. Somente um \\c[3]banho forçado\\c[0] será capaz de limpar seu pêlo e torná-lo vulnerável novamente."
           }
         }
       }
@@ -22484,7 +22485,7 @@
         "0": {
           "text": {
             "": "A mischievous variant of the common \\c[3]\\v[combat.name.gray-frobbit]\\c[0] created by the Ancients as part of a trial. It will jump around and make you chase it all around the area until finally engaging in combat. And boy does it pack a punch, combining both Heat and Cold for furious attacks.",
-            "en_US": "Uma variante desgraçada do \\c[3]\\v[combat.name.gray-frobbit]\\c[0] comum criado pelos Antigos como parte de um desafio. Você vai passar um bom tempo perseguindo ele, enquanto ele foge saltando por aí. Seus ataques combinados de Fogo e Gelo são tão ferozes que você vai pensar que levou um coice de um cavalo."
+            "en_US": "Uma variante desgraçada do \\c[3]\\v[combat.name.gray-frobbit]\\c[0] comum, criada pelos Antigos como parte de um desafio. Você vai passar um bom tempo correndo atrás dele enquanto ele foge pulando. Seus ataques combinados de Fogo e Gelo são tão fortes que você vai achar que levou um coice de cavalo."
           }
         }
       }
@@ -22501,7 +22502,7 @@
         "0": {
           "text": {
             "": "This seahorse has transcended its sea life and grew wings that allow it be part of the busy fauna of the land. It usually spends its day eating plants and flying around. \nWhen attacked it will use its unique mouth to shoot bubbles at its enemies that contain a light poison that can damage the skin on contact. Pushed against a wall it can also use a volley of such bubbles that make it hard to just dodge. Better shield up!",
-            "en_US": "Este cavalo marinho transcendeu sua vida marinha e desenvolveu asas que lhe permitem fazer parte da fauna movimentada da terra. Ele geralmente passa o dia comendo plantas e voando por aí.\nQuando atacado, ele atira bolhas em seus inimigos com sua boca única, que contém um veneno suave que pode danificar a pele ao contato. Se ficar encurralado, ele também pode disparar uma rajada de bolhas que dificultam a evasão, portanto tenha cuidado!"
+            "en_US": "Este cavalo-marinho deixou a vida marinha para trás e desenvolveu asas que lhe permitem viver entre os animais terrestres. Ele passa o dia comendo plantas e voando por aí.\nQuando atacado, ele atira bolhas em seus inimigos com sua boca especial, que solta um veneno suave capaz de prejudicar a pele. Se for encurralado, também pode disparar uma rajada de bolhas que dificultam a fuga, então fique atento!"
           }
         }
       }
@@ -22518,13 +22519,13 @@
         "0": {
           "text": {
             "": "Other than its orange color this seahorse has the same behavior as the \\v[combat.name.seahorse]. Its bubble volley however is both faster and contains more bubbles, which can break shields if not careful.",
-            "en_US": "Além de sua cor laranja, este cavalo marinho tem o mesmo comportamento que o \\v[combat.name.seahorse]. Sua rajada de bolha é mais rápida e contém mais bolhas, o que pode quebrar seu escudo se você não for cuidadoso."
+            "en_US": "Além de sua cor laranja, este cavalo-marinho tem o mesmo comportamento do \\v[combat.name.seahorse]. Sua rajada de bolhas é mais rápida e tem mais bolhas, o que pode quebrar seu escudo se você não tomar cuidado."
           }
         },
         "1": {
           "text": {
             "": "It is said that they also mysteriously developed the ability to spit bursts of fire. This is rarely seen, though, as their respect for their environment forbids the use of this ability on the surface.",
-            "en_US": "Dizem que eles também desenvolveram misteriosamente a capacidade de cuspir rajadas de fogo. Mas, isto raramente é visto, pois seu respeito pelo ambiente proíbe o uso desta habilidade na superfície. "
+            "en_US": "Dizem que eles também desenvolveram misteriosamente a habilidade de cuspir rajadas de fogo. Porém, isso raramente acontece, pois seu respeito pelo ambiente os impede de usar essa habilidade na superfície."
           }
         }
       }
@@ -22542,7 +22543,7 @@
         "0": {
           "text": {
             "": "A penguin on a mountain. How it made its way up here shall be forever unknown to mankind. It will throw snowballs at its enemies and slide at them. When pushed into the water they will jump out and attack with a fast divebomb, so watch out for your surroundings.",
-            "en_US": "Um pinguim em uma montanha. Como ele chegou até aqui sempre será um mistério para a humanidade. Ele atira bolas de neve em seus inimigos e também usam um ataque deslizante. Quando caem na água, eles saltam para fora e atacam com uma bomba de mergulho, portanto, cuidado com o que está ao seu redor."
+            "en_US": "Um pinguim que vive na montanha. Como ele chegou até aqui será sempre um mistério para a humanidade. Ele atira bolas de neve em seus inimigos e também usa um ataque deslizante. Quando cai na água, ele pula para fora e ataca com um mergulho rápido, então fique atento ao que está ao seu redor."
           }
         },
         "1": {
@@ -22566,7 +22567,7 @@
         "0": {
           "text": {
             "": "A rare type of \\c[3]Pengpeng\\c[0] that set up a den deep in the mountains of \\c[3]Bergen Trail\\c[0]. When approached it immediately thinks that you want to steal its flow and jumps up to its \"stage\". It will summon Pengpengs and command them to do different attacks based on its temper. Anger it by defeating all Pengpengs to make it jump down.",
-            "en_US": "Um raro tipo de \\c[3]Pingu\\c[0] que montou uma toca nas profundezas das montanhas da \\c[3]Trilha de Bergen\\c[0]. Se você se aproxima, ele imediatamente pensa que você quer acabar com a vibe dele, e então ele pula no \"palco\". Ele invoca Pingus e ordena que ataquem de formas diferentes. Derrote-os para que ele se zangue e salte da plataforma."
+            "en_US": "Um tipo raro de \\c[3]Pingu\\c[0] que fez sua toca nas profundezas das montanhas da \\c[3]Trilha de Bergen\\c[0]. Quando você se aproxima, ele logo acha que você quer acabar com a vibe dele e pula para o \"palco\". Ele invoca Pingus e manda que ataquem de formas diferentes. Derrote-os para fazê-lo ficar zangado e sair do palco."
           }
         }
       }
@@ -22584,7 +22585,7 @@
         "0": {
           "text": {
             "": "The horned goat likes to make fun of its attackers by pointing its butt at them which is plated in armor for some reason. Attacking it while it is doing so will result in a quick kick so keep your distance. \nSometimes it will actually throw its horns in a large curve. Use this to stun it and deal some good damage. And don't get distracted by its laughing. It's laughing with you, not about you!",
-            "en_US": "A cabra chifruda gosta de zombar de seus oponentes mostrando o rabo que, por alguma razão, é revestido com uma armadura. Se você atacar nesse momento, vai levar um coice rápido, então mantenha a distância. Às vezes, ela joga seus chifres como um bumerangue. Use esse momento para atordoá-la e continuar atacando. E não se distraia com suas gargalhadas. Ela está rindo com você, não de você!"
+            "en_US": "A cabra chifruda adora zombar de seus oponentes mostrando o rabo, que, por algum motivo, é protegido por uma armadura. Se você atacar nesse momento, levará um coice rápido, então mantenha a distância. Às vezes, ela joga seus chifres como um bumerangue. Aproveite esse momento para atordoá-la e continuar atacando. E não se distraia com suas gargalhadas. Ela está rindo com você, não de você!"
           }
         }
       }
@@ -22620,7 +22621,7 @@
         "0": {
           "text": {
             "": "This much more powerful and intelligent variant of the \\c[3]\\v[combat.name.goat]\\c[0] has only been sighted very recently.\nReports suggest that it might not have developed naturally but was actually \\c[3]created by human influence\\c[0].\nBy now they seem to have grown greatly in strengh and intelligence and are still using \\c[3]heat-based\\c[0] attacks and \\c[3]explosives\\c[0] to gain the edge in combat.",
-            "en_US": "Essa variante muito mais poderosa e inteligente da \\c[3]\\v[combat.name.goat]\\c[0] só foi avistada recentemente.\nRelatos sugerem que ela pode não ter se desenvolvido naturalmente, mas na verdade foi \\c[3]criada pela influência humana\\c[0].\nEla usa ataques baseados em \\c[3]fogo\\c[0] e é até mesmo capaz de manusear \\c[3]explosivos\\c[0]"
+            "en_US": "Essa variante muito mais poderosa e inteligente da \\c[3]\\v[combat.name.goat]\\c[0] só foi avistada recentemente.\nRelatos sugerem que ela pode não ter se desenvolvido naturalmente, mas na verdade foi \\c[3]criada pela influência humana\\c[0].\nElas evoluíram em força e inteligência, ainda recorrendo a ataques \\c[3]baseados em fogo\\c[0] e \\c[3]explosivos\\c[0] para obter vantagem no combate."
           }
         }
       }
@@ -22638,7 +22639,7 @@
         "0": {
           "text": {
             "": "The wise and honorable leader of the group of highly intelligent goats, originating from an immoral experiment in the seedy underground of \\v[area.bergen-trails.name].\nHe will protect his herd. He will build a future for goatkind. He will make offers, you can not refuse.\nSuch is the way of goat.\n\nExpect a tough fight against his goatlike powers. Both \\c[3]heat and cold\\c[0] are under his control and will be used on a large scale. He also can throw and regenerate \\c[3]his horns\\c[0] at a blinding speed and thus create a \\c[3]hell of horn-shaped bullets\\c[0].",
-            "en_US": "O sábio e honrado líder do grupo de cabras altamente inteligentes, originado de um experimento imoral no subterrâneo decadente de \\v[area.bergen-trails.name].\nEle protegerá seu rebanho. Ele construirá um futuro para os bodes. Ele fará ofertas, você não pode recusar.\nEsse é o jeito da cabra.\n\nEspere uma dura luta contra seus poderes de cabra. Os elementos \\c[3]Fogo e Gelo\\c[0] estão sob seu controle e serão usados em larga escala. Ele também pode lançar e regenerar \\c[3]seus chifres\\c[0] uma velocidade impressionante e, assim, criar um \\c[3]inferno de tiros em forma de chifre\\c[0]."
+            "en_US": "O sábio e honrado líder do grupo de cabras altamente inteligentes, originado de um experimento imoral no subterrâneo decadente de \\v[area.bergen-trails.name]. Ele protegerá seu rebanho. Ele construirá um futuro para os bodes. Ele fará ofertas que você não pode recusar.\nEsse é o jeito da cabra.\n\nPrepare-se para uma luta difícil contra seus poderes de cabra. Ele controla os elementos \\c[3]Fogo e Gelo\\c[0] e os usará em grande escala. Ele também pode lançar e regenerar \\c[3]seus chifres\\c[0] com uma velocidade impressionante, criando uma \\c[3]chuva de tiros em forma de chifre\\c[0]."
           }
         }
       }
@@ -22679,7 +22680,7 @@
         "0": {
           "text": {
             "": "Almost indistinguishable from its lesser form, this little bug is older and much, much stronger.\nThe experiences they made in the tedious life inside the frozen mine really left their mark and not only hardened their combat abilities, but also their outlook on life. Though little is known about communication between bugs, scientists assume that they spend a large portion of their time complaining about less experienced bugs being lazy and ruining the infestation industry.",
-            "en_US": "Quase indistinguível de sua forma menor, esse bicho pequeno é mais velho e muito, muito mais forte.\nAs experiências que fizeram na tediosa vida dentro da mina congelada realmente deixaram sua marca e não apenas endureceram suas habilidades de combate, mas também sua visão da vida. Embora pouco se saiba sobre a comunicação entre os insetos, os cientistas assumem que passam grande parte de seu tempo reclamando que os insetos menos experientes são preguiçosos e arruínam a indústria da infestação."
+            "en_US": "Quase idêntico à sua forma menor, esse pequeno ser é mais velho e muito, muito mais forte.\nAs experiências feitas durante a tediosa vida na mina congelada realmente deixaram sua marca, não só endurecendo suas habilidades de combate, mas também sua visão de mundo. Embora pouco se saiba sobre a comunicação entre os insetos, os cientistas acreditam que passam grande parte do tempo reclamando que os insetos menos experientes são preguiçosos e arruínam a indústria da infestação."
           }
         }
       }
@@ -22747,7 +22748,7 @@
         "0": {
           "text": {
             "": "When a \\v[combat.name.heat/scorpion] gets older it acquires the rank of \"Big Boss\" among its kind. It is tradition that each \"Big Boss\" must offer an eye as tribute to gain this rank or be forever cast out. This cruel ritual has never been seen by anyone so it is hard to say how they obtain the eye patches.",
-            "en_US": "Quando um \\v[combat.name.heat/scorpion] envelhece ele ganha status de \"Chefão\". É tradição que cada \"Chefão\" deve oferecer um olho como tributo para ganha esse posto ou ser expulso para sempre. Este ritual cruel nunca foi visto por ninguém, então é difícil dizer como eles obtêm as manchas nos olhos."
+            "en_US": "Quando um \\v[combat.name.heat/scorpion] envelhece, ele ganha o título de 'Chefão'. É tradição que todo \"Chefão\" deve oferecer um olho como tributo para conquistar esse posto ou ser expulso para sempre. Esse ritual cruel nunca foi presenciado, então é difícil dizer como eles conseguem as manchas nos olhos."
           }
         }
       }
@@ -22764,7 +22765,7 @@
         "0": {
           "text": {
             "": "This more disciplined variant of the \\c[3]\\v[combat.name.heat/scorpion]\\c[0] has been equipped with a light, back-carried artillery launcher.\nBecause the pincers and stinger weren't already scary enough, apparently.",
-            "en_US": "Um variante mais disciplinada do \\c[3]\\v[combat.name.heat/scorpion]\\c[0] equipada com um lançador de artilharia leve e com carga traseira. Porque as garras e o ferrão ainda não eram suficientemente assustadores, aparentemente."
+            "en_US": "Uma variante mais disciplinada do \\c[3]\\v[combat.name.heat/scorpion]\\c[0], equipada com um lançador de artilharia leve e carga traseira. Aparentemente, as garras e o ferrão ainda não eram assustadores o suficiente."
           }
         }
       }
@@ -22781,7 +22782,7 @@
         "0": {
           "text": {
             "": "Fearsome creatures, these bony sharks attack on sight, or rather vibration as they are actually blind. Adventurers often struggle in dealing with this fast foe as it is hard to catch and invulnerable underground. However constantly aiming your shot and throwing balls at them as soon as they jump up stuns them for quite a while.",
-            "en_US": "Esses tubarões assutadores feitos de ossos atacam qualquer coisa que eles detectam pela vibração, pois na verdade são cegos. Os aventureiros muitas vezes sofrem quando lutam contra esse inimigo rápido, pois ele fica a maior parte do tempo no subsolo. A melhor coisa a fazer é ser paciente e ficar mirando neles até que saltem da areia."
+            "en_US": "Esses tubarões assustadores feitos de ossos atacam qualquer coisa que detectam pela vibração, pois são cegos. Os aventureiros frequentemente sofrem ao enfrentar esse inimigo rápido, já que ele passa a maior parte do tempo no subsolo. A melhor coisa a fazer é ser paciente e ficar mirando neles até que saltem da areia."
           }
         }
       }
@@ -22834,7 +22835,7 @@
         "0": {
           "text": {
             "": "Is it a stone or not? When humans first arrived in \\c[3]\\v[area.heat-area.name]\\c[0] these reptiles were hard to make out as they would burrow below ground and use their rocky back to pretend to be a stone. \nThat does not mean they don't fight! Getting too chummy with them will make them use a stomp attack or throw big stones. \nA good tactic is to look away from it and use walls to bounce your balls off and hit it as it will be above ground.",
-            "en_US": "É uma pedra ou não? Quando os humanos chegaram ao \\c[3]\\v[area.heat-area.name]\\c[0] pela primeira vez, estes répteis eram difíceis de identificar, pois se enterraram no subsolo e usaram suas costas rochosas para se disfarçar como pedras. \nIsso não significa que eles não lutam! Eles usam um ataque de pisoteio ou joguem pedras grandes. \nUma boa tática é desviar o olhar deles e usar as paredes para ricochetear suas esferas assim que eles saírem do solo."
+            "en_US": "É uma pedra ou não? Quando os humanos chegaram ao \\c[3]\\v[area.heat-area.name]\\c[0] pela primeira vez, estes répteis eram difíceis de identificar, pois se enterraram no subsolo e usaram suas costas rochosas para se disfarçar como pedras. \nIsso não significa que eles não lutam! Eles usam um ataque de pisoteio ou jogam pedras grandes. \nUma boa tática é desviar o olhar deles e usar as paredes para ricochetear suas esferas assim que eles saírem do solo."
           }
         }
       }
@@ -22851,7 +22852,7 @@
         "0": {
           "text": {
             "": "A more relaxed variant of the \\c[3]\\v[combat.name.heat/drillertoise]\\c[0] that is almost exclusively found in caves. They are usually completely immovable and answer threats by causing \\c[3]shockwaves\\c[0] from the safety of their shell. \nOnly \\c[3]explosive measures\\c[0] might cause them to show any weaknesses.",
-            "en_US": "Uma variante mais tranquila do \\c[3]\\v[combat.name.heat/drillertoise]\\c[0]que é quase exclusivamente encontrado em cavernas. Eles são completamente imóveis e respondem a ameaças criando \\c[3]ondas de choque\\c[0] de dentro de sua casca. \nApenas \\c[3]bombas explosivas\\c[0] podem revelar quaisquer vulnerabilidades."
+            "en_US": "Uma variante mais tranquila do \\c[3]\\v[combat.name.heat/drillertoise]\\c[0] que é quase exclusivamente encontrado em cavernas. Eles são completamente imóveis e respondem a ameaças criando \\c[3]ondas de choque\\c[0] de dentro de sua casca. \nApenas \\c[3]bombas explosivas\\c[0] podem revelar quaisquer vulnerabilidades."
           }
         }
       }
@@ -22891,7 +22892,7 @@
         "0": {
           "text": {
             "": "A slightly mutated version of the common \\v[combat.name.heat/sandworm] which made the cave below the famous Maroon Tree in \\c[3]\\v[area.heat-area.name]\\c[0] its home.\nIt seems to have some sort of control over the rock formations inside the cave, being able to to raise and lower parts of the cave system. \nIt uses this to attack intruders from higher ground without them being able to reach it. However disposing of other Tim can raise platforms to make it possible to reach it.",
-            "en_US": "Uma versão mutante do \\v[combat.name.heat/sandworm] comum que fez da caverna abaixo da famosa Castanheira do Vale seu lar. \nEle parece ter algum tipo de controle sobre as formações rochosas dentro da caverna, sendo capaz de levantar e baixar plataforma dentro da caverna. Ele usa isso para atacar intrusos de terrenos mais altos sem que eles possam alcançá-lo. No entanto, eliminar outros Tim pode fazer com que surjam outras plataformas para alcançá-lo."
+            "en_US": "Uma versão mutante do \\v[combat.name.heat/sandworm] comum que fez da caverna abaixo da famosa Castanheira do Vale seu lar\nEle parece ter algum tipo de controle sobre as formações rochosas dentro da caverna, sendo capaz de levantar e abaixar plataformas. Ele usa isso para atacar intrusos de terrenos mais altos sem que possam alcançá-lo. No entanto, eliminar outros Tim pode fazer com que apareçam outras plataformas para alcançá-lo."
           }
         }
       }
@@ -22908,7 +22909,7 @@
         "0": {
           "text": {
             "": "This bird is often described as the phoenix of \\c[3]\\v[area.heat-area.name]\\c[0]. Until provoked they will usually just fly around and only prey on deceased animals. \nIf you however choose to attack them... get ready for all their flaming wrath. They can use their jet turbines to boost into a flaming dive attack. If you time your guard you can counter and leave them open for big damage! Otherwise you better keep your distance and use ranged attacks whenever you see an opening.",
-            "en_US": "Essa ave é muitas vezes descrita como a fênix do \\c[3]\\v[area.heat-area.name]\\c[0]. Elas geralmente voam por aí caçando animais mortos. \nSe você, optar por atacá-los... prepare-se para toda a sua ira flamejante. Eles podem usar suas turbinas a jato para um ataque de mergulho flamejante. Se você fizer um bloqueio no momento certo, vai abrir uma boa oportunidade para um contra-ataque! Caso contrário, é melhor manter a distância e usar ataques à distância sempre que você vir uma abertura."
+            "en_US": "Essa ave é frequentemente descrita como a fênix do \\c[3]\\v[area.heat-area.name]\\c[0]. Eles costumam voar por aí caçando animais mortos.\nSe você optar por atacá-los... prepare-se para toda a sua ira flamejante. Eles podem usar suas turbinas a jato para um ataque de mergulho flamejante. Se você bloquear no momento certo, terá uma boa oportunidade para um contra-ataque! Caso contrário, é melhor manter a distância e usar ataques à distância sempre que surgir uma brecha."
           }
         }
       }
@@ -22959,7 +22960,7 @@
         "0": {
           "text": {
             "": "A mutation of the common \\v[combat.name.heat/moth] that has somehow gained the ability to shoot a laser from its eye. That's right, a laser. They're also not fooled easily by the same tricks you could use against its weaker kind. However it still is very vulnerable to cold attacks. Best wait for an opening to throw some icy balls at them.",
-            "en_US": "Uma mutação da \\v[combat.name.heat/moth] comum que de alguma forma ganhou a capacidade de disparar um laser do seu olho. É isso mesmo, um laser. Elas também não são enganados facilmente pelos mesmos truques que você poderia usar contra seu tipo mais fraco. No entanto, ela ainda é muito vulnerável a ataques de gelo. É melhor esperar por uma abertura para atirar nelas algumas esferas geladas."
+            "en_US": "Uma mutação da \\v[combat.name.heat/moth] comum que de alguma forma ganhou a capacidade de disparar um laser do seu olho. É isso mesmo, um laser. Elas também não são enganadas facilmente pelos mesmos truques que você poderia usar contra seu tipo mais fraco. No entanto, ela ainda é muito vulnerável a ataques de gelo. É melhor esperar por uma abertura para atirar nelas algumas esferas geladas."
           }
         }
       }
@@ -22976,7 +22977,7 @@
         "0": {
           "text": {
             "": "An ancient variant of the common \\v[combat.name.heat/moth] that feels right at home within very dry rooms. It is extremely fond of sand, preferring the coarse and rough feeling to textures that might be more soft and smooth.\n\nIt's extremely agile and will dodge all attacks thrown at it unless distracted by firing it's powerful guided laserbeam.\nIt might, however, be somewhat easily confused by targets that quickly vanish from its line of sight.",
-            "en_US": "Uma antiga variante da \\v[combat.name.heat/moth] comum que gosta de salas muito secas. É extremamente afeiçoada à areia, preferindo a sensação grosseira e áspera a texturas que poderiam ser mais suaves e suaves.\n\nÉ extremamente ágil e se esquiva de todos os ataques lançados contra ela, menos quando dispara seu poderoso raio laser.\nNo entanto, alvos que subitamente desaparecem de seu campo de visão podem facilmente confundi-la. "
+            "en_US": "Uma antiga variante da \\v[combat.name.heat/moth] comum que gosta de salas muito secas. Ela é muito fã de areia, preferindo a sensação áspera e rugosa a texturas mais macias e suaves.\n\nÉ extremamente ágil e se esquiva de todos os ataques lançados contra ela, menos quando dispara seu poderoso raio laser.\nNo entanto, pode ser facilmente confundida por alvos que desaparecem rapidamente do seu campo de visão."
           }
         }
       }
@@ -23011,7 +23012,7 @@
         "0": {
           "text": {
             "": "The moths of \\c[3]\\v[area.heat-dng.name]\\c[0] call this gigantic beast their mother. And it's pretty mad you hurt so many of its children. The only weak spot on its whole body is the eye at the head part and only if it's open and not closed. It will only open it right before it uses one of its attacks. When weak it tries to get away from its foe and regenerate, creating bubbles to fend off any attacks. Conveniently those can be used to create platforms on the hot coals! What are the chances?",
-            "en_US": "As mariposas do \\c[3]\\v[area.heat-dng.name]\\c[0] chamam esta besta gigantesca de sua mãe. E ela está muito convencida de que você magoou muito as filhas dela. O único ponto fraco em todo seu corpo é o olho na parte da cabeça e somente quando está aberto e não fechado. Ela só abre o olho um pouco antes de um ataque. Quando está enfraquecida, ela tenta fugir de seu inimigo e se regenerar, criando bolhas para evitar qualquer ataque. Convenientemente, elas podem ser usadas para criar plataformas sobre o carvão quente! Que coincidência!"
+            "en_US": "As mariposas do \\c[3]\\v[area.heat-dng.name]\\c[0] chamam esta besta gigantesca de mãe. E ela está muito convencida de que você machucou suas filhas. O único ponto fraco de todo seu corpo é o olho, e somente quando está aberto, não fechado. Ela só abre o olho um pouco antes de um ataque. Quando está enfraquecida, tenta fugir de seu inimigo e se regenerar, criando bolhas para evitar qualquer ataque. Convenientemente, elas podem ser usadas para criar plataformas sobre a lava quente! Que coincidência!"
           }
         }
       }
@@ -23086,7 +23087,7 @@
         "0": {
           "text": {
             "": "A close relative to the regular \\c[3]\\v[combat.name.jungle/shockcat]\\c[0], this specimen prefers to live underground. Usually they have a close connection to intensive points of Ancient power that they are eager to protect.\nThough they are stubbornly following strict paths, unlike their less disciplined and decidedly more cuddly cousins, they still retain a Shokat's blinding agility. Expect them to \\c[3]dodge projectiles\\c[0] of automated turrets with ease! \\c[3]Dodging will disrupt their shields\\c[0], though, and thus make them \\c[3]especially vulnerable to charged shots\\c[0] for a few seconds.",
-            "en_US": "Um parente próximo ao \\c[3]\\v[combat.name.jungle/shockcat]\\c[0] comum, este espécime prefere viver no subsolo. Normalmente eles têm uma estreita conexão com os pontos de poder dos Antigos, que eles defenderão até a morte.\nApesar de seguirem teimosamente caminhos apertados, ao contrário de seus primos menos disciplinados e mais fofos, eles ainda mantêm a agilidade cega de um Shokat. Espere que eles se \\c[3]esquivem com facilidade\\c[0] dos projéteis das torres automatizadas! No entanto, \\c[3]a esquiva rompe o escudo deles\\c[3] e, assim, ficam vulneráveis a tiros carregados por alguns segundos."
+            "en_US": "Um parente próximo do \\c[3]\\v[combat.name.jungle/shockcat]\\c[0] comum, este espécime prefere viver no subsolo. Eles geralmente têm uma ligação próxima com pontos de energia Antigos e fazem de tudo para protegê-los.\nEmbora sigam seu caminho de forma meticulosa, ao contrário de seus parentes menos disciplinados e mais carinhosos, eles mantêm a agilidade e os reflexos de um Shokat. Eles \\c[3]evitam os projéteis\\c[0] das torres com facilidade! Mas \\c[3]perdem o escudo quando esquivam\\c[0], ficando \\c[3]vulneráveis\\c[0] por alguns segundos."
           }
         }
       }
@@ -23104,7 +23105,7 @@
         "0": {
           "text": {
             "": "A close relative to the regular \\c[3]\\v[combat.name.minibosses/shockcat-black]\\c[0], this specimen prefers to live underground. Usually they have a close connection to intensive points of Ancient power that they are eager to protect.\nBlack cats in dark caves are usually very hard to see. Thankfully these little devils still have a certain code of honor that inclines them to constantly give off a bit of light.",
-            "en_US": "Um parente próximo ao \\c[3]\\v[combat.name.minibosses/shockcat-black]\\c[0], comum, este espécime prefere viver no subsolo. Normalmente eles têm uma estreita conexão com os pontos de poder dos Antigos, que eles defenderão até a morte.\nGatos negros em cavernas escuras são geralmente muito difíceis de serem vistos. Felizmente, estes pequenos demônios ainda têm um certo código de honra que os inclina a emitir constantemente um pouco de luz."
+            "en_US": "Um parente próximo do \\c[3]\\v[combat.name.minibosses/shockcat-black]\\c[0], comum, este espécime prefere viver no subsolo. Eles geralmente têm uma ligação próxima com pontos de energia Antigos e fazem de tudo para protegê-los.\nGatos negros em cavernas escuras são geralmente muito difíceis de ver. Felizmente, esses pequenos demônios ainda seguem um certo código de honra que os faz emitir constantemente um pouco de luz."
           }
         }
       }
@@ -23175,7 +23176,7 @@
         "0": {
           "text": {
             "": "Slightly more civilized and refined variants of the regular \\c[3]Papaguns\\c[0] that are found in the wild, these winged criminals are the elite wingsoldiers of a powerful criminal syndicate that plagues \\c[3]\\v[area.jungle-city.name]\\c[0].\nThese hardened veterans of the crew are often used to crack tough cases, guard the central nest and handle difficult away missions outside of their core turf.",
-            "en_US": "São parte da variante um pouco mais civilizada e refinada dos \\c[3]Papaguns\\c[0] que se encontram na natureza, estes criminosos alados são os capangas de um poderoso sindicato criminoso que atormenta a \\c[3]\\v[area.jungle-city.name]\\c[0].\nEsses veteranos do bando são freqüentemente usados para resolver casos difíceis, guardar o ninho central e lidar com missões difíceis fora de seu território central."
+            "en_US": "São parte da variante um pouco mais civilizada e refinada dos \\c[3]Papaguns\\c[0] que se encontram na natureza, estes criminosos alados são os capangas de um poderoso sindicato criminoso que atormenta a \\c[3]\\v[area.jungle-city.name]\\c[0].\nEsses veteranos do bando são frequentemente usados para resolver casos difíceis, guardar o ninho central e lidar com missões difíceis fora de seu território central."
           }
         }
       }
@@ -23193,7 +23194,7 @@
         "0": {
           "text": {
             "": "The young and hot-headed boss of the Papagang. He only just recently took over the leadership position as the old boss retired. \nThough he seems vain and undisciplined, he is in fact a master with his powerful weaponry. Precise \\c[3]machinegun fire\\c[0], explosive \\c[3]fruitbombs\\c[0] and especially his tenacious \\c[3]seeking missiles\\c[0] have destroyed many a rival in the past.",
-            "en_US": "O chefe da Papagang, jovem e de cabeça quente. Ele só recentemente assumiu a posição de líder, quando o antigo chefe se aposentou. \nApesar de parecer vaidoso e indisciplinado, ele é na verdade um mestre do combate com seu poderoso armamento. Seus tiros precisos de \\c[3]metralhadora\\c[0], explosivas \\c[3]bombas de frutas\\c[0] e especialmente seu tenaz \\c[3]míssel teleguiado\\c[0] destruíram muitos rivais no passado."
+            "en_US": "O chefe da Papagang, jovem e de cabeça quente. Ele assumiu recentemente a posição de líder, quando o antigo chefe se aposentou.\nApesar de parecer vaidoso e indisciplinado, ele é na verdade um mestre do combate com seu poderoso armamento. Seus tiros precisos de \\c[3]metralhadora\\c[0], explosivas \\c[3]bombas de frutas\\c[0] e especialmente seu tenaz \\c[3]míssel teleguiado\\c[0] destruíram muitos rivais no passado."
           }
         }
       }
@@ -23210,7 +23211,7 @@
         "0": {
           "text": {
             "": "The embodiment of laziness itself. This huge sloth is a friendly fella, mostly moving around on its stomach and eating plants or mushrooms. If provoked it will stand on its feet to attack with a huge swing or spin extremely fast and dash at its aggressors. This attack can be counter blocked but it is very risky.",
-            "en_US": "A própria encarnação da preguiça. Essa enorme preguiça é um sujeito amigável, se movendo principalmente de barriga para baixo e comendo plantas ou cogumelos. Se provocada, ela ficará de pé para atacar com um enorme balanço ou girar extremamente rápido e correr contra seus agressores. Este ataque pode ser contra-atacado mas é muito arriscado."
+            "en_US": "Essa enorme preguiça amigável se alimenta de plantas ou cogumelos. Se provocada, ela ficará de pé para atacar com um enorme balanço ou girar extremamente rápido e correr contra seus agressores. Esse ataque pode ser contra-atacado, mas é muito arriscado."
           }
         }
       }
@@ -23227,7 +23228,7 @@
         "0": {
           "text": {
             "": "This is the true culprit behind the infestation of \\c[3]\\v[area.jungle.name]\\c[0].  Somehow it managed to snag at the track's system and gained some serious power in return. Not only can it communicate to some degree, it also gained an appetite for everything electrical like the glowing plants. \nIt uses the same tactics as the normal sloth but varies it up by dodging around you and using a long sword to sweep the floor with you. Additionally, it can trap you in a lightning cage and attack you with dashes multiple times.",
-            "en_US": "Este é o verdadeiro culpado por trás da infestação do \\c[3]\\v[area.jungle.name]\\c[0].  De alguma forma, ele conseguiu entrar ao sistema da trilha e ganhar um imenso poder. Não só ganhou a habilidade de se comunicar, como também ganhou apetite por tudo o que é elétrico, como as plantas brilhantes. \nEle usa as mesmas táticas que a preguiça normal, mas varia ao se esquivar e usar uma longa espada para varrer o chão com você. Além disso, ele pode prendê-lo em uma gaiola de relâmpago e atacá-lo várias vezes."
+            "en_US": "Este é o verdadeiro culpado por trás da infestação do \\c[3]\\v[area.jungle.name]\\c[0].  De alguma forma, ele conseguiu entrar ao sistema da trilha e ganhar um imenso poder. Não só ganhou a habilidade de se comunicar, como também ganhou apetite por tudo o que é elétrico, como as plantas brilhantes. \nEle usa as mesmas táticas que a preguiça normal, mas varia ao se esquivar e usa uma longa espada para atacar. Além disso, ele pode prendê-lo em uma gaiola de relâmpago e atacá-lo várias vezes."
           }
         }
       }
@@ -23244,7 +23245,7 @@
         "0": {
           "text": {
             "": "Coming right at you from the deep, this angler fish found its way into the jungle and lives primarily in the rainy part of it. It mostly stays passive unless provoked in which case it will try to stay away and shoot wave projectiles at you. Shoot at it until it becomes mad and charges at you to release a large scream. Dodge it and melee attack it to break its guard.",
-            "en_US": "Vindo direto das profundezas, este peixe pescador encontrou seu caminho na selva e vive principalmente nas áreas de chuvosas. Na maioria das vezes, ele permanece passivo, a menos que seja atacado. Nesse caso, ele manterá distância vai e atirar projéteis de ondas em você. Continue atirando nele até ele ficar furioso e te ataque com um grito alto. Use a esquiva e depois se aproxime e ataque para quebrar a defesa dele."
+            "en_US": "Vindo direto das profundezas, este peixe encontrou seu caminho na selva e vive principalmente nas áreas chuvosas. Na maioria das vezes, ele permanece passivo, a menos que seja atacado. Nesse caso, ele manterá distância e atirará projéteis de ondas em você. Continue atirando nele até ele ficar furioso e te atacar com um grito alto. Use a esquiva e depois se aproxime para atacar e quebrar a defesa dele."
           }
         }
       }
@@ -23262,7 +23263,7 @@
         "0": {
           "text": {
             "": "A close relative to the regular \\c[3]\\v[combat.name.jungle/fish]\\c[0], this specimen prefers to live underground. Usually they have a close connection to intensive points of Ancient power that they are eager to protect.\nLiving underground for most of its life has somewhat stunted this creature's ability to fly. Not for the lack of ability, but rather because constantly stubbing their sensible lantern on the ceiling at a young age has made them overly careful.",
-            "en_US": "Um parente próximo ao \\c[3]\\v[combat.name.jungle/fish]\\c[0] comum, este espécime prefere viver no subsolo. Normalmente eles têm uma estreita conexão com os pontos de poder dos Antigos, que eles defenderão até a morte.\nViver no subsolo por muito tempo reduziu bastante a habilidade que este peixe tinha para voar. Não porque não podia, mas porque suas barbatanas sensíveis sempre atingem o teto quando ele é pequeno. Isto o tornou muito cauteloso."
+            "en_US": "Um parente próximo do \\c[3]\\v[combat.name.jungle/fish]\\c[0] comum, este espécime prefere viver no subsolo. Eles geralmente têm uma ligação próxima com pontos de energia Antigos e fazem de tudo para protegê-los.\nViver no subsolo por muito tempo reduziu bastante a habilidade que este peixe tinha para voar. Não porque não podia, mas porque suas barbatanas sensíveis sempre batiam contra o teto quando era mais novo. Isto o tornou muito cauteloso."
           }
         }
       }
@@ -23279,7 +23280,7 @@
         "0": {
           "text": {
             "": "This variant of the \\c[3]\\v[combat.name.jungle/fish]\\c[0] lives in the abandoned ruins of the giant sea in \\c[3]\\v[area.jungle.name]\\c[0].\nIt can become near invisible and attacks its prey from the dark. Bright lights however can make it vulnerable for a short period of time.\nLegends say that this beast has not been seen for many centuries. However legends also tell that nobody ever lived to tell the tale...",
-            "en_US": "Esta variante do \\c[3]\\v[combat.name.jungle/fish] vive nas ruínas abandonadas do mar gigante no [\\c[3]\\v[area.jungle.name]\\c[0].\nEle pode se tornar quase invisível e atacar suas presas na escuridão. No entanto, luzes brilhantes podem torná-lo vulnerável por um curto período de tempo.\nLendas dizem que essa fera não é vista há muitos séculos. No entanto, as lendas também dizem que ninguém jamais viveu para contar a história."
+            "en_US": "Esta variante do \\c[3]\\v[combat.name.jungle/fish]\\c[0] vive nas ruínas abandonadas do mar gigante no \\c[3]\\v[area.jungle.name]\\c[0].\nEle pode se tornar quase invisível e atacar suas presas na escuridão. No entanto, luzes brilhantes podem torná-lo vulnerável por um curto período de tempo.\nLendas dizem que essa fera não é vista há muitos séculos. No entanto, as lendas também dizem que ninguém jamais viveu para contar a história."
           }
         }
       }
@@ -23315,7 +23316,7 @@
         "0": {
           "text": {
             "": "This fish is capable of diving into any surface by moving into a higher dimension. The only thing alerting of its presence is the looming shadow. It will attack with various wave-elemental attacks while hiding below ground. The only way to lure it out is by using dischargers. They will be stunned for a short while from the shock, use this window to deal as much damage as you can.",
-            "en_US": "Este peixe pode mergulhar em qualquer superfície simplesmente mudando para outra dimensão. A única coisa que indica sua presença é sua sombra à espreita. Ele ataca com várias ondas enquanto se esconde no subsolo. A única maneira de atraí-la para fora é com o pára-raios. O choque a paralisará por um curto período de tempo. Use este momento para causar o máximo de dano possível. "
+            "en_US": "Este peixe pode mergulhar em qualquer superfície simplesmente mudando para outra dimensão. A única coisa que indica sua presença é a sua sombra. Ele ataca com várias ondas enquanto se esconde no subsolo. A única maneira de atraí-lo para fora é com o pára-raios. O choque a paralisará por um curto período de tempo. Use esse momento para causar o máximo de dano possível. "
           }
         }
       }
@@ -23333,7 +23334,7 @@
         "0": {
           "text": {
             "": "Born atop a mountain from a magic stone, this wise ape serves as the caretaker of both the \\c[3]\\c[3]\\v[area.tree-dng.name]\\c[0]\\c[0] and the \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0]. He will test each Seeker to make sure only the worthy acquire the \\c[3]\\v[item.410.name]\\c[0]. He wields a long staff and flies around on a puffy little cloud. Although his job is to test Seekers, it seems he enjoys a good and honest fight.",
-            "en_US": "Nascido no topo de uma montanha a partir de uma pedra mágica, este sábio macaco atua como o guardião tanto do \\c[3]\\c[3]\\v[area.tree-dng.name]\\c[0]\\c[0] quanto da \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0]. Ele testa cada Seeker para garantir de que somente os dignos obtenham a Estrela. Ele carrega um longo bastão e voa em torno de uma pequena nuvem. Embora seu trabalho seja testar os Seekers, parece que ele gosta de uma luta boa e honesta."
+            "en_US": "Nascido no topo de uma montanha a partir de uma pedra mágica, este sábio macaco atua como o guardião tanto do \\c[3]\\c[3]\\v[area.tree-dng.name]\\c[0]\\c[0] quanto da \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0]. Ele testa cada Seeker para garantir que somente os dignos obtenham a Estrela. Ele carrega um longo bastão e voa em cima de uma pequena nuvem. Embora seu trabalho seja testar os Seekers, parece que ele gosta de uma boa luta."
           }
         }
       }
@@ -23351,7 +23352,7 @@
         "0": {
           "text": {
             "": "A powerful ape, serving as the unbeaten guardian and champion of the \\c[3]\\v[area.beach.name]\\c[0]. The peaceful task has left him with an eternity of time to ponder the meaning of the universe and at this point he is terminally bored and craves a proper fight.\nThough at first glance this lanky primate might lack in style and grace, he is actually much more powerful than his distant cousin, the \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. In fact, he is able to skillfully wield \\c[3]all four elements\\c[0], a feat almost unheard of, outside of experienced \\v[lore.title.seeker]s.",
-            "en_US": "Um macaco poderoso, que é o guardião invicto e campeão do \\c[3]\\v[area.beach.name]\\c[0]. A tarefa pacífica o deixou com uma eternidade de tempo para refletir sobre o significado do universo e, neste ponto, ele está terminantemente entediado e anseia por uma luta adequada.\nEmbora à primeira vista este primata magro possa não ter estilo e graça, na verdade ele é muito mais poderoso do que seu primo distante, o \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. Na verdade, ele é capaz de usar habilmente os \\c[3]quatro elementos\\c[0], um feito que quase ninguém, exceto os Seekers experientes, puderam alcançar. "
+            "en_US": "Um macaco poderoso, que é o guardião e campeão invicto do \\c[3]\\v[area.beach.name]\\c[0]. A tarefa pacífica o deixou com uma eternidade de tempo para refletir sobre o significado do universo e, neste ponto, ele está completamente entediado e anseia por uma luta adequada.\nEmbora à primeira vista este primata magro possa não ter estilo e graça, na verdade ele é muito mais poderoso do que seu primo distante, o \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. Na verdade, ele é capaz de usar habilmente os \\c[3]quatro elementos\\c[0], um feito que quase ninguém, exceto os Seekers experientes, conseguiu alcançar. "
           }
         }
       }
@@ -23359,11 +23360,11 @@
     "jungle.whale-boss": {
       "name": {
         "": "Ancient Guardian",
-        "en_US": "Guardião Antigo"
+        "en_US": "Guardiã Antiga"
       },
       "species": {
         "": "Wisdom Bringer",
-        "en_US": "Portador da Sabedoria"
+        "en_US": "Portadora da Sabedoria"
       },
       "descriptions": {
         "0": {
@@ -23435,7 +23436,7 @@
         "0": {
           "text": {
             "": "Once a boy was found by the beetle-folk of \\c[3]Sapphire Ridge\\c[0]. The master of the clan raised this boy as his own.\nHe became a strong and honorable warrior that protected the clan just as much as any other beetle. \nYears passed and the father's time to enter the afterlife drew close. On his deathbed the Father spoke to his son:\n\\c[3]\"You shall become the master of this clan, my son.\"\\c[0]\nWith tears the son nodded his head in agreement as the father dissipated into thousands of fireflies that flew into the night sky.",
-            "en_US": "Uma vez um garoto foi encontrado pelo besouro da \\c[3]Serra da Safira\\c[0]. O mestre do clã criou este menino como se fosse seu.\nEle se tornou um guerreiro forte e honrado que protegia o clã tanto quanto qualquer outro besouro. \nOs anos se passaram e o tempo do pai entrar na vida após a morte se aproximou. Em seu leito de morte, o Pai falou a seu filho: \n\\c[3]\"Você se tornará o mestre deste clã, meu filho.\"\\c[0]\nCom lágrimas, o filho acenou a cabeça de acordo enquanto o pai se dissipava em milhares de estilhaços que voavam para o céu noturno. "
+            "en_US": "Uma vez, um garoto foi encontrado pelo besouro da \\c[3]Serra da Safira\\c[0]. O mestre do clã criou esse menino como se fosse seu.\nEle se tornou um guerreiro forte e honrado que protegia o clã tanto quanto qualquer outro besouro. \nO tempo voou, e logo o pai estaria prestes a entrar na vida após a morte. Em seu leito de morte, o pai falou ao filho: \n\\c[3]\"Você se tornará o mestre deste clã, meu filho.\"\\c[0]\nCom lágrimas, o filho acenou em acordo, enquanto o pai se dissipava em milhares de estilhaços que voavam para o céu noturno."
           }
         }
       }
@@ -23487,7 +23488,7 @@
         "0": {
           "text": {
             "": "Seems like this enemy wasn't quite ready, as it is missing its backside. This left this poor being in permanent malfunction making it extremely aggressive. It will launch itself at you or jump on you, infused with various elements. Its backside is the only way to stun it. But be aware: too much pressure and it will leave a burst of particles. ",
-            "en_US": "Este oponente parece ainda não estar finalizado, pois lhe falta a parte de trás. Portanto, ele tem um mau funcionamento permanente, que o torna extremamente agressivo. Ele se lançará sobre você ou saltará sobre você, infundido com vários elementos. A única maneira de atordoá-lo é atacando sua parte de trás. Mas fique atento: muita pressão deixará um estouro de partículas."
+            "en_US": "Este inimigo parece incompleto, pois está sem a parte de trás. Isso causa um defeito permanente, tornando-o extremamente agressivo. Ele saltará ou se lançará sobre você, com ataques de vários elementos. A única maneira de atordoá-lo é atingindo sua parte de trás. Mas tome cuidado: muita pressão pode causar uma explosão de partículas."
           }
         }
       }
@@ -23504,7 +23505,7 @@
         "0": {
           "text": {
             "": "A huge snail with an enormous amount of HP. It's slow but it can use its huge body to jump on top of you or spin around the arena leaving an icy trail. It will also spit out slugs that move towards its enemy and explode. Attack its tail to stun it and attack. \nHowever, this will not even leave a scratch. You need something better to have a chance at draining its HP pool.",
-            "en_US": "Um enorme caracol com uma quantidade absurda de PV. É lento, mas pode usar seu enorme corpo para saltar em cima de você ou girar pela arena deixando uma trilha gelada. Ele também cospe lesmas que se movem em direção ao inimigo e explodem. Ataque sua cauda para atordoá-lo. \nNo entanto, isto não deixará nem mesmo um arranhão. Você precisa de algo melhor para ter uma chance de drenar sua barra de PV."
+            "en_US": "Um enorme caracol com uma quantidade absurda de HP. É lento, mas pode usar seu enorme corpo para saltar em cima de você ou girar pela arena deixando uma trilha gelada. Ele também cospe lesmas que se movem em direção ao inimigo e explodem. Ataque sua cauda para atordoá-lo. \nNo entanto, isto não deixará nem mesmo um arranhão. Você precisa de algo melhor para ter uma chance de drenar sua barra de HP."
           }
         }
       }
@@ -23642,7 +23643,7 @@
         "0": {
           "text": {
             "": "A close relative to the \\c[3]\\v[combat.name.heat/sandworm]\\c[0], this worm shares many features with it. However, a keen eye quickly spots the unique transformation it exhibits when exposed to the \\c[3]Cold\\c[0] element. Its body becomes almost impregnable. If only there was a way to warm it back up...",
-            "en_US": "Um parente próximo do \\c[3]\\v[combat.name.heat/sandworm]\\c[0], essa minhoca compartilha muitas características com ele. Entretanto, um olhar aguçado rapidamente percebe a transformação única que ela exibe quando exposta ao elemento \\c[3]Gelo\\c[0]. Seu corpo torna-se quase invencível. Se ao menos houvesse uma maneira de descongelá-lo... "
+            "en_US": "Um parente próximo do \\c[3]\\v[combat.name.heat/sandworm]\\c[0], essa minhoca tem muitas semelhanças com ele. No entanto, quem observa com atenção logo percebe a transformação única que ocorre quando ela entra em contato com o elemento \\c[3]Gelo\\c[0]. Seu corpo se torna quase invencível. Se ao menos houvesse uma maneira de descongelá-la... "
           }
         }
       }
@@ -23659,7 +23660,7 @@
         "0": {
           "text": {
             "": "A peace loving creature that is often mistaken for easy prey due to its timid nature. However once provoked it will transform into a vicious bipedal humanoid. in this form it is able to quickly evade attacks and use its bone trident to perform a devastating dive attack.",
-            "en_US": "Uma criatura amante da paz que muitas vezes é confundida com uma presa fácil devido a sua natureza tímida. Mas, quando ameaçado, ela se transformará em um humanóide bípede violento. Nesta forma, ela é capaz de escapar rapidamente dos ataques e usar seu tridente ósseo para realizar um ataque de mergulho devastador. "
+            "en_US": "Um ser amante da paz que muitas vezes é confundido com uma presa fácil devido a sua natureza tímida. Mas, quando ameaçado, ele se transforma em um humanóide bípede violento. Nesta forma, ele é capaz de escapar rapidamente dos ataques e usar seu tridente ósseo para realizar um ataque de mergulho devastador. "
           }
         },
         "1": {
@@ -24025,7 +24026,7 @@
         "0": {
           "text": {
             "": "This stationary enemy can either shoot a single projectile at you or a triple shoot that spreads. Either way they are pretty easy to deal with. You can either dash in and quickly give them a good pummeling or dodge the projectiles and throw balls at them.",
-            "en_US": "Este inimigo imóvel pode atirar um único projétil em você ou usar um disparo triplo que se espalha. Use sua esquiva e quando ele estiver carregando um disparo, use um tiro carregado para atordoá-lo."
+            "en_US": "Esse inimigo imóvel pode lançar um único projétil ou um disparo triplo que se espalha. Use sua esquiva e, quando ele estiver carregando o disparo, use um tiro carregado para deixá-lo atordoado."
           }
         }
       }
@@ -24043,7 +24044,7 @@
         "0": {
           "text": {
             "": "A illegally modified variant of the popular \\c[3]Rhombus Turret\\c[0], intended to be smuggled to the mainland for all kinds of nefarious schemes. Unlike the standard model this machine also comes with a shield.",
-            "en_US": "Uma variante ilegalmente modificada da popular \\c[0]Torre Losango\\c[0], destinada a ser contrabandeada para o continente para todos os tipos de esquemas nefastos. Ao contrário do modelo padrão, essa máquina também vem com um escudo."
+            "en_US": "Uma versão ilegalmente modificada da popular \\c[0]Torre Losango\\c[0], projetada para ser contrabandeada para o continente com todos os tipos de esquemas nefastos. Ao contrário do modelo padrão, essa máquina também possui um escudo."
           }
         }
       }
@@ -24061,7 +24062,7 @@
         "0": {
           "text": {
             "": "This larger turret was used by Carla and Captain Jet to showcase some advanced gameplay mechanics of CrossWorlds. You couldn't quite finish the final fight against it as a certain someone interrupted...",
-            "en_US": "Esta metralhadora foi usada por Carla e Captain Jet para mostrar algumas mecânicas de jogo avançadas de CrossWorlds. Você não conseguiu terminar a luta final contra ele porque um certo alguém interrompeu..."
+            "en_US": "Esta metralhadora foi usada por Carla e Captain Jet para mostrar algumas mecânicas de jogo avançadas de CrossWorlds. Você não conseguiu terminar a luta final contra ela porque um certo alguém interrompeu..."
           }
         }
       }
@@ -24097,7 +24098,7 @@
         "0": {
           "text": {
             "": "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nIt is advised to only face them with the support of \\c[3]heavy artillery\\c[0].",
-            "en_US": "Torres fortemente modificadas feitas na \\c[3]\\v[area.rhombus-sqr.name]\\c[0] e destinadas a atividades ilegais em \\v[lore.title.planet]. Elas são equipadas com \\c[3]dispositivos flutuantes\\c[0] para atravessar o oceano por conta própria e podem até ter seu próprio \\c[3]sistema de proteção\\c[0].\nÉ aconselhável enfrentá-los apenas com o apoio da \\c[3]artilharia pesada\\c[0]."
+            "en_US": "Torres modificadas feitas na \\c[3]\\v[area.rhombus-sqr.name]\\c[0] e destinadas a atividades ilegais em \\v[lore.title.planet]. Elas são equipadas com \\c[3]dispositivos flutuantes\\c[0] para atravessar o oceano por conta própria e podem até ter seu próprio \\c[3]sistema de proteção\\c[0].\nÉ aconselhável enfrentá-las apenas com o apoio da \\c[3]artilharia pesada\\c[0]."
           }
         }
       }
@@ -24115,7 +24116,7 @@
         "0": {
           "text": {
             "": "Bombs made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\nThough they can not attack, they will \\c[3]detonate themselves at close range\\c[0] with such a force that they might even be a danger to heavily armored military hardware.",
-            "en_US": "Bombas fabricadas na \\c[3]\\v[area.rhombus-sqr.name]\\c[0] e destinadas a atividades ilegais em \\v[lore.title.planet]. Elas são equipadas com \\c[3]dispositivos flutuantes\\c[0] para atravessar o oceano por conta própria e podem até ter seu próprio \\c[3]sistema de proteção\\c[0].\nEmbora não possam atacar, eles \\c[3]se detonarão a curta distância\\c[0] com uma força tal que podem até ser um perigo para o equipamento militar fortemente blindado. "
+            "en_US": "Bombas fabricadas na \\c[3]\\v[area.rhombus-sqr.name]\\c[0] e destinadas a atividades ilegais em \\v[lore.title.planet]. Elas são equipadas com \\c[3]dispositivos flutuantes\\c[0] para atravessar o oceano por conta própria e podem até ter seu próprio \\c[3]sistema de proteção\\c[0].\nEmbora não possam atacar, elas \\c[3]se detonarão a curta distância\\c[0] com uma força tal que podem até ser um perigo para um equipamento militar fortemente blindado. "
           }
         }
       }
@@ -24151,7 +24152,7 @@
         "0": {
           "text": {
             "": "The central coordinator of the heavily modified turrets that were made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. It too is equipped with \\c[3]floating devices\\c[0] to cross the ocean on its own and has a highly advanced \\c[3]shielding system\\c[0].\nWhile \\c[3]heavy artillery\\c[0] will be able to \\c[3]break its normal shield\\c[0], the \\c[3]focussed frontal shield is basically impenetrable\\c[0] and must somehow be bypassed.\nIn addition to a \\c[3]powerful cannon\\c[0], this malicious machine of war is also equipped with an advanced launcher of \\c[3]ship-to-ship missiles\\c[0]. \\c[3]Shooting them down to protect your vessel\\c[0] should be the top-priority!",
-            "en_US": "A coordenadora central das torres modificadas que foram feitas na \\c[3]\\v[area.rhombus-sqr.name]\\c[0] e destinadas a atividades ilegais em \\v[lore.title.planet]. Ela também está equipada com \\c[3]dispositivos flutuantes\\c[0] para atravessar o oceano por conta própria possui um \\c[3]sistema de blindagem\\c[0] altamente avançado.\nEnquanto a \\c[3]artilharia pesada\\c[0] será capaz de quebrar seu escudo normal, o \\c[3]escudo frontal focalizado é basicamente impenetrável\\c[0] e deve ser contornado de alguma forma.\nAlém de possuir um \\c[3]canhão potente\\c[0], esta máquina de guerra maliciosa também está equipada com um avançado lançador de \\c[3]mísseis anti-navio\\c[0]. \\c[3]Você deve destruí-los para proteger sua embarcação\\c[0]!"
+            "en_US": "A coordenadora central das torres modificadas, criadas na \\c[3]\\v[area.rhombus-sqr.name]\\c[0] e destinadas a atividades ilegais em \\v[lore.title.planet]. Ela também está equipada com \\c[3]dispositivos flutuantes\\c[0] para atravessar o oceano sozinha e possui um \\c[3]sistema de blindagem\\c[0] altamente avançado.\nEnquanto a \\c[3]artilharia pesada\\c[0] pode quebrar seu escudo normal, o \\c[3]escudo frontal focalizado é praticamente impenetrável\\c[0] e deve ser contornado de alguma maneira. Além do \\c[3]canhão potente\\c[0], essa máquina de guerra maliciosa também está equipada com um avançado lançador de \\c[3]mísseis anti-navio\\c[0]. \\c[3]Você precisa destruí-los para proteger sua embarcação\\c[0]!"
           }
         }
       }
@@ -24186,7 +24187,7 @@
         "0": {
           "text": {
             "": "It's an ostrich. It's carrying things. However the track made sure that it won't be carrying any more ore for the humans, only pain for those who want to beat the temple or disrupt it. It charges similarly to the bovines of \\c[3]\\v[area.autumn-area.name]\\c[0] but instead of ramming against the wall it gets stunned by attacking it before hitting a wall.",
-            "en_US": "É uma avestruz. Ela transporta coisas. No entanto, a trlha fez com que, ao invés de minério, ela só trouxesse dor para aqueles que querem explorar o templo ou perturbá-lo. Ela ataca de forma semelhante aos bovinos do \\c[3]\\v[area.autumn-area.name]\\c[0] mas em vez de bater contra a parede, ela fica atordoada ao atacá-la antes de bater na parede."
+            "en_US": "É uma avestruz que transporta coisas. No entanto, a trlha fez com que, ao invés de minério, ela só trouxesse dor para aqueles que querem explorar o templo ou perturbá-lo. Ela ataca de forma semelhante aos bovinos do \\c[3]\\v[area.autumn-area.name]\\c[0] mas, ela fica atordoada antes de bater na parede."
           }
         }
       }
@@ -24203,7 +24204,7 @@
         "0": {
           "text": {
             "": "A variant of the \\v[combat.name.mine-runbot] that seems to be constantly shaking when active. This is because of the powerful \\c[3]Tremor Core\\c[0] that was implemented.\nUnlike its much colder design brethren, this unique machine attacks with a broader variety of elements and prefers powerful \\c[3]Wave\\c[0] attacks.",
-            "en_US": "Uma variante da \\v[combat.name.mine-runbot] que parece estar tremendo constantemente quando ativa. Isto se deve ao poderoso \\c[3]Núclo do Tremor\\c[0] que foi implementado.\nSemelhante a seus irmãos de design muito mais antigos, esta máquina única ataca com uma variedade maior de elementos e prefere ataques de \\c[3]Onda\\c[0] poderosos."
+            "en_US": "Uma variante da \\v[combat.name.mine-runbot] que parece estar tremendo constantemente quando ativa. Isto se deve ao poderoso \\c[3]Núclo do Tremor\\c[0] que foi implementado.\nSemelhante a suas irmãs de design mais antigas, esta máquina única ataca com uma variedade maior de elementos e prefere ataques de \\c[3]Onda\\c[0] poderosos."
           }
         }
       }
@@ -24220,7 +24221,7 @@
         "0": {
           "text": {
             "": "This bot was used to produce and carry highly explosive bombs into smaller tunnels inside the mine for controlled explosions. Thanks to the track it now uses said bombs against us and also uses a spinning flamethrower that it had built in for... reasons?",
-            "en_US": "Este robô foi usado para produzir e transportar bombas altamente explosivas em túneis menores dentro da mina para explosões controladas. Graças à trilha ele agora usa essas bombas contra nós e também foi equipado com um lança-chamas giratório, por algum motivo..."
+            "en_US": "Este robô foi usado para produzir e transportar bombas altamente explosivas em túneis menores dentro da mina. Graças à trilha ele agora usa essas bombas contra nós e também foi equipado com um lança-chamas giratório, por algum motivo..."
           }
         }
       }
@@ -24237,7 +24238,7 @@
         "0": {
           "text": {
             "": "This forgotten robot was once intended to be used as a mining tool to create new tunnels to gather the precious \\c[3]Sapphire Cobalt\\c[0] from. \nHowever, due to incidents in the \\c[3]\\v[area.bergen.name] Mine\\c[0] the robots were disabled.\nSome of them however still lay dormant inside the tunnels and are highly volatile. Once charged with electricity they will initiate a target seeking self-destruction sequence powerful enough to clear loose boulders.",
-            "en_US": "Este robô esquecido foi destinado a ser usado como uma ferramenta de mineração para criar novos túneis para minerar o precioso \\c[3]Cobalto da Safira\\c[0]. \nNo entanto, devido a incidentes na \\c[3]Mina de \\v[area.bergen.name]\\c[0] os robôs foram desativados.\nAlguns deles ainda estão adormecidos dentro dos túneis e são altamente voláteis. Uma vez carregados com eletricidade, eles iniciarão uma seqüência de autodestruição suficientemente poderosa para limpar as rochas soltas."
+            "en_US": "Este robô esquecido foi destinado a ser usado como uma ferramenta de mineração para criar novos túneis para minerar o precioso \\c[3]Cobalto da Serra\\c[0]. \nNo entanto, devido a incidentes na \\c[3]Mina de \\v[area.bergen.name]\\c[0] os robôs foram desativados.\nAlguns deles ainda estão adormecidos dentro dos túneis e são altamente voláteis. Uma vez carregados com eletricidade, eles iniciarão uma seqüência de autodestruição suficientemente poderosa para limpar as rochas soltas."
           }
         }
       }
@@ -24254,7 +24255,7 @@
         "0": {
           "text": {
             "": "When bombs are too powerful this bot comes around and uses its wheel to dig deep. The track however makes it use its systems to hurl ice blocks at you, dash at you or shake the whole mine to let rocks fall on you. That's a lot of \"you\"s so be careful!",
-            "en_US": "Quando as bombas são muito potentes, este robô virá e escavará a terra. A trilha, no entanto, faz com que ele use seus sistemas para atirar blocos de gelo em você, investir contra você ou sacudir toda a mina para deixar pedras cair sobre você. Isso é um monte de \"você\", então tenha cuidado!"
+            "en_US": "Este é um robô escavador. A trilha, porém, ativa seus sistemas, fazendo com que ele atire blocos de gelo em você, ataque você com investidas ou balance a mina, derrubando pedras em você. Isso é um monte de \"você\", então tenha cuidado!"
           }
         }
       }
@@ -24290,7 +24291,7 @@
         "0": {
           "text": {
             "": "An advanced version of the \\c[3]\\v[combat.name.mine-diggingbot]\\c[0] that fell victim to corruption by the resident \\c[3]\\v[combat.name.cold/mine-coldbug-quest]s\\c[0]. Aside from the usual mining capabilities of the older model it can also use many \\c[3]heat-based\\c[0] abilities once it reaches a high-enough \\c[3]core-temperature\\c[0].",
-            "en_US": "Uma versão avançada do \\c[3]\\v[combat.name.mine-diggingbot]\\c[0] que foi vítima de corrupção por parte dos \\c[3]\\v[combat.name.cold/mine-coldbug-quest]s\\c[0]. Além das capacidades usuais de mineração do modelo mais antigo, ele também pode usar muitas habilidades \\c[3]baseadas no fogo\\c[0], uma vez que ele atinja uma \\c[3]alta temperatura\\c[0]."
+            "en_US": "Uma versão avançada do \\c[3]\\v[combat.name.mine-diggingbot]\\c[0] que foi vítima de corrupção por parte dos \\c[3]Fleazers Experientes\\c[0]. Além das capacidades usuais de mineração do modelo mais antigo, ele também pode usar muitas habilidades \\c[3]baseadas no fogo\\c[0], uma vez que ele atinja uma \\c[3]alta temperatura\\c[0]."
           }
         }
       }
@@ -24308,7 +24309,7 @@
         "0": {
           "text": {
             "": "This enormous mine robot was infected too and is the final test for the \\c[3]\\v[area.cold-dng.name]\\c[0]. Originally its purpose was to drill deep into the ground using its right arm to crack the stone. To avoid the cold in the deeper sections it could also use a flamethrower to battle the freezing temperatures and bombs to destroy even the thickest of rocks.\nHow it even got in here you ask? Don't be silly, every good miner knows not to share their secrets.",
-            "en_US": "Este enorme robô também foi infectado e é o desafio final da \\c[3]\\v[area.cold-dng.name]\\c[0]. Originalmente seu propósito era perfurar profundamente o solo usando seu braço direito para esmagar pedras. Para evitar o frio nas seções mais profundas, também podia usar um lança-chamas para combater as temperaturas geladas e bombas para destruir até mesmo as rochas mais espessas.\nComo chegou até aqui você pergunta? Não seja bobo, todo bom mineiro sabe que não deve compartilhar seus segredos."
+            "en_US": "Este enorme robô também foi infectado e é o desafio final da \\c[3]\\v[area.cold-dng.name]\\c[0]. Originalmente, seu propósito era perfurar profundamente o solo, esmagando pedras com seu braço direito. Para lidar com o frio nas camadas mais profundas, ele usava um lança-chamas contra as baixas temperaturas e bombas para destruir as rochas mais espessas. Como ele chegou até aqui, você pergunta? Não seja bobo, todo bom mineiro sabe que não se deve compartilhar segredos."
           }
         }
       }
@@ -24326,7 +24327,7 @@
         "0": {
           "text": {
             "": "An improved variant of the popular \\c[3]Rhombus Turret\\c[0], used by the law-enforcement of \\c[3]\\v[area.heat-village.name]\\c[0]. It can fire \\c[3]mortars\\c[0] to attack targets behind cover or on different height layers and is often used in conjunction with a \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0] that supplies it with a \\c[3]shield\\c[0].",
-            "en_US": "Uma variante melhorada do popular \\c[3]Torre Losango\\c[0], usada pela guarda de \\c[3]\\v[area.heat-village.name]\\c[0]. Pode disparar \\c[3]morteiros\\c[0] para atacar alvos atrás de cobertura ou em níveis de alturas variadas e é freqüentemente usada em conjunto com um \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0] que a protege com um \\c[3]escudo\\c[0]."
+            "en_US": "Uma variante melhorada da popular \\c[3]Torre Losango\\c[0], usada pela guarda de \\c[3]\\v[area.heat-village.name]\\c[0]. Pode disparar \\c[3]morteiros\\c[0] para atacar alvos atrás de cobertura ou em níveis de alturas variadas e é frequentemente usada em conjunto com um \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0] que a protege com um \\c[3]escudo\\c[0]."
           }
         }
       }
@@ -24344,7 +24345,7 @@
         "0": {
           "text": {
             "": "An improved variant of the more basic \\c[3]\\v[combat.name.default]\\c[0], used by the law-enforcement of \\c[3]\\v[area.heat-village.name]\\c[0]. It is usually accompanied by a squad of \\c[3]\\v[combat.name.heat/special/baki-turret_1]\\c[0] that it will shield while acting defensively. When forced to alone it will switch into a more aggressive mode.",
-            "en_US": "Uma variante melhorada do \\c[3]\\v[combat.name.default]\\c[0], usado pela guarda de \\c[3]\\v[area.heat-village.name]\\c[0]. É normalmente acompanhado por um esquadrão de \\c[3]\\v[combat.name.heat/special/baki-turret_1]\\c[0], que protegerá enquanto age defensivamente. Quando forçado a agir sozinho, ele muda para um modo mais agressivo."
+            "en_US": "Uma variante melhorada do \\c[3]\\v[combat.name.default]\\c[0], usado pela guarda de \\c[3]\\v[area.heat-village.name]\\c[0]. É normalmente acompanhado por um esquadrão de \\c[3]Torres Legionárias\\c[0], que o protegerá enquanto age defensivamente. Quando forçado a agir sozinho, ele muda para um modo mais agressivo."
           }
         }
       }
@@ -24362,7 +24363,7 @@
         "0": {
           "text": {
             "": "An improved variant of the popular \\c[3]Rhombus Turret\\c[0], used by the law-enforcement of \\c[3]\\v[area.heat-village.name]\\c[0]. This type does not have an accompanying \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0] for additional shielding but can still fire \\c[3]mortars\\c[0] at targets behind cover or on different height layers.",
-            "en_US": "Uma variante melhorada do popular \\c[3]Torre Losango\\c[0], usada pela guarda de \\c[3]\\v[area.heat-village.name]\\c[0]. Este tipo não a proteção adicional da \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0], mas ainda pode disparar \\c[3]morteiros\\c[0] em alvos atrás de cobertura ou em níveis de alturas variadas."
+            "en_US": "Uma variante melhorada da popular \\c[3]Torre Losango\\c[0], usada pela guarda de \\c[3]\\v[area.heat-village.name]\\c[0]. Este tipo não tem a proteção adicional da \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0], mas ainda pode disparar \\c[3]morteiros\\c[0] em alvos atrás de cobertura ou em níveis de alturas variadas."
           }
         }
       }
@@ -24396,7 +24397,7 @@
         "0": {
           "text": {
             "": "Brought to life by fire and only the best of spirits, this golem burns even hotter than its more common brethren, the \\v[combat.name.heat/heat-golem]. It is born from a highly-powered distillery and could not long survive without being fueled by the energy of traditional Ancient beverage.\nJust like the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] it receives a shield from the Distillery that spawned it. Some mechanism must be activated to make it vulnerable again.",
-            "en_US": "Trazido à vida pelo fogo e pelos melhores dos espíritos, este golem arde ainda mais quente que seu irmão, o \\v[combat.name.heat/heat-golem]. Ele nasce de uma destilaria de alta potência e não poderia sobreviver por muito tempo sem ser alimentado pela energia da bebida tradicional dos Antigos.\nAssim como a \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] ele recebe um escudo da Destilaria que o criou. Algum mecanismo deve ser ativado para torná-lo novamente vulnerável."
+            "en_US": "Trazido à vida pelo fogo e pelos melhores dos espíritos, este golem arde ainda mais que seu irmão, o \\v[combat.name.heat/heat-golem]. Ele nasce de uma destilaria de alta potência e não poderia sobreviver por muito tempo sem ser alimentado pela energia da bebida tradicional dos Antigos.\nAssim como a \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] ele recebe um escudo da Destilaria que o criou. Algum mecanismo deve ser ativado para torná-lo novamente vulnerável."
           }
         }
       }
@@ -24432,7 +24433,7 @@
         "0": {
           "text": {
             "": "This pillar is used as the main foe to fight during the \\c[3]\\v[area.autumn-fall.name] Raid\\c[0]. Attacking it directly is not possible, instead the smaller \\v[combat.name.autumn-fall/raid-pillar-small]s have to be attacked to reduce its HP. \nHowever the more HP it loses the more fierce it will become by using the element it was damaged with to conjure strong elemental attacks. These are only telegraphed by symbols on the ground.",
-            "en_US": "Este pilar é usado como o principal inimigo para lutar durante a \\c[3]Raid no \\v[area.autumn-fall.name]\\c[0]. Atacar diretamente não é possível, ao invés disso, os pequenos [\\v[combat.name.autumn-fall/raid-pillar-small]s têm que ser atacados para reduzir seu PV. \nPorém, quanto mais PV perder, mais feroz se tornará ao usar o elemento com o qual foi danificado para conjurar fortes ataques elementais. Estes são ilustrados por símbolos no chão."
+            "en_US": "Este pilar é usado como o principal inimigo para lutar durante a \\c[3]Raid no \\v[area.autumn-fall.name]\\c[0]. Atacar diretamente não é possível, ao invés disso, os Pilares bebês têm que ser atacados para reduzir seu HP. \nÀ medida que perde HP, ele se torna mais feroz, usando o elemento que o feriu para lançar poderosos ataques elementais, visíveis por símbolos no chão."
           }
         }
       }
@@ -24449,7 +24450,7 @@
         "0": {
           "text": {
             "": "Ancient texts describe this bi-pedal robot as one of the first creatures created for the track itself. It strongly resembles a chicken and the fact that the Ancients resemble birds too begs the question: Is this what the ancestors of the Ancients looked like? Or is this just too meta?\nAnyway, make sure to use wave teleporters to escape their lightning fast shock attack. This leaves them mighty confused and open for some pummeling.",
-            "en_US": "Textos antigos descrevem este robô bípede como uma das primeiras criaturas criadas pela própria trilha. Ele se parece muito com uma galinha e o fato de os Antigos também se assemelharem a pássaros levanta a questão: Era assim que os ancestrais dos Antigos se pareciam? Ou isto é apenas meta?\nEm todo caso, certifique-se de usar teletransportadores de ondas para escapar de seu ataque de choque rápido. Isto os deixa muito confusos e abertos para alguns ataques de choque."
+            "en_US": "Textos antigos descrevem este robô bípede como uma das primeiras criaturas criadas pela própria trilha. Ele se parece muito com uma galinha e o fato de os Antigos também se assemelharem a pássaros levanta a questão: Era assim que os ancestrais dos Antigos se pareciam? Ou isso é exagero demais?\nEm todo caso, use os teleportadores de ondas para escapar de seu ataque de choque rápido. Isto os deixa muito confusos e abertos para alguns ataques de choque."
           }
         }
       }
@@ -24501,7 +24502,7 @@
         "0": {
           "text": {
             "": "A heat-based variant of the Security Brute. In patrol mode it will act much like the other ones, only notifying the laser tower and all other brutes when a trespasser has been found.\nWhen fighting against it, it will attack with heat-based punch attacks or buff other brutes attack power.",
-            "en_US": "Uma variante de fogo do Segurança Bruto. Em modo de patrulha, ela agirá como os outros, apenas notificando a torre de laser e todos os outros brutos quando um invasor for encontrado.\nEm combate, ele ataca com socos de fogo ou amplia o poder de ataque dos outros brutamontes."
+            "en_US": "Uma variante de fogo do Segurança Bruto. Em modo de patrulha, ela agirá como os outros, apenas notificando a torre de laser e todos os outros brutos quando um invasor for encontrado.\nEm combate, ele ataca com socos de fogo ou amplia o poder de ataque dos outros brutos."
           }
         }
       }
@@ -24519,7 +24520,7 @@
         "0": {
           "text": {
             "": "A cold-based variant of the Security Brute. In patrol mode it will act much like the other ones, only notifying the laser tower and all other brutes when a trespasser has been found.\nWhen fighting against it, it will attack with cold-based punch attacks or shield other brutes.",
-            "en_US": "Uma variante de gelo do Segurança Bruto. Em modo de patrulha, ela agirá como os outros, apenas notificando a torre de laser e todos os outros brutos quando um invasor for encontrado.\nEm combate, ele ataca com socos de gelo ou fornece escudo ao outros brutamontes."
+            "en_US": "Uma variante de gelo do Segurança Bruto. Em modo de patrulha, ela agirá como os outros, apenas notificando a torre de laser e todos os outros brutos quando um invasor for encontrado.\nEm combate, ele ataca com socos de gelo ou fornece escudo ao outros brutos."
           }
         }
       }
@@ -24537,7 +24538,7 @@
         "0": {
           "text": {
             "": "A shock-based variant of the Security Brute. In patrol mode it will act much like the other ones, only notifying the laser tower and all other brutes when a trespasser has been found.\nWhen fighting against it, it will attack with shock-based punch attacks or buff other brutes movement speed.",
-            "en_US": "Uma variante de choque do Segurança Bruto. Em modo de patrulha, ela agirá como os outros, apenas notificando a torre de laser e todos os outros brutos quando um invasor for encontrado.\nEm combate, ele ataca com socos de choque ou amplia a velocidade de outros brutamontes."
+            "en_US": "Uma variante de choque do Segurança Bruto. Em modo de patrulha, ela agirá como os outros, apenas notificando a torre de laser e todos os outros brutos quando um invasor for encontrado.\nEm combate, ele ataca com socos de choque ou amplia a velocidade de outros brutos."
           }
         }
       }
@@ -24555,7 +24556,7 @@
         "0": {
           "text": {
             "": "A wave-based variant of the Security Brute. In patrol mode it will act much like the other ones, only notifying the laser tower and all other brutes when a trespasser has been found.\nWhen fighting against it, it will attack with wave-based punch attacks or heal other brutes.",
-            "en_US": "Uma variante de onda do Segurança Bruto. Em modo de patrulha, ela agirá como os outros, apenas notificando a torre de laser e todos os outros brutos quando um invasor for encontrado.\nEm combate, ele ataca com socos de onda ou cura outros brutamontes."
+            "en_US": "Uma variante de onda do Segurança Bruto. Em modo de patrulha, ela agirá como os outros, apenas notificando a torre de laser e todos os outros brutos quando um invasor for encontrado.\nEm combate, ele ataca com socos de onda ou cura outros brutos."
           }
         }
       }
@@ -24573,7 +24574,7 @@
         "0": {
           "text": {
             "": "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks.",
-            "en_US": "Esta estrutura de pedra viva é na verdade parte de uma mente colmeia maior capaz de empilhar diferentes versões uma da outra para formar um super-organismo. Para piorar as coisas, colunas que estão próximas umas das outras podem formar um elo forte que pode impulsionar seus ataques defensivos."
+            "en_US": "Essa estrutura viva de pedra é, na verdade, parte de uma inteligência coletiva capaz de empilhar várias versões de cada uma delas para formar um superorganismo. Para piorar a situação, os pilares do mesmo elemento podem formar um vínculo poderoso que fortalecerá seus ataques defensivos."
           }
         }
       }
@@ -24591,7 +24592,7 @@
         "0": {
           "text": {
             "": "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks.",
-            "en_US": "Esta estrutura de pedra viva é na verdade parte de uma mente colmeia maior capaz de empilhar diferentes versões uma da outra para formar um super-organismo. Para piorar as coisas, colunas que estão próximas umas das outras podem formar um elo forte que pode impulsionar seus ataques defensivos."
+            "en_US": "Essa estrutura viva de pedra é, na verdade, parte de uma inteligência coletiva capaz de empilhar várias versões de cada uma delas para formar um superorganismo. Para piorar a situação, os pilares do mesmo elemento podem formar um vínculo poderoso que fortalecerá seus ataques defensivos."
           }
         }
       }
@@ -24609,7 +24610,7 @@
         "0": {
           "text": {
             "": "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks.",
-            "en_US": "Esta estrutura de pedra viva é na verdade parte de uma mente colmeia maior capaz de empilhar diferentes versões uma da outra para formar um super-organismo. Para piorar as coisas, colunas que estão próximas umas das outras podem formar um elo forte que pode impulsionar seus ataques defensivos."
+            "en_US": "Essa estrutura viva de pedra é, na verdade, parte de uma inteligência coletiva capaz de empilhar várias versões de cada uma delas para formar um superorganismo. Para piorar a situação, os pilares do mesmo elemento podem formar um vínculo poderoso que fortalecerá seus ataques defensivos."
           }
         }
       }
@@ -24627,7 +24628,7 @@
         "0": {
           "text": {
             "": "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks.",
-            "en_US": "Esta estrutura de pedra viva é na verdade parte de uma mente colmeia maior capaz de empilhar diferentes versões uma da outra para formar um super-organismo. Para piorar as coisas, colunas que estão próximas umas das outras podem formar um elo forte que pode impulsionar seus ataques defensivos."
+            "en_US": "Essa estrutura viva de pedra é, na verdade, parte de uma inteligência coletiva capaz de empilhar várias versões de cada uma delas para formar um superorganismo. Para piorar a situação, os pilares do mesmo elemento podem formar um vínculo poderoso que fortalecerá seus ataques defensivos."
           }
         }
       }
@@ -24645,7 +24646,7 @@
         "0": {
           "text": {
             "": "This animated statue can assume all the elements the \\c[3]\\v[lore.title.track-of-ancients]\\c[0] provides. Each elemental mode provides it with unique modifiers to its normal attacks. Don't get fooled by its slow movement speed as it can quickly close the gap with a quick jump.",
-            "en_US": "Esta estátua animada pode assumir todos os elementos que a \\c[3]\\v[lore.title.track-of-ancients]\\c[0] fornece. Cada modo elementar dá a ela modificadores únicos para seus ataques normais. Não se deixe enganar por sua velocidade de movimento lento, pois ela pode cobrir a distância com um salto rápido."
+            "en_US": "Esta estátua viva pode usar todos os elementos que a \\c[3]\\v[lore.title.track-of-ancients]\\c[0] fornece. Cada modo elemento dá a ela modificadores únicos para seus ataques normais. Não se deixe enganar por sua velocidade de movimento lento, pois ela pode cobrir a distância com um salto rápido."
           }
         }
       }
@@ -24663,7 +24664,7 @@
         "0": {
           "text": {
             "": "Designed by Gautham, these elemental turrets serve as the final test on each element in the \\c[3]\\v[area.arid-dng-2.name]\\c[0]. They can't move but will use various projectiles to keep their foes at bay. ",
-            "en_US": "Projetadas por Gautham, estas torres elementais servem como teste final para cada elemento da \\c[3]\\v[area.arid-dng-2.name]\\c[0]. Elas não podem se mover mas usarão vários projéteis para manter seus inimigos à distância."
+            "en_US": "Projetadas por Gautham, estas torres elementais servem como teste final da \\c[3]\\v[area.arid-dng-2.name]\\c[0]. Elas não podem se mover mas usam vários projéteis para manter seus inimigos à distância."
           }
         }
       }
@@ -36555,23 +36556,23 @@
       },
       "description": {
         "": "A troupe of Hillkats has been spotted in the parks of Rhombus Square, digging up the precious soil. Help Captain Curtis to catch them!",
-        "en_US": "Uma trupe de Suricavas foi vista nos parques da Praça Losango, escavando o precioso solo. Ajude o Capitão Curtis a capturá-los!"
+        "en_US": "Uma trupe de Suricatos foi vista nos parques da Praça Losango, escavando o precioso solo. Ajude o Capitão Curtis a capturá-los!"
       },
       "briefing": {
         "": "All of the Hillkats and their dirt-filled vehicles have been dealt with!\\. Hopefully the parks of Rhombus Square are now safe.",
-        "en_US": "Todas os Suricavas e seus veículos cheios de terra foram eliminados!\\. Tomara que os parques da Praça Losango estejam seguros agora."
+        "en_US": "Todas os Suricatos e seus veículos cheios de terra foram eliminados!\\. Tomara que os parques da Praça Losango estejam seguros agora."
       },
       "tasks": {
         "0": {
           "task": {
             "": "Watch for meerkats to appear in \\c[3]Rhombus Square - North Arch\\c[0]",
-            "en_US": "Veja a apareção dos suricavas em \\c[3]Praça Losango - Arco Norte\\c[0]"
+            "en_US": "Veja a apareção dos Suricatos em \\c[3]Praça Losango - Arco Norte\\c[0]"
           }
         },
         "1": {
           "task": {
             "": "Fight the Meerkats in the grass patch of \\c[3]Rhombus Square - North Arch\\c[0]",
-            "en_US": "Lute contra os Suricavas no gramado de \\c[3]Praça Losango - Arco Norte\\c[0]"
+            "en_US": "Lute contra os Suricatos no gramado de \\c[3]Praça Losango - Arco Norte\\c[0]"
           }
         },
         "2": {
@@ -36583,7 +36584,7 @@
         "3": {
           "task": {
             "": "Fight the Meerkats on the Highway",
-            "en_US": "Lute contra os Suricavas na estrada"
+            "en_US": "Lute contra os Suricatos na estrada"
           }
         },
         "4": {
@@ -36940,7 +36941,7 @@
       },
       "briefing": {
         "": "You found the data, brought it back and whooped some naughty Hillkats as a bonus.",
-        "en_US": "Você encontrou os dados, trouxe de volta e eliminou alguns Suricavas perversos como um bônus."
+        "en_US": "Você encontrou os dados, trouxe de volta e eliminou alguns Suricatos perversos como um bônus."
       },
       "tasks": {
         "0": {
@@ -36973,7 +36974,7 @@
       "hubSettings": {
         "location": {
           "": "A surprisingly organized band of dangerous Hillkats requires a beating. \\c[3]- Falldivers HQ\\c[0]",
-          "en_US": "Um grupo organizado de Suricavas perigosas precisa de uma surra. \\c[3]- QG Mergulhadores\\c[0]"
+          "en_US": "Um grupo organizado de Suricatos perigosas precisa de uma surra. \\c[3]- QG Mergulhadores\\c[0]"
         }
       },
       "name": {
@@ -36986,11 +36987,11 @@
       },
       "description": {
         "": "The \\c[3]data storage\\c[0] and reports from Tucos talk of an organized group of Hillkats. Meet up with him to confront the threat.",
-        "en_US": "Os \\c[3]dados armanezados\\c[0] e relatórios de Tucos falam de um grupo organizado de Suricavas. Encontre-se com ele para enfrentar a ameaça."
+        "en_US": "Os \\c[3]dados armanezados\\c[0] e relatórios de Tucos falam de um grupo organizado de Suricatos. Encontre-se com ele para enfrentar a ameaça."
       },
       "briefing": {
         "": "You defeated the leader of the dangerous Hillkat group and also discovered a mysterious item for the Falldivers to examine.",
-        "en_US": "Você derrotou o líder do perigoso grupo dos Suricavas e também descobriu um item misterioso para os Mergulhadores examinarem."
+        "en_US": "Você derrotou o líder do perigoso grupo dos Suricatos e também descobriu um item misterioso para os Mergulhadores examinarem."
       },
       "tasks": {
         "0": {
@@ -37054,11 +37055,11 @@
       },
       "description": {
         "": "The \\c[3]device you took from the Hillkats\\c[0] has been used to create a probe that can extract energy and information directly from the Track. And you are chosen to assist!",
-        "en_US": "O \\c[3]dispositivo que você tirou dos Suricavas\\c[0] foi usado para criar uma sonda que pode extrair energia e informações diretamente da Trilha. E você foi escolhida para ajudar!"
+        "en_US": "O \\c[3]dispositivo que você tirou dos Suricatos\\c[0] foi usado para criar uma sonda que pode extrair energia e informações diretamente da Trilha. E você foi escolhida para ajudar!"
       },
       "briefing": {
         "": "You used the probe to extract data from the Track and also defeated another band of Hillkats. Good job!",
-        "en_US": "Você usou a sonda para extrair dados da Trilha e também derrotou outro grupo de Suricavas. Bom trabalho!"
+        "en_US": "Você usou a sonda para extrair dados da Trilha e também derrotou outro grupo de Suricatos. Bom trabalho!"
       },
       "tasks": {
         "0": {
