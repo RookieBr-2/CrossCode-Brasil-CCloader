@@ -25804,7 +25804,7 @@
         "page-04": {
           "content": {
             "": "Following the hints, Lea met up with a \\c[3]Vagabond\\c[0] south of the Cave Inn and received \\c[3]4 Trials\\c[0] to test her worth. After solving these, she met with the Vagabond to get tested in single-combat. A honorable victory later she was able to move forward and obtain the \\c[3]last shade\\c[0], also reuniting with her friends, Emilie, C'tron, Apollo and Joern. Together they accepted the \\c[3]Meteor Shade\\c[0] and agreed to visit \\c[3]\\v[area.rhombus-sqr.name]\\c[0] together.",
-            "en_US": "Seguindo as dicas, Lea encontrou um \\c[3]Vagabundo\\c[0] ao sul da Pousada da Caverna e enfrentou \\c[3]4 Testes\\c[0] para provar seu valor. Após completá-los, ela duelou com o Vagabundo e, ao vencer, conseguiu o \\c[3]último fragmento\\c[0]. Em seguida, reuniu-se com Emilie, C'tron, Apollo e Joern, que, ao receberem o \\c[3]Fragmento do Meteoro\\c[0], decidiram visitar a \\c[3]\\v[area.rhombus-sqr.name]\\c[0] juntos."
+            "en_US": "Seguindo as dicas, Lea encontrou um \\c[3]Andarilho\\c[0] ao sul da Pousada da Caverna e enfrentou \\c[3]4 Testes\\c[0] para provar seu valor. Após completá-los, ela duelou com o Andarilho e, ao vencer, conseguiu o \\c[3]último fragmento\\c[0]. Em seguida, reuniu-se com Emilie, C'tron, Apollo e Joern, que, ao receberem o \\c[3]Fragmento do Meteoro\\c[0], decidiram visitar a \\c[3]\\v[area.rhombus-sqr.name]\\c[0] juntos."
           }
         },
         "page-05": {
@@ -33765,15 +33765,15 @@
       },
       "person": {
         "": "Vagabond",
-        "en_US": "Vagabundo"
+        "en_US": "Andarilho"
       },
       "description": {
         "": "A strange vagabond knows how to gain access to the final shade. However, you first need to pass a series of trials to show that you are \"worthy\".",
-        "en_US": "Um estranho vagabundo sabe como ter acesso ao último fragmento. No entanto, primeiro você precisa passar por uma série de testes para mostrar que é \"digna\"."
+        "en_US": "Um estranho andarilho sabe como obter o último fragmento. No entanto, primeiro você precisa passar por uma série de testes para mostrar que é \"digna\"."
       },
       "briefing": {
         "": "You've overcome all trials put in front of you and bested even the Vagabond himself who turned out to be the final trial. As a reward you received the \\c[3]Meteor Shade\\c[0]!",
-        "en_US": "Você superou todos os testes e venceu até mesmo o próprio Vagabundo que acabou se revelando o teste final. Como recompensa, você recebeu o \\c[3]Fragmento do Meteoro\\c[0]!"
+        "en_US": "Você superou todos os testes e venceu até mesmo o próprio Andarilho que acabou se revelando o teste final. Como recompensa, você recebeu o \\c[3]Fragmento do Meteoro\\c[0]!"
       },
       "tasks": {
         "0": {
@@ -33811,7 +33811,7 @@
         "1": {
           "task": {
             "": "Report back to the Vagabond in \\c[3]Tranquil Bamboo\\c[0]",
-            "en_US": "Fale com o Vagabundo no \\c[3]Bambu Tranquilo\\c[0]"
+            "en_US": "Fale com o Andarilho no \\c[3]Bambu Tranquilo\\c[0]"
           }
         },
         "2": {
@@ -33829,7 +33829,7 @@
         "4": {
           "task": {
             "": "Talk to the Vagabond and face the guardian in the \\c[3]Old Dojo\\c[0]",
-            "en_US": "Fale com o Vagabundo e enfrente o guardião no \\c[3]Dojo Antigo\\c[0]"
+            "en_US": "Fale com o Andarilho e enfrente o guardião no \\c[3]Dojo Antigo\\c[0]"
           }
         },
         "5": {
@@ -33847,7 +33847,7 @@
       },
       "person": {
         "": "Vagabond",
-        "en_US": "Vagabundo"
+        "en_US": "Andarilho"
       },
       "description": {
         "": "Finish the \\c[3]Trial of Vigor\\c[0] found in the \\c[3]Nesting Grounds\\c[0] of \\c[3]\\v[area.forest.name]\\c[0].",
@@ -33873,7 +33873,7 @@
       },
       "person": {
         "": "Vagabond",
-        "en_US": "Vagabundo"
+        "en_US": "Andarilho"
       },
       "description": {
         "": "Finish the \\c[3]Trial of Patience\\c[0] found in the \\c[3]Flower Lake\\c[0] of \\c[3]\\v[area.forest.name]\\c[0].",
@@ -33899,7 +33899,7 @@
       },
       "person": {
         "": "Vagabond",
-        "en_US": "Vagabundo"
+        "en_US": "Andarilho"
       },
       "description": {
         "": "Finish the \\c[3]Trial of Agility\\c[0] found in the \\c[3]Carved Pathway\\c[0] of \\c[3]\\v[area.forest.name]\\c[0].",
@@ -33925,7 +33925,7 @@
       },
       "person": {
         "": "Vagabond",
-        "en_US": "Vagabundo"
+        "en_US": "Andarilho"
       },
       "description": {
         "": "Complete the \\c[3]Trial of Insight\\c[0] found in the \\c[3]Bamboo Thicket\\c[0] of \\c[3]\\v[area.forest.name]\\c[0].",
