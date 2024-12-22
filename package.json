@@ -2,5 +2,8 @@
     "name": "crosscode-brasil",
     "ccmodHumanName": "CrossCode-Brasil",
     "version": "1.0.0",
-    "prestart": "prestart.js"
+    "prestart": "prestart.js",
+    "scripts": {
+      "make-ccmod": "zip -qr CrossCode-Brasil.ccmod ccmod.json package.json prestart.js js assets icon.png"
+    }
   }

@@ -1,6 +1,6 @@
 {
     "id": "CrossCode-Brasil",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "title": {
         "en_US": "Tradução em PT-BR",
         "de_DE": "Tradução em PT-BR",
@@ -26,5 +26,7 @@
 	"tags": ["language"],
 	"authors": ["RookieBr", "spacetk00", "Sextare", "Bugaboo2000", "M4sterin", "KingTimer12", "douglasjfarias", "BrTraducoes", "2767mr"],
     "prestart": "prestart.js",
-    "dependencies": {}
+    "dependencies": {
+        "ccloader": "2.x.x"
+    }
 }
