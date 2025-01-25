@@ -1456,13 +1456,13 @@
                             "0": {
                               "message": {
                                 "": "What.",
-                                "en_US": "Que."
+                                "en_US": "Que?"
                               }
                             },
                             "1": {
                               "message": {
                                 "": "What is the deal with your \\c[3]stats\\c[0].",
-                                "en_US": "Qual é o problema com seus \\c[3]atributos\\c[0]"
+                                "en_US": "Qual é o problema com seus \\c[3]atributos\\c[0]?"
                               }
                             },
                             "2": {
@@ -1473,7 +1473,7 @@
                             "3": {
                               "message": {
                                 "": "This explains why I waited for so long. You took your time to prepare.",
-                                "en_US": "Isso explica porque eu esperei por tanto tempo. Você demorou para se preparar."
+                                "en_US": "Isso explica porque eu esperei por tanto tempo. Você não teve pressa para se preparar."
                               }
                             },
                             "4": {
